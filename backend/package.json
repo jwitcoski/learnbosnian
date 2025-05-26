@@ -1,0 +1,16 @@
+{
+  "name": "learnbosnian-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Learn Bosnian application",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1000.0"
+  },
+  "devDependencies": {
+    "serverless": "^3.0.0",
+    "serverless-offline": "^12.0.0"
+  }
+} 

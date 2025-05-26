@@ -1,0 +1,50 @@
+service: learnbosnian
+
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: nodejs18.x
+  region: us-east-1
+  stage: ${opt:stage, 'dev'}
+  environment:
+    STAGE: ${self:provider.stage}
+
+functions:
+  hello:
+    handler: backend/handler.hello
+    events:
+      - http:
+          path: hello
+          method: get
+          cors: true
+
+  getLesson:
+    handler: backend/handler.getLesson
+    events:
+      - http:
+          path: lessons/{lessonId}
+          method: get
+          cors: true
+
+resources:
+  Resources:
+    # Add DynamoDB tables, S3 buckets, etc. here as needed
+    LessonsTable:
+      Type: AWS::DynamoDB::Table
+      Properties:
+        TableName: ${self:provider.stage}-lessons
+        AttributeDefinitions:
+          - AttributeName: lessonId
+            AttributeType: S
+        KeySchema:
+          - AttributeName: lessonId
+            KeyType: HASH
+        BillingMode: PAY_PER_REQUEST
+
+plugins:
+  - serverless-offline
+
+custom:
+  serverless-offline:
+    httpPort: 3001 
