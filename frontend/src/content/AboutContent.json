@@ -1,15 +1,15 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Effective, engaging & comprehensive",
+  "text": "Our Bosnian learning platform is designed to make language acquisition natural and enjoyable, combining proven teaching methods with modern technology.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Why interactive lessons?",
+      "content": "Interactive lessons keep you engaged and help you retain vocabulary and grammar through practice and repetition.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Why cultural context?",
+      "content": "Understanding Bosnian culture gives you deeper insight into the language and helps you communicate more naturally.",
       "icon": "notes.svg"
     }
   ]
