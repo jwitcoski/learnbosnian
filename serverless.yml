@@ -42,6 +42,46 @@ resources:
             KeyType: HASH
         BillingMode: PAY_PER_REQUEST
 
+    # S3 bucket for hosting React frontend
+    FrontendBucket:
+      Type: AWS::S3::Bucket
+      Properties:
+        BucketName: learn-bosnian-frontend-${self:provider.stage}
+        WebsiteConfiguration:
+          IndexDocument: index.html
+          ErrorDocument: error.html
+        PublicAccessBlockConfiguration:
+          BlockPublicAcls: false
+          BlockPublicPolicy: false
+          IgnorePublicAcls: false
+          RestrictPublicBuckets: false
+
+    # Bucket policy to allow public read access
+    FrontendBucketPolicy:
+      Type: AWS::S3::BucketPolicy
+      Properties:
+        Bucket: !Ref FrontendBucket
+        PolicyDocument:
+          Statement:
+            - Sid: PublicReadGetObject
+              Effect: Allow
+              Principal: '*'
+              Action: 's3:GetObject'
+              Resource: !Sub '${FrontendBucket}/*'
+
+  Outputs:
+    FrontendBucketName:
+      Description: Name of the S3 bucket for frontend hosting
+      Value: !Ref FrontendBucket
+      Export:
+        Name: ${self:provider.stage}-frontend-bucket-name
+    
+    FrontendBucketWebsiteURL:
+      Description: Website URL of the S3 bucket
+      Value: !GetAtt FrontendBucket.WebsiteURL
+      Export:
+        Name: ${self:provider.stage}-frontend-website-url
+
 plugins:
   - serverless-offline
 
