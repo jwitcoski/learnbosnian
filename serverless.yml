@@ -10,49 +10,8 @@ provider:
   environment:
     STAGE: ${self:provider.stage}
 
-package:
-  patterns:
-    - '!frontend/**'
-    - '!node_modules/**'
-    - '!.git/**'
-    - '!.github/**'
-    - '!*.md'
-    - '!.gitignore'
-    - 'backend/**'
-    - '!backend/node_modules/**'
-
-functions:
-  hello:
-    handler: backend/handler.hello
-    events:
-      - http:
-          path: hello
-          method: get
-          cors: true
-
-  getLesson:
-    handler: backend/handler.getLesson
-    events:
-      - http:
-          path: lessons/{lessonId}
-          method: get
-          cors: true
-
 resources:
   Resources:
-    # Add DynamoDB tables, S3 buckets, etc. here as needed
-    LessonsTable:
-      Type: AWS::DynamoDB::Table
-      Properties:
-        TableName: ${self:provider.stage}-lessons
-        AttributeDefinitions:
-          - AttributeName: lessonId
-            AttributeType: S
-        KeySchema:
-          - AttributeName: lessonId
-            KeyType: HASH
-        BillingMode: PAY_PER_REQUEST
-
     # S3 bucket for hosting React frontend
     FrontendBucket:
       Type: AWS::S3::Bucket
@@ -60,7 +19,7 @@ resources:
         BucketName: learn-bosnian-frontend-${self:provider.stage}
         WebsiteConfiguration:
           IndexDocument: index.html
-          ErrorDocument: error.html
+          ErrorDocument: index.html
         PublicAccessBlockConfiguration:
           BlockPublicAcls: false
           BlockPublicPolicy: false
