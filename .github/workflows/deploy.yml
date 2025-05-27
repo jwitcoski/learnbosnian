@@ -25,6 +25,10 @@ jobs:
         cd backend
         npm install
         
+    - name: Install root dependencies for serverless plugins
+      run: |
+        npm install serverless-offline
+        
     - name: Install frontend dependencies and build
       run: |
         cd frontend
@@ -37,7 +41,6 @@ jobs:
         AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
       run: |
         serverless --version
-        cd backend
         serverless deploy --stage prod
       
     - name: Deploy frontend to S3
