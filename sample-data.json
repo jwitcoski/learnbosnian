@@ -1,0 +1,193 @@
+[
+  {
+    "pk": {"S": "LESSON"},
+    "sk": {"S": "lesson#001"},
+    "gsi1pk": {"S": "LESSON_BY_LEVEL"},
+    "gsi1sk": {"S": "beginner#001"},
+    "type": {"S": "lesson"},
+    "id": {"S": "lesson#001"},
+    "title": {"S": "Basic Greetings"},
+    "level": {"S": "beginner"},
+    "order": {"N": "1"},
+    "content": {"S": "Learn basic Bosnian greetings like 'Zdravo' (Hello) and 'Doviđenja' (Goodbye)"},
+    "vocabulary": {"L": [
+      {"M": {"bosnian": {"S": "Zdravo"}, "english": {"S": "Hello"}}},
+      {"M": {"bosnian": {"S": "Doviđenja"}, "english": {"S": "Goodbye"}}},
+      {"M": {"bosnian": {"S": "Hvala"}, "english": {"S": "Thank you"}}}
+    ]},
+    "createdAt": {"S": "2024-01-15T10:00:00Z"},
+    "updatedAt": {"S": "2024-01-15T10:00:00Z"}
+  },
+  {
+    "pk": {"S": "LESSON"},
+    "sk": {"S": "lesson#002"},
+    "gsi1pk": {"S": "LESSON_BY_LEVEL"},
+    "gsi1sk": {"S": "beginner#002"},
+    "type": {"S": "lesson"},
+    "id": {"S": "lesson#002"},
+    "title": {"S": "Numbers 1-10"},
+    "level": {"S": "beginner"},
+    "order": {"N": "2"},
+    "content": {"S": "Learn numbers from 1 to 10 in Bosnian"},
+    "vocabulary": {"L": [
+      {"M": {"bosnian": {"S": "jedan"}, "english": {"S": "one"}}},
+      {"M": {"bosnian": {"S": "dva"}, "english": {"S": "two"}}},
+      {"M": {"bosnian": {"S": "tri"}, "english": {"S": "three"}}},
+      {"M": {"bosnian": {"S": "četiri"}, "english": {"S": "four"}}},
+      {"M": {"bosnian": {"S": "pet"}, "english": {"S": "five"}}}
+    ]},
+    "createdAt": {"S": "2024-01-15T10:30:00Z"},
+    "updatedAt": {"S": "2024-01-15T10:30:00Z"}
+  },
+  {
+    "pk": {"S": "QUIZ"},
+    "sk": {"S": "quiz#001"},
+    "gsi1pk": {"S": "QUIZ_BY_LESSON"},
+    "gsi1sk": {"S": "lesson#001"},
+    "type": {"S": "quiz"},
+    "id": {"S": "quiz#001"},
+    "lessonId": {"S": "lesson#001"},
+    "title": {"S": "Greetings Quiz"},
+    "questions": {"L": [
+      {"M": {
+        "id": {"S": "q1"},
+        "question": {"S": "What does 'Zdravo' mean in English?"},
+        "options": {"L": [
+          {"S": "Hello"},
+          {"S": "Goodbye"},
+          {"S": "Thank you"},
+          {"S": "Please"}
+        ]},
+        "correctAnswer": {"N": "0"}
+      }},
+      {"M": {
+        "id": {"S": "q2"},
+        "question": {"S": "How do you say 'Thank you' in Bosnian?"},
+        "options": {"L": [
+          {"S": "Zdravo"},
+          {"S": "Doviđenja"},
+          {"S": "Hvala"},
+          {"S": "Molim"}
+        ]},
+        "correctAnswer": {"N": "2"}
+      }}
+    ]},
+    "createdAt": {"S": "2024-01-15T11:00:00Z"},
+    "updatedAt": {"S": "2024-01-15T11:00:00Z"}
+  },
+  {
+    "pk": {"S": "QUIZ"},
+    "sk": {"S": "quiz#002"},
+    "gsi1pk": {"S": "QUIZ_BY_LESSON"},
+    "gsi1sk": {"S": "lesson#002"},
+    "type": {"S": "quiz"},
+    "id": {"S": "quiz#002"},
+    "lessonId": {"S": "lesson#002"},
+    "title": {"S": "Numbers Quiz"},
+    "questions": {"L": [
+      {"M": {
+        "id": {"S": "q1"},
+        "question": {"S": "What is 'three' in Bosnian?"},
+        "options": {"L": [
+          {"S": "dva"},
+          {"S": "tri"},
+          {"S": "četiri"},
+          {"S": "pet"}
+        ]},
+        "correctAnswer": {"N": "1"}
+      }}
+    ]},
+    "createdAt": {"S": "2024-01-15T11:30:00Z"},
+    "updatedAt": {"S": "2024-01-15T11:30:00Z"}
+  },
+  {
+    "pk": {"S": "USER#user123"},
+    "sk": {"S": "PROFILE"},
+    "gsi1pk": {"S": "USER_PROFILE"},
+    "gsi1sk": {"S": "user123"},
+    "type": {"S": "user_profile"},
+    "userId": {"S": "user123"},
+    "email": {"S": "john.doe@example.com"},
+    "name": {"S": "John Doe"},
+    "currentLevel": {"S": "beginner"},
+    "totalLessonsCompleted": {"N": "1"},
+    "totalQuizzesCompleted": {"N": "1"},
+    "streakDays": {"N": "3"},
+    "createdAt": {"S": "2024-01-10T09:00:00Z"},
+    "lastActiveAt": {"S": "2024-01-15T14:00:00Z"}
+  },
+  {
+    "pk": {"S": "USER#user123"},
+    "sk": {"S": "PROGRESS#lesson#001"},
+    "gsi1pk": {"S": "LESSON_PROGRESS"},
+    "gsi1sk": {"S": "lesson#001#user123"},
+    "type": {"S": "lesson_progress"},
+    "userId": {"S": "user123"},
+    "lessonId": {"S": "lesson#001"},
+    "status": {"S": "completed"},
+    "score": {"N": "100"},
+    "timeSpent": {"N": "300"},
+    "completedAt": {"S": "2024-01-15T12:00:00Z"},
+    "startedAt": {"S": "2024-01-15T11:55:00Z"}
+  },
+  {
+    "pk": {"S": "USER#user123"},
+    "sk": {"S": "PROGRESS#lesson#002"},
+    "gsi1pk": {"S": "LESSON_PROGRESS"},
+    "gsi1sk": {"S": "lesson#002#user123"},
+    "type": {"S": "lesson_progress"},
+    "userId": {"S": "user123"},
+    "lessonId": {"S": "lesson#002"},
+    "status": {"S": "in_progress"},
+    "score": {"N": "0"},
+    "timeSpent": {"N": "120"},
+    "startedAt": {"S": "2024-01-15T13:00:00Z"}
+  },
+  {
+    "pk": {"S": "USER#user123"},
+    "sk": {"S": "QUIZ_RESULT#quiz#001#2024-01-15T12:30:00Z"},
+    "gsi1pk": {"S": "QUIZ_RESULTS"},
+    "gsi1sk": {"S": "quiz#001#user123"},
+    "type": {"S": "quiz_result"},
+    "userId": {"S": "user123"},
+    "quizId": {"S": "quiz#001"},
+    "score": {"N": "2"},
+    "totalQuestions": {"N": "2"},
+    "percentage": {"N": "100"},
+    "answers": {"L": [
+      {"M": {"questionId": {"S": "q1"}, "selectedAnswer": {"N": "0"}, "correct": {"BOOL": true}}},
+      {"M": {"questionId": {"S": "q2"}, "selectedAnswer": {"N": "2"}, "correct": {"BOOL": true}}}
+    ]},
+    "completedAt": {"S": "2024-01-15T12:30:00Z"},
+    "timeSpent": {"N": "180"}
+  },
+  {
+    "pk": {"S": "USER#user456"},
+    "sk": {"S": "PROFILE"},
+    "gsi1pk": {"S": "USER_PROFILE"},
+    "gsi1sk": {"S": "user456"},
+    "type": {"S": "user_profile"},
+    "userId": {"S": "user456"},
+    "email": {"S": "jane.smith@example.com"},
+    "name": {"S": "Jane Smith"},
+    "currentLevel": {"S": "beginner"},
+    "totalLessonsCompleted": {"N": "0"},
+    "totalQuizzesCompleted": {"N": "0"},
+    "streakDays": {"N": "1"},
+    "createdAt": {"S": "2024-01-14T15:00:00Z"},
+    "lastActiveAt": {"S": "2024-01-15T16:00:00Z"}
+  },
+  {
+    "pk": {"S": "USER#user456"},
+    "sk": {"S": "PROGRESS#lesson#001"},
+    "gsi1pk": {"S": "LESSON_PROGRESS"},
+    "gsi1sk": {"S": "lesson#001#user456"},
+    "type": {"S": "lesson_progress"},
+    "userId": {"S": "user456"},
+    "lessonId": {"S": "lesson#001"},
+    "status": {"S": "in_progress"},
+    "score": {"N": "0"},
+    "timeSpent": {"N": "60"},
+    "startedAt": {"S": "2024-01-15T16:00:00Z"}
+  }
+] 
