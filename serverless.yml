@@ -37,7 +37,7 @@ resources:
               Effect: Allow
               Principal: '*'
               Action: 's3:GetObject'
-              Resource: !Sub '${FrontendBucket}/*'
+              Resource: !Join ['', [!GetAtt FrontendBucket.Arn, '/*']]
 
   Outputs:
     FrontendBucketName:
