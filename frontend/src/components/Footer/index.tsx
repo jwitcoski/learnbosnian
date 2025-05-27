@@ -52,39 +52,42 @@ const Footer = ({ t }: { t: TFunction }) => {
           <Row justify="space-between">
             <Col lg={10} md={10} sm={12} xs={12}>
               <Language>{t("Contact")}</Language>
-              <Large to="/">{t("Tell us everything")}</Large>
+              <Large to="/">{t("Need help learning?")}</Large>
               <Para>
-                {t(`Do you have any question? Feel free to reach out.`)}
+                {t(`Have questions about Bosnian language or our lessons? We're here to help!`)}
               </Para>
-              <a href="mailto:l.qqbadze@gmail.com">
-                <Chat>{t(`Let's Chat`)}</Chat>
+              <a href="mailto:info@learnbosnian.com">
+                <Chat>{t(`Contact Us`)}</Chat>
               </a>
             </Col>
             <Col lg={8} md={8} sm={12} xs={12}>
-              <Title>{t("Policy")}</Title>
-              <Large to="/">{t("Application Security")}</Large>
-              <Large to="/">{t("Software Principles")}</Large>
+              <Title>{t("Learning Resources")}</Title>
+              <Large to="/">{t("Grammar Guide")}</Large>
+              <Large to="/">{t("Vocabulary Lists")}</Large>
+              <Large to="/">{t("Pronunciation Guide")}</Large>
+              <Large to="/">{t("Cultural Notes")}</Large>
             </Col>
             <Col lg={6} md={6} sm={12} xs={12}>
-              <Empty />
-              <Large to="/">{t("Support Center")}</Large>
-              <Large to="/">{t("Customer Support")}</Large>
+              <Title>{t("Support")}</Title>
+              <Large to="/">{t("Help Center")}</Large>
+              <Large to="/">{t("Community Forum")}</Large>
+              <Large to="/">{t("Study Tips")}</Large>
             </Col>
           </Row>
           <Row justify="space-between">
             <Col lg={10} md={10} sm={12} xs={12}>
               <Empty />
-              <Language>{t("Address")}</Language>
-              <Para>Rancho Santa Margarita</Para>
-              <Para>2131 Elk Street</Para>
-              <Para>California</Para>
+              <Language>{t("About Bosnia")}</Language>
+              <Para>{t("Learn about the beautiful country")}</Para>
+              <Para>{t("where Bosnian is spoken")}</Para>
+              <Para>{t("Sarajevo • Mostar • Banja Luka")}</Para>
             </Col>
             <Col lg={8} md={8} sm={12} xs={12}>
-              <Title>{t("Company")}</Title>
-              <Large to="/">{t("About")}</Large>
+              <Title>{t("Learn More")}</Title>
+              <Large to="/">{t("About Us")}</Large>
+              <Large to="/">{t("Teaching Method")}</Large>
+              <Large to="/">{t("Success Stories")}</Large>
               <Large to="/">{t("Blog")}</Large>
-              <Large to="/">{t("Press")}</Large>
-              <Large to="/">{t("Careers & Culture")}</Large>
             </Col>
             <Col lg={6} md={6} sm={12} xs={12}>
               <Label htmlFor="select-lang">{t("Language")}</Label>
@@ -92,15 +95,15 @@ const Footer = ({ t }: { t: TFunction }) => {
                 <LanguageSwitch onClick={() => handleChange("en")}>
                   <SvgIcon
                     src="united-states.svg"
-                    aria-label="homepage"
+                    aria-label="English"
                     width="30px"
                     height="30px"
                   />
                 </LanguageSwitch>
-                <LanguageSwitch onClick={() => handleChange("es")}>
+                <LanguageSwitch onClick={() => handleChange("bs")}>
                   <SvgIcon
-                    src="spain.svg"
-                    aria-label="homepage"
+                    src="bosnia.svg"
+                    aria-label="Bosanski"
                     width="30px"
                     height="30px"
                   />
@@ -119,43 +122,34 @@ const Footer = ({ t }: { t: TFunction }) => {
           >
             <NavLink to="/">
               <LogoContainer>
-                <SvgIcon
-                  src="logo.svg"
-                  aria-label="homepage"
-                  width="101px"
-                  height="64px"
-                />
+                <div style={{ 
+                  fontSize: '20px', 
+                  fontWeight: 'bold', 
+                  color: '#18216d',
+                  textAlign: 'center'
+                }}>
+                  <div>Learn</div>
+                  <div>Bosnian</div>
+                </div>
               </LogoContainer>
             </NavLink>
             <FooterContainer>
               <SocialLink
-                href="https://github.com/Adrinlol/create-react-app-adrinlol"
+                href="https://github.com/learnbosnian"
                 src="github.svg"
               />
               <SocialLink
-                href="https://twitter.com/Adrinlolx"
+                href="https://twitter.com/learnbosnian"
                 src="twitter.svg"
               />
               <SocialLink
-                href="https://www.linkedin.com/in/lasha-kakabadze/"
-                src="linkedin.svg"
+                href="https://www.facebook.com/learnbosnian"
+                src="facebook.svg"
               />
               <SocialLink
-                href="https://medium.com/@lashakakabadze/"
-                src="medium.svg"
+                href="https://www.youtube.com/learnbosnian"
+                src="youtube.svg"
               />
-              <a
-                href="https://ko-fi.com/Y8Y7H8BNJ"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <img
-                  height="36"
-                  style={{ border: 0, height: 36 }}
-                  src="https://storage.ko-fi.com/cdn/kofi3.png?v=3"
-                  alt="Buy Me a Coffee at ko-fi.com"
-                />
-              </a>
             </FooterContainer>
           </Row>
         </Container>
