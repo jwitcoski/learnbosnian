@@ -10,6 +10,17 @@ provider:
   environment:
     STAGE: ${self:provider.stage}
 
+package:
+  patterns:
+    - '!frontend/**'
+    - '!node_modules/**'
+    - '!.git/**'
+    - '!.github/**'
+    - '!*.md'
+    - '!.gitignore'
+    - 'backend/**'
+    - '!backend/node_modules/**'
+
 functions:
   hello:
     handler: backend/handler.hello
