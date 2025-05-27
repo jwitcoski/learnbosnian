@@ -26,6 +26,17 @@ provider:
             - !GetAtt LearnBosnianTable.Arn
             - !Join ['', [!GetAtt LearnBosnianTable.Arn, '/index/*']]
 
+# Configure Lambda packaging to exclude frontend
+package:
+  patterns:
+    - '!frontend/**'           # Exclude frontend from Lambda packages
+    - '!node_modules/**'       # Exclude all node_modules initially
+    - 'node_modules/aws-sdk/**' # Include only necessary Lambda dependencies
+    - 'backend/**'             # Include backend code for Lambdas
+    - '!.git/**'
+    - '!*.md'
+    - '!.env*'
+
 # Add Lambda functions
 functions:
   getLessons:
@@ -141,9 +152,18 @@ resources:
       Export:
         Name: ${self:provider.stage}-frontend-website-url
 
+# Add a custom deployment step for frontend
 plugins:
   - serverless-offline
+  - serverless-s3-sync  # Add this plugin
 
 custom:
   serverless-offline:
-    httpPort: 3001 
+    httpPort: 3001
+  
+  # Configure S3 sync for frontend deployment
+  s3Sync:
+    - bucketName: learn-bosnian-frontend-${self:provider.stage}
+      localDir: frontend/build  # Your React build output
+      deleteRemoved: true
+      acl: public-read 
