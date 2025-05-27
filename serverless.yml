@@ -4,12 +4,49 @@ frameworkVersion: '3'
 
 provider:
   name: aws
-  runtime: nodejs18.x
+  runtime: python3.9
   region: us-east-1
   stage: ${opt:stage, 'dev'}
   environment:
     STAGE: ${self:provider.stage}
     DYNAMODB_TABLE: ${self:service}-table-${self:provider.stage}
+  # Add IAM role statements for DynamoDB access
+  iam:
+    role:
+      statements:
+        - Effect: Allow
+          Action:
+            - dynamodb:Query
+            - dynamodb:Scan
+            - dynamodb:GetItem
+            - dynamodb:PutItem
+            - dynamodb:UpdateItem
+            - dynamodb:DeleteItem
+          Resource:
+            - !GetAtt LearnBosnianTable.Arn
+            - !Join ['', [!GetAtt LearnBosnianTable.Arn, '/index/*']]
+
+# Add Lambda functions
+functions:
+  getLessons:
+    handler: backend/handlers/getLessons.handler
+    events:
+      - http:
+          path: lessons
+          method: get
+          cors: true
+    environment:
+      DYNAMODB_TABLE: ${self:provider.environment.DYNAMODB_TABLE}
+
+  submitQuiz:
+    handler: backend/handlers/submitQuiz.handler
+    events:
+      - http:
+          path: quiz/submit
+          method: post
+          cors: true
+    environment:
+      DYNAMODB_TABLE: ${self:provider.environment.DYNAMODB_TABLE}
 
 resources:
   Resources:
