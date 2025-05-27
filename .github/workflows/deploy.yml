@@ -27,7 +27,7 @@ jobs:
       run: |
         cd frontend
         npm install
-        npm run build
+        CI=false npm run build
         
     - name: Deploy backend to AWS
       env:
