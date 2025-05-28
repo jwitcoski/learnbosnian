@@ -4,7 +4,7 @@ frameworkVersion: '3'
 
 provider:
   name: aws
-  runtime: python3.9
+  runtime: nodejs18.x
   region: us-east-1
   stage: ${opt:stage, 'dev'}
   environment:
@@ -32,7 +32,7 @@ package:
     - '!frontend/**'           # Exclude frontend from Lambda packages
     - '!node_modules/**'       # Exclude all node_modules initially
     - 'node_modules/aws-sdk/**' # Include only necessary Lambda dependencies
-    - '!backend/**'            # Exclude backend by default
+    - 'backend/**'            # Include backend
     - '!.git/**'
     - '!*.md'
     - '!.env*'
