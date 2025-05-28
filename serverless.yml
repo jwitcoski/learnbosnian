@@ -32,7 +32,7 @@ package:
     - '!frontend/**'           # Exclude frontend from Lambda packages
     - '!node_modules/**'       # Exclude all node_modules initially
     - 'node_modules/aws-sdk/**' # Include only necessary Lambda dependencies
-    - 'backend/**'             # Include backend code for Lambdas
+    - '!backend/**'            # Exclude backend by default
     - '!.git/**'
     - '!*.md'
     - '!.env*'
@@ -41,6 +41,9 @@ package:
 functions:
   getLessons:
     handler: backend/handlers/getLessons.handler
+    package:
+      patterns:
+        - 'backend/handlers/getLessons.js' # Include only this handler
     events:
       - http:
           path: lessons
@@ -51,6 +54,9 @@ functions:
 
   submitQuiz:
     handler: backend/handlers/submitQuiz.handler
+    package:
+      patterns:
+        - 'backend/handlers/submitQuiz.js' # Include only this handler
     events:
       - http:
           path: quiz/submit
