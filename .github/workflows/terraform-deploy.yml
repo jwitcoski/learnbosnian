@@ -1,0 +1,79 @@
+name: Deploy with Terraform
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  terraform:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    
+    - name: Setup Terraform
+      uses: hashicorp/setup-terraform@v3
+      with:
+        terraform_version: 1.6.0
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+    
+    - name: Configure AWS credentials
+      uses: aws-actions/configure-aws-credentials@v4
+      with:
+        aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        aws-region: us-east-1
+    
+    - name: Create backend Lambda handlers (if needed)
+      run: |
+        mkdir -p backend/handlers
+        # Only create if they don't exist
+        if [ ! -f backend/handlers/getLessons.js ]; then
+          echo 'exports.handler = async (event) => ({ statusCode: 200, body: JSON.stringify({message: "Hello from getLessons"}) });' > backend/handlers/getLessons.js
+        fi
+        if [ ! -f backend/handlers/submitQuiz.js ]; then
+          echo 'exports.handler = async (event) => ({ statusCode: 200, body: JSON.stringify({message: "Hello from submitQuiz"}) });' > backend/handlers/submitQuiz.js
+        fi
+    
+    - name: Terraform Init
+      run: terraform init
+    
+    - name: Terraform Plan
+      run: terraform plan -var="stage=prod"
+      if: github.event_name == 'pull_request'
+    
+    - name: Terraform Apply
+      run: terraform apply -auto-approve -var="stage=prod"
+      if: github.ref == 'refs/heads/main'
+    
+    - name: Install frontend dependencies and build
+      run: |
+        cd frontend
+        npm install
+        CI=false npm run build
+      if: github.ref == 'refs/heads/main'
+    
+    - name: Get S3 bucket name from Terraform output
+      id: bucket
+      run: |
+        BUCKET_NAME=$(terraform output -raw frontend_bucket_name)
+        echo "bucket_name=$BUCKET_NAME" >> $GITHUB_OUTPUT
+      if: github.ref == 'refs/heads/main'
+    
+    - name: Deploy frontend to S3
+      run: |
+        aws s3 sync frontend/build/ s3://${{ steps.bucket.outputs.bucket_name }} --delete
+      if: github.ref == 'refs/heads/main'
+    
+    - name: Output API Gateway URL
+      run: |
+        echo "API Gateway URL: $(terraform output -raw api_gateway_url)"
+        echo "Frontend URL: $(terraform output -raw frontend_website_url)"
+      if: github.ref == 'refs/heads/main'
