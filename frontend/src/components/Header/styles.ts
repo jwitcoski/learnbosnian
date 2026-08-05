@@ -3,7 +3,13 @@ import { Link } from "react-router-dom";
 import { MenuOutlined } from "@ant-design/icons";
 
 export const HeaderSection = styled("header")`
-  padding: 1rem 0.5rem;
+  padding: 0.85rem 0.5rem;
+  background: rgba(255, 248, 240, 0.92);
+  border-bottom: 3px solid var(--color-crimson);
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  backdrop-filter: blur(6px);
 
   .ant-row-space-between {
     align-items: center;
@@ -41,7 +47,7 @@ export const Burger = styled("div")`
   display: none;
 
   svg {
-    fill: #2e186a;
+    fill: var(--color-brown);
   }
 `;
 
@@ -55,22 +61,27 @@ export const Menu = styled("h5")`
   font-size: 1.5rem;
   font-weight: 600;
   text-align: center;
+  color: var(--color-brown);
 `;
 
 export const CustomNavLinkSmall = styled(NavLink)`
-  font-size: 1.2rem;
-  color: #18216d;
+  font-size: 1.05rem;
+  color: var(--color-brown);
   transition: color 0.2s ease-in;
-  margin: 0.5rem 2rem;
+  margin: 0.5rem 1.25rem;
 
   @media only screen and (max-width: 768px) {
     margin: 1.25rem 2rem;
+  }
+
+  a {
+    color: inherit;
   }
 `;
 
 export const Label = styled("span")`
   font-weight: 500;
-  color: #404041;
+  color: var(--color-muted);
   text-align: right;
   display: flex;
   justify-content: space-between;
@@ -79,17 +90,17 @@ export const Label = styled("span")`
 
 export const Outline = styled(MenuOutlined)`
   font-size: 22px;
+  color: var(--color-brown);
 `;
 
 export const Span = styled("span")`
   cursor: pointer;
-  transition: all 0.3s ease-in-out;
+  transition: color 0.2s ease;
+  font-weight: 600;
 
   &:hover,
   &:active,
   &:focus {
-    color: rgb(255, 130, 92);
-    text-underline-position: under;
-    text-decoration: rgb(255, 130, 92) wavy underline;
+    color: var(--color-crimson);
   }
 `;

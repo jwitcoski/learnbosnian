@@ -59,3 +59,4 @@ Teaser outlines only — see `content/book2/outline.json` and `content/book3/out
 - [x] Dictionary + progress
 - [x] Scribus / YouTube export scripts
 - [x] App roadmap + landing CTAs
+- [x] Homepage restyled to match Day 1 kilim / Baščaršija theme
