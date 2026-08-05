@@ -27,7 +27,7 @@ const DayPage = () => {
     );
   }
 
-  return <LessonShell chapter={chapter} />;
+  return <LessonShell key={chapter.day} chapter={chapter} />;
 };
 
 export default DayPage;
