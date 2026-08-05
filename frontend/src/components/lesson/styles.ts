@@ -32,46 +32,47 @@ export const LessonPage = styled.main`
 `;
 
 export const HeroBand = styled.header`
-  position: relative;
-  border-radius: 0;
-  overflow: hidden;
-  margin-bottom: 1.5rem;
-  min-height: 280px;
-  display: flex;
-  align-items: flex-end;
-  justify-content: center;
-  background: linear-gradient(160deg, #fffdf8 0%, #f7f1e8 55%, #efe6d8 100%);
+  margin-bottom: 0.35rem;
   border: 1px solid rgba(93, 64, 55, 0.12);
+  background: #f7f1e8;
+  overflow: hidden;
 
-  img {
-    position: absolute;
-    inset: 0;
+  .hero-media {
+    display: block;
     width: 100%;
-    height: 100%;
-    object-fit: contain;
-    object-position: center;
-    opacity: 1;
-    padding: 0.75rem 0.75rem 4.5rem;
+    aspect-ratio: 16 / 9;
+    background: #efe6d8;
+    overflow: hidden;
+
+    img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center;
+    }
   }
 
   .hero-copy {
-    position: relative;
-    z-index: 1;
-    padding: 1.25rem 1.75rem;
-    color: white;
-    text-shadow: 0 1px 8px rgba(0, 0, 0, 0.45);
-    width: 100%;
-    background: linear-gradient(transparent, rgba(44, 24, 16, 0.82));
-  }
+    padding: 1.15rem 1.25rem 1.25rem;
+    background: var(--color-brown);
+    color: #fff;
 
-  h1 {
-    color: white;
-    margin-bottom: 0.25rem;
-  }
+    h1 {
+      color: #fff;
+      margin: 0 0 0.35rem;
+    }
 
-  .meta {
-    font-size: 1rem;
-    opacity: 0.95;
+    .meta {
+      margin: 0;
+      font-size: 1rem;
+      opacity: 0.92;
+      color: #f5ebe0;
+    }
+
+    .meta + .meta {
+      margin-top: 0.25rem;
+    }
   }
 `;
 

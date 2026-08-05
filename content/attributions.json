@@ -6,7 +6,9 @@
     {
       "id": "home-mostar",
       "title": "Stari Most, Mostar",
-      "whereUsed": ["Homepage hero (polygon paint treatment)"],
+      "whereUsed": [
+        "Homepage hero (polygon paint treatment)"
+      ],
       "author": "Hatice Baran",
       "source": "Pexels",
       "license": "Pexels License",
@@ -18,7 +20,9 @@
     {
       "id": "home-coffee",
       "title": "Bosnian coffee set, Baščaršija",
-      "whereUsed": ["Homepage mid section (polygon paint treatment)"],
+      "whereUsed": [
+        "Homepage mid section (polygon paint treatment)"
+      ],
       "author": "İhsan Işık",
       "source": "Wikimedia Commons",
       "license": "CC BY 3.0",
@@ -30,7 +34,9 @@
     {
       "id": "home-costume",
       "title": "Traditional Bosnian folk costume",
-      "whereUsed": ["Homepage story section (polygon paint treatment)"],
+      "whereUsed": [
+        "Homepage story section (polygon paint treatment)"
+      ],
       "author": "Historym1468",
       "source": "Wikimedia Commons",
       "license": "CC BY 4.0",
@@ -41,15 +47,15 @@
     },
     {
       "id": "book1-day-00-mostar-neretva",
-      "notes": "Day 0 polygon paint treatment of the source photo; background removed for the site."
+      "notes": "Day 0 full-bleed polygon paint treatment of the source photo."
     },
     {
       "id": "book1-day-01-bascarsija",
-      "notes": "Day 1 polygon paint treatment of the source photo; background removed for the site."
+      "notes": "Day 1 full-bleed polygon paint treatment of the source photo."
     },
     {
       "id": "book1-day-01-sebilj",
-      "notes": "Day 1 polygon paint treatment of the source photo; background removed for the site."
+      "notes": "Day 1 full-bleed polygon paint treatment of the source photo."
     }
   ]
 }

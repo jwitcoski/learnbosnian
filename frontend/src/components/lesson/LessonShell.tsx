@@ -43,7 +43,9 @@ export default function LessonShell({ chapter }: Props) {
 
       <HeroBand>
         {hero?.localPath && (
-          <img src={hero.localPath} alt={hero.alt || chapter.title} />
+          <div className="hero-media">
+            <img src={hero.localPath} alt={hero.alt || chapter.title} />
+          </div>
         )}
         <div className="hero-copy">
           <div className="meta">
@@ -96,17 +98,26 @@ export default function LessonShell({ chapter }: Props) {
           <p>{chapter.culture.body}</p>
           {chapter.images?.[1] && (
             <figure style={{ margin: "1rem 0" }}>
-              <img
-                src={chapter.images[1].localPath}
-                alt={chapter.images[1].alt}
+              <div
                 style={{
                   width: "100%",
-                  display: "block",
-                  objectFit: "contain",
-                  maxHeight: 420,
-                  background: "transparent",
+                  aspectRatio: "16 / 9",
+                  overflow: "hidden",
+                  background: "#efe6d8",
                 }}
-              />
+              >
+                <img
+                  src={chapter.images[1].localPath}
+                  alt={chapter.images[1].alt}
+                  style={{
+                    width: "100%",
+                    height: "100%",
+                    display: "block",
+                    objectFit: "cover",
+                    objectPosition: "center",
+                  }}
+                />
+              </div>
               <Credit as="figcaption">
                 <Link
                   to={`/attributions#book1-day-${String(chapter.day).padStart(2, "0")}-${chapter.images[1].id}`}
