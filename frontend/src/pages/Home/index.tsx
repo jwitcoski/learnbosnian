@@ -25,8 +25,9 @@ const PHOTOS = {
   },
   coffee: {
     src: "/images/home/bosnian-coffee.jpg",
-    alt: "Bosnian coffee with džezva, fildžan, and rahatlokum",
-    credit: "Bosnian-style coffee set — Ioannes2909 / Wikimedia Commons (CC BY-SA 4.0)",
+    alt: "Traditional Bosnian coffee set with engraved džezva and fildžan",
+    credit:
+      "Bosnian coffee, Baščaršija — İhsan Işık / Wikimedia Commons (CC BY 3.0)",
   },
   costume: {
     src: "/images/home/traditional-costume.jpg",
