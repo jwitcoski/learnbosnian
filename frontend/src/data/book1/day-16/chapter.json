@@ -1,0 +1,58 @@
+{
+  "day": 16,
+  "book": 1,
+  "week": 3,
+  "title": "Na autobus",
+  "titleEn": "On the bus",
+  "theme": "Minibus toward the coast dream",
+  "status": "outlined",
+  "reviewedAt": null,
+  "reviewerNotes": "",
+  "estimatedMinutes": 60,
+  "storyBeat": "Bus tickets and coast dreams",
+  "learningGoals": {
+    "vocabulary": [
+      "Coming night 16: Transport, tickets, trebati"
+    ],
+    "grammar": [
+      "To be filled on draft night"
+    ],
+    "culture": [
+      "Minibus toward the coast dream"
+    ]
+  },
+  "vocabulary": [],
+  "grammar": [],
+  "culture": {
+    "title": "Minibus toward the coast dream",
+    "body": "Stub for Day 16. Full culture hook will be written on the draft night.",
+    "imageId": null
+  },
+  "lessonBlocks": [],
+  "conversation": {
+    "title": "",
+    "setting": "",
+    "lines": []
+  },
+  "puzzles": [],
+  "practice": [],
+  "funFacts": [],
+  "resources": [
+    {
+      "label": "How to speak Bosnian — YouTube",
+      "url": "https://www.youtube.com/@HowtospeakBosnian",
+      "note": "Companion video after publish"
+    }
+  ],
+  "sectionQuiz": {
+    "title": "Day 16 section quiz",
+    "passPercent": 70,
+    "questions": []
+  },
+  "dictionaryEntries": [],
+  "images": [],
+  "imagesNeeded": true,
+  "imageBriefs": [
+    "Photo related to: Minibus toward the coast dream"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "day": 8,
+  "book": 1,
+  "week": 2,
+  "title": "Volim burek",
+  "titleEn": "I love burek",
+  "theme": "Street food",
+  "status": "outlined",
+  "reviewedAt": null,
+  "reviewerNotes": "",
+  "estimatedMinutes": 60,
+  "storyBeat": "Food disasters begin with burek",
+  "learningGoals": {
+    "vocabulary": [
+      "Coming night 8: Food, volim/ne volim, accusative singular intro"
+    ],
+    "grammar": [
+      "To be filled on draft night"
+    ],
+    "culture": [
+      "Street food"
+    ]
+  },
+  "vocabulary": [],
+  "grammar": [],
+  "culture": {
+    "title": "Street food",
+    "body": "Stub for Day 8. Full culture hook will be written on the draft night.",
+    "imageId": null
+  },
+  "lessonBlocks": [],
+  "conversation": {
+    "title": "",
+    "setting": "",
+    "lines": []
+  },
+  "puzzles": [],
+  "practice": [],
+  "funFacts": [],
+  "resources": [
+    {
+      "label": "How to speak Bosnian — YouTube",
+      "url": "https://www.youtube.com/@HowtospeakBosnian",
+      "note": "Companion video after publish"
+    }
+  ],
+  "sectionQuiz": {
+    "title": "Day 8 section quiz",
+    "passPercent": 70,
+    "questions": []
+  },
+  "dictionaryEntries": [],
+  "images": [],
+  "imagesNeeded": true,
+  "imageBriefs": [
+    "Photo related to: Street food"
+  ]
+}

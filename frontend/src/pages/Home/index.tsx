@@ -1,4 +1,6 @@
 import { lazy } from "react";
+import { useHistory } from "react-router-dom";
+import { Button } from "../../common/Button";
 import IntroContent from "../../content/IntroContent.json";
 import MiddleBlockContent from "../../content/MiddleBlockContent.json";
 import AboutContent from "../../content/AboutContent.json";
@@ -13,6 +15,8 @@ const ScrollToTop = lazy(() => import("../../common/ScrollToTop"));
 const ContentBlock = lazy(() => import("../../components/ContentBlock"));
 
 const Home = () => {
+  const history = useHistory();
+
   return (
     <Container>
       <ScrollToTop />
@@ -23,11 +27,14 @@ const Home = () => {
         button={IntroContent.button}
         icon="developer.svg"
         id="intro"
+        onPrimaryClick={() => history.push("/learn/day/1")}
+        onSecondaryClick={() => history.push("/learn")}
       />
       <MiddleBlock
         title={MiddleBlockContent.title}
         content={MiddleBlockContent.text}
         button={MiddleBlockContent.button}
+        onButtonClick={() => history.push("/learn")}
       />
       <ContentBlock
         direction="left"
@@ -43,6 +50,14 @@ const Home = () => {
         content={MissionContent.text}
         icon="product-launch.svg"
         id="mission"
+        button={[
+          { title: "Browse books", color: "#fff" },
+          { title: "YouTube channel" },
+        ]}
+        onPrimaryClick={() => history.push("/books")}
+        onSecondaryClick={() =>
+          window.open("https://www.youtube.com/@HowtospeakBosnian", "_blank")
+        }
       />
       <ContentBlock
         direction="left"
@@ -51,6 +66,11 @@ const Home = () => {
         icon="waving.svg"
         id="product"
       />
+      <div style={{ textAlign: "center", margin: "2rem 0" }}>
+        <Button onClick={() => history.push("/dictionary")}>
+          Open mini-dictionary
+        </Button>
+      </div>
       <Contact
         title={ContactContent.title}
         content={ContactContent.text}

@@ -1,0 +1,58 @@
+{
+  "day": 22,
+  "book": 1,
+  "week": 4,
+  "title": "Jučer u Travniku",
+  "titleEn": "Yesterday in Travnik",
+  "theme": "Day trip to Travnik",
+  "status": "outlined",
+  "reviewedAt": null,
+  "reviewerNotes": "",
+  "estimatedMinutes": 60,
+  "storyBeat": "Travnik trip begins",
+  "learningGoals": {
+    "vocabulary": [
+      "Coming night 22: Past tense (perfekt) intro"
+    ],
+    "grammar": [
+      "To be filled on draft night"
+    ],
+    "culture": [
+      "Day trip to Travnik"
+    ]
+  },
+  "vocabulary": [],
+  "grammar": [],
+  "culture": {
+    "title": "Day trip to Travnik",
+    "body": "Stub for Day 22. Full culture hook will be written on the draft night.",
+    "imageId": null
+  },
+  "lessonBlocks": [],
+  "conversation": {
+    "title": "",
+    "setting": "",
+    "lines": []
+  },
+  "puzzles": [],
+  "practice": [],
+  "funFacts": [],
+  "resources": [
+    {
+      "label": "How to speak Bosnian — YouTube",
+      "url": "https://www.youtube.com/@HowtospeakBosnian",
+      "note": "Companion video after publish"
+    }
+  ],
+  "sectionQuiz": {
+    "title": "Day 22 section quiz",
+    "passPercent": 70,
+    "questions": []
+  },
+  "dictionaryEntries": [],
+  "images": [],
+  "imagesNeeded": true,
+  "imageBriefs": [
+    "Photo related to: Day trip to Travnik"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "day": 27,
+  "book": 1,
+  "week": 4,
+  "title": "Posao i škola",
+  "titleEn": "Work and school",
+  "theme": "Emir’s job; Ana’s study plan",
+  "status": "outlined",
+  "reviewedAt": null,
+  "reviewerNotes": "",
+  "estimatedMinutes": 60,
+  "storyBeat": "Emir’s guide job; Ana’s study plan",
+  "learningGoals": {
+    "vocabulary": [
+      "Coming night 27: Work/school, daily routine"
+    ],
+    "grammar": [
+      "To be filled on draft night"
+    ],
+    "culture": [
+      "Emir’s job; Ana’s study plan"
+    ]
+  },
+  "vocabulary": [],
+  "grammar": [],
+  "culture": {
+    "title": "Emir’s job; Ana’s study plan",
+    "body": "Stub for Day 27. Full culture hook will be written on the draft night.",
+    "imageId": null
+  },
+  "lessonBlocks": [],
+  "conversation": {
+    "title": "",
+    "setting": "",
+    "lines": []
+  },
+  "puzzles": [],
+  "practice": [],
+  "funFacts": [],
+  "resources": [
+    {
+      "label": "How to speak Bosnian — YouTube",
+      "url": "https://www.youtube.com/@HowtospeakBosnian",
+      "note": "Companion video after publish"
+    }
+  ],
+  "sectionQuiz": {
+    "title": "Day 27 section quiz",
+    "passPercent": 70,
+    "questions": []
+  },
+  "dictionaryEntries": [],
+  "images": [],
+  "imagesNeeded": true,
+  "imageBriefs": [
+    "Photo related to: Emir’s job; Ana’s study plan"
+  ]
+}

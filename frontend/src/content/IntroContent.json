@@ -1,12 +1,12 @@
 {
-  "title": "Learn Bosnian - Your Gateway to the Balkans",
-  "text": "Master the beautiful Bosnian language with our comprehensive learning platform! Interactive lessons, cultural insights, and practical conversations to help you speak Bosnian confidently.",
+  "title": "Learn Bosnian in 30 Days",
+  "text": "One hour a night. Thirty chapters. Real Bosnian (Latin script), culture from Sarajevo to Mostar, and a silly story with Ana, Emir, Amira, and Mrvica the cat. Built for learners who need pictures, games, and patience.",
   "button": [
     {
-      "title": "Start Learning"
+      "title": "Start Day 1"
     },
     {
-      "title": "Learn more",
+      "title": "See curriculum",
       "color": "#fff"
     }
   ]

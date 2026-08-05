@@ -1,0 +1,137 @@
+export type ChapterStatus = "outlined" | "draft" | "in_review" | "published";
+
+export type VocabEntry = {
+  bosnian: string;
+  english: string;
+  pronunciation?: string;
+  partOfSpeech?: string;
+  example?: string;
+};
+
+export type GrammarBite = {
+  title: string;
+  explanation: string;
+  examples?: { bosnian: string; english: string }[];
+};
+
+export type ConversationLine = {
+  speaker: string;
+  bosnian: string;
+  english: string;
+};
+
+export type Puzzle = {
+  id: string;
+  type: "match" | "scramble" | "fill" | "truefalse" | "picture";
+  title: string;
+  prompt: string;
+  items?: any[];
+  answer?: any;
+};
+
+export type PracticeItem = {
+  id: string;
+  prompt: string;
+  hint?: string;
+  answer: string;
+};
+
+export type QuizQuestion = {
+  id: string;
+  question: string;
+  options: string[];
+  correctIndex: number;
+  explanation?: string;
+};
+
+export type ChapterImage = {
+  id: string;
+  alt?: string;
+  localPath?: string;
+  sourceUrl: string;
+  pageUrl?: string;
+  author?: string;
+  license: string;
+  credit: string;
+};
+
+export type DictionaryEntry = {
+  bosnian: string;
+  english: string;
+  partOfSpeech?: string;
+  day?: number;
+};
+
+export type Chapter = {
+  day: number;
+  book: number;
+  week: number;
+  title: string;
+  titleEn: string;
+  theme: string;
+  status: ChapterStatus;
+  reviewedAt?: string | null;
+  reviewerNotes?: string;
+  estimatedMinutes?: number;
+  storyBeat?: string;
+  learningGoals: {
+    vocabulary: string[];
+    grammar: string[];
+    culture: string[];
+  };
+  vocabulary: VocabEntry[];
+  grammar: GrammarBite[];
+  culture?: {
+    title: string;
+    body: string;
+    imageId?: string | null;
+  };
+  lessonBlocks: {
+    id: string;
+    title: string;
+    body: string;
+    tips?: string[];
+  }[];
+  conversation?: {
+    title: string;
+    setting: string;
+    lines: ConversationLine[];
+  };
+  puzzles: Puzzle[];
+  practice: PracticeItem[];
+  funFacts: { title: string; body: string }[];
+  resources: { label: string; url: string; note?: string }[];
+  sectionQuiz: {
+    title: string;
+    passPercent?: number;
+    questions: QuizQuestion[];
+  };
+  dictionaryEntries: DictionaryEntry[];
+  images: ChapterImage[];
+  imagesNeeded?: boolean;
+  imageBriefs?: string[];
+};
+
+export type DayOutline = {
+  day: number;
+  week: number;
+  title: string;
+  titleEn: string;
+  theme: string;
+  languageFocus: string;
+  storyBeat: string;
+};
+
+export type BookOutline = {
+  book: number;
+  title: string;
+  titleBs?: string;
+  level?: string;
+  days?: DayOutline[];
+  weeks?: { week: number; title: string; focus: string }[];
+  cast?: string[];
+  summary?: string;
+  themes?: string[];
+  status?: string;
+  note?: string;
+};

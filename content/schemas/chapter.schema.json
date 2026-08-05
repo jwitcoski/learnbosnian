@@ -1,0 +1,230 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://learnbosnian.club/schemas/chapter.schema.json",
+  "title": "LearnBosnianChapter",
+  "description": "Portable chapter schema for website, Scribus, YouTube, and future app",
+  "type": "object",
+  "required": [
+    "day",
+    "title",
+    "titleEn",
+    "theme",
+    "status",
+    "learningGoals",
+    "vocabulary",
+    "grammar",
+    "dictionaryEntries"
+  ],
+  "properties": {
+    "day": { "type": "integer", "minimum": 1, "maximum": 30 },
+    "book": { "type": "integer", "const": 1 },
+    "title": { "type": "string" },
+    "titleEn": { "type": "string" },
+    "theme": { "type": "string" },
+    "week": { "type": "integer", "minimum": 1, "maximum": 4 },
+    "status": {
+      "type": "string",
+      "enum": ["outlined", "draft", "in_review", "published"]
+    },
+    "reviewedAt": { "type": ["string", "null"] },
+    "reviewerNotes": { "type": "string" },
+    "estimatedMinutes": { "type": "integer", "default": 60 },
+    "storyBeat": { "type": "string" },
+    "learningGoals": {
+      "type": "object",
+      "required": ["vocabulary", "grammar", "culture"],
+      "properties": {
+        "vocabulary": { "type": "array", "items": { "type": "string" } },
+        "grammar": { "type": "array", "items": { "type": "string" } },
+        "culture": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "vocabulary": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["bosnian", "english"],
+        "properties": {
+          "bosnian": { "type": "string" },
+          "english": { "type": "string" },
+          "pronunciation": { "type": "string" },
+          "partOfSpeech": { "type": "string" },
+          "example": { "type": "string" }
+        }
+      }
+    },
+    "grammar": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["title", "explanation"],
+        "properties": {
+          "title": { "type": "string" },
+          "explanation": { "type": "string" },
+          "examples": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "bosnian": { "type": "string" },
+                "english": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "culture": {
+      "type": "object",
+      "properties": {
+        "title": { "type": "string" },
+        "body": { "type": "string" },
+        "imageId": { "type": "string" }
+      }
+    },
+    "lessonBlocks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "title", "body"],
+        "properties": {
+          "id": { "type": "string" },
+          "title": { "type": "string" },
+          "body": { "type": "string" },
+          "tips": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    },
+    "conversation": {
+      "type": "object",
+      "properties": {
+        "title": { "type": "string" },
+        "setting": { "type": "string" },
+        "lines": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["speaker", "bosnian", "english"],
+            "properties": {
+              "speaker": { "type": "string" },
+              "bosnian": { "type": "string" },
+              "english": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "puzzles": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "type", "title", "prompt"],
+        "properties": {
+          "id": { "type": "string" },
+          "type": {
+            "type": "string",
+            "enum": ["match", "scramble", "fill", "truefalse", "picture"]
+          },
+          "title": { "type": "string" },
+          "prompt": { "type": "string" },
+          "items": { "type": "array" },
+          "answer": {}
+        }
+      }
+    },
+    "practice": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "prompt", "answer"],
+        "properties": {
+          "id": { "type": "string" },
+          "prompt": { "type": "string" },
+          "hint": { "type": "string" },
+          "answer": { "type": "string" }
+        }
+      }
+    },
+    "funFacts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["title", "body"],
+        "properties": {
+          "title": { "type": "string" },
+          "body": { "type": "string" }
+        }
+      }
+    },
+    "resources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["label", "url"],
+        "properties": {
+          "label": { "type": "string" },
+          "url": { "type": "string" },
+          "note": { "type": "string" }
+        }
+      }
+    },
+    "sectionQuiz": {
+      "type": "object",
+      "properties": {
+        "title": { "type": "string" },
+        "passPercent": { "type": "integer", "default": 70 },
+        "questions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "question", "options", "correctIndex"],
+            "properties": {
+              "id": { "type": "string" },
+              "question": { "type": "string" },
+              "options": {
+                "type": "array",
+                "items": { "type": "string" },
+                "minItems": 4,
+                "maxItems": 4
+              },
+              "correctIndex": { "type": "integer", "minimum": 0, "maximum": 3 },
+              "explanation": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "dictionaryEntries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["bosnian", "english"],
+        "properties": {
+          "bosnian": { "type": "string" },
+          "english": { "type": "string" },
+          "partOfSpeech": { "type": "string" },
+          "day": { "type": "integer" }
+        }
+      }
+    },
+    "images": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "credit", "license", "sourceUrl"],
+        "properties": {
+          "id": { "type": "string" },
+          "alt": { "type": "string" },
+          "localPath": { "type": "string" },
+          "sourceUrl": { "type": "string" },
+          "pageUrl": { "type": "string" },
+          "author": { "type": "string" },
+          "license": { "type": "string" },
+          "credit": { "type": "string" }
+        }
+      }
+    },
+    "imagesNeeded": { "type": "boolean" },
+    "imageBriefs": { "type": "array", "items": { "type": "string" } }
+  }
+}

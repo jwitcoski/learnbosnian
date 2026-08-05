@@ -1,0 +1,58 @@
+{
+  "day": 10,
+  "book": 1,
+  "week": 2,
+  "title": "Moja soba",
+  "titleEn": "My room",
+  "theme": "Room above the café",
+  "status": "outlined",
+  "reviewedAt": null,
+  "reviewerNotes": "",
+  "estimatedMinutes": 60,
+  "storyBeat": "Ana settles into the room above Amira’s",
+  "learningGoals": {
+    "vocabulary": [
+      "Coming night 10: Home/hotel, imati, adjective agreement"
+    ],
+    "grammar": [
+      "To be filled on draft night"
+    ],
+    "culture": [
+      "Room above the café"
+    ]
+  },
+  "vocabulary": [],
+  "grammar": [],
+  "culture": {
+    "title": "Room above the café",
+    "body": "Stub for Day 10. Full culture hook will be written on the draft night.",
+    "imageId": null
+  },
+  "lessonBlocks": [],
+  "conversation": {
+    "title": "",
+    "setting": "",
+    "lines": []
+  },
+  "puzzles": [],
+  "practice": [],
+  "funFacts": [],
+  "resources": [
+    {
+      "label": "How to speak Bosnian — YouTube",
+      "url": "https://www.youtube.com/@HowtospeakBosnian",
+      "note": "Companion video after publish"
+    }
+  ],
+  "sectionQuiz": {
+    "title": "Day 10 section quiz",
+    "passPercent": 70,
+    "questions": []
+  },
+  "dictionaryEntries": [],
+  "images": [],
+  "imagesNeeded": true,
+  "imageBriefs": [
+    "Photo related to: Room above the café"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "day": 12,
+  "book": 1,
+  "week": 2,
+  "title": "Idemo u park",
+  "titleEn": "Let’s go to the park",
+  "theme": "Park walk (Mrvica chaos)",
+  "status": "outlined",
+  "reviewedAt": null,
+  "reviewerNotes": "",
+  "estimatedMinutes": 60,
+  "storyBeat": "Mrvica on a leash fails spectacularly",
+  "learningGoals": {
+    "vocabulary": [
+      "Coming night 12: ići/doći, hajde, invitations"
+    ],
+    "grammar": [
+      "To be filled on draft night"
+    ],
+    "culture": [
+      "Park walk (Mrvica chaos)"
+    ]
+  },
+  "vocabulary": [],
+  "grammar": [],
+  "culture": {
+    "title": "Park walk (Mrvica chaos)",
+    "body": "Stub for Day 12. Full culture hook will be written on the draft night.",
+    "imageId": null
+  },
+  "lessonBlocks": [],
+  "conversation": {
+    "title": "",
+    "setting": "",
+    "lines": []
+  },
+  "puzzles": [],
+  "practice": [],
+  "funFacts": [],
+  "resources": [
+    {
+      "label": "How to speak Bosnian — YouTube",
+      "url": "https://www.youtube.com/@HowtospeakBosnian",
+      "note": "Companion video after publish"
+    }
+  ],
+  "sectionQuiz": {
+    "title": "Day 12 section quiz",
+    "passPercent": 70,
+    "questions": []
+  },
+  "dictionaryEntries": [],
+  "images": [],
+  "imagesNeeded": true,
+  "imageBriefs": [
+    "Photo related to: Park walk (Mrvica chaos)"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "day": 7,
+  "book": 1,
+  "week": 1,
+  "title": "Sedmica 1 — ponavljanje",
+  "titleEn": "Week 1 — review",
+  "theme": "Ana’s first-week photo diary",
+  "status": "outlined",
+  "reviewedAt": null,
+  "reviewerNotes": "",
+  "estimatedMinutes": 60,
+  "storyBeat": "Photo diary of the first week",
+  "learningGoals": {
+    "vocabulary": [
+      "Coming night 7: Review days 1–6"
+    ],
+    "grammar": [
+      "To be filled on draft night"
+    ],
+    "culture": [
+      "Ana’s first-week photo diary"
+    ]
+  },
+  "vocabulary": [],
+  "grammar": [],
+  "culture": {
+    "title": "Ana’s first-week photo diary",
+    "body": "Stub for Day 7. Full culture hook will be written on the draft night.",
+    "imageId": null
+  },
+  "lessonBlocks": [],
+  "conversation": {
+    "title": "",
+    "setting": "",
+    "lines": []
+  },
+  "puzzles": [],
+  "practice": [],
+  "funFacts": [],
+  "resources": [
+    {
+      "label": "How to speak Bosnian — YouTube",
+      "url": "https://www.youtube.com/@HowtospeakBosnian",
+      "note": "Companion video after publish"
+    }
+  ],
+  "sectionQuiz": {
+    "title": "Day 7 section quiz",
+    "passPercent": 70,
+    "questions": []
+  },
+  "dictionaryEntries": [],
+  "images": [],
+  "imagesNeeded": true,
+  "imageBriefs": [
+    "Photo related to: Ana’s first-week photo diary"
+  ]
+}

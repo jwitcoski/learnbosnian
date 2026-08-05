@@ -1,0 +1,58 @@
+{
+  "day": 30,
+  "book": 1,
+  "week": 4,
+  "title": "Završna proslava",
+  "titleEn": "Graduation party",
+  "theme": "Party; Mrvica steals the cake",
+  "status": "outlined",
+  "reviewedAt": null,
+  "reviewerNotes": "",
+  "estimatedMinutes": 60,
+  "storyBeat": "Graduation party; cake heist",
+  "learningGoals": {
+    "vocabulary": [
+      "Coming night 30: Full A1 review + dictionary tour"
+    ],
+    "grammar": [
+      "To be filled on draft night"
+    ],
+    "culture": [
+      "Party; Mrvica steals the cake"
+    ]
+  },
+  "vocabulary": [],
+  "grammar": [],
+  "culture": {
+    "title": "Party; Mrvica steals the cake",
+    "body": "Stub for Day 30. Full culture hook will be written on the draft night.",
+    "imageId": null
+  },
+  "lessonBlocks": [],
+  "conversation": {
+    "title": "",
+    "setting": "",
+    "lines": []
+  },
+  "puzzles": [],
+  "practice": [],
+  "funFacts": [],
+  "resources": [
+    {
+      "label": "How to speak Bosnian — YouTube",
+      "url": "https://www.youtube.com/@HowtospeakBosnian",
+      "note": "Companion video after publish"
+    }
+  ],
+  "sectionQuiz": {
+    "title": "Day 30 section quiz",
+    "passPercent": 70,
+    "questions": []
+  },
+  "dictionaryEntries": [],
+  "images": [],
+  "imagesNeeded": true,
+  "imageBriefs": [
+    "Photo related to: Party; Mrvica steals the cake"
+  ]
+}

@@ -25,10 +25,12 @@ const ContentBlock = ({
   t,
   id,
   direction,
+  onPrimaryClick,
+  onSecondaryClick,
 }: ContentBlockProps) => {
-  const scrollTo = (id: string) => {
-    const element = document.getElementById(id) as HTMLDivElement;
-    element.scrollIntoView({
+  const scrollTo = (target: string) => {
+    const element = document.getElementById(target) as HTMLDivElement;
+    element?.scrollIntoView({
       behavior: "smooth",
     });
   };
@@ -58,13 +60,17 @@ const ContentBlock = ({
                           color?: string;
                           title: string;
                         },
-                        id: number
+                        idx: number
                       ) => {
+                        const handler =
+                          idx === 0
+                            ? onPrimaryClick || (() => scrollTo("about"))
+                            : onSecondaryClick || (() => scrollTo("about"));
                         return (
                           <Button
-                            key={id}
+                            key={idx}
                             color={item.color}
-                            onClick={() => scrollTo("about")}
+                            onClick={handler}
                           >
                             {t(item.title)}
                           </Button>

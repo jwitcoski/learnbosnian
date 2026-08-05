@@ -1,0 +1,58 @@
+{
+  "day": 3,
+  "book": 1,
+  "week": 1,
+  "title": "Brojevi i kahva",
+  "titleEn": "Numbers and coffee",
+  "theme": "Coffee at Amira’s",
+  "status": "outlined",
+  "reviewedAt": null,
+  "reviewerNotes": "",
+  "estimatedMinutes": 60,
+  "storyBeat": "Amira’s café becomes HQ; Mrvica appears",
+  "learningGoals": {
+    "vocabulary": [
+      "Coming night 3: Numbers 1–20, koliko?, café order"
+    ],
+    "grammar": [
+      "To be filled on draft night"
+    ],
+    "culture": [
+      "Coffee at Amira’s"
+    ]
+  },
+  "vocabulary": [],
+  "grammar": [],
+  "culture": {
+    "title": "Coffee at Amira’s",
+    "body": "Stub for Day 3. Full culture hook will be written on the draft night.",
+    "imageId": null
+  },
+  "lessonBlocks": [],
+  "conversation": {
+    "title": "",
+    "setting": "",
+    "lines": []
+  },
+  "puzzles": [],
+  "practice": [],
+  "funFacts": [],
+  "resources": [
+    {
+      "label": "How to speak Bosnian — YouTube",
+      "url": "https://www.youtube.com/@HowtospeakBosnian",
+      "note": "Companion video after publish"
+    }
+  ],
+  "sectionQuiz": {
+    "title": "Day 3 section quiz",
+    "passPercent": 70,
+    "questions": []
+  },
+  "dictionaryEntries": [],
+  "images": [],
+  "imagesNeeded": true,
+  "imageBriefs": [
+    "Photo related to: Coffee at Amira’s"
+  ]
+}

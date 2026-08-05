@@ -1,0 +1,58 @@
+{
+  "day": 25,
+  "book": 1,
+  "week": 4,
+  "title": "Kod doktora",
+  "titleEn": "At the doctor",
+  "theme": "Mrvica vs pinecone (vet subplot)",
+  "status": "outlined",
+  "reviewedAt": null,
+  "reviewerNotes": "",
+  "estimatedMinutes": 60,
+  "storyBeat": "Vet visit after pinecone incident",
+  "learningGoals": {
+    "vocabulary": [
+      "Coming night 25: Body/health, boljeti"
+    ],
+    "grammar": [
+      "To be filled on draft night"
+    ],
+    "culture": [
+      "Mrvica vs pinecone (vet subplot)"
+    ]
+  },
+  "vocabulary": [],
+  "grammar": [],
+  "culture": {
+    "title": "Mrvica vs pinecone (vet subplot)",
+    "body": "Stub for Day 25. Full culture hook will be written on the draft night.",
+    "imageId": null
+  },
+  "lessonBlocks": [],
+  "conversation": {
+    "title": "",
+    "setting": "",
+    "lines": []
+  },
+  "puzzles": [],
+  "practice": [],
+  "funFacts": [],
+  "resources": [
+    {
+      "label": "How to speak Bosnian — YouTube",
+      "url": "https://www.youtube.com/@HowtospeakBosnian",
+      "note": "Companion video after publish"
+    }
+  ],
+  "sectionQuiz": {
+    "title": "Day 25 section quiz",
+    "passPercent": 70,
+    "questions": []
+  },
+  "dictionaryEntries": [],
+  "images": [],
+  "imagesNeeded": true,
+  "imageBriefs": [
+    "Photo related to: Mrvica vs pinecone (vet subplot)"
+  ]
+}

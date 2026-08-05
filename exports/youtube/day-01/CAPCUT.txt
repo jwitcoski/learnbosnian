@@ -1,0 +1,8 @@
+CapCut / DaVinci quick steps
+1. New 1920x1080 project; 8–10 min timeline.
+2. Drop scenic stills from assets.json (Ken Burns zoom).
+3. Yellow/gold title text matching channel style.
+4. Paste narration.md into TTS (Piper or CapCut voice) or record.
+5. Overlay cue cards from cues.md.
+6. End screen → website /learn/day/1 + playlist.
+7. Export 1080p; upload SRT from narration.

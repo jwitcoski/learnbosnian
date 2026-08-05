@@ -1,0 +1,58 @@
+{
+  "day": 19,
+  "book": 1,
+  "week": 3,
+  "title": "Praznici",
+  "titleEn": "Holidays",
+  "theme": "Bajram lights / winter markets",
+  "status": "outlined",
+  "reviewedAt": null,
+  "reviewerNotes": "",
+  "estimatedMinutes": 60,
+  "storyBeat": "Holiday lights and markets",
+  "learningGoals": {
+    "vocabulary": [
+      "Coming night 19: Holiday greetings (inclusive)"
+    ],
+    "grammar": [
+      "To be filled on draft night"
+    ],
+    "culture": [
+      "Bajram lights / winter markets"
+    ]
+  },
+  "vocabulary": [],
+  "grammar": [],
+  "culture": {
+    "title": "Bajram lights / winter markets",
+    "body": "Stub for Day 19. Full culture hook will be written on the draft night.",
+    "imageId": null
+  },
+  "lessonBlocks": [],
+  "conversation": {
+    "title": "",
+    "setting": "",
+    "lines": []
+  },
+  "puzzles": [],
+  "practice": [],
+  "funFacts": [],
+  "resources": [
+    {
+      "label": "How to speak Bosnian — YouTube",
+      "url": "https://www.youtube.com/@HowtospeakBosnian",
+      "note": "Companion video after publish"
+    }
+  ],
+  "sectionQuiz": {
+    "title": "Day 19 section quiz",
+    "passPercent": 70,
+    "questions": []
+  },
+  "dictionaryEntries": [],
+  "images": [],
+  "imagesNeeded": true,
+  "imageBriefs": [
+    "Photo related to: Bajram lights / winter markets"
+  ]
+}

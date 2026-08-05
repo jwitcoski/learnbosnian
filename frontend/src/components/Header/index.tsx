@@ -1,8 +1,7 @@
 import { useState } from "react";
 import { Row, Col, Drawer } from "antd";
-import { withTranslation, TFunction } from "react-i18next";
+import { Link } from "react-router-dom";
 import Container from "../../common/Container";
-// import { SvgIcon } from "../../common/SvgIcon";
 import { Button } from "../../common/Button";
 import {
   HeaderSection,
@@ -16,7 +15,7 @@ import {
   Span,
 } from "./styles";
 
-const Header = ({ t }: { t: TFunction }) => {
+const Header = () => {
   const [visible, setVisibility] = useState(false);
 
   const toggleButton = () => {
@@ -24,34 +23,38 @@ const Header = ({ t }: { t: TFunction }) => {
   };
 
   const MenuItem = () => {
-    const scrollTo = (id: string) => {
-      const element = document.getElementById(id) as HTMLDivElement;
-      element.scrollIntoView({
-        behavior: "smooth",
-      });
-      setVisibility(false);
-    };
     return (
       <>
-        <CustomNavLinkSmall onClick={() => scrollTo("about")}>
-          <Span>{t("About")}</Span>
+        <CustomNavLinkSmall>
+          <Link to="/learn">
+            <Span>Learn</Span>
+          </Link>
         </CustomNavLinkSmall>
-        <CustomNavLinkSmall onClick={() => scrollTo("lessons")}>
-          <Span>{t("Lessons")}</Span>
+        <CustomNavLinkSmall>
+          <Link to="/dictionary">
+            <Span>Dictionary</Span>
+          </Link>
         </CustomNavLinkSmall>
-        <CustomNavLinkSmall onClick={() => scrollTo("practice")}>
-          <Span>{t("Practice")}</Span>
+        <CustomNavLinkSmall>
+          <Link to="/books">
+            <Span>Books</Span>
+          </Link>
         </CustomNavLinkSmall>
-        <CustomNavLinkSmall onClick={() => scrollTo("progress")}>
-          <Span>{t("Progress")}</Span>
+        <CustomNavLinkSmall>
+          <a
+            href="https://www.youtube.com/@HowtospeakBosnian"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <Span>YouTube</Span>
+          </a>
         </CustomNavLinkSmall>
-        <CustomNavLinkSmall
-          style={{ width: "180px" }}
-          onClick={() => scrollTo("contact")}
-        >
-          <Span>
-            <Button>{t("Get Started")}</Button>
-          </Span>
+        <CustomNavLinkSmall style={{ width: "180px" }}>
+          <Link to="/learn/day/1">
+            <Span>
+              <Button>Start Day 1</Button>
+            </Span>
+          </Link>
         </CustomNavLinkSmall>
       </>
     );
@@ -62,14 +65,19 @@ const Header = ({ t }: { t: TFunction }) => {
       <Container>
         <Row justify="space-between">
           <LogoContainer to="/" aria-label="homepage">
-            <div style={{ 
-              fontSize: '20px', 
-              fontWeight: 'bold', 
-              color: '#18216d',
-              textAlign: 'center'
-            }}>
-              <div>Learn</div>
-              <div>Bosnian</div>
+            <div
+              style={{
+                fontSize: "18px",
+                fontWeight: "bold",
+                color: "#5D4037",
+                fontFamily: "var(--font-display)",
+                lineHeight: 1.15,
+              }}
+            >
+              <div>Learn Bosnian</div>
+              <div style={{ fontSize: "12px", fontWeight: 600, color: "#C62828" }}>
+                in 30 Days
+              </div>
             </div>
           </LogoContainer>
           <NotHidden>
@@ -83,18 +91,20 @@ const Header = ({ t }: { t: TFunction }) => {
           <Col style={{ marginBottom: "2.5rem" }}>
             <Label onClick={toggleButton}>
               <Col span={12}>
-                <Menu>Meni</Menu>
+                <Menu>Menu</Menu>
               </Col>
               <Col span={12}>
                 <Outline />
               </Col>
             </Label>
           </Col>
-          <MenuItem />
+          <div onClick={() => setVisibility(false)}>
+            <MenuItem />
+          </div>
         </Drawer>
       </Container>
     </HeaderSection>
   );
 };
 
-export default withTranslation()(Header);
+export default Header;

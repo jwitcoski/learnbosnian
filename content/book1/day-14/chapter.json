@@ -1,0 +1,58 @@
+{
+  "day": 14,
+  "book": 1,
+  "week": 2,
+  "title": "Sedmica 2 — ponavljanje",
+  "titleEn": "Week 2 — review",
+  "theme": "Board-game night at Amira’s",
+  "status": "outlined",
+  "reviewedAt": null,
+  "reviewerNotes": "",
+  "estimatedMinutes": 60,
+  "storyBeat": "Board-game night",
+  "learningGoals": {
+    "vocabulary": [
+      "Coming night 14: Review days 8–13"
+    ],
+    "grammar": [
+      "To be filled on draft night"
+    ],
+    "culture": [
+      "Board-game night at Amira’s"
+    ]
+  },
+  "vocabulary": [],
+  "grammar": [],
+  "culture": {
+    "title": "Board-game night at Amira’s",
+    "body": "Stub for Day 14. Full culture hook will be written on the draft night.",
+    "imageId": null
+  },
+  "lessonBlocks": [],
+  "conversation": {
+    "title": "",
+    "setting": "",
+    "lines": []
+  },
+  "puzzles": [],
+  "practice": [],
+  "funFacts": [],
+  "resources": [
+    {
+      "label": "How to speak Bosnian — YouTube",
+      "url": "https://www.youtube.com/@HowtospeakBosnian",
+      "note": "Companion video after publish"
+    }
+  ],
+  "sectionQuiz": {
+    "title": "Day 14 section quiz",
+    "passPercent": 70,
+    "questions": []
+  },
+  "dictionaryEntries": [],
+  "images": [],
+  "imagesNeeded": true,
+  "imageBriefs": [
+    "Photo related to: Board-game night at Amira’s"
+  ]
+}

@@ -21,4 +21,6 @@ export interface ContentBlockProps {
   t: TFunction;
   id: string;
   direction: "left" | "right";
+  onPrimaryClick?: () => void;
+  onSecondaryClick?: () => void;
 }

@@ -1,0 +1,462 @@
+{
+  "day": 1,
+  "book": 1,
+  "week": 1,
+  "title": "Zdravo, Sarajevo!",
+  "titleEn": "Hello, Sarajevo!",
+  "theme": "First walk through Baščaršija",
+  "status": "draft",
+  "reviewedAt": null,
+  "reviewerNotes": "Exemplar chapter — ready for human review before publish.",
+  "estimatedMinutes": 60,
+  "storyBeat": "Ana lands in Sarajevo and takes her first walk through Baščaršija, practicing greetings and new letter sounds.",
+  "learningGoals": {
+    "vocabulary": [
+      "Basic greetings (zdravo, dobar dan, hvala, molim)",
+      "Key Baščaršija place words",
+      "Letters with diacritics: č, ć, š, ž, đ, dž"
+    ],
+    "grammar": [
+      "Latin Bosnian alphabet overview",
+      "Simple greeting exchanges (no full conjugation yet)"
+    ],
+    "culture": [
+      "Baščaršija as Sarajevo’s old bazaar heart",
+      "Warm everyday greetings in Bosnia and Herzegovina"
+    ]
+  },
+  "vocabulary": [
+    {
+      "bosnian": "zdravo",
+      "english": "hello (informal)",
+      "pronunciation": "ZDRAH-voh",
+      "partOfSpeech": "interjection",
+      "example": "Zdravo!"
+    },
+    {
+      "bosnian": "dobar dan",
+      "english": "good day / hello (polite)",
+      "pronunciation": "DOH-bar dahn",
+      "partOfSpeech": "phrase",
+      "example": "Dobar dan!"
+    },
+    {
+      "bosnian": "dobro jutro",
+      "english": "good morning",
+      "pronunciation": "DOH-bro YOO-tro",
+      "partOfSpeech": "phrase",
+      "example": "Dobro jutro!"
+    },
+    {
+      "bosnian": "dobra večer",
+      "english": "good evening",
+      "pronunciation": "DOH-bra VEH-cher",
+      "partOfSpeech": "phrase",
+      "example": "Dobra večer!"
+    },
+    {
+      "bosnian": "hvala",
+      "english": "thank you",
+      "pronunciation": "HVAH-lah",
+      "partOfSpeech": "interjection",
+      "example": "Hvala!"
+    },
+    {
+      "bosnian": "molim",
+      "english": "please / you're welcome",
+      "pronunciation": "MOH-leem",
+      "partOfSpeech": "interjection",
+      "example": "Molim!"
+    },
+    {
+      "bosnian": "doviđenja",
+      "english": "goodbye",
+      "pronunciation": "doh-vee-JEN-ya",
+      "partOfSpeech": "interjection",
+      "example": "Doviđenja!"
+    },
+    {
+      "bosnian": "da",
+      "english": "yes",
+      "pronunciation": "dah",
+      "partOfSpeech": "particle",
+      "example": "Da."
+    },
+    {
+      "bosnian": "ne",
+      "english": "no",
+      "pronunciation": "neh",
+      "partOfSpeech": "particle",
+      "example": "Ne."
+    },
+    {
+      "bosnian": "Sarajevo",
+      "english": "Sarajevo",
+      "pronunciation": "sah-rah-YEH-voh",
+      "partOfSpeech": "proper noun",
+      "example": "Zdravo, Sarajevo!"
+    },
+    {
+      "bosnian": "Baščaršija",
+      "english": "Baščaršija (old bazaar)",
+      "pronunciation": "bash-CHAR-shi-ya",
+      "partOfSpeech": "proper noun",
+      "example": "Idem u Baščaršiju."
+    },
+    {
+      "bosnian": "ulica",
+      "english": "street",
+      "pronunciation": "OO-lee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Ovo je ulica."
+    },
+    {
+      "bosnian": "čaj",
+      "english": "tea",
+      "pronunciation": "chigh",
+      "partOfSpeech": "noun",
+      "example": "Čaj, molim."
+    },
+    {
+      "bosnian": "žena",
+      "english": "woman / wife",
+      "pronunciation": "ZHEH-nah",
+      "partOfSpeech": "noun",
+      "example": "Žena kaže zdravo."
+    },
+    {
+      "bosnian": "đak",
+      "english": "pupil / schoolchild",
+      "pronunciation": "jak",
+      "partOfSpeech": "noun",
+      "example": "Đak uči."
+    },
+    {
+      "bosnian": "džezva",
+      "english": "coffee pot (cezve)",
+      "pronunciation": "JEZ-vah",
+      "partOfSpeech": "noun",
+      "example": "Džezva je mala."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "The Latin Bosnian alphabet",
+      "explanation": "Bosnian is written with the Latin alphabet in this book. Most letters sound familiar. Six special letters matter a lot: č, ć, š, ž, đ, and the digraph dž. We never use Cyrillic here.",
+      "examples": [
+        { "bosnian": "čaj", "english": "tea (č like English 'ch' in church)" },
+        { "bosnian": "ćup", "english": "jar (ć is softer, closer to 't' + soft 'ch')" },
+        { "bosnian": "šuma", "english": "forest (š like 'sh')" },
+        { "bosnian": "žena", "english": "woman (ž like 's' in measure)" },
+        { "bosnian": "đak", "english": "pupil (đ like 'j' in juice, softer)" },
+        { "bosnian": "džezva", "english": "coffee pot (dž like 'j' in jam)" }
+      ]
+    },
+    {
+      "title": "Greeting exchanges",
+      "explanation": "Start simple. Say a greeting, hear one back, then add hvala or molim. Formal day greetings use dobar dan; friends often say zdravo.",
+      "examples": [
+        { "bosnian": "Zdravo!", "english": "Hello!" },
+        { "bosnian": "Dobar dan!", "english": "Good day!" },
+        { "bosnian": "Hvala. — Molim.", "english": "Thank you. — You're welcome." }
+      ]
+    }
+  ],
+  "culture": {
+    "title": "Baščaršija — Sarajevo’s old heart",
+    "body": "Baščaršija is the historic bazaar of Sarajevo: narrow streets, copper shops, cafés, and the sound of footsteps on stone. Ana arrives with a backpack and a phrase list. Shopkeepers greet visitors with a warm Dobar dan! Learning greetings here is not just polite — it opens doors (and often a free smile). The special letters in Baščaršija (š, č) are your first real Bosnian workout.",
+    "imageId": "bascarsija"
+  },
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A — Letters that look new",
+      "body": "Look at these six: č ć š ž đ dž. Pair each with a word you can feel in your mouth. Čaj (tea). Ćup (jar). Šuma (forest). Žena (woman). Đak (pupil). Džezva (the little pot for Bosnian coffee). Say them slowly. Ana practices on the plane: čaj, čaj, čaj — then walks into Baščaršija and sees a real džezva in a shop window.",
+      "tips": [
+        "č vs ć: č is harder; ć is softer and shorter",
+        "dž is one sound, like English j in jam",
+        "Read street signs out loud — Sarajevo is full of practice"
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B — Your first greetings",
+      "body": "Memorize this mini set: Zdravo (hi), Dobar dan (good day), Dobro jutro (good morning), Dobra večer (good evening), Hvala (thanks), Molim (please / you're welcome), Doviđenja (goodbye), Da / Ne (yes / no). Use Dobar dan with people you do not know well. Use Zdravo with friends — or with Emir, once you meet him tomorrow.",
+      "tips": [
+        "Smile helps more than perfect pronunciation",
+        "If you forget, Hvala still works almost everywhere"
+      ]
+    }
+  ],
+  "conversation": {
+    "title": "Ana’s first hello",
+    "setting": "A narrow street in Baščaršija. Ana nearly trips over a cat — Mrvica, though she does not know the name yet.",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "bosnian": "Dobar dan!",
+        "english": "Good day!"
+      },
+      {
+        "speaker": "Shopkeeper",
+        "bosnian": "Dobar dan! Molim?",
+        "english": "Good day! Yes? / Can I help you?"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Hvala… čaj?",
+        "english": "Thank you… tea?"
+      },
+      {
+        "speaker": "Shopkeeper",
+        "bosnian": "Da. Čaj. Molim!",
+        "english": "Yes. Tea. Here you are! / Please!"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Hvala! Doviđenja!",
+        "english": "Thank you! Goodbye!"
+      },
+      {
+        "speaker": "Shopkeeper",
+        "bosnian": "Doviđenja!",
+        "english": "Goodbye!"
+      },
+      {
+        "speaker": "Narrator",
+        "bosnian": "Mrvica mjauče. Ana kaže: Zdravo!",
+        "english": "Mrvica meows. Ana says: Hello!"
+      }
+    ]
+  },
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match the greeting",
+      "prompt": "Match each Bosnian greeting to English.",
+      "items": [
+        { "left": "zdravo", "right": "hello (informal)" },
+        { "left": "dobar dan", "right": "good day" },
+        { "left": "hvala", "right": "thank you" },
+        { "left": "doviđenja", "right": "goodbye" },
+        { "left": "molim", "right": "please / you're welcome" }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "scramble",
+      "title": "Unscramble the letters",
+      "prompt": "Unscramble to make today’s words.",
+      "items": [
+        { "scrambled": "lavah", "answer": "hvala" },
+        { "scrambled": "avozrd", "answer": "zdravo" },
+        { "scrambled": "jac", "answer": "čaj" }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "How do you say informal hello?",
+      "hint": "Starts with z",
+      "answer": "zdravo"
+    },
+    {
+      "id": "pr2",
+      "prompt": "Write the polite daytime greeting (two words).",
+      "hint": "Good day",
+      "answer": "dobar dan"
+    },
+    {
+      "id": "pr3",
+      "prompt": "Which letter sound is in čaj — č or ć?",
+      "hint": "Harder 'ch'",
+      "answer": "č"
+    },
+    {
+      "id": "pr4",
+      "prompt": "Translate: Thank you!",
+      "hint": "One word",
+      "answer": "hvala"
+    },
+    {
+      "id": "pr5",
+      "prompt": "Name Sarajevo’s old bazaar.",
+      "hint": "Has š and č",
+      "answer": "Baščaršija"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "Baščaršija means ‘main market’",
+      "body": "The name comes from Turkish roots meaning the chief marketplace. Today it is still full of craft shops and cafés."
+    },
+    {
+      "title": "One letter, one sound",
+      "body": "Bosnian spelling is mostly phonetic: what you see is what you say. That helps beginners a lot once the special letters click."
+    },
+    {
+      "title": "Cats of the čaršija",
+      "body": "Sarajevo’s old town is famous for friendly street cats. Mrvica is fictional — but her attitude is very local."
+    }
+  ],
+  "resources": [
+    {
+      "label": "How to speak Bosnian — YouTube",
+      "url": "https://www.youtube.com/@HowtospeakBosnian",
+      "note": "Companion videos for each chapter after human review"
+    },
+    {
+      "label": "Map: Sarajevo old town",
+      "url": "https://www.openstreetmap.org/#map=16/43.859/18.431",
+      "note": "Find Baščaršija before your next lesson"
+    }
+  ],
+  "sectionQuiz": {
+    "title": "Day 1 section quiz",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does 'zdravo' mean?",
+        "options": [
+          "Hello (informal)",
+          "Goodbye",
+          "Please",
+          "Good evening"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zdravo is the friendly everyday hello."
+      },
+      {
+        "id": "q2",
+        "question": "Which greeting is more polite with strangers during the day?",
+        "options": [
+          "Zdravo",
+          "Dobar dan",
+          "Ćao only",
+          "Ne"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dobar dan is the polite daytime greeting."
+      },
+      {
+        "id": "q3",
+        "question": "Which word means 'thank you'?",
+        "options": [
+          "Molim",
+          "Da",
+          "Hvala",
+          "Ulica"
+        ],
+        "correctIndex": 2,
+        "explanation": "Hvala = thank you. Molim can mean please or you're welcome."
+      },
+      {
+        "id": "q4",
+        "question": "The letter š sounds most like English…",
+        "options": [
+          "'s' in sun",
+          "'sh' in ship",
+          "'z' in zoo",
+          "'ch' in church"
+        ],
+        "correctIndex": 1,
+        "explanation": "Š is like sh in ship — as in Baščaršija."
+      },
+      {
+        "id": "q5",
+        "question": "A džezva is…",
+        "options": [
+          "A bridge",
+          "A small coffee pot",
+          "A greeting",
+          "A street cat"
+        ],
+        "correctIndex": 1,
+        "explanation": "Džezva is the little pot used for Bosnian coffee."
+      },
+      {
+        "id": "q6",
+        "question": "How do you say goodbye?",
+        "options": [
+          "Dobro jutro",
+          "Doviđenja",
+          "Da",
+          "Čaj"
+        ],
+        "correctIndex": 1,
+        "explanation": "Doviđenja means goodbye."
+      },
+      {
+        "id": "q7",
+        "question": "Baščaršija is…",
+        "options": [
+          "A mountain near Mostar",
+          "Sarajevo’s old bazaar district",
+          "A type of bread",
+          "The Bosnian alphabet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Baščaršija is the historic market heart of Sarajevo."
+      },
+      {
+        "id": "q8",
+        "question": "Which pair shows a harder vs softer 'ch'-like sound?",
+        "options": [
+          "š vs ž",
+          "č vs ć",
+          "dž vs đ only as vowels",
+          "a vs e"
+        ],
+        "correctIndex": 1,
+        "explanation": "Č is harder; ć is softer — a classic beginner pair."
+      }
+    ]
+  },
+  "dictionaryEntries": [
+    { "bosnian": "zdravo", "english": "hello (informal)", "partOfSpeech": "interjection", "day": 1 },
+    { "bosnian": "dobar dan", "english": "good day", "partOfSpeech": "phrase", "day": 1 },
+    { "bosnian": "dobro jutro", "english": "good morning", "partOfSpeech": "phrase", "day": 1 },
+    { "bosnian": "dobra večer", "english": "good evening", "partOfSpeech": "phrase", "day": 1 },
+    { "bosnian": "hvala", "english": "thank you", "partOfSpeech": "interjection", "day": 1 },
+    { "bosnian": "molim", "english": "please / you're welcome", "partOfSpeech": "interjection", "day": 1 },
+    { "bosnian": "doviđenja", "english": "goodbye", "partOfSpeech": "interjection", "day": 1 },
+    { "bosnian": "da", "english": "yes", "partOfSpeech": "particle", "day": 1 },
+    { "bosnian": "ne", "english": "no", "partOfSpeech": "particle", "day": 1 },
+    { "bosnian": "Sarajevo", "english": "Sarajevo", "partOfSpeech": "proper noun", "day": 1 },
+    { "bosnian": "Baščaršija", "english": "Baščaršija (old bazaar)", "partOfSpeech": "proper noun", "day": 1 },
+    { "bosnian": "ulica", "english": "street", "partOfSpeech": "noun", "day": 1 },
+    { "bosnian": "čaj", "english": "tea", "partOfSpeech": "noun", "day": 1 },
+    { "bosnian": "žena", "english": "woman / wife", "partOfSpeech": "noun", "day": 1 },
+    { "bosnian": "đak", "english": "pupil", "partOfSpeech": "noun", "day": 1 },
+    { "bosnian": "džezva", "english": "coffee pot (cezve)", "partOfSpeech": "noun", "day": 1 },
+    { "bosnian": "šuma", "english": "forest", "partOfSpeech": "noun", "day": 1 },
+    { "bosnian": "ćup", "english": "jar", "partOfSpeech": "noun", "day": 1 }
+  ],
+  "images": [
+    {
+      "id": "bascarsija",
+      "alt": "Baščaršija streets in Sarajevo with Brusa Bezistan",
+      "localPath": "/images/book1/day-01-bascarsija.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bascarsija.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bascarsija.jpg",
+      "author": "Kathleen Franklin",
+      "license": "CC BY 2.0",
+      "credit": "Baščaršija, Sarajevo — Kathleen Franklin / Wikimedia Commons (CC BY 2.0)"
+    },
+    {
+      "id": "sebilj",
+      "alt": "Sebilj fountain in Baščaršija, Sarajevo",
+      "localPath": "/images/book1/day-01-sebilj.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sebilj,_Sarajevo.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sebilj,_Sarajevo.jpg",
+      "author": "BloodSaric",
+      "license": "CC BY-SA 2.5",
+      "credit": "Sebilj fountain, Sarajevo — BloodSaric / Wikimedia Commons (CC BY-SA 2.5)"
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": []
+}

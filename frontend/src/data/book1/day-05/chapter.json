@@ -1,0 +1,58 @@
+{
+  "day": 5,
+  "book": 1,
+  "week": 1,
+  "title": "Gdje je Mostar?",
+  "titleEn": "Where is Mostar?",
+  "theme": "Map of BiH; Mostar tease",
+  "status": "outlined",
+  "reviewedAt": null,
+  "reviewerNotes": "",
+  "estimatedMinutes": 60,
+  "storyBeat": "Emir teases a future Mostar trip",
+  "learningGoals": {
+    "vocabulary": [
+      "Coming night 5: Places, gdje/ovdje/tamo, u/na/kod"
+    ],
+    "grammar": [
+      "To be filled on draft night"
+    ],
+    "culture": [
+      "Map of BiH; Mostar tease"
+    ]
+  },
+  "vocabulary": [],
+  "grammar": [],
+  "culture": {
+    "title": "Map of BiH; Mostar tease",
+    "body": "Stub for Day 5. Full culture hook will be written on the draft night.",
+    "imageId": null
+  },
+  "lessonBlocks": [],
+  "conversation": {
+    "title": "",
+    "setting": "",
+    "lines": []
+  },
+  "puzzles": [],
+  "practice": [],
+  "funFacts": [],
+  "resources": [
+    {
+      "label": "How to speak Bosnian — YouTube",
+      "url": "https://www.youtube.com/@HowtospeakBosnian",
+      "note": "Companion video after publish"
+    }
+  ],
+  "sectionQuiz": {
+    "title": "Day 5 section quiz",
+    "passPercent": 70,
+    "questions": []
+  },
+  "dictionaryEntries": [],
+  "images": [],
+  "imagesNeeded": true,
+  "imageBriefs": [
+    "Photo related to: Map of BiH; Mostar tease"
+  ]
+}

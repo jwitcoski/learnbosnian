@@ -1,16 +1,21 @@
 {
-  "title": "Effective, engaging & comprehensive",
-  "text": "Our Bosnian learning platform is designed to make language acquisition natural and enjoyable, combining proven teaching methods with modern technology.",
+  "title": "Same lesson shape every day",
+  "text": "Goals, culture, vocab, grammar, a fun puzzle, conversation, practice, fun facts, another game, resources, then a section quiz. Predictable structure — less overwhelm.",
   "section": [
     {
-      "title": "Why interactive lessons?",
-      "content": "Interactive lessons keep you engaged and help you retain vocabulary and grammar through practice and repetition.",
+      "title": "Speak",
+      "content": "Dialogues with recurring characters and a gentle storyline.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why cultural context?",
-      "content": "Understanding Bosnian culture gives you deeper insight into the language and helps you communicate more naturally.",
-      "icon": "notes.svg"
+      "title": "Play",
+      "content": "Matching, unscramble, and quizzes for brains that tire of dry drills.",
+      "icon": "graphs.svg"
+    },
+    {
+      "title": "Remember",
+      "content": "A growing mini-dictionary and printable Scribus-ready exports.",
+      "icon": "product-launch.svg"
     }
   ]
 }

@@ -1,0 +1,58 @@
+{
+  "day": 6,
+  "book": 1,
+  "week": 1,
+  "title": "Koliko je sati?",
+  "titleEn": "What time is it?",
+  "theme": "City daily rhythm",
+  "status": "outlined",
+  "reviewedAt": null,
+  "reviewerNotes": "",
+  "estimatedMinutes": 60,
+  "storyBeat": "Ana learns the city’s daily rhythm",
+  "learningGoals": {
+    "vocabulary": [
+      "Coming night 6: Clock time, weekdays, danas/sutra"
+    ],
+    "grammar": [
+      "To be filled on draft night"
+    ],
+    "culture": [
+      "City daily rhythm"
+    ]
+  },
+  "vocabulary": [],
+  "grammar": [],
+  "culture": {
+    "title": "City daily rhythm",
+    "body": "Stub for Day 6. Full culture hook will be written on the draft night.",
+    "imageId": null
+  },
+  "lessonBlocks": [],
+  "conversation": {
+    "title": "",
+    "setting": "",
+    "lines": []
+  },
+  "puzzles": [],
+  "practice": [],
+  "funFacts": [],
+  "resources": [
+    {
+      "label": "How to speak Bosnian — YouTube",
+      "url": "https://www.youtube.com/@HowtospeakBosnian",
+      "note": "Companion video after publish"
+    }
+  ],
+  "sectionQuiz": {
+    "title": "Day 6 section quiz",
+    "passPercent": 70,
+    "questions": []
+  },
+  "dictionaryEntries": [],
+  "images": [],
+  "imagesNeeded": true,
+  "imageBriefs": [
+    "Photo related to: City daily rhythm"
+  ]
+}

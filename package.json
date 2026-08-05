@@ -1,4 +1,16 @@
 {
+  "name": "learnbosnian",
+  "private": true,
+  "scripts": {
+    "sync-content": "node scripts/sync-content.cjs",
+    "export:scribus": "node scripts/export-scribus.cjs --all-drafts",
+    "export:youtube": "node scripts/export-youtube.cjs",
+    "prestart": "node scripts/sync-content.cjs",
+    "start": "npm --prefix frontend start",
+    "prebuild": "node scripts/sync-content.cjs",
+    "build": "npm --prefix frontend run build",
+    "test:frontend": "npm --prefix frontend test -- --watchAll=false"
+  },
   "devDependencies": {
     "serverless-s3-sync": "^3.4.0"
   }

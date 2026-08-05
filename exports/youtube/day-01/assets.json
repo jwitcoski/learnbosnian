@@ -1,0 +1,27 @@
+{
+  "day": 1,
+  "title": "Zdravo, Sarajevo!",
+  "images": [
+    {
+      "id": "bascarsija",
+      "alt": "Baščaršija streets in Sarajevo with Brusa Bezistan",
+      "localPath": "/images/book1/day-01-bascarsija.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bascarsija.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bascarsija.jpg",
+      "author": "Kathleen Franklin",
+      "license": "CC BY 2.0",
+      "credit": "Baščaršija, Sarajevo — Kathleen Franklin / Wikimedia Commons (CC BY 2.0)"
+    },
+    {
+      "id": "sebilj",
+      "alt": "Sebilj fountain in Baščaršija, Sarajevo",
+      "localPath": "/images/book1/day-01-sebilj.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sebilj,_Sarajevo.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sebilj,_Sarajevo.jpg",
+      "author": "BloodSaric",
+      "license": "CC BY-SA 2.5",
+      "credit": "Sebilj fountain, Sarajevo — BloodSaric / Wikimedia Commons (CC BY-SA 2.5)"
+    }
+  ],
+  "localImageDir": "frontend/public/images/book1"
+}

@@ -1,0 +1,58 @@
+{
+  "day": 20,
+  "book": 1,
+  "week": 3,
+  "title": "Telefonski poziv",
+  "titleEn": "Phone call",
+  "theme": "Where is Mrvica?",
+  "status": "outlined",
+  "reviewedAt": null,
+  "reviewerNotes": "",
+  "estimatedMinutes": 60,
+  "storyBeat": "Emergency cat phone call",
+  "learningGoals": {
+    "vocabulary": [
+      "Coming night 20: Phone phrases, ko/šta/kada/zašto"
+    ],
+    "grammar": [
+      "To be filled on draft night"
+    ],
+    "culture": [
+      "Where is Mrvica?"
+    ]
+  },
+  "vocabulary": [],
+  "grammar": [],
+  "culture": {
+    "title": "Where is Mrvica?",
+    "body": "Stub for Day 20. Full culture hook will be written on the draft night.",
+    "imageId": null
+  },
+  "lessonBlocks": [],
+  "conversation": {
+    "title": "",
+    "setting": "",
+    "lines": []
+  },
+  "puzzles": [],
+  "practice": [],
+  "funFacts": [],
+  "resources": [
+    {
+      "label": "How to speak Bosnian — YouTube",
+      "url": "https://www.youtube.com/@HowtospeakBosnian",
+      "note": "Companion video after publish"
+    }
+  ],
+  "sectionQuiz": {
+    "title": "Day 20 section quiz",
+    "passPercent": 70,
+    "questions": []
+  },
+  "dictionaryEntries": [],
+  "images": [],
+  "imagesNeeded": true,
+  "imageBriefs": [
+    "Photo related to: Where is Mrvica?"
+  ]
+}

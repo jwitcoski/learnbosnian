@@ -1,0 +1,58 @@
+{
+  "day": 17,
+  "book": 1,
+  "week": 3,
+  "title": "Dobar tek!",
+  "titleEn": "Enjoy your meal!",
+  "theme": "Klepe vs japrak debate",
+  "status": "outlined",
+  "reviewedAt": null,
+  "reviewerNotes": "",
+  "estimatedMinutes": 60,
+  "storyBeat": "Restaurant debate",
+  "learningGoals": {
+    "vocabulary": [
+      "Coming night 17: Restaurant dialogue, htjeti"
+    ],
+    "grammar": [
+      "To be filled on draft night"
+    ],
+    "culture": [
+      "Klepe vs japrak debate"
+    ]
+  },
+  "vocabulary": [],
+  "grammar": [],
+  "culture": {
+    "title": "Klepe vs japrak debate",
+    "body": "Stub for Day 17. Full culture hook will be written on the draft night.",
+    "imageId": null
+  },
+  "lessonBlocks": [],
+  "conversation": {
+    "title": "",
+    "setting": "",
+    "lines": []
+  },
+  "puzzles": [],
+  "practice": [],
+  "funFacts": [],
+  "resources": [
+    {
+      "label": "How to speak Bosnian — YouTube",
+      "url": "https://www.youtube.com/@HowtospeakBosnian",
+      "note": "Companion video after publish"
+    }
+  ],
+  "sectionQuiz": {
+    "title": "Day 17 section quiz",
+    "passPercent": 70,
+    "questions": []
+  },
+  "dictionaryEntries": [],
+  "images": [],
+  "imagesNeeded": true,
+  "imageBriefs": [
+    "Photo related to: Klepe vs japrak debate"
+  ]
+}

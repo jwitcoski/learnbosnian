@@ -1,0 +1,58 @@
+{
+  "day": 4,
+  "book": 1,
+  "week": 1,
+  "title": "Porodica Mrvice",
+  "titleEn": "Mrvica’s family",
+  "theme": "Café “family” + the cat",
+  "status": "outlined",
+  "reviewedAt": null,
+  "reviewerNotes": "",
+  "estimatedMinutes": 60,
+  "storyBeat": "Mrvica adopts Ana; café regulars feel like family",
+  "learningGoals": {
+    "vocabulary": [
+      "Coming night 4: Family words, moj/tvoja, gender intro"
+    ],
+    "grammar": [
+      "To be filled on draft night"
+    ],
+    "culture": [
+      "Café “family” + the cat"
+    ]
+  },
+  "vocabulary": [],
+  "grammar": [],
+  "culture": {
+    "title": "Café “family” + the cat",
+    "body": "Stub for Day 4. Full culture hook will be written on the draft night.",
+    "imageId": null
+  },
+  "lessonBlocks": [],
+  "conversation": {
+    "title": "",
+    "setting": "",
+    "lines": []
+  },
+  "puzzles": [],
+  "practice": [],
+  "funFacts": [],
+  "resources": [
+    {
+      "label": "How to speak Bosnian — YouTube",
+      "url": "https://www.youtube.com/@HowtospeakBosnian",
+      "note": "Companion video after publish"
+    }
+  ],
+  "sectionQuiz": {
+    "title": "Day 4 section quiz",
+    "passPercent": 70,
+    "questions": []
+  },
+  "dictionaryEntries": [],
+  "images": [],
+  "imagesNeeded": true,
+  "imageBriefs": [
+    "Photo related to: Café “family” + the cat"
+  ]
+}

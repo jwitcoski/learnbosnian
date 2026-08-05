@@ -1,0 +1,58 @@
+{
+  "day": 15,
+  "book": 1,
+  "week": 3,
+  "title": "Desna ili lijeva?",
+  "titleEn": "Right or left?",
+  "theme": "Lost near Latinska ćuprija",
+  "status": "outlined",
+  "reviewedAt": null,
+  "reviewerNotes": "",
+  "estimatedMinutes": 60,
+  "storyBeat": "Ana gets lost near the bridge",
+  "learningGoals": {
+    "vocabulary": [
+      "Coming night 15: Directions, polite imperatives"
+    ],
+    "grammar": [
+      "To be filled on draft night"
+    ],
+    "culture": [
+      "Lost near Latinska ćuprija"
+    ]
+  },
+  "vocabulary": [],
+  "grammar": [],
+  "culture": {
+    "title": "Lost near Latinska ćuprija",
+    "body": "Stub for Day 15. Full culture hook will be written on the draft night.",
+    "imageId": null
+  },
+  "lessonBlocks": [],
+  "conversation": {
+    "title": "",
+    "setting": "",
+    "lines": []
+  },
+  "puzzles": [],
+  "practice": [],
+  "funFacts": [],
+  "resources": [
+    {
+      "label": "How to speak Bosnian — YouTube",
+      "url": "https://www.youtube.com/@HowtospeakBosnian",
+      "note": "Companion video after publish"
+    }
+  ],
+  "sectionQuiz": {
+    "title": "Day 15 section quiz",
+    "passPercent": 70,
+    "questions": []
+  },
+  "dictionaryEntries": [],
+  "images": [],
+  "imagesNeeded": true,
+  "imageBriefs": [
+    "Photo related to: Lost near Latinska ćuprija"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "day": 11,
+  "book": 1,
+  "week": 2,
+  "title": "Kakvo je vrijeme?",
+  "titleEn": "How is the weather?",
+  "theme": "Autumn on Trebević",
+  "status": "outlined",
+  "reviewedAt": null,
+  "reviewerNotes": "",
+  "estimatedMinutes": 60,
+  "storyBeat": "Weather ruins a picnic",
+  "learningGoals": {
+    "vocabulary": [
+      "Coming night 11: Weather, seasons, adjectives"
+    ],
+    "grammar": [
+      "To be filled on draft night"
+    ],
+    "culture": [
+      "Autumn on Trebević"
+    ]
+  },
+  "vocabulary": [],
+  "grammar": [],
+  "culture": {
+    "title": "Autumn on Trebević",
+    "body": "Stub for Day 11. Full culture hook will be written on the draft night.",
+    "imageId": null
+  },
+  "lessonBlocks": [],
+  "conversation": {
+    "title": "",
+    "setting": "",
+    "lines": []
+  },
+  "puzzles": [],
+  "practice": [],
+  "funFacts": [],
+  "resources": [
+    {
+      "label": "How to speak Bosnian — YouTube",
+      "url": "https://www.youtube.com/@HowtospeakBosnian",
+      "note": "Companion video after publish"
+    }
+  ],
+  "sectionQuiz": {
+    "title": "Day 11 section quiz",
+    "passPercent": 70,
+    "questions": []
+  },
+  "dictionaryEntries": [],
+  "images": [],
+  "imagesNeeded": true,
+  "imageBriefs": [
+    "Photo related to: Autumn on Trebević"
+  ]
+}
