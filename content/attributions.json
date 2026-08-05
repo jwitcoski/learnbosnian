@@ -38,6 +38,18 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Folk_group_Costume_Dress,_Bosnia_Herzegovina.jpg",
       "localPath": "/images/home/traditional-costume.png",
       "notes": "Polygon paint treatment of the source photo; background removed for the site."
+    },
+    {
+      "id": "book1-day-00-mostar-neretva",
+      "notes": "Day 0 polygon paint treatment of the source photo; background removed for the site."
+    },
+    {
+      "id": "book1-day-01-bascarsija",
+      "notes": "Day 1 polygon paint treatment of the source photo; background removed for the site."
+    },
+    {
+      "id": "book1-day-01-sebilj",
+      "notes": "Day 1 polygon paint treatment of the source photo; background removed for the site."
     }
   ]
 }

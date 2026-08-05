@@ -58,7 +58,13 @@ export default function LessonShell({ chapter }: Props) {
           </p>
         </div>
       </HeroBand>
-      {hero && <Credit>{hero.credit}</Credit>}
+      {hero && (
+        <Credit>
+          <Link to={`/attributions#book1-day-${String(chapter.day).padStart(2, "0")}-${hero.id}`}>
+            {hero.credit}
+          </Link>
+        </Credit>
+      )}
 
       <Panel id="goals">
         <h2>Today’s goals</h2>
@@ -93,9 +99,21 @@ export default function LessonShell({ chapter }: Props) {
               <img
                 src={chapter.images[1].localPath}
                 alt={chapter.images[1].alt}
-                style={{ width: "100%", display: "block" }}
+                style={{
+                  width: "100%",
+                  display: "block",
+                  objectFit: "contain",
+                  maxHeight: 420,
+                  background: "transparent",
+                }}
               />
-              <Credit as="figcaption">{chapter.images[1].credit}</Credit>
+              <Credit as="figcaption">
+                <Link
+                  to={`/attributions#book1-day-${String(chapter.day).padStart(2, "0")}-${chapter.images[1].id}`}
+                >
+                  {chapter.images[1].credit}
+                </Link>
+              </Credit>
             </figure>
           )}
         </Panel>

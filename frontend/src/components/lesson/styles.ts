@@ -1,10 +1,5 @@
-import styled, { keyframes } from "styled-components";
+import styled from "styled-components";
 import { Link } from "react-router-dom";
-
-const shimmer = keyframes`
-  0% { background-position: 0% 50%; }
-  100% { background-position: 100% 50%; }
-`;
 
 export const SectionDivider = styled.div`
   height: 18px;
@@ -44,27 +39,29 @@ export const HeroBand = styled.header`
   min-height: 280px;
   display: flex;
   align-items: flex-end;
-  background: linear-gradient(135deg, var(--color-brown), var(--color-crimson));
-  animation: ${shimmer} 12s linear infinite;
-  background-size: 200% 200%;
+  justify-content: center;
+  background: linear-gradient(160deg, #fffdf8 0%, #f7f1e8 55%, #efe6d8 100%);
+  border: 1px solid rgba(93, 64, 55, 0.12);
 
   img {
     position: absolute;
     inset: 0;
     width: 100%;
     height: 100%;
-    object-fit: cover;
-    opacity: 0.55;
+    object-fit: contain;
+    object-position: center;
+    opacity: 1;
+    padding: 0.75rem 0.75rem 4.5rem;
   }
 
   .hero-copy {
     position: relative;
     z-index: 1;
-    padding: 1.75rem;
+    padding: 1.25rem 1.75rem;
     color: white;
     text-shadow: 0 1px 8px rgba(0, 0, 0, 0.45);
     width: 100%;
-    background: linear-gradient(transparent, rgba(44, 24, 16, 0.75));
+    background: linear-gradient(transparent, rgba(44, 24, 16, 0.82));
   }
 
   h1 {
@@ -82,6 +79,16 @@ export const Credit = styled.p`
   font-size: 0.8rem !important;
   color: var(--color-muted) !important;
   margin: 0.35rem 0 0;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+
+    &:hover {
+      color: var(--color-crimson);
+      text-decoration: underline;
+    }
+  }
 `;
 
 export const Panel = styled.section`

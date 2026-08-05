@@ -7,7 +7,7 @@
   "entries": [
     {
       "id": "book1-day-00-mostar-neretva",
-      "title": "Koski Mehmed Pasha Mosque above the Neretva River in Mostar, Herzegovina",
+      "title": "Polygon painting of Koski Mehmed Pasha Mosque above the Neretva in Mostar",
       "whereUsed": [
         "Book 1 · Day 0 — Why Bosnian?"
       ],
@@ -16,15 +16,15 @@
       "license": "Pexels License",
       "pageUrl": "https://www.pexels.com/photo/the-koski-mehmed-pasha-mosque-mostar-bosnia-and-herzegovina-24244453/",
       "sourceUrl": "https://www.pexels.com/photo/the-koski-mehmed-pasha-mosque-mostar-bosnia-and-herzegovina-24244453/",
-      "localPath": "/images/book1/day-00-mostar-neretva.jpg",
-      "credit": "Mostar and the Neretva — Borys Jarzcuk / Pexels",
-      "notes": "",
+      "localPath": "/images/book1/day-00-mostar-neretva.png",
+      "credit": "Based on photo: Mostar and the Neretva — Borys Jarzcuk / Pexels",
+      "notes": "Day 0 polygon paint treatment of the source photo; background removed for the site.",
       "book": 1,
       "day": 0
     },
     {
       "id": "book1-day-01-bascarsija",
-      "title": "Baščaršija streets in Sarajevo with Brusa Bezistan",
+      "title": "Polygon painting of Baščaršija streets in Sarajevo with Brusa Bezistan",
       "whereUsed": [
         "Book 1 · Day 1 — Hello, Sarajevo!"
       ],
@@ -33,15 +33,15 @@
       "license": "CC BY 2.0",
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Bascarsija.jpg",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bascarsija.jpg",
-      "localPath": "/images/book1/day-01-bascarsija.jpg",
-      "credit": "Baščaršija, Sarajevo — Kathleen Franklin / Wikimedia Commons (CC BY 2.0)",
-      "notes": "",
+      "localPath": "/images/book1/day-01-bascarsija.png",
+      "credit": "Based on photo: Baščaršija, Sarajevo — Kathleen Franklin / Wikimedia Commons (CC BY 2.0)",
+      "notes": "Day 1 polygon paint treatment of the source photo; background removed for the site.",
       "book": 1,
       "day": 1
     },
     {
       "id": "book1-day-01-sebilj",
-      "title": "Sebilj fountain in Baščaršija, Sarajevo",
+      "title": "Polygon painting of the Sebilj fountain in Baščaršija, Sarajevo",
       "whereUsed": [
         "Book 1 · Day 1 — Hello, Sarajevo!"
       ],
@@ -50,9 +50,9 @@
       "license": "CC BY-SA 2.5",
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Sebilj,_Sarajevo.jpg",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sebilj,_Sarajevo.jpg",
-      "localPath": "/images/book1/day-01-sebilj.jpg",
-      "credit": "Sebilj fountain, Sarajevo — BloodSaric / Wikimedia Commons (CC BY-SA 2.5)",
-      "notes": "",
+      "localPath": "/images/book1/day-01-sebilj.png",
+      "credit": "Based on photo: Sebilj fountain, Sarajevo — BloodSaric / Wikimedia Commons (CC BY-SA 2.5)",
+      "notes": "Day 1 polygon paint treatment of the source photo; background removed for the site.",
       "book": 1,
       "day": 1
     },

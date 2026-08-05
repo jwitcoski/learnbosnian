@@ -103,16 +103,28 @@
       "title": "This course teaches Bosnian — Latin script only",
       "explanation": "From Day 1 you will see and type Bosnian in the Latin alphabet (with letters like č, ć, š, ž, đ). Official Bosnian can also appear in Cyrillic, but this course never teaches or displays Cyrillic. One path, one script, less noise.",
       "examples": [
-        { "bosnian": "bosanski jezik", "english": "Bosnian language (Latin spelling)" },
-        { "bosnian": "Učim bosanski.", "english": "I am learning Bosnian." }
+        {
+          "bosnian": "bosanski jezik",
+          "english": "Bosnian language (Latin spelling)"
+        },
+        {
+          "bosnian": "Učim bosanski.",
+          "english": "I am learning Bosnian."
+        }
       ]
     },
     {
       "title": "Close neighbors, separate standards",
       "explanation": "Bosnian, Croatian, and Serbian share a common South Slavic dialect base (Štokavian) and are largely mutually intelligible. They are separate standard languages with their own norms, preferred words, and cultural identities. This course teaches standard Bosnian as used in Bosnia and Herzegovina. After today, we will not add “also in Croatian…” sidebars — we stay in Bosnian.",
       "examples": [
-        { "bosnian": "kahva", "english": "coffee (common BiH form you will learn)" },
-        { "bosnian": "hljeb", "english": "bread (BiH form you will meet later)" }
+        {
+          "bosnian": "kahva",
+          "english": "coffee (common BiH form you will learn)"
+        },
+        {
+          "bosnian": "hljeb",
+          "english": "bread (BiH form you will meet later)"
+        }
       ]
     }
   ],
@@ -193,11 +205,26 @@
       "title": "Match the orientation words",
       "prompt": "Match each Bosnian word or phrase to English.",
       "items": [
-        { "left": "bosanski", "right": "Bosnian (language)" },
-        { "left": "jezik", "right": "language" },
-        { "left": "dobrodošli", "right": "welcome" },
-        { "left": "učiti", "right": "to learn / to study" },
-        { "left": "Bosna i Hercegovina", "right": "Bosnia and Herzegovina" }
+        {
+          "left": "bosanski",
+          "right": "Bosnian (language)"
+        },
+        {
+          "left": "jezik",
+          "right": "language"
+        },
+        {
+          "left": "dobrodošli",
+          "right": "welcome"
+        },
+        {
+          "left": "učiti",
+          "right": "to learn / to study"
+        },
+        {
+          "left": "Bosna i Hercegovina",
+          "right": "Bosnia and Herzegovina"
+        }
       ]
     },
     {
@@ -407,27 +434,77 @@
     ]
   },
   "dictionaryEntries": [
-    { "bosnian": "bosanski", "english": "Bosnian (language / adjective)", "partOfSpeech": "adjective / noun", "day": 0 },
-    { "bosnian": "jezik", "english": "language / tongue", "partOfSpeech": "noun", "day": 0 },
-    { "bosnian": "Bosna i Hercegovina", "english": "Bosnia and Herzegovina", "partOfSpeech": "proper noun", "day": 0 },
-    { "bosnian": "BiH", "english": "BiH (Bosnia and Herzegovina)", "partOfSpeech": "abbreviation", "day": 0 },
-    { "bosnian": "dobrodošli", "english": "welcome", "partOfSpeech": "interjection", "day": 0 },
-    { "bosnian": "učiti", "english": "to learn / to study", "partOfSpeech": "verb", "day": 0 },
-    { "bosnian": "Ana", "english": "Ana (learner)", "partOfSpeech": "proper noun", "day": 0 },
-    { "bosnian": "Emir", "english": "Emir (guide)", "partOfSpeech": "proper noun", "day": 0 },
-    { "bosnian": "Amira", "english": "Amira (café owner)", "partOfSpeech": "proper noun", "day": 0 },
-    { "bosnian": "Mrvica", "english": "Mrvica (the cat)", "partOfSpeech": "proper noun", "day": 0 }
+    {
+      "bosnian": "bosanski",
+      "english": "Bosnian (language / adjective)",
+      "partOfSpeech": "adjective / noun",
+      "day": 0
+    },
+    {
+      "bosnian": "jezik",
+      "english": "language / tongue",
+      "partOfSpeech": "noun",
+      "day": 0
+    },
+    {
+      "bosnian": "Bosna i Hercegovina",
+      "english": "Bosnia and Herzegovina",
+      "partOfSpeech": "proper noun",
+      "day": 0
+    },
+    {
+      "bosnian": "BiH",
+      "english": "BiH (Bosnia and Herzegovina)",
+      "partOfSpeech": "abbreviation",
+      "day": 0
+    },
+    {
+      "bosnian": "dobrodošli",
+      "english": "welcome",
+      "partOfSpeech": "interjection",
+      "day": 0
+    },
+    {
+      "bosnian": "učiti",
+      "english": "to learn / to study",
+      "partOfSpeech": "verb",
+      "day": 0
+    },
+    {
+      "bosnian": "Ana",
+      "english": "Ana (learner)",
+      "partOfSpeech": "proper noun",
+      "day": 0
+    },
+    {
+      "bosnian": "Emir",
+      "english": "Emir (guide)",
+      "partOfSpeech": "proper noun",
+      "day": 0
+    },
+    {
+      "bosnian": "Amira",
+      "english": "Amira (café owner)",
+      "partOfSpeech": "proper noun",
+      "day": 0
+    },
+    {
+      "bosnian": "Mrvica",
+      "english": "Mrvica (the cat)",
+      "partOfSpeech": "proper noun",
+      "day": 0
+    }
   ],
   "images": [
     {
       "id": "mostar-neretva",
-      "alt": "Koski Mehmed Pasha Mosque above the Neretva River in Mostar, Herzegovina",
-      "localPath": "/images/book1/day-00-mostar-neretva.jpg",
+      "alt": "Polygon painting of Koski Mehmed Pasha Mosque above the Neretva in Mostar",
+      "localPath": "/images/book1/day-00-mostar-neretva.png",
       "sourceUrl": "https://www.pexels.com/photo/the-koski-mehmed-pasha-mosque-mostar-bosnia-and-herzegovina-24244453/",
       "pageUrl": "https://www.pexels.com/photo/the-koski-mehmed-pasha-mosque-mostar-bosnia-and-herzegovina-24244453/",
       "author": "Borys Jarzcuk",
       "license": "Pexels License",
-      "credit": "Mostar and the Neretva — Borys Jarzcuk / Pexels"
+      "credit": "Based on photo: Mostar and the Neretva — Borys Jarzcuk / Pexels"
     }
   ],
   "imagesNeeded": false,

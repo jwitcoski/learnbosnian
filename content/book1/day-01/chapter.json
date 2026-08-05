@@ -145,54 +145,162 @@
       "title": "The full Latin Bosnian alphabet",
       "explanation": "Bosnian in this course uses the Latin script only (no Cyrillic). There are 30 letters. Most match English. Learn the whole row first, then zoom in on the special ones. Order: A B C Č Ć D Dž Đ E F G H I J K L Lj M N Nj O P R S Š T U V Z Ž. Digraphs Dž, Lj, and Nj count as single letters in the alphabet.",
       "examples": [
-        { "bosnian": "A a", "english": "as in father" },
-        { "bosnian": "B b", "english": "as in bed" },
-        { "bosnian": "C c", "english": "as in tsunami (ts)" },
-        { "bosnian": "Č č", "english": "as in church" },
-        { "bosnian": "Ć ć", "english": "softer than č, shorter ch" },
-        { "bosnian": "D d", "english": "as in dog" },
-        { "bosnian": "Dž dž", "english": "as in jam (one letter)" },
-        { "bosnian": "Đ đ", "english": "softer j, as in duke (British)" },
-        { "bosnian": "E e", "english": "as in bed" },
-        { "bosnian": "F f", "english": "as in fun" },
-        { "bosnian": "G g", "english": "as in go" },
-        { "bosnian": "H h", "english": "as in hotel" },
-        { "bosnian": "I i", "english": "as in machine" },
-        { "bosnian": "J j", "english": "as in yes" },
-        { "bosnian": "K k", "english": "as in kite" },
-        { "bosnian": "L l", "english": "as in love" },
-        { "bosnian": "Lj lj", "english": "as in million (one letter)" },
-        { "bosnian": "M m", "english": "as in mother" },
-        { "bosnian": "N n", "english": "as in no" },
-        { "bosnian": "Nj nj", "english": "as in canyon (one letter)" },
-        { "bosnian": "O o", "english": "as in more" },
-        { "bosnian": "P p", "english": "as in pen" },
-        { "bosnian": "R r", "english": "trilled r" },
-        { "bosnian": "S s", "english": "as in sun" },
-        { "bosnian": "Š š", "english": "as in ship" },
-        { "bosnian": "T t", "english": "as in top" },
-        { "bosnian": "U u", "english": "as in boot" },
-        { "bosnian": "V v", "english": "as in very" },
-        { "bosnian": "Z z", "english": "as in zoo" },
-        { "bosnian": "Ž ž", "english": "as in measure / vision" }
+        {
+          "bosnian": "A a",
+          "english": "as in father"
+        },
+        {
+          "bosnian": "B b",
+          "english": "as in bed"
+        },
+        {
+          "bosnian": "C c",
+          "english": "as in tsunami (ts)"
+        },
+        {
+          "bosnian": "Č č",
+          "english": "as in church"
+        },
+        {
+          "bosnian": "Ć ć",
+          "english": "softer than č, shorter ch"
+        },
+        {
+          "bosnian": "D d",
+          "english": "as in dog"
+        },
+        {
+          "bosnian": "Dž dž",
+          "english": "as in jam (one letter)"
+        },
+        {
+          "bosnian": "Đ đ",
+          "english": "softer j, as in duke (British)"
+        },
+        {
+          "bosnian": "E e",
+          "english": "as in bed"
+        },
+        {
+          "bosnian": "F f",
+          "english": "as in fun"
+        },
+        {
+          "bosnian": "G g",
+          "english": "as in go"
+        },
+        {
+          "bosnian": "H h",
+          "english": "as in hotel"
+        },
+        {
+          "bosnian": "I i",
+          "english": "as in machine"
+        },
+        {
+          "bosnian": "J j",
+          "english": "as in yes"
+        },
+        {
+          "bosnian": "K k",
+          "english": "as in kite"
+        },
+        {
+          "bosnian": "L l",
+          "english": "as in love"
+        },
+        {
+          "bosnian": "Lj lj",
+          "english": "as in million (one letter)"
+        },
+        {
+          "bosnian": "M m",
+          "english": "as in mother"
+        },
+        {
+          "bosnian": "N n",
+          "english": "as in no"
+        },
+        {
+          "bosnian": "Nj nj",
+          "english": "as in canyon (one letter)"
+        },
+        {
+          "bosnian": "O o",
+          "english": "as in more"
+        },
+        {
+          "bosnian": "P p",
+          "english": "as in pen"
+        },
+        {
+          "bosnian": "R r",
+          "english": "trilled r"
+        },
+        {
+          "bosnian": "S s",
+          "english": "as in sun"
+        },
+        {
+          "bosnian": "Š š",
+          "english": "as in ship"
+        },
+        {
+          "bosnian": "T t",
+          "english": "as in top"
+        },
+        {
+          "bosnian": "U u",
+          "english": "as in boot"
+        },
+        {
+          "bosnian": "V v",
+          "english": "as in very"
+        },
+        {
+          "bosnian": "Z z",
+          "english": "as in zoo"
+        },
+        {
+          "bosnian": "Ž ž",
+          "english": "as in measure / vision"
+        }
       ]
     },
     {
       "title": "Typing č ć š ž đ on a plain keyboard",
       "explanation": "US and UK keyboards do not print Bosnian accents. On this site, typed answers show accent buttons under the box: tap č ć š ž đ (and capitals) to insert the letter at your cursor. On phones you can also long-press c, s, z, or d on many keyboards. In Word or Google Docs you can use Insert Symbol, or switch your OS to a Bosnian / Croatian keyboard layout later if you want.",
       "examples": [
-        { "bosnian": "čaj", "english": "type c then tap č on the accent bar (or long-press c on phone)" },
-        { "bosnian": "Baščaršija", "english": "needs š and č; use the accent buttons" },
-        { "bosnian": "doviđenja", "english": "needs đ; tap đ under the answer box" }
+        {
+          "bosnian": "čaj",
+          "english": "type c then tap č on the accent bar (or long-press c on phone)"
+        },
+        {
+          "bosnian": "Baščaršija",
+          "english": "needs š and č; use the accent buttons"
+        },
+        {
+          "bosnian": "doviđenja",
+          "english": "needs đ; tap đ under the answer box"
+        }
       ]
     },
     {
       "title": "Greeting exchanges",
       "explanation": "Start simple. Say a greeting, hear one back, then add hvala or molim. Formal day greetings use dobar dan; friends often say zdravo.",
       "examples": [
-        { "bosnian": "Zdravo!", "english": "Hello!" },
-        { "bosnian": "Dobar dan!", "english": "Good day!" },
-        { "bosnian": "Hvala. Molim.", "english": "Thank you. You're welcome." }
+        {
+          "bosnian": "Zdravo!",
+          "english": "Hello!"
+        },
+        {
+          "bosnian": "Dobar dan!",
+          "english": "Good day!"
+        },
+        {
+          "bosnian": "Hvala. Molim.",
+          "english": "Thank you. You're welcome."
+        }
       ]
     }
   ],
@@ -270,11 +378,26 @@
       "title": "Match the greeting",
       "prompt": "Match each Bosnian greeting to English.",
       "items": [
-        { "left": "zdravo", "right": "hello (informal)" },
-        { "left": "dobar dan", "right": "good day" },
-        { "left": "hvala", "right": "thank you" },
-        { "left": "doviđenja", "right": "goodbye" },
-        { "left": "molim", "right": "please / you're welcome" }
+        {
+          "left": "zdravo",
+          "right": "hello (informal)"
+        },
+        {
+          "left": "dobar dan",
+          "right": "good day"
+        },
+        {
+          "left": "hvala",
+          "right": "thank you"
+        },
+        {
+          "left": "doviđenja",
+          "right": "goodbye"
+        },
+        {
+          "left": "molim",
+          "right": "please / you're welcome"
+        }
       ]
     },
     {
@@ -283,9 +406,18 @@
       "title": "Unscramble the letters",
       "prompt": "Unscramble to make today’s words.",
       "items": [
-        { "scrambled": "lavah", "answer": "hvala" },
-        { "scrambled": "avozrd", "answer": "zdravo" },
-        { "scrambled": "jac", "answer": "čaj" }
+        {
+          "scrambled": "lavah",
+          "answer": "hvala"
+        },
+        {
+          "scrambled": "avozrd",
+          "answer": "zdravo"
+        },
+        {
+          "scrambled": "jac",
+          "answer": "čaj"
+        }
       ]
     }
   ],
@@ -478,45 +610,135 @@
     ]
   },
   "dictionaryEntries": [
-    { "bosnian": "zdravo", "english": "hello (informal)", "partOfSpeech": "interjection", "day": 1 },
-    { "bosnian": "dobar dan", "english": "good day", "partOfSpeech": "phrase", "day": 1 },
-    { "bosnian": "dobro jutro", "english": "good morning", "partOfSpeech": "phrase", "day": 1 },
-    { "bosnian": "dobra večer", "english": "good evening", "partOfSpeech": "phrase", "day": 1 },
-    { "bosnian": "hvala", "english": "thank you", "partOfSpeech": "interjection", "day": 1 },
-    { "bosnian": "molim", "english": "please / you're welcome", "partOfSpeech": "interjection", "day": 1 },
-    { "bosnian": "doviđenja", "english": "goodbye", "partOfSpeech": "interjection", "day": 1 },
-    { "bosnian": "da", "english": "yes", "partOfSpeech": "particle", "day": 1 },
-    { "bosnian": "ne", "english": "no", "partOfSpeech": "particle", "day": 1 },
-    { "bosnian": "Sarajevo", "english": "Sarajevo", "partOfSpeech": "proper noun", "day": 1 },
-    { "bosnian": "Baščaršija", "english": "Baščaršija (old bazaar)", "partOfSpeech": "proper noun", "day": 1 },
-    { "bosnian": "ulica", "english": "street", "partOfSpeech": "noun", "day": 1 },
-    { "bosnian": "čaj", "english": "tea", "partOfSpeech": "noun", "day": 1 },
-    { "bosnian": "žena", "english": "woman / wife", "partOfSpeech": "noun", "day": 1 },
-    { "bosnian": "đak", "english": "pupil", "partOfSpeech": "noun", "day": 1 },
-    { "bosnian": "džezva", "english": "coffee pot (cezve)", "partOfSpeech": "noun", "day": 1 },
-    { "bosnian": "šuma", "english": "forest", "partOfSpeech": "noun", "day": 1 },
-    { "bosnian": "ćup", "english": "jar", "partOfSpeech": "noun", "day": 1 }
+    {
+      "bosnian": "zdravo",
+      "english": "hello (informal)",
+      "partOfSpeech": "interjection",
+      "day": 1
+    },
+    {
+      "bosnian": "dobar dan",
+      "english": "good day",
+      "partOfSpeech": "phrase",
+      "day": 1
+    },
+    {
+      "bosnian": "dobro jutro",
+      "english": "good morning",
+      "partOfSpeech": "phrase",
+      "day": 1
+    },
+    {
+      "bosnian": "dobra večer",
+      "english": "good evening",
+      "partOfSpeech": "phrase",
+      "day": 1
+    },
+    {
+      "bosnian": "hvala",
+      "english": "thank you",
+      "partOfSpeech": "interjection",
+      "day": 1
+    },
+    {
+      "bosnian": "molim",
+      "english": "please / you're welcome",
+      "partOfSpeech": "interjection",
+      "day": 1
+    },
+    {
+      "bosnian": "doviđenja",
+      "english": "goodbye",
+      "partOfSpeech": "interjection",
+      "day": 1
+    },
+    {
+      "bosnian": "da",
+      "english": "yes",
+      "partOfSpeech": "particle",
+      "day": 1
+    },
+    {
+      "bosnian": "ne",
+      "english": "no",
+      "partOfSpeech": "particle",
+      "day": 1
+    },
+    {
+      "bosnian": "Sarajevo",
+      "english": "Sarajevo",
+      "partOfSpeech": "proper noun",
+      "day": 1
+    },
+    {
+      "bosnian": "Baščaršija",
+      "english": "Baščaršija (old bazaar)",
+      "partOfSpeech": "proper noun",
+      "day": 1
+    },
+    {
+      "bosnian": "ulica",
+      "english": "street",
+      "partOfSpeech": "noun",
+      "day": 1
+    },
+    {
+      "bosnian": "čaj",
+      "english": "tea",
+      "partOfSpeech": "noun",
+      "day": 1
+    },
+    {
+      "bosnian": "žena",
+      "english": "woman / wife",
+      "partOfSpeech": "noun",
+      "day": 1
+    },
+    {
+      "bosnian": "đak",
+      "english": "pupil",
+      "partOfSpeech": "noun",
+      "day": 1
+    },
+    {
+      "bosnian": "džezva",
+      "english": "coffee pot (cezve)",
+      "partOfSpeech": "noun",
+      "day": 1
+    },
+    {
+      "bosnian": "šuma",
+      "english": "forest",
+      "partOfSpeech": "noun",
+      "day": 1
+    },
+    {
+      "bosnian": "ćup",
+      "english": "jar",
+      "partOfSpeech": "noun",
+      "day": 1
+    }
   ],
   "images": [
     {
       "id": "bascarsija",
-      "alt": "Baščaršija streets in Sarajevo with Brusa Bezistan",
-      "localPath": "/images/book1/day-01-bascarsija.jpg",
+      "alt": "Polygon painting of Baščaršija streets in Sarajevo with Brusa Bezistan",
+      "localPath": "/images/book1/day-01-bascarsija.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bascarsija.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Bascarsija.jpg",
       "author": "Kathleen Franklin",
       "license": "CC BY 2.0",
-      "credit": "Baščaršija, Sarajevo — Kathleen Franklin / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Based on photo: Baščaršija, Sarajevo — Kathleen Franklin / Wikimedia Commons (CC BY 2.0)"
     },
     {
       "id": "sebilj",
-      "alt": "Sebilj fountain in Baščaršija, Sarajevo",
-      "localPath": "/images/book1/day-01-sebilj.jpg",
+      "alt": "Polygon painting of the Sebilj fountain in Baščaršija, Sarajevo",
+      "localPath": "/images/book1/day-01-sebilj.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sebilj,_Sarajevo.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Sebilj,_Sarajevo.jpg",
       "author": "BloodSaric",
       "license": "CC BY-SA 2.5",
-      "credit": "Sebilj fountain, Sarajevo — BloodSaric / Wikimedia Commons (CC BY-SA 2.5)"
+      "credit": "Based on photo: Sebilj fountain, Sarajevo — BloodSaric / Wikimedia Commons (CC BY-SA 2.5)"
     }
   ],
   "imagesNeeded": false,
