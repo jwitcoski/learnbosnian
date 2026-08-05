@@ -117,9 +117,9 @@
     }
   ],
   "culture": {
-    "title": "A language with a place and a name",
-    "body": "Bosnian (bosanski) is a South Slavic language and one of the official languages of Bosnia and Herzegovina (Bosna i Hercegovina / BiH). The name comes from the historic region of Bosnia — people have used forms of this name for the speech of the land for centuries. In the 1990s, after independence, Bosnian was codified as a modern standard (with spelling and grammar guides), alongside Croatian and Serbian as official languages of BiH. Speakers often understand one another across those standards, but names matter: calling the language Bosnian honors the country’s identity and the forms you will hear on the streets of Sarajevo, Mostar, and beyond.",
-    "imageId": "bascarsija"
+    "title": "A language of a whole country — not only one city",
+    "body": "Bosnian (bosanski) is a South Slavic language and one of the official languages of Bosnia and Herzegovina (Bosna i Hercegovina / BiH). The name comes from the historic region of Bosnia — people have used forms of this name for the speech of the land for centuries. In the 1990s, after independence, Bosnian was codified as a modern standard (with spelling and grammar guides), alongside Croatian and Serbian as official languages of BiH. Speakers often understand one another across those standards, but names matter: calling the language Bosnian honors the country’s identity and the forms you will hear from the mountains to the Neretva — in Mostar, Travnik, Banja Luka, Sarajevo, and beyond. Book 1 starts Ana’s story in Sarajevo, but Day 0 is about the whole map.",
+    "imageId": "mostar-neretva"
   },
   "lessonBlocks": [
     {
@@ -420,18 +420,16 @@
   ],
   "images": [
     {
-      "id": "bascarsija",
-      "alt": "Baščaršija streets in Sarajevo — where Ana’s story begins on Day 1",
-      "localPath": "/images/book1/day-01-bascarsija.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bascarsija.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bascarsija.jpg",
-      "author": "Kathleen Franklin",
-      "license": "CC BY 2.0",
-      "credit": "Baščaršija, Sarajevo — Kathleen Franklin / Wikimedia Commons (CC BY 2.0)"
+      "id": "mostar-neretva",
+      "alt": "Koski Mehmed Pasha Mosque above the Neretva River in Mostar, Herzegovina",
+      "localPath": "/images/book1/day-00-mostar-neretva.jpg",
+      "sourceUrl": "https://www.pexels.com/photo/the-koski-mehmed-pasha-mosque-mostar-bosnia-and-herzegovina-24244453/",
+      "pageUrl": "https://www.pexels.com/photo/the-koski-mehmed-pasha-mosque-mostar-bosnia-and-herzegovina-24244453/",
+      "author": "Borys Jarzcuk",
+      "license": "Pexels License",
+      "credit": "Mostar and the Neretva — Borys Jarzcuk / Pexels"
     }
   ],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Optional: clear map of Bosnia and Herzegovina (free license) for Day 0 culture panel"
-  ]
+  "imagesNeeded": false,
+  "imageBriefs": []
 }
