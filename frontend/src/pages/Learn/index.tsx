@@ -16,8 +16,8 @@ const Learn = () => {
     <LessonPage>
       <h1>Book 1 curriculum</h1>
       <p>
-        Follow Ana, Emir, Amira, and Mrvica through Bosnia and Herzegovina.
-        New chapters publish after human review.
+        Start with Day 0 (why Bosnian?), then follow Ana, Emir, Amira, and Mrvica
+        through Bosnia and Herzegovina. New chapters publish after human review.
       </p>
       <p>
         <Link to="/dictionary">Mini-dictionary</Link>
@@ -38,7 +38,9 @@ const Learn = () => {
       {book1Outline.weeks?.map((week) => (
         <section key={week.week} style={{ marginBottom: "2rem" }}>
           <h2>
-            Week {week.week}: {week.title}
+            {week.week === 0
+              ? `Orientation: ${week.title}`
+              : `Week ${week.week}: ${week.title}`}
           </h2>
           <p style={{ color: "var(--color-muted)" }}>{week.focus}</p>
           <LockedGrid>

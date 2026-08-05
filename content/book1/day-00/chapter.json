@@ -1,0 +1,437 @@
+{
+  "day": 0,
+  "book": 1,
+  "week": 0,
+  "title": "Zašto bosanski?",
+  "titleEn": "Why Bosnian?",
+  "theme": "Orientation — what Bosnian is and who this course is for",
+  "status": "draft",
+  "reviewedAt": null,
+  "reviewerNotes": "Day 0 orientation exemplar — needs human review before publish. Comparative notes are intentional here only; Days 1–30 stay Bosnian-focused.",
+  "estimatedMinutes": 35,
+  "storyBeat": "Before Ana lands in Sarajevo, we pause for a clear map: what Bosnian is, where the name comes from, how it relates to neighboring standards, who speaks it, and who these lessons are for.",
+  "learningGoals": {
+    "vocabulary": [
+      "Orientation words: bosanski, jezik, Bosna i Hercegovina, dobrodošli",
+      "The cast names you will meet from Day 1: Ana, Emir, Amira, Mrvica"
+    ],
+    "grammar": [
+      "No conjugation yet — this day is about the language itself",
+      "Latin script only from Day 1 onward (this course never teaches Cyrillic)"
+    ],
+    "culture": [
+      "Why learn Bosnian specifically",
+      "Etymology and origin of the name bosanski",
+      "How Bosnian relates to Croatian and Serbian — then why we stay Bosnian-focused",
+      "Who speaks Bosnian, and who this course is written for"
+    ]
+  },
+  "vocabulary": [
+    {
+      "bosnian": "bosanski",
+      "english": "Bosnian (language / adjective)",
+      "pronunciation": "bo-SAHN-ski",
+      "partOfSpeech": "adjective / noun",
+      "example": "Učim bosanski."
+    },
+    {
+      "bosnian": "jezik",
+      "english": "language / tongue",
+      "pronunciation": "YEH-zeek",
+      "partOfSpeech": "noun",
+      "example": "Bosanski jezik."
+    },
+    {
+      "bosnian": "Bosna i Hercegovina",
+      "english": "Bosnia and Herzegovina",
+      "pronunciation": "BOS-nah ee her-tseh-go-VEE-nah",
+      "partOfSpeech": "proper noun",
+      "example": "Živim u Bosni i Hercegovini."
+    },
+    {
+      "bosnian": "BiH",
+      "english": "BiH (short for Bosnia and Herzegovina)",
+      "pronunciation": "beh-ee-hah",
+      "partOfSpeech": "abbreviation",
+      "example": "BiH je lijepa."
+    },
+    {
+      "bosnian": "dobrodošli",
+      "english": "welcome (plural / formal)",
+      "pronunciation": "do-bro-DOSH-lee",
+      "partOfSpeech": "interjection",
+      "example": "Dobrodošli!"
+    },
+    {
+      "bosnian": "učiti",
+      "english": "to learn / to study",
+      "pronunciation": "OO-chee-tee",
+      "partOfSpeech": "verb",
+      "example": "Želim učiti bosanski."
+    },
+    {
+      "bosnian": "Ana",
+      "english": "Ana (learner character)",
+      "pronunciation": "AH-nah",
+      "partOfSpeech": "proper noun",
+      "example": "Ana uči bosanski."
+    },
+    {
+      "bosnian": "Emir",
+      "english": "Emir (guide character)",
+      "pronunciation": "eh-MEER",
+      "partOfSpeech": "proper noun",
+      "example": "Emir je iz Sarajeva."
+    },
+    {
+      "bosnian": "Amira",
+      "english": "Amira (café owner)",
+      "pronunciation": "ah-MEER-ah",
+      "partOfSpeech": "proper noun",
+      "example": "Amira kuha kahvu."
+    },
+    {
+      "bosnian": "Mrvica",
+      "english": "Mrvica (the cat)",
+      "pronunciation": "MR-vee-tsa",
+      "partOfSpeech": "proper noun",
+      "example": "Mrvica je mačka."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "This course teaches Bosnian — Latin script only",
+      "explanation": "From Day 1 you will see and type Bosnian in the Latin alphabet (with letters like č, ć, š, ž, đ). Official Bosnian can also appear in Cyrillic, but this course never teaches or displays Cyrillic. One path, one script, less noise.",
+      "examples": [
+        { "bosnian": "bosanski jezik", "english": "Bosnian language (Latin spelling)" },
+        { "bosnian": "Učim bosanski.", "english": "I am learning Bosnian." }
+      ]
+    },
+    {
+      "title": "Close neighbors, separate standards",
+      "explanation": "Bosnian, Croatian, and Serbian share a common South Slavic dialect base (Štokavian) and are largely mutually intelligible. They are separate standard languages with their own norms, preferred words, and cultural identities. This course teaches standard Bosnian as used in Bosnia and Herzegovina. After today, we will not add “also in Croatian…” sidebars — we stay in Bosnian.",
+      "examples": [
+        { "bosnian": "kahva", "english": "coffee (common BiH form you will learn)" },
+        { "bosnian": "hljeb", "english": "bread (BiH form you will meet later)" }
+      ]
+    }
+  ],
+  "culture": {
+    "title": "A language with a place and a name",
+    "body": "Bosnian (bosanski) is a South Slavic language and one of the official languages of Bosnia and Herzegovina (Bosna i Hercegovina / BiH). The name comes from the historic region of Bosnia — people have used forms of this name for the speech of the land for centuries. In the 1990s, after independence, Bosnian was codified as a modern standard (with spelling and grammar guides), alongside Croatian and Serbian as official languages of BiH. Speakers often understand one another across those standards, but names matter: calling the language Bosnian honors the country’s identity and the forms you will hear on the streets of Sarajevo, Mostar, and beyond.",
+    "imageId": "bascarsija"
+  },
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A — What is Bosnian, and where does the name come from?",
+      "body": "Bosnian is the standard language taught and used as bosanski jezik in Bosnia and Herzegovina. Etymology (word origin): bosanski comes from Bosna — the name of the region and the river Bosna — plus a Slavic adjective ending, roughly “of Bosnia.” So the language name is tied to place, not to a single invented brand. Linguistically, standard Bosnian is built on the widespread Štokavian dialect shared with neighboring standards. Historically the area sat at a crossroads of Slavic speech, Ottoman administration, and Austro-Hungarian schooling; that history left everyday Bosnian with many familiar Slavic words plus a rich layer of older loanwords from Turkish, Arabic, and Persian (often called orientalisms) that feel at home in BiH conversation — think café culture, food, and everyday politeness. You do not need the full history to start. You need one clear label: you are learning Bosnian.",
+      "tips": [
+        "Say it aloud once: bosanski jezik — Bosnian language",
+        "Remember: the name points to Bosnia (Bosna), the place"
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B — Why Bosnian is not “just Croatian or Serbian,” and who speaks it",
+      "body": "People often ask: is Bosnian the same as Croatian or Serbian? Honest short answer: speakers can usually understand each other, because the standards grew from the same dialect family — like closely related national standards of one pluricentric language area. Honest longer answer: they are not the same course, the same classroom label, or the same cultural home. Differences show up in preferred vocabulary, some spelling and sound habits (Bosnian standard uses Ijekavian forms, and often keeps an audible h in words where history put it), script choices in public life, and — most of all — identity. Bosnian is an official language of BiH. It is spoken by Bosniaks and by many other people across Bosnia and Herzegovina; it is also spoken in diaspora communities worldwide. Neighbors may call their own standards Croatian or Serbian; mutual understanding does not erase those names. This book teaches Bosnian forms used in everyday BiH life. From Day 1 we will not train you to compare three columns of vocabulary. We will train you to sound at home saying zdravo in Sarajevo.",
+      "tips": [
+        "Mutual understanding ≠ identical language identity",
+        "After Day 0, stay Bosnian-focused — no comparative sidebars"
+      ]
+    },
+    {
+      "id": "c",
+      "title": "Lesson C — Why learn Bosnian, and who these lessons are for",
+      "body": "Why Bosnian? Because you care about this place and these people: travel through BiH, family or partners with roots here, work or study tied to the region, diaspora kids reclaiming a home language, or simple curiosity about a culture that is too often folded into a vague “Balkans” label. Learning Bosnian says you want the local name, the local café talk, and the local story. Who is this course for? Absolute beginners and false beginners who read English. Adults and older teens who can spend about an hour a day. Travelers, partners, students, and self-learners who want Latin-script Bosnian only — clear goals, culture, puzzles, and a silly story with Ana (the learner), Emir (the guide), Amira (the café owner), and Mrvica (the cat). Who it is not trying to be: a linguistics degree, a three-language comparative grammar, or a Cyrillic course. Book 1 moves from first greetings (Day 1) toward early A2 across 30 lessons. Day 0 is your map. Day 1 is your first step onto the stone streets of Baščaršija.",
+      "tips": [
+        "If you can read this page in English, you are in the right audience",
+        "Plan ~35 minutes today, then ~60 minutes from Day 1"
+      ]
+    }
+  ],
+  "conversation": {
+    "title": "A preview on the plane",
+    "setting": "Ana’s flight to Sarajevo. She reads a small orientation card. Emir will meet her tomorrow — for now, the narrator sets the frame.",
+    "lines": [
+      {
+        "speaker": "Narrator",
+        "bosnian": "Dobrodošli.",
+        "english": "Welcome."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Učim bosanski.",
+        "english": "I am learning Bosnian."
+      },
+      {
+        "speaker": "Narrator",
+        "bosnian": "Bosanski jezik. Bosna i Hercegovina.",
+        "english": "Bosnian language. Bosnia and Herzegovina."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "BiH… Ana.",
+        "english": "BiH… Ana."
+      },
+      {
+        "speaker": "Narrator",
+        "bosnian": "Emir, Amira, Mrvica… sutra.",
+        "english": "Emir, Amira, Mrvica… tomorrow."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Dobrodošli, Bosna!",
+        "english": "Welcome, Bosnia! (Ana practicing aloud)"
+      }
+    ]
+  },
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match the orientation words",
+      "prompt": "Match each Bosnian word or phrase to English.",
+      "items": [
+        { "left": "bosanski", "right": "Bosnian (language)" },
+        { "left": "jezik", "right": "language" },
+        { "left": "dobrodošli", "right": "welcome" },
+        { "left": "učiti", "right": "to learn / to study" },
+        { "left": "Bosna i Hercegovina", "right": "Bosnia and Herzegovina" }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "truefalse",
+      "title": "True or false?",
+      "prompt": "Decide if each statement is true or false for this course.",
+      "items": [
+        {
+          "statement": "This course teaches Latin-script Bosnian only.",
+          "answer": true
+        },
+        {
+          "statement": "Day 0 is mainly about conjugating verbs.",
+          "answer": false
+        },
+        {
+          "statement": "Bosnian, Croatian, and Serbian are largely mutually intelligible but are separate standards with their own identities.",
+          "answer": true
+        },
+        {
+          "statement": "From Day 1 we will constantly compare three language columns side by side.",
+          "answer": false
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "How do you say ‘Bosnian’ (the language) in Bosnian?",
+      "hint": "One word, ends with -ski",
+      "answer": "bosanski"
+    },
+    {
+      "id": "pr2",
+      "prompt": "Translate: language",
+      "hint": "One word",
+      "answer": "jezik"
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write the full country name in Bosnian (three words: B… i H…).",
+      "hint": "Bosna i Hercegovina",
+      "answer": "Bosna i Hercegovina"
+    },
+    {
+      "id": "pr4",
+      "prompt": "How do you say ‘welcome’ (the form in today’s dialogue)?",
+      "hint": "Starts with dobro-",
+      "answer": "dobrodošli"
+    },
+    {
+      "id": "pr5",
+      "prompt": "Which script does this course teach: latin or cyrillic?",
+      "hint": "One word — latin",
+      "answer": "latin"
+    },
+    {
+      "id": "pr6",
+      "prompt": "Name the learner character in Book 1.",
+      "hint": "Three letters",
+      "answer": "Ana"
+    },
+    {
+      "id": "pr7",
+      "prompt": "Name the cat.",
+      "hint": "Starts with Mr-",
+      "answer": "Mrvica"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "Etymology in one line",
+      "body": "Bosanski is basically “Bosnian / of Bosnia” — the language name is anchored in the place name Bosna."
+    },
+    {
+      "title": "Official, not obscure",
+      "body": "Bosnian is an official language of Bosnia and Herzegovina, used in schools, media, and daily life — not a dialect label invented for tourists."
+    },
+    {
+      "title": "Mutual understanding, separate classrooms",
+      "body": "A traveler who learns Bosnian will understand a lot next door — and still be studying a named standard with its own books, news, and pride."
+    },
+    {
+      "title": "Why we skip Cyrillic here",
+      "body": "Less split attention. Master Latin Bosnian first; you can explore other scripts later if you want."
+    }
+  ],
+  "resources": [
+    {
+      "label": "How to speak Bosnian — YouTube",
+      "url": "https://www.youtube.com/@HowtospeakBosnian",
+      "note": "Companion videos after human review"
+    },
+    {
+      "label": "Day 1 — Zdravo, Sarajevo!",
+      "url": "/learn/day/1",
+      "note": "Start the language path after this orientation"
+    },
+    {
+      "label": "Book 1 curriculum",
+      "url": "/learn",
+      "note": "See all 30 lesson days"
+    }
+  ],
+  "sectionQuiz": {
+    "title": "Day 0 section quiz",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does ‘bosanski’ refer to in this course?",
+        "options": [
+          "Only a mountain dialect near Mostar",
+          "The Bosnian language (and adjective) we are learning",
+          "A brand of coffee",
+          "Cyrillic handwriting only"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bosanski is Bosnian — the language (and adjective) this course teaches."
+      },
+      {
+        "id": "q2",
+        "question": "The name bosanski is etymologically tied to…",
+        "options": [
+          "A 21st-century app brand",
+          "The historic place name Bosna (Bosnia)",
+          "The Latin word for bread",
+          "A single café in Zagreb"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bosanski comes from Bosna — the region/place name — plus a Slavic adjective ending."
+      },
+      {
+        "id": "q3",
+        "question": "How should you think about Bosnian vs Croatian/Serbian for this course?",
+        "options": [
+          "Identical in every word, so labels do not matter",
+          "Unrelated languages with zero overlap",
+          "Closely related, largely mutually intelligible standards — we teach Bosnian forms and stay Bosnian-focused after Day 0",
+          "We will memorize three parallel columns every day"
+        ],
+        "correctIndex": 2,
+        "explanation": "They are close and often mutually intelligible, but this course teaches Bosnian and does not become a three-way comparative class."
+      },
+      {
+        "id": "q4",
+        "question": "Who speaks Bosnian?",
+        "options": [
+          "Only characters in fiction",
+          "People in and from Bosnia and Herzegovina (and diaspora communities), as an official language of BiH",
+          "Only medieval scribes",
+          "Nobody — it was replaced in 1990"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bosnian is an official language of BiH and is spoken in the country and in diaspora communities."
+      },
+      {
+        "id": "q5",
+        "question": "Who is the primary audience for these lessons?",
+        "options": [
+          "English-reading beginners who want Latin-script Bosnian for travel, family, study, or curiosity",
+          "Only professional translators of legal codes",
+          "People who already speak fluent Croatian and want advanced syntax only",
+          "Learners who refuse culture and want verb tables alone"
+        ],
+        "correctIndex": 0,
+        "explanation": "Book 1 is for English-reading beginners and false beginners who want clear, cultural, Latin-script Bosnian."
+      },
+      {
+        "id": "q6",
+        "question": "Which script does Learn Bosnian teach?",
+        "options": [
+          "Cyrillic only",
+          "Latin only",
+          "Both every day from the start",
+          "Arabic script"
+        ],
+        "correctIndex": 1,
+        "explanation": "Latin script only — a deliberate choice to keep the path clear."
+      },
+      {
+        "id": "q7",
+        "question": "What is ‘jezik’?",
+        "options": [
+          "Coffee",
+          "Language / tongue",
+          "Bridge",
+          "Cat"
+        ],
+        "correctIndex": 1,
+        "explanation": "Jezik means language (or tongue)."
+      },
+      {
+        "id": "q8",
+        "question": "After Day 0, the daily lessons will…",
+        "options": [
+          "Keep comparing Croatian and Serbian sidebars",
+          "Stay Bosnian-focused with Ana, Emir, Amira, and Mrvica",
+          "Switch entirely to linguistics theory",
+          "Skip culture and only teach flags"
+        ],
+        "correctIndex": 1,
+        "explanation": "Day 0 answers the map questions; Days 1–30 teach Bosnian through story and practice."
+      }
+    ]
+  },
+  "dictionaryEntries": [
+    { "bosnian": "bosanski", "english": "Bosnian (language / adjective)", "partOfSpeech": "adjective / noun", "day": 0 },
+    { "bosnian": "jezik", "english": "language / tongue", "partOfSpeech": "noun", "day": 0 },
+    { "bosnian": "Bosna i Hercegovina", "english": "Bosnia and Herzegovina", "partOfSpeech": "proper noun", "day": 0 },
+    { "bosnian": "BiH", "english": "BiH (Bosnia and Herzegovina)", "partOfSpeech": "abbreviation", "day": 0 },
+    { "bosnian": "dobrodošli", "english": "welcome", "partOfSpeech": "interjection", "day": 0 },
+    { "bosnian": "učiti", "english": "to learn / to study", "partOfSpeech": "verb", "day": 0 },
+    { "bosnian": "Ana", "english": "Ana (learner)", "partOfSpeech": "proper noun", "day": 0 },
+    { "bosnian": "Emir", "english": "Emir (guide)", "partOfSpeech": "proper noun", "day": 0 },
+    { "bosnian": "Amira", "english": "Amira (café owner)", "partOfSpeech": "proper noun", "day": 0 },
+    { "bosnian": "Mrvica", "english": "Mrvica (the cat)", "partOfSpeech": "proper noun", "day": 0 }
+  ],
+  "images": [
+    {
+      "id": "bascarsija",
+      "alt": "Baščaršija streets in Sarajevo — where Ana’s story begins on Day 1",
+      "localPath": "/images/book1/day-01-bascarsija.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bascarsija.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bascarsija.jpg",
+      "author": "Kathleen Franklin",
+      "license": "CC BY 2.0",
+      "credit": "Baščaršija, Sarajevo — Kathleen Franklin / Wikimedia Commons (CC BY 2.0)"
+    }
+  ],
+  "imagesNeeded": true,
+  "imageBriefs": [
+    "Optional: clear map of Bosnia and Herzegovina (free license) for Day 0 culture panel"
+  ]
+}

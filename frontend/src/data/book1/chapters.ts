@@ -1,3 +1,4 @@
+import day00 from "./day-00/chapter.json";
 import day01 from "./day-01/chapter.json";
 import day02 from "./day-02/chapter.json";
 import day03 from "./day-03/chapter.json";
@@ -30,6 +31,6 @@ import day29 from "./day-29/chapter.json";
 import day30 from "./day-30/chapter.json";
 import type { Chapter } from "../../types/chapter";
 
-const chapters: Chapter[] = [day01, day02, day03, day04, day05, day06, day07, day08, day09, day10, day11, day12, day13, day14, day15, day16, day17, day18, day19, day20, day21, day22, day23, day24, day25, day26, day27, day28, day29, day30] as Chapter[];
+const chapters: Chapter[] = [day00, day01, day02, day03, day04, day05, day06, day07, day08, day09, day10, day11, day12, day13, day14, day15, day16, day17, day18, day19, day20, day21, day22, day23, day24, day25, day26, day27, day28, day29, day30] as Chapter[];
 
 export default chapters;

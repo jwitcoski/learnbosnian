@@ -50,9 +50,9 @@ const Header = () => {
           </a>
         </CustomNavLinkSmall>
         <CustomNavLinkSmall style={{ width: "180px" }}>
-          <Link to="/learn/day/1">
+          <Link to="/learn/day/0">
             <Span>
-              <Button>Start Day 1</Button>
+              <Button>Start Day 0</Button>
             </Span>
           </Link>
         </CustomNavLinkSmall>

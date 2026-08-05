@@ -2,7 +2,7 @@
 
 ## Goals
 
-- React website: Book 1 = 30 one-hour lessons (A1 → early A2)
+- React website: Book 1 = Day 0 orientation + 30 one-hour lessons (A1 → early A2)
 - Portable JSON → website, Scribus book pack, YouTube scripts, future Expo app
 - Nightly cadence: AI draft → human review → publish
 - Latin script only; Bosnian-focused; kilim-inspired theme
@@ -16,6 +16,7 @@ Ana (learner), Emir (guide), Amira (café), Mrvica (cat)
 
 | Day | Title | Status | Reviewer notes | YouTube |
 |-----|-------|--------|----------------|---------|
+| 0 | Zašto bosanski? | draft | Orientation — why Bosnian, etymology, vs HR/SR, speakers, audience | |
 | 1 | Zdravo, Sarajevo! | draft | Exemplar — needs human review before publish | |
 | 2 | Ja sam Ana | outlined | | |
 | 3 | Brojevi i kahva | outlined | | |
@@ -59,3 +60,4 @@ Teaser outlines only — see `content/book2/outline.json` and `content/book3/out
 - [x] Dictionary + progress
 - [x] Scribus / YouTube export scripts
 - [x] App roadmap + landing CTAs
+- [x] Day 0 orientation (why Bosnian / etymology / audience)

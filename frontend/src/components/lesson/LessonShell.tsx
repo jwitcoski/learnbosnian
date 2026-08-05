@@ -39,8 +39,8 @@ export default function LessonShell({ chapter }: Props) {
         )}
         <div className="hero-copy">
           <div className="meta">
-            Day {chapter.day} · Week {chapter.week} · ~{chapter.estimatedMinutes || 60}{" "}
-            min
+            {chapter.day === 0 ? "Day 0 · Orientation" : `Day ${chapter.day} · Week ${chapter.week}`}{" "}
+            · ~{chapter.estimatedMinutes || 60} min
           </div>
           <h1>{chapter.title}</h1>
           <p className="meta">

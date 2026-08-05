@@ -5,6 +5,7 @@
 - **Latin script only.** Never teach or display Cyrillic.
 - Teach **standard Bosnian (BiH)** forms used in everyday speech.
 - Do **not** add “also in Croatian…” or “Serbian says…” sidebars. Stay Bosnian-focused.
+- **Exception — Day 0 only:** a short, respectful orientation may explain how Bosnian relates to Croatian/Serbian (mutual intelligibility, separate standards, identity). Do not teach Croatian or Serbian forms. Days 1–30 stay Bosnian-only.
 - Prefer common Bosnian spellings: *kahva*, *hljeb*, *mlijeko*, *općina* when those are the natural BiH forms in context.
 - Gloss every new Bosnian word in English the first time it appears in a section.
 - Keep grammar bites small: one main idea per lesson block.

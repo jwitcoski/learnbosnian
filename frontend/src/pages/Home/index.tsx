@@ -27,7 +27,7 @@ const Home = () => {
         button={IntroContent.button}
         icon="developer.svg"
         id="intro"
-        onPrimaryClick={() => history.push("/learn/day/1")}
+        onPrimaryClick={() => history.push("/learn/day/0")}
         onSecondaryClick={() => history.push("/learn")}
       />
       <MiddleBlock

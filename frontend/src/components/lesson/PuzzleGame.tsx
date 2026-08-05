@@ -107,6 +107,47 @@ export default function PuzzleGame({ puzzle }: Props) {
     );
   }
 
+  if (puzzle.type === "truefalse") {
+    const items = (puzzle.items || []) as {
+      statement: string;
+      answer: boolean;
+    }[];
+    const check = () => {
+      let correct = 0;
+      items.forEach((item, idx) => {
+        const g = guesses[String(idx)];
+        if (g === String(item.answer)) correct += 1;
+      });
+      setScore(`${correct} / ${items.length} correct`);
+    };
+    return (
+      <div>
+        <h3>{puzzle.title}</h3>
+        <p>{puzzle.prompt}</p>
+        {items.map((item, idx) => (
+          <div key={item.statement} style={{ marginBottom: "0.85rem" }}>
+            <p style={{ marginBottom: "0.35rem" }}>{item.statement}</p>
+            <select
+              value={guesses[String(idx)] || ""}
+              onChange={(e) =>
+                setGuesses({ ...guesses, [String(idx)]: e.target.value })
+              }
+              style={{ padding: "0.35rem" }}
+            >
+              <option value="">— choose —</option>
+              <option value="true">True</option>
+              <option value="false">False</option>
+            </select>
+          </div>
+        ))}
+        <PrimaryButton type="button" onClick={check}>
+          Check answers
+        </PrimaryButton>
+        {score && <p style={{ marginTop: "0.75rem" }}>{score}</p>}
+      </div>
+    );
+  }
+
   return (
     <div>
       <h3>{puzzle.title}</h3>
