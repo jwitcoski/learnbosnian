@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 420" fill="none">
+  <!-- Bosnian coffee set — from photo; Landy flat style; kilim palette -->
+  <!-- Soft hills -->
+  <path d="M20 275 C100 240 180 255 280 270 C380 245 460 240 540 265 L540 360 L20 360 Z"
+        fill="#C5D4C0" stroke="#5D4037" stroke-width="3.5" stroke-linejoin="round"/>
+  <path d="M20 320 C120 295 220 310 340 330 C430 310 490 315 540 335 L540 380 L20 380 Z"
+        fill="#A8BFA3" stroke="#5D4037" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- Round tray (navy like pewter) -->
+  <ellipse cx="280" cy="305" rx="175" ry="42" fill="#1B2A4A" stroke="#5D4037" stroke-width="3.5"/>
+  <ellipse cx="280" cy="298" rx="162" ry="34" fill="#2A3F6A" stroke="#5D4037" stroke-width="2.5"/>
+  <!-- Tray rim gold accent -->
+  <ellipse cx="280" cy="298" rx="150" ry="28" fill="none" stroke="#C9A227" stroke-width="3"/>
+
+  <!-- Džezva — brass/gold (matches photo) -->
+  <path d="M175 175
+           C160 190 152 220 155 255
+           L158 295
+           C160 308 172 315 190 315
+           L240 315
+           C258 315 268 308 270 295
+           L273 255
+           C276 220 268 190 253 175
+           Z"
+        fill="#C9A227" stroke="#5D4037" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- Shoulder -->
+  <ellipse cx="214" cy="180" rx="48" ry="16" fill="#B8921F" stroke="#5D4037" stroke-width="3"/>
+  <!-- Lid -->
+  <ellipse cx="214" cy="172" rx="32" ry="11" fill="#A67C1A" stroke="#5D4037" stroke-width="3"/>
+  <circle cx="214" cy="160" r="7" fill="#8B5E3C" stroke="#5D4037" stroke-width="2.5"/>
+  <!-- Long straight handle (photo) -->
+  <line x1="268" y1="195" x2="355" y2="155" stroke="#5D4037" stroke-width="12" stroke-linecap="round"/>
+  <line x1="268" y1="195" x2="355" y2="155" stroke="#8B5E3C" stroke-width="6" stroke-linecap="round"/>
+  <!-- Spout -->
+  <path d="M155 230 L120 205 L128 245 Z" fill="#B8921F" stroke="#5D4037" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Hammered pattern (simple arcs) -->
+  <path d="M175 220 Q214 210 253 220" stroke="#5D4037" stroke-width="2" fill="none" opacity="0.45"/>
+  <path d="M178 245 Q214 235 250 245" stroke="#5D4037" stroke-width="2" fill="none" opacity="0.45"/>
+  <path d="M180 270 Q214 260 248 270" stroke="#5D4037" stroke-width="2" fill="none" opacity="0.45"/>
+  <!-- Body medallion -->
+  <circle cx="214" cy="248" r="16" fill="none" stroke="#5D4037" stroke-width="2.5" opacity="0.55"/>
+
+  <!-- Fildžan cup + saucer -->
+  <ellipse cx="340" cy="295" rx="48" ry="12" fill="#E8DFD0" stroke="#5D4037" stroke-width="3"/>
+  <path d="M310 250 L305 292 L375 292 L370 250 Z"
+        fill="#F7F1E8" stroke="#5D4037" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- Coffee crema -->
+  <ellipse cx="340" cy="250" rx="32" ry="10" fill="#3D2914" stroke="#5D4037" stroke-width="3"/>
+  <!-- Cup handle (loop, like photo) -->
+  <path d="M372 258 C402 250 408 290 372 290"
+        stroke="#5D4037" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M372 258 C398 252 404 286 372 288"
+        stroke="#F7F1E8" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Decorative band on cup -->
+  <path d="M312 270 H368" stroke="#C62828" stroke-width="3"/>
+  <path d="M314 280 H366" stroke="#C9A227" stroke-width="2"/>
+
+  <!-- Rahat lokum (crimson cube) -->
+  <rect x="400" y="272" width="28" height="24" rx="2" fill="#C62828" stroke="#5D4037" stroke-width="2.5"/>
+  <path d="M400 279 H428" stroke="#F7F1E8" stroke-width="2" opacity="0.5"/>
+
+  <!-- Sugar cube -->
+  <rect x="432" y="278" width="22" height="18" rx="1" fill="#FFFFFF" stroke="#5D4037" stroke-width="2.5"/>
+  <path d="M432 285 H454" stroke="#5D4037" stroke-width="1.5" opacity="0.35"/>
+
+  <!-- Steam -->
+  <path d="M200 145 C195 128 208 118 200 100" stroke="#8B5E3C" stroke-width="3" stroke-linecap="round" opacity="0.5" fill="none"/>
+  <path d="M218 142 C224 122 212 112 220 95" stroke="#8B5E3C" stroke-width="3" stroke-linecap="round" opacity="0.5" fill="none"/>
+  <path d="M235 148 C242 130 230 120 238 105" stroke="#8B5E3C" stroke-width="2.5" stroke-linecap="round" opacity="0.4" fill="none"/>
+
+  <!-- Ground line + kilim bunting -->
+  <line x1="30" y1="385" x2="530" y2="385" stroke="#5D4037" stroke-width="4" stroke-linecap="round"/>
+  <path d="M55 385 L72 353 L89 385 Z" fill="#C62828" stroke="#5D4037" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M105 385 L122 350 L139 385 Z" fill="#1B2A4A" stroke="#5D4037" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M155 385 L172 355 L189 385 Z" fill="#C9A227" stroke="#5D4037" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M205 385 L222 348 L239 385 Z" fill="#2F5D50" stroke="#5D4037" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M255 385 L272 353 L289 385 Z" fill="#C62828" stroke="#5D4037" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M305 385 L322 350 L339 385 Z" fill="#1B2A4A" stroke="#5D4037" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M355 385 L372 355 L389 385 Z" fill="#C9A227" stroke="#5D4037" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M405 385 L422 348 L439 385 Z" fill="#2F5D50" stroke="#5D4037" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M455 385 L472 353 L489 385 Z" fill="#C62828" stroke="#5D4037" stroke-width="2.5" stroke-linejoin="round"/>
+</svg>

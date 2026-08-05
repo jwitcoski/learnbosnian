@@ -11,30 +11,11 @@ import {
   SolidCta,
   YoutubeStrip,
   ContactWrap,
-  StyledPhoto,
+  TemplateArt,
 } from "./styles";
 
 const Contact = lazy(() => import("../../components/ContactForm"));
 const ScrollToTop = lazy(() => import("../../common/ScrollToTop"));
-
-const PHOTOS = {
-  mostar: {
-    src: "/images/home/mostar-bridge.jpg",
-    alt: "Stari Most, the Old Bridge in Mostar",
-    credit: "Stari Most, Mostar — Hatice Baran / Pexels",
-  },
-  coffee: {
-    src: "/images/home/bosnian-coffee.jpg",
-    alt: "Bosnian coffee with džezva, fildžan, and rahatlokum",
-    credit: "Bosnian-style coffee set — Ioannes2909 / Wikimedia Commons (CC BY-SA 4.0)",
-  },
-  costume: {
-    src: "/images/home/traditional-costume.jpg",
-    alt: "Women in traditional Bosnian folk dress",
-    credit:
-      "Traditional Bosnian costume — Historym1468 / Wikimedia Commons (CC BY 4.0)",
-  },
-};
 
 const Home = () => {
   const history = useHistory();
@@ -59,19 +40,20 @@ const Home = () => {
             </Cta>
           </div>
         </div>
-        <StyledPhoto>
-          <img src={PHOTOS.mostar.src} alt={PHOTOS.mostar.alt} />
-          <span className="credit">{PHOTOS.mostar.credit}</span>
-        </StyledPhoto>
+        <TemplateArt>
+          <img src="/img/svg/mostar-bridge.svg" alt="Stari Most in Mostar" />
+        </TemplateArt>
       </Hero>
 
       <KilimBand aria-hidden />
 
       <Illustrate $flip>
-        <StyledPhoto>
-          <img src={PHOTOS.coffee.src} alt={PHOTOS.coffee.alt} />
-          <span className="credit">{PHOTOS.coffee.credit}</span>
-        </StyledPhoto>
+        <TemplateArt>
+          <img
+            src="/img/svg/bosnian-coffee.svg"
+            alt="Bosnian coffee with džezva and cups"
+          />
+        </TemplateArt>
         <div className="copy">
           <h2>One clear path</h2>
           <p>
@@ -127,10 +109,12 @@ const Home = () => {
             Browse the book series
           </SolidCta>
         </div>
-        <StyledPhoto>
-          <img src={PHOTOS.costume.src} alt={PHOTOS.costume.alt} />
-          <span className="credit">{PHOTOS.costume.credit}</span>
-        </StyledPhoto>
+        <TemplateArt>
+          <img
+            src="/img/svg/bosnian-costume.svg"
+            alt="Woman in traditional Bosnian dress"
+          />
+        </TemplateArt>
       </Illustrate>
 
       <YoutubeStrip>
