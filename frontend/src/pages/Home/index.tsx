@@ -19,17 +19,17 @@ const ScrollToTop = lazy(() => import("../../common/ScrollToTop"));
 
 const PHOTOS = {
   mostar: {
-    src: "/images/home/mostar-bridge.jpg",
+    src: "/images/home/mostar-bridge.png",
     alt: "Flat polygon painting of Stari Most, the Old Bridge in Mostar",
     credit: "Polygon paint style from photo — Stari Most, Mostar",
   },
   coffee: {
-    src: "/images/home/bosnian-coffee.jpg",
+    src: "/images/home/bosnian-coffee.png",
     alt: "Flat polygon painting of a traditional Bosnian coffee set",
     credit: "Polygon paint style from photo — Bosnian coffee, Baščaršija",
   },
   costume: {
-    src: "/images/home/traditional-costume.jpg",
+    src: "/images/home/traditional-costume.png",
     alt: "Flat polygon painting of women in traditional Bosnian folk dress",
     credit: "Polygon paint style from photo — Traditional Bosnian costume",
   },

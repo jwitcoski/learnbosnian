@@ -9,13 +9,12 @@ export const HomeRoot = styled.div`
   width: 100%;
 `;
 
-/** Cream panel for flat polygon illustrations */
+/** Cream panel for flat polygon illustrations (transparent PNGs) */
 export const StyledPhoto = styled.figure`
   margin: 0;
   position: relative;
-  background: linear-gradient(160deg, #fffdf8 0%, #f7f1e8 100%);
-  padding: 1.15rem 1.15rem 1.85rem;
-  border: 1px solid rgba(93, 64, 55, 0.12);
+  background: transparent;
+  padding: 0.5rem 0.5rem 1.5rem;
 
   img {
     position: relative;
@@ -23,8 +22,9 @@ export const StyledPhoto = styled.figure`
     display: block;
     width: 100%;
     height: auto;
-    max-height: 420px;
-    object-fit: cover;
+    max-height: 440px;
+    object-fit: contain;
+    margin: 0 auto;
   }
 
   .credit {
