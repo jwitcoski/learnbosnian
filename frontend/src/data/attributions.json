@@ -3,7 +3,7 @@
   "intro": "Running register of every photo used on the site and in Book 1. Use this list when citing images for print, Scribus export, or YouTube descriptions. Chapter images are harvested automatically from each chapter.json; homepage and other site assets are listed here by hand.",
   "citationNote": "For Creative Commons works, credit the author, note the license, and link to the source page. For Pexels, credit the photographer and Pexels. Derivative treatments (polygon paint, background removal) still require attribution of the source photo.",
   "generatedAt": "2026-08-05",
-  "total": 6,
+  "total": 8,
   "entries": [
     {
       "id": "book1-day-00-mostar-neretva",
@@ -55,6 +55,40 @@
       "notes": "Day 1 full-bleed polygon paint treatment of the source photo.",
       "book": 1,
       "day": 1
+    },
+    {
+      "id": "book1-day-02-sebilj-square",
+      "title": "Polygon painting of Sebilj fountain in Baščaršija square, Sarajevo",
+      "whereUsed": [
+        "Book 1 · Day 2 — I am Ana"
+      ],
+      "author": "Daniel Wabyick",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Day_in_Sarajevo.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Day_in_Sarajevo.jpg",
+      "localPath": "/images/book1/day-02-sebilj.png",
+      "credit": "Based on photo: Sebilj, Baščaršija — Daniel Wabyick / Wikimedia Commons (CC BY 2.0)",
+      "notes": "Day 2 full-bleed polygon paint treatment of the source photo.",
+      "book": 1,
+      "day": 2
+    },
+    {
+      "id": "book1-day-03-kahva-amira",
+      "title": "Polygon painting of Bosnian coffee with džezva and fildžan on a copper tray",
+      "whereUsed": [
+        "Book 1 · Day 3 — Numbers and coffee"
+      ],
+      "author": "Michał Huniewicz",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_coffee_(13926468997).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_coffee_(13926468997).jpg",
+      "localPath": "/images/book1/day-03-kahva.png",
+      "credit": "Based on photo: Bosnian coffee — Michał Huniewicz / Wikimedia Commons (CC BY 2.0)",
+      "notes": "Day 3 full-bleed polygon paint treatment of the source photo.",
+      "book": 1,
+      "day": 3
     },
     {
       "id": "home-coffee",

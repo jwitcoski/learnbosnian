@@ -5,7 +5,7 @@
   "title": "Ja sam Ana",
   "titleEn": "I am Ana",
   "theme": "Meeting Emir at Sebilj",
-  "status": "outlined",
+  "status": "draft",
   "reviewedAt": null,
   "reviewerNotes": "",
   "estimatedMinutes": 60,
@@ -25,8 +25,8 @@
   "grammar": [],
   "culture": {
     "title": "Meeting Emir at Sebilj",
-    "body": "Stub for Day 2. Full culture hook will be written on the draft night.",
-    "imageId": null
+    "body": "Ana meets Emir at the Sebilj fountain in Baščaršija — pigeons, stone paving, and a first hello. Full lesson text is still a draft; the picture sets the scene.",
+    "imageId": "sebilj-square"
   },
   "lessonBlocks": [],
   "conversation": {
@@ -50,9 +50,18 @@
     "questions": []
   },
   "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to: Meeting Emir at Sebilj"
-  ]
+  "images": [
+    {
+      "id": "sebilj-square",
+      "alt": "Polygon painting of Sebilj fountain in Baščaršija square, Sarajevo",
+      "localPath": "/images/book1/day-02-sebilj.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Day_in_Sarajevo.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Day_in_Sarajevo.jpg",
+      "author": "Daniel Wabyick",
+      "license": "CC BY 2.0",
+      "credit": "Based on photo: Sebilj, Baščaršija — Daniel Wabyick / Wikimedia Commons (CC BY 2.0)"
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": []
 }

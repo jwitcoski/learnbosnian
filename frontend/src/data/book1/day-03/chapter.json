@@ -5,7 +5,7 @@
   "title": "Brojevi i kahva",
   "titleEn": "Numbers and coffee",
   "theme": "Coffee at Amira’s",
-  "status": "outlined",
+  "status": "draft",
   "reviewedAt": null,
   "reviewerNotes": "",
   "estimatedMinutes": 60,
@@ -25,8 +25,8 @@
   "grammar": [],
   "culture": {
     "title": "Coffee at Amira’s",
-    "body": "Stub for Day 3. Full culture hook will be written on the draft night.",
-    "imageId": null
+    "body": "At Amira’s café, kahva arrives on a copper tray — džezva, fildžan, and time to talk. Full lesson text is still a draft; the picture sets the scene.",
+    "imageId": "kahva-amira"
   },
   "lessonBlocks": [],
   "conversation": {
@@ -50,9 +50,18 @@
     "questions": []
   },
   "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to: Coffee at Amira’s"
-  ]
+  "images": [
+    {
+      "id": "kahva-amira",
+      "alt": "Polygon painting of Bosnian coffee with džezva and fildžan on a copper tray",
+      "localPath": "/images/book1/day-03-kahva.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_coffee_(13926468997).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_coffee_(13926468997).jpg",
+      "author": "Michał Huniewicz",
+      "license": "CC BY 2.0",
+      "credit": "Based on photo: Bosnian coffee — Michał Huniewicz / Wikimedia Commons (CC BY 2.0)"
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": []
 }
