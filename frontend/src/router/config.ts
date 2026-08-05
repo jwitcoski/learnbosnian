@@ -29,6 +29,11 @@ const routes = [
     exact: true,
     component: "Books",
   },
+  {
+    path: "/attributions",
+    exact: true,
+    component: "Attributions",
+  },
 ];
 
 export default routes;

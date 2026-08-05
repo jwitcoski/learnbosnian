@@ -1,0 +1,102 @@
+{
+  "title": "Photo attributions",
+  "intro": "Running register of every photo used on the site and in Book 1. Use this list when citing images for print, Scribus export, or YouTube descriptions. Chapter images are harvested automatically from each chapter.json; homepage and other site assets are listed here by hand.",
+  "citationNote": "For Creative Commons works, credit the author, note the license, and link to the source page. For Pexels, credit the photographer and Pexels. Derivative treatments (polygon paint, background removal) still require attribution of the source photo.",
+  "generatedAt": "2026-08-05",
+  "total": 6,
+  "entries": [
+    {
+      "id": "book1-day-00-mostar-neretva",
+      "title": "Koski Mehmed Pasha Mosque above the Neretva River in Mostar, Herzegovina",
+      "whereUsed": [
+        "Book 1 · Day 0 — Why Bosnian?"
+      ],
+      "author": "Borys Jarzcuk",
+      "source": "Pexels",
+      "license": "Pexels License",
+      "pageUrl": "https://www.pexels.com/photo/the-koski-mehmed-pasha-mosque-mostar-bosnia-and-herzegovina-24244453/",
+      "sourceUrl": "https://www.pexels.com/photo/the-koski-mehmed-pasha-mosque-mostar-bosnia-and-herzegovina-24244453/",
+      "localPath": "/images/book1/day-00-mostar-neretva.jpg",
+      "credit": "Mostar and the Neretva — Borys Jarzcuk / Pexels",
+      "notes": "",
+      "book": 1,
+      "day": 0
+    },
+    {
+      "id": "book1-day-01-bascarsija",
+      "title": "Baščaršija streets in Sarajevo with Brusa Bezistan",
+      "whereUsed": [
+        "Book 1 · Day 1 — Hello, Sarajevo!"
+      ],
+      "author": "Kathleen Franklin",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bascarsija.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bascarsija.jpg",
+      "localPath": "/images/book1/day-01-bascarsija.jpg",
+      "credit": "Baščaršija, Sarajevo — Kathleen Franklin / Wikimedia Commons (CC BY 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 1
+    },
+    {
+      "id": "book1-day-01-sebilj",
+      "title": "Sebilj fountain in Baščaršija, Sarajevo",
+      "whereUsed": [
+        "Book 1 · Day 1 — Hello, Sarajevo!"
+      ],
+      "author": "BloodSaric",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 2.5",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sebilj,_Sarajevo.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sebilj,_Sarajevo.jpg",
+      "localPath": "/images/book1/day-01-sebilj.jpg",
+      "credit": "Sebilj fountain, Sarajevo — BloodSaric / Wikimedia Commons (CC BY-SA 2.5)",
+      "notes": "",
+      "book": 1,
+      "day": 1
+    },
+    {
+      "id": "home-coffee",
+      "title": "Bosnian coffee set, Baščaršija",
+      "whereUsed": [
+        "Homepage mid section (polygon paint treatment)"
+      ],
+      "author": "İhsan Işık",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "localPath": "/images/home/bosnian-coffee.png",
+      "notes": "Polygon paint treatment of the source photo; background removed for the site."
+    },
+    {
+      "id": "home-costume",
+      "title": "Traditional Bosnian folk costume",
+      "whereUsed": [
+        "Homepage story section (polygon paint treatment)"
+      ],
+      "author": "Historym1468",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Folk_group_Costume_Dress,_Bosnia_Herzegovina.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Folk_group_Costume_Dress,_Bosnia_Herzegovina.jpg",
+      "localPath": "/images/home/traditional-costume.png",
+      "notes": "Polygon paint treatment of the source photo; background removed for the site."
+    },
+    {
+      "id": "home-mostar",
+      "title": "Stari Most, Mostar",
+      "whereUsed": [
+        "Homepage hero (polygon paint treatment)"
+      ],
+      "author": "Hatice Baran",
+      "source": "Pexels",
+      "license": "Pexels License",
+      "pageUrl": "https://www.pexels.com/photo/view-of-the-stari-most-in-mostar-in-bosnia-and-herzegovina-18037876/",
+      "sourceUrl": "https://www.pexels.com/photo/view-of-the-stari-most-in-mostar-in-bosnia-and-herzegovina-18037876/",
+      "localPath": "/images/home/mostar-bridge.png",
+      "notes": "Polygon paint treatment of the source photo; background removed for the site."
+    }
+  ]
+}

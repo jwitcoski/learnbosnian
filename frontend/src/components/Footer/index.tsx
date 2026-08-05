@@ -56,6 +56,7 @@ const Footer = () => {
               <Large to="/dictionary">Mini-dictionary</Large>
               <Large to="/books">Book series</Large>
               <Large to="/learn/day/0">Day 0 orientation</Large>
+              <Large to="/attributions">Photo attributions</Large>
             </Col>
             <Col lg={6} md={6} sm={12} xs={12}>
               <Title>Watch</Title>
@@ -68,6 +69,9 @@ const Footer = () => {
               </a>
               <Link to="/books">
                 <Para>Books 2 &amp; 3 (coming)</Para>
+              </Link>
+              <Link to="/attributions">
+                <Para>Cite photos for print</Para>
               </Link>
             </Col>
           </Row>

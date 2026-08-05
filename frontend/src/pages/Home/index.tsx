@@ -1,5 +1,5 @@
 import { lazy } from "react";
-import { useHistory } from "react-router-dom";
+import { Link, useHistory } from "react-router-dom";
 import {
   HomeRoot,
   Hero,
@@ -63,7 +63,9 @@ const Home = () => {
         </div>
         <StyledPhoto>
           <img src={PHOTOS.mostar.src} alt={PHOTOS.mostar.alt} />
-          <span className="credit">{PHOTOS.mostar.credit}</span>
+          <Link className="credit" to="/attributions#home-mostar">
+            {PHOTOS.mostar.credit}
+          </Link>
         </StyledPhoto>
       </Hero>
 
@@ -72,7 +74,9 @@ const Home = () => {
       <Illustrate $flip>
         <StyledPhoto>
           <img src={PHOTOS.coffee.src} alt={PHOTOS.coffee.alt} />
-          <span className="credit">{PHOTOS.coffee.credit}</span>
+          <Link className="credit" to="/attributions#home-coffee">
+            {PHOTOS.coffee.credit}
+          </Link>
         </StyledPhoto>
         <div className="copy">
           <h2>One clear path</h2>
@@ -131,7 +135,9 @@ const Home = () => {
         </div>
         <StyledPhoto>
           <img src={PHOTOS.costume.src} alt={PHOTOS.costume.alt} />
-          <span className="credit">{PHOTOS.costume.credit}</span>
+          <Link className="credit" to="/attributions#home-costume">
+            {PHOTOS.costume.credit}
+          </Link>
         </StyledPhoto>
       </Illustrate>
 

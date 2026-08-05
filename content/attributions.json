@@ -1,0 +1,43 @@
+{
+  "title": "Photo attributions",
+  "intro": "Running register of every photo used on the site and in Book 1. Use this list when citing images for print, Scribus export, or YouTube descriptions. Chapter images are harvested automatically from each chapter.json; homepage and other site assets are listed here by hand.",
+  "citationNote": "For Creative Commons works, credit the author, note the license, and link to the source page. For Pexels, credit the photographer and Pexels. Derivative treatments (polygon paint, background removal) still require attribution of the source photo.",
+  "entries": [
+    {
+      "id": "home-mostar",
+      "title": "Stari Most, Mostar",
+      "whereUsed": ["Homepage hero (polygon paint treatment)"],
+      "author": "Hatice Baran",
+      "source": "Pexels",
+      "license": "Pexels License",
+      "pageUrl": "https://www.pexels.com/photo/view-of-the-stari-most-in-mostar-in-bosnia-and-herzegovina-18037876/",
+      "sourceUrl": "https://www.pexels.com/photo/view-of-the-stari-most-in-mostar-in-bosnia-and-herzegovina-18037876/",
+      "localPath": "/images/home/mostar-bridge.png",
+      "notes": "Polygon paint treatment of the source photo; background removed for the site."
+    },
+    {
+      "id": "home-coffee",
+      "title": "Bosnian coffee set, Baščaršija",
+      "whereUsed": ["Homepage mid section (polygon paint treatment)"],
+      "author": "İhsan Işık",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "localPath": "/images/home/bosnian-coffee.png",
+      "notes": "Polygon paint treatment of the source photo; background removed for the site."
+    },
+    {
+      "id": "home-costume",
+      "title": "Traditional Bosnian folk costume",
+      "whereUsed": ["Homepage story section (polygon paint treatment)"],
+      "author": "Historym1468",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Folk_group_Costume_Dress,_Bosnia_Herzegovina.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Folk_group_Costume_Dress,_Bosnia_Herzegovina.jpg",
+      "localPath": "/images/home/traditional-costume.png",
+      "notes": "Polygon paint treatment of the source photo; background removed for the site."
+    }
+  ]
+}

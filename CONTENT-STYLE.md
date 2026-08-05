@@ -48,6 +48,11 @@ Every chapter JSON must include (even review days):
 - Free licenses only (Wikimedia Commons, Unsplash, Pexels)
 - Always store `author`, `license`, `sourceUrl` / `pageUrl`, and display credit
 - If missing: set `imagesNeeded: true` and add `imageBriefs` for the human reviewer
+- Keep the running citation list up to date:
+  - Chapter photos: add them under `images[]` in `chapter.json` (auto-harvested)
+  - Homepage / other site photos: add them to `content/attributions.json`
+  - Run `node scripts/sync-content.cjs` — writes `frontend/src/data/attributions.json`
+  - Public page: `/attributions`
 
 ## Status workflow
 

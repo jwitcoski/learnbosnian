@@ -33,6 +33,12 @@ export const StyledPhoto = styled.figure`
     font-size: 0.72rem;
     color: var(--color-muted);
     line-height: 1.35;
+    text-decoration: none;
+
+    &:hover {
+      color: var(--color-crimson);
+      text-decoration: underline;
+    }
   }
 `;
 
