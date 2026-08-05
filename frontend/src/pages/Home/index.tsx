@@ -63,7 +63,7 @@ const Home = () => {
         direction="left"
         title={ProductContent.title}
         content={ProductContent.text}
-        icon="waving.svg"
+        icon="youtube.svg"
         id="product"
       />
       <div style={{ textAlign: "center", margin: "2rem 0" }}>
