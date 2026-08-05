@@ -1,6 +1,7 @@
 import { useMemo, useState } from "react";
 import type { Puzzle } from "../../types/chapter";
 import { GhostButton, PrimaryButton } from "./styles";
+import BosnianTextInput from "./BosnianTextInput";
 
 type Props = { puzzle: Puzzle };
 
@@ -75,16 +76,19 @@ export default function PuzzleGame({ puzzle }: Props) {
       <div>
         <h3>{puzzle.title}</h3>
         <p>{puzzle.prompt}</p>
+        <p style={{ fontSize: "0.95rem", color: "var(--color-muted)" }}>
+          Need č ć š ž đ? Use the accent buttons under each box.
+        </p>
         {items.map((item, idx) => (
-          <div key={item.scrambled} style={{ marginBottom: "0.65rem" }}>
-            <code>{item.scrambled}</code>{" "}
-            <input
+          <div key={item.scrambled} style={{ marginBottom: "0.85rem" }}>
+            <code>{item.scrambled}</code>
+            <BosnianTextInput
               value={guesses[String(idx)] || ""}
-              onChange={(e) =>
-                setGuesses({ ...guesses, [String(idx)]: e.target.value })
+              onChange={(next) =>
+                setGuesses({ ...guesses, [String(idx)]: next })
               }
-              style={{ width: "160px", display: "inline-block", padding: "0.4rem" }}
               placeholder="unscramble"
+              style={{ maxWidth: "220px" }}
             />
           </div>
         ))}

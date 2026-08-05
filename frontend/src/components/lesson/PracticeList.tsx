@@ -1,6 +1,7 @@
 import { useState } from "react";
 import type { PracticeItem } from "../../types/chapter";
 import { PrimaryButton } from "./styles";
+import BosnianTextInput from "./BosnianTextInput";
 
 type Props = { items: PracticeItem[] };
 
@@ -12,6 +13,10 @@ export default function PracticeList({ items }: Props) {
 
   return (
     <div>
+      <p style={{ fontSize: "0.95rem", color: "var(--color-muted)" }}>
+        Your keyboard may not have č ć š ž đ. Tap the accent buttons under each box
+        to insert them.
+      </p>
       {items.map((item) => {
         const ok =
           revealed &&
@@ -25,11 +30,9 @@ export default function PracticeList({ items }: Props) {
                 Hint: {item.hint}
               </p>
             )}
-            <input
+            <BosnianTextInput
               value={answers[item.id] || ""}
-              onChange={(e) =>
-                setAnswers({ ...answers, [item.id]: e.target.value })
-              }
+              onChange={(next) => setAnswers({ ...answers, [item.id]: next })}
               placeholder="Your answer"
             />
             {revealed && (

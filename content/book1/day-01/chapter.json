@@ -14,10 +14,11 @@
     "vocabulary": [
       "Basic greetings (zdravo, dobar dan, hvala, molim)",
       "Key Baščaršija place words",
-      "Letters with diacritics: č, ć, š, ž, đ, dž"
+      "The full Latin Bosnian alphabet, including č ć š ž đ dž lj nj"
     ],
     "grammar": [
-      "Latin Bosnian alphabet overview",
+      "All 30 Latin Bosnian letters (A to Ž), with sound examples",
+      "How to type accented letters on a plain keyboard",
       "Simple greeting exchanges (no full conjugation yet)"
     ],
     "culture": [
@@ -141,15 +142,48 @@
   ],
   "grammar": [
     {
-      "title": "The Latin Bosnian alphabet",
-      "explanation": "Bosnian is written with the Latin alphabet in this book. Most letters sound familiar. Six special letters matter a lot: č, ć, š, ž, đ, and the digraph dž. We never use Cyrillic here.",
+      "title": "The full Latin Bosnian alphabet",
+      "explanation": "Bosnian in this course uses the Latin script only (no Cyrillic). There are 30 letters. Most match English. Learn the whole row first, then zoom in on the special ones. Order: A B C Č Ć D Dž Đ E F G H I J K L Lj M N Nj O P R S Š T U V Z Ž. Digraphs Dž, Lj, and Nj count as single letters in the alphabet.",
       "examples": [
-        { "bosnian": "čaj", "english": "tea (č like English 'ch' in church)" },
-        { "bosnian": "ćup", "english": "jar (ć is softer, closer to 't' + soft 'ch')" },
-        { "bosnian": "šuma", "english": "forest (š like 'sh')" },
-        { "bosnian": "žena", "english": "woman (ž like 's' in measure)" },
-        { "bosnian": "đak", "english": "pupil (đ like 'j' in juice, softer)" },
-        { "bosnian": "džezva", "english": "coffee pot (dž like 'j' in jam)" }
+        { "bosnian": "A a", "english": "as in father" },
+        { "bosnian": "B b", "english": "as in bed" },
+        { "bosnian": "C c", "english": "as in tsunami (ts)" },
+        { "bosnian": "Č č", "english": "as in church" },
+        { "bosnian": "Ć ć", "english": "softer than č, shorter ch" },
+        { "bosnian": "D d", "english": "as in dog" },
+        { "bosnian": "Dž dž", "english": "as in jam (one letter)" },
+        { "bosnian": "Đ đ", "english": "softer j, as in duke (British)" },
+        { "bosnian": "E e", "english": "as in bed" },
+        { "bosnian": "F f", "english": "as in fun" },
+        { "bosnian": "G g", "english": "as in go" },
+        { "bosnian": "H h", "english": "as in hotel" },
+        { "bosnian": "I i", "english": "as in machine" },
+        { "bosnian": "J j", "english": "as in yes" },
+        { "bosnian": "K k", "english": "as in kite" },
+        { "bosnian": "L l", "english": "as in love" },
+        { "bosnian": "Lj lj", "english": "as in million (one letter)" },
+        { "bosnian": "M m", "english": "as in mother" },
+        { "bosnian": "N n", "english": "as in no" },
+        { "bosnian": "Nj nj", "english": "as in canyon (one letter)" },
+        { "bosnian": "O o", "english": "as in more" },
+        { "bosnian": "P p", "english": "as in pen" },
+        { "bosnian": "R r", "english": "trilled r" },
+        { "bosnian": "S s", "english": "as in sun" },
+        { "bosnian": "Š š", "english": "as in ship" },
+        { "bosnian": "T t", "english": "as in top" },
+        { "bosnian": "U u", "english": "as in boot" },
+        { "bosnian": "V v", "english": "as in very" },
+        { "bosnian": "Z z", "english": "as in zoo" },
+        { "bosnian": "Ž ž", "english": "as in measure / vision" }
+      ]
+    },
+    {
+      "title": "Typing č ć š ž đ on a plain keyboard",
+      "explanation": "US and UK keyboards do not print Bosnian accents. On this site, typed answers show accent buttons under the box: tap č ć š ž đ (and capitals) to insert the letter at your cursor. On phones you can also long-press c, s, z, or d on many keyboards. In Word or Google Docs you can use Insert Symbol, or switch your OS to a Bosnian / Croatian keyboard layout later if you want.",
+      "examples": [
+        { "bosnian": "čaj", "english": "type c then tap č on the accent bar (or long-press c on phone)" },
+        { "bosnian": "Baščaršija", "english": "needs š and č; use the accent buttons" },
+        { "bosnian": "doviđenja", "english": "needs đ; tap đ under the answer box" }
       ]
     },
     {
@@ -158,7 +192,7 @@
       "examples": [
         { "bosnian": "Zdravo!", "english": "Hello!" },
         { "bosnian": "Dobar dan!", "english": "Good day!" },
-        { "bosnian": "Hvala. — Molim.", "english": "Thank you. — You're welcome." }
+        { "bosnian": "Hvala. Molim.", "english": "Thank you. You're welcome." }
       ]
     }
   ],
@@ -170,18 +204,18 @@
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A — Letters that look new",
-      "body": "Look at these six: č ć š ž đ dž. Pair each with a word you can feel in your mouth. Čaj (tea). Ćup (jar). Šuma (forest). Žena (woman). Đak (pupil). Džezva (the little pot for Bosnian coffee). Say them slowly. Ana practices on the plane: čaj, čaj, čaj — then walks into Baščaršija and sees a real džezva in a shop window.",
+      "title": "Lesson A — Walk the full alphabet",
+      "body": "Say the whole Latin Bosnian alphabet out loud once: A B C Č Ć D Dž Đ E F G H I J K L Lj M N Nj O P R S Š T U V Z Ž. That is thirty letters. Digraphs Dž, Lj, and Nj are single alphabet letters even though they look like two characters. Now zoom in on the ones English does not have: Č č (church), Ć ć (softer/shorter), Dž dž (jam), Đ đ (softer j), Š š (ship), Ž ž (measure), plus Lj lj and Nj nj. Practice words: čaj, ćup, džezva, đak, šuma, žena, ljubav (love), njega (care). Ana drills them on the plane, then spots Baščaršija on a sign and finally hears the letters in a real street name.",
       "tips": [
+        "Do not skip the boring letters. C (ts) is not English C, and J is like English Y.",
         "č vs ć: č is harder; ć is softer and shorter",
-        "dž is one sound, like English j in jam",
-        "Read street signs out loud — Sarajevo is full of practice"
+        "When you type answers here, use the accent buttons under the box for č ć š ž đ"
       ]
     },
     {
       "id": "b",
       "title": "Lesson B — Your first greetings",
-      "body": "Memorize this mini set: Zdravo (hi), Dobar dan (good day), Dobro jutro (good morning), Dobra večer (good evening), Hvala (thanks), Molim (please / you're welcome), Doviđenja (goodbye), Da / Ne (yes / no). Use Dobar dan with people you do not know well. Use Zdravo with friends — or with Emir, once you meet him tomorrow.",
+      "body": "Memorize this mini set: Zdravo (hi), Dobar dan (good day), Dobro jutro (good morning), Dobra večer (good evening), Hvala (thanks), Molim (please / you're welcome), Doviđenja (goodbye), Da / Ne (yes / no). Use Dobar dan with people you do not know well. Use Zdravo with friends, or with Emir once you meet him tomorrow. Notice doviđenja needs đ; večer needs č. Tap those accents when you practice typing.",
       "tips": [
         "Smile helps more than perfect pronunciation",
         "If you forget, Hvala still works almost everywhere"
@@ -283,8 +317,20 @@
     {
       "id": "pr5",
       "prompt": "Name Sarajevo’s old bazaar.",
-      "hint": "Has š and č",
+      "hint": "Has š and č — use the accent buttons",
       "answer": "Baščaršija"
+    },
+    {
+      "id": "pr6",
+      "prompt": "Type goodbye in Bosnian (needs đ).",
+      "hint": "doviđenja — tap đ on the accent bar",
+      "answer": "doviđenja"
+    },
+    {
+      "id": "pr7",
+      "prompt": "How many letters are in the Latin Bosnian alphabet?",
+      "hint": "Includes Dž, Lj, Nj as single letters",
+      "answer": "30"
     }
   ],
   "funFacts": [
@@ -297,8 +343,12 @@
       "body": "Bosnian spelling is mostly phonetic: what you see is what you say. That helps beginners a lot once the special letters click."
     },
     {
+      "title": "No accent key? No problem",
+      "body": "On this site, typed answers include buttons for č ć š ž đ under the box. On many phones, long-press c, s, z, or d to see accent options."
+    },
+    {
       "title": "Cats of the čaršija",
-      "body": "Sarajevo’s old town is famous for friendly street cats. Mrvica is fictional — but her attitude is very local."
+      "body": "Sarajevo’s old town is famous for friendly street cats. Mrvica is fictional, but her attitude is very local."
     }
   ],
   "resources": [
@@ -355,6 +405,18 @@
       },
       {
         "id": "q4",
+        "question": "How many letters are in the Latin Bosnian alphabet?",
+        "options": [
+          "26, same as English",
+          "30, including Dž, Lj, and Nj",
+          "33 with Cyrillic mixed in",
+          "24 without digraphs"
+        ],
+        "correctIndex": 1,
+        "explanation": "Latin Bosnian has 30 letters. Dž, Lj, and Nj each count as one letter."
+      },
+      {
+        "id": "q5",
         "question": "The letter š sounds most like English…",
         "options": [
           "'s' in sun",
@@ -366,7 +428,7 @@
         "explanation": "Š is like sh in ship — as in Baščaršija."
       },
       {
-        "id": "q5",
+        "id": "q6",
         "question": "A džezva is…",
         "options": [
           "A bridge",
@@ -378,7 +440,7 @@
         "explanation": "Džezva is the little pot used for Bosnian coffee."
       },
       {
-        "id": "q6",
+        "id": "q7",
         "question": "How do you say goodbye?",
         "options": [
           "Dobro jutro",
@@ -387,10 +449,10 @@
           "Čaj"
         ],
         "correctIndex": 1,
-        "explanation": "Doviđenja means goodbye."
+        "explanation": "Doviđenja means goodbye. The letter đ needs the accent button when typing."
       },
       {
-        "id": "q7",
+        "id": "q8",
         "question": "Baščaršija is…",
         "options": [
           "A mountain near Mostar",
@@ -402,7 +464,7 @@
         "explanation": "Baščaršija is the historic market heart of Sarajevo."
       },
       {
-        "id": "q8",
+        "id": "q9",
         "question": "Which pair shows a harder vs softer 'ch'-like sound?",
         "options": [
           "š vs ž",
