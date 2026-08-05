@@ -76,3 +76,4 @@ Teaser outlines only — see `content/book2/outline.json` and `content/book3/out
 - [x] Scribus / YouTube export scripts
 - [x] App roadmap + landing CTAs
 - [x] Lesson 0 orientation (why Bosnian / etymology / audience)
+- [x] Lesson authoring guide (Lesson 1 mold for 4–30)
