@@ -1,4 +1,5 @@
 import styled, { keyframes } from "styled-components";
+import { Link } from "react-router-dom";
 
 const shimmer = keyframes`
   0% { background-position: 0% 50%; }
@@ -203,6 +204,37 @@ export const Banner = styled.div`
   padding: 0.85rem 1rem;
   margin-bottom: 1rem;
   font-size: 0.95rem;
+`;
+
+export const DayNav = styled.div`
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.85rem;
+  margin-top: 0.5rem;
+
+  .soon {
+    color: var(--color-muted);
+    font-size: 0.95rem;
+  }
+`;
+
+export const DayNavLink = styled(Link)<{ $primary?: boolean }>`
+  display: inline-block;
+  padding: 0.75rem 1.15rem;
+  font-weight: 700;
+  text-decoration: none;
+  border: 2px solid
+    ${(p) => (p.$primary ? "var(--color-crimson)" : "var(--color-brown)")};
+  background: ${(p) => (p.$primary ? "var(--color-crimson)" : "transparent")};
+  color: ${(p) => (p.$primary ? "#fff" : "var(--color-brown)")};
+
+  &:hover {
+    background: var(--color-brown);
+    border-color: var(--color-brown);
+    color: #fff;
+  }
 `;
 
 export const LockedGrid = styled.div`

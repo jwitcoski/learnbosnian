@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import type { Chapter } from "../../types/chapter";
+import { getChapter, canViewChapter } from "../../data/loadChapters";
 import PuzzleGame from "./PuzzleGame";
 import PracticeList from "./PracticeList";
 import SectionQuiz from "./SectionQuiz";
@@ -15,6 +16,8 @@ import {
   SectionDivider,
   VocabCard,
   VocabGrid,
+  DayNav,
+  DayNavLink,
 } from "./styles";
 
 type Props = { chapter: Chapter };
@@ -23,6 +26,11 @@ export default function LessonShell({ chapter }: Props) {
   const hero =
     chapter.images?.find((i) => i.id === chapter.culture?.imageId) ||
     chapter.images?.[0];
+
+  const prev = getChapter(chapter.day - 1);
+  const next = getChapter(chapter.day + 1);
+  const prevOpen = prev ? canViewChapter(prev) : false;
+  const nextOpen = next ? canViewChapter(next) : false;
 
   return (
     <LessonPage>
@@ -39,7 +47,9 @@ export default function LessonShell({ chapter }: Props) {
         )}
         <div className="hero-copy">
           <div className="meta">
-            {chapter.day === 0 ? "Day 0 · Orientation" : `Day ${chapter.day} · Week ${chapter.week}`}{" "}
+            {chapter.day === 0
+              ? "Day 0 · Orientation"
+              : `Day ${chapter.day} · Week ${chapter.week}`}{" "}
             · ~{chapter.estimatedMinutes || 60} min
           </div>
           <h1>{chapter.title}</h1>
@@ -218,8 +228,35 @@ export default function LessonShell({ chapter }: Props) {
         <SectionQuiz chapter={chapter} embedded />
       </Panel>
 
-      <Panel>
-        <Link to="/learn">← All lessons</Link>
+      <Panel id="continue">
+        <SectionDivider />
+        <h2>Continue</h2>
+        <DayNav>
+          {prev ? (
+            prevOpen ? (
+              <DayNavLink to={`/learn/day/${prev.day}`}>
+                ← Day {prev.day}: {prev.title}
+              </DayNavLink>
+            ) : (
+              <span className="soon">← Day {prev.day} · soon</span>
+            )
+          ) : (
+            <Link to="/learn">← All lessons</Link>
+          )}
+          {next ? (
+            nextOpen ? (
+              <DayNavLink $primary to={`/learn/day/${next.day}`}>
+                Day {next.day}: {next.title} →
+              </DayNavLink>
+            ) : (
+              <span className="soon">
+                Day {next.day}: {next.title} · soon
+              </span>
+            )
+          ) : (
+            <Link to="/learn">Curriculum →</Link>
+          )}
+        </DayNav>
       </Panel>
     </LessonPage>
   );
