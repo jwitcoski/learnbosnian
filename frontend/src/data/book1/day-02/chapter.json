@@ -60,6 +60,26 @@
       "author": "Daniel Wabyick",
       "license": "CC BY 2.0",
       "credit": "Based on photo: Sebilj, Baščaršija — Daniel Wabyick / Wikimedia Commons (CC BY 2.0)"
+    },
+    {
+      "id": "sebilj-close",
+      "alt": "Polygon painting close-up of Sebilj fountain with pigeons",
+      "localPath": "/images/book1/day-02-sebilj-close.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarajevo_-_Sebilj_fountain.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_-_Sebilj_fountain.jpg",
+      "author": "JoJan",
+      "license": "CC BY 3.0",
+      "credit": "Based on photo: Sebilj fountain — JoJan / Wikimedia Commons (CC BY 3.0)"
+    },
+    {
+      "id": "bascarsija-street",
+      "alt": "Polygon painting of a Baščaršija street in Sarajevo",
+      "localPath": "/images/book1/day-02-street.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ba%C5%A1%C4%8Dar%C5%A1ija_Sarajevo.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ba%C5%A1%C4%8Dar%C5%A1ija_Sarajevo.jpg",
+      "author": "Stechshotme",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Baščaršija street — Stechshotme / Wikimedia Commons (CC BY-SA 4.0)"
     }
   ],
   "imagesNeeded": false,

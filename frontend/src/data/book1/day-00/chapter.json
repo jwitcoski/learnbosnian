@@ -505,6 +505,26 @@
       "author": "Borys Jarzcuk",
       "license": "Pexels License",
       "credit": "Based on photo: Mostar and the Neretva — Borys Jarzcuk / Pexels"
+    },
+    {
+      "id": "stari-most",
+      "alt": "Polygon painting of Stari Most, the Old Bridge in Mostar",
+      "localPath": "/images/book1/day-00-stari-most.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stari_Most_Mostar_Bosnia_and_Herzegovina.jpg/1280px-Stari_Most_Mostar_Bosnia_and_Herzegovina.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Stari_Most_Mostar_Bosnia_and_Herzegovina.jpg",
+      "author": "Djani Behram",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Stari Most, Mostar — Djani Behram / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "mostar-panorama",
+      "alt": "Polygon painting of Mostar old town panorama with Stari Most",
+      "localPath": "/images/book1/day-00-mostar-panorama.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mostar_Old_Town_Panorama_2007.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mostar_Old_Town_Panorama_2007.jpg",
+      "author": "Ramirez",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Mostar Old Town panorama — Ramirez / Wikimedia Commons (CC BY-SA 4.0)"
     }
   ],
   "imagesNeeded": false,

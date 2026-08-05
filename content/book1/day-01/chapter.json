@@ -739,6 +739,16 @@
       "author": "BloodSaric",
       "license": "CC BY-SA 2.5",
       "credit": "Based on photo: Sebilj fountain, Sarajevo — BloodSaric / Wikimedia Commons (CC BY-SA 2.5)"
+    },
+    {
+      "id": "gazi-mosque",
+      "alt": "Polygon painting of the Gazi Husrev-beg complex in Sarajevo",
+      "localPath": "/images/book1/day-01-gazi-mosque.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gazi_Husrev-begova_medresa_2015.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Gazi_Husrev-begova_medresa_2015.jpg",
+      "author": "Mattan",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Gazi Husrev-beg complex, Sarajevo — Mattan / Wikimedia Commons (CC BY-SA 4.0)"
     }
   ],
   "imagesNeeded": false,

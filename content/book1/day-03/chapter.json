@@ -60,6 +60,26 @@
       "author": "Michał Huniewicz",
       "license": "CC BY 2.0",
       "credit": "Based on photo: Bosnian coffee — Michał Huniewicz / Wikimedia Commons (CC BY 2.0)"
+    },
+    {
+      "id": "coffee-set",
+      "alt": "Polygon painting of an engraved Bosnian coffee set with džezva and cups",
+      "localPath": "/images/book1/day-03-coffee-set.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "author": "İhsan Işık",
+      "license": "CC BY 3.0",
+      "credit": "Based on photo: Bosnian coffee set, Baščaršija — İhsan Işık / Wikimedia Commons (CC BY 3.0)"
+    },
+    {
+      "id": "lokum",
+      "alt": "Polygon painting of rahat lokum Turkish delight with coffee sweets",
+      "localPath": "/images/book1/day-03-lokum.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkish_delight.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Turkish_delight.jpg",
+      "author": "Maksym Kozlenko",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Turkish delight / rahat lokum — Maksym Kozlenko / Wikimedia Commons (CC BY-SA 4.0)"
     }
   ],
   "imagesNeeded": false,

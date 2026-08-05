@@ -92,6 +92,27 @@ export const Credit = styled.p`
   }
 `;
 
+export const LessonFigure = styled.figure`
+  margin: 1.25rem 0 1.5rem;
+  padding: 0;
+
+  .frame {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    background: #efe6d8;
+    border: 1px solid rgba(93, 64, 55, 0.12);
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+`;
+
 export const Panel = styled.section`
   padding: 1.25rem 0;
 `;

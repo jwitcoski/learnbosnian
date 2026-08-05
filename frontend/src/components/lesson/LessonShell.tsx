@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import type { Chapter } from "../../types/chapter";
+import type { Chapter, ChapterImage } from "../../types/chapter";
 import { getChapter, canViewChapter } from "../../data/loadChapters";
 import PuzzleGame from "./PuzzleGame";
 import PracticeList from "./PracticeList";
@@ -10,6 +10,7 @@ import {
   Dialogue,
   GoalList,
   HeroBand,
+  LessonFigure,
   LessonPage,
   Line,
   Panel,
@@ -22,10 +23,38 @@ import {
 
 type Props = { chapter: Chapter };
 
+function attrHash(day: number, id: string) {
+  return `/attributions#book1-day-${String(day).padStart(2, "0")}-${id}`;
+}
+
+function ChapterImageFigure({
+  day,
+  image,
+}: {
+  day: number;
+  image: ChapterImage;
+}) {
+  if (!image?.localPath) return null;
+  return (
+    <LessonFigure>
+      <div className="frame">
+        <img src={image.localPath} alt={image.alt || image.id} />
+      </div>
+      <Credit as="figcaption">
+        <Link to={attrHash(day, image.id)}>{image.credit}</Link>
+      </Credit>
+    </LessonFigure>
+  );
+}
+
 export default function LessonShell({ chapter }: Props) {
+  const images = chapter.images || [];
   const hero =
-    chapter.images?.find((i) => i.id === chapter.culture?.imageId) ||
-    chapter.images?.[0];
+    images.find((i) => i.id === chapter.culture?.imageId) || images[0];
+  const rest = images.filter((i) => i.id !== hero?.id);
+  const cultureImage = rest[0];
+  const midImage = rest[1];
+  const moreImages = rest.slice(2);
 
   const prev = getChapter(chapter.day - 1);
   const next = getChapter(chapter.day + 1);
@@ -62,9 +91,7 @@ export default function LessonShell({ chapter }: Props) {
       </HeroBand>
       {hero && (
         <Credit>
-          <Link to={`/attributions#book1-day-${String(chapter.day).padStart(2, "0")}-${hero.id}`}>
-            {hero.credit}
-          </Link>
+          <Link to={attrHash(chapter.day, hero.id)}>{hero.credit}</Link>
         </Credit>
       )}
 
@@ -96,36 +123,8 @@ export default function LessonShell({ chapter }: Props) {
         <Panel id="culture">
           <h2>{chapter.culture.title}</h2>
           <p>{chapter.culture.body}</p>
-          {chapter.images?.[1] && (
-            <figure style={{ margin: "1rem 0" }}>
-              <div
-                style={{
-                  width: "100%",
-                  aspectRatio: "16 / 9",
-                  overflow: "hidden",
-                  background: "#efe6d8",
-                }}
-              >
-                <img
-                  src={chapter.images[1].localPath}
-                  alt={chapter.images[1].alt}
-                  style={{
-                    width: "100%",
-                    height: "100%",
-                    display: "block",
-                    objectFit: "cover",
-                    objectPosition: "center",
-                  }}
-                />
-              </div>
-              <Credit as="figcaption">
-                <Link
-                  to={`/attributions#book1-day-${String(chapter.day).padStart(2, "0")}-${chapter.images[1].id}`}
-                >
-                  {chapter.images[1].credit}
-                </Link>
-              </Credit>
-            </figure>
+          {cultureImage && (
+            <ChapterImageFigure day={chapter.day} image={cultureImage} />
           )}
         </Panel>
       )}
@@ -143,6 +142,7 @@ export default function LessonShell({ chapter }: Props) {
             </VocabCard>
           ))}
         </VocabGrid>
+        {midImage && <ChapterImageFigure day={chapter.day} image={midImage} />}
       </Panel>
 
       {chapter.grammar.map((g) => (
@@ -198,6 +198,16 @@ export default function LessonShell({ chapter }: Props) {
               </Line>
             ))}
           </Dialogue>
+        </Panel>
+      )}
+
+      {moreImages.length > 0 && (
+        <Panel id="more-photos">
+          <SectionDivider />
+          <h2>More scenes</h2>
+          {moreImages.map((img) => (
+            <ChapterImageFigure key={img.id} day={chapter.day} image={img} />
+          ))}
         </Panel>
       )}
 
