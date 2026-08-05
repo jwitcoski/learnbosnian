@@ -9,7 +9,7 @@ export const HomeRoot = styled.div`
   width: 100%;
 `;
 
-/** Cream panel for pencil-sketch illustrations */
+/** Cream panel for flat polygon illustrations */
 export const StyledPhoto = styled.figure`
   margin: 0;
   position: relative;
@@ -25,7 +25,6 @@ export const StyledPhoto = styled.figure`
     height: auto;
     max-height: 420px;
     object-fit: cover;
-    filter: contrast(1.06);
   }
 
   .credit {

@@ -20,21 +20,18 @@ const ScrollToTop = lazy(() => import("../../common/ScrollToTop"));
 const PHOTOS = {
   mostar: {
     src: "/images/home/mostar-bridge.jpg",
-    alt: "Pencil sketch of Stari Most, the Old Bridge in Mostar",
-    credit:
-      "Pencil sketch from photo — Stari Most, Mostar — Hatice Baran / Pexels",
+    alt: "Flat polygon painting of Stari Most, the Old Bridge in Mostar",
+    credit: "Polygon paint style from photo — Stari Most, Mostar",
   },
   coffee: {
     src: "/images/home/bosnian-coffee.jpg",
-    alt: "Pencil sketch of a traditional Bosnian coffee set",
-    credit:
-      "Pencil sketch from photo — Bosnian coffee, Baščaršija — İhsan Işık / Wikimedia Commons (CC BY 3.0)",
+    alt: "Flat polygon painting of a traditional Bosnian coffee set",
+    credit: "Polygon paint style from photo — Bosnian coffee, Baščaršija",
   },
   costume: {
     src: "/images/home/traditional-costume.jpg",
-    alt: "Pencil sketch of women in traditional Bosnian folk dress",
-    credit:
-      "Pencil sketch from photo — Traditional Bosnian costume — Historym1468 / Wikimedia Commons (CC BY 4.0)",
+    alt: "Flat polygon painting of women in traditional Bosnian folk dress",
+    credit: "Polygon paint style from photo — Traditional Bosnian costume",
   },
 };
 
