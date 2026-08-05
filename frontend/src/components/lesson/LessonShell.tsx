@@ -219,7 +219,7 @@ export default function LessonShell({ chapter }: Props) {
       </Panel>
 
       <Panel>
-        <Link to="/learn">← All 30 days</Link>
+        <Link to="/learn">← All lessons</Link>
       </Panel>
     </LessonPage>
   );

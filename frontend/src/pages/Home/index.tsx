@@ -64,7 +64,12 @@ const Home = () => {
         title={ProductContent.title}
         content={ProductContent.text}
         icon="youtube.svg"
+        iconSize="88px"
         id="product"
+        button={[{ title: "Open YouTube channel" }]}
+        onPrimaryClick={() =>
+          window.open("https://www.youtube.com/@HowtospeakBosnian", "_blank")
+        }
       />
       <div style={{ textAlign: "center", margin: "2rem 0" }}>
         <Button onClick={() => history.push("/dictionary")}>

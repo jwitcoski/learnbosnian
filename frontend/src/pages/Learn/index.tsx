@@ -14,10 +14,10 @@ const Learn = () => {
 
   return (
     <LessonPage>
-      <h1>Learn Bosnian in 30 Days</h1>
+      <h1>Book 1 curriculum</h1>
       <p>
-        Book 1 — one hour a night. New chapters publish after human review. Follow Ana,
-        Emir, Amira, and Mrvica through Bosnia and Herzegovina.
+        Follow Ana, Emir, Amira, and Mrvica through Bosnia and Herzegovina.
+        New chapters publish after human review.
       </p>
       <p>
         <Link to="/dictionary">Mini-dictionary</Link>

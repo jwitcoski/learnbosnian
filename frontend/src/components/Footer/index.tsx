@@ -43,7 +43,7 @@ const Footer = () => {
             <Col lg={10} md={10} sm={12} xs={24}>
               <Language>Learn Bosnian</Language>
               <Para>
-                Book 1 — 30 days. Nightly chapters with human review. Latin script.
+                Book 1 with human-reviewed chapters. Latin script only.
                 Culture, puzzles, and a cat named Mrvica.
               </Para>
               <a href="mailto:info@learnbosnian.com">
@@ -52,7 +52,7 @@ const Footer = () => {
             </Col>
             <Col lg={8} md={8} sm={12} xs={12}>
               <Title>Study</Title>
-              <Large to="/learn">30-day path</Large>
+              <Large to="/learn">Curriculum</Large>
               <Large to="/dictionary">Mini-dictionary</Large>
               <Large to="/books">Book series</Large>
               <Large to="/learn/day/1">Day 1 lesson</Large>
@@ -90,7 +90,7 @@ const Footer = () => {
                     fontFamily: "var(--font-display)",
                   }}
                 >
-                  Learn Bosnian in 30 Days
+                  Learn Bosnian
                 </div>
               </LogoContainer>
             </NavLink>

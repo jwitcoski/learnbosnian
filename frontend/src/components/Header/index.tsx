@@ -75,9 +75,6 @@ const Header = () => {
               }}
             >
               <div>Learn Bosnian</div>
-              <div style={{ fontSize: "12px", fontWeight: 600, color: "#C62828" }}>
-                in 30 Days
-              </div>
             </div>
           </LogoContainer>
           <NotHidden>

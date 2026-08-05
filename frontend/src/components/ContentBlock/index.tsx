@@ -27,6 +27,7 @@ const ContentBlock = ({
   direction,
   onPrimaryClick,
   onSecondaryClick,
+  iconSize,
 }: ContentBlockProps) => {
   const scrollTo = (target: string) => {
     const element = document.getElementById(target) as HTMLDivElement;
@@ -34,6 +35,9 @@ const ContentBlock = ({
       behavior: "smooth",
     });
   };
+
+  const iconWidth = iconSize || "100%";
+  const iconHeight = iconSize || "100%";
 
   return (
     <ContentSection>
@@ -44,66 +48,80 @@ const ContentBlock = ({
           id={id}
           direction={direction}
         >
-          <Col lg={11} md={11} sm={12} xs={24}>
-            <SvgIcon src={icon} width="100%" height="100%" />
-          </Col>
-          <Col lg={11} md={11} sm={11} xs={24}>
-            <ContentWrapper>
+          {icon && (
+            <Col lg={11} md={11} sm={12} xs={24}>
+              <div
+                style={
+                  iconSize
+                    ? {
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        minHeight: "160px",
+                      }
+                    : undefined
+                }
+              >
+                <SvgIcon src={icon} width={iconWidth} height={iconHeight} />
+              </div>
+            </Col>
+          )}
+          <Col lg={icon ? 11 : 24} md={icon ? 11 : 24} sm={icon ? 11 : 24} xs={24}>
+            <ContentWrapper style={icon ? undefined : { maxWidth: "720px", margin: "0 auto" }}>
               <h6>{t(title)}</h6>
               <Content>{t(content)}</Content>
-              {direction === "right" ? (
+              {button && button.length > 0 && (
                 <ButtonWrapper>
-                  {typeof button === "object" &&
-                    button.map(
+                  {button.map(
+                    (
+                      item: {
+                        color?: string;
+                        title: string;
+                      },
+                      idx: number
+                    ) => {
+                      const handler =
+                        idx === 0
+                          ? onPrimaryClick || (() => scrollTo("about"))
+                          : onSecondaryClick || (() => scrollTo("about"));
+                      return (
+                        <Button
+                          key={idx}
+                          color={item.color}
+                          onClick={handler}
+                        >
+                          {t(item.title)}
+                        </Button>
+                      );
+                    }
+                  )}
+                </ButtonWrapper>
+              )}
+              {section && section.length > 0 && (
+                <ServiceWrapper>
+                  <Row justify="space-between">
+                    {section.map(
                       (
                         item: {
-                          color?: string;
                           title: string;
+                          content: string;
+                          icon: string;
                         },
-                        idx: number
+                        sid: number
                       ) => {
-                        const handler =
-                          idx === 0
-                            ? onPrimaryClick || (() => scrollTo("about"))
-                            : onSecondaryClick || (() => scrollTo("about"));
                         return (
-                          <Button
-                            key={idx}
-                            color={item.color}
-                            onClick={handler}
-                          >
-                            {t(item.title)}
-                          </Button>
+                          <Col key={sid} span={11}>
+                            <SvgIcon
+                              src={item.icon}
+                              width="60px"
+                              height="60px"
+                            />
+                            <MinTitle>{t(item.title)}</MinTitle>
+                            <MinPara>{t(item.content)}</MinPara>
+                          </Col>
                         );
                       }
                     )}
-                </ButtonWrapper>
-              ) : (
-                <ServiceWrapper>
-                  <Row justify="space-between">
-                    {typeof section === "object" &&
-                      section.map(
-                        (
-                          item: {
-                            title: string;
-                            content: string;
-                            icon: string;
-                          },
-                          id: number
-                        ) => {
-                          return (
-                            <Col key={id} span={11}>
-                              <SvgIcon
-                                src={item.icon}
-                                width="60px"
-                                height="60px"
-                              />
-                              <MinTitle>{t(item.title)}</MinTitle>
-                              <MinPara>{t(item.content)}</MinPara>
-                            </Col>
-                          );
-                        }
-                      )}
                   </Row>
                 </ServiceWrapper>
               )}
