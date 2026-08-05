@@ -8,6 +8,21 @@
 - Latin script only; Bosnian-focused; kilim-inspired theme
 - YouTube companions for [@HowtospeakBosnian](https://www.youtube.com/@HowtospeakBosnian)
 
+## Lesson production plan
+
+**Canonical mold:** Lesson 1 (`content/book1/day-01/`).  
+**Authoring guide:** [`content/book1/LESSON_AUTHORING_GUIDE.md`](content/book1/LESSON_AUTHORING_GUIDE.md) — fixed section recipe, video beats, review exceptions, and batch order for Lessons 4–30.
+
+| Batch | Lessons | Status |
+|-------|---------|--------|
+| Exemplar | 1 | draft (mold) |
+| Aligned | 2–3 | draft (same fashion) |
+| A | 4–6 | outlined → next to write |
+| B | 7 | Week 1 review |
+| C–D | 8–14 | Week 2 + review |
+| E–F | 15–21 | Week 3 + review |
+| G–H | 22–30 | Week 4 + finale |
+
 ## Characters
 
 Ana (learner), Emir (guide), Amira (café), Mrvica (cat)
