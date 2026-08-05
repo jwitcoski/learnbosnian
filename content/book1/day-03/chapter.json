@@ -364,9 +364,9 @@
     },
     {
       "id": "pr7",
-      "prompt": "What question asks ‘how much does it cost?’",
+      "prompt": "What question asks ‘how much does it cost?’ (include ?)",
       "hint": "Koliko…?",
-      "answer": "Koliko košta"
+      "answer": "Koliko košta?"
     },
     {
       "id": "pr8",
