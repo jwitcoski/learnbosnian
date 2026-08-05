@@ -21,17 +21,20 @@ const PHOTOS = {
   mostar: {
     src: "/images/home/mostar-bridge.png",
     alt: "Flat polygon painting of Stari Most, the Old Bridge in Mostar",
-    credit: "Polygon paint style from photo — Stari Most, Mostar",
+    credit:
+      "Based on photo: Stari Most, Mostar — Hatice Baran / Pexels",
   },
   coffee: {
     src: "/images/home/bosnian-coffee.png",
     alt: "Flat polygon painting of a traditional Bosnian coffee set",
-    credit: "Polygon paint style from photo — Bosnian coffee, Baščaršija",
+    credit:
+      "Based on photo: Bosnian coffee, Baščaršija — İhsan Işık / Wikimedia Commons (CC BY 3.0)",
   },
   costume: {
     src: "/images/home/traditional-costume.png",
     alt: "Flat polygon painting of women in traditional Bosnian folk dress",
-    credit: "Polygon paint style from photo — Traditional Bosnian costume",
+    credit:
+      "Based on photo: Traditional Bosnian costume — Historym1468 / Wikimedia Commons (CC BY 4.0)",
   },
 };
 
