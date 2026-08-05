@@ -32,12 +32,24 @@ export default function PracticeList({ items }: Props) {
             )}
             <BosnianTextInput
               value={answers[item.id] || ""}
-              onChange={(next) => setAnswers({ ...answers, [item.id]: next })}
+              onChange={(next) => {
+                setAnswers({ ...answers, [item.id]: next });
+                if (revealed) setRevealed(false);
+              }}
               placeholder="Your answer"
+              style={
+                revealed
+                  ? {
+                      border: `2px solid ${
+                        ok ? "var(--color-sage)" : "var(--color-crimson)"
+                      }`,
+                    }
+                  : undefined
+              }
             />
             {revealed && (
-              <p style={{ color: ok ? "var(--color-sage)" : "var(--color-crimson)" }}>
-                {ok ? "Correct!" : `Answer: ${item.answer}`}
+              <p style={{ color: ok ? "var(--color-sage)" : "var(--color-crimson)", fontWeight: 700 }}>
+                {ok ? "Correct" : `Incorrect — answer: ${item.answer}`}
               </p>
             )}
           </div>

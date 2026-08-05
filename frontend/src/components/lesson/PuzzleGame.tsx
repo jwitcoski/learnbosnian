@@ -5,7 +5,29 @@ import BosnianTextInput from "./BosnianTextInput";
 
 type Props = { puzzle: Puzzle };
 
+function ItemFeedback({
+  ok,
+  correctLabel,
+}: {
+  ok: boolean;
+  correctLabel?: string;
+}) {
+  return (
+    <p
+      style={{
+        margin: "0.35rem 0 0",
+        fontSize: "0.95rem",
+        fontWeight: 700,
+        color: ok ? "var(--color-sage)" : "var(--color-crimson)",
+      }}
+    >
+      {ok ? "Correct" : correctLabel ? `Incorrect — ${correctLabel}` : "Incorrect"}
+    </p>
+  );
+}
+
 export default function PuzzleGame({ puzzle }: Props) {
+  const [checked, setChecked] = useState(false);
   const [score, setScore] = useState<string | null>(null);
   const [guesses, setGuesses] = useState<Record<string, string>>({});
 
@@ -19,6 +41,14 @@ export default function PuzzleGame({ puzzle }: Props) {
     return [...r].sort(() => Math.random() - 0.5);
   }, [matchItems]);
 
+  const setGuess = (key: string, value: string) => {
+    setGuesses({ ...guesses, [key]: value });
+    if (checked) {
+      setChecked(false);
+      setScore(null);
+    }
+  };
+
   if (puzzle.type === "match") {
     const check = () => {
       let correct = 0;
@@ -26,33 +56,50 @@ export default function PuzzleGame({ puzzle }: Props) {
         if (guesses[item.left] === item.right) correct += 1;
       });
       setScore(`${correct} / ${matchItems.length} correct`);
+      setChecked(true);
     };
 
     return (
       <div>
         <h3>{puzzle.title}</h3>
         <p>{puzzle.prompt}</p>
-        {matchItems.map((item) => (
-          <div key={item.left} style={{ marginBottom: "0.65rem" }}>
-            <strong>{item.left}</strong>{" "}
-            <select
-              value={guesses[item.left] || ""}
-              onChange={(e) =>
-                setGuesses({ ...guesses, [item.left]: e.target.value })
-              }
-              style={{ marginLeft: "0.5rem", padding: "0.35rem" }}
-            >
-              <option value="">— choose —</option>
-              {rights.map((r) => (
-                <option key={r} value={r}>
-                  {r}
-                </option>
-              ))}
-            </select>
-          </div>
-        ))}
+        {matchItems.map((item) => {
+          const guess = guesses[item.left] || "";
+          const ok = guess === item.right;
+          return (
+            <div key={item.left} style={{ marginBottom: "0.85rem" }}>
+              <strong>{item.left}</strong>{" "}
+              <select
+                value={guess}
+                onChange={(e) => setGuess(item.left, e.target.value)}
+                style={{
+                  marginLeft: "0.5rem",
+                  padding: "0.35rem",
+                  borderColor: checked
+                    ? ok
+                      ? "var(--color-sage)"
+                      : "var(--color-crimson)"
+                    : undefined,
+                }}
+              >
+                <option value="">— choose —</option>
+                {rights.map((r) => (
+                  <option key={r} value={r}>
+                    {r}
+                  </option>
+                ))}
+              </select>
+              {checked && (
+                <ItemFeedback
+                  ok={ok}
+                  correctLabel={`answer: ${item.right}`}
+                />
+              )}
+            </div>
+          );
+        })}
         <PrimaryButton type="button" onClick={check}>
-          Check matches
+          {checked ? "Check again" : "Check matches"}
         </PrimaryButton>
         {score && <p style={{ marginTop: "0.75rem" }}>{score}</p>}
       </div>
@@ -71,6 +118,7 @@ export default function PuzzleGame({ puzzle }: Props) {
         if (g === item.answer.toLowerCase()) correct += 1;
       });
       setScore(`${correct} / ${items.length} correct`);
+      setChecked(true);
     };
     return (
       <div>
@@ -79,27 +127,47 @@ export default function PuzzleGame({ puzzle }: Props) {
         <p style={{ fontSize: "0.95rem", color: "var(--color-muted)" }}>
           Need č ć š ž đ? Use the accent buttons under each box.
         </p>
-        {items.map((item, idx) => (
-          <div key={item.scrambled} style={{ marginBottom: "0.85rem" }}>
-            <code>{item.scrambled}</code>
-            <BosnianTextInput
-              value={guesses[String(idx)] || ""}
-              onChange={(next) =>
-                setGuesses({ ...guesses, [String(idx)]: next })
-              }
-              placeholder="unscramble"
-              style={{ maxWidth: "220px" }}
-            />
-          </div>
-        ))}
+        {items.map((item, idx) => {
+          const key = String(idx);
+          const guess = (guesses[key] || "").trim().toLowerCase();
+          const ok = guess === item.answer.toLowerCase();
+          return (
+            <div key={item.scrambled} style={{ marginBottom: "0.85rem" }}>
+              <code>{item.scrambled}</code>
+              <BosnianTextInput
+                value={guesses[key] || ""}
+                onChange={(next) => setGuess(key, next)}
+                placeholder="unscramble"
+                style={{
+                  maxWidth: "220px",
+                  borderColor: checked
+                    ? ok
+                      ? "var(--color-sage)"
+                      : "var(--color-crimson)"
+                    : undefined,
+                }}
+              />
+              {checked && (
+                <ItemFeedback
+                  ok={ok}
+                  correctLabel={`answer: ${item.answer}`}
+                />
+              )}
+            </div>
+          );
+        })}
         <PrimaryButton type="button" onClick={check}>
-          Check answers
+          {checked ? "Check again" : "Check answers"}
         </PrimaryButton>
         {score && <p style={{ marginTop: "0.75rem" }}>{score}</p>}
         <GhostButton
           type="button"
           style={{ marginLeft: "0.5rem" }}
-          onClick={() => setGuesses({})}
+          onClick={() => {
+            setGuesses({});
+            setChecked(false);
+            setScore(null);
+          }}
         >
           Reset
         </GhostButton>
@@ -119,29 +187,46 @@ export default function PuzzleGame({ puzzle }: Props) {
         if (g === String(item.answer)) correct += 1;
       });
       setScore(`${correct} / ${items.length} correct`);
+      setChecked(true);
     };
     return (
       <div>
         <h3>{puzzle.title}</h3>
         <p>{puzzle.prompt}</p>
-        {items.map((item, idx) => (
-          <div key={item.statement} style={{ marginBottom: "0.85rem" }}>
-            <p style={{ marginBottom: "0.35rem" }}>{item.statement}</p>
-            <select
-              value={guesses[String(idx)] || ""}
-              onChange={(e) =>
-                setGuesses({ ...guesses, [String(idx)]: e.target.value })
-              }
-              style={{ padding: "0.35rem" }}
-            >
-              <option value="">— choose —</option>
-              <option value="true">True</option>
-              <option value="false">False</option>
-            </select>
-          </div>
-        ))}
+        {items.map((item, idx) => {
+          const key = String(idx);
+          const guess = guesses[key] || "";
+          const ok = guess === String(item.answer);
+          return (
+            <div key={item.statement} style={{ marginBottom: "0.85rem" }}>
+              <p style={{ marginBottom: "0.35rem" }}>{item.statement}</p>
+              <select
+                value={guess}
+                onChange={(e) => setGuess(key, e.target.value)}
+                style={{
+                  padding: "0.35rem",
+                  borderColor: checked
+                    ? ok
+                      ? "var(--color-sage)"
+                      : "var(--color-crimson)"
+                    : undefined,
+                }}
+              >
+                <option value="">— choose —</option>
+                <option value="true">True</option>
+                <option value="false">False</option>
+              </select>
+              {checked && (
+                <ItemFeedback
+                  ok={ok}
+                  correctLabel={`answer: ${item.answer ? "True" : "False"}`}
+                />
+              )}
+            </div>
+          );
+        })}
         <PrimaryButton type="button" onClick={check}>
-          Check answers
+          {checked ? "Check again" : "Check answers"}
         </PrimaryButton>
         {score && <p style={{ marginTop: "0.75rem" }}>{score}</p>}
       </div>
