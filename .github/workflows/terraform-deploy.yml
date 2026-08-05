@@ -2,68 +2,76 @@ name: Deploy with Terraform
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   pull_request:
-    branches: [ main ]
+    branches: [main]
+  workflow_dispatch:
 
 jobs:
   terraform:
     runs-on: ubuntu-latest
-    
+
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v4
-    
-    - name: Setup Terraform
-      uses: hashicorp/setup-terraform@v3
-      with:
-        terraform_version: 1.6.0
-    
-    - name: Configure AWS credentials
-      uses: aws-actions/configure-aws-credentials@v4
-      with:
-        aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        aws-region: us-east-1
-    
-    - name: Terraform Init
-      run: terraform init
-    
-    - name: Import existing resources (ignore errors if already imported)
-      run: |
-        terraform import aws_s3_bucket.frontend learn-bosnian-frontend-prod || true
-        terraform import aws_dynamodb_table.main learnbosnian-table-prod || true
-      if: github.ref == 'refs/heads/main'
-    
-    - name: Terraform Plan
-      run: terraform plan -var="stage=prod"
-      if: github.event_name == 'pull_request'
-    
-    - name: Terraform Apply
-      run: terraform apply -auto-approve -var="stage=prod"
-      if: github.ref == 'refs/heads/main'
-    
-    - name: Setup Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: '18'
-      if: github.ref == 'refs/heads/main'
-    
-    - name: Install frontend dependencies and build
-      run: |
-        cd frontend
-        npm install
-        CI=false npm run build
-      if: github.ref == 'refs/heads/main'
-    
-    - name: Deploy frontend to S3
-      run: |
-        aws s3 sync frontend/build/ s3://learn-bosnian-frontend-prod --delete
-      if: github.ref == 'refs/heads/main'
-    
-    - name: Output URLs
-      run: |
-        echo "Frontend URL: $(terraform output -raw frontend_website_url)"
-        echo "S3 Bucket: $(terraform output -raw frontend_bucket_name)"
-        echo "DynamoDB Table: $(terraform output -raw dynamodb_table_name)"
-      if: github.ref == 'refs/heads/main'
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Terraform
+        uses: hashicorp/setup-terraform@v3
+        with:
+          terraform_version: 1.11.4
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: us-east-1
+
+      - name: Terraform Init
+        run: terraform init -input=false
+
+      - name: Import existing resources (ignore errors if already imported)
+        if: github.ref == 'refs/heads/main'
+        run: |
+          terraform import -var="stage=prod" aws_s3_bucket.frontend learn-bosnian-frontend-prod || true
+          terraform import -var="stage=prod" aws_dynamodb_table.main learnbosnian-table-prod || true
+
+      - name: Terraform Plan
+        if: github.event_name == 'pull_request'
+        run: terraform plan -var="stage=prod" -input=false
+
+      - name: Terraform Apply
+        if: github.ref == 'refs/heads/main'
+        run: terraform apply -auto-approve -var="stage=prod" -input=false
+
+      - name: Setup Node.js
+        if: github.ref == 'refs/heads/main'
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install frontend dependencies and build
+        if: github.ref == 'refs/heads/main'
+        run: |
+          node scripts/sync-content.cjs
+          cd frontend
+          npm install
+          CI=false npm run build
+
+      - name: Deploy frontend to S3
+        if: github.ref == 'refs/heads/main'
+        run: |
+          aws s3 sync frontend/build/ s3://learn-bosnian-frontend-prod --delete
+
+      - name: Invalidate CloudFront cache
+        if: github.ref == 'refs/heads/main'
+        run: |
+          DIST_ID=$(terraform output -raw cloudfront_distribution_id)
+          aws cloudfront create-invalidation --distribution-id "$DIST_ID" --paths "/*"
+
+      - name: Output URLs
+        if: github.ref == 'refs/heads/main'
+        run: |
+          echo "CloudFront URL: $(terraform output -raw cloudfront_url)"
+          echo "S3 Bucket: $(terraform output -raw frontend_bucket_name)"
+          echo "DynamoDB Table: $(terraform output -raw dynamodb_table_name)"
