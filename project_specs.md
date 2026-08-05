@@ -16,7 +16,7 @@ Ana (learner), Emir (guide), Amira (café), Mrvica (cat)
 
 | Day | Title | Status | Reviewer notes | YouTube |
 |-----|-------|--------|----------------|---------|
-| 0 | Zašto bosanski? | draft | Orientation — why Bosnian, etymology, vs HR/SR, speakers, audience | |
+| 0 | Zašto bosanski? | published | Orientation live — why Bosnian, etymology, vs HR/SR, speakers, audience | |
 | 1 | Zdravo, Sarajevo! | draft | Exemplar — needs human review before publish | |
 | 2 | Ja sam Ana | outlined | | |
 | 3 | Brojevi i kahva | outlined | | |
