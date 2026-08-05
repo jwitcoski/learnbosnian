@@ -7,49 +7,585 @@
   "theme": "Meeting Emir at Sebilj",
   "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "",
+  "reviewerNotes": "Full draft to Lesson 1 exemplar bar — ready for human review before publish.",
   "estimatedMinutes": 60,
-  "storyBeat": "Ana meets Emir at the Sebilj fountain",
+  "storyBeat": "Ana meets Emir at the Sebilj fountain and learns to introduce herself.",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 2: Introductions, biti (sam/si/je), personal pronouns"
+      "Personal pronouns: ja, ti, on, ona",
+      "Introductions: zovem se, ime, iz, drago mi je",
+      "Key place word: Sebilj"
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Present of biti (to be): sam / si / je",
+      "Ja sam… and Zovem se… for introductions",
+      "Simple On je… / Ona je… sentences"
     ],
     "culture": [
-      "Meeting Emir at Sebilj"
+      "Sebilj as Baščaršija’s meeting fountain",
+      "Warm first meetings in Sarajevo"
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "ja",
+      "english": "I",
+      "pronunciation": "yah",
+      "partOfSpeech": "pronoun",
+      "example": "Ja sam Ana."
+    },
+    {
+      "bosnian": "ti",
+      "english": "you (informal singular)",
+      "pronunciation": "tee",
+      "partOfSpeech": "pronoun",
+      "example": "Ti si Emir."
+    },
+    {
+      "bosnian": "on",
+      "english": "he",
+      "pronunciation": "ohn",
+      "partOfSpeech": "pronoun",
+      "example": "On je iz Sarajeva."
+    },
+    {
+      "bosnian": "ona",
+      "english": "she",
+      "pronunciation": "OH-nah",
+      "partOfSpeech": "pronoun",
+      "example": "Ona je Ana."
+    },
+    {
+      "bosnian": "sam",
+      "english": "am (I am)",
+      "pronunciation": "sahm",
+      "partOfSpeech": "verb",
+      "example": "Ja sam Ana."
+    },
+    {
+      "bosnian": "si",
+      "english": "are (you are)",
+      "pronunciation": "see",
+      "partOfSpeech": "verb",
+      "example": "Ti si Emir."
+    },
+    {
+      "bosnian": "je",
+      "english": "is (he/she/it is)",
+      "pronunciation": "yeh",
+      "partOfSpeech": "verb",
+      "example": "On je vodič."
+    },
+    {
+      "bosnian": "zovem se",
+      "english": "my name is / I am called",
+      "pronunciation": "ZOH-vem seh",
+      "partOfSpeech": "phrase",
+      "example": "Zovem se Ana."
+    },
+    {
+      "bosnian": "ime",
+      "english": "name",
+      "pronunciation": "EE-meh",
+      "partOfSpeech": "noun",
+      "example": "Kako se zoveš? — Ime mi je Ana."
+    },
+    {
+      "bosnian": "iz",
+      "english": "from",
+      "pronunciation": "eez",
+      "partOfSpeech": "preposition",
+      "example": "Ja sam iz Amerike."
+    },
+    {
+      "bosnian": "drago mi je",
+      "english": "nice to meet you",
+      "pronunciation": "DRAH-go mee yeh",
+      "partOfSpeech": "phrase",
+      "example": "Drago mi je!"
+    },
+    {
+      "bosnian": "Sebilj",
+      "english": "Sebilj (wooden fountain in Baščaršija)",
+      "pronunciation": "seh-BEEL",
+      "partOfSpeech": "proper noun",
+      "example": "Čekam kod Sebilja."
+    },
+    {
+      "bosnian": "vodič",
+      "english": "guide",
+      "pronunciation": "VOH-dich",
+      "partOfSpeech": "noun",
+      "example": "Emir je vodič."
+    },
+    {
+      "bosnian": "prijatelj",
+      "english": "friend (male)",
+      "pronunciation": "pree-YAH-telj",
+      "partOfSpeech": "noun",
+      "example": "On je prijatelj."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "biti — sam, si, je",
+      "explanation": "The verb biti means to be. Beginners live on three short forms: ja sam (I am), ti si (you are), on/ona je (he/she is). You will hear longer forms (jesam, jesi…) in careful speech, but everyday talk loves the short ones. Put the pronoun first when you want clarity: Ja sam Ana.",
+      "examples": [
+        {
+          "bosnian": "Ja sam Ana.",
+          "english": "I am Ana."
+        },
+        {
+          "bosnian": "Ti si Emir.",
+          "english": "You are Emir."
+        },
+        {
+          "bosnian": "On je vodič.",
+          "english": "He is a guide."
+        },
+        {
+          "bosnian": "Ona je iz Sarajeva.",
+          "english": "She is from Sarajevo."
+        }
+      ]
+    },
+    {
+      "title": "Two ways to introduce yourself",
+      "explanation": "Ja sam Ana states identity with biti. Zovem se Ana means “I am called Ana / my name is Ana.” Both are natural. For “nice to meet you,” say Drago mi je — literally “it is dear to me.”",
+      "examples": [
+        {
+          "bosnian": "Zovem se Ana.",
+          "english": "My name is Ana."
+        },
+        {
+          "bosnian": "Ja sam Emir.",
+          "english": "I am Emir."
+        },
+        {
+          "bosnian": "Drago mi je!",
+          "english": "Nice to meet you!"
+        }
+      ]
+    },
+    {
+      "title": "iz — saying where you are from",
+      "explanation": "Use iz + place for origin: Ja sam iz Amerike. Emir je iz Sarajeva. You do not need full case tables yet — learn a few ready-made chunks and swap the place name.",
+      "examples": [
+        {
+          "bosnian": "Ja sam iz Amerike.",
+          "english": "I am from America."
+        },
+        {
+          "bosnian": "Emir je iz Sarajeva.",
+          "english": "Emir is from Sarajevo."
+        },
+        {
+          "bosnian": "Ona je iz Mostara.",
+          "english": "She is from Mostar."
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "Meeting Emir at Sebilj",
-    "body": "Ana meets Emir at the Sebilj fountain in Baščaršija — pigeons, stone paving, and a first hello. Full lesson text is still a draft; the picture sets the scene.",
+    "title": "Sebilj — where people meet",
+    "body": "The Sebilj is a wooden fountain in the middle of Baščaršija’s main square. Locals and visitors use it as a landmark: “Kod Sebilja” means meet me at the fountain. Pigeons gather, photos happen, and first hellos often start here. Emir waits for Ana at Sebilj — a classic Sarajevo rendezvous.",
     "imageId": "sebilj-square"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A — Pronouns and biti",
+      "body": "Learn four pronouns today: ja (I), ti (you informal), on (he), ona (she). Pair them with biti: ja sam, ti si, on je, ona je. Say them aloud until they feel automatic. Then build tiny truths: Ja sam Ana. Ti si Emir. On je vodič. Ona je prijateljica — we will meet more “she” words soon; for now Ona je Ana is enough. Tip: beginners often drop the pronoun when the verb form is clear (Sam Ana), but keeping Ja sam Ana is clearer and friendlier while you learn.",
+      "tips": [
+        "Drill: ja sam · ti si · on je · ona je",
+        "Keep the pronoun when you introduce yourself: Ja sam…"
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B — Meeting Emir",
+      "body": "At Sebilj, Ana needs a meeting script. Start with a greeting from Lesson 1 (Zdravo! or Dobar dan!). Then: Zovem se Ana. Or: Ja sam Ana. Add origin if you want: Ja sam iz Amerike. When Emir answers, reply Drago mi je! Listen for On je Emir / Ja sam Emir / Zovem se Emir — all fine. End with a smile and maybe Hvala when he offers help. Tomorrow you will drink kahva with Amira; today you only need to be Ana.",
+      "tips": [
+        "Meeting kit: Zdravo → Ja sam… / Zovem se… → Drago mi je",
+        "Reuse Lesson 1 greetings; do not invent new ones yet"
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Kod Sebilja",
+    "setting": "Baščaršija square by the Sebilj fountain. Pigeons scatter. Emir holds a small sign that says ANA.",
+    "lines": [
+      {
+        "speaker": "Emir",
+        "bosnian": "Zdravo! Ti si Ana?",
+        "english": "Hello! Are you Ana?"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Da! Ja sam Ana. Zovem se Ana.",
+        "english": "Yes! I am Ana. My name is Ana."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Drago mi je! Ja sam Emir.",
+        "english": "Nice to meet you! I am Emir."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Drago mi je, Emir. Ti si iz Sarajeva?",
+        "english": "Nice to meet you, Emir. Are you from Sarajevo?"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Da. Ja sam iz Sarajeva. On — Sebilj — je tu.",
+        "english": "Yes. I am from Sarajevo. That — Sebilj — is here."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Hvala! Ti si vodič?",
+        "english": "Thank you! Are you a guide?"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Da, ja sam vodič. Idemo!",
+        "english": "Yes, I am a guide. Let’s go!"
+      },
+      {
+        "speaker": "Narrator",
+        "bosnian": "Mrvica gleda. Sutra: kahva.",
+        "english": "Mrvica watches. Tomorrow: coffee."
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match the forms",
+      "prompt": "Match each Bosnian form to English.",
+      "items": [
+        {
+          "left": "ja sam",
+          "right": "I am"
+        },
+        {
+          "left": "ti si",
+          "right": "you are"
+        },
+        {
+          "left": "on je",
+          "right": "he is"
+        },
+        {
+          "left": "zovem se",
+          "right": "my name is"
+        },
+        {
+          "left": "drago mi je",
+          "right": "nice to meet you"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "scramble",
+      "title": "Unscramble the introductions",
+      "prompt": "Unscramble to make today’s phrases (spaces ignored in checking — type the full phrase).",
+      "items": [
+        {
+          "scrambled": "sam ja Ana",
+          "answer": "ja sam ana"
+        },
+        {
+          "scrambled": "se zovem Emir",
+          "answer": "zovem se emir"
+        },
+        {
+          "scrambled": "je mi drago",
+          "answer": "drago mi je"
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Complete: Ja ___ Ana. (I am)",
+      "hint": "Short form of biti for ‘I’",
+      "answer": "sam"
+    },
+    {
+      "id": "pr2",
+      "prompt": "Complete: Ti ___ Emir. (you are)",
+      "hint": "Short form for ‘you’",
+      "answer": "si"
+    },
+    {
+      "id": "pr3",
+      "prompt": "Complete: On ___ vodič. (he is)",
+      "hint": "One short word",
+      "answer": "je"
+    },
+    {
+      "id": "pr4",
+      "prompt": "How do you say ‘My name is Ana’?",
+      "hint": "Two words + Ana",
+      "answer": "Zovem se Ana"
+    },
+    {
+      "id": "pr5",
+      "prompt": "Translate: Nice to meet you!",
+      "hint": "Three words",
+      "answer": "Drago mi je"
+    },
+    {
+      "id": "pr6",
+      "prompt": "Say: I am from Sarajevo. (use Ja sam iz…)",
+      "hint": "Ja sam iz Sarajeva",
+      "answer": "Ja sam iz Sarajeva"
+    },
+    {
+      "id": "pr7",
+      "prompt": "What is the wooden fountain landmark called?",
+      "hint": "Starts with Se-",
+      "answer": "Sebilj"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "Sebilj means a public fountain",
+      "body": "The word comes from Ottoman Turkish roots for a kiosk fountain that offered water to the public. Sarajevo’s Sebilj is a city icon and a favorite photo spot."
+    },
+    {
+      "title": "sam / si / je are clitics",
+      "body": "These short biti forms like to sit in second position in longer sentences. For now, stick to clear Ja sam… patterns — fluency can wait."
+    },
+    {
+      "title": "Drago mi je is warm, not stiff",
+      "body": "It is the standard “nice to meet you.” You will hear it in cafés, offices, and first meetings with Emir-types everywhere."
+    },
+    {
+      "title": "Pigeons optional, rendezvous required",
+      "body": "Meeting ‘kod Sebilja’ is local shorthand. Landmarks beat street numbers when your phone battery dies."
+    }
+  ],
   "resources": [
     {
       "label": "How to speak Bosnian — YouTube",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "note": "Companion video for Lesson 2"
+    },
+    {
+      "label": "Map: Sebilj, Baščaršija",
+      "url": "https://www.openstreetmap.org/#map=18/43.8596/18.4312",
+      "note": "Find the fountain before Lesson 3"
+    },
+    {
+      "label": "Next: Lesson 3 — Brojevi i kahva",
+      "url": "/learn/lesson/3",
+      "note": "Numbers and coffee at Amira’s"
     }
   ],
   "sectionQuiz": {
     "title": "Lesson 2 section quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does ‘Ja sam Ana’ mean?",
+        "options": [
+          "My name is written Ana",
+          "I am Ana",
+          "She is Ana",
+          "You are Ana"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ja sam = I am."
+      },
+      {
+        "id": "q2",
+        "question": "Which form means ‘you are’ (informal)?",
+        "options": [
+          "ja sam",
+          "ti si",
+          "on je",
+          "ona je"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ti si = you are."
+      },
+      {
+        "id": "q3",
+        "question": "‘Zovem se Emir’ means…",
+        "options": [
+          "I call Emir on the phone",
+          "My name is Emir",
+          "Emir is a guide",
+          "Nice to meet Emir"
+        ],
+        "correctIndex": 1,
+        "explanation": "Zovem se = I am called / my name is."
+      },
+      {
+        "id": "q4",
+        "question": "How do you say ‘nice to meet you’?",
+        "options": [
+          "Dobar dan",
+          "Drago mi je",
+          "Doviđenja",
+          "Molim"
+        ],
+        "correctIndex": 1,
+        "explanation": "Drago mi je is the standard meeting phrase."
+      },
+      {
+        "id": "q5",
+        "question": "‘On je vodič’ means…",
+        "options": [
+          "She is a guide",
+          "He is a guide",
+          "I am a guide",
+          "You are a fountain"
+        ],
+        "correctIndex": 1,
+        "explanation": "On je = he is; vodič = guide."
+      },
+      {
+        "id": "q6",
+        "question": "Sebilj is…",
+        "options": [
+          "A mountain near Travnik",
+          "A wooden fountain landmark in Baščaršija",
+          "Amira’s cat",
+          "A type of bread"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sebilj is the famous fountain in the old bazaar square."
+      },
+      {
+        "id": "q7",
+        "question": "Which sentence means ‘I am from Sarajevo’?",
+        "options": [
+          "Ja sam iz Sarajeva.",
+          "Ti si iz Mostara.",
+          "On je Sebilj.",
+          "Zovem se Sarajevo."
+        ],
+        "correctIndex": 0,
+        "explanation": "Ja sam iz + place expresses origin."
+      },
+      {
+        "id": "q8",
+        "question": "‘Ona’ means…",
+        "options": [
+          "he",
+          "she",
+          "you",
+          "we"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ona = she; on = he."
+      },
+      {
+        "id": "q9",
+        "question": "Which pair is correct?",
+        "options": [
+          "ja si / ti sam",
+          "ja sam / ti si / on je",
+          "ja je / ti sam",
+          "ona si / on sam"
+        ],
+        "correctIndex": 1,
+        "explanation": "Remember: ja sam, ti si, on/ona je."
+      }
+    ]
   },
-  "dictionaryEntries": [],
+  "dictionaryEntries": [
+    {
+      "bosnian": "ja",
+      "english": "I",
+      "partOfSpeech": "pronoun",
+      "day": 2
+    },
+    {
+      "bosnian": "ti",
+      "english": "you (informal)",
+      "partOfSpeech": "pronoun",
+      "day": 2
+    },
+    {
+      "bosnian": "on",
+      "english": "he",
+      "partOfSpeech": "pronoun",
+      "day": 2
+    },
+    {
+      "bosnian": "ona",
+      "english": "she",
+      "partOfSpeech": "pronoun",
+      "day": 2
+    },
+    {
+      "bosnian": "sam",
+      "english": "am",
+      "partOfSpeech": "verb",
+      "day": 2
+    },
+    {
+      "bosnian": "si",
+      "english": "are (you)",
+      "partOfSpeech": "verb",
+      "day": 2
+    },
+    {
+      "bosnian": "je",
+      "english": "is",
+      "partOfSpeech": "verb",
+      "day": 2
+    },
+    {
+      "bosnian": "zovem se",
+      "english": "my name is",
+      "partOfSpeech": "phrase",
+      "day": 2
+    },
+    {
+      "bosnian": "ime",
+      "english": "name",
+      "partOfSpeech": "noun",
+      "day": 2
+    },
+    {
+      "bosnian": "iz",
+      "english": "from",
+      "partOfSpeech": "preposition",
+      "day": 2
+    },
+    {
+      "bosnian": "drago mi je",
+      "english": "nice to meet you",
+      "partOfSpeech": "phrase",
+      "day": 2
+    },
+    {
+      "bosnian": "Sebilj",
+      "english": "Sebilj fountain",
+      "partOfSpeech": "proper noun",
+      "day": 2
+    },
+    {
+      "bosnian": "vodič",
+      "english": "guide",
+      "partOfSpeech": "noun",
+      "day": 2
+    },
+    {
+      "bosnian": "prijatelj",
+      "english": "friend (male)",
+      "partOfSpeech": "noun",
+      "day": 2
+    }
+  ],
   "images": [
     {
       "id": "sebilj-square",

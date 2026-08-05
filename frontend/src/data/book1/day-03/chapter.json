@@ -7,49 +7,669 @@
   "theme": "Coffee at Amira’s",
   "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "",
+  "reviewerNotes": "Full draft to Lesson 1 exemplar bar — ready for human review before publish.",
   "estimatedMinutes": 60,
-  "storyBeat": "Amira’s café becomes HQ; Mrvica appears",
+  "storyBeat": "Amira’s café becomes HQ; Ana learns numbers 1–20 and orders kahva while Mrvica steals the scene.",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 3: Numbers 1–20, koliko?, café order"
+      "Numbers 1–20",
+      "Café words: kahva, fildžan, lokum, molim",
+      "Question word: koliko?"
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Counting 1–20 as ready-made words",
+      "Koliko? for how many / how much",
+      "Café order chunks: Kahvu, molim"
     ],
     "culture": [
-      "Coffee at Amira’s"
+      "Bosnian coffee ritual at Amira’s",
+      "Time, copper tray, and not rushing the cup"
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "jedan",
+      "english": "one",
+      "pronunciation": "YEH-dan",
+      "partOfSpeech": "numeral",
+      "example": "Jedan fildžan."
+    },
+    {
+      "bosnian": "dva",
+      "english": "two",
+      "pronunciation": "dvah",
+      "partOfSpeech": "numeral",
+      "example": "Dva fildžana."
+    },
+    {
+      "bosnian": "tri",
+      "english": "three",
+      "pronunciation": "tree",
+      "partOfSpeech": "numeral",
+      "example": "Tri kahve."
+    },
+    {
+      "bosnian": "četiri",
+      "english": "four",
+      "pronunciation": "CHE-tee-ree",
+      "partOfSpeech": "numeral",
+      "example": "Četiri stolice."
+    },
+    {
+      "bosnian": "pet",
+      "english": "five",
+      "pronunciation": "pet",
+      "partOfSpeech": "numeral",
+      "example": "Pet minuta."
+    },
+    {
+      "bosnian": "šest",
+      "english": "six",
+      "pronunciation": "shest",
+      "partOfSpeech": "numeral",
+      "example": "Šest lokuma."
+    },
+    {
+      "bosnian": "sedam",
+      "english": "seven",
+      "pronunciation": "SEH-dam",
+      "partOfSpeech": "numeral",
+      "example": "Sedam dana."
+    },
+    {
+      "bosnian": "osam",
+      "english": "eight",
+      "pronunciation": "OH-sam",
+      "partOfSpeech": "numeral",
+      "example": "Osam sati."
+    },
+    {
+      "bosnian": "devet",
+      "english": "nine",
+      "pronunciation": "DEH-vet",
+      "partOfSpeech": "numeral",
+      "example": "Devet golubova."
+    },
+    {
+      "bosnian": "deset",
+      "english": "ten",
+      "pronunciation": "DEH-set",
+      "partOfSpeech": "numeral",
+      "example": "Deset KM."
+    },
+    {
+      "bosnian": "petnaest",
+      "english": "fifteen",
+      "pronunciation": "pet-NAH-est",
+      "partOfSpeech": "numeral",
+      "example": "Petnaest minuta."
+    },
+    {
+      "bosnian": "dvadeset",
+      "english": "twenty",
+      "pronunciation": "DVAH-deh-set",
+      "partOfSpeech": "numeral",
+      "example": "Dvadeset fildžana — šala!"
+    },
+    {
+      "bosnian": "koliko",
+      "english": "how many / how much",
+      "pronunciation": "KOH-lee-koh",
+      "partOfSpeech": "adverb",
+      "example": "Koliko košta?"
+    },
+    {
+      "bosnian": "kahva",
+      "english": "coffee (BiH form)",
+      "pronunciation": "KAH-vah",
+      "partOfSpeech": "noun",
+      "example": "Kahva je dobra."
+    },
+    {
+      "bosnian": "fildžan",
+      "english": "small coffee cup",
+      "pronunciation": "FIL-jan",
+      "partOfSpeech": "noun",
+      "example": "Jedan fildžan, molim."
+    },
+    {
+      "bosnian": "lokum",
+      "english": "Turkish delight / rahat lokum",
+      "pronunciation": "LOH-koom",
+      "partOfSpeech": "noun",
+      "example": "Lokum uz kahvu."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Numbers 1–20",
+      "explanation": "Learn 1–10 cold, then 11–20 as a chant. 1 jedan, 2 dva, 3 tri, 4 četiri, 5 pet, 6 šest, 7 sedam, 8 osam, 9 devet, 10 deset. Then: 11 jedanaest, 12 dvanaest, 13 trinaest, 14 četrnaest, 15 petnaest, 16 šesnaest, 17 sedamnaest, 18 osamnaest, 19 devetnaest, 20 dvadeset. Notice četiri and šest need accents when you type.",
+      "examples": [
+        {
+          "bosnian": "jedan, dva, tri, četiri, pet",
+          "english": "1–5"
+        },
+        {
+          "bosnian": "šest, sedam, osam, devet, deset",
+          "english": "6–10"
+        },
+        {
+          "bosnian": "petnaest, dvadeset",
+          "english": "15, 20"
+        }
+      ]
+    },
+    {
+      "title": "Koliko?",
+      "explanation": "Koliko? asks how many or how much. At a café you will hear Koliko košta? (How much does it cost?) and Koliko fildžana? (How many cups?). Answer with a number: Dva. / Deset KM. Keep it short.",
+      "examples": [
+        {
+          "bosnian": "Koliko?",
+          "english": "How many / how much?"
+        },
+        {
+          "bosnian": "Koliko košta?",
+          "english": "How much does it cost?"
+        },
+        {
+          "bosnian": "Koliko fildžana? — Dva.",
+          "english": "How many cups? — Two."
+        }
+      ]
+    },
+    {
+      "title": "Ordering coffee — say it as a chunk",
+      "explanation": "For now, order with ready-made lines. Kahvu, molim means “Coffee, please” (kahvu is the form you hear when ordering). Jednu kahvu, molim = one coffee please. Dva fildžana, molim = two cups please. Do not worry about full case charts yet — memorize the café lines.",
+      "examples": [
+        {
+          "bosnian": "Kahvu, molim.",
+          "english": "Coffee, please."
+        },
+        {
+          "bosnian": "Jednu kahvu, molim.",
+          "english": "One coffee, please."
+        },
+        {
+          "bosnian": "Dva fildžana, molim.",
+          "english": "Two cups, please."
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "Coffee at Amira’s",
-    "body": "At Amira’s café, kahva arrives on a copper tray — džezva, fildžan, and time to talk. Full lesson text is still a draft; the picture sets the scene.",
+    "title": "Kahva at Amira’s — slow on purpose",
+    "body": "Bosnian coffee arrives in a džezva on a copper tray, with a small fildžan and often lokum. You pour, wait a moment for the grounds to settle, and talk. Rushing the cup is missing the point. Amira’s café becomes Ana and Emir’s HQ — Mrvica patrols the chairs and occasionally steals the scene.",
     "imageId": "kahva-amira"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A — Count to twenty",
+      "body": "Say 1–10 slowly, then faster: jedan dva tri četiri pet šest sedam osam devet deset. Use the accent buttons for četiri and šest. Next chant 11–20: jedanaest, dvanaest, trinaest, četrnaest, petnaest, šesnaest, sedamnaest, osamnaest, devetnaest, dvadeset. Point at fingers, pigeons, or lokum pieces and count aloud. Ana drills numbers while Emir checks the time — petnaest minuta to Amira’s.",
+      "tips": [
+        "Master 1–10 before 11–20",
+        "četiri and šest need accents when typing"
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B — Order at Amira’s",
+      "body": "Walk in with Zdravo! or Dobar dan! Order: Kahvu, molim. or Jednu kahvu, molim. If Emir joins: Dva fildžana, molim. Ask Koliko košta? if you want the price. Add Hvala when the tray arrives. If Amira offers lokum, smile and say Hvala. Mrvica may appear — Ana can say Zdravo, Mrvica! without new grammar. Numbers + molim + kahva are enough for your first café win.",
+      "tips": [
+        "Order kit: Kahvu, molim · Dva fildžana, molim · Koliko košta?",
+        "Reuse hvala / molim from Lesson 1"
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Kod Amire",
+    "setting": "Amira’s small café near Baščaršija. Copper tray, soft talk, one bold cat.",
+    "lines": [
+      {
+        "speaker": "Amira",
+        "bosnian": "Dobar dan! Molim?",
+        "english": "Good day! Yes? / What can I get you?"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Dobar dan! Jednu kahvu, molim.",
+        "english": "Good day! One coffee, please."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "I ja — jednu kahvu. Dva fildžana.",
+        "english": "And me — one coffee. Two cups."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Dobro. Koliko lokuma? Jedan? Dva?",
+        "english": "Good. How many lokum? One? Two?"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Dva, molim. Hvala!",
+        "english": "Two, please. Thank you!"
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Molim! Kahva je tu.",
+        "english": "You’re welcome! The coffee is here."
+      },
+      {
+        "speaker": "Narrator",
+        "bosnian": "Mrvica skače. Ana: Zdravo, Mrvica!",
+        "english": "Mrvica jumps up. Ana: Hello, Mrvica!"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Ona je Mrvica. Mačka!",
+        "english": "She is Mrvica. A cat!"
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match the numbers",
+      "prompt": "Match each Bosnian number to the digit meaning.",
+      "items": [
+        {
+          "left": "jedan",
+          "right": "1"
+        },
+        {
+          "left": "pet",
+          "right": "5"
+        },
+        {
+          "left": "deset",
+          "right": "10"
+        },
+        {
+          "left": "petnaest",
+          "right": "15"
+        },
+        {
+          "left": "dvadeset",
+          "right": "20"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "match",
+      "title": "Match the café words",
+      "prompt": "Match Bosnian to English.",
+      "items": [
+        {
+          "left": "kahva",
+          "right": "coffee"
+        },
+        {
+          "left": "fildžan",
+          "right": "small coffee cup"
+        },
+        {
+          "left": "lokum",
+          "right": "Turkish delight"
+        },
+        {
+          "left": "koliko",
+          "right": "how many / how much"
+        },
+        {
+          "left": "molim",
+          "right": "please / you’re welcome"
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Write the Bosnian word for 1.",
+      "hint": "Starts with je-",
+      "answer": "jedan"
+    },
+    {
+      "id": "pr2",
+      "prompt": "Write the Bosnian word for 4 (needs č).",
+      "hint": "Use the accent button for č",
+      "answer": "četiri"
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write the Bosnian word for 6 (needs š).",
+      "hint": "Use the accent button for š",
+      "answer": "šest"
+    },
+    {
+      "id": "pr4",
+      "prompt": "Write the Bosnian word for 15.",
+      "hint": "pet + -naest",
+      "answer": "petnaest"
+    },
+    {
+      "id": "pr5",
+      "prompt": "How do you say ‘coffee’ in this course’s BiH form?",
+      "hint": "Not kafa — the form with h",
+      "answer": "kahva"
+    },
+    {
+      "id": "pr6",
+      "prompt": "Type the order: Coffee, please. (use Kahvu, molim)",
+      "hint": "Kahvu, molim",
+      "answer": "Kahvu, molim"
+    },
+    {
+      "id": "pr7",
+      "prompt": "What question asks ‘how much does it cost?’",
+      "hint": "Koliko…?",
+      "answer": "Koliko košta"
+    },
+    {
+      "id": "pr8",
+      "prompt": "Write the small coffee cup word (needs dž).",
+      "hint": "fildžan — use dž if your keyboard needs help, or type fildzan carefully; preferred: fildžan",
+      "answer": "fildžan"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "kahva with an h",
+      "body": "In much of BiH you will hear and see kahva. Related standards may prefer kava or kafa. This course stays with the Bosnian café form you meet at Amira’s."
+    },
+    {
+      "title": "Fildžan is tiny on purpose",
+      "body": "The cup is small; the ritual is long. Sip, talk, pour again from the džezva. Quantity is not the point — company is."
+    },
+    {
+      "title": "Lokum on the tray",
+      "body": "Sweet lokum often arrives with coffee. Saying yes to one piece is friendly; eating the whole plate without asking is bold."
+    },
+    {
+      "title": "Mrvica means little crumb",
+      "body": "A fitting name for a café cat who believes every table is hers."
+    }
+  ],
   "resources": [
     {
       "label": "How to speak Bosnian — YouTube",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "note": "Companion video for Lesson 3"
+    },
+    {
+      "label": "Next: Lesson 4 — Porodica Mrvice",
+      "url": "/learn/lesson/4",
+      "note": "Family words and the café “family”"
+    },
+    {
+      "label": "Book 1 curriculum",
+      "url": "/learn",
+      "note": "See all lessons"
     }
   ],
   "sectionQuiz": {
     "title": "Lesson 3 section quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does ‘pet’ mean?",
+        "options": [
+          "3",
+          "5",
+          "10",
+          "15"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pet = five."
+      },
+      {
+        "id": "q2",
+        "question": "Which word means 10?",
+        "options": [
+          "devet",
+          "deset",
+          "dvadeset",
+          "jedan"
+        ],
+        "correctIndex": 1,
+        "explanation": "Deset = ten; dvadeset = twenty."
+      },
+      {
+        "id": "q3",
+        "question": "‘Kahva’ in this course means…",
+        "options": [
+          "tea",
+          "coffee",
+          "sugar",
+          "the cat"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kahva is the BiH café word for coffee."
+      },
+      {
+        "id": "q4",
+        "question": "A fildžan is…",
+        "options": [
+          "A large water glass",
+          "A small coffee cup",
+          "The copper tray only",
+          "A greeting"
+        ],
+        "correctIndex": 1,
+        "explanation": "Fildžan is the little cup for Bosnian coffee."
+      },
+      {
+        "id": "q5",
+        "question": "How do you politely order coffee?",
+        "options": [
+          "Kahva sad!",
+          "Kahvu, molim.",
+          "Doviđenja, kahva.",
+          "Ja sam kahva."
+        ],
+        "correctIndex": 1,
+        "explanation": "Kahvu, molim is the ready-made order line."
+      },
+      {
+        "id": "q6",
+        "question": "‘Koliko košta?’ asks…",
+        "options": [
+          "What time is it?",
+          "How much does it cost?",
+          "Where is Mostar?",
+          "Who is Mrvica?"
+        ],
+        "correctIndex": 1,
+        "explanation": "Koliko košta? = How much does it cost?"
+      },
+      {
+        "id": "q7",
+        "question": "Which number is ‘dvadeset’?",
+        "options": [
+          "12",
+          "15",
+          "20",
+          "2"
+        ],
+        "correctIndex": 2,
+        "explanation": "Dvadeset = twenty."
+      },
+      {
+        "id": "q8",
+        "question": "Lokum is…",
+        "options": [
+          "A type of bread",
+          "Turkish delight often served with coffee",
+          "Emir’s last name",
+          "The fountain at Sebilj"
+        ],
+        "correctIndex": 1,
+        "explanation": "Lokum (rahat lokum) often accompanies kahva."
+      },
+      {
+        "id": "q9",
+        "question": "‘Dva fildžana, molim’ means…",
+        "options": [
+          "Two cups, please",
+          "Two coffees tomorrow",
+          "Twenty cups now",
+          "No sugar, please"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dva = two; fildžana = cups; molim = please."
+      }
+    ]
   },
-  "dictionaryEntries": [],
+  "dictionaryEntries": [
+    {
+      "bosnian": "jedan",
+      "english": "one",
+      "partOfSpeech": "numeral",
+      "day": 3
+    },
+    {
+      "bosnian": "dva",
+      "english": "two",
+      "partOfSpeech": "numeral",
+      "day": 3
+    },
+    {
+      "bosnian": "tri",
+      "english": "three",
+      "partOfSpeech": "numeral",
+      "day": 3
+    },
+    {
+      "bosnian": "četiri",
+      "english": "four",
+      "partOfSpeech": "numeral",
+      "day": 3
+    },
+    {
+      "bosnian": "pet",
+      "english": "five",
+      "partOfSpeech": "numeral",
+      "day": 3
+    },
+    {
+      "bosnian": "šest",
+      "english": "six",
+      "partOfSpeech": "numeral",
+      "day": 3
+    },
+    {
+      "bosnian": "sedam",
+      "english": "seven",
+      "partOfSpeech": "numeral",
+      "day": 3
+    },
+    {
+      "bosnian": "osam",
+      "english": "eight",
+      "partOfSpeech": "numeral",
+      "day": 3
+    },
+    {
+      "bosnian": "devet",
+      "english": "nine",
+      "partOfSpeech": "numeral",
+      "day": 3
+    },
+    {
+      "bosnian": "deset",
+      "english": "ten",
+      "partOfSpeech": "numeral",
+      "day": 3
+    },
+    {
+      "bosnian": "jedanaest",
+      "english": "eleven",
+      "partOfSpeech": "numeral",
+      "day": 3
+    },
+    {
+      "bosnian": "dvanaest",
+      "english": "twelve",
+      "partOfSpeech": "numeral",
+      "day": 3
+    },
+    {
+      "bosnian": "trinaest",
+      "english": "thirteen",
+      "partOfSpeech": "numeral",
+      "day": 3
+    },
+    {
+      "bosnian": "četrnaest",
+      "english": "fourteen",
+      "partOfSpeech": "numeral",
+      "day": 3
+    },
+    {
+      "bosnian": "petnaest",
+      "english": "fifteen",
+      "partOfSpeech": "numeral",
+      "day": 3
+    },
+    {
+      "bosnian": "šesnaest",
+      "english": "sixteen",
+      "partOfSpeech": "numeral",
+      "day": 3
+    },
+    {
+      "bosnian": "sedamnaest",
+      "english": "seventeen",
+      "partOfSpeech": "numeral",
+      "day": 3
+    },
+    {
+      "bosnian": "osamnaest",
+      "english": "eighteen",
+      "partOfSpeech": "numeral",
+      "day": 3
+    },
+    {
+      "bosnian": "devetnaest",
+      "english": "nineteen",
+      "partOfSpeech": "numeral",
+      "day": 3
+    },
+    {
+      "bosnian": "dvadeset",
+      "english": "twenty",
+      "partOfSpeech": "numeral",
+      "day": 3
+    },
+    {
+      "bosnian": "koliko",
+      "english": "how many / how much",
+      "partOfSpeech": "adverb",
+      "day": 3
+    },
+    {
+      "bosnian": "kahva",
+      "english": "coffee",
+      "partOfSpeech": "noun",
+      "day": 3
+    },
+    {
+      "bosnian": "fildžan",
+      "english": "small coffee cup",
+      "partOfSpeech": "noun",
+      "day": 3
+    },
+    {
+      "bosnian": "lokum",
+      "english": "Turkish delight",
+      "partOfSpeech": "noun",
+      "day": 3
+    }
+  ],
   "images": [
     {
       "id": "kahva-amira",

@@ -18,8 +18,8 @@ Ana (learner), Emir (guide), Amira (café), Mrvica (cat)
 |-----|-------|--------|----------------|---------|
 | 0 | Zašto bosanski? | published | Orientation live — why Bosnian, etymology, vs HR/SR, speakers, audience | |
 | 1 | Zdravo, Sarajevo! | draft | Exemplar — needs human review before publish | |
-| 2 | Ja sam Ana | outlined | | |
-| 3 | Brojevi i kahva | outlined | | |
+| 2 | Ja sam Ana | draft | Full draft (biti, introductions, Sebilj) — needs human review | script ready |
+| 3 | Brojevi i kahva | draft | Full draft (1–20, kahva order, Amira’s) — needs human review | script ready |
 | 4 | Porodica Mrvice | outlined | | |
 | 5 | Gdje je Mostar? | outlined | | |
 | 6 | Koliko je sati? | outlined | | |
