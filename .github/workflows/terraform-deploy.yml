@@ -7,10 +7,56 @@ on:
     branches: [main]
   workflow_dispatch:
 
-jobs:
-  terraform:
-    runs-on: ubuntu-latest
+env:
+  AWS_REGION: us-east-1
+  STAGE: prod
+  # Stable IDs from the first successful CloudFront deploy
+  CLOUDFRONT_DISTRIBUTION_ID: E22QTEONDMDA3Z
+  S3_BUCKET: learn-bosnian-frontend-prod
 
+jobs:
+  deploy-site:
+    name: Build and deploy site
+    if: github.ref == 'refs/heads/main' && (github.event_name == 'push' || github.event_name == 'workflow_dispatch')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install, sync content, and build
+        run: |
+          node scripts/sync-content.cjs
+          cd frontend
+          npm install
+          CI=false npm run build
+
+      - name: Deploy frontend to S3
+        run: aws s3 sync frontend/build/ "s3://${S3_BUCKET}" --delete
+
+      - name: Invalidate CloudFront cache
+        run: |
+          aws cloudfront create-invalidation \
+            --distribution-id "${CLOUDFRONT_DISTRIBUTION_ID}" \
+            --paths "/*"
+
+      - name: Site URL
+        run: echo "https://dz4szsos3tpia.cloudfront.net"
+
+  terraform:
+    name: Terraform infra
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -25,53 +71,31 @@ jobs:
         with:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws-region: us-east-1
+          aws-region: ${{ env.AWS_REGION }}
 
       - name: Terraform Init
         run: terraform init -input=false
 
-      - name: Import existing resources (ignore errors if already imported)
+      - name: Import existing resources
         if: github.ref == 'refs/heads/main'
         run: |
-          terraform import -var="stage=prod" aws_s3_bucket.frontend learn-bosnian-frontend-prod || true
-          terraform import -var="stage=prod" aws_dynamodb_table.main learnbosnian-table-prod || true
+          set +e
+          terraform import -var="stage=${STAGE}" aws_s3_bucket.frontend "${S3_BUCKET}"
+          terraform import -var="stage=${STAGE}" aws_dynamodb_table.main "learnbosnian-table-${STAGE}"
+          terraform import -var="stage=${STAGE}" aws_cloudfront_distribution.frontend "${CLOUDFRONT_DISTRIBUTION_ID}"
+          OAC_ID=$(aws cloudfront list-origin-access-controls \
+            --query "OriginAccessControlList.Items[?Name=='learnbosnian-frontend-oac-${STAGE}'].Id | [0]" \
+            --output text)
+          if [ -n "$OAC_ID" ] && [ "$OAC_ID" != "None" ]; then
+            terraform import -var="stage=${STAGE}" aws_cloudfront_origin_access_control.frontend "$OAC_ID"
+          fi
+          exit 0
 
       - name: Terraform Plan
         if: github.event_name == 'pull_request'
-        run: terraform plan -var="stage=prod" -input=false
+        run: terraform plan -var="stage=${STAGE}" -input=false
 
       - name: Terraform Apply
         if: github.ref == 'refs/heads/main'
-        run: terraform apply -auto-approve -var="stage=prod" -input=false
-
-      - name: Setup Node.js
-        if: github.ref == 'refs/heads/main'
-        uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-
-      - name: Install frontend dependencies and build
-        if: github.ref == 'refs/heads/main'
-        run: |
-          node scripts/sync-content.cjs
-          cd frontend
-          npm install
-          CI=false npm run build
-
-      - name: Deploy frontend to S3
-        if: github.ref == 'refs/heads/main'
-        run: |
-          aws s3 sync frontend/build/ s3://learn-bosnian-frontend-prod --delete
-
-      - name: Invalidate CloudFront cache
-        if: github.ref == 'refs/heads/main'
-        run: |
-          DIST_ID=$(terraform output -raw cloudfront_distribution_id)
-          aws cloudfront create-invalidation --distribution-id "$DIST_ID" --paths "/*"
-
-      - name: Output URLs
-        if: github.ref == 'refs/heads/main'
-        run: |
-          echo "CloudFront URL: $(terraform output -raw cloudfront_url)"
-          echo "S3 Bucket: $(terraform output -raw frontend_bucket_name)"
-          echo "DynamoDB Table: $(terraform output -raw dynamodb_table_name)"
+        run: terraform apply -auto-approve -var="stage=${STAGE}" -input=false
+        continue-on-error: true
