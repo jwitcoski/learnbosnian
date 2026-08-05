@@ -123,14 +123,35 @@ export const VocabGrid = styled.div`
   gap: 0.75rem;
 `;
 
-export const VocabCard = styled.div`
+export const VocabCard = styled.button`
+  display: block;
+  width: 100%;
+  text-align: left;
   padding: 0.85rem 1rem;
   background: rgba(255, 255, 255, 0.55);
+  border: none;
   border-left: 4px solid var(--color-crimson);
-  transition: transform 0.2s ease;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  cursor: pointer;
+  font: inherit;
+  color: inherit;
 
   &:hover {
     transform: translateY(-2px);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--color-crimson);
+    outline-offset: 2px;
+  }
+
+  &[data-playing="true"] {
+    box-shadow: inset 0 0 0 1px var(--color-crimson);
+  }
+
+  &[data-missing="true"] {
+    cursor: default;
+    opacity: 0.85;
   }
 
   .bs {
@@ -145,6 +166,14 @@ export const VocabCard = styled.div`
     font-size: 0.85rem;
     color: var(--color-sage);
   }
+  .listen {
+    margin-top: 0.35rem;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--color-crimson);
+  }
 `;
 
 export const Dialogue = styled.div`
@@ -153,7 +182,10 @@ export const Dialogue = styled.div`
   gap: 0.75rem;
 `;
 
-export const Line = styled.div<{ $speaker: string }>`
+export const Line = styled.button<{ $speaker: string }>`
+  display: block;
+  width: 100%;
+  text-align: left;
   padding: 0.75rem 1rem;
   background: ${(p) =>
     p.$speaker === "Ana"
@@ -163,7 +195,21 @@ export const Line = styled.div<{ $speaker: string }>`
       : p.$speaker === "Amira"
       ? "rgba(132, 146, 116, 0.18)"
       : "rgba(93, 64, 55, 0.08)"};
+  border: none;
   border-left: 3px solid var(--color-brown);
+  cursor: pointer;
+  font: inherit;
+  color: inherit;
+  transition: box-shadow 0.2s ease;
+
+  &:focus-visible {
+    outline: 2px solid var(--color-crimson);
+    outline-offset: 2px;
+  }
+
+  &[data-playing="true"] {
+    box-shadow: inset 0 0 0 1px var(--color-crimson);
+  }
 
   .speaker {
     font-weight: 700;
@@ -179,6 +225,14 @@ export const Line = styled.div<{ $speaker: string }>`
   .en {
     color: var(--color-muted);
     font-size: 0.95rem;
+  }
+  .listen {
+    margin-top: 0.3rem;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--color-crimson);
   }
 `;
 

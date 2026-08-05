@@ -1,6 +1,11 @@
 import { Link } from "react-router-dom";
 import type { Chapter, ChapterImage } from "../../types/chapter";
 import { getChapter, canViewChapter } from "../../data/loadChapters";
+import { useClipAudio } from "../../hooks/useClipAudio";
+import {
+  dialogueClipId,
+  vocabClipId,
+} from "../../lib/audioClips";
 import PuzzleGame from "./PuzzleGame";
 import PracticeList from "./PracticeList";
 import SectionQuiz from "./SectionQuiz";
@@ -60,6 +65,8 @@ export default function LessonShell({ chapter }: Props) {
   const next = getChapter(chapter.day + 1);
   const prevOpen = prev ? canViewChapter(prev) : false;
   const nextOpen = next ? canViewChapter(next) : false;
+  const { playClip, playingId, missing } = useClipAudio();
+  const book = chapter.book || 1;
 
   return (
     <LessonPage>
@@ -133,14 +140,34 @@ export default function LessonShell({ chapter }: Props) {
 
       <Panel id="vocab">
         <h2>Words for today</h2>
+        <p style={{ color: "var(--color-muted)", marginTop: 0 }}>
+          Tap a word to hear it when a recording is available.
+        </p>
         <VocabGrid>
-          {chapter.vocabulary.map((v) => (
-            <VocabCard key={v.bosnian}>
-              <div className="bs">{v.bosnian}</div>
-              <div className="en">{v.english}</div>
-              {v.pronunciation && <div className="pron">{v.pronunciation}</div>}
-            </VocabCard>
-          ))}
+          {chapter.vocabulary.map((v) => {
+            const clipId = vocabClipId(book, chapter.day, v.bosnian);
+            const isPlaying = playingId === clipId;
+            const isMissing = Boolean(missing[clipId]);
+            return (
+              <VocabCard
+                key={v.bosnian}
+                type="button"
+                onClick={() => playClip(clipId)}
+                data-playing={isPlaying ? "true" : "false"}
+                data-missing={isMissing ? "true" : "false"}
+                aria-label={`Play pronunciation for ${v.bosnian}`}
+              >
+                <div className="bs">{v.bosnian}</div>
+                <div className="en">{v.english}</div>
+                {v.pronunciation && (
+                  <div className="pron">{v.pronunciation}</div>
+                )}
+                <div className="listen">
+                  {isPlaying ? "Playing…" : isMissing ? "Audio soon" : "Tap to hear"}
+                </div>
+              </VocabCard>
+            );
+          })}
         </VocabGrid>
         {midImage && <ChapterImageFigure day={chapter.day} image={midImage} />}
       </Panel>
@@ -189,14 +216,37 @@ export default function LessonShell({ chapter }: Props) {
           <p style={{ color: "var(--color-muted)" }}>
             {chapter.conversation.setting}
           </p>
+          <p style={{ color: "var(--color-muted)" }}>
+            Tap a line to hear the voice-over when available.
+          </p>
           <Dialogue>
-            {chapter.conversation.lines.map((line, i) => (
-              <Line key={`${line.speaker}-${i}`} $speaker={line.speaker}>
-                <div className="speaker">{line.speaker}</div>
-                <div className="bs">{line.bosnian}</div>
-                <div className="en">{line.english}</div>
-              </Line>
-            ))}
+            {chapter.conversation.lines.map((line, i) => {
+              const clipId = dialogueClipId(book, chapter.day, i);
+              const isPlaying = playingId === clipId;
+              const isMissing = Boolean(missing[clipId]);
+              return (
+                <Line
+                  key={`${line.speaker}-${i}`}
+                  type="button"
+                  $speaker={line.speaker}
+                  onClick={() => playClip(clipId)}
+                  data-playing={isPlaying ? "true" : "false"}
+                  data-missing={isMissing ? "true" : "false"}
+                  aria-label={`Play dialogue line by ${line.speaker}`}
+                >
+                  <div className="speaker">{line.speaker}</div>
+                  <div className="bs">{line.bosnian}</div>
+                  <div className="en">{line.english}</div>
+                  <div className="listen">
+                    {isPlaying
+                      ? "Playing…"
+                      : isMissing
+                      ? "Audio soon"
+                      : "Tap to hear"}
+                  </div>
+                </Line>
+              );
+            })}
           </Dialogue>
         </Panel>
       )}

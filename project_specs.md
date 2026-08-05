@@ -77,3 +77,11 @@ Teaser outlines only — see `content/book2/outline.json` and `content/book3/out
 - [x] App roadmap + landing CTAs
 - [x] Lesson 0 orientation (why Bosnian / etymology / audience)
 - [x] Lesson authoring guide (Lesson 1 mold for 4–30)
+- [x] Voice recording portal (shared password, 4 voices 2F/2M) + S3/CloudFront audio + lesson tap-to-play
+
+## Voice recording
+
+- Private studio: `recorder/` (iPhone Safari MediaRecorder → presigned S3 upload)
+- Playback: click vocab / dialogue in `LessonShell`
+- Ops doc: [`docs/VOICE-RECORDING.md`](docs/VOICE-RECORDING.md)
+- Pending ops: set GitHub secrets `RECORDING_PASSWORD` + `AUDIO_TOKEN_SECRET`, apply Terraform, share recorder URL with voice talents

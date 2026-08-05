@@ -31,7 +31,19 @@ node scripts/export-youtube.cjs --day 1
 
 - Frontend: React (CRA) + TypeScript + styled-components
 - Content: JSON under `content/` (source of truth)
-- Backend (optional later): AWS Lambda + DynamoDB stubs already in repo
+- Voice recorder: private Vite SPA (`recorder/`) → S3 uploads → lesson tap-to-play
+- Backend: AWS Lambda + DynamoDB (audio API + stubs)
+
+## Voice-overs
+
+Tap vocab cards and dialogue lines on lesson pages to play recordings when available.
+
+Private recording studio (shared password, iPhone Safari): see [docs/VOICE-RECORDING.md](docs/VOICE-RECORDING.md).
+
+```bash
+node scripts/sync-content.cjs
+cd recorder && npm install && npm run dev
+```
 
 ## YouTube
 

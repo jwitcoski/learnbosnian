@@ -18,6 +18,10 @@ dist/
 .aws/
 .serverless/
 *.pem
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
 
 # Logs
 npm-debug.log*

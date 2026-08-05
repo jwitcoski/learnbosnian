@@ -1,0 +1,229 @@
+# Book 1 lesson authoring guide
+
+**Exemplar:** Lesson 1 — `content/book1/day-01/chapter.json` (+ `video-script.md`)  
+**Also aligned:** Lessons 2–3 (same shape)  
+**Exception:** Lesson 0 (orientation) and week reviews (7, 14, 21, 30) — see §5
+
+Use this guide for **Lessons 4–30**. Do not invent a new chapter shape. Copy Lesson 1’s structure; swap language focus and story beat from `outline.json`.
+
+---
+
+## 1. Product promises (every lesson)
+
+| Promise | Rule |
+|--------|------|
+| Latin only | No Cyrillic on site or in video |
+| Bosnian-focused | No HR/SR comparison sidebars after Lesson 0 |
+| Cast | Ana, Emir, Amira, Mrvica appear when the story beat needs them |
+| Cadence | ~60 minutes study time (reviews may be lighter) |
+| Companion video | 8–10 min script mirrors Lesson A → B → dialogue |
+| Naming | Always **Lesson N** (not Day N) in copy and video scripts |
+
+---
+
+## 2. Fixed recipe (normal lesson = Lesson 1 shape)
+
+Fill `content/book1/day-XX/chapter.json` completely before marking `draft`.
+
+| Section | Count / rule | Notes |
+|--------|----------------|-------|
+| **Metadata** | `day`, `book`, `week`, `title`, `titleEn`, `theme`, `storyBeat`, `estimatedMinutes: 60` | Titles from outline; one-sentence storyBeat |
+| **status** | `draft` until human review → `published` | Never publish empty stubs |
+| **learningGoals** | 2–3 bullets each: vocabulary / grammar / culture | No “to be filled” |
+| **vocabulary** | **12–16** entries | Each: `bosnian`, `english`, `pronunciation`, `partOfSpeech`, `example` |
+| **grammar** | **2–3** panels | (1) core system (2) how-to / typing or pattern (3) optional communicative use |
+| **culture** | **80–120 words** + `imageId` | Place or ritual tied to the lesson images |
+| **lessonBlocks** | **Exactly A + B** | A = system/forms; B = communicative use in the story scene |
+| **conversation** | Title, setting, **6–8 lines** | BS + EN; cast-consistent; reuse prior greetings when natural |
+| **puzzles** | **2** | Prefer: match + (scramble \| truefalse \| second match) |
+| **practice** | **6–8** typed items | Force accents (`čćšžđ`) when the lesson taught them |
+| **funFacts** | **3–4** | Mix: culture, language tip, story beat |
+| **resources** | Channel/video + optional map + **next lesson** link | `/learn/lesson/N` |
+| **sectionQuiz** | **8–10** MCQs, `passPercent: 70`, explanations | Mix meaning, form, one culture |
+| **dictionaryEntries** | Every teaching vocab item (+ full number set if taught) | `day: N` |
+| **images** | **3** polygon scenes | Hero = culture `imageId`; mid-lesson; place/object beat |
+| **video-script.md** | 8–10 min, Lesson N wording | Same A/B spine as blocks |
+
+### Lesson block writing rules
+
+- **Block A title:** `Lesson A — …` (forms, paradigm, list)
+- **Block B title:** `Lesson B — …` (use it in today’s scene)
+- Body: **~100–180 words**, not essays
+- **2–3 tips** each (short, actionable)
+- Teach **chunks** learners can say today; postpone full case tables
+
+### Grammar panel rules
+
+- Examples are **sayable** (`Ja sam Ana.`, `Kahvu, molim.`)
+- One panel may be “say it as a chunk” when morphology is early
+- Keep explanations plain English; no linguistics degree tone
+
+### Dialogue rules
+
+- Advance **today’s** language + one story beat
+- Narrator lines: max 1–2 for comic glue (Mrvica, etc.)
+- English gloss on every line
+
+### Practice / quiz rules
+
+- Answers compared case-insensitively; still write canonical casing
+- If `?` or accents are required, say so in the prompt
+- Quiz explanations teach, not just “correct”
+
+---
+
+## 3. Video companion (every lesson)
+
+File: `content/book1/day-XX/video-script.md`
+
+### Beat template (match Lesson 1)
+
+| Time | Beat | Content |
+|------|------|---------|
+| 0:00 | Cold open | Lesson N title BS/EN |
+| 0:40 | Goals | Today’s three goals |
+| 1:30 | Culture hook | Place/ritual + image credit note |
+| 3:00 | Lesson A | Same as block A; on-screen cards |
+| 5:00 | Lesson B | Same as block B; phrase cards |
+| 6:30 | Mini dialogue | Pause-and-repeat; chapter lines |
+| 8:00 | Practice + CTA | Pause for site puzzle; **Next: Lesson N+1** |
+| End | End screen | `/learn/lesson/N` + playlist + credits |
+
+### Video rules
+
+- Runtime **8–10 minutes** (reviews may be 6–8)
+- **No Cyrillic** on screen
+- Say **Lesson N**, not Day N
+- Scenic stills from chapter images / BiH locations
+- Export / publish video only when chapter status is `published` (or batch-ready at launch)
+
+---
+
+## 4. Image brief (every lesson)
+
+Three images before or with draft:
+
+1. **Culture hero** — matches `culture.imageId`
+2. **Mid-lesson scene** — story place or action
+3. **Object / detail** — food, map, ticket, nature, etc.
+
+Each image needs: `id`, `alt`, `localPath`, source URLs, `author`, `license`, `credit` (polygon treatment note OK in attributions sync).
+
+---
+
+## 5. Exceptions to the normal recipe
+
+### Lesson 0 — orientation (already done)
+
+- ~35 minutes; up to **3** lesson blocks; denser culture; light dialogue OK
+- Do not use as the mold for Lessons 4–29
+
+### Review lessons — 7, 14, 21 (and lighter 30)
+
+| Adjust | Rule |
+|--------|------|
+| New vocab | **6–10** recycle-heavy items (or themed review list) |
+| Grammar | 1–2 “remember” panels, not new systems |
+| Blocks | A = recycle forms; B = story diary / game / plan |
+| Puzzles | Prefer match + truefalse over new scramble sets |
+| Quiz | **10** items spanning the week’s lessons |
+| Video | “Week in review” + highlight fails + CTA to next week |
+
+### Lesson 30 — finale
+
+- Full A1 celebration + light new party vocab
+- Quiz can be broader review; keep A+B shape
+- Story: graduation / cake heist per outline
+
+---
+
+## 6. Production workflow
+
+```
+outline.json (title, languageFocus, storyBeat)
+    → draft chapter.json to this recipe
+    → video-script.md
+    → 3 images + attributions
+    → node scripts/sync-content.cjs
+    → status: draft
+    → human review
+    → status: published + reviewedAt
+    → YouTube export / upload
+```
+
+### Definition of done (gate before `draft` is “ready for review”)
+
+- [ ] Outline languageFocus covered in goals + grammar + blocks
+- [ ] StoryBeat visible in culture and/or dialogue
+- [ ] Counts in §2 met (no empty arrays)
+- [ ] Dictionary mirrors teaching vocab
+- [ ] Next-lesson resource points to `/learn/lesson/N+1` (L30 → curriculum)
+- [ ] Video script uses Lesson N and mirrors A/B
+- [ ] `node scripts/sync-content.cjs` run
+- [ ] Site lesson page shows full shell with working quiz
+
+### Suggested batch order
+
+| Batch | Lessons | Focus |
+|-------|---------|--------|
+| A | 4–6 | Finish Week 1 language path |
+| B | 7 | Week 1 review |
+| C | 8–13 | Week 2 daily life |
+| D | 14 | Week 2 review |
+| E | 15–20 | Week 3 getting around |
+| F | 21 | Week 3 review |
+| G | 22–29 | Week 4 stories & travel |
+| H | 30 | Finale |
+
+Human-review each batch before filming that batch’s videos when possible; at full launch, all 30 + videos ship together.
+
+---
+
+## 7. Per-lesson card (copy for each new chapter)
+
+Use outline fields; keep this checklist in reviewer notes or PR body:
+
+```
+Lesson __: ________ / ________
+Week __ | Theme: ________
+Language focus: ________
+Story beat: ________
+
+[ ] Metadata + goals
+[ ] Vocab 12–16 + dictionary
+[ ] Grammar 2–3
+[ ] Culture 80–120w + imageId
+[ ] Blocks A + B
+[ ] Dialogue 6–8
+[ ] Puzzles ×2
+[ ] Practice 6–8
+[ ] Fun facts 3–4
+[ ] Quiz 8–10
+[ ] Resources (video, next)
+[ ] Images ×3
+[ ] video-script.md
+[ ] sync-content
+```
+
+---
+
+## 8. Quick reference — Week 1–4 language spine
+
+Stay faithful to `outline.json`; do not rearrange major grammar jumps.
+
+- **W1:** sounds/greetings → biti → numbers/café → family/gender → places → time → review  
+- **W2:** food → shop → home → weather → invitations → identity → review  
+- **W3:** directions → bus → restaurant → hobbies → holidays → phone → review  
+- **W4:** past tense → past Q&A → nature → health → housing → work → Mostar → writing → finale  
+
+---
+
+## 9. Non-goals (avoid drift)
+
+- Do not add a third essay block on normal lessons  
+- Do not open stub chapters as `draft` with empty vocab/quiz  
+- Do not teach comparative BCS columns  
+- Do not replace the silly story with pure drill pages  
+- Do not ship video scripts that still say “Day N” or “30 Days” if site says Lesson  
+
+When in doubt: open Lesson 1 JSON and mirror field-by-field.
