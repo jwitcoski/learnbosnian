@@ -86,7 +86,7 @@ const Footer = () => {
                   style={{
                     fontSize: "18px",
                     fontWeight: "bold",
-                    color: "#5D4037",
+                    color: "#f5ebe0",
                     fontFamily: "var(--font-display)",
                   }}
                 >

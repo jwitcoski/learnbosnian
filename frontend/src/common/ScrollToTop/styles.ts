@@ -9,10 +9,11 @@ export const ScrollUpContainer = styled("div")<{
   bottom: 30px;
   z-index: 10;
   cursor: pointer;
-  background: rgb(241, 242, 243);
+  background: var(--color-cream);
+  border: 2px solid var(--color-crimson);
   text-align: center;
   align-items: center;
-  border-radius: 4px;
+  border-radius: 0;
   transition: all 0.3s ease-in-out;
   visibility: ${(p) => (p.show ? "visible" : "hidden")};
   opacity: ${(p) => (p.show ? "1" : "0")};
@@ -21,7 +22,7 @@ export const ScrollUpContainer = styled("div")<{
   &:hover,
   &:active,
   &:focus {
-    background: rgb(224, 224, 224);
+    background: var(--color-beige);
   }
 
   @media screen and (max-width: 1240px) {
