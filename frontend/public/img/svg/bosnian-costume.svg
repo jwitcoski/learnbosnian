@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 720" role="img" aria-label="Bosnian woman in traditional dress">
+  <rect width="640" height="720" fill="#FFF8F0"/>
+  <!-- decorative kilim panel behind -->
+  <rect x="70" y="40" width="500" height="640" rx="8" fill="#F5F0E6" stroke="#5D4037" stroke-width="4"/>
+  <g transform="translate(90 60)">
+    <rect width="24" height="12" fill="#C62828"/>
+    <rect x="24" width="12" height="12" fill="#D4A017"/>
+    <rect x="36" width="24" height="12" fill="#1A237E"/>
+    <rect x="60" width="16" height="12" fill="#849274"/>
+    <rect x="76" width="24" height="12" fill="#5D4037"/>
+    <rect x="100" width="12" height="12" fill="#C62828"/>
+    <rect x="112" width="24" height="12" fill="#D4A017"/>
+    <rect x="136" width="24" height="12" fill="#1A237E"/>
+    <rect x="160" width="16" height="12" fill="#849274"/>
+    <rect x="176" width="24" height="12" fill="#5D4037"/>
+    <rect x="200" width="12" height="12" fill="#C62828"/>
+    <rect x="212" width="24" height="12" fill="#D4A017"/>
+    <rect x="236" width="24" height="12" fill="#1A237E"/>
+    <rect x="260" width="16" height="12" fill="#849274"/>
+    <rect x="276" width="24" height="12" fill="#5D4037"/>
+    <rect x="300" width="12" height="12" fill="#C62828"/>
+    <rect x="312" width="24" height="12" fill="#D4A017"/>
+    <rect x="336" width="24" height="12" fill="#1A237E"/>
+    <rect x="360" width="16" height="12" fill="#849274"/>
+    <rect x="376" width="24" height="12" fill="#5D4037"/>
+    <rect x="400" width="12" height="12" fill="#C62828"/>
+    <rect x="412" width="24" height="12" fill="#D4A017"/>
+  </g>
+  <!-- ground -->
+  <ellipse cx="320" cy="640" rx="160" ry="28" fill="#849274" opacity="0.45"/>
+  <!-- skirt / dimija -->
+  <path d="M210 360c20 40 40 180 50 250h120c10-70 30-210 50-250-30-20-70-30-110-30s-80 10-110 30z" fill="#C62828"/>
+  <path d="M230 400c25 8 55 12 90 12s65-4 90-12" fill="none" stroke="#D4A017" stroke-width="6"/>
+  <path d="M235 460c25 6 55 10 85 10s60-4 85-10" fill="none" stroke="#D4A017" stroke-width="5"/>
+  <path d="M240 520c22 5 48 8 80 8s58-3 80-8" fill="none" stroke="#1A237E" stroke-width="5"/>
+  <path d="M245 570c20 4 45 6 75 6s55-2 75-6" fill="none" stroke="#D4A017" stroke-width="4"/>
+  <!-- jelek / vest -->
+  <path d="M250 250c10-40 40-70 70-70s60 30 70 70l15 120c-25 20-55 30-85 30s-60-10-85-30z" fill="#1A237E"/>
+  <path d="M280 260c15-8 30-12 40-12s25 4 40 12" fill="none" stroke="#D4A017" stroke-width="4"/>
+  <path d="M275 310h90" fill="none" stroke="#D4A017" stroke-width="3"/>
+  <path d="M278 345h84" fill="none" stroke="#D4A017" stroke-width="3"/>
+  <!-- blouse sleeves -->
+  <path d="M250 270c-40 20-70 55-80 95 25 5 45-10 60-30z" fill="#FFF8F0" stroke="#5D4037" stroke-width="3"/>
+  <path d="M390 270c40 20 70 55 80 95-25 5-45-10-60-30z" fill="#FFF8F0" stroke="#5D4037" stroke-width="3"/>
+  <!-- hands -->
+  <circle cx="175" cy="370" r="18" fill="#E8C4A8"/>
+  <circle cx="465" cy="370" r="18" fill="#E8C4A8"/>
+  <!-- neck -->
+  <rect x="300" y="210" width="40" height="45" rx="8" fill="#E8C4A8"/>
+  <!-- head -->
+  <ellipse cx="320" cy="165" rx="58" ry="68" fill="#E8C4A8"/>
+  <!-- dimija / hair cover / fes-style headscarf -->
+  <path d="M255 150c10-70 40-95 65-95s55 25 65 95c-20-15-45-22-65-22s-45 7-65 22z" fill="#C62828"/>
+  <path d="M260 145c25-10 50-15 60-15s35 5 60 15" fill="none" stroke="#D4A017" stroke-width="5"/>
+  <path d="M250 155c-5 40 5 70 20 85h100c15-15 25-45 20-85-20 12-45 18-70 18s-50-6-70-18z" fill="#5D4037"/>
+  <circle cx="320" cy="95" r="10" fill="#D4A017"/>
+  <!-- face -->
+  <ellipse cx="300" cy="165" rx="5" ry="7" fill="#5D4037"/>
+  <ellipse cx="340" cy="165" rx="5" ry="7" fill="#5D4037"/>
+  <path d="M305 195c8 10 22 10 30 0" fill="none" stroke="#5D4037" stroke-width="3" stroke-linecap="round"/>
+  <path d="M290 148c8-6 16-6 22 0" fill="none" stroke="#5D4037" stroke-width="3" stroke-linecap="round"/>
+  <path d="M328 148c8-6 16-6 22 0" fill="none" stroke="#5D4037" stroke-width="3" stroke-linecap="round"/>
+  <!-- necklace -->
+  <path d="M295 225c10 18 40 18 50 0" fill="none" stroke="#D4A017" stroke-width="4"/>
+  <circle cx="305" cy="235" r="5" fill="#C62828"/>
+  <circle cx="320" cy="240" r="5" fill="#D4A017"/>
+  <circle cx="335" cy="235" r="5" fill="#C62828"/>
+  <!-- apron accent -->
+  <path d="M285 390h70c5 40 8 120 8 180h-86c0-60 3-140 8-180z" fill="#FFF8F0" opacity="0.9"/>
+  <path d="M295 420h50" stroke="#C62828" stroke-width="4"/>
+  <path d="M295 450h50" stroke="#1A237E" stroke-width="4"/>
+  <path d="M295 480h50" stroke="#D4A017" stroke-width="4"/>
+</svg>

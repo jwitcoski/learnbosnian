@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Stari Most in Mostar">
+  <!-- sky -->
+  <rect width="800" height="520" fill="#FFF8F0"/>
+  <path d="M0 0h800v280H0z" fill="#E8E4EF"/>
+  <circle cx="640" cy="72" r="36" fill="#D4A017" opacity="0.85"/>
+  <!-- hills -->
+  <path d="M0 250c80-40 140-60 220-50 70 8 120 40 200 35 90-6 150-45 230-40 70 4 100 35 150 50v55H0z" fill="#849274"/>
+  <path d="M0 290c90-30 160-20 250-10 100 12 160-25 260-20 80 4 140 30 290 40v40H0z" fill="#5D4037" opacity="0.55"/>
+  <!-- river -->
+  <path d="M0 360c120-35 220-50 320-45s210 40 320 35c60-3 110-15 160-25v195H0z" fill="#1A237E"/>
+  <path d="M40 390c100-25 200-35 300-28s180 28 280 22c70-4 120-18 180-28" fill="none" stroke="#849274" stroke-width="6" opacity="0.45"/>
+  <path d="M80 430c90-18 180-22 270-14s170 20 260 16" fill="none" stroke="#FFF8F0" stroke-width="3" opacity="0.35"/>
+  <!-- left tower -->
+  <rect x="175" y="165" width="78" height="155" fill="#F5F0E6" stroke="#5D4037" stroke-width="4"/>
+  <path d="M165 165h98l-12-28H177z" fill="#C62828"/>
+  <rect x="192" y="195" width="18" height="28" fill="#1A237E"/>
+  <rect x="220" y="195" width="18" height="28" fill="#1A237E"/>
+  <rect x="192" y="245" width="18" height="28" fill="#1A237E"/>
+  <rect x="220" y="245" width="18" height="28" fill="#1A237E"/>
+  <!-- right tower -->
+  <rect x="545" y="165" width="78" height="155" fill="#F5F0E6" stroke="#5D4037" stroke-width="4"/>
+  <path d="M535 165h98l-12-28H547z" fill="#C62828"/>
+  <rect x="562" y="195" width="18" height="28" fill="#1A237E"/>
+  <rect x="590" y="195" width="18" height="28" fill="#1A237E"/>
+  <rect x="562" y="245" width="18" height="28" fill="#1A237E"/>
+  <rect x="590" y="245" width="18" height="28" fill="#1A237E"/>
+  <!-- bridge arch -->
+  <path d="M215 320c40-120 120-175 185-175s145 55 185 175" fill="#FFF8F0" stroke="#5D4037" stroke-width="5"/>
+  <path d="M240 320c35-95 100-140 160-140s125 45 160 140" fill="#1A237E"/>
+  <!-- bridge deck -->
+  <path d="M215 318h370" fill="none" stroke="#5D4037" stroke-width="10" stroke-linecap="round"/>
+  <path d="M230 308h340" fill="none" stroke="#D4A017" stroke-width="3" opacity="0.8"/>
+  <!-- small houses left -->
+  <rect x="70" y="280" width="55" height="50" fill="#C62828"/>
+  <path d="M65 280h65l-10-22H75z" fill="#5D4037"/>
+  <rect x="95" y="300" width="14" height="18" fill="#FFF8F0"/>
+  <!-- small houses right -->
+  <rect x="670" y="275" width="60" height="55" fill="#849274"/>
+  <path d="M665 275h70l-12-24H677z" fill="#5D4037"/>
+  <rect x="692" y="295" width="14" height="18" fill="#FFF8F0"/>
+  <!-- kilim accent band -->
+  <g transform="translate(250 470)">
+    <rect width="28" height="14" fill="#C62828"/>
+    <rect x="28" width="14" height="14" fill="#D4A017"/>
+    <rect x="42" width="28" height="14" fill="#1A237E"/>
+    <rect x="70" width="18" height="14" fill="#849274"/>
+    <rect x="88" width="28" height="14" fill="#5D4037"/>
+    <rect x="116" width="14" height="14" fill="#C62828"/>
+    <rect x="130" width="28" height="14" fill="#D4A017"/>
+    <rect x="158" width="28" height="14" fill="#1A237E"/>
+    <rect x="186" width="18" height="14" fill="#849274"/>
+    <rect x="204" width="28" height="14" fill="#5D4037"/>
+    <rect x="232" width="14" height="14" fill="#C62828"/>
+    <rect x="246" width="28" height="14" fill="#D4A017"/>
+  </g>
+</svg>

@@ -7,26 +7,15 @@ import {
   KilimBand,
   Section,
   Pillars,
-  Split,
+  Illustrate,
   SolidCta,
   YoutubeStrip,
   ContactWrap,
+  FigureArt,
 } from "./styles";
 
 const Contact = lazy(() => import("../../components/ContactForm"));
 const ScrollToTop = lazy(() => import("../../common/ScrollToTop"));
-
-const BASCARSIJA = {
-  src: "/images/book1/day-01-bascarsija.jpg",
-  credit:
-    "Baščaršija, Sarajevo — Kathleen Franklin / Wikimedia Commons (CC BY 2.0)",
-};
-
-const SEBILJ = {
-  src: "/images/book1/day-01-sebilj.jpg",
-  credit:
-    "Sebilj fountain, Sarajevo — BloodSaric / Wikimedia Commons (CC BY-SA 2.5)",
-};
 
 const Home = () => {
   const history = useHistory();
@@ -36,11 +25,7 @@ const Home = () => {
       <ScrollToTop />
 
       <Hero>
-        <div className="hero-media" aria-hidden>
-          <img src={BASCARSIJA.src} alt="" />
-        </div>
-        <div className="hero-shade" aria-hidden />
-        <div className="hero-inner">
+        <div className="hero-copy">
           <h1 className="brand">Learn Bosnian</h1>
           <p className="lede">
             Real Bosnian in Latin script, culture from Sarajevo to Mostar, and a
@@ -54,22 +39,33 @@ const Home = () => {
               See curriculum
             </Cta>
           </div>
-          <p className="credit">{BASCARSIJA.credit}</p>
         </div>
+        <FigureArt className="hero-art" aria-hidden>
+          <img src="/img/svg/mostar-bridge.svg" alt="" />
+        </FigureArt>
       </Hero>
 
       <KilimBand aria-hidden />
 
-      <Section>
-        <h2>One clear path</h2>
-        <p className="support">
-          Every chapter is drafted and reviewed before it goes live. Companion
-          videos live on the How to speak Bosnian channel.
-        </p>
-        <SolidCta type="button" onClick={() => history.push("/learn")}>
-          Open the curriculum
-        </SolidCta>
-      </Section>
+      <Illustrate $flip>
+        <FigureArt>
+          <img
+            src="/img/svg/bosnian-coffee.svg"
+            alt="Bosnian coffee set with džezva and cups"
+          />
+        </FigureArt>
+        <div className="copy">
+          <h2>One clear path</h2>
+          <p>
+            Every chapter is drafted and reviewed before it goes live. Sit with a
+            džezva of kahva and follow the same lesson shape each day — goals,
+            culture, practice, and a quiz.
+          </p>
+          <SolidCta type="button" onClick={() => history.push("/learn")}>
+            Open the curriculum
+          </SolidCta>
+        </div>
+      </Illustrate>
 
       <KilimBand aria-hidden />
 
@@ -77,8 +73,7 @@ const Home = () => {
         <h2>Same lesson shape every day</h2>
         <p className="support">
           Goals, culture, vocab, grammar, a puzzle, conversation, practice, fun
-          facts, another game, resources, then a section quiz. The same layout
-          each day so you always know what comes next.
+          facts, another game, resources, then a section quiz.
         </p>
         <Pillars>
           <article>
@@ -102,23 +97,25 @@ const Home = () => {
         </Pillars>
       </Section>
 
-      <Split>
-        <div className="photo">
-          <img src={SEBILJ.src} alt="Sebilj fountain in Baščaršija, Sarajevo" />
-          <div className="credit">{SEBILJ.credit}</div>
-        </div>
+      <Illustrate>
         <div className="copy">
           <h2>Follow the story through Bosnia</h2>
           <p>
             Walk Baščaršija with Ana, drink kahva at Amira’s, get lost with Emir,
             and let Mrvica steal the scene. Book 1 takes you from first greetings
-            to Mostar.
+            to Mostar — and the culture of the whole country.
           </p>
           <SolidCta type="button" onClick={() => history.push("/books")}>
             Browse the book series
           </SolidCta>
         </div>
-      </Split>
+        <FigureArt>
+          <img
+            src="/img/svg/bosnian-costume.svg"
+            alt="Woman in traditional Bosnian dress"
+          />
+        </FigureArt>
+      </Illustrate>
 
       <YoutubeStrip>
         <img src="/img/svg/youtube.svg" alt="" width={56} height={56} />
