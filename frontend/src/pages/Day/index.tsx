@@ -17,8 +17,8 @@ const DayPage = () => {
     return (
       <LessonPage>
         <Banner>
-          Day {chapter.day} — <strong>{chapter.title}</strong> is scheduled for Night{" "}
-          {chapter.day}. Status: {chapter.status}.
+          Lesson {chapter.day} — <strong>{chapter.title}</strong> is coming soon.
+          Status: {chapter.status}.
         </Banner>
         <p>{chapter.theme}</p>
         <p>{chapter.storyBeat}</p>

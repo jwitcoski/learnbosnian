@@ -25,7 +25,7 @@
   "grammar": [],
   "culture": {
     "title": "Day trip to Travnik",
-    "body": "Stub for Day 22. Full culture hook will be written on the draft night.",
+    "body": "Stub for Lesson 22. Full culture hook will be written on the draft night.",
     "imageId": null
   },
   "lessonBlocks": [],
@@ -45,7 +45,7 @@
     }
   ],
   "sectionQuiz": {
-    "title": "Day 22 section quiz",
+    "title": "Lesson 22 section quiz",
     "passPercent": 70,
     "questions": []
   },

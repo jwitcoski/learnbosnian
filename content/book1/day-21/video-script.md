@@ -1,4 +1,4 @@
-# Day 21 video script — Sedmica 3 — ponavljanje
+# Lesson 21 video script — Sedmica 3 — ponavljanje
 
 _Stub. Write full script when chapter is drafted._
 

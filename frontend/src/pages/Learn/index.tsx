@@ -16,8 +16,9 @@ const Learn = () => {
     <LessonPage>
       <h1>Book 1 curriculum</h1>
       <p>
-        Start with Day 0 (why Bosnian?), then follow Ana, Emir, Amira, and Mrvica
-        through Bosnia and Herzegovina. New chapters publish after human review.
+        Start with Lesson 0 (why Bosnian?), then follow Ana, Emir, Amira, and
+        Mrvica through Bosnia and Herzegovina. New chapters publish after human
+        review.
       </p>
       <p>
         <Link to="/dictionary">Mini-dictionary</Link>
@@ -52,12 +53,12 @@ const Learn = () => {
                 const inner = (
                   <>
                     <div className="daynum">
-                      Day {c.day}
+                      Lesson {c.day}
                       {done ? " · done" : open ? "" : " · soon"}
                     </div>
                     <div className="title">{c.title}</div>
                     <div className="theme">
-                      {open ? c.theme : `Coming Night ${c.day}`}
+                      {open ? c.theme : `Coming soon · Lesson ${c.day}`}
                     </div>
                   </>
                 );
@@ -66,7 +67,7 @@ const Learn = () => {
                     <DayTile
                       key={c.day}
                       as={Link}
-                      to={`/learn/day/${c.day}`}
+                      to={`/learn/lesson/${c.day}`}
                       $open
                       $done={done}
                     >

@@ -44,12 +44,12 @@ fs.mkdirSync(outDir, { recursive: true });
 const scriptPath = path.join(dayDir, "video-script.md");
 const script = fs.existsSync(scriptPath)
   ? fs.readFileSync(scriptPath, "utf8")
-  : `# Day ${day} — ${chapter.title}\n\n_No video-script.md yet._\n`;
+  : `# Lesson ${day} — ${chapter.title}\n\n_No video-script.md yet._\n`;
 
 fs.writeFileSync(path.join(outDir, "narration.md"), script);
 
 const cues = [
-  `# On-screen cue list — Day ${day}`,
+  `# On-screen cue list — Lesson ${day}`,
   "",
   `Title: ${chapter.title} / ${chapter.titleEn}`,
   `Theme: ${chapter.theme}`,
@@ -68,12 +68,12 @@ const cues = [
   ),
   "",
   "## Thumbnail text",
-  `- EN: Day ${day} — ${chapter.titleEn}`,
+  `- EN: Lesson ${day} — ${chapter.titleEn}`,
   `- BS: ${chapter.title}`,
   "",
   "## Description blurb",
-  `Learn Bosnian in 30 Days — Day ${day}: ${chapter.title}.`,
-  `Lesson on the site: /learn/day/${day}`,
+  `Learn Bosnian in 30 Days — Lesson ${day}: ${chapter.title}.`,
+  `Lesson on the site: /learn/lesson/${day}`,
   `Channel: https://www.youtube.com/@HowtospeakBosnian`,
   "",
   "## Image credits",
@@ -103,7 +103,7 @@ fs.writeFileSync(
 3. Yellow/gold title text matching channel style.
 4. Paste narration.md into TTS (Piper or CapCut voice) or record.
 5. Overlay cue cards from cues.md.
-6. End screen → website /learn/day/${day} + playlist.
+6. End screen → website /learn/lesson/${day} + playlist.
 7. Export 1080p; upload SRT from narration.
 `
 );

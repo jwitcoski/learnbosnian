@@ -1,4 +1,4 @@
-# Day 23 video script — Šta si radio/radila?
+# Lesson 23 video script — Šta si radio/radila?
 
 _Stub. Write full script when chapter is drafted._
 

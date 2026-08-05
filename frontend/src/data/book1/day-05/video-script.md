@@ -1,4 +1,4 @@
-# Day 5 video script — Gdje je Mostar?
+# Lesson 5 video script — Gdje je Mostar?
 
 _Stub. Write full script when chapter is drafted._
 

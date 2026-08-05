@@ -25,7 +25,7 @@
   "grammar": [],
   "culture": {
     "title": "Where is Mrvica?",
-    "body": "Stub for Day 20. Full culture hook will be written on the draft night.",
+    "body": "Stub for Lesson 20. Full culture hook will be written on the draft night.",
     "imageId": null
   },
   "lessonBlocks": [],
@@ -45,7 +45,7 @@
     }
   ],
   "sectionQuiz": {
-    "title": "Day 20 section quiz",
+    "title": "Lesson 20 section quiz",
     "passPercent": 70,
     "questions": []
   },

@@ -1,4 +1,4 @@
-# Day 27 video script — Posao i škola
+# Lesson 27 video script — Posao i škola
 
 _Stub. Write full script when chapter is drafted._
 

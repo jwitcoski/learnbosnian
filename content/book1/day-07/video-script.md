@@ -1,4 +1,4 @@
-# Day 7 video script — Sedmica 1 — ponavljanje
+# Lesson 7 video script — Sedmica 1 — ponavljanje
 
 _Stub. Write full script when chapter is drafted._
 

@@ -1,4 +1,4 @@
-# Day 30 video script — Završna proslava
+# Lesson 30 video script — Završna proslava
 
 _Stub. Write full script when chapter is drafted._
 

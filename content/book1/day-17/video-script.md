@@ -1,4 +1,4 @@
-# Day 17 video script — Dobar tek!
+# Lesson 17 video script — Dobar tek!
 
 _Stub. Write full script when chapter is drafted._
 

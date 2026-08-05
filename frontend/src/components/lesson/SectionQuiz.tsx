@@ -149,7 +149,10 @@ export default function SectionQuiz({ chapter, embedded }: Props) {
             <strong>
               {result.correctCount}/{questions.length} ({result.percent}%)
             </strong>{" "}
-            — {result.passed ? "Day complete!" : "Try again after a quick review."}
+            —{" "}
+            {result.passed
+              ? "Lesson complete!"
+              : "Try again after a quick review."}
           </p>
           {result.passed && !embedded && (
             <p>

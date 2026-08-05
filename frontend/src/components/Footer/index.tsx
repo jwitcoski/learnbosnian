@@ -55,7 +55,7 @@ const Footer = () => {
               <Large to="/learn">Curriculum</Large>
               <Large to="/dictionary">Mini-dictionary</Large>
               <Large to="/books">Book series</Large>
-              <Large to="/learn/day/0">Day 0 orientation</Large>
+              <Large to="/learn/lesson/0">Lesson 0 orientation</Large>
               <Large to="/attributions">Photo attributions</Large>
             </Col>
             <Col lg={6} md={6} sm={12} xs={12}>

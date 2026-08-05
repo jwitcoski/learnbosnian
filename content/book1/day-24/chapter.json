@@ -25,7 +25,7 @@
   "grammar": [],
   "culture": {
     "title": "Una, Neretva, Bjelašnica",
-    "body": "Stub for Day 24. Full culture hook will be written on the draft night.",
+    "body": "Stub for Lesson 24. Full culture hook will be written on the draft night.",
     "imageId": null
   },
   "lessonBlocks": [],
@@ -45,7 +45,7 @@
     }
   ],
   "sectionQuiz": {
-    "title": "Day 24 section quiz",
+    "title": "Lesson 24 section quiz",
     "passPercent": 70,
     "questions": []
   },

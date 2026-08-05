@@ -1,4 +1,4 @@
-# Day 22 video script — Jučer u Travniku
+# Lesson 22 video script — Jučer u Travniku
 
 _Stub. Write full script when chapter is drafted._
 

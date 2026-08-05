@@ -1,4 +1,4 @@
-# Day 1 video script — Zdravo, Sarajevo!
+# Lesson 1 video script — Zdravo, Sarajevo!
 
 **Length target:** 8–10 minutes  
 **Style:** Scenic Bosnian stills + yellow/gold on-screen text (channel style)  
@@ -6,7 +6,7 @@
 
 ## Thumbnail text
 
-- EN: Day 1 — Hello, Sarajevo!
+- EN: Lesson 1 — Hello, Sarajevo!
 - BS: Zdravo, Sarajevo!
 - Background: Baščaršija street photo
 
@@ -14,7 +14,7 @@
 
 ### 0:00 Cold open
 **Narration:** Welcome to Learn Bosnian in 30 Days — Book One. I’m glad you’re here. Today is Day One: Zdravo, Sarajevo!
-**On screen:** Zdravo, Sarajevo! | Day 1
+**On screen:** Zdravo, Sarajevo! | Lesson 1
 
 ### 0:40 Goals
 **Narration:** In this hour you’ll learn greetings, meet the special Bosnian letters, and take a first walk through Baščaršija — Sarajevo’s old bazaar.
@@ -42,6 +42,6 @@
 
 ## End screen
 
-- Link to website `/learn/day/1`
+- Link to website `/learn/lesson/1`
 - Playlist: Learn Bosnian in 30 Days — Book 1
 - Image credits in description

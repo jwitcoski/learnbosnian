@@ -1,4 +1,4 @@
-# Day 25 video script — Kod doktora
+# Lesson 25 video script — Kod doktora
 
 _Stub. Write full script when chapter is drafted._
 

@@ -1,4 +1,4 @@
-# Day 4 video script — Porodica Mrvice
+# Lesson 4 video script — Porodica Mrvice
 
 _Stub. Write full script when chapter is drafted._
 

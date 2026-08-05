@@ -1,4 +1,4 @@
-# Day 12 video script — Idemo u park
+# Lesson 12 video script — Idemo u park
 
 _Stub. Write full script when chapter is drafted._
 

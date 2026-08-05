@@ -53,8 +53,8 @@ const Home = () => {
             silly story with Ana, Emir, Amira, and Mrvica the cat.
           </p>
           <div className="cta-row">
-            <Cta type="button" onClick={() => history.push("/learn/day/0")}>
-              Start Day 0
+            <Cta type="button" onClick={() => history.push("/learn/lesson/0")}>
+              Start Lesson 0
             </Cta>
             <Cta $ghost type="button" onClick={() => history.push("/learn")}>
               See curriculum

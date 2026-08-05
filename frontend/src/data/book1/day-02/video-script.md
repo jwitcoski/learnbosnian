@@ -1,4 +1,4 @@
-# Day 2 video script — Ja sam Ana
+# Lesson 2 video script — Ja sam Ana
 
 _Stub. Write full script when chapter is drafted._
 

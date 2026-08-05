@@ -1,4 +1,4 @@
-# Day 18 video script — Sport i hobiji
+# Lesson 18 video script — Sport i hobiji
 
 _Stub. Write full script when chapter is drafted._
 

@@ -1,4 +1,4 @@
-# Day 28 video script — Mostar napokon!
+# Lesson 28 video script — Mostar napokon!
 
 _Stub. Write full script when chapter is drafted._
 

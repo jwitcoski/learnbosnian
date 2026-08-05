@@ -25,7 +25,7 @@
   "grammar": [],
   "culture": {
     "title": "Room above the café",
-    "body": "Stub for Day 10. Full culture hook will be written on the draft night.",
+    "body": "Stub for Lesson 10. Full culture hook will be written on the draft night.",
     "imageId": null
   },
   "lessonBlocks": [],
@@ -45,7 +45,7 @@
     }
   ],
   "sectionQuiz": {
-    "title": "Day 10 section quiz",
+    "title": "Lesson 10 section quiz",
     "passPercent": 70,
     "questions": []
   },

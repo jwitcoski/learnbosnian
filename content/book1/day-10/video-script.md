@@ -1,4 +1,4 @@
-# Day 10 video script — Moja soba
+# Lesson 10 video script — Moja soba
 
 _Stub. Write full script when chapter is drafted._
 

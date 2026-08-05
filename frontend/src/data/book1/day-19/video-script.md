@@ -1,4 +1,4 @@
-# Day 19 video script — Praznici
+# Lesson 19 video script — Praznici
 
 _Stub. Write full script when chapter is drafted._
 

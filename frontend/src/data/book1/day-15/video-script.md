@@ -1,4 +1,4 @@
-# Day 15 video script — Desna ili lijeva?
+# Lesson 15 video script — Desna ili lijeva?
 
 _Stub. Write full script when chapter is drafted._
 

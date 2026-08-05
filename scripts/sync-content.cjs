@@ -67,7 +67,7 @@ function harvestChapterImages() {
           id: `${book}-day-${String(chapter.day).padStart(2, "0")}-${img.id}`,
           title: img.alt || img.id,
           whereUsed: [
-            `Book ${chapter.book} · Day ${chapter.day} — ${
+            `Book ${chapter.book} · Lesson ${chapter.day} — ${
               chapter.titleEn || chapter.title
             }`,
           ],

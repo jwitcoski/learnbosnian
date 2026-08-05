@@ -1,4 +1,4 @@
-# Day 29 video script — Pisma iz BiH
+# Lesson 29 video script — Pisma iz BiH
 
 _Stub. Write full script when chapter is drafted._
 

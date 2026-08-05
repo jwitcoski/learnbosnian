@@ -1,5 +1,5 @@
 import { lazy, Suspense } from "react";
-import { Switch, Route } from "react-router-dom";
+import { Switch, Route, Redirect } from "react-router-dom";
 import Footer from "../components/Footer";
 import Header from "../components/Header";
 import ScrollToTopOnNavigate from "../common/ScrollToTopOnNavigate";
@@ -13,6 +13,20 @@ const Router = () => {
       <ScrollToTopOnNavigate />
       <Header />
       <Switch>
+        <Route
+          path="/learn/day/:n"
+          exact
+          render={({ match }) => (
+            <Redirect to={`/learn/lesson/${match.params.n}`} />
+          )}
+        />
+        <Route
+          path="/quiz/day/:n"
+          exact
+          render={({ match }) => (
+            <Redirect to={`/quiz/lesson/${match.params.n}`} />
+          )}
+        />
         {routes.map((routeItem) => {
           return (
             <Route

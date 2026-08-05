@@ -1,4 +1,4 @@
-# Day 9 video script — U prodavnici
+# Lesson 9 video script — U prodavnici
 
 _Stub. Write full script when chapter is drafted._
 

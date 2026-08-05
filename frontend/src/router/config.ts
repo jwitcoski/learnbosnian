@@ -10,12 +10,12 @@ const routes = [
     component: "Learn",
   },
   {
-    path: "/learn/day/:n",
+    path: "/learn/lesson/:n",
     exact: true,
     component: "Day",
   },
   {
-    path: "/quiz/day/:n",
+    path: "/quiz/lesson/:n",
     exact: true,
     component: "Quiz",
   },

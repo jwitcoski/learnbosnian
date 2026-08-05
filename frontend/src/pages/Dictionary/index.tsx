@@ -45,7 +45,7 @@ const Dictionary = () => {
             <strong>{e.bosnian}</strong>
             <span>{e.english}</span>
             <span style={{ color: "var(--color-muted)", fontSize: "0.85rem" }}>
-              Day {e.day}
+              Lesson {e.day}
             </span>
           </div>
         ))}

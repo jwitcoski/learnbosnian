@@ -1,4 +1,4 @@
-# Day 24 video script — Planine i rijeke
+# Lesson 24 video script — Planine i rijeke
 
 _Stub. Write full script when chapter is drafted._
 

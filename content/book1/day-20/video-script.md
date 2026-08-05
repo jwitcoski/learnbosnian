@@ -1,4 +1,4 @@
-# Day 20 video script — Telefonski poziv
+# Lesson 20 video script — Telefonski poziv
 
 _Stub. Write full script when chapter is drafted._
 

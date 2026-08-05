@@ -1,4 +1,4 @@
-# Day 3 video script — Brojevi i kahva
+# Lesson 3 video script — Brojevi i kahva
 
 _Stub. Write full script when chapter is drafted._
 

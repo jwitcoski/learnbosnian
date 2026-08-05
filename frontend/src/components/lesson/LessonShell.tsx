@@ -79,8 +79,8 @@ export default function LessonShell({ chapter }: Props) {
         <div className="hero-copy">
           <div className="meta">
             {chapter.day === 0
-              ? "Day 0 · Orientation"
-              : `Day ${chapter.day} · Week ${chapter.week}`}{" "}
+              ? "Lesson 0 · Orientation"
+              : `Lesson ${chapter.day} · Week ${chapter.week}`}{" "}
             · ~{chapter.estimatedMinutes || 60} min
           </div>
           <h1>{chapter.title}</h1>
@@ -262,7 +262,9 @@ export default function LessonShell({ chapter }: Props) {
         <h2>Section quiz</h2>
         <p>
           Or open the dedicated quiz page:{" "}
-          <Link to={`/quiz/day/${chapter.day}`}>Day {chapter.day} quiz</Link>
+          <Link to={`/quiz/lesson/${chapter.day}`}>
+            Lesson {chapter.day} quiz
+          </Link>
         </p>
         <SectionQuiz chapter={chapter} embedded />
       </Panel>
@@ -273,23 +275,23 @@ export default function LessonShell({ chapter }: Props) {
         <DayNav>
           {prev ? (
             prevOpen ? (
-              <DayNavLink to={`/learn/day/${prev.day}`}>
-                ← Day {prev.day}: {prev.title}
+              <DayNavLink to={`/learn/lesson/${prev.day}`}>
+                ← Lesson {prev.day}: {prev.title}
               </DayNavLink>
             ) : (
-              <span className="soon">← Day {prev.day} · soon</span>
+              <span className="soon">← Lesson {prev.day} · soon</span>
             )
           ) : (
             <Link to="/learn">← All lessons</Link>
           )}
           {next ? (
             nextOpen ? (
-              <DayNavLink $primary to={`/learn/day/${next.day}`}>
-                Day {next.day}: {next.title} →
+              <DayNavLink $primary to={`/learn/lesson/${next.day}`}>
+                Lesson {next.day}: {next.title} →
               </DayNavLink>
             ) : (
               <span className="soon">
-                Day {next.day}: {next.title} · soon
+                Lesson {next.day}: {next.title} · soon
               </span>
             )
           ) : (

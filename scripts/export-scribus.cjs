@@ -35,7 +35,7 @@ const imageManifest = [];
 
 for (const ch of chapters) {
   if (ch.status === "outlined") continue;
-  markdown += `\n---\n\n# Day ${ch.day}: ${ch.title}\n\n`;
+  markdown += `\n---\n\n# Lesson ${ch.day}: ${ch.title}\n\n`;
   markdown += `**English title:** ${ch.titleEn}\n\n`;
   markdown += `**Theme:** ${ch.theme}\n\n`;
   markdown += `**Status:** ${ch.status}\n\n`;
@@ -95,8 +95,8 @@ for (const ch of chapters) {
   const dayFile = path.join(outDir, `day-${String(ch.day).padStart(2, "0")}.md`);
   fs.writeFileSync(
     dayFile,
-    markdown.split(`# Day ${ch.day}:`)[1]
-      ? `# Day ${ch.day}:` + markdown.split(`# Day ${ch.day}:`)[1]
+    markdown.split(`# Lesson ${ch.day}:`)[1]
+      ? `# Lesson ${ch.day}:` + markdown.split(`# Lesson ${ch.day}:`)[1]
       : markdown
   );
 }
