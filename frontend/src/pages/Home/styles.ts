@@ -9,29 +9,13 @@ export const HomeRoot = styled.div`
   width: 100%;
 `;
 
-/** Template-style photo: cream panel + soft kilim color wash */
+/** Cream panel for pencil-sketch illustrations */
 export const StyledPhoto = styled.figure`
   margin: 0;
   position: relative;
-  background:
-    radial-gradient(ellipse at 30% 20%, rgba(212, 160, 23, 0.18), transparent 55%),
-    linear-gradient(160deg, #fff8f0 0%, #f5f0e6 55%, #e8e4ef 100%);
+  background: linear-gradient(160deg, #fffdf8 0%, #f7f1e8 100%);
   padding: 1.15rem 1.15rem 1.85rem;
   border: 1px solid rgba(93, 64, 55, 0.12);
-
-  &::after {
-    content: "";
-    position: absolute;
-    inset: 1.15rem 1.15rem 1.85rem;
-    pointer-events: none;
-    background: linear-gradient(
-      135deg,
-      rgba(198, 40, 40, 0.12),
-      rgba(26, 35, 126, 0.1) 45%,
-      rgba(93, 64, 55, 0.08)
-    );
-    mix-blend-mode: multiply;
-  }
 
   img {
     position: relative;
@@ -41,7 +25,7 @@ export const StyledPhoto = styled.figure`
     height: auto;
     max-height: 420px;
     object-fit: cover;
-    filter: saturate(0.92) contrast(1.04);
+    filter: contrast(1.06);
   }
 
   .credit {
