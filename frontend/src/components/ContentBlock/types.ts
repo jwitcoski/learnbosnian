@@ -1,6 +1,6 @@
 import { TFunction } from "react-i18next";
 export interface ContentBlockProps {
-  icon: string;
+  icon?: string;
   title: string;
   content: string;
   section?: {
@@ -23,4 +23,6 @@ export interface ContentBlockProps {
   direction: "left" | "right";
   onPrimaryClick?: () => void;
   onSecondaryClick?: () => void;
+  /** Cap the side illustration size (e.g. "88px" for brand icons). */
+  iconSize?: string;
 }
