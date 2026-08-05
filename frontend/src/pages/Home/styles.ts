@@ -5,19 +5,58 @@ const fadeUp = keyframes`
   to { opacity: 1; transform: translateY(0); }
 `;
 
-const floatArt = keyframes`
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-8px); }
-`;
-
 export const HomeRoot = styled.div`
   width: 100%;
+`;
+
+/** Template-style photo: cream panel + soft kilim color wash */
+export const StyledPhoto = styled.figure`
+  margin: 0;
+  position: relative;
+  background:
+    radial-gradient(ellipse at 30% 20%, rgba(212, 160, 23, 0.18), transparent 55%),
+    linear-gradient(160deg, #fff8f0 0%, #f5f0e6 55%, #e8e4ef 100%);
+  padding: 1.15rem 1.15rem 1.85rem;
+  border: 1px solid rgba(93, 64, 55, 0.12);
+
+  &::after {
+    content: "";
+    position: absolute;
+    inset: 1.15rem 1.15rem 1.85rem;
+    pointer-events: none;
+    background: linear-gradient(
+      135deg,
+      rgba(198, 40, 40, 0.12),
+      rgba(26, 35, 126, 0.1) 45%,
+      rgba(93, 64, 55, 0.08)
+    );
+    mix-blend-mode: multiply;
+  }
+
+  img {
+    position: relative;
+    z-index: 0;
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 420px;
+    object-fit: cover;
+    filter: saturate(0.92) contrast(1.04);
+  }
+
+  .credit {
+    display: block;
+    margin-top: 0.55rem;
+    font-size: 0.72rem;
+    color: var(--color-muted);
+    line-height: 1.35;
+  }
 `;
 
 export const Hero = styled.section`
   display: grid;
   grid-template-columns: 1.05fr 1fr;
-  gap: 1.5rem;
+  gap: 2rem;
   align-items: center;
   max-width: 1100px;
   margin: 0 auto;
@@ -29,6 +68,10 @@ export const Hero = styled.section`
     grid-template-columns: 1fr;
     min-height: auto;
     padding-top: 1.75rem;
+
+    ${StyledPhoto} {
+      order: -1;
+    }
   }
 
   .hero-copy {
@@ -57,29 +100,6 @@ export const Hero = styled.section`
     display: flex;
     flex-wrap: wrap;
     gap: 0.75rem;
-  }
-
-  .hero-art {
-    animation: ${floatArt} 7s ease-in-out infinite;
-
-    @media (max-width: 860px) {
-      order: -1;
-      animation: none;
-    }
-  }
-`;
-
-export const FigureArt = styled.div`
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
-  img {
-    width: 100%;
-    max-width: 520px;
-    height: auto;
-    display: block;
   }
 `;
 
@@ -200,15 +220,11 @@ export const Illustrate = styled.section<{ $flip?: boolean }>`
     }
   }
 
-  ${FigureArt} {
+  ${StyledPhoto} {
     order: ${(p) => (p.$flip ? 1 : 2)};
 
     @media (max-width: 860px) {
       order: 1;
-    }
-
-    img {
-      max-width: 460px;
     }
   }
 `;
