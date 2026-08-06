@@ -217,9 +217,8 @@ export default function App() {
     return clips.filter((c) => {
       if (filter === "missing") return !c.recorded;
       if (filter === "mine" && voice) {
-        const genderOk =
-          c.preferredGender === "any" || c.preferredGender === voice.gender;
-        return genderOk && !c.recorded;
+        // Exclusive ownership: each talent only sees their assigned lines
+        return c.assignedVoiceId === voice.id && !c.recorded;
       }
       return true;
     });
@@ -236,6 +235,13 @@ export default function App() {
 
   const onAcceptUpload = async () => {
     if (!activeClip || !voice || !recorder.blob) return;
+    if (activeClip.assignedVoiceId !== voice.id) {
+      setStatusMsg(
+        `This line is assigned to ${activeClip.assignedVoiceId}, not ${voice.id}.`
+      );
+      setConfirmAccept(false);
+      return;
+    }
     setStatusMsg(null);
     setBusy(true);
     try {
@@ -309,8 +315,9 @@ export default function App() {
           <p className="eyebrow">Step 1</p>
           <h1>Which voice are you recording?</h1>
           <p className="lede">
-            Female 1 covers all vocabulary. Male 1 covers male dialogue. Female 2
-            and Male 2 are extras when a second take is needed.
+            Each voice only sees their own queue: Female 1 = vocab + Ana +
+            narrator; Male 1 = Emir; Female 2 = Amira; Male 2 = shopkeeper &amp;
+            Mrvica.
           </p>
         </header>
         <div className="voice-grid">
@@ -374,8 +381,8 @@ export default function App() {
         </select>
         {voice?.description && <p className="meta">{voice.description}</p>}
         <p className="meta">
-          {recordedCount}/{total} clips uploaded · Female 1 = vocab · Male 1 =
-          male parts · F2/M2 if needed
+          {recordedCount}/{total} clips uploaded · each voice sees only its own
+          assigned lines
         </p>
         <button
           type="button"
@@ -467,13 +474,11 @@ export default function App() {
                   {c.speaker && (
                     <div className="speaker">
                       {c.speaker}
-                      {c.preferredGender !== "any" && (
-                        <span> · prefer {c.preferredGender}</span>
-                      )}
+                      <span> · {c.assignedVoiceId}</span>
                     </div>
                   )}
                   {!c.speaker && c.type === "vocab" && (
-                    <div className="speaker">Vocab · Female 1</div>
+                    <div className="speaker">Vocab · {c.assignedVoiceId}</div>
                   )}
                   <div className="bs">{c.bosnian}</div>
                   <div className="en">{c.english}</div>

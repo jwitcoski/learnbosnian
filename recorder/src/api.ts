@@ -16,6 +16,8 @@ export type Clip = {
   english: string;
   pronunciation?: string;
   preferredGender: "female" | "male" | "any";
+  /** Exact voice talent who owns this clip (exclusive queue). */
+  assignedVoiceId: string;
   speaker: string | null;
   s3Key: string;
   recorded: boolean;

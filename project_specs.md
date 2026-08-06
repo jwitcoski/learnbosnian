@@ -83,7 +83,7 @@ Teaser outlines only — see `content/book2/outline.json` and `content/book3/out
 ## Voice recording
 
 - Private studio: `recorder/` (iPhone Safari MediaRecorder → trim start/end → playback → accept → S3)
-- Roles: Female 1 = main vocab VO; Male 1 = male dialogue; Female 2 / Male 2 if needed
+- Exclusive queues: Female 1 = vocab + Ana + narrator; Male 1 = Emir; Female 2 = Amira; Male 2 = shopkeeper + Mrvica
 - Playback: click vocab / dialogue in `LessonShell`
 - Ops doc: [`docs/VOICE-RECORDING.md`](docs/VOICE-RECORDING.md)
 - Shared password: `GornjiVakuf` — apply Terraform, share recorder URL with voice talents

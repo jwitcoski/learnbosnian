@@ -2,31 +2,31 @@
   "voices": [
     {
       "id": "female-1",
-      "displayName": "Female 1 — main vocab",
+      "displayName": "Female 1 — vocab, Ana, narrator",
       "gender": "female",
       "role": "primary",
-      "description": "Main voice-over for all vocabulary clips, plus female dialogue when needed."
+      "description": "All vocabulary, Ana’s dialogue, and narrator lines."
     },
     {
       "id": "male-1",
-      "displayName": "Male 1 — male parts",
+      "displayName": "Male 1 — Emir",
       "gender": "male",
       "role": "primary",
-      "description": "Primary voice for male dialogue lines (e.g. Emir)."
+      "description": "Emir’s dialogue lines only."
     },
     {
       "id": "female-2",
-      "displayName": "Female 2 — if needed",
+      "displayName": "Female 2 — Amira",
       "gender": "female",
-      "role": "backup",
-      "description": "Extra female voice when a second female take is needed."
+      "role": "primary",
+      "description": "Amira’s dialogue lines only."
     },
     {
       "id": "male-2",
-      "displayName": "Male 2 — if needed",
+      "displayName": "Male 2 — shopkeeper & Mrvica",
       "gender": "male",
-      "role": "backup",
-      "description": "Extra male voice when a second male take is needed."
+      "role": "primary",
+      "description": "Shopkeeper and Mrvica (cat) lines — always the same voice."
     }
   ]
 }

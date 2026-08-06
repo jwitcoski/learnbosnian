@@ -105,6 +105,7 @@ module.exports.handler = async (event) => {
       const dayFilter = event.queryStringParameters?.day;
       const typeFilter = event.queryStringParameters?.type;
       const genderFilter = event.queryStringParameters?.gender;
+      const voiceFilter = event.queryStringParameters?.voiceId;
 
       let clips = catalog.clips || [];
       if (dayFilter != null && dayFilter !== "") {
@@ -114,7 +115,9 @@ module.exports.handler = async (event) => {
       if (typeFilter) {
         clips = clips.filter((c) => c.type === typeFilter);
       }
-      if (genderFilter && genderFilter !== "any") {
+      if (voiceFilter) {
+        clips = clips.filter((c) => c.assignedVoiceId === voiceFilter);
+      } else if (genderFilter && genderFilter !== "any") {
         clips = clips.filter(
           (c) =>
             c.preferredGender === "any" || c.preferredGender === genderFilter
@@ -168,6 +171,15 @@ module.exports.handler = async (event) => {
       if (!voiceOk) {
         return json(400, { error: "Unknown voiceId" }, origin);
       }
+      if (clip.assignedVoiceId && clip.assignedVoiceId !== voiceId) {
+        return json(
+          403,
+          {
+            error: `Clip is assigned to ${clip.assignedVoiceId}, not ${voiceId}`,
+          },
+          origin
+        );
+      }
 
       const s3Key = clip.s3Key || `clips/${clipId}`;
       const uploadUrl = await s3.getSignedUrlPromise("putObject", {
@@ -209,6 +221,15 @@ module.exports.handler = async (event) => {
       const clip = (catalog.clips || []).find((c) => c.id === clipId);
       if (!clip) {
         return json(404, { error: "Unknown clipId" }, origin);
+      }
+      if (clip.assignedVoiceId && clip.assignedVoiceId !== voiceId) {
+        return json(
+          403,
+          {
+            error: `Clip is assigned to ${clip.assignedVoiceId}, not ${voiceId}`,
+          },
+          origin
+        );
       }
 
       const now = new Date().toISOString();

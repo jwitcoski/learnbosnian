@@ -1,43 +1,70 @@
 {
-  "generatedAt": "2026-08-06T00:16:53.947Z",
+  "generatedAt": "2026-08-06T00:43:30.050Z",
   "voiceProfiles": [
     {
       "id": "female-1",
-      "displayName": "Female 1 — main vocab",
+      "displayName": "Female 1 — vocab, Ana, narrator",
       "gender": "female",
       "role": "primary",
-      "description": "Main voice-over for all vocabulary clips, plus female dialogue when needed."
+      "description": "All vocabulary, Ana’s dialogue, and narrator lines."
     },
     {
       "id": "male-1",
-      "displayName": "Male 1 — male parts",
+      "displayName": "Male 1 — Emir",
       "gender": "male",
       "role": "primary",
-      "description": "Primary voice for male dialogue lines (e.g. Emir)."
+      "description": "Emir’s dialogue lines only."
     },
     {
       "id": "female-2",
-      "displayName": "Female 2 — if needed",
+      "displayName": "Female 2 — Amira",
       "gender": "female",
-      "role": "backup",
-      "description": "Extra female voice when a second female take is needed."
+      "role": "primary",
+      "description": "Amira’s dialogue lines only."
     },
     {
       "id": "male-2",
-      "displayName": "Male 2 — if needed",
+      "displayName": "Male 2 — shopkeeper & Mrvica",
       "gender": "male",
-      "role": "backup",
-      "description": "Extra male voice when a second male take is needed."
+      "role": "primary",
+      "description": "Shopkeeper and Mrvica (cat) lines — always the same voice."
     }
   ],
   "speakerGenders": {
     "Ana": "female",
     "Amira": "female",
     "Emir": "male",
-    "Mrvica": "any",
-    "Narrator": "any",
-    "Shopkeeper": "any"
+    "Narrator": "female",
+    "Shopkeeper": "male",
+    "Mrvica": "male"
   },
+  "speakerVoices": {
+    "Ana": {
+      "voiceId": "female-1",
+      "gender": "female"
+    },
+    "Amira": {
+      "voiceId": "female-2",
+      "gender": "female"
+    },
+    "Emir": {
+      "voiceId": "male-1",
+      "gender": "male"
+    },
+    "Narrator": {
+      "voiceId": "female-1",
+      "gender": "female"
+    },
+    "Shopkeeper": {
+      "voiceId": "male-2",
+      "gender": "male"
+    },
+    "Mrvica": {
+      "voiceId": "male-2",
+      "gender": "male"
+    }
+  },
+  "vocabVoiceId": "female-1",
   "total": 85,
   "clips": [
     {
@@ -50,6 +77,7 @@
       "english": "Bosnian (language / adjective)",
       "pronunciation": "bo-SAHN-ski",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d00-vocab-bosanski"
     },
@@ -63,6 +91,7 @@
       "english": "language / tongue",
       "pronunciation": "YEH-zeek",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d00-vocab-jezik"
     },
@@ -76,6 +105,7 @@
       "english": "Bosnia and Herzegovina",
       "pronunciation": "BOS-nah ee her-tseh-go-VEE-nah",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d00-vocab-bosna-i-hercegovina"
     },
@@ -89,6 +119,7 @@
       "english": "BiH (short for Bosnia and Herzegovina)",
       "pronunciation": "beh-ee-hah",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d00-vocab-bih"
     },
@@ -102,6 +133,7 @@
       "english": "welcome (plural / formal)",
       "pronunciation": "do-bro-DOSH-lee",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d00-vocab-dobrodosli"
     },
@@ -115,6 +147,7 @@
       "english": "to learn / to study",
       "pronunciation": "OO-chee-tee",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d00-vocab-uciti"
     },
@@ -128,6 +161,7 @@
       "english": "Ana (learner character)",
       "pronunciation": "AH-nah",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d00-vocab-ana"
     },
@@ -141,6 +175,7 @@
       "english": "Emir (guide character)",
       "pronunciation": "eh-MEER",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d00-vocab-emir"
     },
@@ -154,6 +189,7 @@
       "english": "Amira (café owner)",
       "pronunciation": "ah-MEER-ah",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d00-vocab-amira"
     },
@@ -167,6 +203,7 @@
       "english": "Mrvica (the cat)",
       "pronunciation": "MR-vee-tsa",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d00-vocab-mrvica"
     },
@@ -179,7 +216,8 @@
       "bosnian": "Dobrodošli.",
       "english": "Welcome.",
       "pronunciation": "",
-      "preferredGender": "any",
+      "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": "Narrator",
       "conversationTitle": "A preview on the plane",
       "s3Key": "clips/b1-d00-dialogue-00"
@@ -194,6 +232,7 @@
       "english": "I am learning Bosnian.",
       "pronunciation": "",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": "Ana",
       "conversationTitle": "A preview on the plane",
       "s3Key": "clips/b1-d00-dialogue-01"
@@ -207,7 +246,8 @@
       "bosnian": "Bosanski jezik. Bosna i Hercegovina.",
       "english": "Bosnian language. Bosnia and Herzegovina.",
       "pronunciation": "",
-      "preferredGender": "any",
+      "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": "Narrator",
       "conversationTitle": "A preview on the plane",
       "s3Key": "clips/b1-d00-dialogue-02"
@@ -222,6 +262,7 @@
       "english": "BiH… Ana.",
       "pronunciation": "",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": "Ana",
       "conversationTitle": "A preview on the plane",
       "s3Key": "clips/b1-d00-dialogue-03"
@@ -235,7 +276,8 @@
       "bosnian": "Emir, Amira, Mrvica… sutra.",
       "english": "Emir, Amira, Mrvica… tomorrow.",
       "pronunciation": "",
-      "preferredGender": "any",
+      "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": "Narrator",
       "conversationTitle": "A preview on the plane",
       "s3Key": "clips/b1-d00-dialogue-04"
@@ -250,6 +292,7 @@
       "english": "Welcome, Bosnia! (Ana practicing aloud)",
       "pronunciation": "",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": "Ana",
       "conversationTitle": "A preview on the plane",
       "s3Key": "clips/b1-d00-dialogue-05"
@@ -264,6 +307,7 @@
       "english": "hello (informal)",
       "pronunciation": "ZDRAH-voh",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-zdravo"
     },
@@ -277,6 +321,7 @@
       "english": "good day / hello (polite)",
       "pronunciation": "DOH-bar dahn",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-dobar-dan"
     },
@@ -290,6 +335,7 @@
       "english": "good morning",
       "pronunciation": "DOH-bro YOO-tro",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-dobro-jutro"
     },
@@ -303,6 +349,7 @@
       "english": "good evening",
       "pronunciation": "DOH-bra VEH-cher",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-dobra-vecer"
     },
@@ -316,6 +363,7 @@
       "english": "thank you",
       "pronunciation": "HVAH-lah",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-hvala"
     },
@@ -329,6 +377,7 @@
       "english": "please / you're welcome",
       "pronunciation": "MOH-leem",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-molim"
     },
@@ -342,6 +391,7 @@
       "english": "goodbye",
       "pronunciation": "doh-vee-JEN-ya",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-dovidjenja"
     },
@@ -355,6 +405,7 @@
       "english": "yes",
       "pronunciation": "dah",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-da"
     },
@@ -368,6 +419,7 @@
       "english": "no",
       "pronunciation": "neh",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-ne"
     },
@@ -381,6 +433,7 @@
       "english": "Sarajevo",
       "pronunciation": "sah-rah-YEH-voh",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-sarajevo"
     },
@@ -394,6 +447,7 @@
       "english": "Baščaršija (old bazaar)",
       "pronunciation": "bash-CHAR-shi-ya",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-bascarsija"
     },
@@ -407,6 +461,7 @@
       "english": "street",
       "pronunciation": "OO-lee-tsa",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-ulica"
     },
@@ -420,6 +475,7 @@
       "english": "tea",
       "pronunciation": "chigh",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-caj"
     },
@@ -433,6 +489,7 @@
       "english": "woman / wife",
       "pronunciation": "ZHEH-nah",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-zena"
     },
@@ -446,6 +503,7 @@
       "english": "pupil / schoolchild",
       "pronunciation": "jak",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-djak"
     },
@@ -459,6 +517,7 @@
       "english": "coffee pot (cezve)",
       "pronunciation": "JEZ-vah",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-dzezva"
     },
@@ -472,6 +531,7 @@
       "english": "Good day!",
       "pronunciation": "",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": "Ana",
       "conversationTitle": "Ana’s first hello",
       "s3Key": "clips/b1-d01-dialogue-00"
@@ -485,7 +545,8 @@
       "bosnian": "Dobar dan! Molim?",
       "english": "Good day! Yes? / Can I help you?",
       "pronunciation": "",
-      "preferredGender": "any",
+      "preferredGender": "male",
+      "assignedVoiceId": "male-2",
       "speaker": "Shopkeeper",
       "conversationTitle": "Ana’s first hello",
       "s3Key": "clips/b1-d01-dialogue-01"
@@ -500,6 +561,7 @@
       "english": "Thank you… tea?",
       "pronunciation": "",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": "Ana",
       "conversationTitle": "Ana’s first hello",
       "s3Key": "clips/b1-d01-dialogue-02"
@@ -513,7 +575,8 @@
       "bosnian": "Da. Čaj. Molim!",
       "english": "Yes. Tea. Here you are! / Please!",
       "pronunciation": "",
-      "preferredGender": "any",
+      "preferredGender": "male",
+      "assignedVoiceId": "male-2",
       "speaker": "Shopkeeper",
       "conversationTitle": "Ana’s first hello",
       "s3Key": "clips/b1-d01-dialogue-03"
@@ -528,6 +591,7 @@
       "english": "Thank you! Goodbye!",
       "pronunciation": "",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": "Ana",
       "conversationTitle": "Ana’s first hello",
       "s3Key": "clips/b1-d01-dialogue-04"
@@ -541,7 +605,8 @@
       "bosnian": "Doviđenja!",
       "english": "Goodbye!",
       "pronunciation": "",
-      "preferredGender": "any",
+      "preferredGender": "male",
+      "assignedVoiceId": "male-2",
       "speaker": "Shopkeeper",
       "conversationTitle": "Ana’s first hello",
       "s3Key": "clips/b1-d01-dialogue-05"
@@ -555,7 +620,8 @@
       "bosnian": "Mrvica mjauče. Ana kaže: Zdravo!",
       "english": "Mrvica meows. Ana says: Hello!",
       "pronunciation": "",
-      "preferredGender": "any",
+      "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": "Narrator",
       "conversationTitle": "Ana’s first hello",
       "s3Key": "clips/b1-d01-dialogue-06"
@@ -570,6 +636,7 @@
       "english": "I",
       "pronunciation": "yah",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-ja"
     },
@@ -583,6 +650,7 @@
       "english": "you (informal singular)",
       "pronunciation": "tee",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-ti"
     },
@@ -596,6 +664,7 @@
       "english": "he",
       "pronunciation": "ohn",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-on"
     },
@@ -609,6 +678,7 @@
       "english": "she",
       "pronunciation": "OH-nah",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-ona"
     },
@@ -622,6 +692,7 @@
       "english": "am (I am)",
       "pronunciation": "sahm",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-sam"
     },
@@ -635,6 +706,7 @@
       "english": "are (you are)",
       "pronunciation": "see",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-si"
     },
@@ -648,6 +720,7 @@
       "english": "is (he/she/it is)",
       "pronunciation": "yeh",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-je"
     },
@@ -661,6 +734,7 @@
       "english": "my name is / I am called",
       "pronunciation": "ZOH-vem seh",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-zovem-se"
     },
@@ -674,6 +748,7 @@
       "english": "name",
       "pronunciation": "EE-meh",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-ime"
     },
@@ -687,6 +762,7 @@
       "english": "from",
       "pronunciation": "eez",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-iz"
     },
@@ -700,6 +776,7 @@
       "english": "nice to meet you",
       "pronunciation": "DRAH-go mee yeh",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-drago-mi-je"
     },
@@ -713,6 +790,7 @@
       "english": "Sebilj (wooden fountain in Baščaršija)",
       "pronunciation": "seh-BEEL",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-sebilj"
     },
@@ -726,6 +804,7 @@
       "english": "guide",
       "pronunciation": "VOH-dich",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-vodic"
     },
@@ -739,6 +818,7 @@
       "english": "friend (male)",
       "pronunciation": "pree-YAH-telj",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-prijatelj"
     },
@@ -752,6 +832,7 @@
       "english": "Hello! Are you Ana?",
       "pronunciation": "",
       "preferredGender": "male",
+      "assignedVoiceId": "male-1",
       "speaker": "Emir",
       "conversationTitle": "Kod Sebilja",
       "s3Key": "clips/b1-d02-dialogue-00"
@@ -766,6 +847,7 @@
       "english": "Yes! I am Ana. My name is Ana.",
       "pronunciation": "",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": "Ana",
       "conversationTitle": "Kod Sebilja",
       "s3Key": "clips/b1-d02-dialogue-01"
@@ -780,6 +862,7 @@
       "english": "Nice to meet you! I am Emir.",
       "pronunciation": "",
       "preferredGender": "male",
+      "assignedVoiceId": "male-1",
       "speaker": "Emir",
       "conversationTitle": "Kod Sebilja",
       "s3Key": "clips/b1-d02-dialogue-02"
@@ -794,6 +877,7 @@
       "english": "Nice to meet you, Emir. Are you from Sarajevo?",
       "pronunciation": "",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": "Ana",
       "conversationTitle": "Kod Sebilja",
       "s3Key": "clips/b1-d02-dialogue-03"
@@ -808,6 +892,7 @@
       "english": "Yes. I am from Sarajevo. That — Sebilj — is here.",
       "pronunciation": "",
       "preferredGender": "male",
+      "assignedVoiceId": "male-1",
       "speaker": "Emir",
       "conversationTitle": "Kod Sebilja",
       "s3Key": "clips/b1-d02-dialogue-04"
@@ -822,6 +907,7 @@
       "english": "Thank you! Are you a guide?",
       "pronunciation": "",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": "Ana",
       "conversationTitle": "Kod Sebilja",
       "s3Key": "clips/b1-d02-dialogue-05"
@@ -836,6 +922,7 @@
       "english": "Yes, I am a guide. Let’s go!",
       "pronunciation": "",
       "preferredGender": "male",
+      "assignedVoiceId": "male-1",
       "speaker": "Emir",
       "conversationTitle": "Kod Sebilja",
       "s3Key": "clips/b1-d02-dialogue-06"
@@ -849,7 +936,8 @@
       "bosnian": "Mrvica gleda. Sutra: kahva.",
       "english": "Mrvica watches. Tomorrow: coffee.",
       "pronunciation": "",
-      "preferredGender": "any",
+      "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": "Narrator",
       "conversationTitle": "Kod Sebilja",
       "s3Key": "clips/b1-d02-dialogue-07"
@@ -864,6 +952,7 @@
       "english": "one",
       "pronunciation": "YEH-dan",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-jedan"
     },
@@ -877,6 +966,7 @@
       "english": "two",
       "pronunciation": "dvah",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-dva"
     },
@@ -890,6 +980,7 @@
       "english": "three",
       "pronunciation": "tree",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-tri"
     },
@@ -903,6 +994,7 @@
       "english": "four",
       "pronunciation": "CHE-tee-ree",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-cetiri"
     },
@@ -916,6 +1008,7 @@
       "english": "five",
       "pronunciation": "pet",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-pet"
     },
@@ -929,6 +1022,7 @@
       "english": "six",
       "pronunciation": "shest",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-sest"
     },
@@ -942,6 +1036,7 @@
       "english": "seven",
       "pronunciation": "SEH-dam",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-sedam"
     },
@@ -955,6 +1050,7 @@
       "english": "eight",
       "pronunciation": "OH-sam",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-osam"
     },
@@ -968,6 +1064,7 @@
       "english": "nine",
       "pronunciation": "DEH-vet",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-devet"
     },
@@ -981,6 +1078,7 @@
       "english": "ten",
       "pronunciation": "DEH-set",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-deset"
     },
@@ -994,6 +1092,7 @@
       "english": "fifteen",
       "pronunciation": "pet-NAH-est",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-petnaest"
     },
@@ -1007,6 +1106,7 @@
       "english": "twenty",
       "pronunciation": "DVAH-deh-set",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-dvadeset"
     },
@@ -1020,6 +1120,7 @@
       "english": "how many / how much",
       "pronunciation": "KOH-lee-koh",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-koliko"
     },
@@ -1033,6 +1134,7 @@
       "english": "coffee (BiH form)",
       "pronunciation": "KAH-vah",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-kahva"
     },
@@ -1046,6 +1148,7 @@
       "english": "small coffee cup",
       "pronunciation": "FIL-jan",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-fildzan"
     },
@@ -1059,6 +1162,7 @@
       "english": "Turkish delight / rahat lokum",
       "pronunciation": "LOH-koom",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-lokum"
     },
@@ -1072,6 +1176,7 @@
       "english": "Good day! Yes? / What can I get you?",
       "pronunciation": "",
       "preferredGender": "female",
+      "assignedVoiceId": "female-2",
       "speaker": "Amira",
       "conversationTitle": "Kod Amire",
       "s3Key": "clips/b1-d03-dialogue-00"
@@ -1086,6 +1191,7 @@
       "english": "Good day! One coffee, please.",
       "pronunciation": "",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": "Ana",
       "conversationTitle": "Kod Amire",
       "s3Key": "clips/b1-d03-dialogue-01"
@@ -1100,6 +1206,7 @@
       "english": "And me — one coffee. Two cups.",
       "pronunciation": "",
       "preferredGender": "male",
+      "assignedVoiceId": "male-1",
       "speaker": "Emir",
       "conversationTitle": "Kod Amire",
       "s3Key": "clips/b1-d03-dialogue-02"
@@ -1114,6 +1221,7 @@
       "english": "Good. How many lokum? One? Two?",
       "pronunciation": "",
       "preferredGender": "female",
+      "assignedVoiceId": "female-2",
       "speaker": "Amira",
       "conversationTitle": "Kod Amire",
       "s3Key": "clips/b1-d03-dialogue-03"
@@ -1128,6 +1236,7 @@
       "english": "Two, please. Thank you!",
       "pronunciation": "",
       "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": "Ana",
       "conversationTitle": "Kod Amire",
       "s3Key": "clips/b1-d03-dialogue-04"
@@ -1142,6 +1251,7 @@
       "english": "You’re welcome! The coffee is here.",
       "pronunciation": "",
       "preferredGender": "female",
+      "assignedVoiceId": "female-2",
       "speaker": "Amira",
       "conversationTitle": "Kod Amire",
       "s3Key": "clips/b1-d03-dialogue-05"
@@ -1155,7 +1265,8 @@
       "bosnian": "Mrvica skače. Ana: Zdravo, Mrvica!",
       "english": "Mrvica jumps up. Ana: Hello, Mrvica!",
       "pronunciation": "",
-      "preferredGender": "any",
+      "preferredGender": "female",
+      "assignedVoiceId": "female-1",
       "speaker": "Narrator",
       "conversationTitle": "Kod Amire",
       "s3Key": "clips/b1-d03-dialogue-06"
@@ -1170,6 +1281,7 @@
       "english": "She is Mrvica. A cat!",
       "pronunciation": "",
       "preferredGender": "male",
+      "assignedVoiceId": "male-1",
       "speaker": "Emir",
       "conversationTitle": "Kod Amire",
       "s3Key": "clips/b1-d03-dialogue-07"

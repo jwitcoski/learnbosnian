@@ -1,11 +1,12 @@
 {
+  "vocabVoiceId": "female-1",
   "speakers": {
-    "Ana": "female",
-    "Amira": "female",
-    "Emir": "male",
-    "Mrvica": "any",
-    "Narrator": "any",
-    "Shopkeeper": "any"
+    "Ana": { "voiceId": "female-1", "gender": "female" },
+    "Amira": { "voiceId": "female-2", "gender": "female" },
+    "Emir": { "voiceId": "male-1", "gender": "male" },
+    "Narrator": { "voiceId": "female-1", "gender": "female" },
+    "Shopkeeper": { "voiceId": "male-2", "gender": "male" },
+    "Mrvica": { "voiceId": "male-2", "gender": "male" }
   },
-  "default": "any"
+  "default": { "voiceId": "female-1", "gender": "female" }
 }

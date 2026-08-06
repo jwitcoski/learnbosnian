@@ -40,6 +40,27 @@ function loadJson(filePath, fallback) {
   return JSON.parse(fs.readFileSync(filePath, "utf8"));
 }
 
+/** Normalize speaker → { voiceId, gender } (supports legacy string gender map). */
+function resolveSpeakerAssignment(genders, speaker) {
+  const raw =
+    (speaker && genders.speakers && genders.speakers[speaker]) ||
+    genders.default ||
+    { voiceId: "female-1", gender: "female" };
+
+  if (typeof raw === "string") {
+    return {
+      voiceId:
+        raw === "male" ? "male-1" : raw === "female" ? "female-1" : "female-1",
+      gender: raw === "male" ? "male" : raw === "female" ? "female" : "any",
+    };
+  }
+
+  return {
+    voiceId: raw.voiceId || "female-1",
+    gender: raw.gender || "female",
+  };
+}
+
 function buildClipsCatalog(rootDir) {
   const contentDir = path.join(rootDir, "content");
   const voices = loadJson(path.join(contentDir, "audio", "voice-profiles.json"), {
@@ -47,8 +68,16 @@ function buildClipsCatalog(rootDir) {
   });
   const genders = loadJson(
     path.join(contentDir, "audio", "speaker-genders.json"),
-    { speakers: {}, default: "any" }
+    {
+      vocabVoiceId: "female-1",
+      speakers: {},
+      default: { voiceId: "female-1", gender: "female" },
+    }
   );
+
+  const vocabVoiceId = genders.vocabVoiceId || "female-1";
+  const vocabVoice = (voices.voices || []).find((v) => v.id === vocabVoiceId);
+  const vocabGender = vocabVoice?.gender || "female";
 
   const clips = [];
 
@@ -75,8 +104,8 @@ function buildClipsCatalog(rootDir) {
           bosnian: v.bosnian,
           english: v.english,
           pronunciation: v.pronunciation || "",
-          // Female 1 is the main vocab voice-over
-          preferredGender: "female",
+          preferredGender: vocabGender,
+          assignedVoiceId: vocabVoiceId,
           speaker: null,
           s3Key: s3KeyForClip(id),
         });
@@ -85,8 +114,7 @@ function buildClipsCatalog(rootDir) {
       const lines = chapter.conversation?.lines || [];
       lines.forEach((line, index) => {
         const id = dialogueClipId(book, day, index);
-        const preferredGender =
-          genders.speakers[line.speaker] || genders.default || "any";
+        const assignment = resolveSpeakerAssignment(genders, line.speaker);
         clips.push({
           id,
           book,
@@ -96,7 +124,8 @@ function buildClipsCatalog(rootDir) {
           bosnian: line.bosnian,
           english: line.english,
           pronunciation: "",
-          preferredGender,
+          preferredGender: assignment.gender,
+          assignedVoiceId: assignment.voiceId,
           speaker: line.speaker,
           conversationTitle: chapter.conversation?.title || "",
           s3Key: s3KeyForClip(id),
@@ -105,10 +134,19 @@ function buildClipsCatalog(rootDir) {
     }
   }
 
+  const speakerVoices = {};
+  for (const [name, raw] of Object.entries(genders.speakers || {})) {
+    speakerVoices[name] = resolveSpeakerAssignment(genders, name);
+  }
+
   return {
     generatedAt: new Date().toISOString(),
     voiceProfiles: voices.voices || [],
-    speakerGenders: genders.speakers || {},
+    speakerGenders: Object.fromEntries(
+      Object.entries(speakerVoices).map(([k, v]) => [k, v.gender])
+    ),
+    speakerVoices,
+    vocabVoiceId,
     total: clips.length,
     clips,
   };
@@ -121,4 +159,5 @@ module.exports = {
   dialogueClipId,
   s3KeyForClip,
   buildClipsCatalog,
+  resolveSpeakerAssignment,
 };
