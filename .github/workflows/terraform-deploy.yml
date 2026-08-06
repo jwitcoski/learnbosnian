@@ -158,9 +158,14 @@ jobs:
 
       - name: Terraform Apply
         env:
-          TF_VAR_recording_password: ${{ secrets.RECORDING_PASSWORD }}
-          TF_VAR_audio_token_secret: ${{ secrets.AUDIO_TOKEN_SECRET }}
-        run: terraform apply -auto-approve -var="stage=${STAGE}" -input=false
+          # Empty GitHub secrets must NOT become TF_VAR_*='' (that overrides defaults)
+          RECORDING_PASSWORD_SECRET: ${{ secrets.RECORDING_PASSWORD }}
+          AUDIO_TOKEN_SECRET_SECRET: ${{ secrets.AUDIO_TOKEN_SECRET }}
+        run: |
+          # Default shared studio password when no repo secret is set
+          export TF_VAR_recording_password="${RECORDING_PASSWORD_SECRET:-GornjiVakuf}"
+          export TF_VAR_audio_token_secret="${AUDIO_TOKEN_SECRET_SECRET:-GornjiVakuf-audio-token}"
+          terraform apply -auto-approve -var="stage=${STAGE}" -input=false
         continue-on-error: true
 
       - name: Read infra outputs
