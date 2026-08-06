@@ -13,6 +13,15 @@ env:
   # Stable IDs from the first successful CloudFront deploy
   CLOUDFRONT_DISTRIBUTION_ID: E22QTEONDMDA3Z
   S3_BUCKET: learn-bosnian-frontend-prod
+  # Audio / recorder (created by first audio.tf apply; imported each run)
+  AUDIO_CLOUDFRONT_DISTRIBUTION_ID: E1N23323AD0C24
+  AUDIO_CLOUDFRONT_URL: https://d2x0bm1qxn5szq.cloudfront.net
+  AUDIO_API_URL: https://btmud046ok.execute-api.us-east-1.amazonaws.com/prod
+  AUDIO_API_ID: btmud046ok
+  RECORDER_CLOUDFRONT_DISTRIBUTION_ID: E2JB1ZR37PXHXX
+  RECORDER_CLOUDFRONT_URL: https://d13sxy8sx1wedn.cloudfront.net
+  RECORDER_BUCKET: learn-bosnian-recorder-prod
+  AUDIO_BUCKET: learn-bosnian-audio-prod
 
 jobs:
   terraform-plan:
@@ -97,9 +106,54 @@ jobs:
           if [ -n "$OAC_ID" ] && [ "$OAC_ID" != "None" ]; then
             terraform import -var="stage=${STAGE}" aws_cloudfront_origin_access_control.frontend "$OAC_ID"
           fi
-          # Best-effort import for audio/recorder resources if they already exist
-          terraform import -var="stage=${STAGE}" aws_s3_bucket.audio "learn-bosnian-audio-${STAGE}"
-          terraform import -var="stage=${STAGE}" aws_s3_bucket.recorder "learn-bosnian-recorder-${STAGE}"
+
+          # Audio + recorder (state is local to the runner, so re-import every deploy)
+          terraform import -var="stage=${STAGE}" aws_s3_bucket.audio "${AUDIO_BUCKET}"
+          terraform import -var="stage=${STAGE}" aws_s3_bucket.recorder "${RECORDER_BUCKET}"
+          terraform import -var="stage=${STAGE}" aws_s3_bucket_public_access_block.audio "${AUDIO_BUCKET}"
+          terraform import -var="stage=${STAGE}" aws_s3_bucket_public_access_block.recorder "${RECORDER_BUCKET}"
+          terraform import -var="stage=${STAGE}" aws_s3_bucket_cors_configuration.audio "${AUDIO_BUCKET}"
+          terraform import -var="stage=${STAGE}" aws_s3_bucket_policy.audio "${AUDIO_BUCKET}"
+          terraform import -var="stage=${STAGE}" aws_s3_bucket_policy.recorder "${RECORDER_BUCKET}"
+          terraform import -var="stage=${STAGE}" aws_cloudfront_distribution.audio "${AUDIO_CLOUDFRONT_DISTRIBUTION_ID}"
+          terraform import -var="stage=${STAGE}" aws_cloudfront_distribution.recorder "${RECORDER_CLOUDFRONT_DISTRIBUTION_ID}"
+
+          AUDIO_OAC=$(aws cloudfront list-origin-access-controls \
+            --query "OriginAccessControlList.Items[?Name=='learnbosnian-audio-oac-${STAGE}'].Id | [0]" \
+            --output text)
+          if [ -n "$AUDIO_OAC" ] && [ "$AUDIO_OAC" != "None" ]; then
+            terraform import -var="stage=${STAGE}" aws_cloudfront_origin_access_control.audio "$AUDIO_OAC"
+          fi
+          RECORDER_OAC=$(aws cloudfront list-origin-access-controls \
+            --query "OriginAccessControlList.Items[?Name=='learnbosnian-recorder-oac-${STAGE}'].Id | [0]" \
+            --output text)
+          if [ -n "$RECORDER_OAC" ] && [ "$RECORDER_OAC" != "None" ]; then
+            terraform import -var="stage=${STAGE}" aws_cloudfront_origin_access_control.recorder "$RECORDER_OAC"
+          fi
+
+          terraform import -var="stage=${STAGE}" aws_iam_role.audio_api "learnbosnian-audio-api-${STAGE}"
+          terraform import -var="stage=${STAGE}" aws_iam_role_policy.audio_api "learnbosnian-audio-api-${STAGE}:learnbosnian-audio-api-${STAGE}"
+          terraform import -var="stage=${STAGE}" aws_lambda_function.audio_api "learnbosnian-audio-api-${STAGE}"
+          terraform import -var="stage=${STAGE}" aws_apigatewayv2_api.audio "${AUDIO_API_ID}"
+          terraform import -var="stage=${STAGE}" aws_apigatewayv2_stage.audio "${AUDIO_API_ID}/${STAGE}"
+          terraform import -var="stage=${STAGE}" aws_lambda_permission.audio_api "learnbosnian-audio-api-${STAGE}/AllowAPIGatewayInvoke"
+
+          # Routes / integration IDs can drift; lookup if possible
+          INTEGRATION_ID=$(aws apigatewayv2 get-integrations --api-id "${AUDIO_API_ID}" \
+            --query "Items[0].IntegrationId" --output text 2>/dev/null)
+          if [ -n "$INTEGRATION_ID" ] && [ "$INTEGRATION_ID" != "None" ]; then
+            terraform import -var="stage=${STAGE}" aws_apigatewayv2_integration.audio "${AUDIO_API_ID}/${INTEGRATION_ID}"
+          fi
+          PROXY_ROUTE=$(aws apigatewayv2 get-routes --api-id "${AUDIO_API_ID}" \
+            --query "Items[?RouteKey=='ANY /{proxy+}'].RouteId | [0]" --output text 2>/dev/null)
+          if [ -n "$PROXY_ROUTE" ] && [ "$PROXY_ROUTE" != "None" ]; then
+            terraform import -var="stage=${STAGE}" aws_apigatewayv2_route.audio_proxy "${AUDIO_API_ID}/${PROXY_ROUTE}"
+          fi
+          ROOT_ROUTE=$(aws apigatewayv2 get-routes --api-id "${AUDIO_API_ID}" \
+            --query "Items[?RouteKey=='ANY /'].RouteId | [0]" --output text 2>/dev/null)
+          if [ -n "$ROOT_ROUTE" ] && [ "$ROOT_ROUTE" != "None" ]; then
+            terraform import -var="stage=${STAGE}" aws_apigatewayv2_route.audio_root "${AUDIO_API_ID}/${ROOT_ROUTE}"
+          fi
           exit 0
 
       - name: Terraform Apply
@@ -112,16 +166,18 @@ jobs:
       - name: Read infra outputs
         id: out
         run: |
-          AUDIO_BASE=$(terraform output -raw audio_cloudfront_url)
-          AUDIO_API=$(terraform output -raw audio_api_url)
-          RECORDER_BUCKET=$(terraform output -raw recorder_bucket_name)
-          RECORDER_CF=$(terraform output -raw recorder_cloudfront_distribution_id)
-          RECORDER_URL=$(terraform output -raw recorder_cloudfront_url)
-          echo "audio_base=$AUDIO_BASE" >> "$GITHUB_OUTPUT"
-          echo "audio_api=$AUDIO_API" >> "$GITHUB_OUTPUT"
-          echo "recorder_bucket=$RECORDER_BUCKET" >> "$GITHUB_OUTPUT"
-          echo "recorder_cf=$RECORDER_CF" >> "$GITHUB_OUTPUT"
-          echo "recorder_url=$RECORDER_URL" >> "$GITHUB_OUTPUT"
+          AUDIO_BASE=$(terraform output -raw audio_cloudfront_url 2>/dev/null || true)
+          AUDIO_API=$(terraform output -raw audio_api_url 2>/dev/null || true)
+          RECORDER_BUCKET_OUT=$(terraform output -raw recorder_bucket_name 2>/dev/null || true)
+          RECORDER_CF=$(terraform output -raw recorder_cloudfront_distribution_id 2>/dev/null || true)
+          RECORDER_URL=$(terraform output -raw recorder_cloudfront_url 2>/dev/null || true)
+
+          # Fall back to known prod IDs when local TF state is incomplete
+          echo "audio_base=${AUDIO_BASE:-$AUDIO_CLOUDFRONT_URL}" >> "$GITHUB_OUTPUT"
+          echo "audio_api=${AUDIO_API:-$AUDIO_API_URL}" >> "$GITHUB_OUTPUT"
+          echo "recorder_bucket=${RECORDER_BUCKET_OUT:-$RECORDER_BUCKET}" >> "$GITHUB_OUTPUT"
+          echo "recorder_cf=${RECORDER_CF:-$RECORDER_CLOUDFRONT_DISTRIBUTION_ID}" >> "$GITHUB_OUTPUT"
+          echo "recorder_url=${RECORDER_URL:-$RECORDER_CLOUDFRONT_URL}" >> "$GITHUB_OUTPUT"
 
       - name: Build lesson site
         env:
