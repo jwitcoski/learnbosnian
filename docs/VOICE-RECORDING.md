@@ -30,7 +30,7 @@ Public URL: `{AUDIO_CLOUDFRONT}/clips/{clipId}`
 ## iPhone recording
 
 1. Open the recorder CloudFront URL in **Safari**
-2. Enter the shared password
+2. Enter the shared password: **`GornjiVakuf`**
 3. Choose your voice profile
 4. Open a lesson → tap a clip → **Start** → allow microphone → **Stop** → preview → **Upload**
 
@@ -56,15 +56,11 @@ Lesson site playback:
 REACT_APP_AUDIO_BASE_URL=https://<audio-cloudfront-domain>
 ```
 
-## AWS secrets (GitHub Actions)
+## Password
 
-| Secret | Purpose |
-|--------|---------|
-| `RECORDING_PASSWORD` | Shared gate password for the recorder |
-| `AUDIO_TOKEN_SECRET` | HMAC secret for recorder session tokens |
-| `AWS_ACCESS_KEY_ID` / `AWS_SECRET_ACCESS_KEY` | Existing deploy credentials |
+Shared studio password is **`GornjiVakuf`** (Terraform default for `recording_password`). No GitHub secret required.
 
-After Terraform apply, set frontend/recorder env from outputs:
+After Terraform apply, CI reads:
 
 - `audio_cloudfront_url`
 - `audio_api_url`

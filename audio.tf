@@ -2,14 +2,14 @@ variable "recording_password" {
   description = "Shared password for the private voice recording site"
   type        = string
   sensitive   = true
-  default     = "change-me-before-prod"
+  default     = "GornjiVakuf"
 }
 
 variable "audio_token_secret" {
   description = "HMAC secret for recorder session tokens"
   type        = string
   sensitive   = true
-  default     = "change-me-token-secret"
+  default     = "GornjiVakuf-audio-token"
 }
 
 locals {

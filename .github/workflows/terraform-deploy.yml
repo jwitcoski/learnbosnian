@@ -49,13 +49,7 @@ jobs:
         run: terraform init -input=false
 
       - name: Terraform Plan
-        env:
-          TF_VAR_recording_password: ${{ secrets.RECORDING_PASSWORD }}
-          TF_VAR_audio_token_secret: ${{ secrets.AUDIO_TOKEN_SECRET }}
-        run: |
-          if [ -z "$TF_VAR_recording_password" ]; then unset TF_VAR_recording_password; fi
-          if [ -z "$TF_VAR_audio_token_secret" ]; then unset TF_VAR_audio_token_secret; fi
-          terraform plan -var="stage=${STAGE}" -input=false
+        run: terraform plan -var="stage=${STAGE}" -input=false
 
   deploy:
     name: Terraform apply and deploy sites

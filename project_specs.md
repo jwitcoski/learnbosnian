@@ -84,4 +84,4 @@ Teaser outlines only — see `content/book2/outline.json` and `content/book3/out
 - Private studio: `recorder/` (iPhone Safari MediaRecorder → presigned S3 upload)
 - Playback: click vocab / dialogue in `LessonShell`
 - Ops doc: [`docs/VOICE-RECORDING.md`](docs/VOICE-RECORDING.md)
-- Pending ops: set GitHub secrets `RECORDING_PASSWORD` + `AUDIO_TOKEN_SECRET`, apply Terraform, share recorder URL with voice talents
+- Shared password: `GornjiVakuf` — apply Terraform, share recorder URL with voice talents
