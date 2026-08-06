@@ -3,12 +3,15 @@
   "private": true,
   "scripts": {
     "sync-content": "node scripts/sync-content.cjs",
+    "build-audio-clips": "node scripts/build-audio-clips.cjs",
     "export:scribus": "node scripts/export-scribus.cjs --all-drafts",
     "export:youtube": "node scripts/export-youtube.cjs",
     "prestart": "node scripts/sync-content.cjs",
     "start": "npm --prefix frontend start",
     "prebuild": "node scripts/sync-content.cjs",
     "build": "npm --prefix frontend run build",
+    "build:recorder": "npm --prefix recorder run build",
+    "start:recorder": "npm --prefix recorder run dev",
     "test:frontend": "npm --prefix frontend test -- --watchAll=false"
   },
   "devDependencies": {

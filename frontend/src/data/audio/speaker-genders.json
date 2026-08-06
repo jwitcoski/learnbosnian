@@ -1,0 +1,11 @@
+{
+  "speakers": {
+    "Ana": "female",
+    "Amira": "female",
+    "Emir": "male",
+    "Mrvica": "any",
+    "Narrator": "any",
+    "Shopkeeper": "any"
+  },
+  "default": "any"
+}

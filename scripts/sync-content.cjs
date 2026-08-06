@@ -4,10 +4,14 @@
  */
 const fs = require("fs");
 const path = require("path");
+const { buildClipsCatalog } = require("./lib/audio-clips.cjs");
 
 const root = path.join(__dirname, "..");
 const src = path.join(root, "content");
 const dest = path.join(root, "frontend", "src", "data");
+
+// Keep audio clip catalog in sync with chapter content
+require("./build-audio-clips.cjs");
 
 function copyDir(from, to) {
   fs.mkdirSync(to, { recursive: true });
@@ -137,4 +141,29 @@ fs.writeFileSync(
 );
 console.log(
   `Wrote attributions.json (${merged.total} entries) → frontend/src/data/`
+);
+
+/** Sync audio clip catalog + voice profiles into frontend + recorder + backend */
+const audioSrc = path.join(src, "audio");
+const audioTargets = [
+  path.join(dest, "audio"),
+  path.join(root, "recorder", "src", "data"),
+  path.join(root, "backend", "data"),
+];
+const catalog = buildClipsCatalog(root);
+for (const target of audioTargets) {
+  fs.mkdirSync(target, { recursive: true });
+  fs.writeFileSync(
+    path.join(target, "clips.json"),
+    JSON.stringify(catalog, null, 2) + "\n"
+  );
+  for (const name of ["voice-profiles.json", "speaker-genders.json"]) {
+    const from = path.join(audioSrc, name);
+    if (fs.existsSync(from)) {
+      fs.copyFileSync(from, path.join(target, name));
+    }
+  }
+}
+console.log(
+  `Synced audio catalog (${catalog.total} clips) → frontend, recorder, backend`
 );

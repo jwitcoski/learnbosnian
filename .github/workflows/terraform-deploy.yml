@@ -15,47 +15,9 @@ env:
   S3_BUCKET: learn-bosnian-frontend-prod
 
 jobs:
-  deploy-site:
-    name: Build and deploy site
-    if: github.ref == 'refs/heads/main' && (github.event_name == 'push' || github.event_name == 'workflow_dispatch')
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
-      - name: Configure AWS credentials
-        uses: aws-actions/configure-aws-credentials@v4
-        with:
-          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws-region: ${{ env.AWS_REGION }}
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-
-      - name: Install, sync content, and build
-        run: |
-          node scripts/sync-content.cjs
-          cd frontend
-          npm install
-          CI=false npm run build
-
-      - name: Deploy frontend to S3
-        run: aws s3 sync frontend/build/ "s3://${S3_BUCKET}" --delete
-
-      - name: Invalidate CloudFront cache
-        run: |
-          aws cloudfront create-invalidation \
-            --distribution-id "${CLOUDFRONT_DISTRIBUTION_ID}" \
-            --paths "/*"
-
-      - name: Site URL
-        run: echo "https://dz4szsos3tpia.cloudfront.net"
-
-  terraform:
-    name: Terraform infra
+  terraform-plan:
+    name: Terraform plan
+    if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -73,11 +35,57 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: ${{ env.AWS_REGION }}
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Prepare Lambda package
+        run: |
+          node scripts/sync-content.cjs
+          cd backend && npm install --omit=dev
+
+      - name: Terraform Init
+        run: terraform init -input=false
+
+      - name: Terraform Plan
+        run: terraform plan -var="stage=${STAGE}" -input=false
+
+  deploy:
+    name: Terraform apply and deploy sites
+    if: github.ref == 'refs/heads/main' && (github.event_name == 'push' || github.event_name == 'workflow_dispatch')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Terraform
+        uses: hashicorp/setup-terraform@v3
+        with:
+          terraform_version: 1.11.4
+          terraform_wrapper: false
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Prepare Lambda package
+        run: |
+          node scripts/sync-content.cjs
+          cd backend && npm install --omit=dev
+
       - name: Terraform Init
         run: terraform init -input=false
 
       - name: Import existing resources
-        if: github.ref == 'refs/heads/main'
         run: |
           set +e
           terraform import -var="stage=${STAGE}" aws_s3_bucket.frontend "${S3_BUCKET}"
@@ -89,13 +97,72 @@ jobs:
           if [ -n "$OAC_ID" ] && [ "$OAC_ID" != "None" ]; then
             terraform import -var="stage=${STAGE}" aws_cloudfront_origin_access_control.frontend "$OAC_ID"
           fi
+          # Best-effort import for audio/recorder resources if they already exist
+          terraform import -var="stage=${STAGE}" aws_s3_bucket.audio "learn-bosnian-audio-${STAGE}"
+          terraform import -var="stage=${STAGE}" aws_s3_bucket.recorder "learn-bosnian-recorder-${STAGE}"
           exit 0
 
-      - name: Terraform Plan
-        if: github.event_name == 'pull_request'
-        run: terraform plan -var="stage=${STAGE}" -input=false
-
       - name: Terraform Apply
-        if: github.ref == 'refs/heads/main'
+        env:
+          TF_VAR_recording_password: ${{ secrets.RECORDING_PASSWORD }}
+          TF_VAR_audio_token_secret: ${{ secrets.AUDIO_TOKEN_SECRET }}
         run: terraform apply -auto-approve -var="stage=${STAGE}" -input=false
         continue-on-error: true
+
+      - name: Read infra outputs
+        id: out
+        run: |
+          AUDIO_BASE=$(terraform output -raw audio_cloudfront_url)
+          AUDIO_API=$(terraform output -raw audio_api_url)
+          RECORDER_BUCKET=$(terraform output -raw recorder_bucket_name)
+          RECORDER_CF=$(terraform output -raw recorder_cloudfront_distribution_id)
+          RECORDER_URL=$(terraform output -raw recorder_cloudfront_url)
+          echo "audio_base=$AUDIO_BASE" >> "$GITHUB_OUTPUT"
+          echo "audio_api=$AUDIO_API" >> "$GITHUB_OUTPUT"
+          echo "recorder_bucket=$RECORDER_BUCKET" >> "$GITHUB_OUTPUT"
+          echo "recorder_cf=$RECORDER_CF" >> "$GITHUB_OUTPUT"
+          echo "recorder_url=$RECORDER_URL" >> "$GITHUB_OUTPUT"
+
+      - name: Build lesson site
+        env:
+          REACT_APP_AUDIO_BASE_URL: ${{ steps.out.outputs.audio_base }}
+        run: |
+          node scripts/sync-content.cjs
+          cd frontend
+          npm install
+          CI=false npm run build
+
+      - name: Deploy frontend to S3
+        run: aws s3 sync frontend/build/ "s3://${S3_BUCKET}" --delete
+
+      - name: Invalidate lesson CloudFront cache
+        run: |
+          aws cloudfront create-invalidation \
+            --distribution-id "${CLOUDFRONT_DISTRIBUTION_ID}" \
+            --paths "/*"
+
+      - name: Build recorder studio
+        env:
+          VITE_AUDIO_API_URL: ${{ steps.out.outputs.audio_api }}
+          VITE_AUDIO_PUBLIC_BASE: ${{ steps.out.outputs.audio_base }}
+        run: |
+          cd recorder
+          npm install
+          npm run build
+
+      - name: Deploy recorder to S3
+        run: |
+          aws s3 sync recorder/dist/ "s3://${{ steps.out.outputs.recorder_bucket }}" --delete
+
+      - name: Invalidate recorder CloudFront cache
+        run: |
+          aws cloudfront create-invalidation \
+            --distribution-id "${{ steps.out.outputs.recorder_cf }}" \
+            --paths "/*"
+
+      - name: Site URLs
+        run: |
+          echo "Lesson site: https://dz4szsos3tpia.cloudfront.net"
+          echo "Audio CDN: ${{ steps.out.outputs.audio_base }}"
+          echo "Recorder: ${{ steps.out.outputs.recorder_url }}"
+          echo "Recorder API: ${{ steps.out.outputs.audio_api }}"

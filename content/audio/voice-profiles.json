@@ -1,0 +1,24 @@
+{
+  "voices": [
+    {
+      "id": "female-1",
+      "displayName": "Female voice 1",
+      "gender": "female"
+    },
+    {
+      "id": "female-2",
+      "displayName": "Female voice 2",
+      "gender": "female"
+    },
+    {
+      "id": "male-1",
+      "displayName": "Male voice 1",
+      "gender": "male"
+    },
+    {
+      "id": "male-2",
+      "displayName": "Male voice 2",
+      "gender": "male"
+    }
+  ]
+}
