@@ -2,6 +2,8 @@ export type VoiceProfile = {
   id: string;
   displayName: string;
   gender: "female" | "male";
+  role?: "primary" | "backup";
+  description?: string;
 };
 
 export type Clip = {

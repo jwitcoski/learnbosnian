@@ -2,23 +2,31 @@
   "voices": [
     {
       "id": "female-1",
-      "displayName": "Female voice 1",
-      "gender": "female"
-    },
-    {
-      "id": "female-2",
-      "displayName": "Female voice 2",
-      "gender": "female"
+      "displayName": "Female 1 — main vocab",
+      "gender": "female",
+      "role": "primary",
+      "description": "Main voice-over for all vocabulary clips, plus female dialogue when needed."
     },
     {
       "id": "male-1",
-      "displayName": "Male voice 1",
-      "gender": "male"
+      "displayName": "Male 1 — male parts",
+      "gender": "male",
+      "role": "primary",
+      "description": "Primary voice for male dialogue lines (e.g. Emir)."
+    },
+    {
+      "id": "female-2",
+      "displayName": "Female 2 — if needed",
+      "gender": "female",
+      "role": "backup",
+      "description": "Extra female voice when a second female take is needed."
     },
     {
       "id": "male-2",
-      "displayName": "Male voice 2",
-      "gender": "male"
+      "displayName": "Male 2 — if needed",
+      "gender": "male",
+      "role": "backup",
+      "description": "Extra male voice when a second male take is needed."
     }
   ]
 }

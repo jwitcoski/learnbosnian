@@ -290,6 +290,85 @@ button {
   padding: 1rem 0;
 }
 
+.voice-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.voice-card {
+  text-align: left;
+  padding: 1rem 1rem 1.05rem;
+  border: 1px solid var(--line);
+  background: color-mix(in srgb, var(--panel) 88%, black);
+  color: var(--ink);
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.voice-card:active,
+.voice-card:hover {
+  border-color: var(--accent-2);
+}
+
+.voice-name {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 700;
+}
+
+.voice-meta {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent-2);
+  font-weight: 700;
+}
+
+.voice-desc {
+  color: var(--muted);
+  font-size: 0.92rem;
+  line-height: 1.4;
+}
+
+.linkish {
+  padding-left: 0;
+  margin-top: 0.25rem;
+}
+
+.trim-panel {
+  margin: 0.5rem 0 0.25rem;
+}
+
+.trim-panel label {
+  margin-top: 0.45rem;
+}
+
+.trim-panel input[type="range"] {
+  margin-bottom: 0.35rem;
+  padding: 0;
+  height: 1.4rem;
+  accent-color: var(--accent);
+}
+
+.trim-label {
+  margin: 0 0 0.35rem;
+}
+
+.confirm-copy {
+  margin: 0.25rem 0 0.15rem;
+  color: var(--accent-2);
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+.primary.accept {
+  background: var(--ok);
+  border-color: var(--ok);
+}
+
 @media (min-width: 640px) {
   .day-grid {
     grid-template-columns: repeat(3, minmax(0, 1fr));

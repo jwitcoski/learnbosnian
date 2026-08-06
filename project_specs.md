@@ -78,10 +78,12 @@ Teaser outlines only — see `content/book2/outline.json` and `content/book3/out
 - [x] Lesson 0 orientation (why Bosnian / etymology / audience)
 - [x] Lesson authoring guide (Lesson 1 mold for 4–30)
 - [x] Voice recording portal (shared password, 4 voices 2F/2M) + S3/CloudFront audio + lesson tap-to-play
+- [x] Recorder trim + accept-before-upload (Female 1 = vocab, Male 1 = male parts, F2/M2 if needed)
 
 ## Voice recording
 
-- Private studio: `recorder/` (iPhone Safari MediaRecorder → presigned S3 upload)
+- Private studio: `recorder/` (iPhone Safari MediaRecorder → trim start/end → playback → accept → S3)
+- Roles: Female 1 = main vocab VO; Male 1 = male dialogue; Female 2 / Male 2 if needed
 - Playback: click vocab / dialogue in `LessonShell`
 - Ops doc: [`docs/VOICE-RECORDING.md`](docs/VOICE-RECORDING.md)
 - Shared password: `GornjiVakuf` — apply Terraform, share recorder URL with voice talents

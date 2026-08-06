@@ -2,7 +2,7 @@
   "title": "Photo attributions",
   "intro": "Running register of every photo used on the site and in Book 1. Use this list when citing images for print, Scribus export, or YouTube descriptions. Chapter images are harvested automatically from each chapter.json; homepage and other site assets are listed here by hand.",
   "citationNote": "For Creative Commons works, credit the author, note the license, and link to the source page. For Pexels, credit the photographer and Pexels. Derivative treatments (polygon paint, background removal) still require attribution of the source photo.",
-  "generatedAt": "2026-08-05",
+  "generatedAt": "2026-08-06",
   "total": 15,
   "entries": [
     {

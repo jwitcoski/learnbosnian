@@ -75,7 +75,8 @@ function buildClipsCatalog(rootDir) {
           bosnian: v.bosnian,
           english: v.english,
           pronunciation: v.pronunciation || "",
-          preferredGender: "any",
+          // Female 1 is the main vocab voice-over
+          preferredGender: "female",
           speaker: null,
           s3Key: s3KeyForClip(id),
         });

@@ -1,25 +1,33 @@
 {
-  "generatedAt": "2026-08-05T23:55:32.141Z",
+  "generatedAt": "2026-08-06T00:16:53.947Z",
   "voiceProfiles": [
     {
       "id": "female-1",
-      "displayName": "Female voice 1",
-      "gender": "female"
-    },
-    {
-      "id": "female-2",
-      "displayName": "Female voice 2",
-      "gender": "female"
+      "displayName": "Female 1 — main vocab",
+      "gender": "female",
+      "role": "primary",
+      "description": "Main voice-over for all vocabulary clips, plus female dialogue when needed."
     },
     {
       "id": "male-1",
-      "displayName": "Male voice 1",
-      "gender": "male"
+      "displayName": "Male 1 — male parts",
+      "gender": "male",
+      "role": "primary",
+      "description": "Primary voice for male dialogue lines (e.g. Emir)."
+    },
+    {
+      "id": "female-2",
+      "displayName": "Female 2 — if needed",
+      "gender": "female",
+      "role": "backup",
+      "description": "Extra female voice when a second female take is needed."
     },
     {
       "id": "male-2",
-      "displayName": "Male voice 2",
-      "gender": "male"
+      "displayName": "Male 2 — if needed",
+      "gender": "male",
+      "role": "backup",
+      "description": "Extra male voice when a second male take is needed."
     }
   ],
   "speakerGenders": {
@@ -41,7 +49,7 @@
       "bosnian": "bosanski",
       "english": "Bosnian (language / adjective)",
       "pronunciation": "bo-SAHN-ski",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d00-vocab-bosanski"
     },
@@ -54,7 +62,7 @@
       "bosnian": "jezik",
       "english": "language / tongue",
       "pronunciation": "YEH-zeek",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d00-vocab-jezik"
     },
@@ -67,7 +75,7 @@
       "bosnian": "Bosna i Hercegovina",
       "english": "Bosnia and Herzegovina",
       "pronunciation": "BOS-nah ee her-tseh-go-VEE-nah",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d00-vocab-bosna-i-hercegovina"
     },
@@ -80,7 +88,7 @@
       "bosnian": "BiH",
       "english": "BiH (short for Bosnia and Herzegovina)",
       "pronunciation": "beh-ee-hah",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d00-vocab-bih"
     },
@@ -93,7 +101,7 @@
       "bosnian": "dobrodošli",
       "english": "welcome (plural / formal)",
       "pronunciation": "do-bro-DOSH-lee",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d00-vocab-dobrodosli"
     },
@@ -106,7 +114,7 @@
       "bosnian": "učiti",
       "english": "to learn / to study",
       "pronunciation": "OO-chee-tee",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d00-vocab-uciti"
     },
@@ -119,7 +127,7 @@
       "bosnian": "Ana",
       "english": "Ana (learner character)",
       "pronunciation": "AH-nah",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d00-vocab-ana"
     },
@@ -132,7 +140,7 @@
       "bosnian": "Emir",
       "english": "Emir (guide character)",
       "pronunciation": "eh-MEER",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d00-vocab-emir"
     },
@@ -145,7 +153,7 @@
       "bosnian": "Amira",
       "english": "Amira (café owner)",
       "pronunciation": "ah-MEER-ah",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d00-vocab-amira"
     },
@@ -158,7 +166,7 @@
       "bosnian": "Mrvica",
       "english": "Mrvica (the cat)",
       "pronunciation": "MR-vee-tsa",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d00-vocab-mrvica"
     },
@@ -255,7 +263,7 @@
       "bosnian": "zdravo",
       "english": "hello (informal)",
       "pronunciation": "ZDRAH-voh",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-zdravo"
     },
@@ -268,7 +276,7 @@
       "bosnian": "dobar dan",
       "english": "good day / hello (polite)",
       "pronunciation": "DOH-bar dahn",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-dobar-dan"
     },
@@ -281,7 +289,7 @@
       "bosnian": "dobro jutro",
       "english": "good morning",
       "pronunciation": "DOH-bro YOO-tro",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-dobro-jutro"
     },
@@ -294,7 +302,7 @@
       "bosnian": "dobra večer",
       "english": "good evening",
       "pronunciation": "DOH-bra VEH-cher",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-dobra-vecer"
     },
@@ -307,7 +315,7 @@
       "bosnian": "hvala",
       "english": "thank you",
       "pronunciation": "HVAH-lah",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-hvala"
     },
@@ -320,7 +328,7 @@
       "bosnian": "molim",
       "english": "please / you're welcome",
       "pronunciation": "MOH-leem",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-molim"
     },
@@ -333,7 +341,7 @@
       "bosnian": "doviđenja",
       "english": "goodbye",
       "pronunciation": "doh-vee-JEN-ya",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-dovidjenja"
     },
@@ -346,7 +354,7 @@
       "bosnian": "da",
       "english": "yes",
       "pronunciation": "dah",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-da"
     },
@@ -359,7 +367,7 @@
       "bosnian": "ne",
       "english": "no",
       "pronunciation": "neh",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-ne"
     },
@@ -372,7 +380,7 @@
       "bosnian": "Sarajevo",
       "english": "Sarajevo",
       "pronunciation": "sah-rah-YEH-voh",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-sarajevo"
     },
@@ -385,7 +393,7 @@
       "bosnian": "Baščaršija",
       "english": "Baščaršija (old bazaar)",
       "pronunciation": "bash-CHAR-shi-ya",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-bascarsija"
     },
@@ -398,7 +406,7 @@
       "bosnian": "ulica",
       "english": "street",
       "pronunciation": "OO-lee-tsa",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-ulica"
     },
@@ -411,7 +419,7 @@
       "bosnian": "čaj",
       "english": "tea",
       "pronunciation": "chigh",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-caj"
     },
@@ -424,7 +432,7 @@
       "bosnian": "žena",
       "english": "woman / wife",
       "pronunciation": "ZHEH-nah",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-zena"
     },
@@ -437,7 +445,7 @@
       "bosnian": "đak",
       "english": "pupil / schoolchild",
       "pronunciation": "jak",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-djak"
     },
@@ -450,7 +458,7 @@
       "bosnian": "džezva",
       "english": "coffee pot (cezve)",
       "pronunciation": "JEZ-vah",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d01-vocab-dzezva"
     },
@@ -561,7 +569,7 @@
       "bosnian": "ja",
       "english": "I",
       "pronunciation": "yah",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-ja"
     },
@@ -574,7 +582,7 @@
       "bosnian": "ti",
       "english": "you (informal singular)",
       "pronunciation": "tee",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-ti"
     },
@@ -587,7 +595,7 @@
       "bosnian": "on",
       "english": "he",
       "pronunciation": "ohn",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-on"
     },
@@ -600,7 +608,7 @@
       "bosnian": "ona",
       "english": "she",
       "pronunciation": "OH-nah",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-ona"
     },
@@ -613,7 +621,7 @@
       "bosnian": "sam",
       "english": "am (I am)",
       "pronunciation": "sahm",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-sam"
     },
@@ -626,7 +634,7 @@
       "bosnian": "si",
       "english": "are (you are)",
       "pronunciation": "see",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-si"
     },
@@ -639,7 +647,7 @@
       "bosnian": "je",
       "english": "is (he/she/it is)",
       "pronunciation": "yeh",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-je"
     },
@@ -652,7 +660,7 @@
       "bosnian": "zovem se",
       "english": "my name is / I am called",
       "pronunciation": "ZOH-vem seh",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-zovem-se"
     },
@@ -665,7 +673,7 @@
       "bosnian": "ime",
       "english": "name",
       "pronunciation": "EE-meh",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-ime"
     },
@@ -678,7 +686,7 @@
       "bosnian": "iz",
       "english": "from",
       "pronunciation": "eez",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-iz"
     },
@@ -691,7 +699,7 @@
       "bosnian": "drago mi je",
       "english": "nice to meet you",
       "pronunciation": "DRAH-go mee yeh",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-drago-mi-je"
     },
@@ -704,7 +712,7 @@
       "bosnian": "Sebilj",
       "english": "Sebilj (wooden fountain in Baščaršija)",
       "pronunciation": "seh-BEEL",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-sebilj"
     },
@@ -717,7 +725,7 @@
       "bosnian": "vodič",
       "english": "guide",
       "pronunciation": "VOH-dich",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-vodic"
     },
@@ -730,7 +738,7 @@
       "bosnian": "prijatelj",
       "english": "friend (male)",
       "pronunciation": "pree-YAH-telj",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d02-vocab-prijatelj"
     },
@@ -855,7 +863,7 @@
       "bosnian": "jedan",
       "english": "one",
       "pronunciation": "YEH-dan",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-jedan"
     },
@@ -868,7 +876,7 @@
       "bosnian": "dva",
       "english": "two",
       "pronunciation": "dvah",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-dva"
     },
@@ -881,7 +889,7 @@
       "bosnian": "tri",
       "english": "three",
       "pronunciation": "tree",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-tri"
     },
@@ -894,7 +902,7 @@
       "bosnian": "četiri",
       "english": "four",
       "pronunciation": "CHE-tee-ree",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-cetiri"
     },
@@ -907,7 +915,7 @@
       "bosnian": "pet",
       "english": "five",
       "pronunciation": "pet",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-pet"
     },
@@ -920,7 +928,7 @@
       "bosnian": "šest",
       "english": "six",
       "pronunciation": "shest",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-sest"
     },
@@ -933,7 +941,7 @@
       "bosnian": "sedam",
       "english": "seven",
       "pronunciation": "SEH-dam",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-sedam"
     },
@@ -946,7 +954,7 @@
       "bosnian": "osam",
       "english": "eight",
       "pronunciation": "OH-sam",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-osam"
     },
@@ -959,7 +967,7 @@
       "bosnian": "devet",
       "english": "nine",
       "pronunciation": "DEH-vet",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-devet"
     },
@@ -972,7 +980,7 @@
       "bosnian": "deset",
       "english": "ten",
       "pronunciation": "DEH-set",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-deset"
     },
@@ -985,7 +993,7 @@
       "bosnian": "petnaest",
       "english": "fifteen",
       "pronunciation": "pet-NAH-est",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-petnaest"
     },
@@ -998,7 +1006,7 @@
       "bosnian": "dvadeset",
       "english": "twenty",
       "pronunciation": "DVAH-deh-set",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-dvadeset"
     },
@@ -1011,7 +1019,7 @@
       "bosnian": "koliko",
       "english": "how many / how much",
       "pronunciation": "KOH-lee-koh",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-koliko"
     },
@@ -1024,7 +1032,7 @@
       "bosnian": "kahva",
       "english": "coffee (BiH form)",
       "pronunciation": "KAH-vah",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-kahva"
     },
@@ -1037,7 +1045,7 @@
       "bosnian": "fildžan",
       "english": "small coffee cup",
       "pronunciation": "FIL-jan",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-fildzan"
     },
@@ -1050,7 +1058,7 @@
       "bosnian": "lokum",
       "english": "Turkish delight / rahat lokum",
       "pronunciation": "LOH-koom",
-      "preferredGender": "any",
+      "preferredGender": "female",
       "speaker": null,
       "s3Key": "clips/b1-d03-vocab-lokum"
     },
