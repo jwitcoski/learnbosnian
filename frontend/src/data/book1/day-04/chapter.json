@@ -5,54 +5,655 @@
   "title": "Porodica Mrvice",
   "titleEn": "Mrvica’s family",
   "theme": "Café “family” + the cat",
-  "status": "outlined",
+  "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "",
+  "reviewerNotes": "Full draft to Lesson 1 exemplar bar — ready for human review before publish.",
   "estimatedMinutes": 60,
-  "storyBeat": "Mrvica adopts Ana; café regulars feel like family",
+  "storyBeat": "Mrvica adopts Ana; Amira’s café regulars start to feel like family.",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 4: Family words, moj/tvoja, gender intro"
+      "Family words: majka, otac, sestra, brat, baba, djed, sin, kći",
+      "Café circle: porodica, prijatelj, prijateljica, mačka",
+      "Possessives: moj / moja, tvoj / tvoja"
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Gender intro: masculine vs feminine nouns",
+      "Moj/moja and tvoj/tvoja agreement",
+      "Saying who someone is: Ona je… / On je…"
     ],
     "culture": [
-      "Café “family” + the cat"
+      "Café regulars as chosen family in Sarajevo",
+      "Mrvica as the café’s unofficial boss"
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "porodica",
+      "english": "family",
+      "pronunciation": "po-RO-dee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Ovo je moja porodica."
+    },
+    {
+      "bosnian": "majka",
+      "english": "mother",
+      "pronunciation": "MY-kah",
+      "partOfSpeech": "noun",
+      "example": "Moja majka je u Americi."
+    },
+    {
+      "bosnian": "otac",
+      "english": "father",
+      "pronunciation": "OH-tats",
+      "partOfSpeech": "noun",
+      "example": "Moj otac voli kahvu."
+    },
+    {
+      "bosnian": "sestra",
+      "english": "sister",
+      "pronunciation": "SES-trah",
+      "partOfSpeech": "noun",
+      "example": "Imam jednu sestru."
+    },
+    {
+      "bosnian": "brat",
+      "english": "brother",
+      "pronunciation": "braht",
+      "partOfSpeech": "noun",
+      "example": "Moj brat je student."
+    },
+    {
+      "bosnian": "baba",
+      "english": "grandmother",
+      "pronunciation": "BAH-bah",
+      "partOfSpeech": "noun",
+      "example": "Moja baba peče hljeb."
+    },
+    {
+      "bosnian": "djed",
+      "english": "grandfather",
+      "pronunciation": "dyed",
+      "partOfSpeech": "noun",
+      "example": "Moj djed je iz Travnika."
+    },
+    {
+      "bosnian": "sin",
+      "english": "son",
+      "pronunciation": "seen",
+      "partOfSpeech": "noun",
+      "example": "On je njen sin."
+    },
+    {
+      "bosnian": "kći",
+      "english": "daughter",
+      "pronunciation": "kchee",
+      "partOfSpeech": "noun",
+      "example": "Ona je moja kći."
+    },
+    {
+      "bosnian": "mačka",
+      "english": "cat (female / general)",
+      "pronunciation": "MACH-kah",
+      "partOfSpeech": "noun",
+      "example": "Mrvica je mačka."
+    },
+    {
+      "bosnian": "prijatelj",
+      "english": "friend (male)",
+      "pronunciation": "pree-YA-telj",
+      "partOfSpeech": "noun",
+      "example": "Emir je moj prijatelj."
+    },
+    {
+      "bosnian": "prijateljica",
+      "english": "friend (female)",
+      "pronunciation": "pree-ya-TEL-yee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Amira je moja prijateljica."
+    },
+    {
+      "bosnian": "moj",
+      "english": "my (masculine)",
+      "pronunciation": "moy",
+      "partOfSpeech": "possessive",
+      "example": "Moj brat."
+    },
+    {
+      "bosnian": "moja",
+      "english": "my (feminine)",
+      "pronunciation": "MOY-ah",
+      "partOfSpeech": "possessive",
+      "example": "Moja sestra."
+    },
+    {
+      "bosnian": "tvoj",
+      "english": "your (masculine, informal)",
+      "pronunciation": "tvoy",
+      "partOfSpeech": "possessive",
+      "example": "Tvoj otac."
+    },
+    {
+      "bosnian": "tvoja",
+      "english": "your (feminine, informal)",
+      "pronunciation": "TVOY-ah",
+      "partOfSpeech": "possessive",
+      "example": "Tvoja majka."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Gender intro — he or she words",
+      "explanation": "Many Bosnian nouns feel masculine or feminine. A quick beginner tip: words ending in -a are often feminine (majka, sestra, mačka, porodica). Short words without -a are often masculine (otac, brat, sin, djed). You will meet exceptions later — for today, notice the pattern and match moj/moja to it.",
+      "examples": [
+        {
+          "bosnian": "sestra, majka, mačka",
+          "english": "feminine (-a)"
+        },
+        {
+          "bosnian": "brat, otac, sin",
+          "english": "masculine"
+        },
+        {
+          "bosnian": "Mrvica je mačka.",
+          "english": "Mrvica is a cat."
+        }
+      ]
+    },
+    {
+      "title": "Moj / moja and tvoj / tvoja",
+      "explanation": "Moj = my before a masculine noun. Moja = my before a feminine noun. Same split for your (informal): tvoj / tvoja. Say Moj brat and Moja sestra. Do not mix them yet — matching gender is the whole game.",
+      "examples": [
+        {
+          "bosnian": "Moj otac. Moja majka.",
+          "english": "My father. My mother."
+        },
+        {
+          "bosnian": "Tvoj brat. Tvoja sestra.",
+          "english": "Your brother. Your sister."
+        },
+        {
+          "bosnian": "Moja mačka.",
+          "english": "My cat."
+        }
+      ]
+    },
+    {
+      "title": "Who is who — On je / Ona je",
+      "explanation": "Reuse biti from Lesson 2. On je moj prijatelj. Ona je moja prijateljica. Ona je Mrvica — mačka! Point and name people (and one bossy cat) with short lines.",
+      "examples": [
+        {
+          "bosnian": "On je moj brat.",
+          "english": "He is my brother."
+        },
+        {
+          "bosnian": "Ona je moja sestra.",
+          "english": "She is my sister."
+        },
+        {
+          "bosnian": "Emir je moj prijatelj.",
+          "english": "Emir is my friend."
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "Café “family” + the cat",
-    "body": "Stub for Lesson 4. Full culture hook will be written on the draft night.",
-    "imageId": null
+    "title": "Café family — and one small boss",
+    "body": "In Sarajevo, a good café can feel like a living room. Regulars greet the owner by name, share news, and claim “their” chair. Amira’s place works the same way: Ana, Emir, and the usual guests start to feel like porodica — family you choose. Mrvica the cat patrols the tables, steals warmth, and somehow adopts Ana. Learn the family words, then use them for blood relatives and for the people (and cats) who make a city feel like home.",
+    "imageId": "cafe-family"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A — Family words + gender",
+      "body": "Build the tree: majka, otac, sestra, brat, baba, djed, sin, kći. Say each aloud twice. Mark the -a words as feminine in your notes. Add porodica (family) and mačka (cat). Ana draws a tiny family tree in her notebook — then draws Mrvica at the top. Emir laughs: To je porodica Mrvice!",
+      "tips": [
+        "-a endings often = feminine for this lesson’s nouns",
+        "kći needs ć — use the accent button"
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B — Moj / moja at Amira’s",
+      "body": "Claim people with possessives: Moj prijatelj Emir. Moja prijateljica Amira. Moja mačka? — Mrvica decides that Ana is hers. Practice pairs: Moj otac / Moja majka, Tvoj brat / Tvoja sestra. Walk the café and point: Ona je Amira. On je Emir. Ona je Mrvica. Today’s win is short true sentences, not a full case chart.",
+      "tips": [
+        "Kit: Moj… · Moja… · On je… · Ona je…",
+        "Match moj/moja to the noun’s gender"
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Porodica za stolom",
+    "setting": "Amira’s café late afternoon. Steam, soft talk, Mrvica on a chair back.",
+    "lines": [
+      {
+        "speaker": "Amira",
+        "bosnian": "Ana — tvoja porodica?",
+        "english": "Ana — your family?"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Moja majka je u Americi. Moj otac je u Americi.",
+        "english": "My mother is in America. My father is in America."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "A sestra? Brat?",
+        "english": "And sister? Brother?"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Moja sestra je u Americi. Brat? Ne.",
+        "english": "My sister is in America. Brother? No."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Dobro. Mi smo mala porodica!",
+        "english": "Good. We are a little family!"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Emir je moj prijatelj. Ti si moja prijateljica.",
+        "english": "Emir is my friend. You are my friend."
+      },
+      {
+        "speaker": "Narrator",
+        "bosnian": "Mrvica skače. Ana: Zdravo, Mrvica!",
+        "english": "Mrvica jumps up. Ana: Hello, Mrvica!"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Ona je tvoja mačka sada!",
+        "english": "She is your cat now!"
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match the family words",
+      "prompt": "Match each Bosnian word to the English meaning.",
+      "items": [
+        {
+          "left": "majka",
+          "right": "mother"
+        },
+        {
+          "left": "otac",
+          "right": "father"
+        },
+        {
+          "left": "sestra",
+          "right": "sister"
+        },
+        {
+          "left": "brat",
+          "right": "brother"
+        },
+        {
+          "left": "mačka",
+          "right": "cat"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "match",
+      "title": "Match my / your",
+      "prompt": "Match each possessive to the English meaning.",
+      "items": [
+        {
+          "left": "moj",
+          "right": "my (masculine)"
+        },
+        {
+          "left": "moja",
+          "right": "my (feminine)"
+        },
+        {
+          "left": "tvoj",
+          "right": "your (masculine)"
+        },
+        {
+          "left": "tvoja",
+          "right": "your (feminine)"
+        },
+        {
+          "left": "prijateljica",
+          "right": "friend (female)"
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Write the Bosnian word for mother.",
+      "hint": "Ends in -a",
+      "answer": "majka"
+    },
+    {
+      "id": "pr2",
+      "prompt": "Write the Bosnian word for father.",
+      "hint": "Starts with o-",
+      "answer": "otac"
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write ‘my sister’ in Bosnian (moja + sestra).",
+      "hint": "Feminine possessive",
+      "answer": "Moja sestra"
+    },
+    {
+      "id": "pr4",
+      "prompt": "Write ‘my brother’ in Bosnian (moj + brat).",
+      "hint": "Masculine possessive",
+      "answer": "Moj brat"
+    },
+    {
+      "id": "pr5",
+      "prompt": "Write the Bosnian word for family.",
+      "hint": "po-ro-…",
+      "answer": "porodica"
+    },
+    {
+      "id": "pr6",
+      "prompt": "Write the word for cat (needs č).",
+      "hint": "Use the accent button for č",
+      "answer": "mačka"
+    },
+    {
+      "id": "pr7",
+      "prompt": "Write ‘daughter’ in Bosnian (needs ć).",
+      "hint": "Short word with ć",
+      "answer": "kći"
+    },
+    {
+      "id": "pr8",
+      "prompt": "Type: Emir is my friend. (Emir je moj prijatelj.)",
+      "hint": "Reuse je + moj",
+      "answer": "Emir je moj prijatelj"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "Baba and djed",
+      "body": "Baba is grandmother and djed is grandfather in everyday Bosnian. You will also hear variants in families — learn these two first; they open a lot of stories."
+    },
+    {
+      "title": "Prijatelj vs prijateljica",
+      "body": "Friend splits by gender: prijatelj (male), prijateljica (female). Ana calls Emir prijatelj and Amira prijateljica — useful from day one of real friendships."
+    },
+    {
+      "title": "Mrvica means little crumb",
+      "body": "A perfect name for a café cat who believes every lap and every lokum crumb is hers."
+    },
+    {
+      "title": "Chosen family at the table",
+      "body": "Calling café regulars porodica is half joke, half truth. Warmth is part of the language lesson."
+    }
+  ],
   "resources": [
     {
       "label": "How to speak Bosnian — YouTube",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "note": "Companion video for Lesson 4"
+    },
+    {
+      "label": "Next: Lesson 5 — Gdje je Mostar?",
+      "url": "/learn/lesson/5",
+      "note": "Places, gdje/ovdje/tamo, and a Mostar tease"
+    },
+    {
+      "label": "Book 1 curriculum",
+      "url": "/learn",
+      "note": "See all lessons"
     }
   ],
   "sectionQuiz": {
     "title": "Lesson 4 section quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does ‘majka’ mean?",
+        "options": [
+          "Father",
+          "Mother",
+          "Sister",
+          "Cat"
+        ],
+        "correctIndex": 1,
+        "explanation": "Majka = mother."
+      },
+      {
+        "id": "q2",
+        "question": "Which word means ‘brother’?",
+        "options": [
+          "sestra",
+          "brat",
+          "baba",
+          "sin"
+        ],
+        "correctIndex": 1,
+        "explanation": "Brat = brother; sestra = sister."
+      },
+      {
+        "id": "q3",
+        "question": "Choose the correct pair:",
+        "options": [
+          "moj sestra",
+          "moja sestra",
+          "moja brat",
+          "tvoj majka"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sestra is feminine, so moja sestra."
+      },
+      {
+        "id": "q4",
+        "question": "‘Moj otac’ means…",
+        "options": [
+          "My mother",
+          "My father",
+          "Your father",
+          "Our family"
+        ],
+        "correctIndex": 1,
+        "explanation": "Moj = my (masculine); otac = father."
+      },
+      {
+        "id": "q5",
+        "question": "Mrvica is a…",
+        "options": [
+          "mačka",
+          "brat",
+          "djed",
+          "fildžan"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mrvica je mačka — the café cat."
+      },
+      {
+        "id": "q6",
+        "question": "A female friend is a…",
+        "options": [
+          "prijatelj",
+          "prijateljica",
+          "porodica",
+          "kći"
+        ],
+        "correctIndex": 1,
+        "explanation": "Prijateljica = female friend."
+      },
+      {
+        "id": "q7",
+        "question": "‘Baba’ in this lesson means…",
+        "options": [
+          "Father",
+          "Grandmother",
+          "Daughter",
+          "Coffee"
+        ],
+        "correctIndex": 1,
+        "explanation": "Baba = grandmother."
+      },
+      {
+        "id": "q8",
+        "question": "Which possessive goes with ‘mačka’?",
+        "options": [
+          "moj",
+          "moja",
+          "tvoj only",
+          "on"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mačka is feminine → moja mačka."
+      },
+      {
+        "id": "q9",
+        "question": "‘Porodica’ means…",
+        "options": [
+          "Friend",
+          "Family",
+          "City",
+          "Bridge"
+        ],
+        "correctIndex": 1,
+        "explanation": "Porodica = family — blood family or café family."
+      }
+    ]
   },
-  "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to: Café “family” + the cat"
-  ]
+  "dictionaryEntries": [
+    {
+      "bosnian": "porodica",
+      "english": "family",
+      "partOfSpeech": "noun",
+      "day": 4
+    },
+    {
+      "bosnian": "majka",
+      "english": "mother",
+      "partOfSpeech": "noun",
+      "day": 4
+    },
+    {
+      "bosnian": "otac",
+      "english": "father",
+      "partOfSpeech": "noun",
+      "day": 4
+    },
+    {
+      "bosnian": "sestra",
+      "english": "sister",
+      "partOfSpeech": "noun",
+      "day": 4
+    },
+    {
+      "bosnian": "brat",
+      "english": "brother",
+      "partOfSpeech": "noun",
+      "day": 4
+    },
+    {
+      "bosnian": "baba",
+      "english": "grandmother",
+      "partOfSpeech": "noun",
+      "day": 4
+    },
+    {
+      "bosnian": "djed",
+      "english": "grandfather",
+      "partOfSpeech": "noun",
+      "day": 4
+    },
+    {
+      "bosnian": "sin",
+      "english": "son",
+      "partOfSpeech": "noun",
+      "day": 4
+    },
+    {
+      "bosnian": "kći",
+      "english": "daughter",
+      "partOfSpeech": "noun",
+      "day": 4
+    },
+    {
+      "bosnian": "mačka",
+      "english": "cat",
+      "partOfSpeech": "noun",
+      "day": 4
+    },
+    {
+      "bosnian": "prijatelj",
+      "english": "friend (male)",
+      "partOfSpeech": "noun",
+      "day": 4
+    },
+    {
+      "bosnian": "prijateljica",
+      "english": "friend (female)",
+      "partOfSpeech": "noun",
+      "day": 4
+    },
+    {
+      "bosnian": "moj",
+      "english": "my (masculine)",
+      "partOfSpeech": "possessive",
+      "day": 4
+    },
+    {
+      "bosnian": "moja",
+      "english": "my (feminine)",
+      "partOfSpeech": "possessive",
+      "day": 4
+    },
+    {
+      "bosnian": "tvoj",
+      "english": "your (masculine)",
+      "partOfSpeech": "possessive",
+      "day": 4
+    },
+    {
+      "bosnian": "tvoja",
+      "english": "your (feminine)",
+      "partOfSpeech": "possessive",
+      "day": 4
+    }
+  ],
+  "images": [
+    {
+      "id": "cafe-family",
+      "alt": "Polygon painting of an open Sarajevo café terrace with tables for regulars",
+      "localPath": "/images/book1/day-04-cafe-family.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarajevo_Ferhadija_2007-08-16.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_Ferhadija_2007-08-16.jpg",
+      "author": "Milan Suvajac",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Open café on Ferhadija, Sarajevo — Milan Suvajac / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "mrvica-cat",
+      "alt": "Polygon painting of a tabby café cat lounging on a wooden chair",
+      "localPath": "/images/book1/day-04-mrvica.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cat_November_2010-1a.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Cat_November_2010-1a.jpg",
+      "author": "Alvesgaspar",
+      "license": "CC BY-SA 3.0",
+      "credit": "Based on photo: Cat — Alvesgaspar / Wikimedia Commons (CC BY-SA 3.0)"
+    },
+    {
+      "id": "family-table",
+      "alt": "Polygon painting of shared bread and coffee on a family-style café table",
+      "localPath": "/images/book1/day-04-family-table.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_coffee_(13926468997).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_coffee_(13926468997).jpg",
+      "author": "Michał Huniewicz",
+      "license": "CC BY 2.0",
+      "credit": "Based on photo: Bosnian coffee gathering mood — Michał Huniewicz / Wikimedia Commons (CC BY 2.0)"
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": []
 }
