@@ -8,32 +8,32 @@
 
 - EN: Lesson 7 — Week 1 review
 - BS: Sedmica 1 — ponavljanje
-- Background: phone photo collage / café table
+- Background: Jajce Pliva waterfall
 
 ## Narration + on-screen cues
 
 ### 0:00 Cold open
-**Narration:** Lesson 7: Sedmica 1 — ponavljanje. Week One review. Ana opens a photo diary — six pictures, six lines of Bosnian.
+**Narration:** Lesson 7: Sedmica 1 — ponavljanje. Week One review. Caption the café week — then open postcards from Jajce, Blagaj, and Počitelj. Bosnia is bigger than two cities.
 **On screen:** Sedmica 1 — ponavljanje | Lesson 7
 
 ### 0:40 Goals
-**Narration:** Recycle greetings, biti, café numbers, family possessives, place words, and time. No new rabbit holes — only your weak spots.
-**On screen:** Goals · recycle Week 1 · photo captions
+**Narration:** Recycle greetings, biti, café, family, place, and time. Add three new place names as map teases: Jajce, Blagaj, Počitelj.
+**On screen:** Goals · recycle Week 1 · Jajce · Blagaj · Počitelj
 
 ### 1:30 Culture hook
-**Narration:** A phone full of Sebilj, kahva, Mrvica, a map, the clock tower, and Amira’s door. Caption each photo and the week sticks.
-**On screen:** foto diary · (credit image)
+**Narration:** Jajce — a waterfall in the town. Blagaj — the tekija at the Buna spring. Počitelj — stone houses on a Herzegovina hill. Keep Sarajevo as home base; keep the country as the classroom.
+**On screen:** Jajce · Blagaj · Počitelj · (credit images)
 
 ### 3:00 Lesson A — Toolkit speed round
-**Narration:** Zdravo. Ja sam… Kahvu, molim. Moj / moja. Gdje je…? Ovdje / tamo. Koliko je sati? Danas / sutra. Say them fast, then fix three mistakes carefully.
+**Narration:** Zdravo. Ja sam… Kahvu, molim. Moj / moja. Gdje je…? Ovdje / tamo. Koliko je sati? Danas / sutra. Fast, then fix three mistakes.
 **On screen (cards):** sam/si/je · moj/moja · gdje · sati
 
-### 5:00 Lesson B — Six captions
-**Narration:** One line per photo: Zdravo, Sarajevo. Ja sam Ana. Kahva kod Amire. Moja mačka Mrvica. Gdje je Mostar? Tamo. Danas je petak. That is your Week 1 story.
-**On screen:** six caption cards
+### 5:00 Lesson B — Captions + postcards
+**Narration:** Six Week 1 captions, then: Gdje je Jajce? Tamo. Blagaj — Buna. Počitelj — stari grad. That is your review story.
+**On screen:** caption cards · place name cards
 
 ### 6:00 Mini dialogue + CTA
-**Narration:** Listen to the café slideshow. Pause and repeat. Next week — Lesson 8: Volim burek. Food disasters begin.
+**Narration:** Listen to the café postcard stack. Pause and repeat. Next week — Lesson 8: Volim burek.
 **On screen:** Dialogue · Next: Volim burek | Subscribe
 
 ## End screen

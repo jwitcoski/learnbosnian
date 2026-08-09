@@ -45,6 +45,8 @@ Every chapter JSON must include (even review days):
 
 ## Images
 
+- **Geographic diversity:** Do not recycle Sarajevo/Mostar café-and-bridge art every lesson. Prefer accurate, newly credited places across BiH (central Bosnia, Herzegovina, Una/Krajina, north, mountains, Neum coast). Culture hooks and fun facts should teach a fresh place fact, not rehash Sebilj/Stari Most.
+
 - Free licenses only (Wikimedia Commons, Unsplash, Pexels)
 - Always store `author`, `license`, `sourceUrl` / `pageUrl`, and display credit
 - If missing: set `imagesNeeded: true` and add `imageBriefs` for the human reviewer

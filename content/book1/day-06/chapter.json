@@ -4,12 +4,12 @@
   "week": 1,
   "title": "Koliko je sati?",
   "titleEn": "What time is it?",
-  "theme": "City daily rhythm",
+  "theme": "Clocks and daily rhythm across BiH",
   "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "Full draft to Lesson 1 exemplar bar — ready for human review before publish.",
+  "reviewerNotes": "Revised for BiH geographic diversity (Travnik, Una/Bihać, Neum) and accurate Travnik sahat-kula art — ready for human review.",
   "estimatedMinutes": 60,
-  "storyBeat": "Ana learns Sarajevo’s daily rhythm — morning kahva, midday heat, evening stroll — and how to ask the time.",
+  "storyBeat": "Emir teaches Ana the time — then shows that Bosnia’s rhythm is bigger than one city: Travnik’s sahat-kula, Una mornings near Bihać, weekend dreams of Neum.",
   "learningGoals": {
     "vocabulary": [
       "Clock question: Koliko je sati?",
@@ -22,8 +22,8 @@
       "Weekday names as ready-made words"
     ],
     "culture": [
-      "Sarajevo’s daily rhythm and the Sahat-kula clock tower",
-      "When cafés fill and the old town slows"
+      "Sahat-kule (clock towers) in towns across BiH — not only Sarajevo",
+      "Travnik under Vlašić; Una near Bihać; Neum on the Adriatic"
     ]
   },
   "vocabulary": [
@@ -197,15 +197,15 @@
     }
   ],
   "culture": {
-    "title": "Sahat-kula and the city’s clock",
-    "body": "Near Gazi Husrev-beg’s mosque stands the Sahat-kula — Sarajevo’s clock tower — once set to lunar time for prayer. The city still has a rhythm: slow jutro with kahva, bright podne when stone streets bake, soft večer when Baščaršija fills again. Ana learns not only numbers on a watch, but when Emir says kasno and when Amira’s chairs are free. Time here is both the clock and the café.",
-    "imageId": "sahat-kula"
+    "title": "Time across Bosnia — Travnik’s sahat-kula",
+    "body": "Ottoman Bosnia left sahat-kule — clock towers — in many towns, not just Sarajevo. Emir’s photo today is Travnik: a stone sahat-kula under the cliffs of Mount Vlašić, once the seat of Ottoman viziers. Sarajevo’s tower by Gazi Husrev-beg’s mosque was famous for lunar prayer time; Travnik’s keeps its own skyline. Day rhythm changes with place too — misty jutro on the Una near Bihać, bright popodne inland, večer plans for Neum, Bosnia’s short Adriatic coast. Learning Koliko je sati? also means learning where in the country that hour belongs.",
+    "imageId": "travnik-sahat"
   },
   "lessonBlocks": [
     {
       "id": "a",
       "title": "Lesson A — Ask the time",
-      "body": "Drill Koliko je sati? then answer with Lesson 3 numbers: Pet je sati. Osam je sati. Deset je sati. Jedan je sat. Add place chunks: U osam sati — kod Amire. U dvanaest sati — podne. Point at a watch or phone and swap roles with Emir. Ana keeps saying Kasno je! when she is late for kahva.",
+      "body": "Drill Koliko je sati? then answer with Lesson 3 numbers: Pet je sati. Osam je sati. Deset je sati. Jedan je sat. Add place chunks: U osam sati — kod Amire. U dvanaest sati — podne. Emir flips a postcard of Travnik’s sahat-kula while Ana practices — the same question works in every Bosnian town. Ana still says Kasno je! when she is late for kahva.",
       "tips": [
         "Question kit: Koliko je sati?",
         "Reuse numbers 1–12 from Lesson 3"
@@ -214,7 +214,7 @@
     {
       "id": "b",
       "title": "Lesson B — Days and the week’s plan",
-      "body": "Chant the weekdays twice. Then build real lines: Danas je petak. Sutra je subota. Mark parts of day: jutro, podne, popodne, večer. Emir sketches Ana’s week on a napkin: ponedjeljak — mapa; srijeda — porodica; petak — kahva; subota — spor dan. End with one plan: Sutra u deset sati, kod Amire!",
+      "body": "Chant the weekdays twice. Then build real lines: Danas je petak. Sutra je subota. Mark parts of day: jutro, podne, popodne, večer. Emir sketches a wider week on a napkin: subota — Una? nedjelja — Neum san? For now they stay in Sarajevo, but sutra always points somewhere on the map of BiH. End with one plan: Sutra u deset sati, kod Amire!",
       "tips": [
         "Danas / sutra + weekday",
         "četvrtak and srijeda need careful letters"
@@ -223,7 +223,7 @@
   ],
   "conversation": {
     "title": "Koliko je sati, Emire?",
-    "setting": "Outside Amira’s, late afternoon. Ana checks her phone; Emir points toward the old town clock.",
+    "setting": "Outside Amira’s, late afternoon. Ana checks her phone; Emir shows a postcard of Travnik’s clock tower under Vlašić.",
     "lines": [
       {
         "speaker": "Ana",
@@ -257,13 +257,13 @@
       },
       {
         "speaker": "Emir",
-        "bosnian": "Da. Sutra u deset sati — ovdje!",
-        "english": "Yes. Tomorrow at ten o’clock — here!"
+        "bosnian": "Da. Sutra u deset sati — ovdje. Poslije… Travnik? Una?",
+        "english": "Yes. Tomorrow at ten o’clock — here. Later… Travnik? The Una?"
       },
       {
         "speaker": "Amira",
-        "bosnian": "Dobro. Jutro je bolje za kahvu.",
-        "english": "Good. Morning is better for coffee."
+        "bosnian": "Dobro. Jutro za kahvu. Subota za rijeku!",
+        "english": "Good. Morning for coffee. Saturday for the river!"
       }
     ]
   },
@@ -377,20 +377,20 @@
   ],
   "funFacts": [
     {
-      "title": "Sahat-kula",
-      "body": "Sarajevo’s clock tower near the Bey’s mosque is a landmark for meeting points and old lunar timekeeping stories. Look up — then look at your watch."
+      "title": "Travnik and Vlašić",
+      "body": "Travnik sat as a major Ottoman administrative centre; its sahat-kula stands with Mount Vlašić behind it. Vizier-town history is part of central Bosnia’s identity — far from a Sarajevo-only story."
     },
     {
-      "title": "Petak energy",
-      "body": "Friday afternoon in the old town often feels like the week exhaling. Good day to practice Danas je petak out loud."
+      "title": "Many sahat-kule",
+      "body": "Clock towers appear in towns across BiH (Sarajevo, Travnik, and others). Sarajevo’s is often remembered for once tracking lunar prayer time — a detail that makes Koliko je sati? feel rooted in local history."
     },
     {
-      "title": "Sat vs sati",
-      "body": "You will hear both. This lesson’s safe kit: Jedan je sat for 1:00, and number + je sati for many other whole hours — then listen for local rhythm."
+      "title": "Una mornings near Bihać",
+      "body": "In the northwest, the Una River runs clear past Bihać. Locals talk about jutro on the river the way Sarajevo talks about kahva — different place, same love of a slow start."
     },
     {
-      "title": "Sutra u deset",
-      "body": "Planning with sutra + u + number + sati is a Week 1 superpower. Emir uses it constantly."
+      "title": "Neum — Bosnia touches the sea",
+      "body": "BiH has a short Adriatic coastline at Neum. Weekend sutra plans sometimes mean salt air, not only mountain towns — useful when you dream in danas / sutra."
     }
   ],
   "resources": [
@@ -500,15 +500,15 @@
       },
       {
         "id": "q8",
-        "question": "Sahat-kula in this lesson is…",
+        "question": "Travnik’s sahat-kula sits under which mountain?",
         "options": [
-          "Amira’s cat",
-          "Sarajevo’s clock tower",
-          "A type of coffee",
-          "The river in Mostar"
+          "Trebević",
+          "Vlašić",
+          "Bjelašnica",
+          "Igman"
         ],
         "correctIndex": 1,
-        "explanation": "The Sahat-kula is the city’s historic clock tower."
+        "explanation": "Travnik’s clock tower stands with Mount Vlašić behind it — central Bosnia, not Sarajevo."
       },
       {
         "id": "q9",
@@ -624,34 +624,34 @@
   ],
   "images": [
     {
-      "id": "sahat-kula",
-      "alt": "Polygon painting of Sarajevo’s Sahat-kula clock tower above the old town",
-      "localPath": "/images/book1/day-06-sahat-kula.png",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sahat_kula_in_Sarajevo.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sahat_kula_in_Sarajevo.jpg",
-      "author": "Bernard Gagnon",
-      "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Sahat kula in Sarajevo — Bernard Gagnon / Wikimedia Commons (CC BY-SA 4.0)"
+      "id": "travnik-sahat",
+      "alt": "Polygon painting of Travnik’s sahat-kula clock tower beneath Mount Vlašić",
+      "localPath": "/images/book1/day-06-travnik-sahat.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sahat_Kule_01.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sahat_Kule_01.JPG",
+      "author": "Meyavuz",
+      "license": "CC BY-SA 2.5",
+      "credit": "Based on photo: Sahat-kula, Travnik — Meyavuz / Wikimedia Commons (CC BY-SA 2.5)"
     },
     {
-      "id": "evening-carsija",
-      "alt": "Polygon painting of Baščaršija streets in soft evening light",
-      "localPath": "/images/book1/day-06-evening-carsija.png",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ba%C5%A1%C4%8Dar%C5%A1ija_2014.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ba%C5%A1%C4%8Dar%C5%A1ija_2014.jpg",
-      "author": "Choinowski",
+      "id": "una-bihac",
+      "alt": "Polygon painting of the clear Una River near Bihać in northwest Bosnia",
+      "localPath": "/images/book1/day-06-una-bihac.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Una_near_Biha%C4%87_2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Una_near_Biha%C4%87_2.jpg",
+      "author": "Miha Peče",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Baščaršija — Choinowski / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Based on photo: Una near Bihać — Miha Peče / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
-      "id": "cafe-morning",
-      "alt": "Polygon painting of morning Bosnian coffee on a copper tray",
-      "localPath": "/images/book1/day-06-morning-kahva.png",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_coffee_(13926468997).jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_coffee_(13926468997).jpg",
-      "author": "Michał Huniewicz",
-      "license": "CC BY 2.0",
-      "credit": "Based on photo: Bosnian coffee — Michał Huniewicz / Wikimedia Commons (CC BY 2.0)"
+      "id": "neum-coast",
+      "alt": "Polygon painting of Neum on Bosnia and Herzegovina’s short Adriatic coast",
+      "localPath": "/images/book1/day-06-neum.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Neum_(BiH)_-_general_view.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Neum_(BiH)_-_general_view.jpg",
+      "author": "Pudelek (Marcin Szala)",
+      "license": "CC BY-SA 3.0",
+      "credit": "Based on photo: Neum, BiH — Pudelek (Marcin Szala) / Wikimedia Commons (CC BY-SA 3.0)"
     }
   ],
   "imagesNeeded": false,

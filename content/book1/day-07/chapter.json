@@ -4,12 +4,12 @@
   "week": 1,
   "title": "Sedmica 1 — ponavljanje",
   "titleEn": "Week 1 — review",
-  "theme": "Ana’s first-week photo diary",
+  "theme": "Week 1 review + postcards from across BiH",
   "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "Week 1 review draft — recycle Lessons 1–6; ready for human review before publish.",
+  "reviewerNotes": "Revised Week 1 review to open BiH geography (Jajce, Blagaj, Počitelj) instead of recycling Sarajevo-only imagery — ready for human review.",
   "estimatedMinutes": 50,
-  "storyBeat": "Ana flips through a phone photo diary of Week 1 — Sebilj, kahva, Mrvica, the map, and the clock — and retells the week in short Bosnian lines.",
+  "storyBeat": "Ana captions her Sarajevo week — then Emir slides in postcards from Jajce, Blagaj, and Počitelj so the review opens the whole country.",
   "learningGoals": {
     "vocabulary": [
       "Recycle Week 1: greetings, biti, numbers/café, family, places, time",
@@ -20,8 +20,8 @@
       "Remember: Gdje je…? and Koliko je sati?"
     ],
     "culture": [
-      "A first-week photo diary as a memory tool",
-      "Closing Week 1 at Amira’s table"
+      "Week 1 photo captions as memory tools",
+      "New places beyond the big two: Jajce, Blagaj (Buna), Počitelj"
     ]
   },
   "vocabulary": [
@@ -135,9 +135,9 @@
     }
   ],
   "culture": {
-    "title": "A phone full of Week 1",
-    "body": "Ana scrolls six photos: the Sebilj fountain, a copper tray of kahva, Mrvica on a chair, a folded map with Mostar circled, the Sahat-kula against evening sky, and Amira’s smiling doorway. A photo diary is how travelers lock language to place. Say one Bosnian line per picture — that is today’s whole method. Week 1 ends at the same table where it found a home.",
-    "imageId": "photo-diary"
+    "title": "Diary of a week — and postcards farther out",
+    "body": "Ana can caption Sebilj and kahva now. Emir will not let Week 1 end as a two-city postcard rack. He adds three images from across Bosnia and Herzegovina: the Pliva waterfall at Jajce, where a river falls through the town; the Blagaj tekija tucked under a cliff at the Buna spring; and Počitelj’s stone houses stacked above the Neretva valley. Review the language — then aim your next sutra at a wider map. Book 1 lives in Sarajevo for the plot, but the country is the classroom.",
+    "imageId": "jajce-pliva"
   },
   "lessonBlocks": [
     {
@@ -152,51 +152,51 @@
     {
       "id": "b",
       "title": "Lesson B — Photo diary captions",
-      "body": "Write or say six captions, one per Week 1 beat: (1) Zdravo, Sarajevo! (2) Ja sam Ana. (3) Kahva kod Amire. (4) Moja mačka Mrvica. (5) Gdje je Mostar? Tamo. (6) Danas je petak — deset je sati. That sequence is your priča for Sedmica 1. Share it at the table; Amira stamps the week with Hvala — i sutra!",
+      "body": "Caption six lines for Week 1 skills — then three bonus place lines Emir teaches as teases: Jajce — vodopad. Blagaj — Buna. Počitelj — stari grad. You do not need full sentences yet; glue them with Gdje je…? and Tamo. Share the diary at the table; Amira stamps the week with Hvala — i sutra! Week 2 will feed you burek and more of the map.",
       "tips": [
-        "One short line per photo",
-        "Reuse chunks; do not invent new grammar today"
+        "Week 1 lines first; then three new place names",
+        "Reuse Gdje je…? / Tamo for the postcard stack"
       ]
     }
   ],
   "conversation": {
-    "title": "Foto priča",
-    "setting": "Amira’s café. Ana’s phone on the table; Emir and Amira lean in for the slideshow.",
+    "title": "Foto priča — i razglednice",
+    "setting": "Amira’s café. Ana’s phone plus Emir’s postcards: Jajce, Blagaj, Počitelj.",
     "lines": [
       {
         "speaker": "Ana",
-        "bosnian": "Ovo je moja sedmica. Foto jedan — Sebilj!",
-        "english": "This is my week. Photo one — Sebilj!"
+        "bosnian": "Ovo je moja sedmica. Foto — kahva kod Amire!",
+        "english": "This is my week. Photo — coffee at Amira’s!"
       },
       {
         "speaker": "Emir",
-        "bosnian": "Da. Ja sam Emir. Drago mi je!",
-        "english": "Yes. I am Emir. Nice to meet you!"
+        "bosnian": "Bravo. A ovo? Jajce — vodopad!",
+        "english": "Bravo. And this? Jajce — a waterfall!"
       },
       {
         "speaker": "Ana",
-        "bosnian": "Foto dva — kahva. Hvala, Amira!",
-        "english": "Photo two — coffee. Thank you, Amira!"
+        "bosnian": "Gdje je Jajce?",
+        "english": "Where is Jajce?"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Tamo… u Bosni. Lijepo!",
+        "english": "Over there… in Bosnia. Beautiful!"
       },
       {
         "speaker": "Amira",
-        "bosnian": "Molim! I Mrvica?",
-        "english": "You’re welcome! And Mrvica?"
+        "bosnian": "I Blagaj? Tekija na Buna.",
+        "english": "And Blagaj? The tekke on the Buna."
       },
       {
         "speaker": "Ana",
-        "bosnian": "Foto tri — moja mačka!",
-        "english": "Photo three — my cat!"
+        "bosnian": "Blagaj… Počitelj?",
+        "english": "Blagaj… Počitelj?"
       },
       {
         "speaker": "Emir",
-        "bosnian": "A Mostar?",
-        "english": "And Mostar?"
-      },
-      {
-        "speaker": "Ana",
-        "bosnian": "Tamo… sutra? Ne — uskoro!",
-        "english": "Over there… tomorrow? No — soon!"
+        "bosnian": "Da! Počitelj — stari grad. Sutra na mapi!",
+        "english": "Yes! Počitelj — an old town. Tomorrow on the map!"
       },
       {
         "speaker": "Amira",
@@ -315,20 +315,20 @@
   ],
   "funFacts": [
     {
-      "title": "Six photos, six lines",
-      "body": "Captioning photos in the new language beats memorizing naked word lists. Your brain keeps the fountain with the greeting."
+      "title": "Jajce — town on a waterfall",
+      "body": "In Jajce the Pliva River drops as a waterfall right by the old town — a rare urban cascade and a medieval royal seat of the Bosnian kingdom."
     },
     {
-      "title": "Weak-word triage",
-      "body": "Week reviews are for hunting your personal fails — četvrtak, srijeda, moja/moj mix-ups — not for new rabbit holes."
+      "title": "Blagaj and the Buna spring",
+      "body": "At Blagaj, a Dervish tekija (tekke) sits under a cliff where the Buna River bursts from the rock — one of the strongest karst springs in the region."
     },
     {
-      "title": "Sedmica means week",
-      "body": "Related to sedam (seven). Handy when Book 1 keeps counting weeks."
+      "title": "Počitelj’s stone stack",
+      "body": "Počitelj climbs a hillside in Herzegovina in stone houses and a fortress silhouette — a preserved Ottoman-era settlement above the Neretva corridor."
     },
     {
-      "title": "Week 2 is food",
-      "body": "Next week opens with burek. Fuel up — and bring the Week 1 toolkit with you."
+      "title": "Banja Luka next on the mental map",
+      "body": "Farther north, Banja Luka spreads along the Vrbas with the Kastel fortress. Week reviews should keep adding real towns so BiH never shrinks to two postcard cities."
     }
   ],
   "resources": [
@@ -462,15 +462,15 @@
       },
       {
         "id": "q10",
-        "question": "‘Sedmica’ in this lesson means…",
+        "question": "Jajce is famous for…",
         "options": [
-          "Seven cats",
-          "Week",
-          "Bridge",
-          "Coffee cup"
+          "A desert",
+          "A waterfall in the town (Pliva)",
+          "Bosnia’s only airport",
+          "A type of coffee cup"
         ],
         "correctIndex": 1,
-        "explanation": "Sedmica = week — Sedmica 1 review."
+        "explanation": "Jajce’s Pliva waterfall falls beside the old town — a Week 1 postcard beyond Sarajevo/Mostar."
       }
     ]
   },
@@ -538,34 +538,34 @@
   ],
   "images": [
     {
-      "id": "photo-diary",
-      "alt": "Polygon painting of a phone showing travel photos on a café table beside kahva",
-      "localPath": "/images/book1/day-07-photo-diary.png",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_coffee_(13926468997).jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_coffee_(13926468997).jpg",
-      "author": "Michał Huniewicz",
-      "license": "CC BY 2.0",
-      "credit": "Based on photo mood: café table / Bosnian coffee — Michał Huniewicz / Wikimedia Commons (CC BY 2.0)"
-    },
-    {
-      "id": "week-sebilj",
-      "alt": "Polygon painting of Sebilj fountain recalling Ana’s first days",
-      "localPath": "/images/book1/day-07-sebilj-memory.png",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarajevo_-_Sebilj_fountain.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_-_Sebilj_fountain.jpg",
-      "author": "JoJan",
-      "license": "CC BY 3.0",
-      "credit": "Based on photo: Sebilj fountain, Sarajevo — JoJan / Wikimedia Commons (CC BY 3.0)"
-    },
-    {
-      "id": "week-table",
-      "alt": "Polygon painting of friends at a small Sarajevo café table celebrating the week",
-      "localPath": "/images/book1/day-07-cafe-celebration.png",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarajevo_Ferhadija_2007-08-16.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_Ferhadija_2007-08-16.jpg",
-      "author": "Milan Suvajac",
+      "id": "jajce-pliva",
+      "alt": "Polygon painting of the Pliva waterfall at Jajce with old-town walls",
+      "localPath": "/images/book1/day-07-jajce-pliva.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pliva_Waterfall_in_Jajce_02.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Pliva_Waterfall_in_Jajce_02.jpg",
+      "author": "Adam Harangozó",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Open café on Ferhadija — Milan Suvajac / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Based on photo: Pliva Waterfall in Jajce — Adam Harangozó / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "blagaj-tekija",
+      "alt": "Polygon painting of the Blagaj Dervish tekija at the Buna river spring",
+      "localPath": "/images/book1/day-07-blagaj.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tekija_Blagaj_-_Vrelo_Bune.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Tekija_Blagaj_-_Vrelo_Bune.jpg",
+      "author": "Yakamooda",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Tekija Blagaj at the Buna spring — Yakamooda / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "pocitelj",
+      "alt": "Polygon painting of Počitelj’s stone houses and fortress hill in Herzegovina",
+      "localPath": "/images/book1/day-07-pocitelj.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Po%C4%8Ditelj_-_pano.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Po%C4%8Ditelj_-_pano.jpg",
+      "author": "Pudelek (Marcin Szala)",
+      "license": "CC BY-SA 3.0",
+      "credit": "Based on photo: Počitelj panorama — Pudelek (Marcin Szala) / Wikimedia Commons (CC BY-SA 3.0)"
     }
   ],
   "imagesNeeded": false,

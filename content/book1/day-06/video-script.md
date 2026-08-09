@@ -8,36 +8,36 @@
 
 - EN: Lesson 6 — What time is it?
 - BS: Koliko je sati?
-- Background: Sahat-kula clock tower
+- Background: Travnik sahat-kula under Vlašić
 
 ## Narration + on-screen cues
 
 ### 0:00 Cold open
-**Narration:** Lesson 6: Koliko je sati? What time is it? Ana learns Sarajevo’s daily rhythm — and how to read the week on a napkin.
-**On screen:** Koliko je sati? | Lesson 6
+**Narration:** Lesson 6: Koliko je sati? What time is it? Bosnia’s clocks are not only in Sarajevo — today we meet Travnik’s sahat-kula under Mount Vlašić.
+**On screen:** Koliko je sati? | Lesson 6 | Travnik
 
 ### 0:40 Goals
-**Narration:** Ask the time, say today and tomorrow, and chant the weekdays from ponedjeljak to nedjelja.
-**On screen:** Goals · Koliko je sati? · danas/sutra · weekdays
+**Narration:** Ask the time, say today and tomorrow, chant the weekdays — and pin those hours on a wider map of BiH.
+**On screen:** Goals · Koliko je sati? · danas/sutra · weekdays · BiH places
 
 ### 1:30 Culture hook
-**Narration:** The Sahat-kula clock tower watches the old town. Mornings mean kahva; evenings refill Baščaršija. Time is the clock and the café.
-**On screen:** Sahat-kula · jutro · večer · (credit image)
+**Narration:** Sahat-kule — clock towers — stand in towns across Bosnia. Travnik’s rises with Vlašić behind it. Sarajevo’s tower by the Bey’s mosque once tracked lunar prayer time. Northwest, mornings belong to the Una near Bihać. And yes — Bosnia touches the Adriatic at Neum.
+**On screen:** Travnik · Vlašić · Una · Neum · (credit images)
 
 ### 3:00 Lesson A — The time question
-**Narration:** Koliko je sati? Answer with numbers you know: Pet je sati. Osam je sati. Jedan je sat. Plan with chunks: U deset sati. Kod Amire.
+**Narration:** Koliko je sati? Answer with numbers you know: Pet je sati. Osam je sati. Jedan je sat. Plan with chunks: U deset sati. Kod Amire. Same question in every town.
 **On screen (cards):** Koliko je sati? | Jedan je sat | Osam je sati | U deset sati
 
 ### 5:00 Lesson B — Days of the week
-**Narration:** Danas — today. Sutra — tomorrow. Chant: ponedjeljak, utorak, srijeda, četvrtak, petak, subota, nedjelja. Danas je petak. Sutra je subota.
+**Narration:** Danas — today. Sutra — tomorrow. Chant: ponedjeljak through nedjelja. Dream a Saturday on the river, a Sunday toward the coast — then book tomorrow’s kahva in town.
 **On screen:** danas | sutra | weekday row · četvrtak tip
 
 ### 6:30 Mini dialogue
-**Narration:** Ana asks Emir the time; they book tomorrow’s kahva. Pause and repeat.
+**Narration:** Ana asks the time; Emir teases Travnik and the Una for later. Pause and repeat.
 **On screen:** Dialogue lines from chapter (BS + EN)
 
 ### 8:00 Practice prompt
-**Narration:** Pause for the site puzzles. Next — Lesson 7: Sedmica 1 review. Photo diary time.
+**Narration:** Pause for the site puzzles. Next — Lesson 7: Week 1 review with postcards from Jajce, Blagaj, and Počitelj.
 **On screen:** Practice · Next: Sedmica 1 — ponavljanje | Subscribe
 
 ## End screen
