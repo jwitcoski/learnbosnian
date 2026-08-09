@@ -17,8 +17,8 @@
 |-------|---------|--------|
 | Exemplar | 1 | draft (mold) |
 | Aligned | 2–3 | draft (same fashion) |
-| A | 4–5 | draft (same fashion); 6 still outlined |
-| B | 6–7 | Lesson 6 next, then Week 1 review |
+| A | 4–6 | draft (same fashion) |
+| B | 7 | draft (Week 1 review) |
 | C–D | 8–14 | Week 2 + review |
 | E–F | 15–21 | Week 3 + review |
 | G–H | 22–30 | Week 4 + finale |
@@ -37,8 +37,8 @@ Ana (learner), Emir (guide), Amira (café), Mrvica (cat)
 | 3 | Brojevi i kahva | draft | Full draft (1–20, kahva order, Amira’s) — needs human review | script ready |
 | 4 | Porodica Mrvice | draft | Full draft (family, moj/moja, café family) — needs human review | script ready |
 | 5 | Gdje je Mostar? | draft | Full draft (gdje/ovdje/tamo, u/na/kod, Mostar tease) — needs human review | script ready |
-| 6 | Koliko je sati? | outlined | | |
-| 7 | Sedmica 1 — ponavljanje | outlined | | |
+| 6 | Koliko je sati? | draft | Full draft (time, weekdays, danas/sutra, Sahat-kula) — needs human review | script ready |
+| 7 | Sedmica 1 — ponavljanje | draft | Week 1 review draft (photo diary) — needs human review | script ready |
 | 8 | Volim burek | outlined | | |
 | 9 | U prodavnici | outlined | | |
 | 10 | Moja soba | outlined | | |

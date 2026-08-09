@@ -5,54 +5,569 @@
   "title": "Sedmica 1 — ponavljanje",
   "titleEn": "Week 1 — review",
   "theme": "Ana’s first-week photo diary",
-  "status": "outlined",
+  "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "",
-  "estimatedMinutes": 60,
-  "storyBeat": "Photo diary of the first week",
+  "reviewerNotes": "Week 1 review draft — recycle Lessons 1–6; ready for human review before publish.",
+  "estimatedMinutes": 50,
+  "storyBeat": "Ana flips through a phone photo diary of Week 1 — Sebilj, kahva, Mrvica, the map, and the clock — and retells the week in short Bosnian lines.",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 7: Review days 1–6"
+      "Recycle Week 1: greetings, biti, numbers/café, family, places, time",
+      "Light diary words: sedmica, foto, priča"
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Remember: sam/si/je and moj/moja",
+      "Remember: Gdje je…? and Koliko je sati?"
     ],
     "culture": [
-      "Ana’s first-week photo diary"
+      "A first-week photo diary as a memory tool",
+      "Closing Week 1 at Amira’s table"
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "sedmica",
+      "english": "week",
+      "pronunciation": "SED-mee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Sedmica 1 je gotova."
+    },
+    {
+      "bosnian": "foto",
+      "english": "photo (short / casual)",
+      "pronunciation": "FO-to",
+      "partOfSpeech": "noun",
+      "example": "Jedna foto — Sebilj."
+    },
+    {
+      "bosnian": "priča",
+      "english": "story",
+      "pronunciation": "PREE-cha",
+      "partOfSpeech": "noun",
+      "example": "To je moja priča."
+    },
+    {
+      "bosnian": "zdravo",
+      "english": "hi / hello",
+      "pronunciation": "ZDRAH-vo",
+      "partOfSpeech": "interjection",
+      "example": "Zdravo, Emire!"
+    },
+    {
+      "bosnian": "hvala",
+      "english": "thank you",
+      "pronunciation": "HVAH-lah",
+      "partOfSpeech": "interjection",
+      "example": "Hvala, Amira!"
+    },
+    {
+      "bosnian": "kahva",
+      "english": "coffee",
+      "pronunciation": "KAH-vah",
+      "partOfSpeech": "noun",
+      "example": "Kahvu, molim."
+    },
+    {
+      "bosnian": "porodica",
+      "english": "family",
+      "pronunciation": "po-RO-dee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Mala porodica."
+    },
+    {
+      "bosnian": "mačka",
+      "english": "cat",
+      "pronunciation": "MACH-kah",
+      "partOfSpeech": "noun",
+      "example": "Mrvica je mačka."
+    },
+    {
+      "bosnian": "mapa",
+      "english": "map",
+      "pronunciation": "MAH-pah",
+      "partOfSpeech": "noun",
+      "example": "Gdje je mapa?"
+    },
+    {
+      "bosnian": "Mostar",
+      "english": "Mostar",
+      "pronunciation": "MOS-tar",
+      "partOfSpeech": "proper noun",
+      "example": "Mostar je tamo."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Remember — biti and possessives",
+      "explanation": "Week 1 core: Ja sam Ana. Ti si Emir. On je / Ona je… Pair with possessives: Moj prijatelj. Moja prijateljica. Moja mačka. If a noun ends in -a, try moja first.",
+      "examples": [
+        {
+          "bosnian": "Ja sam Ana. Ti si Emir.",
+          "english": "I am Ana. You are Emir."
+        },
+        {
+          "bosnian": "Emir je moj prijatelj.",
+          "english": "Emir is my friend."
+        },
+        {
+          "bosnian": "Moja mačka — Mrvica!",
+          "english": "My cat — Mrvica!"
+        }
+      ]
+    },
+    {
+      "title": "Remember — where and when",
+      "explanation": "Place kit: Gdje je…? Ovdje. Tamo. U Sarajevu. Kod Amire. Time kit: Koliko je sati? Danas / sutra + weekday. Put them in one diary line: Danas sam kod Amire. Sutra — mapa!",
+      "examples": [
+        {
+          "bosnian": "Gdje je Mostar? — Tamo.",
+          "english": "Where is Mostar? — Over there."
+        },
+        {
+          "bosnian": "Koliko je sati? — Deset je sati.",
+          "english": "What time is it? — It is ten."
+        },
+        {
+          "bosnian": "Danas sam kod Amire.",
+          "english": "Today I am at Amira’s."
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "Ana’s first-week photo diary",
-    "body": "Stub for Lesson 7. Full culture hook will be written on the draft night.",
-    "imageId": null
+    "title": "A phone full of Week 1",
+    "body": "Ana scrolls six photos: the Sebilj fountain, a copper tray of kahva, Mrvica on a chair, a folded map with Mostar circled, the Sahat-kula against evening sky, and Amira’s smiling doorway. A photo diary is how travelers lock language to place. Say one Bosnian line per picture — that is today’s whole method. Week 1 ends at the same table where it found a home.",
+    "imageId": "photo-diary"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A — Recycle the toolkit",
+      "body": "Rapid fire without notes: Zdravo! Ja sam… Drago mi je. Kahvu, molim. Koliko? Moj brat / Moja sestra. Gdje je mapa? Ovdje / tamo. Koliko je sati? Danas / sutra. Emir times Ana for two minutes. Misses are fine — laugh, repeat, move on. Circle three weak words and write them once with accents.",
+      "tips": [
+        "Speed over perfection — then one careful rewrite",
+        "Revisit čćšžđ from Lesson 1 if typing slips"
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B — Photo diary captions",
+      "body": "Write or say six captions, one per Week 1 beat: (1) Zdravo, Sarajevo! (2) Ja sam Ana. (3) Kahva kod Amire. (4) Moja mačka Mrvica. (5) Gdje je Mostar? Tamo. (6) Danas je petak — deset je sati. That sequence is your priča for Sedmica 1. Share it at the table; Amira stamps the week with Hvala — i sutra!",
+      "tips": [
+        "One short line per photo",
+        "Reuse chunks; do not invent new grammar today"
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Foto priča",
+    "setting": "Amira’s café. Ana’s phone on the table; Emir and Amira lean in for the slideshow.",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "bosnian": "Ovo je moja sedmica. Foto jedan — Sebilj!",
+        "english": "This is my week. Photo one — Sebilj!"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Da. Ja sam Emir. Drago mi je!",
+        "english": "Yes. I am Emir. Nice to meet you!"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Foto dva — kahva. Hvala, Amira!",
+        "english": "Photo two — coffee. Thank you, Amira!"
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Molim! I Mrvica?",
+        "english": "You’re welcome! And Mrvica?"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Foto tri — moja mačka!",
+        "english": "Photo three — my cat!"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "A Mostar?",
+        "english": "And Mostar?"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Tamo… sutra? Ne — uskoro!",
+        "english": "Over there… tomorrow? No — soon!"
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Bravo, Ana. Sedmica 1 — gotova!",
+        "english": "Bravo, Ana. Week 1 — done!"
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Week 1 rapid match",
+      "prompt": "Match Bosnian from Lessons 1–6 to English.",
+      "items": [
+        {
+          "left": "zdravo",
+          "right": "hello"
+        },
+        {
+          "left": "kahva",
+          "right": "coffee"
+        },
+        {
+          "left": "porodica",
+          "right": "family"
+        },
+        {
+          "left": "ovdje",
+          "right": "here"
+        },
+        {
+          "left": "sutra",
+          "right": "tomorrow"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "truefalse",
+      "title": "Week 1 true or false",
+      "prompt": "Mark each statement true or false.",
+      "items": [
+        {
+          "statement": "‘Ja sam Ana’ uses the verb biti.",
+          "answer": true
+        },
+        {
+          "statement": "‘Moja brat’ is correct agreement.",
+          "answer": false
+        },
+        {
+          "statement": "‘Gdje je Mostar?’ asks where Mostar is.",
+          "answer": true
+        },
+        {
+          "statement": "‘Danas’ means tomorrow.",
+          "answer": false
+        },
+        {
+          "statement": "Mrvica is a mačka at Amira’s café.",
+          "answer": true
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Write ‘hello’ as taught in Week 1 (zdravo).",
+      "hint": "zd-…",
+      "answer": "zdravo"
+    },
+    {
+      "id": "pr2",
+      "prompt": "Type: I am Ana.",
+      "hint": "Ja sam…",
+      "answer": "Ja sam Ana"
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write the BiH café word for coffee.",
+      "hint": "With h",
+      "answer": "kahva"
+    },
+    {
+      "id": "pr4",
+      "prompt": "Write ‘my sister’ (moja + sestra).",
+      "hint": "Feminine possessive",
+      "answer": "Moja sestra"
+    },
+    {
+      "id": "pr5",
+      "prompt": "Type: Where is Mostar? (include ?)",
+      "hint": "Gdje je…?",
+      "answer": "Gdje je Mostar?"
+    },
+    {
+      "id": "pr6",
+      "prompt": "Write ‘here’ in Bosnian.",
+      "hint": "ov-…",
+      "answer": "ovdje"
+    },
+    {
+      "id": "pr7",
+      "prompt": "Type the time question (include ?).",
+      "hint": "Koliko je…?",
+      "answer": "Koliko je sati?"
+    },
+    {
+      "id": "pr8",
+      "prompt": "Write the word for week (sedmica).",
+      "hint": "sed-…",
+      "answer": "sedmica"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "Six photos, six lines",
+      "body": "Captioning photos in the new language beats memorizing naked word lists. Your brain keeps the fountain with the greeting."
+    },
+    {
+      "title": "Weak-word triage",
+      "body": "Week reviews are for hunting your personal fails — četvrtak, srijeda, moja/moj mix-ups — not for new rabbit holes."
+    },
+    {
+      "title": "Sedmica means week",
+      "body": "Related to sedam (seven). Handy when Book 1 keeps counting weeks."
+    },
+    {
+      "title": "Week 2 is food",
+      "body": "Next week opens with burek. Fuel up — and bring the Week 1 toolkit with you."
+    }
+  ],
   "resources": [
     {
       "label": "How to speak Bosnian — YouTube",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "note": "Companion video for Lesson 7 — Week 1 review"
+    },
+    {
+      "label": "Next: Lesson 8 — Volim burek",
+      "url": "/learn/lesson/8",
+      "note": "Week 2 begins — food and volim/ne volim"
+    },
+    {
+      "label": "Book 1 curriculum",
+      "url": "/learn",
+      "note": "See all lessons"
     }
   ],
   "sectionQuiz": {
-    "title": "Lesson 7 section quiz",
+    "title": "Lesson 7 — Week 1 review quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "question": "‘Zdravo’ means…",
+        "options": [
+          "Goodbye",
+          "Hello",
+          "Please",
+          "Coffee"
+        ],
+        "correctIndex": 1,
+        "explanation": "Zdravo = hi / hello (Lesson 1)."
+      },
+      {
+        "id": "q2",
+        "question": "Which forms are ‘I am / you are / he is’?",
+        "options": [
+          "sam / si / je",
+          "moj / moja / tvoj",
+          "ovdje / tamo / gdje",
+          "danas / sutra / petak"
+        ],
+        "correctIndex": 0,
+        "explanation": "Biti in Week 1: sam, si, je (Lesson 2)."
+      },
+      {
+        "id": "q3",
+        "question": "‘Kahvu, molim’ is how you…",
+        "options": [
+          "Ask the time",
+          "Order coffee politely",
+          "Say goodbye",
+          "Name your sister"
+        ],
+        "correctIndex": 1,
+        "explanation": "Café order chunk from Lesson 3."
+      },
+      {
+        "id": "q4",
+        "question": "Choose the correct phrase:",
+        "options": [
+          "moj sestra",
+          "moja sestra",
+          "moja brat",
+          "tvoj majka"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sestra is feminine → moja sestra (Lesson 4)."
+      },
+      {
+        "id": "q5",
+        "question": "Mrvica is…",
+        "options": [
+          "A river",
+          "A mačka",
+          "A weekday",
+          "A bridge only"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mrvica je mačka — the café cat."
+      },
+      {
+        "id": "q6",
+        "question": "‘Ovdje’ means…",
+        "options": [
+          "There",
+          "Here",
+          "Yesterday",
+          "Thursday"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ovdje = here; tamo = there (Lesson 5)."
+      },
+      {
+        "id": "q7",
+        "question": "How do you ask where Mostar is?",
+        "options": [
+          "Koliko je Mostar?",
+          "Gdje je Mostar?",
+          "Ja sam Mostar?",
+          "Mostar molim?"
+        ],
+        "correctIndex": 1,
+        "explanation": "Gdje je Mostar? (Lesson 5)."
+      },
+      {
+        "id": "q8",
+        "question": "‘Sutra’ means…",
+        "options": [
+          "Today",
+          "Tomorrow",
+          "Friday",
+          "Evening"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sutra = tomorrow (Lesson 6)."
+      },
+      {
+        "id": "q9",
+        "question": "‘Koliko je sati?’ asks…",
+        "options": [
+          "How much does it cost?",
+          "What time is it?",
+          "Where is the map?",
+          "Who is Emir?"
+        ],
+        "correctIndex": 1,
+        "explanation": "Time question from Lesson 6 (koliko košta? was price in Lesson 3)."
+      },
+      {
+        "id": "q10",
+        "question": "‘Sedmica’ in this lesson means…",
+        "options": [
+          "Seven cats",
+          "Week",
+          "Bridge",
+          "Coffee cup"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sedmica = week — Sedmica 1 review."
+      }
+    ]
   },
-  "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to: Ana’s first-week photo diary"
-  ]
+  "dictionaryEntries": [
+    {
+      "bosnian": "sedmica",
+      "english": "week",
+      "partOfSpeech": "noun",
+      "day": 7
+    },
+    {
+      "bosnian": "foto",
+      "english": "photo",
+      "partOfSpeech": "noun",
+      "day": 7
+    },
+    {
+      "bosnian": "priča",
+      "english": "story",
+      "partOfSpeech": "noun",
+      "day": 7
+    },
+    {
+      "bosnian": "zdravo",
+      "english": "hello",
+      "partOfSpeech": "interjection",
+      "day": 7
+    },
+    {
+      "bosnian": "hvala",
+      "english": "thank you",
+      "partOfSpeech": "interjection",
+      "day": 7
+    },
+    {
+      "bosnian": "kahva",
+      "english": "coffee",
+      "partOfSpeech": "noun",
+      "day": 7
+    },
+    {
+      "bosnian": "porodica",
+      "english": "family",
+      "partOfSpeech": "noun",
+      "day": 7
+    },
+    {
+      "bosnian": "mačka",
+      "english": "cat",
+      "partOfSpeech": "noun",
+      "day": 7
+    },
+    {
+      "bosnian": "mapa",
+      "english": "map",
+      "partOfSpeech": "noun",
+      "day": 7
+    },
+    {
+      "bosnian": "Mostar",
+      "english": "Mostar",
+      "partOfSpeech": "proper noun",
+      "day": 7
+    }
+  ],
+  "images": [
+    {
+      "id": "photo-diary",
+      "alt": "Polygon painting of a phone showing travel photos on a café table beside kahva",
+      "localPath": "/images/book1/day-07-photo-diary.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_coffee_(13926468997).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_coffee_(13926468997).jpg",
+      "author": "Michał Huniewicz",
+      "license": "CC BY 2.0",
+      "credit": "Based on photo mood: café table / Bosnian coffee — Michał Huniewicz / Wikimedia Commons (CC BY 2.0)"
+    },
+    {
+      "id": "week-sebilj",
+      "alt": "Polygon painting of Sebilj fountain recalling Ana’s first days",
+      "localPath": "/images/book1/day-07-sebilj-memory.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarajevo_-_Sebilj_fountain.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_-_Sebilj_fountain.jpg",
+      "author": "JoJan",
+      "license": "CC BY 3.0",
+      "credit": "Based on photo: Sebilj fountain, Sarajevo — JoJan / Wikimedia Commons (CC BY 3.0)"
+    },
+    {
+      "id": "week-table",
+      "alt": "Polygon painting of friends at a small Sarajevo café table celebrating the week",
+      "localPath": "/images/book1/day-07-cafe-celebration.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarajevo_Ferhadija_2007-08-16.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_Ferhadija_2007-08-16.jpg",
+      "author": "Milan Suvajac",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Open café on Ferhadija — Milan Suvajac / Wikimedia Commons (CC BY-SA 4.0)"
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": []
 }

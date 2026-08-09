@@ -5,54 +5,655 @@
   "title": "Koliko je sati?",
   "titleEn": "What time is it?",
   "theme": "City daily rhythm",
-  "status": "outlined",
+  "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "",
+  "reviewerNotes": "Full draft to Lesson 1 exemplar bar — ready for human review before publish.",
   "estimatedMinutes": 60,
-  "storyBeat": "Ana learns the city’s daily rhythm",
+  "storyBeat": "Ana learns Sarajevo’s daily rhythm — morning kahva, midday heat, evening stroll — and how to ask the time.",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 6: Clock time, weekdays, danas/sutra"
+      "Clock question: Koliko je sati?",
+      "Parts of day: jutro, podne, popodne, večer",
+      "Days: danas, sutra + weekdays ponedjeljak–nedjelja"
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Asking and answering the hour with sat/sati",
+      "Danas / sutra for today and tomorrow",
+      "Weekday names as ready-made words"
     ],
     "culture": [
-      "City daily rhythm"
+      "Sarajevo’s daily rhythm and the Sahat-kula clock tower",
+      "When cafés fill and the old town slows"
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "sat",
+      "english": "hour / clock (singular)",
+      "pronunciation": "saht",
+      "partOfSpeech": "noun",
+      "example": "Jedan je sat."
+    },
+    {
+      "bosnian": "sati",
+      "english": "hours (plural form in time answers)",
+      "pronunciation": "SAH-tee",
+      "partOfSpeech": "noun",
+      "example": "Pet je sati."
+    },
+    {
+      "bosnian": "jutro",
+      "english": "morning",
+      "pronunciation": "YOO-tro",
+      "partOfSpeech": "noun",
+      "example": "Dobro jutro!"
+    },
+    {
+      "bosnian": "podne",
+      "english": "noon / midday",
+      "pronunciation": "POD-neh",
+      "partOfSpeech": "noun",
+      "example": "U podne je vruće."
+    },
+    {
+      "bosnian": "popodne",
+      "english": "afternoon",
+      "pronunciation": "po-POD-neh",
+      "partOfSpeech": "noun",
+      "example": "Vidimo se popodne."
+    },
+    {
+      "bosnian": "večer",
+      "english": "evening",
+      "pronunciation": "VEH-cher",
+      "partOfSpeech": "noun",
+      "example": "Dobra večer!"
+    },
+    {
+      "bosnian": "danas",
+      "english": "today",
+      "pronunciation": "DAH-nas",
+      "partOfSpeech": "adverb",
+      "example": "Danas je petak."
+    },
+    {
+      "bosnian": "sutra",
+      "english": "tomorrow",
+      "pronunciation": "SOO-trah",
+      "partOfSpeech": "adverb",
+      "example": "Sutra je subota."
+    },
+    {
+      "bosnian": "ponedjeljak",
+      "english": "Monday",
+      "pronunciation": "po-NED-yel-yak",
+      "partOfSpeech": "noun",
+      "example": "Danas je ponedjeljak."
+    },
+    {
+      "bosnian": "utorak",
+      "english": "Tuesday",
+      "pronunciation": "OO-to-rak",
+      "partOfSpeech": "noun",
+      "example": "Sutra je utorak."
+    },
+    {
+      "bosnian": "srijeda",
+      "english": "Wednesday",
+      "pronunciation": "SREE-yeh-dah",
+      "partOfSpeech": "noun",
+      "example": "U srijedu — kahva."
+    },
+    {
+      "bosnian": "četvrtak",
+      "english": "Thursday",
+      "pronunciation": "CHET-vr-tak",
+      "partOfSpeech": "noun",
+      "example": "Četvrtak je danas."
+    },
+    {
+      "bosnian": "petak",
+      "english": "Friday",
+      "pronunciation": "PEH-tak",
+      "partOfSpeech": "noun",
+      "example": "Petak!"
+    },
+    {
+      "bosnian": "subota",
+      "english": "Saturday",
+      "pronunciation": "SOO-bo-tah",
+      "partOfSpeech": "noun",
+      "example": "Subota je dobra."
+    },
+    {
+      "bosnian": "nedjelja",
+      "english": "Sunday",
+      "pronunciation": "NED-yel-yah",
+      "partOfSpeech": "noun",
+      "example": "Nedjelja — spor dan."
+    },
+    {
+      "bosnian": "kasno",
+      "english": "late",
+      "pronunciation": "KAS-no",
+      "partOfSpeech": "adverb",
+      "example": "Kasno je."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Koliko je sati?",
+      "explanation": "Ask the time with Koliko je sati? Answer with a number from Lesson 3 plus sat or sati. Jedan je sat (1:00). For 2–4 you will often hear dva/tri/četiri sata in real speech — for this lesson, memorize the friendly pattern X je sati for 5–12 and Jedan je sat for 1. Also say U osam sati (at eight o’clock) as a chunk.",
+      "examples": [
+        {
+          "bosnian": "Koliko je sati?",
+          "english": "What time is it?"
+        },
+        {
+          "bosnian": "Jedan je sat.",
+          "english": "It is one o’clock."
+        },
+        {
+          "bosnian": "Osam je sati. / U osam sati.",
+          "english": "It is eight. / At eight o’clock."
+        }
+      ]
+    },
+    {
+      "title": "Danas and sutra",
+      "explanation": "Danas = today. Sutra = tomorrow. Pair them with a weekday: Danas je petak. Sutra je subota. You can also place plans: Sutra u deset sati — kod Amire.",
+      "examples": [
+        {
+          "bosnian": "Danas je petak.",
+          "english": "Today is Friday."
+        },
+        {
+          "bosnian": "Sutra je subota.",
+          "english": "Tomorrow is Saturday."
+        },
+        {
+          "bosnian": "Sutra u deset sati.",
+          "english": "Tomorrow at ten o’clock."
+        }
+      ]
+    },
+    {
+      "title": "Weekdays — chant the week",
+      "explanation": "Learn the seven days as a list: ponedjeljak, utorak, srijeda, četvrtak, petak, subota, nedjelja. Watch četvrtak (č) and srijeda / nedjelja. Do not worry about full case endings yet — say Danas je… + the day name.",
+      "examples": [
+        {
+          "bosnian": "ponedjeljak, utorak, srijeda",
+          "english": "Mon, Tue, Wed"
+        },
+        {
+          "bosnian": "četvrtak, petak",
+          "english": "Thu, Fri"
+        },
+        {
+          "bosnian": "subota, nedjelja",
+          "english": "Sat, Sun"
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "City daily rhythm",
-    "body": "Stub for Lesson 6. Full culture hook will be written on the draft night.",
-    "imageId": null
+    "title": "Sahat-kula and the city’s clock",
+    "body": "Near Gazi Husrev-beg’s mosque stands the Sahat-kula — Sarajevo’s clock tower — once set to lunar time for prayer. The city still has a rhythm: slow jutro with kahva, bright podne when stone streets bake, soft večer when Baščaršija fills again. Ana learns not only numbers on a watch, but when Emir says kasno and when Amira’s chairs are free. Time here is both the clock and the café.",
+    "imageId": "sahat-kula"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A — Ask the time",
+      "body": "Drill Koliko je sati? then answer with Lesson 3 numbers: Pet je sati. Osam je sati. Deset je sati. Jedan je sat. Add place chunks: U osam sati — kod Amire. U dvanaest sati — podne. Point at a watch or phone and swap roles with Emir. Ana keeps saying Kasno je! when she is late for kahva.",
+      "tips": [
+        "Question kit: Koliko je sati?",
+        "Reuse numbers 1–12 from Lesson 3"
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B — Days and the week’s plan",
+      "body": "Chant the weekdays twice. Then build real lines: Danas je petak. Sutra je subota. Mark parts of day: jutro, podne, popodne, večer. Emir sketches Ana’s week on a napkin: ponedjeljak — mapa; srijeda — porodica; petak — kahva; subota — spor dan. End with one plan: Sutra u deset sati, kod Amire!",
+      "tips": [
+        "Danas / sutra + weekday",
+        "četvrtak and srijeda need careful letters"
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Koliko je sati, Emire?",
+    "setting": "Outside Amira’s, late afternoon. Ana checks her phone; Emir points toward the old town clock.",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "bosnian": "Emire, koliko je sati?",
+        "english": "Emir, what time is it?"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Pet je sati. Popodne.",
+        "english": "It is five o’clock. Afternoon."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Kasno je? Kahva?",
+        "english": "Is it late? Coffee?"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Ne. Kod Amire — sada!",
+        "english": "No. At Amira’s — now!"
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Dobar dan! Danas je petak.",
+        "english": "Good day! Today is Friday."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Sutra je subota?",
+        "english": "Tomorrow is Saturday?"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Da. Sutra u deset sati — ovdje!",
+        "english": "Yes. Tomorrow at ten o’clock — here!"
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Dobro. Jutro je bolje za kahvu.",
+        "english": "Good. Morning is better for coffee."
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match the days",
+      "prompt": "Match each Bosnian weekday to English.",
+      "items": [
+        {
+          "left": "ponedjeljak",
+          "right": "Monday"
+        },
+        {
+          "left": "srijeda",
+          "right": "Wednesday"
+        },
+        {
+          "left": "petak",
+          "right": "Friday"
+        },
+        {
+          "left": "subota",
+          "right": "Saturday"
+        },
+        {
+          "left": "nedjelja",
+          "right": "Sunday"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "match",
+      "title": "Match time words",
+      "prompt": "Match Bosnian to English.",
+      "items": [
+        {
+          "left": "danas",
+          "right": "today"
+        },
+        {
+          "left": "sutra",
+          "right": "tomorrow"
+        },
+        {
+          "left": "jutro",
+          "right": "morning"
+        },
+        {
+          "left": "večer",
+          "right": "evening"
+        },
+        {
+          "left": "kasno",
+          "right": "late"
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Type the question: What time is it? (include ?)",
+      "hint": "Koliko je…?",
+      "answer": "Koliko je sati?"
+    },
+    {
+      "id": "pr2",
+      "prompt": "Write ‘today’ in Bosnian.",
+      "hint": "da-…",
+      "answer": "danas"
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write ‘tomorrow’ in Bosnian.",
+      "hint": "su-…",
+      "answer": "sutra"
+    },
+    {
+      "id": "pr4",
+      "prompt": "Write Friday in Bosnian.",
+      "hint": "pe-…",
+      "answer": "petak"
+    },
+    {
+      "id": "pr5",
+      "prompt": "Write Thursday in Bosnian (needs č).",
+      "hint": "Use the accent button for č",
+      "answer": "četvrtak"
+    },
+    {
+      "id": "pr6",
+      "prompt": "Write Wednesday in Bosnian.",
+      "hint": "sri-…",
+      "answer": "srijeda"
+    },
+    {
+      "id": "pr7",
+      "prompt": "Type: Today is Friday.",
+      "hint": "Danas je…",
+      "answer": "Danas je petak"
+    },
+    {
+      "id": "pr8",
+      "prompt": "Write ‘evening’ in Bosnian (needs č).",
+      "hint": "ve-…",
+      "answer": "večer"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "Sahat-kula",
+      "body": "Sarajevo’s clock tower near the Bey’s mosque is a landmark for meeting points and old lunar timekeeping stories. Look up — then look at your watch."
+    },
+    {
+      "title": "Petak energy",
+      "body": "Friday afternoon in the old town often feels like the week exhaling. Good day to practice Danas je petak out loud."
+    },
+    {
+      "title": "Sat vs sati",
+      "body": "You will hear both. This lesson’s safe kit: Jedan je sat for 1:00, and number + je sati for many other whole hours — then listen for local rhythm."
+    },
+    {
+      "title": "Sutra u deset",
+      "body": "Planning with sutra + u + number + sati is a Week 1 superpower. Emir uses it constantly."
+    }
+  ],
   "resources": [
     {
       "label": "How to speak Bosnian — YouTube",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "note": "Companion video for Lesson 6"
+    },
+    {
+      "label": "Next: Lesson 7 — Sedmica 1 — ponavljanje",
+      "url": "/learn/lesson/7",
+      "note": "Week 1 review — Ana’s photo diary"
+    },
+    {
+      "label": "Book 1 curriculum",
+      "url": "/learn",
+      "note": "See all lessons"
     }
   ],
   "sectionQuiz": {
     "title": "Lesson 6 section quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "question": "‘Koliko je sati?’ asks…",
+        "options": [
+          "Where is Mostar?",
+          "What time is it?",
+          "Who is Mrvica?",
+          "How much coffee?"
+        ],
+        "correctIndex": 1,
+        "explanation": "Koliko je sati? = What time is it?"
+      },
+      {
+        "id": "q2",
+        "question": "What does ‘danas’ mean?",
+        "options": [
+          "Yesterday",
+          "Today",
+          "Tomorrow",
+          "Evening"
+        ],
+        "correctIndex": 1,
+        "explanation": "Danas = today; sutra = tomorrow."
+      },
+      {
+        "id": "q3",
+        "question": "‘Sutra’ means…",
+        "options": [
+          "Today",
+          "Tomorrow",
+          "Monday",
+          "Noon"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sutra = tomorrow."
+      },
+      {
+        "id": "q4",
+        "question": "Which day is ‘petak’?",
+        "options": [
+          "Monday",
+          "Wednesday",
+          "Friday",
+          "Sunday"
+        ],
+        "correctIndex": 2,
+        "explanation": "Petak = Friday."
+      },
+      {
+        "id": "q5",
+        "question": "‘Jutro’ is…",
+        "options": [
+          "Evening",
+          "Morning",
+          "A bridge",
+          "A cat"
+        ],
+        "correctIndex": 1,
+        "explanation": "Jutro = morning."
+      },
+      {
+        "id": "q6",
+        "question": "Which word means Thursday?",
+        "options": [
+          "utorak",
+          "četvrtak",
+          "subota",
+          "nedjelja"
+        ],
+        "correctIndex": 1,
+        "explanation": "Četvrtak = Thursday."
+      },
+      {
+        "id": "q7",
+        "question": "‘Kasno’ means…",
+        "options": [
+          "Early",
+          "Late",
+          "Here",
+          "Family"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kasno = late."
+      },
+      {
+        "id": "q8",
+        "question": "Sahat-kula in this lesson is…",
+        "options": [
+          "Amira’s cat",
+          "Sarajevo’s clock tower",
+          "A type of coffee",
+          "The river in Mostar"
+        ],
+        "correctIndex": 1,
+        "explanation": "The Sahat-kula is the city’s historic clock tower."
+      },
+      {
+        "id": "q9",
+        "question": "‘Danas je petak’ means…",
+        "options": [
+          "Tomorrow is Friday",
+          "Today is Friday",
+          "Today is Saturday",
+          "It is five o’clock"
+        ],
+        "correctIndex": 1,
+        "explanation": "Danas = today; petak = Friday."
+      }
+    ]
   },
-  "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to: City daily rhythm"
-  ]
+  "dictionaryEntries": [
+    {
+      "bosnian": "sat",
+      "english": "hour / clock",
+      "partOfSpeech": "noun",
+      "day": 6
+    },
+    {
+      "bosnian": "sati",
+      "english": "hours",
+      "partOfSpeech": "noun",
+      "day": 6
+    },
+    {
+      "bosnian": "jutro",
+      "english": "morning",
+      "partOfSpeech": "noun",
+      "day": 6
+    },
+    {
+      "bosnian": "podne",
+      "english": "noon",
+      "partOfSpeech": "noun",
+      "day": 6
+    },
+    {
+      "bosnian": "popodne",
+      "english": "afternoon",
+      "partOfSpeech": "noun",
+      "day": 6
+    },
+    {
+      "bosnian": "večer",
+      "english": "evening",
+      "partOfSpeech": "noun",
+      "day": 6
+    },
+    {
+      "bosnian": "danas",
+      "english": "today",
+      "partOfSpeech": "adverb",
+      "day": 6
+    },
+    {
+      "bosnian": "sutra",
+      "english": "tomorrow",
+      "partOfSpeech": "adverb",
+      "day": 6
+    },
+    {
+      "bosnian": "ponedjeljak",
+      "english": "Monday",
+      "partOfSpeech": "noun",
+      "day": 6
+    },
+    {
+      "bosnian": "utorak",
+      "english": "Tuesday",
+      "partOfSpeech": "noun",
+      "day": 6
+    },
+    {
+      "bosnian": "srijeda",
+      "english": "Wednesday",
+      "partOfSpeech": "noun",
+      "day": 6
+    },
+    {
+      "bosnian": "četvrtak",
+      "english": "Thursday",
+      "partOfSpeech": "noun",
+      "day": 6
+    },
+    {
+      "bosnian": "petak",
+      "english": "Friday",
+      "partOfSpeech": "noun",
+      "day": 6
+    },
+    {
+      "bosnian": "subota",
+      "english": "Saturday",
+      "partOfSpeech": "noun",
+      "day": 6
+    },
+    {
+      "bosnian": "nedjelja",
+      "english": "Sunday",
+      "partOfSpeech": "noun",
+      "day": 6
+    },
+    {
+      "bosnian": "kasno",
+      "english": "late",
+      "partOfSpeech": "adverb",
+      "day": 6
+    }
+  ],
+  "images": [
+    {
+      "id": "sahat-kula",
+      "alt": "Polygon painting of Sarajevo’s Sahat-kula clock tower above the old town",
+      "localPath": "/images/book1/day-06-sahat-kula.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sahat_kula_in_Sarajevo.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sahat_kula_in_Sarajevo.jpg",
+      "author": "Bernard Gagnon",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Sahat kula in Sarajevo — Bernard Gagnon / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "evening-carsija",
+      "alt": "Polygon painting of Baščaršija streets in soft evening light",
+      "localPath": "/images/book1/day-06-evening-carsija.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ba%C5%A1%C4%8Dar%C5%A1ija_2014.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ba%C5%A1%C4%8Dar%C5%A1ija_2014.jpg",
+      "author": "Choinowski",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Baščaršija — Choinowski / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "cafe-morning",
+      "alt": "Polygon painting of morning Bosnian coffee on a copper tray",
+      "localPath": "/images/book1/day-06-morning-kahva.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_coffee_(13926468997).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_coffee_(13926468997).jpg",
+      "author": "Michał Huniewicz",
+      "license": "CC BY 2.0",
+      "credit": "Based on photo: Bosnian coffee — Michał Huniewicz / Wikimedia Commons (CC BY 2.0)"
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": []
 }
