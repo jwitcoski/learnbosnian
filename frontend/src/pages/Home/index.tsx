@@ -102,7 +102,10 @@ const Home = () => {
         <Pillars>
           <article>
             <div className="label">Speak</div>
-            <p>Dialogues with recurring characters and a gentle storyline.</p>
+            <p>
+              Dialogues with recurring characters — then record yourself for AI
+              Speak Check (Amazon Transcribe + Bedrock coaching).
+            </p>
           </article>
           <article>
             <div className="label">Play</div>
