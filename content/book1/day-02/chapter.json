@@ -649,27 +649,28 @@
     }
   },
   "authenticListen": {
-    "title": "Čuj Bosnu: saying who you are",
+    "title": "Čuj Bosnu: Ja sam… in a real teacher voice",
     "kind": "speaker",
-    "hook": "People introduce themselves every day. Hear a natural self-introduction cadence.",
+    "hook": "Hear someone walk through Ja sam and self-introduction patterns outside our Ana/Emir studio takes.",
     "source": {
-      "title": "Short self-introduction (public interview bite)",
-      "artistOrSpeaker": "Interview speaker",
-      "regionOrScene": "Everyday speech",
+      "title": "Bosnian Grammar: How to Say 'I am' (Ja sam) - Introducing Yourself",
+      "artistOrSpeaker": "Lingo Hero",
+      "regionOrScene": "Introductions",
       "license": "YouTube Terms of Service (embed)",
-      "credit": "Public interview-style speech; pedagogical excerpt via embed Replace with a rights-cleared song/speaker embed before publish.",
-      "pageUrl": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina"
+      "credit": "Lingo Hero on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=CUUGzc3C1G8",
+      "embedUrl": "https://www.youtube.com/watch?v=CUUGzc3C1G8"
     },
     "durationHint": "45–60 seconds",
     "listenTask": {
-      "prompt": "Listen for a name pattern: Ja sam…",
+      "prompt": "Listen for the chunk Ja sam…",
       "gistQuestion": {
-        "prompt": "What is the speaker doing?",
+        "prompt": "What is the speaker teaching?",
         "options": [
-          "Ordering pizza only",
-          "Introducing themselves",
-          "Reading a train timetable",
-          "Singing opera"
+          "How to order pizza only",
+          "How to say I am… / introduce yourself",
+          "How to dive from Stari Most",
+          "How to bake hljeb only"
         ],
         "correctIndex": 1
       },
@@ -677,7 +678,7 @@
         "ja",
         "sam"
       ],
-      "noticePrompt": "Ja sam… is a chunk. Grab it as one piece."
+      "noticePrompt": "Grab Ja sam + NAME as one piece."
     },
     "reveal": {
       "keyLines": [

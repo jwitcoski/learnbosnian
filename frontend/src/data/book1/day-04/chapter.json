@@ -685,49 +685,49 @@
     }
   },
   "authenticListen": {
-    "title": "Čuj Bosnu: family words in song",
+    "title": "Čuj Bosnu: a song for majka",
     "kind": "song",
-    "hook": "Family words show up in songs and toasts. Listen for majka, otac, or a warm chorus.",
+    "hook": "Family words live in songs too. Listen to Tebi majko misli lete and catch the warm majka sound.",
     "source": {
-      "title": "Folk / family-themed song excerpt",
-      "artistOrSpeaker": "Folk repertoire",
-      "regionOrScene": "Family gatherings",
+      "title": "Tebi majko misli lete - Sementa Rajhard",
+      "artistOrSpeaker": "Sementa Rajhard",
+      "regionOrScene": "Family / majka",
       "license": "YouTube Terms of Service (embed)",
-      "credit": "Folk repertoire embed; cultural context Replace with a rights-cleared song/speaker embed before publish.",
-      "pageUrl": "https://en.wikipedia.org/wiki/Music_of_Bosnia_and_Herzegovina"
+      "credit": "Sementa Rajhard performance on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=QkvCVZqRYFY",
+      "embedUrl": "https://www.youtube.com/watch?v=QkvCVZqRYFY"
     },
     "durationHint": "45–90 seconds",
     "listenTask": {
-      "prompt": "Do not translate everything. Catch one family word if it appears, or the warm tone.",
+      "prompt": "Listen for majka or the warm mother-directed tone.",
       "gistQuestion": {
         "prompt": "What fits the clip’s mood?",
         "options": [
           "Cold technical manual",
-          "Warm song / gathering feel",
+          "Warm song aimed at mother / family feeling",
           "Airport gate change only",
-          "Silent meditation"
+          "Silent meditation app"
         ],
         "correctIndex": 1
       },
       "targetWords": [
         "majka",
-        "otac",
         "porodica"
       ],
-      "noticePrompt": "Gender endings (-a) often mark feminine nouns you met today."
+      "noticePrompt": "Gender endings like -a often mark feminine nouns you met today."
     },
     "reveal": {
       "keyLines": [
         {
-          "bosnian": "To je moja porodica.",
-          "english": "That is my family."
+          "bosnian": "Majko…",
+          "english": "Mother…"
         },
         {
-          "bosnian": "Moja majka.",
-          "english": "My mother."
+          "bosnian": "To je moja porodica.",
+          "english": "That is my family."
         }
       ],
-      "teacherNote": "If you missed the exact lyric, you still practiced listening for family vocabulary."
+      "teacherNote": "If you missed the full lyric, you still practiced listening for family vocabulary."
     }
   },
   "speakTargets": [

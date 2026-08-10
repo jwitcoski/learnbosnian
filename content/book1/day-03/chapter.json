@@ -746,27 +746,28 @@
     }
   },
   "authenticListen": {
-    "title": "Čuj Bosnu: kahva talk",
+    "title": "Čuj Bosnu: kahva with a Sarajevo guide",
     "kind": "speaker",
-    "hook": "Café talk is Bosnia’s classroom. Hear coffee-house speech and listen for kahva.",
+    "hook": "Café talk is Bosnia’s classroom. A local guide walks you through traditional Bosnian coffee.",
     "source": {
-      "title": "Café / coffee culture talk",
-      "artistOrSpeaker": "Café culture speaker",
-      "regionOrScene": "Baščaršija café",
+      "title": "Bosnian Coffee - Explore Sarajevo with Local Guides",
+      "artistOrSpeaker": "Meet Bosnia Tours (Edin)",
+      "regionOrScene": "Sarajevo café / kahva",
       "license": "YouTube Terms of Service (embed)",
-      "credit": "Coffee culture media; context via Bosnian coffee traditions Replace with a rights-cleared song/speaker embed before publish.",
-      "pageUrl": "https://en.wikipedia.org/wiki/Bosnian_coffee"
+      "credit": "Meet Bosnia Tours on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=wFGbkVzNCFU",
+      "embedUrl": "https://www.youtube.com/watch?v=wFGbkVzNCFU"
     },
-    "durationHint": "45–90 seconds",
+    "durationHint": "60–90 seconds",
     "listenTask": {
-      "prompt": "Listen for kahva or numbers near an order.",
+      "prompt": "Listen for kahva / coffee ritual words, even in English-framed talk.",
       "gistQuestion": {
         "prompt": "Where does this speech feel at home?",
         "options": [
-          "A quiet library only",
-          "A café / social pause",
+          "A quiet exam hall only",
+          "A café / coffee ritual",
           "A hospital ER",
-          "A math exam"
+          "A math lecture only"
         ],
         "correctIndex": 1
       },
@@ -774,7 +775,7 @@
         "kahva",
         "molim"
       ],
-      "noticePrompt": "Orders are short. molim softens the ask."
+      "noticePrompt": "Orders stay short. molim softens the ask."
     },
     "reveal": {
       "keyLines": [
@@ -787,7 +788,7 @@
           "english": "Thank you."
         }
       ],
-      "teacherNote": "Café noise is real life. Gist listening matters more than perfect transcription."
+      "teacherNote": "Café noise and bilingual guides are real life. Gist listening beats perfect transcription."
     }
   },
   "speakTargets": [

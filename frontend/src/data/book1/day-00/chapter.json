@@ -557,27 +557,29 @@
     }
   },
   "authenticListen": {
-    "title": "Čuj Bosnu: a first real voice",
+    "title": "Čuj Bosnu: one language, three names",
     "kind": "speaker",
-    "hook": "Before Ana lands, hear Bosnian outside a classroom: a short public talk about language and home.",
+    "hook": "Lesson 0 is about what Bosnian is. Hear a real explainer that compares Bosnian, Croatian, and Serbian so your ear meets the neighborhood of the language.",
     "source": {
-      "title": "Bosnian language (overview talk excerpt)",
-      "artistOrSpeaker": "Public cultural speaker",
-      "regionOrScene": "Orientation / BiH",
+      "title": "Bosnian VS Croatian VS Serbian VS Montenegro!",
+      "artistOrSpeaker": "Croatian with Mirsad",
+      "regionOrScene": "Language orientation",
       "license": "YouTube Terms of Service (embed)",
-      "credit": "Educational overview linked via Wikipedia context on Bosnian language Replace with a rights-cleared song/speaker embed before publish.",
-      "pageUrl": "https://en.wikipedia.org/wiki/Bosnian_language"
+      "credit": "Croatian with Mirsad on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=YCXy9xAFTBg",
+      "year": "2021",
+      "embedUrl": "https://www.youtube.com/watch?v=YCXy9xAFTBg"
     },
-    "durationHint": "60–90 seconds",
+    "durationHint": "watch 60–90 seconds, then gist",
     "listenTask": {
-      "prompt": "Listen once without reading. Do not hunt for every word.",
+      "prompt": "Play the video. Listen for the idea that these standards are close, then pause.",
       "gistQuestion": {
-        "prompt": "What is this clip mainly about?",
+        "prompt": "What is the clip mainly comparing?",
         "options": [
-          "Cooking recipes",
-          "Language and identity",
-          "Football scores",
-          "Weather only"
+          "Coffee recipes only",
+          "Bosnian, Croatian, and Serbian (and neighbors)",
+          "Only mountain names",
+          "Only football clubs"
         ],
         "correctIndex": 1
       },
@@ -585,7 +587,7 @@
         "bosanski",
         "jezik"
       ],
-      "noticePrompt": "Notice how clear vowels feel even when you miss some words."
+      "noticePrompt": "You do not need every word. Catch that the languages sit close together."
     },
     "reveal": {
       "keyLines": [
@@ -594,11 +596,11 @@
           "english": "The Bosnian language."
         },
         {
-          "bosnian": "Dobrodošli.",
-          "english": "Welcome."
+          "bosnian": "Razumijemo se.",
+          "english": "We understand each other."
         }
       ],
-      "teacherNote": "You do not need full comprehension yet. Train the ear for rhythm and a few anchors."
+      "teacherNote": "This course stays Bosnian-focused after Lesson 0. Use the clip to calm the identity question, then move on."
     }
   },
   "speakTargets": [

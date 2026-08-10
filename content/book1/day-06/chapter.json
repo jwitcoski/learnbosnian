@@ -685,25 +685,26 @@
     }
   },
   "authenticListen": {
-    "title": "Čuj Bosnu: time in real speech",
+    "title": "Čuj Bosnu: sati in real teaching speech",
     "kind": "speaker",
-    "hook": "Schedules and small talk use clock phrases. Listen for sati or a time-of-day greeting.",
+    "hook": "Schedules need clock phrases. Hear sati i minuti explained in Bosnian lesson speech.",
     "source": {
-      "title": "Everyday time / schedule talk",
-      "artistOrSpeaker": "Everyday speaker",
-      "regionOrScene": "Daily routines",
+      "title": "Learn Bosnian: Telling Time (Sati i Minuti)",
+      "artistOrSpeaker": "Lingo Hero",
+      "regionOrScene": "Daily time / clocks",
       "license": "YouTube Terms of Service (embed)",
-      "credit": "Everyday speech embed for time listening practice Replace with a rights-cleared song/speaker embed before publish.",
-      "pageUrl": "https://en.wikipedia.org/wiki/Time"
+      "credit": "Lingo Hero on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=0xiYbtHQaDc",
+      "embedUrl": "https://www.youtube.com/watch?v=0xiYbtHQaDc"
     },
     "durationHint": "45–60 seconds",
     "listenTask": {
-      "prompt": "Listen for a number + time feel, even if you miss the exact minute.",
+      "prompt": "Listen for sati or a number + time feel.",
       "gistQuestion": {
         "prompt": "What kind of information is this clip carrying?",
         "options": [
-          "Mostly timing / daily life talk",
-          "Only mountain climbing gear ads",
+          "Mostly telling time / clock language",
+          "Only mountain climbing ads",
           "Only classical physics",
           "Only animal sounds"
         ],
@@ -726,7 +727,7 @@
           "english": "Good morning."
         }
       ],
-      "teacherNote": "If numbers blur, keep the question frame. You can answer with a gesture and a known hour."
+      "teacherNote": "If numbers blur, keep the question frame. You can answer with a known hour."
     }
   },
   "speakTargets": [

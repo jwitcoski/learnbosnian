@@ -613,50 +613,47 @@
     }
   },
   "authenticListen": {
-    "title": "Čuj Bosnu: week-one ear stretch",
+    "title": "Čuj Bosnu: Bosno moja for week one",
     "kind": "song",
-    "hook": "Review week: one more song so your ear leaves the studio voices behind.",
+    "hook": "Close the week with a classic love-of-Bosnia sevdah. Beba Selimović sings Bosno moja, divna, mila.",
     "source": {
-      "title": "Bosnian / regional song medley mood",
-      "artistOrSpeaker": "Regional song repertoire",
-      "regionOrScene": "Week 1 review",
+      "title": "Beba Selimović - Bosno moja, divna, mila",
+      "artistOrSpeaker": "Beba Selimović",
+      "regionOrScene": "Week 1 review / BiH",
       "license": "YouTube Terms of Service (embed)",
-      "credit": "Song embed for review listening; music of BiH context Replace with a rights-cleared song/speaker embed before publish.",
-      "pageUrl": "https://en.wikipedia.org/wiki/Music_of_Bosnia_and_Herzegovina"
+      "credit": "Beba Selimović performance on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=OXul62dILOo",
+      "embedUrl": "https://www.youtube.com/watch?v=OXul62dILOo"
     },
     "durationHint": "60–90 seconds",
     "listenTask": {
-      "prompt": "Listen for any Week 1 word: greeting, hvala, or a place name.",
+      "prompt": "Listen for Bosna / warm chorus energy, plus any Week 1 word that sneaks in later.",
       "gistQuestion": {
-        "prompt": "Did you catch at least one familiar Week 1 sound or word?",
+        "prompt": "What is this review clip?",
         "options": [
-          "Yes, something felt familiar",
-          "No, total silence",
+          "A traditional song about Bosnia",
+          "A silent spreadsheet",
           "Only English ads",
           "Only typing sounds"
         ],
         "correctIndex": 0
       },
       "targetWords": [
-        "zdravo",
+        "Bosna",
         "hvala",
-        "Sarajevo"
+        "zdravo"
       ],
       "noticePrompt": "Review listening is retrieval. Familiar beats count as wins."
     },
     "reveal": {
       "keyLines": [
         {
-          "bosnian": "Zdravo.",
-          "english": "Hello."
+          "bosnian": "Bosno moja, divna, mila…",
+          "english": "My Bosnia, wonderful, dear…"
         },
         {
           "bosnian": "Hvala.",
           "english": "Thank you."
-        },
-        {
-          "bosnian": "Doviđenja.",
-          "english": "Goodbye."
         }
       ],
       "teacherNote": "Week 1 closed with a real ear stretch. Keep one song in your pocket for the bus."

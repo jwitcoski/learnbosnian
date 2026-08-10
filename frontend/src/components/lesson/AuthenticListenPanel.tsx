@@ -1,26 +1,25 @@
-import { useMemo, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import type { AuthenticListen } from "../../types/chapter";
 import { clipAudioUrl } from "../../lib/audioClips";
 import { PrimaryButton } from "./styles";
 
 type Props = { block: AuthenticListen };
 
-function youtubeEmbed(url?: string): string | null {
+function youtubeId(url?: string): string | null {
   if (!url) return null;
   try {
     const u = new URL(url);
     if (u.hostname.includes("youtu.be")) {
-      const id = u.pathname.replace("/", "");
-      return id ? `https://www.youtube.com/embed/${id}?rel=0` : null;
+      return u.pathname.replace("/", "") || null;
     }
     if (u.hostname.includes("youtube.com")) {
       const id = u.searchParams.get("v");
-      if (id) return `https://www.youtube.com/embed/${id}?rel=0`;
+      if (id) return id;
       const parts = u.pathname.split("/");
       const embedIdx = parts.indexOf("embed");
-      if (embedIdx >= 0 && parts[embedIdx + 1]) {
-        return `https://www.youtube.com/embed/${parts[embedIdx + 1]}?rel=0`;
-      }
+      if (embedIdx >= 0 && parts[embedIdx + 1]) return parts[embedIdx + 1];
+      const shortsIdx = parts.indexOf("shorts");
+      if (shortsIdx >= 0 && parts[shortsIdx + 1]) return parts[shortsIdx + 1];
     }
   } catch {
     return null;
@@ -30,6 +29,7 @@ function youtubeEmbed(url?: string): string | null {
 
 export default function AuthenticListenPanel({ block }: Props) {
   const audioRef = useRef<HTMLAudioElement | null>(null);
+  const unlockTimer = useRef<number | null>(null);
   const [heard, setHeard] = useState(false);
   const [playing, setPlaying] = useState(false);
   const [loop, setLoop] = useState(true);
@@ -38,16 +38,33 @@ export default function AuthenticListenPanel({ block }: Props) {
   const [checked, setChecked] = useState(false);
   const [revealed, setRevealed] = useState(false);
   const [heardWords, setHeardWords] = useState<Record<string, boolean>>({});
+  const [playerStarted, setPlayerStarted] = useState(false);
 
-  const embed = useMemo(
-    () => youtubeEmbed(block.source.embedUrl),
+  const ytId = useMemo(
+    () => youtubeId(block.source.embedUrl),
     [block.source.embedUrl]
   );
+  const embed = ytId
+    ? `https://www.youtube.com/embed/${ytId}?rel=0&modestbranding=1`
+    : null;
   const hostedUrl = block.source.clipId
     ? clipAudioUrl(block.source.clipId)
     : null;
 
+  useEffect(() => {
+    return () => {
+      if (unlockTimer.current) window.clearTimeout(unlockTimer.current);
+    };
+  }, []);
+
   const markHeard = () => setHeard(true);
+
+  const onPlayerEngage = () => {
+    setPlayerStarted(true);
+    if (unlockTimer.current) window.clearTimeout(unlockTimer.current);
+    // After ~20s of the player being engaged, unlock gist automatically.
+    unlockTimer.current = window.setTimeout(() => markHeard(), 20000);
+  };
 
   const toggleHosted = async () => {
     if (!hostedUrl) return;
@@ -56,7 +73,10 @@ export default function AuthenticListenPanel({ block }: Props) {
       audioRef.current.loop = loop;
       audioRef.current.playbackRate = rate;
       audioRef.current.addEventListener("ended", () => setPlaying(false));
-      audioRef.current.addEventListener("play", markHeard);
+      audioRef.current.addEventListener("play", () => {
+        markHeard();
+        onPlayerEngage();
+      });
     }
     const audio = audioRef.current;
     audio.loop = loop;
@@ -70,6 +90,7 @@ export default function AuthenticListenPanel({ block }: Props) {
       await audio.play();
       setPlaying(true);
       markHeard();
+      onPlayerEngage();
     } catch {
       setPlaying(false);
     }
@@ -89,40 +110,80 @@ export default function AuthenticListenPanel({ block }: Props) {
         {block.durationHint ? ` · focus ~${block.durationHint}` : ""}
       </p>
 
+      {(embed || hostedUrl) && (
+        <h3 style={{ marginBottom: "0.5rem" }}>Watch &amp; listen</h3>
+      )}
+
       {embed && (
         <div
           style={{
-            position: "relative",
-            paddingBottom: "56.25%",
-            height: 0,
-            marginBottom: "1rem",
-            borderRadius: 8,
+            marginBottom: "0.75rem",
+            border: "2px solid var(--color-crimson, #c62828)",
+            borderRadius: 10,
             overflow: "hidden",
             background: "#111",
           }}
         >
-          <iframe
-            title={block.source.title}
-            src={embed}
+          <div
             style={{
-              position: "absolute",
-              top: 0,
-              left: 0,
-              width: "100%",
-              height: "100%",
-              border: 0,
+              position: "relative",
+              paddingBottom: "56.25%",
+              height: 0,
             }}
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowFullScreen
-            onLoad={markHeard}
-          />
+            onClick={onPlayerEngage}
+            onFocus={onPlayerEngage}
+          >
+            <iframe
+              title={block.source.title}
+              src={embed}
+              style={{
+                position: "absolute",
+                top: 0,
+                left: 0,
+                width: "100%",
+                height: "100%",
+                border: 0,
+              }}
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowFullScreen
+              onLoad={onPlayerEngage}
+            />
+          </div>
+          <div
+            style={{
+              padding: "0.65rem 0.85rem",
+              background: "rgba(0,0,0,0.85)",
+              color: "#fff",
+              fontSize: "0.9rem",
+            }}
+          >
+            <strong>{block.source.title}</strong>
+            <br />
+            {block.source.artistOrSpeaker}
+            {" · "}
+            <a
+              href={block.source.pageUrl || block.source.embedUrl}
+              target="_blank"
+              rel="noreferrer"
+              style={{ color: "#ffd7d0" }}
+            >
+              Open on YouTube
+            </a>
+          </div>
         </div>
       )}
 
       {hostedUrl && (
-        <div style={{ marginBottom: "1rem", display: "flex", gap: "0.5rem", flexWrap: "wrap" }}>
+        <div
+          style={{
+            marginBottom: "1rem",
+            display: "flex",
+            gap: "0.5rem",
+            flexWrap: "wrap",
+          }}
+        >
           <PrimaryButton type="button" onClick={() => void toggleHosted()}>
-            {playing ? "Pause clip" : "Play clip"}
+            {playing ? "Pause clip" : "Play hosted clip"}
           </PrimaryButton>
           <PrimaryButton
             type="button"
@@ -156,27 +217,28 @@ export default function AuthenticListenPanel({ block }: Props) {
             Open the source link, listen for about a minute, then return for the
             gist task.
           </p>
-          <PrimaryButton type="button" onClick={markHeard}>
-            I listened. Unlock gist
-          </PrimaryButton>
         </div>
       )}
 
-      <p>
-        <a href={block.source.pageUrl} target="_blank" rel="noreferrer">
-          {block.source.title}
-        </a>
-        {" · "}
-        <span style={{ color: "var(--color-muted)", fontSize: "0.9rem" }}>
-          {block.source.credit} ({block.source.license})
-        </span>
+      <p style={{ fontSize: "0.9rem", color: "var(--color-muted)" }}>
+        {block.source.credit} ({block.source.license})
       </p>
+
+      <div style={{ margin: "0.75rem 0" }}>
+        <PrimaryButton type="button" onClick={markHeard}>
+          {heard
+            ? "Gist unlocked"
+            : playerStarted
+            ? "I listened. Unlock gist"
+            : "Start the video, then unlock gist"}
+        </PrimaryButton>
+      </div>
 
       <p style={{ fontWeight: 600 }}>{block.listenTask.prompt}</p>
       {!heard && (
         <p style={{ color: "var(--color-muted)", fontSize: "0.95rem" }}>
-          Start the clip above first. The gist question unlocks after you begin
-          listening.
+          Press play on the video above. After you have listened, unlock the
+          gist question.
         </p>
       )}
 
@@ -188,7 +250,11 @@ export default function AuthenticListenPanel({ block }: Props) {
           {gist.options.map((opt, i) => (
             <label
               key={opt}
-              style={{ display: "block", marginBottom: "0.35rem", cursor: "pointer" }}
+              style={{
+                display: "block",
+                marginBottom: "0.35rem",
+                cursor: "pointer",
+              }}
             >
               <input
                 type="radio"
@@ -220,39 +286,43 @@ export default function AuthenticListenPanel({ block }: Props) {
                 color: correct ? "var(--color-sage)" : "var(--color-crimson)",
               }}
             >
-              {correct ? "Correct" : `Not quite. Aim for: ${gist.options[gist.correctIndex]}`}
+              {correct
+                ? "Correct"
+                : `Not quite. Aim for: ${gist.options[gist.correctIndex]}`}
             </p>
           )}
         </div>
       )}
 
-      {block.listenTask.targetWords && block.listenTask.targetWords.length > 0 && heard && (
-        <div style={{ marginTop: "1rem" }}>
-          <p style={{ fontWeight: 600 }}>Tap words you catch</p>
-          <div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem" }}>
-            {block.listenTask.targetWords.map((w) => (
-              <button
-                key={w}
-                type="button"
-                onClick={() =>
-                  setHeardWords((m) => ({ ...m, [w]: !m[w] }))
-                }
-                style={{
-                  padding: "0.35rem 0.7rem",
-                  borderRadius: 6,
-                  border: "1px solid var(--color-border, #ccc)",
-                  background: heardWords[w]
-                    ? "rgba(132, 146, 116, 0.25)"
-                    : "transparent",
-                  cursor: "pointer",
-                }}
-              >
-                {w}
-              </button>
-            ))}
+      {block.listenTask.targetWords &&
+        block.listenTask.targetWords.length > 0 &&
+        heard && (
+          <div style={{ marginTop: "1rem" }}>
+            <p style={{ fontWeight: 600 }}>Tap words you catch</p>
+            <div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem" }}>
+              {block.listenTask.targetWords.map((w) => (
+                <button
+                  key={w}
+                  type="button"
+                  onClick={() =>
+                    setHeardWords((m) => ({ ...m, [w]: !m[w] }))
+                  }
+                  style={{
+                    padding: "0.35rem 0.7rem",
+                    borderRadius: 6,
+                    border: "1px solid var(--color-border, #ccc)",
+                    background: heardWords[w]
+                      ? "rgba(132, 146, 116, 0.25)"
+                      : "transparent",
+                    cursor: "pointer",
+                  }}
+                >
+                  {w}
+                </button>
+              ))}
+            </div>
           </div>
-        </div>
-      )}
+        )}
 
       {block.listenTask.noticePrompt && heard && (
         <p style={{ color: "var(--color-muted)", marginTop: "1rem" }}>

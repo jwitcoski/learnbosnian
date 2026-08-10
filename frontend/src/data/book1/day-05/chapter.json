@@ -659,27 +659,28 @@
     }
   },
   "authenticListen": {
-    "title": "Čuj Bosnu: Mostar on the map",
+    "title": "Čuj Bosnu: Mostar on camera",
     "kind": "speaker",
-    "hook": "Travel talk names places. Listen for Mostar, map words, or south/north cues.",
+    "hook": "Travel talk names places. Walk Mostar and Stari Most with a 4K tour and listen for place atmosphere.",
     "source": {
-      "title": "Travel / Mostar place talk",
-      "artistOrSpeaker": "Travel speaker",
-      "regionOrScene": "Mostar / Herzegovina",
+      "title": "Mostar Bosnia 4K Walking Tour | Old Bridge Mostar",
+      "artistOrSpeaker": "Urban Walking Tour",
+      "regionOrScene": "Mostar / Stari Most",
       "license": "YouTube Terms of Service (embed)",
-      "credit": "Travel media embed; place context via Mostar article Replace with a rights-cleared song/speaker embed before publish.",
-      "pageUrl": "https://en.wikipedia.org/wiki/Mostar"
+      "credit": "Urban Walking Tour on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=vxdZQeN6c7A",
+      "embedUrl": "https://www.youtube.com/watch?v=vxdZQeN6c7A"
     },
-    "durationHint": "45–90 seconds",
+    "durationHint": "60–90 seconds of the walk",
     "listenTask": {
-      "prompt": "Listen for a place name you know: Mostar.",
+      "prompt": "Watch the bridge and streets. Listen for any tour voice naming Mostar.",
       "gistQuestion": {
-        "prompt": "What is the clip oriented around?",
+        "prompt": "What place is this clip oriented around?",
         "options": [
-          "A place / travel description",
-          "Baking bread only",
-          "Computer code",
-          "Silent chess"
+          "A Mostar / Old Bridge travel scene",
+          "A bakery only",
+          "A coding tutorial",
+          "A silent chess match"
         ],
         "correctIndex": 0
       },
@@ -687,7 +688,7 @@
         "Mostar",
         "gdje"
       ],
-      "noticePrompt": "Place names stay clear even in fast speech."
+      "noticePrompt": "Place names stay clear even when speech is fast or sparse."
     },
     "reveal": {
       "keyLines": [

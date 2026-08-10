@@ -778,48 +778,49 @@
     }
   },
   "authenticListen": {
-    "title": "Čuj Bosnu: greetings in song",
+    "title": "Čuj Bosnu: Bembaša sings Sarajevo",
     "kind": "song",
-    "hook": "Sarajevo mornings start with sound. Hear a sevdah-tinged greeting mood, then catch one clear word.",
+    "hook": "Leave the studio voice for a classic Sarajevo sevdah. Himzo Polovina sings Kad ja pođoh na Bembašu.",
     "source": {
-      "title": "Sevdalinka (traditional love song tradition)",
-      "artistOrSpeaker": "Traditional sevdah repertoire",
-      "regionOrScene": "Sarajevo / sevdah",
+      "title": "Kad ja pođoh na Bentbašu",
+      "artistOrSpeaker": "Himzo Polovina",
+      "regionOrScene": "Sarajevo / Bembaša",
       "license": "YouTube Terms of Service (embed)",
-      "credit": "Traditional sevdah repertoire; context via Wikipedia Sevdalinka Replace with a rights-cleared song/speaker embed before publish.",
-      "pageUrl": "https://en.wikipedia.org/wiki/Sevdalinka"
+      "credit": "Himzo Polovina — Topic / archival performance on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=ZXtzoqMn3Lg",
+      "embedUrl": "https://www.youtube.com/watch?v=ZXtzoqMn3Lg"
     },
-    "durationHint": "45–90 seconds",
+    "durationHint": "45–90 seconds of the song",
     "listenTask": {
-      "prompt": "Play a short stretch. Listen for mood first, words second.",
+      "prompt": "Play the song. Feel the pace before hunting for words.",
       "gistQuestion": {
-        "prompt": "What feeling fits this clip best?",
+        "prompt": "What kind of clip is this?",
         "options": [
-          "Angry sports chant",
-          "Warm / nostalgic song",
-          "Robot GPS voice",
-          "Kids counting only"
+          "A sports radio shout",
+          "A warm traditional song (sevdah)",
+          "A weather robot",
+          "A silent map"
         ],
         "correctIndex": 1
       },
       "targetWords": [
-        "zdravo",
-        "Sarajevo"
+        "Sarajevo",
+        "zdravo"
       ],
-      "noticePrompt": "Sevdah often feels intimate and unhurried. That pacing helps beginners."
+      "noticePrompt": "Sevdah stretches vowels. Your classroom zdravo will be shorter."
     },
     "reveal": {
       "keyLines": [
         {
-          "bosnian": "Zdravo.",
-          "english": "Hello."
+          "bosnian": "Kad ja pođoh na Bembašu…",
+          "english": "When I went to Bembaša…"
         },
         {
           "bosnian": "Sarajevo.",
           "english": "Sarajevo."
         }
       ],
-      "teacherNote": "Song vowels stretch. Your classroom zdravo will be shorter and clearer."
+      "teacherNote": "Bembaša is a Sarajevo place in song. Today’s win is the mood plus any greeting word you catch later in the lesson."
     }
   },
   "speakTargets": [
