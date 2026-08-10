@@ -9,6 +9,7 @@ const {
   issueToken,
   requireAuth,
 } = require("../lib/auth");
+const { handleSpeakCheck } = require("./speakCheck");
 
 const s3 = new AWS.S3({ signatureVersion: "v4" });
 const dynamodb = new AWS.DynamoDB.DocumentClient();
@@ -76,6 +77,15 @@ module.exports.handler = async (event) => {
   const key = routeKey(event);
 
   try {
+    // Public learner speak-check (rate-limited inside handler)
+    if (
+      key === "POST /speak-check/upload-url" ||
+      key === "POST /speak-check"
+    ) {
+      const speakRes = await handleSpeakCheck(event, key);
+      if (speakRes) return speakRes;
+    }
+
     if (key === "POST /audio/login") {
       const body = JSON.parse(event.body || "{}");
       if (!password || !timingSafeEqualString(body.password, password)) {

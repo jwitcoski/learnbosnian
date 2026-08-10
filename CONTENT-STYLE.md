@@ -37,17 +37,27 @@ Every chapter JSON must include (even review lessons):
 5. Lesson B + conversation (cast)
 6. Practice questions
 7. Fun facts (2–3)
-8. More practice / game
-9. Additional resources
-10. Section quiz (4 options, balanced correctIndex)
-11. Dictionary entries for all new words
-12. Bosnia today (civicContext): one paragraph on a fact-based structural pressure on BiH, tied to the lesson theme, with its own image and a Wikipedia or news `learnMore` link
+8. Čuj Bosnu (`authenticListen`): one authentic song or non-course speaker clip with listen-first gist task (not studio cast audio)
+9. More practice / game
+10. Additional resources
+11. Section quiz (4 options, balanced correctIndex); every question sets `skill`
+12. Dictionary entries for all new words
+13. Bosnia today (civicContext): one paragraph on a fact-based structural pressure on BiH, tied to the lesson theme, with its own image and a Wikipedia or news `learnMore` link
 
 ## Quiz quality
 
 - Four options of similar length
 - Roughly balanced A/B/C/D correct answers across a chapter
 - Explanations reinforce the lesson’s goal, not trivia
+- Tag each question with `skill`: `vocabulary` | `grammar` | `dialogue` | `culture` | `listening` so failed quizzes can deep-link Review Words / Grammar / Dialogue
+
+## Čuj Bosnu (authenticListen)
+
+- Required on drafted lessons (same bar as civicContext)
+- `kind`: `song` or `speaker` (never course Ana/Emir/Amira studio lines)
+- Rights-safe embed or clip only; store `license`, `credit`, `pageUrl` like images
+- A1 gist task: listen first, then MCQ; reveal 1–3 key lines after listen
+- Mix songs and speakers across the week; tie clip to lesson theme or place
 
 ## Images
 

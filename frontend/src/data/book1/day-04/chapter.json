@@ -424,7 +424,8 @@
           "Cat"
         ],
         "correctIndex": 1,
-        "explanation": "Majka = mother."
+        "explanation": "Majka = mother.",
+        "skill": "vocabulary"
       },
       {
         "id": "q2",
@@ -436,7 +437,8 @@
           "sin"
         ],
         "correctIndex": 1,
-        "explanation": "Brat = brother; sestra = sister."
+        "explanation": "Brat = brother; sestra = sister.",
+        "skill": "vocabulary"
       },
       {
         "id": "q3",
@@ -448,7 +450,8 @@
           "tvoj majka"
         ],
         "correctIndex": 1,
-        "explanation": "Sestra is feminine, so moja sestra."
+        "explanation": "Sestra is feminine, so moja sestra.",
+        "skill": "grammar"
       },
       {
         "id": "q4",
@@ -460,7 +463,8 @@
           "Our family"
         ],
         "correctIndex": 1,
-        "explanation": "Moj = my (masculine); otac = father."
+        "explanation": "Moj = my (masculine); otac = father.",
+        "skill": "grammar"
       },
       {
         "id": "q5",
@@ -472,7 +476,8 @@
           "fildžan"
         ],
         "correctIndex": 0,
-        "explanation": "Mrvica je mačka. the café cat."
+        "explanation": "Mrvica je mačka. the café cat.",
+        "skill": "vocabulary"
       },
       {
         "id": "q6",
@@ -484,7 +489,8 @@
           "kći"
         ],
         "correctIndex": 1,
-        "explanation": "Prijateljica = female friend."
+        "explanation": "Prijateljica = female friend.",
+        "skill": "vocabulary"
       },
       {
         "id": "q7",
@@ -496,7 +502,8 @@
           "Coffee"
         ],
         "correctIndex": 1,
-        "explanation": "Baba = grandmother."
+        "explanation": "Baba = grandmother.",
+        "skill": "vocabulary"
       },
       {
         "id": "q8",
@@ -508,7 +515,8 @@
           "on"
         ],
         "correctIndex": 1,
-        "explanation": "Mačka is feminine → moja mačka."
+        "explanation": "Mačka is feminine → moja mačka.",
+        "skill": "grammar"
       },
       {
         "id": "q9",
@@ -520,7 +528,8 @@
           "Bridge"
         ],
         "correctIndex": 1,
-        "explanation": "Porodica = family. blood family or café family."
+        "explanation": "Porodica = family. blood family or café family.",
+        "skill": "culture"
       }
     ]
   },
@@ -674,5 +683,56 @@
       "label": "Wikipedia: Presidency of Bosnia and Herzegovina",
       "url": "https://en.wikipedia.org/wiki/Presidency_of_Bosnia_and_Herzegovina"
     }
-  }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu: family words in song",
+    "kind": "song",
+    "hook": "Family words show up in songs and toasts. Listen for majka, otac, or a warm chorus.",
+    "source": {
+      "title": "Folk / family-themed song excerpt",
+      "artistOrSpeaker": "Folk repertoire",
+      "regionOrScene": "Family gatherings",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "Folk repertoire embed; cultural context Replace with a rights-cleared song/speaker embed before publish.",
+      "pageUrl": "https://en.wikipedia.org/wiki/Music_of_Bosnia_and_Herzegovina"
+    },
+    "durationHint": "45–90 seconds",
+    "listenTask": {
+      "prompt": "Do not translate everything. Catch one family word if it appears, or the warm tone.",
+      "gistQuestion": {
+        "prompt": "What fits the clip’s mood?",
+        "options": [
+          "Cold technical manual",
+          "Warm song / gathering feel",
+          "Airport gate change only",
+          "Silent meditation"
+        ],
+        "correctIndex": 1
+      },
+      "targetWords": [
+        "majka",
+        "otac",
+        "porodica"
+      ],
+      "noticePrompt": "Gender endings (-a) often mark feminine nouns you met today."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "To je moja porodica.",
+          "english": "That is my family."
+        },
+        {
+          "bosnian": "Moja majka.",
+          "english": "My mother."
+        }
+      ],
+      "teacherNote": "If you missed the exact lyric, you still practiced listening for family vocabulary."
+    }
+  },
+  "speakTargets": [
+    0,
+    1,
+    2
+  ]
 }

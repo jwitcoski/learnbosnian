@@ -36,12 +36,58 @@ export type PracticeItem = {
   answer: string;
 };
 
+export type QuizSkill =
+  | "vocabulary"
+  | "grammar"
+  | "dialogue"
+  | "culture"
+  | "listening";
+
 export type QuizQuestion = {
   id: string;
   question: string;
   options: string[];
   correctIndex: number;
   explanation?: string;
+  skill?: QuizSkill;
+};
+
+export type AuthenticListen = {
+  title: string;
+  kind: "song" | "speaker";
+  hook: string;
+  source: {
+    title: string;
+    artistOrSpeaker: string;
+    year?: string;
+    regionOrScene?: string;
+    license: string;
+    credit: string;
+    pageUrl: string;
+    embedUrl?: string;
+    clipId?: string;
+  };
+  durationHint?: string;
+  listenTask: {
+    prompt: string;
+    gistQuestion: {
+      prompt: string;
+      options: string[];
+      correctIndex: number;
+    };
+    targetWords?: string[];
+    noticePrompt?: string;
+  };
+  reveal: {
+    keyLines: { bosnian: string; english: string }[];
+    teacherNote: string;
+  };
+};
+
+export type CanDoCheck = {
+  id: string;
+  prompt: string;
+  kind?: "speak" | "listen" | "write";
 };
 
 export type ChapterImage = {
@@ -109,9 +155,15 @@ export type Chapter = {
     setting: string;
     lines: ConversationLine[];
   };
+  /** Line indexes (0-based) offered for AI speak-check; default first learner lines */
+  speakTargets?: number[];
   puzzles: Puzzle[];
   practice: PracticeItem[];
   funFacts: { title: string; body: string }[];
+  /** Authentic speaker/singer listening beat (Čuj Bosnu) */
+  authenticListen?: AuthenticListen;
+  /** Weekly or lesson can-do self-checks */
+  canDoChecks?: CanDoCheck[];
   resources: { label: string; url: string; note?: string }[];
   sectionQuiz: {
     title: string;

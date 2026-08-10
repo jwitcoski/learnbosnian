@@ -78,6 +78,7 @@ Teaser outlines only — see `content/book2/outline.json` and `content/book3/out
 - [x] Lesson 0 orientation (why Bosnian / etymology / audience)
 - [x] Lesson authoring guide (Lesson 1 mold for 4–30)
 - [x] Voice recording portal (shared password, 4 voices 2F/2M) + S3/CloudFront audio + lesson tap-to-play
+- [x] Pedagogy upgrades: Čuj Bosnu authenticListen, quiz remediation links, speak-check (Transcribe+Nova), review deck, can-do checks, listen-first vocab
 - [x] Recorder trim + accept-before-upload (Female 1 = vocab, Male 1 = male parts, F2/M2 if needed)
 
 ## Voice recording

@@ -188,8 +188,104 @@
                 "maxItems": 4
               },
               "correctIndex": { "type": "integer", "minimum": 0, "maximum": 3 },
-              "explanation": { "type": "string" }
+              "explanation": { "type": "string" },
+              "skill": {
+                "type": "string",
+                "enum": [
+                  "vocabulary",
+                  "grammar",
+                  "dialogue",
+                  "culture",
+                  "listening"
+                ]
+              }
             }
+          }
+        }
+      }
+    },
+    "authenticListen": {
+      "type": "object",
+      "required": ["title", "kind", "hook", "source", "listenTask", "reveal"],
+      "properties": {
+        "title": { "type": "string" },
+        "kind": { "type": "string", "enum": ["song", "speaker"] },
+        "hook": { "type": "string" },
+        "source": {
+          "type": "object",
+          "required": ["title", "artistOrSpeaker", "license", "credit", "pageUrl"],
+          "properties": {
+            "title": { "type": "string" },
+            "artistOrSpeaker": { "type": "string" },
+            "year": { "type": "string" },
+            "regionOrScene": { "type": "string" },
+            "license": { "type": "string" },
+            "credit": { "type": "string" },
+            "pageUrl": { "type": "string" },
+            "embedUrl": { "type": "string" },
+            "clipId": { "type": "string" }
+          }
+        },
+        "durationHint": { "type": "string" },
+        "listenTask": {
+          "type": "object",
+          "required": ["prompt", "gistQuestion"],
+          "properties": {
+            "prompt": { "type": "string" },
+            "gistQuestion": {
+              "type": "object",
+              "required": ["prompt", "options", "correctIndex"],
+              "properties": {
+                "prompt": { "type": "string" },
+                "options": {
+                  "type": "array",
+                  "items": { "type": "string" },
+                  "minItems": 2,
+                  "maxItems": 4
+                },
+                "correctIndex": { "type": "integer", "minimum": 0 }
+              }
+            },
+            "targetWords": { "type": "array", "items": { "type": "string" } },
+            "noticePrompt": { "type": "string" }
+          }
+        },
+        "reveal": {
+          "type": "object",
+          "required": ["keyLines", "teacherNote"],
+          "properties": {
+            "keyLines": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "required": ["bosnian", "english"],
+                "properties": {
+                  "bosnian": { "type": "string" },
+                  "english": { "type": "string" }
+                }
+              }
+            },
+            "teacherNote": { "type": "string" }
+          }
+        }
+      }
+    },
+    "speakTargets": {
+      "type": "array",
+      "description": "Dialogue line indexes (0-based) eligible for AI speak-check",
+      "items": { "type": "integer", "minimum": 0 }
+    },
+    "canDoChecks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "prompt"],
+        "properties": {
+          "id": { "type": "string" },
+          "prompt": { "type": "string" },
+          "kind": {
+            "type": "string",
+            "enum": ["speak", "listen", "write"]
           }
         }
       }

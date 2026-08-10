@@ -424,7 +424,8 @@
           "15"
         ],
         "correctIndex": 1,
-        "explanation": "Pet = five."
+        "explanation": "Pet = five.",
+        "skill": "vocabulary"
       },
       {
         "id": "q2",
@@ -436,7 +437,8 @@
           "jedan"
         ],
         "correctIndex": 1,
-        "explanation": "Deset = ten; dvadeset = twenty."
+        "explanation": "Deset = ten; dvadeset = twenty.",
+        "skill": "vocabulary"
       },
       {
         "id": "q3",
@@ -448,7 +450,8 @@
           "the cat"
         ],
         "correctIndex": 1,
-        "explanation": "Kahva is the BiH café word for coffee."
+        "explanation": "Kahva is the BiH café word for coffee.",
+        "skill": "vocabulary"
       },
       {
         "id": "q4",
@@ -460,7 +463,8 @@
           "A greeting"
         ],
         "correctIndex": 1,
-        "explanation": "Fildžan is the little cup for Bosnian coffee."
+        "explanation": "Fildžan is the little cup for Bosnian coffee.",
+        "skill": "vocabulary"
       },
       {
         "id": "q5",
@@ -472,7 +476,8 @@
           "Ja sam kahva."
         ],
         "correctIndex": 1,
-        "explanation": "Kahvu, molim is the ready-made order line."
+        "explanation": "Kahvu, molim is the ready-made order line.",
+        "skill": "vocabulary"
       },
       {
         "id": "q6",
@@ -484,7 +489,8 @@
           "Who is Mrvica?"
         ],
         "correctIndex": 1,
-        "explanation": "Koliko košta? = How much does it cost?"
+        "explanation": "Koliko košta? = How much does it cost?",
+        "skill": "culture"
       },
       {
         "id": "q7",
@@ -496,7 +502,8 @@
           "2"
         ],
         "correctIndex": 2,
-        "explanation": "Dvadeset = twenty."
+        "explanation": "Dvadeset = twenty.",
+        "skill": "vocabulary"
       },
       {
         "id": "q8",
@@ -508,7 +515,8 @@
           "The fountain at Sebilj"
         ],
         "correctIndex": 1,
-        "explanation": "Lokum (rahat lokum) often accompanies kahva."
+        "explanation": "Lokum (rahat lokum) often accompanies kahva.",
+        "skill": "culture"
       },
       {
         "id": "q9",
@@ -520,7 +528,21 @@
           "No sugar, please"
         ],
         "correctIndex": 0,
-        "explanation": "Dva = two; fildžana = cups; molim = please."
+        "explanation": "Dva = two; fildžana = cups; molim = please.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q-listen-3",
+        "skill": "listening",
+        "question": "Best first move with a new Bosnian audio clip?",
+        "options": [
+          "Read the full English transcript first",
+          "Listen once for gist, then check a few anchors",
+          "Ignore audio and only study the quiz",
+          "Translate every word before pressing play"
+        ],
+        "correctIndex": 1,
+        "explanation": "Gist first. Then hunt for a few known words. That is A1 listening."
       }
     ]
   },
@@ -722,5 +744,55 @@
       "label": "Wikipedia: Bosnia and Herzegovina convertible mark",
       "url": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina_convertible_mark"
     }
-  }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu: kahva talk",
+    "kind": "speaker",
+    "hook": "Café talk is Bosnia’s classroom. Hear coffee-house speech and listen for kahva.",
+    "source": {
+      "title": "Café / coffee culture talk",
+      "artistOrSpeaker": "Café culture speaker",
+      "regionOrScene": "Baščaršija café",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "Coffee culture media; context via Bosnian coffee traditions Replace with a rights-cleared song/speaker embed before publish.",
+      "pageUrl": "https://en.wikipedia.org/wiki/Bosnian_coffee"
+    },
+    "durationHint": "45–90 seconds",
+    "listenTask": {
+      "prompt": "Listen for kahva or numbers near an order.",
+      "gistQuestion": {
+        "prompt": "Where does this speech feel at home?",
+        "options": [
+          "A quiet library only",
+          "A café / social pause",
+          "A hospital ER",
+          "A math exam"
+        ],
+        "correctIndex": 1
+      },
+      "targetWords": [
+        "kahva",
+        "molim"
+      ],
+      "noticePrompt": "Orders are short. molim softens the ask."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Kahvu, molim.",
+          "english": "A coffee, please."
+        },
+        {
+          "bosnian": "Hvala.",
+          "english": "Thank you."
+        }
+      ],
+      "teacherNote": "Café noise is real life. Gist listening matters more than perfect transcription."
+    }
+  },
+  "speakTargets": [
+    0,
+    1,
+    2
+  ]
 }

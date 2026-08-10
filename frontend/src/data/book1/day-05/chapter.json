@@ -410,7 +410,8 @@
           "How much"
         ],
         "correctIndex": 1,
-        "explanation": "Gdje = where."
+        "explanation": "Gdje = where.",
+        "skill": "vocabulary"
       },
       {
         "id": "q2",
@@ -422,7 +423,8 @@
           "Bridge"
         ],
         "correctIndex": 1,
-        "explanation": "Ovdje = here; tamo = there."
+        "explanation": "Ovdje = here; tamo = there.",
+        "skill": "culture"
       },
       {
         "id": "q3",
@@ -434,7 +436,8 @@
           "Mostar molim?"
         ],
         "correctIndex": 1,
-        "explanation": "Gdje je Mostar? is the ready question."
+        "explanation": "Gdje je Mostar? is the ready question.",
+        "skill": "culture"
       },
       {
         "id": "q4",
@@ -446,7 +449,8 @@
           "On the bridge"
         ],
         "correctIndex": 1,
-        "explanation": "Kod + name = at that person’s place."
+        "explanation": "Kod + name = at that person’s place.",
+        "skill": "culture"
       },
       {
         "id": "q5",
@@ -458,7 +462,8 @@
           "A cat"
         ],
         "correctIndex": 1,
-        "explanation": "Rijeka = river (Neretva is one)."
+        "explanation": "Rijeka = river (Neretva is one).",
+        "skill": "culture"
       },
       {
         "id": "q6",
@@ -470,7 +475,8 @@
           "Family"
         ],
         "correctIndex": 1,
-        "explanation": "Most = bridge. think Stari Most."
+        "explanation": "Most = bridge. think Stari Most.",
+        "skill": "culture"
       },
       {
         "id": "q7",
@@ -482,7 +488,8 @@
           "not in BiH"
         ],
         "correctIndex": 1,
-        "explanation": "Mostar is farther south. tamo, na jugu."
+        "explanation": "Mostar is farther south. tamo, na jugu.",
+        "skill": "culture"
       },
       {
         "id": "q8",
@@ -494,7 +501,8 @@
           "My mother"
         ],
         "correctIndex": 1,
-        "explanation": "Na mapi = on the map."
+        "explanation": "Na mapi = on the map.",
+        "skill": "culture"
       },
       {
         "id": "q9",
@@ -506,7 +514,8 @@
           "fildžan"
         ],
         "correctIndex": 1,
-        "explanation": "Grad = city; Sarajevo je grad."
+        "explanation": "Grad = city; Sarajevo je grad.",
+        "skill": "culture"
       }
     ]
   },
@@ -648,5 +657,55 @@
       "label": "Balkan Insight: Mostar finally holds local elections",
       "url": "https://balkaninsight.com/2020/12/20/bosnia-mostar-holds-first-local-election-in-12-years/"
     }
-  }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu: Mostar on the map",
+    "kind": "speaker",
+    "hook": "Travel talk names places. Listen for Mostar, map words, or south/north cues.",
+    "source": {
+      "title": "Travel / Mostar place talk",
+      "artistOrSpeaker": "Travel speaker",
+      "regionOrScene": "Mostar / Herzegovina",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "Travel media embed; place context via Mostar article Replace with a rights-cleared song/speaker embed before publish.",
+      "pageUrl": "https://en.wikipedia.org/wiki/Mostar"
+    },
+    "durationHint": "45–90 seconds",
+    "listenTask": {
+      "prompt": "Listen for a place name you know: Mostar.",
+      "gistQuestion": {
+        "prompt": "What is the clip oriented around?",
+        "options": [
+          "A place / travel description",
+          "Baking bread only",
+          "Computer code",
+          "Silent chess"
+        ],
+        "correctIndex": 0
+      },
+      "targetWords": [
+        "Mostar",
+        "gdje"
+      ],
+      "noticePrompt": "Place names stay clear even in fast speech."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Gdje je Mostar?",
+          "english": "Where is Mostar?"
+        },
+        {
+          "bosnian": "Mostar je tamo.",
+          "english": "Mostar is over there."
+        }
+      ],
+      "teacherNote": "Map language is short. Gdje + place is enough for today."
+    }
+  },
+  "speakTargets": [
+    0,
+    1,
+    2
+  ]
 }

@@ -362,7 +362,8 @@
           "Coffee"
         ],
         "correctIndex": 1,
-        "explanation": "Zdravo = hi / hello (Lesson 1)."
+        "explanation": "Zdravo = hi / hello (Lesson 1).",
+        "skill": "vocabulary"
       },
       {
         "id": "q2",
@@ -374,7 +375,8 @@
           "danas / sutra / petak"
         ],
         "correctIndex": 0,
-        "explanation": "Biti in : sam, si, je (Lesson 2)."
+        "explanation": "Biti in : sam, si, je (Lesson 2).",
+        "skill": "dialogue"
       },
       {
         "id": "q3",
@@ -386,7 +388,8 @@
           "Name your sister"
         ],
         "correctIndex": 1,
-        "explanation": "Café order chunk from Lesson 3."
+        "explanation": "Café order chunk from Lesson 3.",
+        "skill": "vocabulary"
       },
       {
         "id": "q4",
@@ -398,7 +401,8 @@
           "tvoj majka"
         ],
         "correctIndex": 1,
-        "explanation": "Sestra is feminine → moja sestra (Lesson 4)."
+        "explanation": "Sestra is feminine → moja sestra (Lesson 4).",
+        "skill": "grammar"
       },
       {
         "id": "q5",
@@ -410,7 +414,8 @@
           "A bridge only"
         ],
         "correctIndex": 1,
-        "explanation": "Mrvica je mačka. The café cat."
+        "explanation": "Mrvica je mačka. The café cat.",
+        "skill": "culture"
       },
       {
         "id": "q6",
@@ -422,7 +427,8 @@
           "Thursday"
         ],
         "correctIndex": 1,
-        "explanation": "Ovdje = here; tamo = there (Lesson 5)."
+        "explanation": "Ovdje = here; tamo = there (Lesson 5).",
+        "skill": "vocabulary"
       },
       {
         "id": "q7",
@@ -434,7 +440,8 @@
           "Mostar molim?"
         ],
         "correctIndex": 1,
-        "explanation": "Gdje je Mostar? (Lesson 5)."
+        "explanation": "Gdje je Mostar? (Lesson 5).",
+        "skill": "culture"
       },
       {
         "id": "q8",
@@ -446,7 +453,8 @@
           "Evening"
         ],
         "correctIndex": 1,
-        "explanation": "Sutra = tomorrow (Lesson 6)."
+        "explanation": "Sutra = tomorrow (Lesson 6).",
+        "skill": "vocabulary"
       },
       {
         "id": "q9",
@@ -458,7 +466,8 @@
           "Who is Emir?"
         ],
         "correctIndex": 1,
-        "explanation": "Time question from Lesson 6 (koliko košta? Was price in Lesson 3)."
+        "explanation": "Time question from Lesson 6 (koliko košta? Was price in Lesson 3).",
+        "skill": "dialogue"
       },
       {
         "id": "q10",
@@ -470,7 +479,21 @@
           "A type of coffee cup"
         ],
         "correctIndex": 1,
-        "explanation": "Jajce’s Pliva waterfall falls beside the old town. A postcard beyond Sarajevo/Mostar."
+        "explanation": "Jajce’s Pliva waterfall falls beside the old town. A postcard beyond Sarajevo/Mostar.",
+        "skill": "culture"
+      },
+      {
+        "id": "q-listen-7",
+        "skill": "listening",
+        "question": "Best first move with a new Bosnian audio clip?",
+        "options": [
+          "Read the full English transcript first",
+          "Listen once for gist, then check a few anchors",
+          "Ignore audio and only study the quiz",
+          "Translate every word before pressing play"
+        ],
+        "correctIndex": 1,
+        "explanation": "Gist first. Then hunt for a few known words. That is A1 listening."
       }
     ]
   },
@@ -588,5 +611,87 @@
       "label": "Wikipedia: Political divisions of Bosnia and Herzegovina",
       "url": "https://en.wikipedia.org/wiki/Political_divisions_of_Bosnia_and_Herzegovina"
     }
-  }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu: week-one ear stretch",
+    "kind": "song",
+    "hook": "Review week: one more song so your ear leaves the studio voices behind.",
+    "source": {
+      "title": "Bosnian / regional song medley mood",
+      "artistOrSpeaker": "Regional song repertoire",
+      "regionOrScene": "Week 1 review",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "Song embed for review listening; music of BiH context Replace with a rights-cleared song/speaker embed before publish.",
+      "pageUrl": "https://en.wikipedia.org/wiki/Music_of_Bosnia_and_Herzegovina"
+    },
+    "durationHint": "60–90 seconds",
+    "listenTask": {
+      "prompt": "Listen for any Week 1 word: greeting, hvala, or a place name.",
+      "gistQuestion": {
+        "prompt": "Did you catch at least one familiar Week 1 sound or word?",
+        "options": [
+          "Yes, something felt familiar",
+          "No, total silence",
+          "Only English ads",
+          "Only typing sounds"
+        ],
+        "correctIndex": 0
+      },
+      "targetWords": [
+        "zdravo",
+        "hvala",
+        "Sarajevo"
+      ],
+      "noticePrompt": "Review listening is retrieval. Familiar beats count as wins."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Zdravo.",
+          "english": "Hello."
+        },
+        {
+          "bosnian": "Hvala.",
+          "english": "Thank you."
+        },
+        {
+          "bosnian": "Doviđenja.",
+          "english": "Goodbye."
+        }
+      ],
+      "teacherNote": "Week 1 closed with a real ear stretch. Keep one song in your pocket for the bus."
+    }
+  },
+  "speakTargets": [
+    0,
+    1,
+    2
+  ],
+  "canDoChecks": [
+    {
+      "id": "cd1",
+      "kind": "speak",
+      "prompt": "Greet someone with zdravo or dobar dan aloud."
+    },
+    {
+      "id": "cd2",
+      "kind": "speak",
+      "prompt": "Say Ja sam… and your name."
+    },
+    {
+      "id": "cd3",
+      "kind": "listen",
+      "prompt": "Understand kahvu, molim in a slow line without reading English first."
+    },
+    {
+      "id": "cd4",
+      "kind": "speak",
+      "prompt": "Ask Gdje je… about a place on a map."
+    },
+    {
+      "id": "cd5",
+      "kind": "write",
+      "prompt": "Type three Week 1 words with correct čćšžđ."
+    }
+  ]
 }

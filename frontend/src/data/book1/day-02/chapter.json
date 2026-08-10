@@ -400,7 +400,8 @@
           "You are Ana"
         ],
         "correctIndex": 1,
-        "explanation": "Ja sam = I am."
+        "explanation": "Ja sam = I am.",
+        "skill": "dialogue"
       },
       {
         "id": "q2",
@@ -412,7 +413,8 @@
           "ona je"
         ],
         "correctIndex": 1,
-        "explanation": "Ti si = you are."
+        "explanation": "Ti si = you are.",
+        "skill": "vocabulary"
       },
       {
         "id": "q3",
@@ -424,7 +426,8 @@
           "Nice to meet Emir"
         ],
         "correctIndex": 1,
-        "explanation": "Zovem se = I am called / my name is."
+        "explanation": "Zovem se = I am called / my name is.",
+        "skill": "dialogue"
       },
       {
         "id": "q4",
@@ -436,7 +439,8 @@
           "Molim"
         ],
         "correctIndex": 1,
-        "explanation": "Drago mi je is the standard meeting phrase."
+        "explanation": "Drago mi je is the standard meeting phrase.",
+        "skill": "vocabulary"
       },
       {
         "id": "q5",
@@ -448,7 +452,8 @@
           "You are a fountain"
         ],
         "correctIndex": 1,
-        "explanation": "On je = he is; vodič = guide."
+        "explanation": "On je = he is; vodič = guide.",
+        "skill": "vocabulary"
       },
       {
         "id": "q6",
@@ -460,7 +465,8 @@
           "A type of bread"
         ],
         "correctIndex": 1,
-        "explanation": "Sebilj is the famous fountain in the old bazaar square."
+        "explanation": "Sebilj is the famous fountain in the old bazaar square.",
+        "skill": "culture"
       },
       {
         "id": "q7",
@@ -472,7 +478,8 @@
           "Zovem se Sarajevo."
         ],
         "correctIndex": 0,
-        "explanation": "Ja sam iz + place expresses origin."
+        "explanation": "Ja sam iz + place expresses origin.",
+        "skill": "culture"
       },
       {
         "id": "q8",
@@ -484,7 +491,8 @@
           "we"
         ],
         "correctIndex": 1,
-        "explanation": "Ona = she; on = he."
+        "explanation": "Ona = she; on = he.",
+        "skill": "vocabulary"
       },
       {
         "id": "q9",
@@ -496,7 +504,8 @@
           "ona si / on sam"
         ],
         "correctIndex": 1,
-        "explanation": "Remember: ja sam, ti si, on/ona je."
+        "explanation": "Remember: ja sam, ti si, on/ona je.",
+        "skill": "vocabulary"
       }
     ]
   },
@@ -638,5 +647,55 @@
       "label": "Wikipedia: Sejdić and Finci v. Bosnia and Herzegovina",
       "url": "https://en.wikipedia.org/wiki/Sejdi%C4%87_and_Finci_v._Bosnia_and_Herzegovina"
     }
-  }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu: saying who you are",
+    "kind": "speaker",
+    "hook": "People introduce themselves every day. Hear a natural self-introduction cadence.",
+    "source": {
+      "title": "Short self-introduction (public interview bite)",
+      "artistOrSpeaker": "Interview speaker",
+      "regionOrScene": "Everyday speech",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "Public interview-style speech; pedagogical excerpt via embed Replace with a rights-cleared song/speaker embed before publish.",
+      "pageUrl": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina"
+    },
+    "durationHint": "45–60 seconds",
+    "listenTask": {
+      "prompt": "Listen for a name pattern: Ja sam…",
+      "gistQuestion": {
+        "prompt": "What is the speaker doing?",
+        "options": [
+          "Ordering pizza only",
+          "Introducing themselves",
+          "Reading a train timetable",
+          "Singing opera"
+        ],
+        "correctIndex": 1
+      },
+      "targetWords": [
+        "ja",
+        "sam"
+      ],
+      "noticePrompt": "Ja sam… is a chunk. Grab it as one piece."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Ja sam Ana.",
+          "english": "I am Ana."
+        },
+        {
+          "bosnian": "Drago mi je.",
+          "english": "Nice to meet you."
+        }
+      ],
+      "teacherNote": "Even if the clip uses another name, the frame Ja sam + NAME is today’s win."
+    }
+  },
+  "speakTargets": [
+    0,
+    1,
+    2
+  ]
 }

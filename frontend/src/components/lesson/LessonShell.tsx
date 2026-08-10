@@ -1,3 +1,4 @@
+import { useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import type { Chapter, ChapterImage } from "../../types/chapter";
 import { getChapter, canViewChapter } from "../../data/loadChapters";
@@ -6,9 +7,19 @@ import {
   dialogueClipId,
   vocabClipId,
 } from "../../lib/audioClips";
+import {
+  getSpeakAttempts,
+  incrementSpeakAttempts,
+  SPEAK_ATTEMPTS_PER_LESSON,
+} from "../../hooks/useReviewDeck";
 import PuzzleGame from "./PuzzleGame";
 import PracticeList from "./PracticeList";
 import SectionQuiz from "./SectionQuiz";
+import AuthenticListenPanel from "./AuthenticListenPanel";
+import SpeakPractice from "./SpeakPractice";
+import ReviewDeck from "./ReviewDeck";
+import CanDoChecklist from "./CanDoChecklist";
+import { PrimaryButton } from "./styles";
 import {
   Banner,
   Credit,
@@ -52,6 +63,18 @@ function ChapterImageFigure({
   );
 }
 
+function pickSpeakTargets(chapter: Chapter): number[] {
+  if (chapter.speakTargets?.length) return chapter.speakTargets.slice(0, 3);
+  const lines = chapter.conversation?.lines || [];
+  const idxs: number[] = [];
+  for (let i = 0; i < lines.length && idxs.length < 3; i += 1) {
+    const sp = (lines[i].speaker || "").toLowerCase();
+    if (sp === "narrator" || sp === "mrvica") continue;
+    idxs.push(i);
+  }
+  return idxs;
+}
+
 export default function LessonShell({ chapter }: Props) {
   const images = chapter.images || [];
   const civicImageId = chapter.civicContext?.imageId || null;
@@ -68,8 +91,31 @@ export default function LessonShell({ chapter }: Props) {
   const next = getChapter(chapter.day + 1);
   const prevOpen = prev ? canViewChapter(prev) : false;
   const nextOpen = next ? canViewChapter(next) : false;
-  const { playClip, playingId, missing } = useClipAudio();
+  const {
+    playClip,
+    playingId,
+    missing,
+    rate,
+    loop,
+    setPlaybackRate,
+    setLooping,
+  } = useClipAudio();
   const book = chapter.book || 1;
+
+  const [listenFirstDone, setListenFirstDone] = useState<Record<string, boolean>>(
+    {}
+  );
+  const [attemptsUsed, setAttemptsUsed] = useState(() =>
+    getSpeakAttempts(chapter.day)
+  );
+  const speakTargets = useMemo(() => pickSpeakTargets(chapter), [chapter]);
+  const attemptsLeft = Math.max(0, SPEAK_ATTEMPTS_PER_LESSON - attemptsUsed);
+
+  const videoResource = chapter.resources?.find(
+    (r) =>
+      /youtube|video|watch/i.test(r.label) ||
+      /youtu\.be|youtube\.com/.test(r.url)
+  );
 
   return (
     <LessonPage>
@@ -127,6 +173,23 @@ export default function LessonShell({ chapter }: Props) {
         </GoalList>
       </Panel>
 
+      {videoResource && (
+        <Panel id="video">
+          <SectionDivider />
+          <h2>Watch the companion video</h2>
+          <p style={{ color: "var(--color-muted)", marginTop: 0 }}>
+            Start here when you can. Then return for words, dialogue, and
+            practice on this page.
+          </p>
+          <p>
+            <a href={videoResource.url} target="_blank" rel="noreferrer">
+              {videoResource.label}
+            </a>
+            {videoResource.note ? `. ${videoResource.note}` : ""}
+          </p>
+        </Panel>
+      )}
+
       <SectionDivider />
 
       {chapter.culture && (
@@ -144,29 +207,70 @@ export default function LessonShell({ chapter }: Props) {
       <Panel id="vocab">
         <h2>Words for today</h2>
         <p style={{ color: "var(--color-muted)", marginTop: 0 }}>
-          Tap a word to hear it when a recording is available.
+          Listen first, then reveal the spelling. Tap again anytime to loop the
+          sound.
         </p>
+        <div
+          style={{
+            display: "flex",
+            gap: "0.5rem",
+            flexWrap: "wrap",
+            marginBottom: "0.75rem",
+          }}
+        >
+          <PrimaryButton
+            type="button"
+            onClick={() => setLooping(!loop)}
+          >
+            Loop: {loop ? "on" : "off"}
+          </PrimaryButton>
+          <PrimaryButton
+            type="button"
+            onClick={() => setPlaybackRate(rate === 1 ? 0.75 : 1)}
+          >
+            Speed: {rate === 1 ? "1×" : "0.75×"}
+          </PrimaryButton>
+        </div>
         <VocabGrid>
           {chapter.vocabulary.map((v) => {
             const clipId = vocabClipId(book, chapter.day, v.bosnian);
             const isPlaying = playingId === clipId;
             const isMissing = Boolean(missing[clipId]);
+            const revealed = listenFirstDone[clipId];
             return (
               <VocabCard
                 key={v.bosnian}
                 type="button"
-                onClick={() => playClip(clipId)}
+                onClick={() => {
+                  playClip(clipId, { loop, rate });
+                  setListenFirstDone((m) => ({ ...m, [clipId]: true }));
+                }}
                 data-playing={isPlaying ? "true" : "false"}
                 data-missing={isMissing ? "true" : "false"}
                 aria-label={`Play pronunciation for ${v.bosnian}`}
               >
-                <div className="bs">{v.bosnian}</div>
-                <div className="en">{v.english}</div>
-                {v.pronunciation && (
-                  <div className="pron">{v.pronunciation}</div>
+                {revealed ? (
+                  <>
+                    <div className="bs">{v.bosnian}</div>
+                    <div className="en">{v.english}</div>
+                    {v.pronunciation && (
+                      <div className="pron">{v.pronunciation}</div>
+                    )}
+                  </>
+                ) : (
+                  <>
+                    <div className="bs">?</div>
+                    <div className="en">Listen first</div>
+                  </>
                 )}
                 <div className="listen">
-                  {isPlaying ? "Playing…" : isMissing ? "Audio soon" : "Tap to hear"}
+                  {isPlaying
+                    ? "Playing…"
+                    : isMissing
+                    ? "Audio soon"
+                    : revealed
+                    ? "Tap to hear"
+                    : "Tap to listen"}
                 </div>
               </VocabCard>
             );
@@ -175,21 +279,25 @@ export default function LessonShell({ chapter }: Props) {
         {midImage && <ChapterImageFigure day={chapter.day} image={midImage} />}
       </Panel>
 
-      {chapter.grammar.map((g) => (
-        <Panel key={g.title}>
-          <h2>{g.title}</h2>
-          <p>{g.explanation}</p>
-          {g.examples && (
-            <GoalList>
-              {g.examples.map((ex) => (
-                <li key={ex.bosnian}>
-                  <strong>{ex.bosnian}</strong>: {ex.english}
-                </li>
-              ))}
-            </GoalList>
-          )}
-        </Panel>
-      ))}
+      <Panel id="grammar">
+        <SectionDivider />
+        <h2>Grammar</h2>
+        {chapter.grammar.map((g) => (
+          <div key={g.title} style={{ marginBottom: "1.25rem" }}>
+            <h3>{g.title}</h3>
+            <p>{g.explanation}</p>
+            {g.examples && (
+              <GoalList>
+                {g.examples.map((ex) => (
+                  <li key={ex.bosnian}>
+                    <strong>{ex.bosnian}</strong>: {ex.english}
+                  </li>
+                ))}
+              </GoalList>
+            )}
+          </div>
+        ))}
+      </Panel>
 
       {chapter.lessonBlocks.map((block, idx) => (
         <Panel key={block.id} id={`lesson-${block.id}`}>
@@ -220,34 +328,82 @@ export default function LessonShell({ chapter }: Props) {
             {chapter.conversation.setting}
           </p>
           <p style={{ color: "var(--color-muted)" }}>
-            Tap a line to hear the voice-over when available.
+            Play the full scene once (cover the English with your hand if you
+            can), then tap individual lines. Use Speak on the highlighted lines.
           </p>
+          <div
+            style={{
+              display: "flex",
+              gap: "0.5rem",
+              flexWrap: "wrap",
+              marginBottom: "0.75rem",
+            }}
+          >
+            <PrimaryButton
+              type="button"
+              onClick={() => {
+                const first = dialogueClipId(book, chapter.day, 0);
+                playClip(first, { loop: false, rate });
+              }}
+            >
+              Play first line
+            </PrimaryButton>
+            <PrimaryButton
+              type="button"
+              onClick={() => setLooping(!loop)}
+            >
+              Loop: {loop ? "on" : "off"}
+            </PrimaryButton>
+            <PrimaryButton
+              type="button"
+              onClick={() => setPlaybackRate(rate === 1 ? 0.75 : 1)}
+            >
+              Speed: {rate === 1 ? "1×" : "0.75×"}
+            </PrimaryButton>
+          </div>
           <Dialogue>
             {chapter.conversation.lines.map((line, i) => {
               const clipId = dialogueClipId(book, chapter.day, i);
               const isPlaying = playingId === clipId;
               const isMissing = Boolean(missing[clipId]);
+              const isSpeak = speakTargets.includes(i);
               return (
-                <Line
-                  key={`${line.speaker}-${i}`}
-                  type="button"
-                  $speaker={line.speaker}
-                  onClick={() => playClip(clipId)}
-                  data-playing={isPlaying ? "true" : "false"}
-                  data-missing={isMissing ? "true" : "false"}
-                  aria-label={`Play dialogue line by ${line.speaker}`}
-                >
-                  <div className="speaker">{line.speaker}</div>
-                  <div className="bs">{line.bosnian}</div>
-                  <div className="en">{line.english}</div>
-                  <div className="listen">
-                    {isPlaying
-                      ? "Playing…"
-                      : isMissing
-                      ? "Audio soon"
-                      : "Tap to hear"}
-                  </div>
-                </Line>
+                <div key={`${line.speaker}-${i}`}>
+                  <Line
+                    type="button"
+                    $speaker={line.speaker}
+                    onClick={() => playClip(clipId, { loop, rate })}
+                    data-playing={isPlaying ? "true" : "false"}
+                    data-missing={isMissing ? "true" : "false"}
+                    aria-label={`Play dialogue line by ${line.speaker}`}
+                  >
+                    <div className="speaker">{line.speaker}</div>
+                    <div className="bs">{line.bosnian}</div>
+                    <div className="en">{line.english}</div>
+                    <div className="listen">
+                      {isPlaying
+                        ? "Playing…"
+                        : isMissing
+                        ? "Audio soon"
+                        : "Tap to hear"}
+                    </div>
+                  </Line>
+                  {isSpeak && (
+                    <SpeakPractice
+                      day={chapter.day}
+                      lineIndex={i}
+                      bosnian={line.bosnian}
+                      english={line.english}
+                      vocabulary={chapter.vocabulary.map((v) => v.bosnian)}
+                      teacherPlay={() => playClip(clipId, { loop: false, rate })}
+                      teacherPlaying={isPlaying}
+                      attemptsLeft={attemptsLeft}
+                      onAiAttempt={() =>
+                        setAttemptsUsed(incrementSpeakAttempts(chapter.day))
+                      }
+                    />
+                  )}
+                </div>
               );
             })}
           </Dialogue>
@@ -285,6 +441,14 @@ export default function LessonShell({ chapter }: Props) {
         </Panel>
       )}
 
+      {chapter.authenticListen && (
+        <Panel id="authentic-listen">
+          <SectionDivider />
+          <h2>{chapter.authenticListen.title}</h2>
+          <AuthenticListenPanel block={chapter.authenticListen} />
+        </Panel>
+      )}
+
       {chapter.civicContext && (
         <Panel id="civic-context">
           <SectionDivider />
@@ -318,6 +482,18 @@ export default function LessonShell({ chapter }: Props) {
           <SectionDivider />
           <h2>More practice: game</h2>
           <PuzzleGame puzzle={chapter.puzzles[1]} />
+        </Panel>
+      )}
+
+      <Panel id="review-deck">
+        <SectionDivider />
+        <ReviewDeck day={chapter.day} todayVocab={chapter.vocabulary || []} />
+      </Panel>
+
+      {chapter.canDoChecks && chapter.canDoChecks.length > 0 && (
+        <Panel id="can-do">
+          <SectionDivider />
+          <CanDoChecklist items={chapter.canDoChecks} />
         </Panel>
       )}
 

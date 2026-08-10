@@ -123,6 +123,17 @@ resource "aws_s3_bucket_policy" "audio" {
             "AWS:SourceArn" = aws_cloudfront_distribution.audio.arn
           }
         }
+      },
+      {
+        Sid    = "AllowTranscribeReadLearnerTakes"
+        Effect = "Allow"
+        Principal = {
+          Service = "transcribe.amazonaws.com"
+        }
+        Action = [
+          "s3:GetObject"
+        ]
+        Resource = "${aws_s3_bucket.audio.arn}/learner-takes/*"
       }
     ]
   })
@@ -310,9 +321,25 @@ resource "aws_iam_role_policy" "audio_api" {
         Action = [
           "s3:PutObject",
           "s3:GetObject",
-          "s3:HeadObject"
+          "s3:HeadObject",
+          "s3:DeleteObject"
         ]
         Resource = "${aws_s3_bucket.audio.arn}/*"
+      },
+      {
+        Effect = "Allow"
+        Action = [
+          "transcribe:StartTranscriptionJob",
+          "transcribe:GetTranscriptionJob"
+        ]
+        Resource = "*"
+      },
+      {
+        Effect = "Allow"
+        Action = [
+          "bedrock:InvokeModel"
+        ]
+        Resource = "*"
       }
     ]
   })
@@ -325,8 +352,8 @@ resource "aws_lambda_function" "audio_api" {
   runtime          = "nodejs18.x"
   filename         = data.archive_file.audio_api.output_path
   source_code_hash = data.archive_file.audio_api.output_base64sha256
-  timeout          = 15
-  memory_size      = 256
+  timeout          = 90
+  memory_size      = 512
 
   environment {
     variables = {
@@ -336,6 +363,7 @@ resource "aws_lambda_function" "audio_api" {
       RECORDING_PASSWORD  = var.recording_password
       AUDIO_TOKEN_SECRET  = var.audio_token_secret
       AUDIO_PUBLIC_BASE   = "https://${aws_cloudfront_distribution.audio.domain_name}"
+      NOVA_MODEL_ID       = "amazon.nova-lite-v1:0"
     }
   }
 

@@ -85,6 +85,18 @@ for (const ch of chapters) {
     markdown += `### Fun fact: ${f.title}\n\n${f.body}\n\n`;
   }
 
+  if (ch.authenticListen) {
+    const a = ch.authenticListen;
+    markdown += `## ${a.title}\n\n${a.hook}\n\n`;
+    markdown += `Source: ${a.source.title} (${a.source.artistOrSpeaker}). ${a.source.pageUrl}\n\n`;
+    if (a.reveal?.keyLines?.length) {
+      for (const line of a.reveal.keyLines) {
+        markdown += `- ${line.bosnian} — ${line.english}\n`;
+      }
+      markdown += `\n${a.reveal.teacherNote || ""}\n\n`;
+    }
+  }
+
   if (ch.civicContext) {
     markdown += `## Bosnia today: ${ch.civicContext.title}\n\n${ch.civicContext.body}\n\n`;
     if (ch.civicContext.learnMore?.url) {

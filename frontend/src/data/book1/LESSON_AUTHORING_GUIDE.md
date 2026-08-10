@@ -17,6 +17,8 @@ Use this guide for **Lessons 4–30**. Do not invent a new chapter shape. Copy L
 - Write full sentences in culture, civic, and fun-fact bodies.
 - Keep website UI tips (accent buttons) out of chapter JSON. Book export must stay book-safe.
 - Every drafted lesson needs `civicContext` { title, body, imageId, learnMore: { label, url } } with a dedicated image: one documented structural pressure on BiH, thematically linked to the lesson. Body must be one paragraph. Include a Wikipedia or reputable news `learnMore` link.
+- Every drafted lesson needs `authenticListen` (Čuj Bosnu): one song or non-course speaker clip with listen-first gist task. Rights-safe embed/`clipId` only. Not studio cast dialogue audio.
+- Every `sectionQuiz` question should set `skill` (`vocabulary` | `grammar` | `dialogue` | `culture` | `listening`) for remediation links.
 - **Civic backlog:** Brčko District (self-governing city-district under international supervision) is a third unit beside the two entities. Do not cram it into the Lesson 7 entities note. Draft it on Lesson 13 (identity / people of BiH) or another northern/administration lesson.
 
 ## 1. Product promises (every lesson)
@@ -49,9 +51,12 @@ Fill `content/book1/day-XX/chapter.json` completely before marking `draft`.
 | **puzzles** | **2** | Prefer: match + (scramble \| truefalse \| second match) |
 | **practice** | **6–8** typed items | Force accents (`čćšžđ`) when the lesson taught them |
 | **funFacts** | **3–4** | Mix: culture, language tip, story beat |
+| **authenticListen** | **1** Čuj Bosnu block | Song or speaker; listen-first gist; 1–3 key lines; full attribution |
 | **civicContext** | **1** fact + image | Structural pressure on BiH, tied to lesson theme; full sentences; no opinion slogans |
 | **resources** | Channel/video + optional map + **next lesson** link | `/learn/lesson/N` |
-| **sectionQuiz** | **8–10** MCQs, `passPercent: 70`, explanations | Mix meaning, form, one culture |
+| **sectionQuiz** | **8–10** MCQs, `passPercent: 70`, explanations + **`skill`** | Mix meaning, form, one culture |
+| **speakTargets** | Optional `number[]` | 0-based dialogue line indexes for AI speak-check (default: up to 3 learner lines) |
+| **canDoChecks** | Review lessons: **3–5** | Short self-check prompts (speak / listen / write) |
 | **dictionaryEntries** | Every teaching vocab item (+ full number set if taught) | `day: N` |
 | **images** | **3** polygon scenes | Hero = culture `imageId`; mid-lesson; place/object beat |
 | **video-script.md** | 8–10 min, Lesson N wording | Same A/B spine as blocks |
@@ -81,6 +86,20 @@ Fill `content/book1/day-XX/chapter.json` completely before marking `draft`.
 - Answers compared case-insensitively; still write canonical casing
 - If `?` or accents are required, say so in the prompt
 - Quiz explanations teach, not just “correct”
+- Every quiz item sets `skill` for remediation deep links after a failed quiz
+
+### Čuj Bosnu selection guide
+
+| Prefer `song` when… | Prefer `speaker` when… |
+|---------------------|------------------------|
+| Culture, emotion, place identity, review medleys | Shop, bus, phone, directions, transactional themes |
+| Sevdah / folk / pop refrain is the ear stretch | Slow interview, café/market speech, radio bite |
+
+A1 rules: 45–90s focus excerpt; gist + 1–3 audible anchors; Latin-only on-screen lyrics; never pirate full tracks.
+
+### Speak-check lines
+
+Mark 2–3 dialogue lines with `speakTargets` (indexes) when you want AI coaching. Otherwise the site offers the first few non-narrator lines.
 
 ---
 

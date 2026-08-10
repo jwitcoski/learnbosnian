@@ -424,7 +424,8 @@
           "How much coffee?"
         ],
         "correctIndex": 1,
-        "explanation": "Koliko je sati? = What time is it?"
+        "explanation": "Koliko je sati? = What time is it?",
+        "skill": "culture"
       },
       {
         "id": "q2",
@@ -436,7 +437,8 @@
           "Evening"
         ],
         "correctIndex": 1,
-        "explanation": "Danas = today; sutra = tomorrow."
+        "explanation": "Danas = today; sutra = tomorrow.",
+        "skill": "dialogue"
       },
       {
         "id": "q3",
@@ -448,7 +450,8 @@
           "Noon"
         ],
         "correctIndex": 1,
-        "explanation": "Sutra = tomorrow."
+        "explanation": "Sutra = tomorrow.",
+        "skill": "vocabulary"
       },
       {
         "id": "q4",
@@ -460,7 +463,8 @@
           "Sunday"
         ],
         "correctIndex": 2,
-        "explanation": "Petak = Friday."
+        "explanation": "Petak = Friday.",
+        "skill": "vocabulary"
       },
       {
         "id": "q5",
@@ -472,7 +476,8 @@
           "A cat"
         ],
         "correctIndex": 1,
-        "explanation": "Jutro = morning."
+        "explanation": "Jutro = morning.",
+        "skill": "culture"
       },
       {
         "id": "q6",
@@ -484,7 +489,8 @@
           "nedjelja"
         ],
         "correctIndex": 1,
-        "explanation": "Četvrtak = Thursday."
+        "explanation": "Četvrtak = Thursday.",
+        "skill": "vocabulary"
       },
       {
         "id": "q7",
@@ -496,7 +502,8 @@
           "Family"
         ],
         "correctIndex": 1,
-        "explanation": "Kasno = late."
+        "explanation": "Kasno = late.",
+        "skill": "vocabulary"
       },
       {
         "id": "q8",
@@ -508,7 +515,8 @@
           "Igman"
         ],
         "correctIndex": 1,
-        "explanation": "Travnik’s clock tower stands with Mount Vlašić behind it. central Bosnia, not Sarajevo."
+        "explanation": "Travnik’s clock tower stands with Mount Vlašić behind it. central Bosnia, not Sarajevo.",
+        "skill": "vocabulary"
       },
       {
         "id": "q9",
@@ -520,7 +528,8 @@
           "It is five o’clock"
         ],
         "correctIndex": 1,
-        "explanation": "Danas = today; petak = Friday."
+        "explanation": "Danas = today; petak = Friday.",
+        "skill": "dialogue"
       }
     ]
   },
@@ -674,5 +683,55 @@
       "label": "Wikipedia: Pelješac Bridge",
       "url": "https://en.wikipedia.org/wiki/Pelje%C5%A1ac_Bridge"
     }
-  }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu: time in real speech",
+    "kind": "speaker",
+    "hook": "Schedules and small talk use clock phrases. Listen for sati or a time-of-day greeting.",
+    "source": {
+      "title": "Everyday time / schedule talk",
+      "artistOrSpeaker": "Everyday speaker",
+      "regionOrScene": "Daily routines",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "Everyday speech embed for time listening practice Replace with a rights-cleared song/speaker embed before publish.",
+      "pageUrl": "https://en.wikipedia.org/wiki/Time"
+    },
+    "durationHint": "45–60 seconds",
+    "listenTask": {
+      "prompt": "Listen for a number + time feel, even if you miss the exact minute.",
+      "gistQuestion": {
+        "prompt": "What kind of information is this clip carrying?",
+        "options": [
+          "Mostly timing / daily life talk",
+          "Only mountain climbing gear ads",
+          "Only classical physics",
+          "Only animal sounds"
+        ],
+        "correctIndex": 0
+      },
+      "targetWords": [
+        "sati",
+        "jutro"
+      ],
+      "noticePrompt": "Time phrases are chunks: Koliko je sati?"
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Koliko je sati?",
+          "english": "What time is it?"
+        },
+        {
+          "bosnian": "Dobro jutro.",
+          "english": "Good morning."
+        }
+      ],
+      "teacherNote": "If numbers blur, keep the question frame. You can answer with a gesture and a known hour."
+    }
+  },
+  "speakTargets": [
+    0,
+    1,
+    2
+  ]
 }

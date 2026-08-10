@@ -265,6 +265,12 @@ export const PrimaryButton = styled.button`
     background: var(--color-brown);
     transform: translateY(-1px);
   }
+
+  &:disabled {
+    opacity: 0.55;
+    cursor: not-allowed;
+    transform: none;
+  }
 `;
 
 export const GhostButton = styled.button`

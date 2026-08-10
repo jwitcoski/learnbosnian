@@ -505,7 +505,8 @@
           "Good evening"
         ],
         "correctIndex": 0,
-        "explanation": "Zdravo is the friendly everyday hello."
+        "explanation": "Zdravo is the friendly everyday hello.",
+        "skill": "vocabulary"
       },
       {
         "id": "q2",
@@ -517,7 +518,8 @@
           "Ne"
         ],
         "correctIndex": 1,
-        "explanation": "Dobar dan is the polite daytime greeting."
+        "explanation": "Dobar dan is the polite daytime greeting.",
+        "skill": "vocabulary"
       },
       {
         "id": "q3",
@@ -529,7 +531,8 @@
           "Ulica"
         ],
         "correctIndex": 2,
-        "explanation": "Hvala = thank you. Molim can mean please or you're welcome."
+        "explanation": "Hvala = thank you. Molim can mean please or you're welcome.",
+        "skill": "vocabulary"
       },
       {
         "id": "q4",
@@ -541,7 +544,8 @@
           "24 without digraphs"
         ],
         "correctIndex": 1,
-        "explanation": "Latin Bosnian has 30 letters. Dž, Lj, and Nj each count as one letter."
+        "explanation": "Latin Bosnian has 30 letters. Dž, Lj, and Nj each count as one letter.",
+        "skill": "culture"
       },
       {
         "id": "q5",
@@ -553,7 +557,8 @@
           "'ch' in church"
         ],
         "correctIndex": 1,
-        "explanation": "Š is like sh in ship. as in Baščaršija."
+        "explanation": "Š is like sh in ship. as in Baščaršija.",
+        "skill": "listening"
       },
       {
         "id": "q6",
@@ -565,7 +570,8 @@
           "A street cat"
         ],
         "correctIndex": 1,
-        "explanation": "Džezva is the little pot used for Bosnian coffee."
+        "explanation": "Džezva is the little pot used for Bosnian coffee.",
+        "skill": "culture"
       },
       {
         "id": "q7",
@@ -577,7 +583,8 @@
           "Čaj"
         ],
         "correctIndex": 1,
-        "explanation": "Doviđenja means goodbye. The letter đ Needs the letter đ."
+        "explanation": "Doviđenja means goodbye. The letter đ Needs the letter đ.",
+        "skill": "vocabulary"
       },
       {
         "id": "q8",
@@ -589,7 +596,8 @@
           "The Bosnian alphabet"
         ],
         "correctIndex": 1,
-        "explanation": "Baščaršija is the historic market heart of Sarajevo."
+        "explanation": "Baščaršija is the historic market heart of Sarajevo.",
+        "skill": "culture"
       },
       {
         "id": "q9",
@@ -601,7 +609,8 @@
           "a vs e"
         ],
         "correctIndex": 1,
-        "explanation": "Č is harder; ć is softer. a classic beginner pair."
+        "explanation": "Č is harder; ć is softer. a classic beginner pair.",
+        "skill": "grammar"
       }
     ]
   },
@@ -767,5 +776,55 @@
       "label": "Wikipedia: High Representative for Bosnia and Herzegovina",
       "url": "https://en.wikipedia.org/wiki/High_Representative_for_Bosnia_and_Herzegovina"
     }
-  }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu: greetings in song",
+    "kind": "song",
+    "hook": "Sarajevo mornings start with sound. Hear a sevdah-tinged greeting mood, then catch one clear word.",
+    "source": {
+      "title": "Sevdalinka (traditional love song tradition)",
+      "artistOrSpeaker": "Traditional sevdah repertoire",
+      "regionOrScene": "Sarajevo / sevdah",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "Traditional sevdah repertoire; context via Wikipedia Sevdalinka Replace with a rights-cleared song/speaker embed before publish.",
+      "pageUrl": "https://en.wikipedia.org/wiki/Sevdalinka"
+    },
+    "durationHint": "45–90 seconds",
+    "listenTask": {
+      "prompt": "Play a short stretch. Listen for mood first, words second.",
+      "gistQuestion": {
+        "prompt": "What feeling fits this clip best?",
+        "options": [
+          "Angry sports chant",
+          "Warm / nostalgic song",
+          "Robot GPS voice",
+          "Kids counting only"
+        ],
+        "correctIndex": 1
+      },
+      "targetWords": [
+        "zdravo",
+        "Sarajevo"
+      ],
+      "noticePrompt": "Sevdah often feels intimate and unhurried. That pacing helps beginners."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Zdravo.",
+          "english": "Hello."
+        },
+        {
+          "bosnian": "Sarajevo.",
+          "english": "Sarajevo."
+        }
+      ],
+      "teacherNote": "Song vowels stretch. Your classroom zdravo will be shorter and clearer."
+    }
+  },
+  "speakTargets": [
+    0,
+    1,
+    2
+  ]
 }
