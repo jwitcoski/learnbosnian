@@ -7,7 +7,7 @@
   "theme": "Map of BiH; Mostar tease",
   "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "Full draft to Lesson 1 exemplar bar — ready for human review before publish.",
+  "reviewerNotes": "Full draft to Lesson 1 exemplar bar. ready for human review before publish.",
   "estimatedMinutes": 60,
   "storyBeat": "Emir unfolds a map and teases a future Mostar trip while Ana learns place words.",
   "learningGoals": {
@@ -147,7 +147,7 @@
     },
     {
       "title": "Ovdje and tamo",
-      "explanation": "Ovdje = here (near you). Tamo = there / over there (farther away). On a map Emir points: Sarajevo je ovdje. Mostar je tamo. Practice pointing while you speak — gesture is half the lesson.",
+      "explanation": "Ovdje = here (near you). Tamo = there / over there (farther away). On a map Emir points: Sarajevo je ovdje. Mostar je tamo. Practice pointing while you speak. gesture is half the lesson.",
       "examples": [
         {
           "bosnian": "Ovdje je Sarajevo.",
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "title": "U / na / kod — say them as chunks",
+      "title": "U / na / kod. say them as chunks",
       "explanation": "Memorize useful place lines before full case tables. U Sarajevu = in Sarajevo. Na mapi = on the map. Kod Amire = at Amira’s. Na jugu = in the south. Learn the whole chunk; morphology details come later.",
       "examples": [
         {
@@ -183,15 +183,15 @@
     }
   ],
   "culture": {
-    "title": "Mostar on the map — a trip for later",
-    "body": "Bosnia and Herzegovina stretches from green hills to the Neretva valley. Sarajevo sits in a bowl of mountains; Mostar lies farther south, famous for Stari Most — the Old Bridge — leaping the cold river. Emir will not spoil the ending: Ana will get there near the end of Book 1. Today she only finds Mostar on the map, says Gdje je Mostar?, and hears the tease: Tamo. Sutra… ili uskoro!",
+    "title": "Finding Mostar on a real map",
+    "body": "Bosnia and Herzegovina stretches from green hills to the Neretva valley. Sarajevo sits in a mountain bowl. Mostar lies farther south and is famous for Stari Most, the Old Bridge over the cold Neretva. Emir does not spoil the ending of Book 1. Today Ana only finds Mostar on the map, asks Gdje je Mostar?, and hears the answer Tamo. The trip can wait. The map habit starts now.",
     "imageId": "bih-map"
   },
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A — Gdje / ovdje / tamo",
-      "body": "Ask Gdje je…? about anything on the table: mapa, kahva, Mrvica. Answer Ovdje! when it is near, Tamo! when you point away. Add city names: Gdje je Sarajevo? — Ovdje. Gdje je Mostar? — Tamo. Drill ten times with a finger on an imaginary map. Emir makes Ana point south for Mostar every time she asks.",
+      "title": "Lesson A: Gdje / ovdje / tamo",
+      "body": "Ask Gdje je…? about anything on the table: mapa, kahva, Mrvica. Answer Ovdje! when it is near, Tamo! when you point away. Add city names: Gdje je Sarajevo? Ovdje. Gdje je Mostar? Tamo. Drill ten times with a finger on an imaginary map. Emir makes Ana point south for Mostar every time she asks.",
       "tips": [
         "Question kit: Gdje je + place?",
         "Answer kit: Ovdje. / Tamo."
@@ -199,8 +199,8 @@
     },
     {
       "id": "b",
-      "title": "Lesson B — On the map of BiH",
-      "body": "Open the map. Say Na mapi. Find Sarajevo: U Sarajevu — ovdje. Find Mostar: Mostar je tamo, na jugu. Name the river and bridge as story bait: Neretva je rijeka. Stari most. Then place yourselves: Mi smo kod Amire, u Sarajevu. Emir grins: Mostar? Uskoro. Ana writes Gdje je Mostar? in her notebook and draws a tiny bridge.",
+      "title": "Lesson B: On the map of BiH",
+      "body": "Open the map. Say Na mapi. Find Sarajevo: U Sarajevu. ovdje. Find Mostar: Mostar je tamo, na jugu. Name the river and bridge as story bait: Neretva je rijeka. Stari most. Then place yourselves: Mi smo kod Amire, u Sarajevu. Emir grins: Mostar? Uskoro. Ana writes Gdje je Mostar? in her notebook and draws a tiny bridge.",
       "tips": [
         "Chunks: u Sarajevu · na mapi · kod Amire · na jugu",
         "Reuse je from Lesson 2"
@@ -248,8 +248,8 @@
       },
       {
         "speaker": "Amira",
-        "bosnian": "Ali danas — kahva kod Amire!",
-        "english": "But today — coffee at Amira’s!"
+        "bosnian": "Ali danas. kahva kod Amire!",
+        "english": "But today. coffee at Amira’s!"
       }
     ]
   },
@@ -364,7 +364,7 @@
   "funFacts": [
     {
       "title": "Mostar means the bridge keeper",
-      "body": "The city’s name links to most — bridge — and the people who kept the crossing. Stari Most is the postcard; the whole old town is the story."
+      "body": "The city’s name links to most (bridge) and the people who kept the crossing. Stari Most is the postcard; the whole old town is the story."
     },
     {
       "title": "Ovdje vs tamo",
@@ -376,17 +376,17 @@
     },
     {
       "title": "Spoiler, softly",
-      "body": "Book 1 saves the real Mostar trip for later. Lesson 5 only plants the map pin — and Emir’s grin."
+      "body": "Book 1 saves the real Mostar trip for later. Lesson 5 only plants the map pin. And Emir’s grin."
     }
   ],
   "resources": [
     {
-      "label": "How to speak Bosnian — YouTube",
+      "label": "How to speak Bosnian (YouTube)",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
       "note": "Companion video for Lesson 5"
     },
     {
-      "label": "Next: Lesson 6 — Koliko je sati?",
+      "label": "Next: Lesson 6: Koliko je sati?",
       "url": "/learn/lesson/6",
       "note": "Clock time and the city’s daily rhythm"
     },
@@ -470,7 +470,7 @@
           "Family"
         ],
         "correctIndex": 1,
-        "explanation": "Most = bridge — think Stari Most."
+        "explanation": "Most = bridge. think Stari Most."
       },
       {
         "id": "q7",
@@ -482,7 +482,7 @@
           "not in BiH"
         ],
         "correctIndex": 1,
-        "explanation": "Mostar is farther south — tamo, na jugu."
+        "explanation": "Mostar is farther south. tamo, na jugu."
       },
       {
         "id": "q8",
@@ -605,7 +605,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnia_and_Herzegovina_location_map.svg",
       "author": "NordNordWest",
       "license": "CC BY-SA 3.0",
-      "credit": "Based on map: Bosnia and Herzegovina location map — NordNordWest / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Based on map: Bosnia and Herzegovina location map. NordNordWest / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "stari-most-tease",
@@ -615,7 +615,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Stari_Most_Mostar_Bosnia_and_Herzegovina.jpg",
       "author": "Djani Behram",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Stari Most, Mostar — Djani Behram / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Based on photo: Stari Most, Mostar. Djani Behram / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "neretva-valley",
@@ -625,9 +625,24 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Mostar_Old_Town_Panorama_2007.jpg",
       "author": "Ramirez",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Mostar Old Town panorama — Ramirez / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Based on photo: Mostar Old Town panorama. Ramirez / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "civic-mostar-gov",
+      "alt": "Mostar skyline used for the civic note on stalled local elections",
+      "localPath": "/images/book1/day-05-civic-mostar.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mostar_Old_Town_Panorama_2007.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mostar_Old_Town_Panorama_2007.jpg",
+      "author": "Ramirez",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Mostar Old Town panorama. Ramirez / Wikimedia Commons (CC BY-SA 4.0)"
     }
   ],
   "imagesNeeded": false,
-  "imageBriefs": []
+  "imageBriefs": [],
+  "civicContext": {
+    "title": "Mostar went twelve years without local elections",
+    "body": "Mostar is not only a bridge on a postcard. Disputes over ethnically engineered election rules left the city without local elections from 2008 to 2020. Ordinary municipal democracy froze while power-sharing formulas were fought over in courts and politics. When learners point to Mostar on a map, they should also know this fact: post-war rules can stop a city from voting for more than a decade.",
+    "imageId": "civic-mostar-gov"
+  }
 }

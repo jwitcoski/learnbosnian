@@ -2,11 +2,21 @@
 
 **Exemplar:** Lesson 1 — `content/book1/day-01/chapter.json` (+ `video-script.md`)  
 **Also aligned:** Lessons 2–3 (same shape)  
-**Exception:** Lesson 0 (orientation) and week reviews (7, 14, 21, 30) — see §5
+**Exception:** Lesson 0 (orientation) and review lessons (7, 14, 21, 30) — see §5
 
 Use this guide for **Lessons 4–30**. Do not invent a new chapter shape. Copy Lesson 1’s structure; swap language focus and story beat from `outline.json`.
 
 ---
+
+
+### Copy rules (non-negotiable)
+
+- Titles say **Lesson N** only. Never Day N, Week N, or Sedmica N in titles.
+- Review lessons are titled **Ponavljanje** / **Review**, not “Week 1 review”.
+- Never use em dashes (`—`) or en dashes (`–`) as punctuation in chapter JSON or video scripts.
+- Write full sentences in culture, civic, and fun-fact bodies.
+- Keep website UI tips (accent buttons) out of chapter JSON. Book export must stay book-safe.
+- Every drafted lesson needs `civicContext` { title, body, imageId } with a dedicated image: one documented structural pressure on BiH, thematically linked to the lesson.
 
 ## 1. Product promises (every lesson)
 
@@ -38,6 +48,7 @@ Fill `content/book1/day-XX/chapter.json` completely before marking `draft`.
 | **puzzles** | **2** | Prefer: match + (scramble \| truefalse \| second match) |
 | **practice** | **6–8** typed items | Force accents (`čćšžđ`) when the lesson taught them |
 | **funFacts** | **3–4** | Mix: culture, language tip, story beat |
+| **civicContext** | **1** fact + image | Structural pressure on BiH, tied to lesson theme; full sentences; no opinion slogans |
 | **resources** | Channel/video + optional map + **next lesson** link | `/learn/lesson/N` |
 | **sectionQuiz** | **8–10** MCQs, `passPercent: 70`, explanations | Mix meaning, form, one culture |
 | **dictionaryEntries** | Every teaching vocab item (+ full number set if taught) | `day: N` |
@@ -46,8 +57,8 @@ Fill `content/book1/day-XX/chapter.json` completely before marking `draft`.
 
 ### Lesson block writing rules
 
-- **Block A title:** `Lesson A — …` (forms, paradigm, list)
-- **Block B title:** `Lesson B — …` (use it in today’s scene)
+- **Block A title:** `Lesson A: …` (forms, paradigm, list)
+- **Block B title:** `Lesson B: …` (use it in today’s scene)
 - Body: **~100–180 words**, not essays
 - **2–3 tips** each (short, actionable)
 - Teach **chunks** learners can say today; postpone full case tables

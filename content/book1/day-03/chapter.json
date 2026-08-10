@@ -7,17 +7,17 @@
   "theme": "Coffee at Amira’s",
   "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "Full draft to Lesson 1 exemplar bar — ready for human review before publish.",
+  "reviewerNotes": "Full draft to Lesson 1 exemplar bar. ready for human review before publish.",
   "estimatedMinutes": 60,
-  "storyBeat": "Amira’s café becomes HQ; Ana learns numbers 1–20 and orders kahva while Mrvica steals the scene.",
+  "storyBeat": "Amira’s café becomes HQ; Ana learns numbers 1. 20 and orders kahva while Mrvica steals the scene.",
   "learningGoals": {
     "vocabulary": [
-      "Numbers 1–20",
+      "Numbers 1. 20",
       "Café words: kahva, fildžan, lokum, molim",
       "Question word: koliko?"
     ],
     "grammar": [
-      "Counting 1–20 as ready-made words",
+      "Counting 1. 20 as ready-made words",
       "Koliko? for how many / how much",
       "Café order chunks: Kahvu, molim"
     ],
@@ -109,7 +109,7 @@
       "english": "twenty",
       "pronunciation": "DVAH-deh-set",
       "partOfSpeech": "numeral",
-      "example": "Dvadeset fildžana — šala!"
+      "example": "Dvadeset fildžana. šala!"
     },
     {
       "bosnian": "koliko",
@@ -142,16 +142,16 @@
   ],
   "grammar": [
     {
-      "title": "Numbers 1–20",
-      "explanation": "Learn 1–10 cold, then 11–20 as a chant. 1 jedan, 2 dva, 3 tri, 4 četiri, 5 pet, 6 šest, 7 sedam, 8 osam, 9 devet, 10 deset. Then: 11 jedanaest, 12 dvanaest, 13 trinaest, 14 četrnaest, 15 petnaest, 16 šesnaest, 17 sedamnaest, 18 osamnaest, 19 devetnaest, 20 dvadeset. Notice četiri and šest need accents when you type.",
+      "title": "Numbers 1. 20",
+      "explanation": "Learn 1. 10 cold, then 11. 20 as a chant. 1 jedan, 2 dva, 3 tri, 4 četiri, 5 pet, 6 šest, 7 sedam, 8 osam, 9 devet, 10 deset. Then: 11 jedanaest, 12 dvanaest, 13 trinaest, 14 četrnaest, 15 petnaest, 16 šesnaest, 17 sedamnaest, 18 osamnaest, 19 devetnaest, 20 dvadeset. Notice četiri and šest need accents when you type.",
       "examples": [
         {
           "bosnian": "jedan, dva, tri, četiri, pet",
-          "english": "1–5"
+          "english": "1. 5"
         },
         {
           "bosnian": "šest, sedam, osam, devet, deset",
-          "english": "6–10"
+          "english": "6. 10"
         },
         {
           "bosnian": "petnaest, dvadeset",
@@ -172,14 +172,14 @@
           "english": "How much does it cost?"
         },
         {
-          "bosnian": "Koliko fildžana? — Dva.",
-          "english": "How many cups? — Two."
+          "bosnian": "Koliko fildžana? Dva.",
+          "english": "How many cups? Two."
         }
       ]
     },
     {
-      "title": "Ordering coffee — say it as a chunk",
-      "explanation": "For now, order with ready-made lines. Kahvu, molim means “Coffee, please” (kahvu is the form you hear when ordering). Jednu kahvu, molim = one coffee please. Dva fildžana, molim = two cups please. Do not worry about full case charts yet — memorize the café lines.",
+      "title": "Ordering coffee. say it as a chunk",
+      "explanation": "For now, order with ready-made lines. Kahvu, molim means “Coffee, please” (kahvu is the form you hear when ordering). Jednu kahvu, molim = one coffee please. Dva fildžana, molim = two cups please. Do not worry about full case charts yet. memorize the café lines.",
       "examples": [
         {
           "bosnian": "Kahvu, molim.",
@@ -197,24 +197,24 @@
     }
   ],
   "culture": {
-    "title": "Kahva at Amira’s — slow on purpose",
-    "body": "Bosnian coffee arrives in a džezva on a copper tray, with a small fildžan and often lokum. You pour, wait a moment for the grounds to settle, and talk. Rushing the cup is missing the point. Amira’s café becomes Ana and Emir’s HQ — Mrvica patrols the chairs and occasionally steals the scene.",
+    "title": "Kahva at Amira’s. slow on purpose",
+    "body": "Bosnian coffee arrives in a džezva on a copper tray, with a small fildžan and often lokum. You pour, wait a moment for the grounds to settle, and talk. Rushing the cup is missing the point. Amira’s café becomes Ana and Emir’s HQ: Mrvica patrols the chairs and occasionally steals the scene.",
     "imageId": "kahva-amira"
   },
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A — Count to twenty",
-      "body": "Say 1–10 slowly, then faster: jedan dva tri četiri pet šest sedam osam devet deset. Use the accent buttons for četiri and šest. Next chant 11–20: jedanaest, dvanaest, trinaest, četrnaest, petnaest, šesnaest, sedamnaest, osamnaest, devetnaest, dvadeset. Point at fingers, pigeons, or lokum pieces and count aloud. Ana drills numbers while Emir checks the time — petnaest minuta to Amira’s.",
+      "title": "Lesson A: Count to twenty",
+      "body": "Say 1. 10 slowly, then faster: jedan dva tri četiri pet šest sedam osam devet deset. include the special letter for četiri and šest. Next chant 11. 20: jedanaest, dvanaest, trinaest, četrnaest, petnaest, šesnaest, sedamnaest, osamnaest, devetnaest, dvadeset. Point at fingers, pigeons, or lokum pieces and count aloud. Ana drills numbers while Emir checks the time. petnaest minuta to Amira’s.",
       "tips": [
-        "Master 1–10 before 11–20",
+        "Master 1. 10 before 11. 20",
         "četiri and šest need accents when typing"
       ]
     },
     {
       "id": "b",
-      "title": "Lesson B — Order at Amira’s",
-      "body": "Walk in with Zdravo! or Dobar dan! Order: Kahvu, molim. or Jednu kahvu, molim. If Emir joins: Dva fildžana, molim. Ask Koliko košta? if you want the price. Add Hvala when the tray arrives. If Amira offers lokum, smile and say Hvala. Mrvica may appear — Ana can say Zdravo, Mrvica! without new grammar. Numbers + molim + kahva are enough for your first café win.",
+      "title": "Lesson B: Order at Amira’s",
+      "body": "Walk in with Zdravo! or Dobar dan! Order: Kahvu, molim. or Jednu kahvu, molim. If Emir joins: Dva fildžana, molim. Ask Koliko košta? if you want the price. Add Hvala when the tray arrives. If Amira offers lokum, smile and say Hvala. Mrvica may appear: Ana can say Zdravo, Mrvica! without new grammar. Numbers + molim + kahva are enough for your first café win.",
       "tips": [
         "Order kit: Kahvu, molim · Dva fildžana, molim · Koliko košta?",
         "Reuse hvala / molim from Lesson 1"
@@ -237,8 +237,8 @@
       },
       {
         "speaker": "Emir",
-        "bosnian": "I ja — jednu kahvu. Dva fildžana.",
-        "english": "And me — one coffee. Two cups."
+        "bosnian": "I ja. jednu kahvu. Dva fildžana.",
+        "english": "And me. one coffee. Two cups."
       },
       {
         "speaker": "Amira",
@@ -335,13 +335,13 @@
     {
       "id": "pr2",
       "prompt": "Write the Bosnian word for 4 (needs č).",
-      "hint": "Use the accent button for č",
+      "hint": "include the special letter for č",
       "answer": "četiri"
     },
     {
       "id": "pr3",
       "prompt": "Write the Bosnian word for 6 (needs š).",
-      "hint": "Use the accent button for š",
+      "hint": "include the special letter for š",
       "answer": "šest"
     },
     {
@@ -353,7 +353,7 @@
     {
       "id": "pr5",
       "prompt": "How do you say ‘coffee’ in this course’s BiH form?",
-      "hint": "Not kafa — the form with h",
+      "hint": "Not kafa. the form with h",
       "answer": "kahva"
     },
     {
@@ -371,7 +371,7 @@
     {
       "id": "pr8",
       "prompt": "Write the small coffee cup word (needs dž).",
-      "hint": "fildžan — use dž if your keyboard needs help, or type fildzan carefully; preferred: fildžan",
+      "hint": "fildžan. use dž if your keyboard needs help, or type fildzan carefully; preferred: fildžan",
       "answer": "fildžan"
     }
   ],
@@ -382,7 +382,7 @@
     },
     {
       "title": "Fildžan is tiny on purpose",
-      "body": "The cup is small; the ritual is long. Sip, talk, pour again from the džezva. Quantity is not the point — company is."
+      "body": "The cup is small; the ritual is long. Sip, talk, pour again from the džezva. Quantity is not the point. Company is."
     },
     {
       "title": "Lokum on the tray",
@@ -395,12 +395,12 @@
   ],
   "resources": [
     {
-      "label": "How to speak Bosnian — YouTube",
+      "label": "How to speak Bosnian (YouTube)",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
       "note": "Companion video for Lesson 3"
     },
     {
-      "label": "Next: Lesson 4 — Porodica Mrvice",
+      "label": "Next: Lesson 4: Porodica Mrvice",
       "url": "/learn/lesson/4",
       "note": "Family words and the café “family”"
     },
@@ -679,7 +679,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_coffee_(13926468997).jpg",
       "author": "Michał Huniewicz",
       "license": "CC BY 2.0",
-      "credit": "Based on photo: Bosnian coffee — Michał Huniewicz / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Based on photo: Bosnian coffee. Michał Huniewicz / Wikimedia Commons (CC BY 2.0)"
     },
     {
       "id": "coffee-set",
@@ -689,7 +689,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
       "author": "İhsan Işık",
       "license": "CC BY 3.0",
-      "credit": "Based on photo: Bosnian coffee set, Baščaršija — İhsan Işık / Wikimedia Commons (CC BY 3.0)"
+      "credit": "Based on photo: Bosnian coffee set, Baščaršija. İhsan Işık / Wikimedia Commons (CC BY 3.0)"
     },
     {
       "id": "lokum",
@@ -699,9 +699,24 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Turkish_delight.jpg",
       "author": "Maksym Kozlenko",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Turkish delight / rahat lokum — Maksym Kozlenko / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Based on photo: Turkish delight / rahat lokum. Maksym Kozlenko / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "civic-cbbh",
+      "alt": "Central Bank of Bosnia and Herzegovina building",
+      "localPath": "/images/book1/day-03-civic-cbbh.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Central_Bank_of_Bosnia_and_Herzegovina.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Bosnia_and_Herzegovina.jpg",
+      "author": "Anthony Joh",
+      "license": "CC BY 2.0",
+      "credit": "Based on photo: Central Bank of Bosnia and Herzegovina. Anthony Joh / Wikimedia Commons (CC BY 2.0)"
     }
   ],
   "imagesNeeded": false,
-  "imageBriefs": []
+  "imageBriefs": [],
+  "civicContext": {
+    "title": "A currency without normal monetary freedom",
+    "body": "Daily life runs on the convertible mark (KM). The Central Bank of Bosnia and Herzegovina operates a currency-board arrangement tied to the euro. That design keeps prices more stable, but it also means the state does not run independent monetary policy the way many countries do. Bosnia and Herzegovina does not print money as a flexible political tool, and it has no flag-carrier national airline of its own today. Small details like café prices sit inside a larger fact: economic sovereignty was constrained by design after the war.",
+    "imageId": "civic-cbbh"
+  }
 }

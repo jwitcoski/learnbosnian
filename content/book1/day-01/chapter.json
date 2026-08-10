@@ -7,7 +7,7 @@
   "theme": "First walk through Baščaršija",
   "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "Exemplar chapter — ready for human review before publish.",
+  "reviewerNotes": "Exemplar chapter. ready for human review before publish.",
   "estimatedMinutes": 60,
   "storyBeat": "Ana lands in Sarajevo and takes her first walk through Baščaršija, practicing greetings and new letter sounds.",
   "learningGoals": {
@@ -268,20 +268,20 @@
       ]
     },
     {
-      "title": "Typing č ć š ž đ on a plain keyboard",
-      "explanation": "US and UK keyboards do not print Bosnian accents. On this site, typed answers show accent buttons under the box: tap č ć š ž đ (and capitals) to insert the letter at your cursor. On phones you can also long-press c, s, z, or d on many keyboards. In Word or Google Docs you can use Insert Symbol, or switch your OS to a Bosnian / Croatian keyboard layout later if you want.",
+      "title": "Writing č ć š ž đ",
+      "explanation": "Bosnian uses letters that many English keyboards do not show by default: č ć š ž đ (and capitals Č Ć Š Ž Đ). You must write them correctly in real Bosnian. On a phone, long-press c, s, z, or d to find the letter. On a computer, use a Bosnian keyboard layout or insert the character from your system tools. In this course, practice answers expect the real letters.",
       "examples": [
         {
           "bosnian": "čaj",
-          "english": "type c then tap č on the accent bar (or long-press c on phone)"
+          "english": "needs č"
         },
         {
           "bosnian": "Baščaršija",
-          "english": "needs š and č; use the accent buttons"
+          "english": "needs š and č"
         },
         {
           "bosnian": "doviđenja",
-          "english": "needs đ; tap đ under the answer box"
+          "english": "needs đ"
         }
       ]
     },
@@ -305,25 +305,25 @@
     }
   ],
   "culture": {
-    "title": "Baščaršija — Sarajevo’s old heart",
-    "body": "Baščaršija is the historic bazaar of Sarajevo: narrow streets, copper shops, cafés, and the sound of footsteps on stone. Ana arrives with a backpack and a phrase list. Shopkeepers greet visitors with a warm Dobar dan! Learning greetings here is not just polite — it opens doors (and often a free smile). The special letters in Baščaršija (š, č) are your first real Bosnian workout.",
+    "title": "Baščaršija, Sarajevo’s old heart",
+    "body": "Baščaršija is the historic bazaar of Sarajevo: narrow streets, copper shops, cafés, and the sound of footsteps on stone. Ana arrives with a backpack and a phrase list. Shopkeepers greet visitors with a warm Dobar dan! Learning greetings here is not just polite. It opens doors (and often a free smile). The special letters in Baščaršija (š, č) are your first real Bosnian workout.",
     "imageId": "bascarsija"
   },
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A — Walk the full alphabet",
+      "title": "Lesson A: Walk the full alphabet",
       "body": "Say the whole Latin Bosnian alphabet out loud once: A B C Č Ć D Dž Đ E F G H I J K L Lj M N Nj O P R S Š T U V Z Ž. That is thirty letters. Digraphs Dž, Lj, and Nj are single alphabet letters even though they look like two characters. Now zoom in on the ones English does not have: Č č (church), Ć ć (softer/shorter), Dž dž (jam), Đ đ (softer j), Š š (ship), Ž ž (measure), plus Lj lj and Nj nj. Practice words: čaj, ćup, džezva, đak, šuma, žena, ljubav (love), njega (care). Ana drills them on the plane, then spots Baščaršija on a sign and finally hears the letters in a real street name.",
       "tips": [
         "Do not skip the boring letters. C (ts) is not English C, and J is like English Y.",
         "č vs ć: č is harder; ć is softer and shorter",
-        "When you type answers here, use the accent buttons under the box for č ć š ž đ"
+        "Write č ć š ž đ correctly. Do not replace them with plain c s z d."
       ]
     },
     {
       "id": "b",
-      "title": "Lesson B — Your first greetings",
-      "body": "Memorize this mini set: Zdravo (hi), Dobar dan (good day), Dobro jutro (good morning), Dobra večer (good evening), Hvala (thanks), Molim (please / you're welcome), Doviđenja (goodbye), Da / Ne (yes / no). Use Dobar dan with people you do not know well. Use Zdravo with friends, or with Emir once you meet him tomorrow. Notice doviđenja needs đ; večer needs č. Tap those accents when you practice typing.",
+      "title": "Lesson B: Your first greetings",
+      "body": "Memorize this mini set: Zdravo (hi), Dobar dan (good day), Dobro jutro (good morning), Dobra večer (good evening), Hvala (thanks), Molim (please / you're welcome), Doviđenja (goodbye), Da / Ne (yes / no). Use Dobar dan with people you do not know well. Use Zdravo with friends, or with Emir once you meet him tomorrow. Notice doviđenja needs đ; večer needs č. Write the special letters carefully when you practice.",
       "tips": [
         "Smile helps more than perfect pronunciation",
         "If you forget, Hvala still works almost everywhere"
@@ -332,7 +332,7 @@
   ],
   "conversation": {
     "title": "Ana’s first hello",
-    "setting": "A narrow street in Baščaršija. Ana nearly trips over a cat — Mrvica, though she does not know the name yet.",
+    "setting": "A narrow street in Baščaršija. Ana nearly trips over a cat: Mrvica, though she does not know the name yet.",
     "lines": [
       {
         "speaker": "Ana",
@@ -436,7 +436,7 @@
     },
     {
       "id": "pr3",
-      "prompt": "Which letter sound is in čaj — č or ć?",
+      "prompt": "Which letter sound is in čaj. č or ć?",
       "hint": "Harder 'ch'",
       "answer": "č"
     },
@@ -449,13 +449,13 @@
     {
       "id": "pr5",
       "prompt": "Name Sarajevo’s old bazaar.",
-      "hint": "Has š and č — use the accent buttons",
+      "hint": "Has š and č. include the special letter",
       "answer": "Baščaršija"
     },
     {
       "id": "pr6",
       "prompt": "Type goodbye in Bosnian (needs đ).",
-      "hint": "doviđenja — tap đ on the accent bar",
+      "hint": "doviđenja. tap đ on the accent bar",
       "answer": "doviđenja"
     },
     {
@@ -475,17 +475,13 @@
       "body": "Bosnian spelling is mostly phonetic: what you see is what you say. That helps beginners a lot once the special letters click."
     },
     {
-      "title": "No accent key? No problem",
-      "body": "On this site, typed answers include buttons for č ć š ž đ under the box. On many phones, long-press c, s, z, or d to see accent options."
-    },
-    {
       "title": "Cats of the čaršija",
       "body": "Sarajevo’s old town is famous for friendly street cats. Mrvica is fictional, but her attitude is very local."
     }
   ],
   "resources": [
     {
-      "label": "How to speak Bosnian — YouTube",
+      "label": "How to speak Bosnian (YouTube)",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
       "note": "Companion videos for each chapter after human review"
     },
@@ -557,7 +553,7 @@
           "'ch' in church"
         ],
         "correctIndex": 1,
-        "explanation": "Š is like sh in ship — as in Baščaršija."
+        "explanation": "Š is like sh in ship. as in Baščaršija."
       },
       {
         "id": "q6",
@@ -581,7 +577,7 @@
           "Čaj"
         ],
         "correctIndex": 1,
-        "explanation": "Doviđenja means goodbye. The letter đ needs the accent button when typing."
+        "explanation": "Doviđenja means goodbye. The letter đ Needs the letter đ."
       },
       {
         "id": "q8",
@@ -605,7 +601,7 @@
           "a vs e"
         ],
         "correctIndex": 1,
-        "explanation": "Č is harder; ć is softer — a classic beginner pair."
+        "explanation": "Č is harder; ć is softer. a classic beginner pair."
       }
     ]
   },
@@ -728,7 +724,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Bascarsija.jpg",
       "author": "Kathleen Franklin",
       "license": "CC BY 2.0",
-      "credit": "Based on photo: Baščaršija, Sarajevo — Kathleen Franklin / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Based on photo: Baščaršija, Sarajevo. Kathleen Franklin / Wikimedia Commons (CC BY 2.0)"
     },
     {
       "id": "sebilj",
@@ -738,7 +734,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Sebilj,_Sarajevo.jpg",
       "author": "BloodSaric",
       "license": "CC BY-SA 2.5",
-      "credit": "Based on photo: Sebilj fountain, Sarajevo — BloodSaric / Wikimedia Commons (CC BY-SA 2.5)"
+      "credit": "Based on photo: Sebilj fountain, Sarajevo. BloodSaric / Wikimedia Commons (CC BY-SA 2.5)"
     },
     {
       "id": "gazi-mosque",
@@ -748,9 +744,24 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Gazi_Husrev-begova_medresa_2015.jpg",
       "author": "Mattan",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Gazi Husrev-beg complex, Sarajevo — Mattan / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Based on photo: Gazi Husrev-beg complex, Sarajevo. Mattan / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "civic-ohr",
+      "alt": "Office of the High Representative building in Sarajevo",
+      "localPath": "/images/book1/day-01-civic-ohr.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Office_of_the_High_Representative_for_Bosnia_and_Herzegovina,_Sarajevo.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Office_of_the_High_Representative_for_Bosnia_and_Herzegovina,_Sarajevo.jpg",
+      "author": "Niegodzisie",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Office of the High Representative, Sarajevo. Niegodzisie / Wikimedia Commons (CC BY-SA 4.0)"
     }
   ],
   "imagesNeeded": false,
-  "imageBriefs": []
+  "imageBriefs": [],
+  "civicContext": {
+    "title": "International oversight still sits above elected offices",
+    "body": "After the 1995 Dayton Peace Agreement, the Office of the High Representative (OHR) was created to oversee civilian implementation of the peace deal. Under the Bonn Powers, the High Representative can impose laws and remove public officials. That means an internationally appointed office can overrule decisions made inside Bosnia and Herzegovina’s elected institutions. Supporters call this a peace guarantee. Critics call it a limit on sovereignty. Both descriptions point to the same documented fact: final say does not always rest with local voters.",
+    "imageId": "civic-ohr"
+  }
 }

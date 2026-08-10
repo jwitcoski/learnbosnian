@@ -2,9 +2,26 @@
   "title": "Photo attributions",
   "intro": "Running register of every photo used on the site and in Book 1. Use this list when citing images for print, Scribus export, or YouTube descriptions. Chapter images are harvested automatically from each chapter.json; homepage and other site assets are listed here by hand.",
   "citationNote": "For Creative Commons works, credit the author, note the license, and link to the source page. For Pexels, credit the photographer and Pexels. Derivative treatments (polygon paint, background removal) still require attribution of the source photo.",
-  "generatedAt": "2026-08-09",
-  "total": 27,
+  "generatedAt": "2026-08-10",
+  "total": 35,
   "entries": [
+    {
+      "id": "book1-day-00-civic-schools",
+      "title": "School building in Bosnia and Herzegovina representing divided education",
+      "whereUsed": [
+        "Book 1 · Lesson 0 — Why Bosnian?"
+      ],
+      "author": "Jennifer Boyer",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Gimnazija_Mostar.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gimnazija_Mostar.jpg",
+      "localPath": "/images/book1/day-00-civic-schools.png",
+      "credit": "Based on photo: Gimnazija Mostar. Jennifer Boyer / Wikimedia Commons (CC BY 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 0
+    },
     {
       "id": "book1-day-00-mostar-neretva",
       "title": "Polygon painting of Koski Mehmed Pasha Mosque above the Neretva in Mostar",
@@ -17,7 +34,7 @@
       "pageUrl": "https://www.pexels.com/photo/the-koski-mehmed-pasha-mosque-mostar-bosnia-and-herzegovina-24244453/",
       "sourceUrl": "https://www.pexels.com/photo/the-koski-mehmed-pasha-mosque-mostar-bosnia-and-herzegovina-24244453/",
       "localPath": "/images/book1/day-00-mostar-neretva.png",
-      "credit": "Based on photo: Mostar and the Neretva — Borys Jarzcuk / Pexels",
+      "credit": "Based on photo: Mostar and the Neretva. Borys Jarzcuk / Pexels",
       "notes": "Lesson 0 full-bleed polygon paint treatment of the source photo.",
       "book": 1,
       "day": 0
@@ -34,7 +51,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Mostar_Old_Town_Panorama_2007.jpg",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mostar_Old_Town_Panorama_2007.jpg",
       "localPath": "/images/book1/day-00-mostar-panorama.png",
-      "credit": "Based on photo: Mostar Old Town panorama — Ramirez / Wikimedia Commons (CC BY-SA 4.0)",
+      "credit": "Based on photo: Mostar Old Town panorama. Ramirez / Wikimedia Commons (CC BY-SA 4.0)",
       "notes": "Lesson 0 full-bleed polygon paint treatment of the source photo.",
       "book": 1,
       "day": 0
@@ -51,7 +68,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Stari_Most_Mostar_Bosnia_and_Herzegovina.jpg",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stari_Most_Mostar_Bosnia_and_Herzegovina.jpg/1280px-Stari_Most_Mostar_Bosnia_and_Herzegovina.jpg",
       "localPath": "/images/book1/day-00-stari-most.png",
-      "credit": "Based on photo: Stari Most, Mostar — Djani Behram / Wikimedia Commons (CC BY-SA 4.0)",
+      "credit": "Based on photo: Stari Most, Mostar. Djani Behram / Wikimedia Commons (CC BY-SA 4.0)",
       "notes": "Lesson 0 full-bleed polygon paint treatment of the source photo.",
       "book": 1,
       "day": 0
@@ -68,8 +85,25 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Bascarsija.jpg",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bascarsija.jpg",
       "localPath": "/images/book1/day-01-bascarsija.png",
-      "credit": "Based on photo: Baščaršija, Sarajevo — Kathleen Franklin / Wikimedia Commons (CC BY 2.0)",
+      "credit": "Based on photo: Baščaršija, Sarajevo. Kathleen Franklin / Wikimedia Commons (CC BY 2.0)",
       "notes": "Lesson 1 full-bleed polygon paint treatment of the source photo.",
+      "book": 1,
+      "day": 1
+    },
+    {
+      "id": "book1-day-01-civic-ohr",
+      "title": "Office of the High Representative building in Sarajevo",
+      "whereUsed": [
+        "Book 1 · Lesson 1 — Hello, Sarajevo!"
+      ],
+      "author": "Niegodzisie",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Office_of_the_High_Representative_for_Bosnia_and_Herzegovina,_Sarajevo.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Office_of_the_High_Representative_for_Bosnia_and_Herzegovina,_Sarajevo.jpg",
+      "localPath": "/images/book1/day-01-civic-ohr.png",
+      "credit": "Based on photo: Office of the High Representative, Sarajevo. Niegodzisie / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
       "book": 1,
       "day": 1
     },
@@ -85,7 +119,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Gazi_Husrev-begova_medresa_2015.jpg",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gazi_Husrev-begova_medresa_2015.jpg",
       "localPath": "/images/book1/day-01-gazi-mosque.png",
-      "credit": "Based on photo: Gazi Husrev-beg complex, Sarajevo — Mattan / Wikimedia Commons (CC BY-SA 4.0)",
+      "credit": "Based on photo: Gazi Husrev-beg complex, Sarajevo. Mattan / Wikimedia Commons (CC BY-SA 4.0)",
       "notes": "Lesson 1 full-bleed polygon paint treatment of the source photo.",
       "book": 1,
       "day": 1
@@ -102,7 +136,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Sebilj,_Sarajevo.jpg",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sebilj,_Sarajevo.jpg",
       "localPath": "/images/book1/day-01-sebilj.png",
-      "credit": "Based on photo: Sebilj fountain, Sarajevo — BloodSaric / Wikimedia Commons (CC BY-SA 2.5)",
+      "credit": "Based on photo: Sebilj fountain, Sarajevo. BloodSaric / Wikimedia Commons (CC BY-SA 2.5)",
       "notes": "Lesson 1 full-bleed polygon paint treatment of the source photo.",
       "book": 1,
       "day": 1
@@ -119,8 +153,25 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Ba%C5%A1%C4%8Dar%C5%A1ija_Sarajevo.jpg",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ba%C5%A1%C4%8Dar%C5%A1ija_Sarajevo.jpg",
       "localPath": "/images/book1/day-02-street.png",
-      "credit": "Based on photo: Baščaršija street — Stechshotme / Wikimedia Commons (CC BY-SA 4.0)",
+      "credit": "Based on photo: Baščaršija street. Stechshotme / Wikimedia Commons (CC BY-SA 4.0)",
       "notes": "Lesson 2 full-bleed polygon paint treatment of the source photo.",
+      "book": 1,
+      "day": 2
+    },
+    {
+      "id": "book1-day-02-civic-presidency",
+      "title": "Presidency building of Bosnia and Herzegovina in Sarajevo",
+      "whereUsed": [
+        "Book 1 · Lesson 2 — I am Ana"
+      ],
+      "author": "Niegodzisie",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Presidency_of_BiH_in_Sarajevo_2023.01.29_1.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Presidency_of_BiH_in_Sarajevo_2023.01.29_1.jpg",
+      "localPath": "/images/book1/day-02-civic-presidency.png",
+      "credit": "Based on photo: Presidency of BiH, Sarajevo. Niegodzisie / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
       "book": 1,
       "day": 2
     },
@@ -136,7 +187,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_-_Sebilj_fountain.jpg",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarajevo_-_Sebilj_fountain.jpg",
       "localPath": "/images/book1/day-02-sebilj-close.png",
-      "credit": "Based on photo: Sebilj fountain — JoJan / Wikimedia Commons (CC BY 3.0)",
+      "credit": "Based on photo: Sebilj fountain. JoJan / Wikimedia Commons (CC BY 3.0)",
       "notes": "Lesson 2 full-bleed polygon paint treatment of the source photo.",
       "book": 1,
       "day": 2
@@ -153,10 +204,27 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Day_in_Sarajevo.jpg",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Day_in_Sarajevo.jpg",
       "localPath": "/images/book1/day-02-sebilj.png",
-      "credit": "Based on photo: Sebilj, Baščaršija — Daniel Wabyick / Wikimedia Commons (CC BY 2.0)",
+      "credit": "Based on photo: Sebilj, Baščaršija. Daniel Wabyick / Wikimedia Commons (CC BY 2.0)",
       "notes": "Lesson 2 full-bleed polygon paint treatment of the source photo.",
       "book": 1,
       "day": 2
+    },
+    {
+      "id": "book1-day-03-civic-cbbh",
+      "title": "Central Bank of Bosnia and Herzegovina building",
+      "whereUsed": [
+        "Book 1 · Lesson 3 — Numbers and coffee"
+      ],
+      "author": "Anthony Joh",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Bosnia_and_Herzegovina.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Central_Bank_of_Bosnia_and_Herzegovina.jpg",
+      "localPath": "/images/book1/day-03-civic-cbbh.png",
+      "credit": "Based on photo: Central Bank of Bosnia and Herzegovina. Anthony Joh / Wikimedia Commons (CC BY 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 3
     },
     {
       "id": "book1-day-03-coffee-set",
@@ -170,7 +238,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
       "localPath": "/images/book1/day-03-coffee-set.png",
-      "credit": "Based on photo: Bosnian coffee set, Baščaršija — İhsan Işık / Wikimedia Commons (CC BY 3.0)",
+      "credit": "Based on photo: Bosnian coffee set, Baščaršija. İhsan Işık / Wikimedia Commons (CC BY 3.0)",
       "notes": "Lesson 3 full-bleed polygon paint treatment of the source photo.",
       "book": 1,
       "day": 3
@@ -187,7 +255,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_coffee_(13926468997).jpg",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_coffee_(13926468997).jpg",
       "localPath": "/images/book1/day-03-kahva.png",
-      "credit": "Based on photo: Bosnian coffee — Michał Huniewicz / Wikimedia Commons (CC BY 2.0)",
+      "credit": "Based on photo: Bosnian coffee. Michał Huniewicz / Wikimedia Commons (CC BY 2.0)",
       "notes": "Lesson 3 full-bleed polygon paint treatment of the source photo.",
       "book": 1,
       "day": 3
@@ -204,7 +272,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Turkish_delight.jpg",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkish_delight.jpg",
       "localPath": "/images/book1/day-03-lokum.png",
-      "credit": "Based on photo: Turkish delight / rahat lokum — Maksym Kozlenko / Wikimedia Commons (CC BY-SA 4.0)",
+      "credit": "Based on photo: Turkish delight / rahat lokum. Maksym Kozlenko / Wikimedia Commons (CC BY-SA 4.0)",
       "notes": "Lesson 3 full-bleed polygon paint treatment of the source photo.",
       "book": 1,
       "day": 3
@@ -221,7 +289,24 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_Ferhadija_2007-08-16.jpg",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarajevo_Ferhadija_2007-08-16.jpg",
       "localPath": "/images/book1/day-04-cafe-family.png",
-      "credit": "Based on photo: Open café on Ferhadija, Sarajevo — Milan Suvajac / Wikimedia Commons (CC BY-SA 4.0)",
+      "credit": "Based on photo: Open café on Ferhadija, Sarajevo. Milan Suvajac / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 4
+    },
+    {
+      "id": "book1-day-04-civic-parliament",
+      "title": "Parliamentary Assembly building in Sarajevo",
+      "whereUsed": [
+        "Book 1 · Lesson 4 — Mrvica’s family"
+      ],
+      "author": "Dingoa",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_parlament_2007.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarajevo_parlament_2007.jpg",
+      "localPath": "/images/book1/day-04-civic-parliament.png",
+      "credit": "Based on photo: Sarajevo parliament. Dingoa / Wikimedia Commons (CC BY-SA 3.0)",
       "notes": "",
       "book": 1,
       "day": 4
@@ -238,7 +323,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_coffee_(13926468997).jpg",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_coffee_(13926468997).jpg",
       "localPath": "/images/book1/day-04-family-table.png",
-      "credit": "Based on photo: Bosnian coffee gathering mood — Michał Huniewicz / Wikimedia Commons (CC BY 2.0)",
+      "credit": "Based on photo: Bosnian coffee gathering mood. Michał Huniewicz / Wikimedia Commons (CC BY 2.0)",
       "notes": "",
       "book": 1,
       "day": 4
@@ -255,7 +340,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Cat_November_2010-1a.jpg",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cat_November_2010-1a.jpg",
       "localPath": "/images/book1/day-04-mrvica.png",
-      "credit": "Based on photo: Cat — Alvesgaspar / Wikimedia Commons (CC BY-SA 3.0)",
+      "credit": "Based on photo: Cat. Alvesgaspar / Wikimedia Commons (CC BY-SA 3.0)",
       "notes": "",
       "book": 1,
       "day": 4
@@ -272,7 +357,24 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnia_and_Herzegovina_location_map.svg",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnia_and_Herzegovina_location_map.svg",
       "localPath": "/images/book1/day-05-bih-map.png",
-      "credit": "Based on map: Bosnia and Herzegovina location map — NordNordWest / Wikimedia Commons (CC BY-SA 3.0)",
+      "credit": "Based on map: Bosnia and Herzegovina location map. NordNordWest / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "",
+      "book": 1,
+      "day": 5
+    },
+    {
+      "id": "book1-day-05-civic-mostar-gov",
+      "title": "Mostar skyline used for the civic note on stalled local elections",
+      "whereUsed": [
+        "Book 1 · Lesson 5 — Where is Mostar?"
+      ],
+      "author": "Ramirez",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mostar_Old_Town_Panorama_2007.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mostar_Old_Town_Panorama_2007.jpg",
+      "localPath": "/images/book1/day-05-civic-mostar.png",
+      "credit": "Based on photo: Mostar Old Town panorama. Ramirez / Wikimedia Commons (CC BY-SA 4.0)",
       "notes": "",
       "book": 1,
       "day": 5
@@ -289,7 +391,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Mostar_Old_Town_Panorama_2007.jpg",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mostar_Old_Town_Panorama_2007.jpg",
       "localPath": "/images/book1/day-05-mostar-valley.png",
-      "credit": "Based on photo: Mostar Old Town panorama — Ramirez / Wikimedia Commons (CC BY-SA 4.0)",
+      "credit": "Based on photo: Mostar Old Town panorama. Ramirez / Wikimedia Commons (CC BY-SA 4.0)",
       "notes": "",
       "book": 1,
       "day": 5
@@ -306,10 +408,27 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Stari_Most_Mostar_Bosnia_and_Herzegovina.jpg",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stari_Most_Mostar_Bosnia_and_Herzegovina.jpg/1280px-Stari_Most_Mostar_Bosnia_and_Herzegovina.jpg",
       "localPath": "/images/book1/day-05-stari-most.png",
-      "credit": "Based on photo: Stari Most, Mostar — Djani Behram / Wikimedia Commons (CC BY-SA 4.0)",
+      "credit": "Based on photo: Stari Most, Mostar. Djani Behram / Wikimedia Commons (CC BY-SA 4.0)",
       "notes": "",
       "book": 1,
       "day": 5
+    },
+    {
+      "id": "book1-day-06-civic-peljesac",
+      "title": "Pelješac Bridge on the Adriatic near Bosnia’s Neum corridor",
+      "whereUsed": [
+        "Book 1 · Lesson 6 — What time is it?"
+      ],
+      "author": "kallerna",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Pelje%C5%A1ac_Bridge_3.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pelje%C5%A1ac_Bridge_3.jpg",
+      "localPath": "/images/book1/day-06-civic-peljesac.png",
+      "credit": "Based on photo: Pelješac Bridge. kallerna / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 6
     },
     {
       "id": "book1-day-06-neum-coast",
@@ -323,7 +442,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Neum_(BiH)_-_general_view.jpg",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Neum_(BiH)_-_general_view.jpg",
       "localPath": "/images/book1/day-06-neum.png",
-      "credit": "Based on photo: Neum, BiH — Pudelek (Marcin Szala) / Wikimedia Commons (CC BY-SA 3.0)",
+      "credit": "Based on photo: Neum, BiH. Pudelek (Marcin Szala) / Wikimedia Commons (CC BY-SA 3.0)",
       "notes": "",
       "book": 1,
       "day": 6
@@ -340,7 +459,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Sahat_Kule_01.JPG",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sahat_Kule_01.JPG",
       "localPath": "/images/book1/day-06-travnik-sahat.png",
-      "credit": "Based on photo: Sahat-kula, Travnik — Meyavuz / Wikimedia Commons (CC BY-SA 2.5)",
+      "credit": "Based on photo: Sahat-kula, Travnik. Meyavuz / Wikimedia Commons (CC BY-SA 2.5)",
       "notes": "",
       "book": 1,
       "day": 6
@@ -357,7 +476,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Una_near_Biha%C4%87_2.jpg",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Una_near_Biha%C4%87_2.jpg",
       "localPath": "/images/book1/day-06-una-bihac.png",
-      "credit": "Based on photo: Una near Bihać — Miha Peče / Wikimedia Commons (CC BY-SA 4.0)",
+      "credit": "Based on photo: Una near Bihać. Miha Peče / Wikimedia Commons (CC BY-SA 4.0)",
       "notes": "",
       "book": 1,
       "day": 6
@@ -366,7 +485,7 @@
       "id": "book1-day-07-blagaj-tekija",
       "title": "Polygon painting of the Blagaj Dervish tekija at the Buna river spring",
       "whereUsed": [
-        "Book 1 · Lesson 7 — Week 1 — review"
+        "Book 1 · Lesson 7 — Review"
       ],
       "author": "Yakamooda",
       "source": "Wikimedia Commons",
@@ -374,7 +493,24 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Tekija_Blagaj_-_Vrelo_Bune.jpg",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tekija_Blagaj_-_Vrelo_Bune.jpg",
       "localPath": "/images/book1/day-07-blagaj.png",
-      "credit": "Based on photo: Tekija Blagaj at the Buna spring — Yakamooda / Wikimedia Commons (CC BY-SA 4.0)",
+      "credit": "Based on photo: Tekija Blagaj at the Buna spring. Yakamooda / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 7
+    },
+    {
+      "id": "book1-day-07-civic-dayton-map",
+      "title": "Map-style view of Bosnia and Herzegovina used for the Dayton entities civic note",
+      "whereUsed": [
+        "Book 1 · Lesson 7 — Review"
+      ],
+      "author": "NordNordWest",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnia_and_Herzegovina_location_map.svg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnia_and_Herzegovina_location_map.svg",
+      "localPath": "/images/book1/day-07-civic-entities.png",
+      "credit": "Based on map: Bosnia and Herzegovina location map. NordNordWest / Wikimedia Commons (CC BY-SA 3.0)",
       "notes": "",
       "book": 1,
       "day": 7
@@ -383,7 +519,7 @@
       "id": "book1-day-07-jajce-pliva",
       "title": "Polygon painting of the Pliva waterfall at Jajce with old-town walls",
       "whereUsed": [
-        "Book 1 · Lesson 7 — Week 1 — review"
+        "Book 1 · Lesson 7 — Review"
       ],
       "author": "Adam Harangozó",
       "source": "Wikimedia Commons",
@@ -391,7 +527,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Pliva_Waterfall_in_Jajce_02.jpg",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pliva_Waterfall_in_Jajce_02.jpg",
       "localPath": "/images/book1/day-07-jajce-pliva.png",
-      "credit": "Based on photo: Pliva Waterfall in Jajce — Adam Harangozó / Wikimedia Commons (CC BY-SA 4.0)",
+      "credit": "Based on photo: Pliva Waterfall in Jajce. Adam Harangozó / Wikimedia Commons (CC BY-SA 4.0)",
       "notes": "",
       "book": 1,
       "day": 7
@@ -400,7 +536,7 @@
       "id": "book1-day-07-pocitelj",
       "title": "Polygon painting of Počitelj’s stone houses and fortress hill in Herzegovina",
       "whereUsed": [
-        "Book 1 · Lesson 7 — Week 1 — review"
+        "Book 1 · Lesson 7 — Review"
       ],
       "author": "Pudelek (Marcin Szala)",
       "source": "Wikimedia Commons",
@@ -408,7 +544,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Po%C4%8Ditelj_-_pano.jpg",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Po%C4%8Ditelj_-_pano.jpg",
       "localPath": "/images/book1/day-07-pocitelj.png",
-      "credit": "Based on photo: Počitelj panorama — Pudelek (Marcin Szala) / Wikimedia Commons (CC BY-SA 3.0)",
+      "credit": "Based on photo: Počitelj panorama. Pudelek (Marcin Szala) / Wikimedia Commons (CC BY-SA 3.0)",
       "notes": "",
       "book": 1,
       "day": 7

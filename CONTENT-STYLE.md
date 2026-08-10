@@ -2,10 +2,15 @@
 
 ## Language rules
 
+- **Lesson titles only:** Say Lesson N. Do not put Day, Week, Sedmica, or “30 days” in lesson titles or lesson hero labels.
+- **No em dashes:** Do not use — or – as punctuation in learner-facing copy, titles, fun facts, dialogue, or video narration. Use full sentences with periods, commas, colons, or parentheses.
+- **Full sentences:** Culture bodies, civic notes, and fun facts must be complete sentences. No slogan fragments.
+- **Book vs website:** Chapter JSON is book-safe. Do not put “tap the accent buttons” or other website-only UI instructions in chapter content. Website components may show accent-button help on their own.
+
 - **Latin script only.** Never teach or display Cyrillic.
 - Teach **standard Bosnian (BiH)** forms used in everyday speech.
 - Do **not** add “also in Croatian…” or “Serbian says…” sidebars. Stay Bosnian-focused.
-- **Exception — Day 0 only:** a short, respectful orientation may explain how Bosnian relates to Croatian/Serbian (mutual intelligibility, separate standards, identity). Do not teach Croatian or Serbian forms. Days 1–30 stay Bosnian-only.
+- **Exception for Lesson 0 only:** a short, respectful orientation may explain how Bosnian relates to Croatian/Serbian (mutual intelligibility, separate standards, identity). Do not teach Croatian or Serbian forms. Lessons 1 to 30 stay Bosnian-only.
 - Prefer common Bosnian spellings: *kahva*, *hljeb*, *mlijeko*, *općina* when those are the natural BiH forms in context.
 - Gloss every new Bosnian word in English the first time it appears in a section.
 - Keep grammar bites small: one main idea per lesson block.
@@ -23,7 +28,7 @@ Story spine: Ana arrives in Bosnia and Herzegovina; Emir shows her around; Amira
 
 ## Chapter section checklist
 
-Every chapter JSON must include (even review days):
+Every chapter JSON must include (even review lessons):
 
 1. Goals board (vocab + grammar + culture)
 2. Culture / place hook
@@ -36,12 +41,13 @@ Every chapter JSON must include (even review days):
 9. Additional resources
 10. Section quiz (4 options, balanced correctIndex)
 11. Dictionary entries for all new words
+12. Bosnia today (civicContext): one fact-based structural pressure on BiH, tied to the lesson theme, with its own image
 
 ## Quiz quality
 
 - Four options of similar length
 - Roughly balanced A/B/C/D correct answers across a chapter
-- Explanations reinforce the day’s goal, not trivia
+- Explanations reinforce the lesson’s goal, not trivia
 
 ## Images
 

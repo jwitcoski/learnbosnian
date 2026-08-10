@@ -2,8 +2,8 @@
   "day": 21,
   "book": 1,
   "week": 3,
-  "title": "Sedmica 3 — ponavljanje",
-  "titleEn": "Week 3 — review",
+  "title": "Ponavljanje",
+  "titleEn": "Review",
   "theme": "Ana plans a solo weekend",
   "status": "outlined",
   "reviewedAt": null,
@@ -12,7 +12,7 @@
   "storyBeat": "Ana plans a weekend alone",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 21: Review days 15–20"
+      "Coming night 21: Review days 15. 20"
     ],
     "grammar": [
       "To be filled on draft night"
@@ -39,7 +39,7 @@
   "funFacts": [],
   "resources": [
     {
-      "label": "How to speak Bosnian — YouTube",
+      "label": "How to speak Bosnian (YouTube)",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
       "note": "Companion video after publish"
     }

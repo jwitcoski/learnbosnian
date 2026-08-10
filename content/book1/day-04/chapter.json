@@ -7,7 +7,7 @@
   "theme": "Café “family” + the cat",
   "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "Full draft to Lesson 1 exemplar bar — ready for human review before publish.",
+  "reviewerNotes": "Full draft to Lesson 1 exemplar bar. ready for human review before publish.",
   "estimatedMinutes": 60,
   "storyBeat": "Mrvica adopts Ana; Amira’s café regulars start to feel like family.",
   "learningGoals": {
@@ -142,8 +142,8 @@
   ],
   "grammar": [
     {
-      "title": "Gender intro — he or she words",
-      "explanation": "Many Bosnian nouns feel masculine or feminine. A quick beginner tip: words ending in -a are often feminine (majka, sestra, mačka, porodica). Short words without -a are often masculine (otac, brat, sin, djed). You will meet exceptions later — for today, notice the pattern and match moj/moja to it.",
+      "title": "Gender intro. he or she words",
+      "explanation": "Many Bosnian nouns feel masculine or feminine. A quick beginner tip: words ending in -a are often feminine (majka, sestra, mačka, porodica). Short words without -a are often masculine (otac, brat, sin, djed). You will meet exceptions later. for today, notice the pattern and match moj/moja to it.",
       "examples": [
         {
           "bosnian": "sestra, majka, mačka",
@@ -161,7 +161,7 @@
     },
     {
       "title": "Moj / moja and tvoj / tvoja",
-      "explanation": "Moj = my before a masculine noun. Moja = my before a feminine noun. Same split for your (informal): tvoj / tvoja. Say Moj brat and Moja sestra. Do not mix them yet — matching gender is the whole game.",
+      "explanation": "Moj = my before a masculine noun. Moja = my before a feminine noun. Same split for your (informal): tvoj / tvoja. Say Moj brat and Moja sestra. Do not mix them yet. matching gender is the whole game.",
       "examples": [
         {
           "bosnian": "Moj otac. Moja majka.",
@@ -178,8 +178,8 @@
       ]
     },
     {
-      "title": "Who is who — On je / Ona je",
-      "explanation": "Reuse biti from Lesson 2. On je moj prijatelj. Ona je moja prijateljica. Ona je Mrvica — mačka! Point and name people (and one bossy cat) with short lines.",
+      "title": "Who is who: On je / Ona je",
+      "explanation": "Reuse biti from Lesson 2. On je moj prijatelj. Ona je moja prijateljica. Ona je Mrvica. mačka! Point and name people (and one bossy cat) with short lines.",
       "examples": [
         {
           "bosnian": "On je moj brat.",
@@ -197,24 +197,24 @@
     }
   ],
   "culture": {
-    "title": "Café family — and one small boss",
-    "body": "In Sarajevo, a good café can feel like a living room. Regulars greet the owner by name, share news, and claim “their” chair. Amira’s place works the same way: Ana, Emir, and the usual guests start to feel like porodica — family you choose. Mrvica the cat patrols the tables, steals warmth, and somehow adopts Ana. Learn the family words, then use them for blood relatives and for the people (and cats) who make a city feel like home.",
+    "title": "Café family and one small boss",
+    "body": "In Sarajevo, a good café can feel like a living room. Regulars greet the owner by name, share news, and claim “their” chair. Amira’s place works the same way: Ana, Emir, and the usual guests start to feel like porodica. Family you choose. Mrvica the cat patrols the tables, steals warmth, and somehow adopts Ana. Learn the family words, then use them for blood relatives and for the people (and cats) who make a city feel like home.",
     "imageId": "cafe-family"
   },
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A — Family words + gender",
-      "body": "Build the tree: majka, otac, sestra, brat, baba, djed, sin, kći. Say each aloud twice. Mark the -a words as feminine in your notes. Add porodica (family) and mačka (cat). Ana draws a tiny family tree in her notebook — then draws Mrvica at the top. Emir laughs: To je porodica Mrvice!",
+      "title": "Lesson A: Family words + gender",
+      "body": "Build the tree: majka, otac, sestra, brat, baba, djed, sin, kći. Say each aloud twice. Mark the -a words as feminine in your notes. Add porodica (family) and mačka (cat). Ana draws a tiny family tree in her notebook. then draws Mrvica at the top. Emir laughs: To je porodica Mrvice!",
       "tips": [
         "-a endings often = feminine for this lesson’s nouns",
-        "kći needs ć — use the accent button"
+        "kći needs ć. include the special letter"
       ]
     },
     {
       "id": "b",
-      "title": "Lesson B — Moj / moja at Amira’s",
-      "body": "Claim people with possessives: Moj prijatelj Emir. Moja prijateljica Amira. Moja mačka? — Mrvica decides that Ana is hers. Practice pairs: Moj otac / Moja majka, Tvoj brat / Tvoja sestra. Walk the café and point: Ona je Amira. On je Emir. Ona je Mrvica. Today’s win is short true sentences, not a full case chart.",
+      "title": "Lesson B: Moj / moja at Amira’s",
+      "body": "Claim people with possessives: Moj prijatelj Emir. Moja prijateljica Amira. Moja mačka? Mrvica decides that Ana is hers. Practice pairs: Moj otac / Moja majka, Tvoj brat / Tvoja sestra. Walk the café and point: Ona je Amira. On je Emir. Ona je Mrvica. Today’s win is short true sentences, not a full case chart.",
       "tips": [
         "Kit: Moj… · Moja… · On je… · Ona je…",
         "Match moj/moja to the noun’s gender"
@@ -227,8 +227,8 @@
     "lines": [
       {
         "speaker": "Amira",
-        "bosnian": "Ana — tvoja porodica?",
-        "english": "Ana — your family?"
+        "bosnian": "Ana. tvoja porodica?",
+        "english": "Ana. your family?"
       },
       {
         "speaker": "Ana",
@@ -359,7 +359,7 @@
     {
       "id": "pr6",
       "prompt": "Write the word for cat (needs č).",
-      "hint": "Use the accent button for č",
+      "hint": "include the special letter for č",
       "answer": "mačka"
     },
     {
@@ -378,11 +378,11 @@
   "funFacts": [
     {
       "title": "Baba and djed",
-      "body": "Baba is grandmother and djed is grandfather in everyday Bosnian. You will also hear variants in families — learn these two first; they open a lot of stories."
+      "body": "Baba is grandmother and djed is grandfather in everyday Bosnian. You will also hear variants in families. Learn these two first; they open a lot of stories."
     },
     {
       "title": "Prijatelj vs prijateljica",
-      "body": "Friend splits by gender: prijatelj (male), prijateljica (female). Ana calls Emir prijatelj and Amira prijateljica — useful from day one of real friendships."
+      "body": "Friend splits by gender: prijatelj (male), prijateljica (female). Ana calls Emir prijatelj and Amira prijateljica. Useful from day one of real friendships."
     },
     {
       "title": "Mrvica means little crumb",
@@ -395,12 +395,12 @@
   ],
   "resources": [
     {
-      "label": "How to speak Bosnian — YouTube",
+      "label": "How to speak Bosnian (YouTube)",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
       "note": "Companion video for Lesson 4"
     },
     {
-      "label": "Next: Lesson 5 — Gdje je Mostar?",
+      "label": "Next: Lesson 5: Gdje je Mostar?",
       "url": "/learn/lesson/5",
       "note": "Places, gdje/ovdje/tamo, and a Mostar tease"
     },
@@ -472,7 +472,7 @@
           "fildžan"
         ],
         "correctIndex": 0,
-        "explanation": "Mrvica je mačka — the café cat."
+        "explanation": "Mrvica je mačka. the café cat."
       },
       {
         "id": "q6",
@@ -520,7 +520,7 @@
           "Bridge"
         ],
         "correctIndex": 1,
-        "explanation": "Porodica = family — blood family or café family."
+        "explanation": "Porodica = family. blood family or café family."
       }
     ]
   },
@@ -631,7 +631,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_Ferhadija_2007-08-16.jpg",
       "author": "Milan Suvajac",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Open café on Ferhadija, Sarajevo — Milan Suvajac / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Based on photo: Open café on Ferhadija, Sarajevo. Milan Suvajac / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "mrvica-cat",
@@ -641,7 +641,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Cat_November_2010-1a.jpg",
       "author": "Alvesgaspar",
       "license": "CC BY-SA 3.0",
-      "credit": "Based on photo: Cat — Alvesgaspar / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Based on photo: Cat. Alvesgaspar / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "family-table",
@@ -651,9 +651,24 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_coffee_(13926468997).jpg",
       "author": "Michał Huniewicz",
       "license": "CC BY 2.0",
-      "credit": "Based on photo: Bosnian coffee gathering mood — Michał Huniewicz / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Based on photo: Bosnian coffee gathering mood. Michał Huniewicz / Wikimedia Commons (CC BY 2.0)"
+    },
+    {
+      "id": "civic-parliament",
+      "alt": "Parliamentary Assembly building in Sarajevo",
+      "localPath": "/images/book1/day-04-civic-parliament.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarajevo_parlament_2007.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_parlament_2007.jpg",
+      "author": "Dingoa",
+      "license": "CC BY-SA 3.0",
+      "credit": "Based on photo: Sarajevo parliament. Dingoa / Wikimedia Commons (CC BY-SA 3.0)"
     }
   ],
   "imagesNeeded": false,
-  "imageBriefs": []
+  "imageBriefs": [],
+  "civicContext": {
+    "title": "Three presidents, and open talk of breaking the state",
+    "body": "The state Presidency has three members chosen along ethnic lines: one Bosniak, one Croat, and one Serb. That arrangement was written into Dayton to end the war. In the years since, senior officials from Republika Srpska have repeatedly threatened to withdraw from state institutions and have promoted secessionist goals. International officials and court records have treated those campaigns as attacks on the constitutional order. A country can teach family words at a café table and still be living under a political system where parts of the leadership openly question whether the state should remain whole.",
+    "imageId": "civic-parliament"
+  }
 }

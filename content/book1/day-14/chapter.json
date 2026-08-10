@@ -2,8 +2,8 @@
   "day": 14,
   "book": 1,
   "week": 2,
-  "title": "Sedmica 2 — ponavljanje",
-  "titleEn": "Week 2 — review",
+  "title": "Ponavljanje",
+  "titleEn": "Review",
   "theme": "Board-game night at Amira’s",
   "status": "outlined",
   "reviewedAt": null,
@@ -12,7 +12,7 @@
   "storyBeat": "Board-game night",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 14: Review days 8–13"
+      "Coming night 14: Review days 8. 13"
     ],
     "grammar": [
       "To be filled on draft night"
@@ -39,7 +39,7 @@
   "funFacts": [],
   "resources": [
     {
-      "label": "How to speak Bosnian — YouTube",
+      "label": "How to speak Bosnian (YouTube)",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
       "note": "Companion video after publish"
     }

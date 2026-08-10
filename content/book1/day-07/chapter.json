@@ -2,26 +2,26 @@
   "day": 7,
   "book": 1,
   "week": 1,
-  "title": "Sedmica 1 — ponavljanje",
-  "titleEn": "Week 1 — review",
-  "theme": "Week 1 review + postcards from across BiH",
+  "title": "Ponavljanje",
+  "titleEn": "Review",
+  "theme": "Review of Lessons 1 to 6, plus postcards from across BiH",
   "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "Revised Week 1 review to open BiH geography (Jajce, Blagaj, Počitelj) instead of recycling Sarajevo-only imagery — ready for human review.",
+  "reviewerNotes": "Copy cleaned (no em dashes, no Week title). Civic section added. Ready for human review.",
   "estimatedMinutes": 50,
-  "storyBeat": "Ana captions her Sarajevo week — then Emir slides in postcards from Jajce, Blagaj, and Počitelj so the review opens the whole country.",
+  "storyBeat": "Ana captions what she learned in Lessons 1 to 6. Emir then slides in postcards from Jajce, Blagaj, and Počitelj so the review opens more of the country.",
   "learningGoals": {
     "vocabulary": [
-      "Recycle Week 1: greetings, biti, numbers/café, family, places, time",
+      "Recycle Lessons 1 to 6: greetings, biti, numbers and café, family, places, time",
       "Light diary words: sedmica, foto, priča"
     ],
     "grammar": [
-      "Remember: sam/si/je and moj/moja",
-      "Remember: Gdje je…? and Koliko je sati?"
+      "Remember sam, si, je and moj, moja",
+      "Remember Gdje je…? and Koliko je sati?"
     ],
     "culture": [
-      "Week 1 photo captions as memory tools",
-      "New places beyond the big two: Jajce, Blagaj (Buna), Počitelj"
+      "Photo captions as a memory tool",
+      "New places beyond the usual tourist pair: Jajce, Blagaj on the Buna, and Počitelj"
     ]
   },
   "vocabulary": [
@@ -30,14 +30,14 @@
       "english": "week",
       "pronunciation": "SED-mee-tsa",
       "partOfSpeech": "noun",
-      "example": "Sedmica 1 je gotova."
+      "example": "Sedmica je gotova."
     },
     {
       "bosnian": "foto",
       "english": "photo (short / casual)",
       "pronunciation": "FO-to",
       "partOfSpeech": "noun",
-      "example": "Jedna foto — Sebilj."
+      "example": "Jedna foto: Sebilj."
     },
     {
       "bosnian": "priča",
@@ -98,8 +98,8 @@
   ],
   "grammar": [
     {
-      "title": "Remember — biti and possessives",
-      "explanation": "Week 1 core: Ja sam Ana. Ti si Emir. On je / Ona je… Pair with possessives: Moj prijatelj. Moja prijateljica. Moja mačka. If a noun ends in -a, try moja first.",
+      "title": "Remember. biti and possessives",
+      "explanation": "Core so far: Ja sam Ana. Ti si Emir. On je / Ona je… Pair with possessives: Moj prijatelj. Moja prijateljica. Moja mačka. If a noun ends in -a, try moja first.",
       "examples": [
         {
           "bosnian": "Ja sam Ana. Ti si Emir.",
@@ -110,22 +110,22 @@
           "english": "Emir is my friend."
         },
         {
-          "bosnian": "Moja mačka — Mrvica!",
-          "english": "My cat — Mrvica!"
+          "bosnian": "Moja mačka: Mrvica!",
+          "english": "My cat: Mrvica!"
         }
       ]
     },
     {
-      "title": "Remember — where and when",
-      "explanation": "Place kit: Gdje je…? Ovdje. Tamo. U Sarajevu. Kod Amire. Time kit: Koliko je sati? Danas / sutra + weekday. Put them in one diary line: Danas sam kod Amire. Sutra — mapa!",
+      "title": "Remember. where and when",
+      "explanation": "Place kit: Gdje je…? Ovdje. Tamo. U Sarajevu. Kod Amire. Time kit: Koliko je sati? Danas / sutra + weekday. Put them in one diary line: Danas sam kod Amire. Sutra. mapa!",
       "examples": [
         {
-          "bosnian": "Gdje je Mostar? — Tamo.",
-          "english": "Where is Mostar? — Over there."
+          "bosnian": "Gdje je Mostar? Tamo.",
+          "english": "Where is Mostar? Over there."
         },
         {
-          "bosnian": "Koliko je sati? — Deset je sati.",
-          "english": "What time is it? — It is ten."
+          "bosnian": "Koliko je sati? Deset je sati.",
+          "english": "What time is it? It is ten."
         },
         {
           "bosnian": "Danas sam kod Amire.",
@@ -135,43 +135,43 @@
     }
   ],
   "culture": {
-    "title": "Diary of a week — and postcards farther out",
-    "body": "Ana can caption Sebilj and kahva now. Emir will not let Week 1 end as a two-city postcard rack. He adds three images from across Bosnia and Herzegovina: the Pliva waterfall at Jajce, where a river falls through the town; the Blagaj tekija tucked under a cliff at the Buna spring; and Počitelj’s stone houses stacked above the Neretva valley. Review the language — then aim your next sutra at a wider map. Book 1 lives in Sarajevo for the plot, but the country is the classroom.",
+    "title": "A diary, then postcards from farther out",
+    "body": "Ana can caption Sebilj and kahva now. Emir refuses to let the review shrink Bosnia and Herzegovina to two postcard cities. He adds three images from across the country: the Pliva waterfall at Jajce, where a river falls through the town; the Blagaj tekija under a cliff at the Buna spring; and Počitelj’s stone houses stacked above the Neretva valley. Review the language first. Then aim your next sutra at a wider map. The café is home base. The classroom is the whole country.",
     "imageId": "jajce-pliva"
   },
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A — Recycle the toolkit",
-      "body": "Rapid fire without notes: Zdravo! Ja sam… Drago mi je. Kahvu, molim. Koliko? Moj brat / Moja sestra. Gdje je mapa? Ovdje / tamo. Koliko je sati? Danas / sutra. Emir times Ana for two minutes. Misses are fine — laugh, repeat, move on. Circle three weak words and write them once with accents.",
+      "title": "Lesson A: Recycle the toolkit",
+      "body": "Rapid fire without notes: Zdravo! Ja sam… Drago mi je. Kahvu, molim. Koliko? Moj brat. Moja sestra. Gdje je mapa? Ovdje. Tamo. Koliko je sati? Danas. Sutra. Emir times Ana for two minutes. Misses are fine. Laugh, repeat, and move on. Circle three weak words and write them once with the correct letters.",
       "tips": [
-        "Speed over perfection — then one careful rewrite",
-        "Revisit čćšžđ from Lesson 1 if typing slips"
+        "Speed first, then one careful rewrite",
+        "Revisit č ć š ž đ from Lesson 1 if your spelling slips"
       ]
     },
     {
       "id": "b",
-      "title": "Lesson B — Photo diary captions",
-      "body": "Caption six lines for Week 1 skills — then three bonus place lines Emir teaches as teases: Jajce — vodopad. Blagaj — Buna. Počitelj — stari grad. You do not need full sentences yet; glue them with Gdje je…? and Tamo. Share the diary at the table; Amira stamps the week with Hvala — i sutra! Week 2 will feed you burek and more of the map.",
+      "title": "Lesson B: Photo diary captions",
+      "body": "Caption six lines for skills from Lessons 1 to 6. Then add three place lines Emir teaches as teases: Jajce, vodopad. Blagaj, Buna. Počitelj, stari grad. Glue them with Gdje je…? and Tamo. Share the diary at the table. Amira closes the lesson with Hvala, and sutra! Lesson 8 will bring burek and more of the map.",
       "tips": [
-        "Week 1 lines first; then three new place names",
-        "Reuse Gdje je…? / Tamo for the postcard stack"
+        "Lines from Lessons 1 to 6 come first, then three new place names",
+        "Reuse Gdje je…? and Tamo for the postcard stack"
       ]
     }
   ],
   "conversation": {
-    "title": "Foto priča — i razglednice",
-    "setting": "Amira’s café. Ana’s phone plus Emir’s postcards: Jajce, Blagaj, Počitelj.",
+    "title": "Foto priča i razglednice",
+    "setting": "Amira’s café. Ana’s phone sits beside Emir’s postcards of Jajce, Blagaj, and Počitelj.",
     "lines": [
       {
         "speaker": "Ana",
-        "bosnian": "Ovo je moja sedmica. Foto — kahva kod Amire!",
-        "english": "This is my week. Photo — coffee at Amira’s!"
+        "bosnian": "Ovo je moja sedmica. Foto: kahva kod Amire!",
+        "english": "This is my week. Photo: coffee at Amira’s!"
       },
       {
         "speaker": "Emir",
-        "bosnian": "Bravo. A ovo? Jajce — vodopad!",
-        "english": "Bravo. And this? Jajce — a waterfall!"
+        "bosnian": "Bravo. A ovo? Jajce, vodopad!",
+        "english": "Bravo. And this? Jajce, a waterfall!"
       },
       {
         "speaker": "Ana",
@@ -180,8 +180,8 @@
       },
       {
         "speaker": "Emir",
-        "bosnian": "Tamo… u Bosni. Lijepo!",
-        "english": "Over there… in Bosnia. Beautiful!"
+        "bosnian": "Tamo, u Bosni. Lijepo!",
+        "english": "Over there, in Bosnia. Beautiful!"
       },
       {
         "speaker": "Amira",
@@ -195,13 +195,13 @@
       },
       {
         "speaker": "Emir",
-        "bosnian": "Da! Počitelj — stari grad. Sutra na mapi!",
-        "english": "Yes! Počitelj — an old town. Tomorrow on the map!"
+        "bosnian": "Da! Počitelj, stari grad. Sutra na mapi!",
+        "english": "Yes! Počitelj, an old town. Tomorrow on the map!"
       },
       {
         "speaker": "Amira",
-        "bosnian": "Bravo, Ana. Sedmica 1 — gotova!",
-        "english": "Bravo, Ana. Week 1 — done!"
+        "bosnian": "Bravo, Ana. Sedmica je gotova!",
+        "english": "Bravo, Ana. The week is done!"
       }
     ]
   },
@@ -209,8 +209,8 @@
     {
       "id": "p1",
       "type": "match",
-      "title": "Week 1 rapid match",
-      "prompt": "Match Bosnian from Lessons 1–6 to English.",
+      "title": "Lessons 1 to 6 rapid match",
+      "prompt": "Match Bosnian from Lessons 1. 6 to English.",
       "items": [
         {
           "left": "zdravo",
@@ -237,7 +237,7 @@
     {
       "id": "p2",
       "type": "truefalse",
-      "title": "Week 1 true or false",
+      "title": "Lessons 1 to 6 true or false",
       "prompt": "Mark each statement true or false.",
       "items": [
         {
@@ -266,7 +266,7 @@
   "practice": [
     {
       "id": "pr1",
-      "prompt": "Write ‘hello’ as taught in Week 1 (zdravo).",
+      "prompt": "Write “hello” as taught in Lessons 1 to 6 (zdravo).",
       "hint": "zd-…",
       "answer": "zdravo"
     },
@@ -315,32 +315,32 @@
   ],
   "funFacts": [
     {
-      "title": "Jajce — town on a waterfall",
-      "body": "In Jajce the Pliva River drops as a waterfall right by the old town — a rare urban cascade and a medieval royal seat of the Bosnian kingdom."
+      "title": "Jajce, town on a waterfall",
+      "body": "In Jajce the Pliva River drops as a waterfall right by the old town. It is a rare urban cascade and a medieval royal seat of the Bosnian kingdom."
     },
     {
       "title": "Blagaj and the Buna spring",
-      "body": "At Blagaj, a Dervish tekija (tekke) sits under a cliff where the Buna River bursts from the rock — one of the strongest karst springs in the region."
+      "body": "At Blagaj, a Dervish tekija sits under a cliff where the Buna River bursts from the rock. It is one of the strongest karst springs in the region."
     },
     {
       "title": "Počitelj’s stone stack",
-      "body": "Počitelj climbs a hillside in Herzegovina in stone houses and a fortress silhouette — a preserved Ottoman-era settlement above the Neretva corridor."
+      "body": "Počitelj climbs a hillside in Herzegovina in stone houses and a fortress silhouette. It is a preserved Ottoman-era settlement above the Neretva corridor."
     },
     {
-      "title": "Banja Luka next on the mental map",
-      "body": "Farther north, Banja Luka spreads along the Vrbas with the Kastel fortress. Week reviews should keep adding real towns so BiH never shrinks to two postcard cities."
+      "title": "Banja Luka on the mental map",
+      "body": "Farther north, Banja Luka spreads along the Vrbas with the Kastel fortress. Reviews should keep adding real towns so BiH never shrinks to two postcard cities."
     }
   ],
   "resources": [
     {
-      "label": "How to speak Bosnian — YouTube",
+      "label": "How to speak Bosnian (YouTube)",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video for Lesson 7 — Week 1 review"
+      "note": "Companion video for Lesson 7"
     },
     {
-      "label": "Next: Lesson 8 — Volim burek",
+      "label": "Next: Lesson 8: Volim burek",
       "url": "/learn/lesson/8",
-      "note": "Week 2 begins — food and volim/ne volim"
+      "note": "Food begins with volim and ne volim"
     },
     {
       "label": "Book 1 curriculum",
@@ -349,7 +349,7 @@
     }
   ],
   "sectionQuiz": {
-    "title": "Lesson 7 — Week 1 review quiz",
+    "title": "Lesson 7 review quiz",
     "passPercent": 70,
     "questions": [
       {
@@ -374,7 +374,7 @@
           "danas / sutra / petak"
         ],
         "correctIndex": 0,
-        "explanation": "Biti in Week 1: sam, si, je (Lesson 2)."
+        "explanation": "Biti in : sam, si, je (Lesson 2)."
       },
       {
         "id": "q3",
@@ -410,7 +410,7 @@
           "A bridge only"
         ],
         "correctIndex": 1,
-        "explanation": "Mrvica je mačka — the café cat."
+        "explanation": "Mrvica je mačka. The café cat."
       },
       {
         "id": "q6",
@@ -458,7 +458,7 @@
           "Who is Emir?"
         ],
         "correctIndex": 1,
-        "explanation": "Time question from Lesson 6 (koliko košta? was price in Lesson 3)."
+        "explanation": "Time question from Lesson 6 (koliko košta? Was price in Lesson 3)."
       },
       {
         "id": "q10",
@@ -470,7 +470,7 @@
           "A type of coffee cup"
         ],
         "correctIndex": 1,
-        "explanation": "Jajce’s Pliva waterfall falls beside the old town — a Week 1 postcard beyond Sarajevo/Mostar."
+        "explanation": "Jajce’s Pliva waterfall falls beside the old town. A postcard beyond Sarajevo/Mostar."
       }
     ]
   },
@@ -545,7 +545,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Pliva_Waterfall_in_Jajce_02.jpg",
       "author": "Adam Harangozó",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Pliva Waterfall in Jajce — Adam Harangozó / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Based on photo: Pliva Waterfall in Jajce. Adam Harangozó / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "blagaj-tekija",
@@ -555,7 +555,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Tekija_Blagaj_-_Vrelo_Bune.jpg",
       "author": "Yakamooda",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Tekija Blagaj at the Buna spring — Yakamooda / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Based on photo: Tekija Blagaj at the Buna spring. Yakamooda / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "pocitelj",
@@ -565,9 +565,24 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Po%C4%8Ditelj_-_pano.jpg",
       "author": "Pudelek (Marcin Szala)",
       "license": "CC BY-SA 3.0",
-      "credit": "Based on photo: Počitelj panorama — Pudelek (Marcin Szala) / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Based on photo: Počitelj panorama. Pudelek (Marcin Szala) / Wikimedia Commons (CC BY-SA 3.0)"
+    },
+    {
+      "id": "civic-dayton-map",
+      "alt": "Map-style view of Bosnia and Herzegovina used for the Dayton entities civic note",
+      "localPath": "/images/book1/day-07-civic-entities.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnia_and_Herzegovina_location_map.svg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnia_and_Herzegovina_location_map.svg",
+      "author": "NordNordWest",
+      "license": "CC BY-SA 3.0",
+      "credit": "Based on map: Bosnia and Herzegovina location map. NordNordWest / Wikimedia Commons (CC BY-SA 3.0)"
     }
   ],
   "imagesNeeded": false,
-  "imageBriefs": []
+  "imageBriefs": [],
+  "civicContext": {
+    "title": "A state built so one entity can block the rest",
+    "body": "Dayton divided Bosnia and Herzegovina into two entities, the Federation of BiH and Republika Srpska, plus the Brčko District. Many state decisions require agreement across that structure. The design stopped the war. It also lets obstruction at entity level delay reforms that EU accession demands. A review lesson is a good place to say this plainly: language practice can move every day, while the constitutional machine can still freeze the country in place.",
+    "imageId": "civic-dayton-map"
+  }
 }

@@ -54,9 +54,12 @@ function ChapterImageFigure({
 
 export default function LessonShell({ chapter }: Props) {
   const images = chapter.images || [];
+  const civicImageId = chapter.civicContext?.imageId || null;
   const hero =
     images.find((i) => i.id === chapter.culture?.imageId) || images[0];
-  const rest = images.filter((i) => i.id !== hero?.id);
+  const rest = images.filter(
+    (i) => i.id !== hero?.id && i.id !== civicImageId
+  );
   const cultureImage = rest[0];
   const midImage = rest[1];
   const moreImages = rest.slice(2);
@@ -72,7 +75,7 @@ export default function LessonShell({ chapter }: Props) {
     <LessonPage>
       {chapter.status === "draft" && (
         <Banner>
-          Preview — this chapter is a <strong>draft</strong> awaiting human review
+          Preview: this chapter is a <strong>draft</strong> awaiting human review
           before official publish.
         </Banner>
       )}
@@ -87,12 +90,12 @@ export default function LessonShell({ chapter }: Props) {
           <div className="meta">
             {chapter.day === 0
               ? "Lesson 0 · Orientation"
-              : `Lesson ${chapter.day} · Week ${chapter.week}`}{" "}
+              : `Lesson ${chapter.day}`}{" "}
             · ~{chapter.estimatedMinutes || 60} min
           </div>
           <h1>{chapter.title}</h1>
           <p className="meta">
-            {chapter.titleEn} — {chapter.theme}
+            {chapter.titleEn}. {chapter.theme}
           </p>
         </div>
       </HeroBand>
@@ -180,7 +183,7 @@ export default function LessonShell({ chapter }: Props) {
             <GoalList>
               {g.examples.map((ex) => (
                 <li key={ex.bosnian}>
-                  <strong>{ex.bosnian}</strong> — {ex.english}
+                  <strong>{ex.bosnian}</strong>: {ex.english}
                 </li>
               ))}
             </GoalList>
@@ -282,10 +285,27 @@ export default function LessonShell({ chapter }: Props) {
         </Panel>
       )}
 
+      {chapter.civicContext && (
+        <Panel id="civic-context">
+          <SectionDivider />
+          <h2>Bosnia today</h2>
+          <h3>{chapter.civicContext.title}</h3>
+          <p>{chapter.civicContext.body}</p>
+          {(() => {
+            const civicImg = images.find(
+              (i) => i.id === chapter.civicContext?.imageId
+            );
+            return civicImg ? (
+              <ChapterImageFigure day={chapter.day} image={civicImg} />
+            ) : null;
+          })()}
+        </Panel>
+      )}
+
       {chapter.puzzles[1] && (
         <Panel id="game">
           <SectionDivider />
-          <h2>More practice — game</h2>
+          <h2>More practice: game</h2>
           <PuzzleGame puzzle={chapter.puzzles[1]} />
         </Panel>
       )}
@@ -300,7 +320,7 @@ export default function LessonShell({ chapter }: Props) {
                 <a href={r.url} target="_blank" rel="noreferrer">
                   {r.label}
                 </a>
-                {r.note ? ` — ${r.note}` : ""}
+                {r.note ? `. ${r.note}` : ""}
               </li>
             ))}
           </GoalList>

@@ -7,14 +7,14 @@
   "theme": "Clocks and daily rhythm across BiH",
   "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "Revised for BiH geographic diversity (Travnik, Una/Bihać, Neum) and accurate Travnik sahat-kula art — ready for human review.",
+  "reviewerNotes": "Revised for BiH geographic diversity (Travnik, Una/Bihać, Neum) and accurate Travnik sahat-kula art. ready for human review.",
   "estimatedMinutes": 60,
-  "storyBeat": "Emir teaches Ana the time — then shows that Bosnia’s rhythm is bigger than one city: Travnik’s sahat-kula, Una mornings near Bihać, weekend dreams of Neum.",
+  "storyBeat": "Emir teaches Ana the time, then shows that Bosnia’s rhythm is bigger than one city: Travnik’s sahat-kula, Una mornings near Bihać, and weekend dreams of Neum.",
   "learningGoals": {
     "vocabulary": [
       "Clock question: Koliko je sati?",
       "Parts of day: jutro, podne, popodne, večer",
-      "Days: danas, sutra + weekdays ponedjeljak–nedjelja"
+      "Days: danas, sutra + weekdays ponedjeljak. nedjelja"
     ],
     "grammar": [
       "Asking and answering the hour with sat/sati",
@@ -22,7 +22,7 @@
       "Weekday names as ready-made words"
     ],
     "culture": [
-      "Sahat-kule (clock towers) in towns across BiH — not only Sarajevo",
+      "Sahat-kule (clock towers) in towns across BiH. not only Sarajevo",
       "Travnik under Vlašić; Una near Bihać; Neum on the Adriatic"
     ]
   },
@@ -102,7 +102,7 @@
       "english": "Wednesday",
       "pronunciation": "SREE-yeh-dah",
       "partOfSpeech": "noun",
-      "example": "U srijedu — kahva."
+      "example": "U srijedu. kahva."
     },
     {
       "bosnian": "četvrtak",
@@ -130,7 +130,7 @@
       "english": "Sunday",
       "pronunciation": "NED-yel-yah",
       "partOfSpeech": "noun",
-      "example": "Nedjelja — spor dan."
+      "example": "Nedjelja. spor dan."
     },
     {
       "bosnian": "kasno",
@@ -143,7 +143,7 @@
   "grammar": [
     {
       "title": "Koliko je sati?",
-      "explanation": "Ask the time with Koliko je sati? Answer with a number from Lesson 3 plus sat or sati. Jedan je sat (1:00). For 2–4 you will often hear dva/tri/četiri sata in real speech — for this lesson, memorize the friendly pattern X je sati for 5–12 and Jedan je sat for 1. Also say U osam sati (at eight o’clock) as a chunk.",
+      "explanation": "Ask the time with Koliko je sati? Answer with a number from Lesson 3 plus sat or sati. Jedan je sat (1:00). For 2. 4 you will often hear dva/tri/četiri sata in real speech. for this lesson, memorize the friendly pattern X je sati for 5. 12 and Jedan je sat for 1. Also say U osam sati (at eight o’clock) as a chunk.",
       "examples": [
         {
           "bosnian": "Koliko je sati?",
@@ -161,7 +161,7 @@
     },
     {
       "title": "Danas and sutra",
-      "explanation": "Danas = today. Sutra = tomorrow. Pair them with a weekday: Danas je petak. Sutra je subota. You can also place plans: Sutra u deset sati — kod Amire.",
+      "explanation": "Danas = today. Sutra = tomorrow. Pair them with a weekday: Danas je petak. Sutra je subota. You can also place plans: Sutra u deset sati. kod Amire.",
       "examples": [
         {
           "bosnian": "Danas je petak.",
@@ -178,8 +178,8 @@
       ]
     },
     {
-      "title": "Weekdays — chant the week",
-      "explanation": "Learn the seven days as a list: ponedjeljak, utorak, srijeda, četvrtak, petak, subota, nedjelja. Watch četvrtak (č) and srijeda / nedjelja. Do not worry about full case endings yet — say Danas je… + the day name.",
+      "title": "Weekdays. chant the week",
+      "explanation": "Learn the seven days as a list: ponedjeljak, utorak, srijeda, četvrtak, petak, subota, nedjelja. Watch četvrtak (č) and srijeda / nedjelja. Do not worry about full case endings yet. say Danas je… + the day name.",
       "examples": [
         {
           "bosnian": "ponedjeljak, utorak, srijeda",
@@ -197,24 +197,24 @@
     }
   ],
   "culture": {
-    "title": "Time across Bosnia — Travnik’s sahat-kula",
-    "body": "Ottoman Bosnia left sahat-kule — clock towers — in many towns, not just Sarajevo. Emir’s photo today is Travnik: a stone sahat-kula under the cliffs of Mount Vlašić, once the seat of Ottoman viziers. Sarajevo’s tower by Gazi Husrev-beg’s mosque was famous for lunar prayer time; Travnik’s keeps its own skyline. Day rhythm changes with place too — misty jutro on the Una near Bihać, bright popodne inland, večer plans for Neum, Bosnia’s short Adriatic coast. Learning Koliko je sati? also means learning where in the country that hour belongs.",
+    "title": "Time across Bosnia: Travnik’s sahat-kula",
+    "body": "Ottoman Bosnia left sahat-kule (clock towers) in many towns, not just Sarajevo. Emir’s photo today is Travnik: a stone sahat-kula under the cliffs of Mount Vlašić, once a seat of Ottoman viziers. Sarajevo’s tower by Gazi Husrev-beg’s mosque was famous for lunar prayer time. Travnik keeps a different skyline under the mountain. Day rhythm changes with place too. There is misty jutro on the Una near Bihać, bright inland popodne, and večer plans for Neum on Bosnia’s short Adriatic coast. Learning Koliko je sati? also means learning where in the country that hour belongs.",
     "imageId": "travnik-sahat"
   },
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A — Ask the time",
-      "body": "Drill Koliko je sati? then answer with Lesson 3 numbers: Pet je sati. Osam je sati. Deset je sati. Jedan je sat. Add place chunks: U osam sati — kod Amire. U dvanaest sati — podne. Emir flips a postcard of Travnik’s sahat-kula while Ana practices — the same question works in every Bosnian town. Ana still says Kasno je! when she is late for kahva.",
+      "title": "Lesson A: Ask the time",
+      "body": "Drill Koliko je sati? then answer with Lesson 3 numbers: Pet je sati. Osam je sati. Deset je sati. Jedan je sat. Add place chunks: U osam sati (kod Amire. U dvanaest sati) podne. Emir flips a postcard of Travnik’s sahat-kula while Ana practices. the same question works in every Bosnian town. Ana still says Kasno je! when she is late for kahva.",
       "tips": [
         "Question kit: Koliko je sati?",
-        "Reuse numbers 1–12 from Lesson 3"
+        "Reuse numbers 1. 12 from Lesson 3"
       ]
     },
     {
       "id": "b",
-      "title": "Lesson B — Days and the week’s plan",
-      "body": "Chant the weekdays twice. Then build real lines: Danas je petak. Sutra je subota. Mark parts of day: jutro, podne, popodne, večer. Emir sketches a wider week on a napkin: subota — Una? nedjelja — Neum san? For now they stay in Sarajevo, but sutra always points somewhere on the map of BiH. End with one plan: Sutra u deset sati, kod Amire!",
+      "title": "Lesson B: Days and the week’s plan",
+      "body": "Chant the weekdays twice. Then build real lines: Danas je petak. Sutra je subota. Mark parts of day: jutro, podne, popodne, večer. Emir sketches a wider week on a napkin: subota (Una? nedjelja) Neum san? For now they stay in Sarajevo, but sutra always points somewhere on the map of BiH. End with one plan: Sutra u deset sati, kod Amire!",
       "tips": [
         "Danas / sutra + weekday",
         "četvrtak and srijeda need careful letters"
@@ -242,8 +242,8 @@
       },
       {
         "speaker": "Emir",
-        "bosnian": "Ne. Kod Amire — sada!",
-        "english": "No. At Amira’s — now!"
+        "bosnian": "Ne. Kod Amire sada!",
+        "english": "No. At Amira’s now!"
       },
       {
         "speaker": "Amira",
@@ -257,8 +257,8 @@
       },
       {
         "speaker": "Emir",
-        "bosnian": "Da. Sutra u deset sati — ovdje. Poslije… Travnik? Una?",
-        "english": "Yes. Tomorrow at ten o’clock — here. Later… Travnik? The Una?"
+        "bosnian": "Da. Sutra u deset sati ovdje. Poslije Travnik? Una?",
+        "english": "Yes. Tomorrow at ten o’clock here. Later Travnik? The Una?"
       },
       {
         "speaker": "Amira",
@@ -353,7 +353,7 @@
     {
       "id": "pr5",
       "prompt": "Write Thursday in Bosnian (needs č).",
-      "hint": "Use the accent button for č",
+      "hint": "include the special letter for č",
       "answer": "četvrtak"
     },
     {
@@ -378,31 +378,31 @@
   "funFacts": [
     {
       "title": "Travnik and Vlašić",
-      "body": "Travnik sat as a major Ottoman administrative centre; its sahat-kula stands with Mount Vlašić behind it. Vizier-town history is part of central Bosnia’s identity — far from a Sarajevo-only story."
+      "body": "Travnik was a major Ottoman administrative centre. Its sahat-kula stands with Mount Vlašić behind it. Central Bosnia has its own political history, not a footnote to Sarajevo."
     },
     {
       "title": "Many sahat-kule",
-      "body": "Clock towers appear in towns across BiH (Sarajevo, Travnik, and others). Sarajevo’s is often remembered for once tracking lunar prayer time — a detail that makes Koliko je sati? feel rooted in local history."
+      "body": "Clock towers appear in towns across BiH, including Sarajevo and Travnik. Sarajevo’s tower is often remembered for once tracking lunar prayer time. That detail roots Koliko je sati? in local history."
     },
     {
       "title": "Una mornings near Bihać",
-      "body": "In the northwest, the Una River runs clear past Bihać. Locals talk about jutro on the river the way Sarajevo talks about kahva — different place, same love of a slow start."
+      "body": "In the northwest, the Una River runs clear past Bihać. Locals talk about jutro on the river with the same affection Sarajevo keeps for kahva. Different place, same love of a slow start."
     },
     {
-      "title": "Neum — Bosnia touches the sea",
-      "body": "BiH has a short Adriatic coastline at Neum. Weekend sutra plans sometimes mean salt air, not only mountain towns — useful when you dream in danas / sutra."
+      "title": "Neum touches the sea",
+      "body": "BiH has a short Adriatic coastline at Neum. A sutra plan can mean salt air, not only mountain towns. That matters when you practice danas and sutra as real life, not workbook fiction."
     }
   ],
   "resources": [
     {
-      "label": "How to speak Bosnian — YouTube",
+      "label": "How to speak Bosnian (YouTube)",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
       "note": "Companion video for Lesson 6"
     },
     {
-      "label": "Next: Lesson 7 — Sedmica 1 — ponavljanje",
+      "label": "Next: Lesson 7: Ponavljanje",
       "url": "/learn/lesson/7",
-      "note": "Week 1 review — Ana’s photo diary"
+      "note": "Review lesson with postcards from across BiH"
     },
     {
       "label": "Book 1 curriculum",
@@ -508,7 +508,7 @@
           "Igman"
         ],
         "correctIndex": 1,
-        "explanation": "Travnik’s clock tower stands with Mount Vlašić behind it — central Bosnia, not Sarajevo."
+        "explanation": "Travnik’s clock tower stands with Mount Vlašić behind it. central Bosnia, not Sarajevo."
       },
       {
         "id": "q9",
@@ -631,7 +631,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Sahat_Kule_01.JPG",
       "author": "Meyavuz",
       "license": "CC BY-SA 2.5",
-      "credit": "Based on photo: Sahat-kula, Travnik — Meyavuz / Wikimedia Commons (CC BY-SA 2.5)"
+      "credit": "Based on photo: Sahat-kula, Travnik. Meyavuz / Wikimedia Commons (CC BY-SA 2.5)"
     },
     {
       "id": "una-bihac",
@@ -641,7 +641,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Una_near_Biha%C4%87_2.jpg",
       "author": "Miha Peče",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Una near Bihać — Miha Peče / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Based on photo: Una near Bihać. Miha Peče / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "neum-coast",
@@ -651,9 +651,24 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Neum_(BiH)_-_general_view.jpg",
       "author": "Pudelek (Marcin Szala)",
       "license": "CC BY-SA 3.0",
-      "credit": "Based on photo: Neum, BiH — Pudelek (Marcin Szala) / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Based on photo: Neum, BiH. Pudelek (Marcin Szala) / Wikimedia Commons (CC BY-SA 3.0)"
+    },
+    {
+      "id": "civic-peljesac",
+      "alt": "Pelješac Bridge on the Adriatic near Bosnia’s Neum corridor",
+      "localPath": "/images/book1/day-06-civic-peljesac.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pelje%C5%A1ac_Bridge_3.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Pelje%C5%A1ac_Bridge_3.jpg",
+      "author": "kallerna",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Pelješac Bridge. kallerna / Wikimedia Commons (CC BY-SA 4.0)"
     }
   ],
   "imagesNeeded": false,
-  "imageBriefs": []
+  "imageBriefs": [],
+  "civicContext": {
+    "title": "A country with almost no sea door of its own",
+    "body": "Bosnia and Herzegovina’s only coastline is the short stretch at Neum. Most Adriatic freight still depends on access through neighboring Croatia. Croatia’s Pelješac Bridge, opened in 2022, connects Croatian territory around Neum. For BiH traders, sea cargo still means foreign customs regimes rather than a full national deep-water port system. When this lesson mentions Neum as a weekend dream, remember the harder fact beside the beach photo: the state remains structurally dependent on a neighbor for much of its maritime trade access.",
+    "imageId": "civic-peljesac"
+  }
 }

@@ -29,7 +29,7 @@ const chapters = loadChapters().filter((c) =>
     : c.status === "published" || c.status === "draft"
 );
 
-let markdown = `# Learn Bosnian in 30 Days — Book 1\n\nExport generated ${new Date().toISOString()}\n\n`;
+let markdown = `# Learn Bosnian, Book 1\n\nExport generated ${new Date().toISOString()}\n\n`;
 const dict = [];
 const imageManifest = [];
 
@@ -51,7 +51,7 @@ for (const ch of chapters) {
     .join("\n")}\n\n`;
 
   if (ch.culture) {
-    markdown += `## Culture — ${ch.culture.title}\n\n${ch.culture.body}\n\n`;
+    markdown += `## Culture: ${ch.culture.title}\n\n${ch.culture.body}\n\n`;
   }
 
   if (ch.vocabulary?.length) {
@@ -63,9 +63,9 @@ for (const ch of chapters) {
   }
 
   for (const g of ch.grammar || []) {
-    markdown += `## Grammar — ${g.title}\n\n${g.explanation}\n\n`;
+    markdown += `## Grammar: ${g.title}\n\n${g.explanation}\n\n`;
     for (const ex of g.examples || []) {
-      markdown += `- **${ex.bosnian}** — ${ex.english}\n`;
+      markdown += `- **${ex.bosnian}**: ${ex.english}\n`;
     }
     markdown += `\n`;
   }
@@ -75,14 +75,18 @@ for (const ch of chapters) {
   }
 
   if (ch.conversation?.lines?.length) {
-    markdown += `## Conversation — ${ch.conversation.title}\n\n_${ch.conversation.setting}_\n\n`;
+    markdown += `## Conversation: ${ch.conversation.title}\n\n_${ch.conversation.setting}_\n\n`;
     for (const line of ch.conversation.lines) {
       markdown += `**${line.speaker}:** ${line.bosnian}  \n*${line.english}*\n\n`;
     }
   }
 
   for (const f of ch.funFacts || []) {
-    markdown += `### Fun fact — ${f.title}\n\n${f.body}\n\n`;
+    markdown += `### Fun fact: ${f.title}\n\n${f.body}\n\n`;
+  }
+
+  if (ch.civicContext) {
+    markdown += `## Bosnia today: ${ch.civicContext.title}\n\n${ch.civicContext.body}\n\n`;
   }
 
   for (const e of ch.dictionaryEntries || []) {

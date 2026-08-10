@@ -4,10 +4,10 @@
   "week": 0,
   "title": "Zašto bosanski?",
   "titleEn": "Why Bosnian?",
-  "theme": "Orientation — what Bosnian is and who this course is for",
+  "theme": "Orientation. what Bosnian is and who this course is for",
   "status": "published",
   "reviewedAt": "2026-08-05",
-  "reviewerNotes": "Published for live preview. Orientation chapter — comparative notes intentional on Lesson 0 only.",
+  "reviewerNotes": "Published for live preview. Orientation chapter. comparative notes intentional on Lesson 0 only.",
   "estimatedMinutes": 35,
   "storyBeat": "Before Ana lands in Sarajevo, we pause for a clear map: what Bosnian is, where the name comes from, how it relates to neighboring standards, who speaks it, and who these lessons are for.",
   "learningGoals": {
@@ -16,13 +16,13 @@
       "The cast names you will meet from Lesson 1: Ana, Emir, Amira, Mrvica"
     ],
     "grammar": [
-      "No conjugation yet — this day is about the language itself",
+      "No conjugation yet. this day is about the language itself",
       "Latin script only from Lesson 1 onward (this course never teaches Cyrillic)"
     ],
     "culture": [
       "Why learn Bosnian specifically",
       "Etymology and origin of the name bosanski",
-      "How Bosnian relates to Croatian and Serbian — then why we stay Bosnian-focused",
+      "How Bosnian relates to Croatian and Serbian. then why we stay Bosnian-focused",
       "Who speaks Bosnian, and who this course is written for"
     ]
   },
@@ -100,7 +100,7 @@
   ],
   "grammar": [
     {
-      "title": "This course teaches Bosnian — Latin script only",
+      "title": "This course teaches Bosnian: Latin script only",
       "explanation": "From Lesson 1 you will see and type Bosnian in the Latin alphabet (with letters like č, ć, š, ž, đ). Official Bosnian can also appear in Cyrillic, but this course never teaches or displays Cyrillic. One path, one script, less noise.",
       "examples": [
         {
@@ -115,7 +115,7 @@
     },
     {
       "title": "Close neighbors, separate standards",
-      "explanation": "Bosnian, Croatian, and Serbian share a common South Slavic dialect base (Štokavian) and are largely mutually intelligible. They are separate standard languages with their own norms, preferred words, and cultural identities. This course teaches standard Bosnian as used in Bosnia and Herzegovina. After today, we will not add “also in Croatian…” sidebars — we stay in Bosnian.",
+      "explanation": "Bosnian, Croatian, and Serbian share a common South Slavic dialect base (Štokavian) and are largely mutually intelligible. They are separate standard languages with their own norms, preferred words, and cultural identities. This course teaches standard Bosnian as used in Bosnia and Herzegovina. After today, we will not add “also in Croatian…” sidebars. we stay in Bosnian.",
       "examples": [
         {
           "bosnian": "kahva",
@@ -129,33 +129,33 @@
     }
   ],
   "culture": {
-    "title": "A language of a whole country — not only one city",
-    "body": "Bosnian (bosanski) is a South Slavic language and one of the official languages of Bosnia and Herzegovina (Bosna i Hercegovina / BiH). The name comes from the historic region of Bosnia — people have used forms of this name for the speech of the land for centuries. In the 1990s, after independence, Bosnian was codified as a modern standard (with spelling and grammar guides), alongside Croatian and Serbian as official languages of BiH. Speakers often understand one another across those standards, but names matter: calling the language Bosnian honors the country’s identity and the forms you will hear from the mountains to the Neretva — in Mostar, Travnik, Banja Luka, Sarajevo, and beyond. Book 1 starts Ana’s story in Sarajevo, but Lesson 0 is about the whole map.",
+    "title": "A language of a whole country. not only one city",
+    "body": "Bosnian (bosanski) is a South Slavic language and one of the official languages of Bosnia and Herzegovina (Bosna i Hercegovina / BiH). The name comes from the historic region of Bosnia. People have used forms of this name for the speech of the land for centuries. In the 1990s, after independence, Bosnian was codified as a modern standard (with spelling and grammar guides), alongside Croatian and Serbian as official languages of BiH. Speakers often understand one another across those standards, but names matter: calling the language Bosnian honors the country’s identity and the forms you will hear from the mountains to the Neretva. In Mostar, Travnik, Banja Luka, Sarajevo, and beyond. Book 1 starts Ana’s story in Sarajevo, but Lesson 0 is about the whole map.",
     "imageId": "mostar-neretva"
   },
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A — What is Bosnian, and where does the name come from?",
-      "body": "Bosnian is the standard language taught and used as bosanski jezik in Bosnia and Herzegovina. Etymology (word origin): bosanski comes from Bosna — the name of the region and the river Bosna — plus a Slavic adjective ending, roughly “of Bosnia.” So the language name is tied to place, not to a single invented brand. Linguistically, standard Bosnian is built on the widespread Štokavian dialect shared with neighboring standards. Historically the area sat at a crossroads of Slavic speech, Ottoman administration, and Austro-Hungarian schooling; that history left everyday Bosnian with many familiar Slavic words plus a rich layer of older loanwords from Turkish, Arabic, and Persian (often called orientalisms) that feel at home in BiH conversation — think café culture, food, and everyday politeness. You do not need the full history to start. You need one clear label: you are learning Bosnian.",
+      "title": "Lesson A: What is Bosnian, and where does the name come from?",
+      "body": "Bosnian is the standard language taught and used as bosanski jezik in Bosnia and Herzegovina. Etymology (word origin): bosanski comes from Bosna. the name of the region and the river Bosna. plus a Slavic adjective ending, roughly “of Bosnia.” So the language name is tied to place, not to a single invented brand. Linguistically, standard Bosnian is built on the widespread Štokavian dialect shared with neighboring standards. Historically the area sat at a crossroads of Slavic speech, Ottoman administration, and Austro-Hungarian schooling; that history left everyday Bosnian with many familiar Slavic words plus a rich layer of older loanwords from Turkish, Arabic, and Persian (often called orientalisms) that feel at home in BiH conversation. think café culture, food, and everyday politeness. You do not need the full history to start. You need one clear label: you are learning Bosnian.",
       "tips": [
-        "Say it aloud once: bosanski jezik — Bosnian language",
+        "Say it aloud once: bosanski jezik: Bosnian language",
         "Remember: the name points to Bosnia (Bosna), the place"
       ]
     },
     {
       "id": "b",
-      "title": "Lesson B — Why Bosnian is not “just Croatian or Serbian,” and who speaks it",
-      "body": "People often ask: is Bosnian the same as Croatian or Serbian? Honest short answer: speakers can usually understand each other, because the standards grew from the same dialect family — like closely related national standards of one pluricentric language area. Honest longer answer: they are not the same course, the same classroom label, or the same cultural home. Differences show up in preferred vocabulary, some spelling and sound habits (Bosnian standard uses Ijekavian forms, and often keeps an audible h in words where history put it), script choices in public life, and — most of all — identity. Bosnian is an official language of BiH. It is spoken by Bosniaks and by many other people across Bosnia and Herzegovina; it is also spoken in diaspora communities worldwide. Neighbors may call their own standards Croatian or Serbian; mutual understanding does not erase those names. This book teaches Bosnian forms used in everyday BiH life. From Lesson 1 we will not train you to compare three columns of vocabulary. We will train you to sound at home saying zdravo in Sarajevo.",
+      "title": "Lesson B: Why Bosnian is not “just Croatian or Serbian,” and who speaks it",
+      "body": "People often ask: is Bosnian the same as Croatian or Serbian? Honest short answer: speakers can usually understand each other, because the standards grew from the same dialect family. like closely related national standards of one pluricentric language area. Honest longer answer: they are not the same course, the same classroom label, or the same cultural home. Differences show up in preferred vocabulary, some spelling and sound habits (Bosnian standard uses Ijekavian forms, and often keeps an audible h in words where history put it), script choices in public life, and (most of all) identity. Bosnian is an official language of BiH. It is spoken by Bosniaks and by many other people across Bosnia and Herzegovina; it is also spoken in diaspora communities worldwide. Neighbors may call their own standards Croatian or Serbian; mutual understanding does not erase those names. This book teaches Bosnian forms used in everyday BiH life. From Lesson 1 we will not train you to compare three columns of vocabulary. We will train you to sound at home saying zdravo in Sarajevo.",
       "tips": [
         "Mutual understanding ≠ identical language identity",
-        "After Lesson 0, stay Bosnian-focused — no comparative sidebars"
+        "After Lesson 0, stay Bosnian-focused. no comparative sidebars"
       ]
     },
     {
       "id": "c",
-      "title": "Lesson C — Why learn Bosnian, and who these lessons are for",
-      "body": "Why Bosnian? Because you care about this place and these people: travel through BiH, family or partners with roots here, work or study tied to the region, diaspora kids reclaiming a home language, or simple curiosity about a culture that is too often folded into a vague “Balkans” label. Learning Bosnian says you want the local name, the local café talk, and the local story. Who is this course for? Absolute beginners and false beginners who read English. Adults and older teens who can spend about an hour a day. Travelers, partners, students, and self-learners who want Latin-script Bosnian only — clear goals, culture, puzzles, and a silly story with Ana (the learner), Emir (the guide), Amira (the café owner), and Mrvica (the cat). Who it is not trying to be: a linguistics degree, a three-language comparative grammar, or a Cyrillic course. Book 1 moves from first greetings (Lesson 1) toward early A2 across 30 lessons. Lesson 0 is your map. Lesson 1 is your first step onto the stone streets of Baščaršija.",
+      "title": "Lesson C: Why learn Bosnian, and who these lessons are for",
+      "body": "Why Bosnian? Because you care about this place and these people: travel through BiH, family or partners with roots here, work or study tied to the region, diaspora kids reclaiming a home language, or simple curiosity about a culture that is too often folded into a vague “Balkans” label. Learning Bosnian says you want the local name, the local café talk, and the local story. Who is this course for? Absolute beginners and false beginners who read English. Adults and older teens who can spend about an hour a day. Travelers, partners, students, and self-learners who want Latin-script Bosnian only. clear goals, culture, puzzles, and a silly story with Ana (the learner), Emir (the guide), Amira (the café owner), and Mrvica (the cat). Who it is not trying to be: a linguistics degree, a three-language comparative grammar, or a Cyrillic course. Book 1 moves from first greetings (Lesson 1) toward early A2 across 30 lessons. Lesson 0 is your map. Lesson 1 is your first step onto the stone streets of Baščaršija.",
       "tips": [
         "If you can read this page in English, you are in the right audience",
         "Plan ~35 minutes today, then ~60 minutes from Lesson 1"
@@ -164,7 +164,7 @@
   ],
   "conversation": {
     "title": "A preview on the plane",
-    "setting": "Ana’s flight to Sarajevo. She reads a small orientation card. Emir will meet her tomorrow — for now, the narrator sets the frame.",
+    "setting": "Ana’s flight to Sarajevo. She reads a small orientation card. Emir will meet her tomorrow. for now, the narrator sets the frame.",
     "lines": [
       {
         "speaker": "Narrator",
@@ -280,7 +280,7 @@
     {
       "id": "pr5",
       "prompt": "Which script does this course teach: latin or cyrillic?",
-      "hint": "One word — latin",
+      "hint": "One word. latin",
       "answer": "latin"
     },
     {
@@ -299,15 +299,15 @@
   "funFacts": [
     {
       "title": "Etymology in one line",
-      "body": "Bosanski is basically “Bosnian / of Bosnia” — the language name is anchored in the place name Bosna."
+      "body": "Bosanski is basically “Bosnian / of Bosnia”. The language name is anchored in the place name Bosna."
     },
     {
       "title": "Official, not obscure",
-      "body": "Bosnian is an official language of Bosnia and Herzegovina, used in schools, media, and daily life — not a dialect label invented for tourists."
+      "body": "Bosnian is an official language of Bosnia and Herzegovina, used in schools, media, and daily life. Not a dialect label invented for tourists."
     },
     {
       "title": "Mutual understanding, separate classrooms",
-      "body": "A traveler who learns Bosnian will understand a lot next door — and still be studying a named standard with its own books, news, and pride."
+      "body": "A traveler who learns Bosnian will understand a lot next door. And still be studying a named standard with its own books, news, and pride."
     },
     {
       "title": "Why we skip Cyrillic here",
@@ -316,12 +316,12 @@
   ],
   "resources": [
     {
-      "label": "How to speak Bosnian — YouTube",
+      "label": "How to speak Bosnian (YouTube)",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
       "note": "Companion videos after human review"
     },
     {
-      "label": "Lesson 1 — Zdravo, Sarajevo!",
+      "label": "Lesson 1: Zdravo, Sarajevo!",
       "url": "/learn/lesson/1",
       "note": "Start the language path after this orientation"
     },
@@ -345,7 +345,7 @@
           "Cyrillic handwriting only"
         ],
         "correctIndex": 1,
-        "explanation": "Bosanski is Bosnian — the language (and adjective) this course teaches."
+        "explanation": "Bosanski is Bosnian. the language (and adjective) this course teaches."
       },
       {
         "id": "q2",
@@ -357,7 +357,7 @@
           "A single café in Zagreb"
         ],
         "correctIndex": 1,
-        "explanation": "Bosanski comes from Bosna — the region/place name — plus a Slavic adjective ending."
+        "explanation": "Bosanski comes from Bosna (the region/place name) plus a Slavic adjective ending."
       },
       {
         "id": "q3",
@@ -365,7 +365,7 @@
         "options": [
           "Identical in every word, so labels do not matter",
           "Unrelated languages with zero overlap",
-          "Closely related, largely mutually intelligible standards — we teach Bosnian forms and stay Bosnian-focused after Lesson 0",
+          "Closely related, largely mutually intelligible standards. we teach Bosnian forms and stay Bosnian-focused after Lesson 0",
           "We will memorize three parallel columns every day"
         ],
         "correctIndex": 2,
@@ -378,7 +378,7 @@
           "Only characters in fiction",
           "People in and from Bosnia and Herzegovina (and diaspora communities), as an official language of BiH",
           "Only medieval scribes",
-          "Nobody — it was replaced in 1990"
+          "Nobody. it was replaced in 1990"
         ],
         "correctIndex": 1,
         "explanation": "Bosnian is an official language of BiH and is spoken in the country and in diaspora communities."
@@ -405,7 +405,7 @@
           "Arabic script"
         ],
         "correctIndex": 1,
-        "explanation": "Latin script only — a deliberate choice to keep the path clear."
+        "explanation": "Latin script only. a deliberate choice to keep the path clear."
       },
       {
         "id": "q7",
@@ -429,7 +429,7 @@
           "Skip culture and only teach flags"
         ],
         "correctIndex": 1,
-        "explanation": "Lesson 0 answers the map questions; Lessons 1–30 teach Bosnian through story and practice."
+        "explanation": "Lesson 0 answers the map questions; Lessons 1. 30 teach Bosnian through story and practice."
       }
     ]
   },
@@ -504,7 +504,7 @@
       "pageUrl": "https://www.pexels.com/photo/the-koski-mehmed-pasha-mosque-mostar-bosnia-and-herzegovina-24244453/",
       "author": "Borys Jarzcuk",
       "license": "Pexels License",
-      "credit": "Based on photo: Mostar and the Neretva — Borys Jarzcuk / Pexels"
+      "credit": "Based on photo: Mostar and the Neretva. Borys Jarzcuk / Pexels"
     },
     {
       "id": "stari-most",
@@ -514,7 +514,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Stari_Most_Mostar_Bosnia_and_Herzegovina.jpg",
       "author": "Djani Behram",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Stari Most, Mostar — Djani Behram / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Based on photo: Stari Most, Mostar. Djani Behram / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "mostar-panorama",
@@ -524,9 +524,24 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Mostar_Old_Town_Panorama_2007.jpg",
       "author": "Ramirez",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Mostar Old Town panorama — Ramirez / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Based on photo: Mostar Old Town panorama. Ramirez / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "civic-schools",
+      "alt": "School building in Bosnia and Herzegovina representing divided education",
+      "localPath": "/images/book1/day-00-civic-schools.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gimnazija_Mostar.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Gimnazija_Mostar.jpg",
+      "author": "Jennifer Boyer",
+      "license": "CC BY 2.0",
+      "credit": "Based on photo: Gimnazija Mostar. Jennifer Boyer / Wikimedia Commons (CC BY 2.0)"
     }
   ],
   "imagesNeeded": false,
-  "imageBriefs": []
+  "imageBriefs": [],
+  "civicContext": {
+    "title": "Two schools under one roof",
+    "body": "In multiple towns across Bosnia and Herzegovina, children from different ethnic communities share one school building while following separated systems. The practice is often called “two schools under one roof.” Students may use different entrances, teachers, classrooms, and history curricula inside the same facility. International organizations and rights monitors have documented the model for years. It hardens division early, teaches conflicting versions of the past in one town, and remains one of the clearest everyday obstacles to a shared civic future and to European integration standards on discrimination in education.",
+    "imageId": "civic-schools"
+  }
 }

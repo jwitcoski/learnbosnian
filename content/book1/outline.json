@@ -4,7 +4,12 @@
   "titleBs": "Nauči bosanski za 30 dana",
   "level": "A1–A2",
   "script": "latin",
-  "cast": ["Ana", "Emir", "Amira", "Mrvica"],
+  "cast": [
+    "Ana",
+    "Emir",
+    "Amira",
+    "Mrvica"
+  ],
   "weeks": [
     {
       "week": 0,
@@ -99,8 +104,8 @@
     {
       "day": 7,
       "week": 1,
-      "title": "Sedmica 1 — ponavljanje",
-      "titleEn": "Week 1 — review",
+      "title": "Ponavljanje",
+      "titleEn": "Review",
       "theme": "Ana’s first-week photo diary",
       "languageFocus": "Review days 1–6",
       "storyBeat": "Photo diary of the first week"
@@ -162,8 +167,8 @@
     {
       "day": 14,
       "week": 2,
-      "title": "Sedmica 2 — ponavljanje",
-      "titleEn": "Week 2 — review",
+      "title": "Ponavljanje",
+      "titleEn": "Review",
       "theme": "Board-game night at Amira’s",
       "languageFocus": "Review days 8–13",
       "storyBeat": "Board-game night"
@@ -225,8 +230,8 @@
     {
       "day": 21,
       "week": 3,
-      "title": "Sedmica 3 — ponavljanje",
-      "titleEn": "Week 3 — review",
+      "title": "Ponavljanje",
+      "titleEn": "Review",
       "theme": "Ana plans a solo weekend",
       "languageFocus": "Review days 15–20",
       "storyBeat": "Ana plans a weekend alone"
