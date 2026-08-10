@@ -41,7 +41,7 @@ Every chapter JSON must include (even review lessons):
 9. Additional resources
 10. Section quiz (4 options, balanced correctIndex)
 11. Dictionary entries for all new words
-12. Bosnia today (civicContext): one fact-based structural pressure on BiH, tied to the lesson theme, with its own image
+12. Bosnia today (civicContext): one paragraph on a fact-based structural pressure on BiH, tied to the lesson theme, with its own image and a Wikipedia or news `learnMore` link
 
 ## Quiz quality
 

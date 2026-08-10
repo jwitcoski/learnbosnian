@@ -87,6 +87,9 @@ for (const ch of chapters) {
 
   if (ch.civicContext) {
     markdown += `## Bosnia today: ${ch.civicContext.title}\n\n${ch.civicContext.body}\n\n`;
+    if (ch.civicContext.learnMore?.url) {
+      markdown += `Read more: [${ch.civicContext.learnMore.label || "Learn more"}](${ch.civicContext.learnMore.url})\n\n`;
+    }
   }
 
   for (const e of ch.dictionaryEntries || []) {

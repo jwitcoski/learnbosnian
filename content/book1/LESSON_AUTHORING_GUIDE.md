@@ -16,7 +16,7 @@ Use this guide for **Lessons 4–30**. Do not invent a new chapter shape. Copy L
 - Never use em dashes (`—`) or en dashes (`–`) as punctuation in chapter JSON or video scripts.
 - Write full sentences in culture, civic, and fun-fact bodies.
 - Keep website UI tips (accent buttons) out of chapter JSON. Book export must stay book-safe.
-- Every drafted lesson needs `civicContext` { title, body, imageId } with a dedicated image: one documented structural pressure on BiH, thematically linked to the lesson.
+- Every drafted lesson needs `civicContext` { title, body, imageId, learnMore: { label, url } } with a dedicated image: one documented structural pressure on BiH, thematically linked to the lesson. Body must be one paragraph. Include a Wikipedia or reputable news `learnMore` link.
 - **Civic backlog:** Brčko District (self-governing city-district under international supervision) is a third unit beside the two entities. Do not cram it into the Lesson 7 entities note. Draft it on Lesson 13 (identity / people of BiH) or another northern/administration lesson.
 
 ## 1. Product promises (every lesson)

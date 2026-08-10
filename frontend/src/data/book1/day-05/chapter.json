@@ -642,7 +642,11 @@
   "imageBriefs": [],
   "civicContext": {
     "title": "Mostar went twelve years without local elections",
-    "body": "Mostar is not only a bridge on a postcard. Disputes over ethnically engineered election rules left the city without local elections from 2008 to 2020. Ordinary municipal democracy froze while power-sharing formulas were fought over in courts and politics. When learners point to Mostar on a map, they should also know this fact: post-war rules can stop a city from voting for more than a decade.",
-    "imageId": "civic-mostar-gov"
+    "body": "Mostar is not only a bridge on a postcard. Disputes over ethnically engineered election rules left the city without local elections from 2008 to 2020, so ordinary municipal democracy froze while power-sharing formulas were fought over in courts and politics. When this lesson asks where Mostar is on the map, it also points to a documented civic failure: post-war rules can stop a city from voting for more than a decade.",
+    "imageId": "civic-mostar-gov",
+    "learnMore": {
+      "label": "Balkan Insight: Mostar finally holds local elections",
+      "url": "https://balkaninsight.com/2020/12/20/bosnia-mostar-holds-first-local-election-in-12-years/"
+    }
   }
 }

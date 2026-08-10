@@ -716,7 +716,11 @@
   "imageBriefs": [],
   "civicContext": {
     "title": "A currency without normal monetary freedom",
-    "body": "Daily life runs on the convertible mark (KM). The Central Bank of Bosnia and Herzegovina operates a currency-board arrangement tied to the euro. That design keeps prices more stable, but it also means the state does not run independent monetary policy the way many countries do. Bosnia and Herzegovina does not print money as a flexible political tool, and it has no flag-carrier national airline of its own today. Small details like café prices sit inside a larger fact: economic sovereignty was constrained by design after the war.",
-    "imageId": "civic-cbbh"
+    "body": "Daily life runs on the convertible mark, and the Central Bank of Bosnia and Herzegovina operates a currency-board arrangement tied to the euro. That design helps keep prices more stable, but it also means the state does not run independent monetary policy the way many countries do, and it does not print money as a flexible political tool. Café prices and wages sit inside a larger fact: after the war, economic sovereignty was constrained by design.",
+    "imageId": "civic-cbbh",
+    "learnMore": {
+      "label": "Wikipedia: Bosnia and Herzegovina convertible mark",
+      "url": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina_convertible_mark"
+    }
   }
 }

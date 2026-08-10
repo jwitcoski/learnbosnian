@@ -761,7 +761,11 @@
   "imageBriefs": [],
   "civicContext": {
     "title": "International oversight still sits above elected offices",
-    "body": "After the 1995 Dayton Peace Agreement, the Office of the High Representative (OHR) was created to oversee civilian implementation of the peace deal. Under the Bonn Powers, the High Representative can impose laws and remove public officials. That means an internationally appointed office can overrule decisions made inside Bosnia and Herzegovina’s elected institutions. Supporters call this a peace guarantee. Critics call it a limit on sovereignty. Both descriptions point to the same documented fact: final say does not always rest with local voters.",
-    "imageId": "civic-ohr"
+    "body": "After the 1995 Dayton Peace Agreement, the Office of the High Representative was created to oversee civilian implementation of the peace deal. Under the Bonn Powers, the High Representative can impose laws and remove public officials, which means an internationally appointed office can overrule decisions made inside Bosnia and Herzegovina’s elected institutions. That arrangement is a documented limit on ordinary sovereignty: final say does not always rest with local voters.",
+    "imageId": "civic-ohr",
+    "learnMore": {
+      "label": "Wikipedia: High Representative for Bosnia and Herzegovina",
+      "url": "https://en.wikipedia.org/wiki/High_Representative_for_Bosnia_and_Herzegovina"
+    }
   }
 }

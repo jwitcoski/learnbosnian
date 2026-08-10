@@ -668,7 +668,11 @@
   "imageBriefs": [],
   "civicContext": {
     "title": "A country with almost no sea door of its own",
-    "body": "Bosnia and Herzegovina’s only coastline is the short stretch at Neum. Most Adriatic freight still depends on access through neighboring Croatia. Croatia’s Pelješac Bridge, opened in 2022, connects Croatian territory around Neum. For BiH traders, sea cargo still means foreign customs regimes rather than a full national deep-water port system. When this lesson mentions Neum as a weekend dream, remember the harder fact beside the beach photo: the state remains structurally dependent on a neighbor for much of its maritime trade access.",
-    "imageId": "civic-peljesac"
+    "body": "Bosnia and Herzegovina’s only coastline is the short stretch at Neum, and most Adriatic freight still depends on access through neighboring Croatia. Croatia’s Pelješac Bridge, opened in 2022, connects Croatian territory around Neum, while BiH traders still face foreign customs regimes rather than a full national deep-water port system. A weekend dream of the coast sits beside that structural fact: the state remains dependent on a neighbor for much of its maritime trade access.",
+    "imageId": "civic-peljesac",
+    "learnMore": {
+      "label": "Wikipedia: Pelješac Bridge",
+      "url": "https://en.wikipedia.org/wiki/Pelje%C5%A1ac_Bridge"
+    }
   }
 }

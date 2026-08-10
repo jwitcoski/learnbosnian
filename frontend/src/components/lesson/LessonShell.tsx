@@ -291,6 +291,17 @@ export default function LessonShell({ chapter }: Props) {
           <h2>Bosnia today</h2>
           <h3>{chapter.civicContext.title}</h3>
           <p>{chapter.civicContext.body}</p>
+          {chapter.civicContext.learnMore?.url && (
+            <p style={{ marginTop: "0.75rem" }}>
+              <a
+                href={chapter.civicContext.learnMore.url}
+                target="_blank"
+                rel="noreferrer"
+              >
+                {chapter.civicContext.learnMore.label || "Read more"}
+              </a>
+            </p>
+          )}
           {(() => {
             const civicImg = images.find(
               (i) => i.id === chapter.civicContext?.imageId

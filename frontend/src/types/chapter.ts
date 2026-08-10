@@ -89,8 +89,14 @@ export type Chapter = {
   /** Fact-based civic note on structural pressures facing BiH, with its own image */
   civicContext?: {
     title: string;
+    /** One paragraph of fact-based context */
     body: string;
     imageId?: string | null;
+    /** Wikipedia or news article for further reading */
+    learnMore: {
+      label: string;
+      url: string;
+    };
   };
   lessonBlocks: {
     id: string;

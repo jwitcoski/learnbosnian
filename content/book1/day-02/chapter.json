@@ -632,7 +632,11 @@
   "imageBriefs": [],
   "civicContext": {
     "title": "Who is allowed to hold the highest offices",
-    "body": "Bosnia and Herzegovina’s constitution reserves key state offices, including the tripartite Presidency and seats in the House of Peoples, for Bosniacs, Croats, and Serbs as “constituent peoples.” Citizens outside those labels, including Jews and Roma, are barred from those posts. In Sejdić and Finci v. Bosnia and Herzegovina (2009), the European Court of Human Rights ruled that this exclusion violates the European Convention on Human Rights. The judgment has not been fully implemented. That unfinished ruling is a documented barrier on the country’s EU path.",
-    "imageId": "civic-presidency"
+    "body": "Bosnia and Herzegovina’s constitution reserves key state offices, including the tripartite Presidency and seats in the House of Peoples, for Bosniacs, Croats, and Serbs as “constituent peoples.” Citizens outside those labels, including Jews and Roma, are barred from those posts. In Sejdić and Finci v. Bosnia and Herzegovina (2009), the European Court of Human Rights ruled that this exclusion violates the European Convention on Human Rights, and the judgment has still not been fully implemented, leaving a documented barrier on the country’s EU path.",
+    "imageId": "civic-presidency",
+    "learnMore": {
+      "label": "Wikipedia: Sejdić and Finci v. Bosnia and Herzegovina",
+      "url": "https://en.wikipedia.org/wiki/Sejdi%C4%87_and_Finci_v._Bosnia_and_Herzegovina"
+    }
   }
 }

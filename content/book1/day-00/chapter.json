@@ -541,7 +541,11 @@
   "imageBriefs": [],
   "civicContext": {
     "title": "Two schools under one roof",
-    "body": "In multiple towns across Bosnia and Herzegovina, children from different ethnic communities share one school building while following separated systems. The practice is often called “two schools under one roof.” Students may use different entrances, teachers, classrooms, and history curricula inside the same facility. International organizations and rights monitors have documented the model for years. It hardens division early, teaches conflicting versions of the past in one town, and remains one of the clearest everyday obstacles to a shared civic future and to European integration standards on discrimination in education.",
-    "imageId": "civic-schools"
+    "body": "In multiple towns across Bosnia and Herzegovina, children from different ethnic communities share one school building while following separated systems, a practice often called “two schools under one roof.” Students may use different entrances, teachers, classrooms, and history curricula inside the same facility, so children in one town can grow up learning conflicting versions of the past. International organizations and rights monitors have documented the model for years as everyday segregation in education and as a barrier to European standards against discrimination.",
+    "imageId": "civic-schools",
+    "learnMore": {
+      "label": "Wikipedia: Two schools under one roof",
+      "url": "https://en.wikipedia.org/wiki/Two_schools_under_one_roof"
+    }
   }
 }
