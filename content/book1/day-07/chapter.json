@@ -569,7 +569,7 @@
     },
     {
       "id": "civic-dayton-map",
-      "alt": "Map-style view of Bosnia and Herzegovina used for the Dayton entities civic note",
+      "alt": "Map-style view of Bosnia and Herzegovina used for the two Dayton entities civic note",
       "localPath": "/images/book1/day-07-civic-entities.png",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnia_and_Herzegovina_location_map.svg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnia_and_Herzegovina_location_map.svg",
@@ -582,7 +582,7 @@
   "imageBriefs": [],
   "civicContext": {
     "title": "A state built so one entity can block the rest",
-    "body": "Dayton divided Bosnia and Herzegovina into two entities, the Federation of BiH and Republika Srpska, plus the Brčko District. Many state decisions require agreement across that structure. The design stopped the war. It also lets obstruction at entity level delay reforms that EU accession demands. A review lesson is a good place to say this plainly: language practice can move every day, while the constitutional machine can still freeze the country in place.",
+    "body": "Dayton divided Bosnia and Herzegovina into two entities: the Federation of BiH and Republika Srpska. Many state decisions require agreement across that structure. The design stopped the war. It also lets obstruction at entity level delay reforms that EU accession demands. A review lesson is a good place to say this plainly: language practice can move every day, while the constitutional machine can still freeze the country in place.",
     "imageId": "civic-dayton-map"
   }
 }

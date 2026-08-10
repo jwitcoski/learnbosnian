@@ -17,6 +17,7 @@ Use this guide for **Lessons 4–30**. Do not invent a new chapter shape. Copy L
 - Write full sentences in culture, civic, and fun-fact bodies.
 - Keep website UI tips (accent buttons) out of chapter JSON. Book export must stay book-safe.
 - Every drafted lesson needs `civicContext` { title, body, imageId } with a dedicated image: one documented structural pressure on BiH, thematically linked to the lesson.
+- **Civic backlog:** Brčko District (self-governing city-district under international supervision) is a third unit beside the two entities. Do not cram it into the Lesson 7 entities note. Draft it on Lesson 13 (identity / people of BiH) or another northern/administration lesson.
 
 ## 1. Product promises (every lesson)
 
