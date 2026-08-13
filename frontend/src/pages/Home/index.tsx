@@ -82,7 +82,7 @@ const Home = () => {
           <h2>One clear path</h2>
           <p>
             Every chapter is drafted and reviewed before it goes live. Sit with a
-            džezva of kahva and follow the same lesson shape each day — goals,
+            džezva of kahva and follow the same lesson shape every time — goals,
             culture, practice, and a quiz.
           </p>
           <SolidCta type="button" onClick={() => history.push("/learn")}>
@@ -94,7 +94,7 @@ const Home = () => {
       <KilimBand aria-hidden />
 
       <Section>
-        <h2>Same lesson shape every day</h2>
+        <h2>Same lesson shape every time</h2>
         <p className="support">
           Goals, culture, vocab, grammar, a puzzle, conversation, practice, fun
           facts, another game, resources, then a section quiz.

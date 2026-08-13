@@ -149,7 +149,7 @@ export default function LessonShell({ chapter }: Props) {
       )}
 
       <Panel id="goals">
-        <h2>Today’s goals</h2>
+        <h2>Lesson goals</h2>
         <h3>Vocabulary</h3>
         <GoalList>
           {chapter.learningGoals.vocabulary.map((g) => (
@@ -202,7 +202,7 @@ export default function LessonShell({ chapter }: Props) {
       <SectionDivider />
 
       <Panel id="vocab">
-        <h2>Words of the day</h2>
+        <h2>Lesson vocabulary</h2>
         <p style={{ color: "var(--color-muted)", marginTop: 0 }}>
           Tap any word to hear it. Loop and slow speed help with shadowing.
         </p>
@@ -472,7 +472,7 @@ export default function LessonShell({ chapter }: Props) {
 
       <Panel id="review-deck">
         <SectionDivider />
-        <ReviewDeck day={chapter.day} todayVocab={chapter.vocabulary || []} />
+        <ReviewDeck day={chapter.day} lessonVocab={chapter.vocabulary || []} />
       </Panel>
 
       {chapter.canDoChecks && chapter.canDoChecks.length > 0 && (

@@ -9,7 +9,7 @@ import {
 
 type Props = {
   day: number;
-  todayVocab: VocabEntry[];
+  lessonVocab: VocabEntry[];
 };
 
 function shuffle<T>(arr: T[]): T[] {
@@ -21,17 +21,17 @@ function shuffle<T>(arr: T[]): T[] {
   return a;
 }
 
-export default function ReviewDeck({ day, todayVocab }: Props) {
+export default function ReviewDeck({ day, lessonVocab }: Props) {
   const seedCards = useMemo(() => {
-    const today: ReviewCard[] = todayVocab.slice(0, 5).map((v) => ({
+    const lesson: ReviewCard[] = lessonVocab.slice(0, 5).map((v) => ({
       id: `d${day}-${v.bosnian}`,
       bosnian: v.bosnian,
       english: v.english,
       day,
     }));
     const prior = getReviewQueue(day).filter((c) => c.day !== day).slice(0, 5);
-    return shuffle([...today, ...prior]).slice(0, 10);
-  }, [day, todayVocab]);
+    return shuffle([...lesson, ...prior]).slice(0, 10);
+  }, [day, lessonVocab]);
 
   const [cards] = useState(seedCards);
   const [idx, setIdx] = useState(0);
@@ -56,7 +56,8 @@ export default function ReviewDeck({ day, todayVocab }: Props) {
     <div>
       <h2>Quick review</h2>
       <p style={{ color: "var(--color-muted)", marginTop: 0 }}>
-        A few words from today plus earlier misses. Flip, then mark how it went.
+        A few words from this lesson plus earlier misses. Flip, then mark how it
+        went.
       </p>
       {done ? (
         <p style={{ fontWeight: 700, color: "var(--color-sage)" }}>

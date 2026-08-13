@@ -113,7 +113,7 @@ File: `content/book1/day-XX/video-script.md`
 | Time | Beat | Content |
 |------|------|---------|
 | 0:00 | Cold open | Lesson N title BS/EN |
-| 0:40 | Goals | Today’s three goals |
+| 0:40 | Goals | Lesson goals |
 | 1:30 | Culture hook | Place/ritual + image credit note |
 | 3:00 | Lesson A | Same as block A; on-screen cards |
 | 5:00 | Lesson B | Same as block B; phrase cards |
