@@ -705,13 +705,13 @@
   "imagesNeeded": false,
   "imageBriefs": [],
   "civicContext": {
-    "title": "Housing return still unfinished decades later",
-    "body": "After the war, hundreds of thousands of people were displaced, and property restitution and return programs never fully closed every case. A rented room above a café can feel settled while the wider housing map still carries contested apartments, delayed returns, and uneven reconstruction. Home vocabulary is intimate, and the civic file behind it remains unfinished.",
-    "imageId": "civic-apartment",
+    "title": "Return and property claims are still unfinished",
+    "body": "The war displaced hundreds of thousands of people from their homes across Bosnia and Herzegovina. Annex 7 of the Dayton Peace Agreement promised the right to return and reclaim property, but many restitution cases, damaged apartments, and contested ownership claims remained unresolved for years. Even today, some families are still waiting for permanent housing solutions that the peace settlement said should come much sooner.",
     "learnMore": {
-      "label": "Wikipedia: Residential property in Bosnia and Herzegovina",
+      "label": "Wikipedia: Annex 7 of the Dayton Agreement",
       "url": "https://en.wikipedia.org/wiki/Annex_7_of_the_Dayton_Agreement"
-    }
+    },
+    "imageId": "civic-apartment"
   },
   "authenticListen": {
     "title": "Čuj Bosnu: living-room furniture words",

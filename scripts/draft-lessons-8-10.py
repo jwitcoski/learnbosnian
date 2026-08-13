@@ -407,8 +407,8 @@ def build_lesson_8(images: list) -> dict:
         "imagesNeeded": False,
         "imageBriefs": [],
         "civicContext": {
-            "title": "A country that still imports too much of what it eats",
-            "body": "Bosnia and Herzegovina’s small farms and fragmented land ownership never fully rebuilt a strong national food system after the war, so shops and bakeries still lean on imports for staples even while local pita culture thrives. Loving burek on a street corner sits beside that quieter pressure: culinary pride is local, but the grocery supply chain often is not.",
+            "title": "Local food culture, imported staples",
+            "body": "Bosnia and Herzegovina still depends heavily on imported food even though street food and home cooking are central to daily life. After the war, fragmented farmland and weak agricultural investment slowed the recovery of domestic production, so bakeries and shops often stock flour, oil, dairy, and other staples from abroad. Local pita culture is strong, but the grocery supply behind it is still shaped by that import dependence.",
             "imageId": "civic-livno-valley",
             "learnMore": {
                 "label": "Wikipedia: Agriculture in Bosnia and Herzegovina",
@@ -730,8 +730,8 @@ def build_lesson_9(images: list) -> dict:
         "imagesNeeded": False,
         "imageBriefs": [],
         "civicContext": {
-            "title": "Industrial cities still carry the weight of transition",
-            "body": "Tuzla grew as an industrial and energy hub, and after the war its workers faced plant closures, privatization fights, and long job insecurity while retail and services filled some gaps. A friendly market queue for apples sits next to that harder fact: many northern towns still negotiate what replaces old industrial wages.",
+            "title": "Tuzla’s factories closed faster than new jobs arrived",
+            "body": "Tuzla was one of Bosnia and Herzegovina’s major industrial and energy centers, with mining, chemicals, and related plants employing large parts of the region. After the war, many of those workplaces shrank or closed through damage, privatization, and market collapse, leaving long stretches of unemployment and insecure work. Markets and small shops kept daily life moving, but they did not replace the steady industrial wages that once supported whole neighborhoods.",
             "imageId": "civic-tuzla-museum",
             "learnMore": {
                 "label": "Wikipedia: Tuzla",
@@ -1054,8 +1054,8 @@ def build_lesson_10(images: list) -> dict:
         "imagesNeeded": False,
         "imageBriefs": [],
         "civicContext": {
-            "title": "Housing return still unfinished decades later",
-            "body": "After the war, hundreds of thousands of people were displaced, and property restitution and return programs never fully closed every case. A rented room above a café can feel settled while the wider housing map still carries contested apartments, delayed returns, and uneven reconstruction. Home vocabulary is intimate, and the civic file behind it remains unfinished.",
+            "title": "Return and property claims are still unfinished",
+            "body": "The war displaced hundreds of thousands of people from their homes across Bosnia and Herzegovina. Annex 7 of the Dayton Peace Agreement promised the right to return and reclaim property, but many restitution cases, damaged apartments, and contested ownership claims remained unresolved for years. Even today, some families are still waiting for permanent housing solutions that the peace settlement said should come much sooner.",
             "imageId": "civic-apartment",
             "learnMore": {
                 "label": "Wikipedia: Residential property in Bosnia and Herzegovina",

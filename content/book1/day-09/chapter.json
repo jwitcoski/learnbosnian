@@ -700,13 +700,13 @@
   "imagesNeeded": false,
   "imageBriefs": [],
   "civicContext": {
-    "title": "Industrial cities still carry the weight of transition",
-    "body": "Tuzla grew as an industrial and energy hub, and after the war its workers faced plant closures, privatization fights, and long job insecurity while retail and services filled some gaps. A friendly market queue for apples sits next to that harder fact: many northern towns still negotiate what replaces old industrial wages.",
-    "imageId": "civic-tuzla-museum",
+    "title": "Tuzla’s factories closed faster than new jobs arrived",
+    "body": "Tuzla was one of Bosnia and Herzegovina’s major industrial and energy centers, with mining, chemicals, and related plants employing large parts of the region. After the war, many of those workplaces shrank or closed through damage, privatization, and market collapse, leaving long stretches of unemployment and insecure work. Markets and small shops kept daily life moving, but they did not replace the steady industrial wages that once supported whole neighborhoods.",
     "learnMore": {
       "label": "Wikipedia: Tuzla",
       "url": "https://en.wikipedia.org/wiki/Tuzla"
-    }
+    },
+    "imageId": "civic-tuzla-museum"
   },
   "authenticListen": {
     "title": "Čuj Bosnu: shopping phrases in lesson speech",
