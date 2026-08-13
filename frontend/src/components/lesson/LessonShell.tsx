@@ -102,9 +102,9 @@ export default function LessonShell({ chapter }: Props) {
   } = useClipAudio();
   const book = chapter.book || 1;
 
-  const [listenFirstDone, setListenFirstDone] = useState<Record<string, boolean>>(
-    {}
-  );
+  /** Opt-in: hide Bosnian spelling until the learner taps to listen. */
+  const [listenChallenge, setListenChallenge] = useState(false);
+  const [revealedIds, setRevealedIds] = useState<Record<string, boolean>>({});
   const [attemptsUsed, setAttemptsUsed] = useState(() =>
     getSpeakAttempts(chapter.day)
   );
@@ -205,10 +205,11 @@ export default function LessonShell({ chapter }: Props) {
       <SectionDivider />
 
       <Panel id="vocab">
-        <h2>Words for today</h2>
+        <h2>Words of the day</h2>
         <p style={{ color: "var(--color-muted)", marginTop: 0 }}>
-          Listen first, then reveal the spelling. Tap again anytime to loop the
-          sound.
+          {listenChallenge
+            ? "English stays visible. Tap a card to hear the Bosnian word and reveal the spelling."
+            : "Tap any card to hear it. Use Listen challenge to hide spellings and practice by ear."}
         </p>
         <div
           style={{
@@ -218,6 +219,15 @@ export default function LessonShell({ chapter }: Props) {
             marginBottom: "0.75rem",
           }}
         >
+          <PrimaryButton
+            type="button"
+            onClick={() => {
+              setListenChallenge((on) => !on);
+              setRevealedIds({});
+            }}
+          >
+            {listenChallenge ? "Show all spellings" : "Listen challenge"}
+          </PrimaryButton>
           <PrimaryButton
             type="button"
             onClick={() => setLooping(!loop)}
@@ -236,18 +246,27 @@ export default function LessonShell({ chapter }: Props) {
             const clipId = vocabClipId(book, chapter.day, v.bosnian);
             const isPlaying = playingId === clipId;
             const isMissing = Boolean(missing[clipId]);
-            const revealed = listenFirstDone[clipId];
+            const revealed =
+              !listenChallenge || Boolean(revealedIds[clipId]) || isMissing;
             return (
               <VocabCard
                 key={v.bosnian}
                 type="button"
                 onClick={() => {
-                  playClip(clipId, { loop, rate });
-                  setListenFirstDone((m) => ({ ...m, [clipId]: true }));
+                  if (!isMissing) {
+                    playClip(clipId, { loop, rate });
+                  }
+                  if (listenChallenge) {
+                    setRevealedIds((m) => ({ ...m, [clipId]: true }));
+                  }
                 }}
                 data-playing={isPlaying ? "true" : "false"}
                 data-missing={isMissing ? "true" : "false"}
-                aria-label={`Play pronunciation for ${v.bosnian}`}
+                aria-label={
+                  revealed
+                    ? `Play pronunciation for ${v.bosnian}`
+                    : `Listen for the Bosnian word meaning ${v.english}`
+                }
               >
                 {revealed ? (
                   <>
@@ -260,7 +279,7 @@ export default function LessonShell({ chapter }: Props) {
                 ) : (
                   <>
                     <div className="bs">?</div>
-                    <div className="en">Listen first</div>
+                    <div className="en">{v.english}</div>
                   </>
                 )}
                 <div className="listen">
