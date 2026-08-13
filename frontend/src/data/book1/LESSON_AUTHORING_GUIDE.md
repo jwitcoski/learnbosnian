@@ -16,6 +16,7 @@ Use this guide for **Lessons 4–30**. Do not invent a new chapter shape. Copy L
 - Never use em dashes (`—`) or en dashes (`–`) as punctuation in chapter JSON or video scripts.
 - Write full sentences in culture, civic, and fun-fact bodies.
 - Keep website UI tips (accent buttons) out of chapter JSON. Book export must stay book-safe.
+- Civic and fun-fact bodies use **Thesis → support → summary** (complete sentences, no colon-rant endings)
 - Every drafted lesson needs `civicContext` { title, body, imageId, learnMore: { label, url } } with a dedicated image: one documented structural pressure on BiH, thematically linked to the lesson. Body must be one paragraph. Include a Wikipedia or reputable news `learnMore` link.
 - Every drafted lesson needs `authenticListen` (Čuj Bosnu): one song or non-course speaker clip with listen-first gist task. Rights-safe embed/`clipId` only. Not studio cast dialogue audio.
 - Every `sectionQuiz` question should set `skill` (`vocabulary` | `grammar` | `dialogue` | `culture` | `listening`) for remediation links.
