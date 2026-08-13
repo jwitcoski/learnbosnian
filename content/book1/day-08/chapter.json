@@ -700,13 +700,13 @@
   "imagesNeeded": false,
   "imageBriefs": [],
   "civicContext": {
-    "title": "A country that still imports too much of what it eats",
-    "body": "Bosnia and Herzegovina’s small farms and fragmented land ownership never fully rebuilt a strong national food system after the war, so shops and bakeries still lean on imports for staples even while local pita culture thrives. Loving burek on a street corner sits beside that quieter pressure: culinary pride is local, but the grocery supply chain often is not.",
-    "imageId": "civic-livno-valley",
+    "title": "Local food culture, imported staples",
+    "body": "Bosnia and Herzegovina still depends heavily on imported food even though street food and home cooking are central to daily life. After the war, fragmented farmland and weak agricultural investment slowed the recovery of domestic production, so bakeries and shops often stock flour, oil, dairy, and other staples from abroad. Local pita culture is strong, but the grocery supply behind it is still shaped by that import dependence.",
     "learnMore": {
       "label": "Wikipedia: Agriculture in Bosnia and Herzegovina",
       "url": "https://en.wikipedia.org/wiki/Agriculture_in_Bosnia_and_Herzegovina"
-    }
+    },
+    "imageId": "civic-livno-valley"
   },
   "authenticListen": {
     "title": "Čuj Bosnu: Dino Merlin sings Burek",
