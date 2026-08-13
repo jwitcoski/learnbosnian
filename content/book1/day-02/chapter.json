@@ -11,14 +11,14 @@
   "storyBeat": "Ana meets Emir at the Sebilj fountain and learns to introduce herself.",
   "learningGoals": {
     "vocabulary": [
-      "Personal pronouns: ja, ti, on, ona",
-      "Introductions: zovem se, ime, iz, drago mi je",
-      "Key place word: Sebilj"
+      "Use the personal pronouns ja, ti, on, and ona",
+      "Introduce yourself with zovem se, ime, iz, and drago mi je",
+      "Learn the place word Sebilj"
     ],
     "grammar": [
-      "Present of biti (to be): sam / si / je",
-      "Ja sam… and Zovem se… for introductions",
-      "Simple On je… / Ona je… sentences"
+      "Use the present of biti with sam, si, and je",
+      "Introduce yourself with Ja sam and Zovem se",
+      "Build simple On je and Ona je sentences"
     ],
     "culture": [
       "Sebilj as Baščaršija’s meeting fountain",
@@ -128,7 +128,7 @@
   "grammar": [
     {
       "title": "biti. sam, si, je",
-      "explanation": "The verb biti means to be. Beginners live on three short forms: ja sam (I am), ti si (you are), on/ona je (he/she is). You will hear longer forms (jesam, jesi…) in careful speech, but everyday talk loves the short ones. Put the pronoun first when you want clarity: Ja sam Ana.",
+      "explanation": "The verb biti means to be. Beginners live on three short forms. Say ja sam for I am. Say ti si for you are. Say on je or ona je for he is or she is. Put the pronoun first when you want clarity. Say Ja sam Ana.",
       "examples": [
         {
           "bosnian": "Ja sam Ana.",
@@ -168,7 +168,7 @@
     },
     {
       "title": "iz. saying where you are from",
-      "explanation": "Use iz + place for origin: Ja sam iz Amerike. Emir je iz Sarajeva. You do not need full case tables yet. learn a few ready-made chunks and swap the place name.",
+      "explanation": "Use iz plus a place for origin. Say Ja sam iz Amerike. Say Emir je iz Sarajeva. You do not need full case tables yet.",
       "examples": [
         {
           "bosnian": "Ja sam iz Amerike.",
@@ -194,19 +194,19 @@
     {
       "id": "a",
       "title": "Lesson A: Pronouns and biti",
-      "body": "Learn four pronouns today: ja (I), ti (you informal), on (he), ona (she). Pair them with biti: ja sam, ti si, on je, ona je. Say them aloud until they feel automatic. Then build tiny truths: Ja sam Ana. Ti si Emir. On je vodič. Ona je prijateljica. we will meet more “she” words soon; for now Ona je Ana is enough. Tip: beginners often drop the pronoun when the verb form is clear (Sam Ana), but keeping Ja sam Ana is clearer and friendlier while you learn.",
+      "body": "Learn four pronouns in this lesson. Ja means I. Ti means you in informal speech. On means he. Ona means she. Pair them with biti. Say ja sam, ti si, on je, and ona je. Say them aloud until they feel automatic. Then build tiny truths. Say Ja sam Ana. Say Ti si Emir. Say On je vodič. Say Ona je prijateljica. We will meet more she words soon. For now Ona je Ana is enough. Beginners often drop the pronoun when the verb form is clear, but keeping Ja sam Ana is clearer and friendlier while you learn.",
       "tips": [
-        "Drill: ja sam · ti si · on je · ona je",
-        "Keep the pronoun when you introduce yourself: Ja sam…"
+        "Drill ja sam, ti si, on je, and ona je.",
+        "Keep the pronoun when you introduce yourself with Ja sam."
       ]
     },
     {
       "id": "b",
       "title": "Lesson B: Meeting Emir",
-      "body": "At Sebilj, Ana needs a meeting script. Start with a greeting from Lesson 1 (Zdravo! or Dobar dan!). Then: Zovem se Ana. Or: Ja sam Ana. Add origin if you want: Ja sam iz Amerike. When Emir answers, reply Drago mi je! Listen for On je Emir / Ja sam Emir / Zovem se Emir. all fine. End with a smile and maybe Hvala when he offers help. Tomorrow you will drink kahva with Amira; today you only need to be Ana.",
+      "body": "At Sebilj, Ana needs a meeting script. Start with a greeting from Lesson 1, such as Zdravo! or Dobar dan! Then say Zovem se Ana. Or say Ja sam Ana. Add origin if you want with Ja sam iz Amerike. When Emir answers, reply Drago mi je! Listen for On je Emir, Ja sam Emir, or Zovem se Emir. All of those are fine. End with a smile and maybe Hvala when he offers help. Tomorrow you will drink kahva with Amira. In this lesson you only need to be Ana.",
       "tips": [
-        "Meeting kit: Zdravo → Ja sam… / Zovem se… → Drago mi je",
-        "Reuse Lesson 1 greetings; do not invent new ones yet"
+        "Meeting order is Zdravo, then Ja sam or Zovem se, then Drago mi je.",
+        "Reuse Lesson 1 greetings. Do not invent new ones yet."
       ]
     }
   ],

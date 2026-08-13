@@ -21,7 +21,7 @@
       "Match gladan and gladna to the speaker"
     ],
     "culture": [
-      "In BiH, burek means meat, and cheese pie is sirnica",
+      "In Bosnia and Herzegovina, burek means meat, and cheese pie is sirnica",
       "See Livno highland cheese beyond the café street"
     ]
   },
@@ -200,7 +200,7 @@
     {
       "id": "a",
       "title": "Lesson A: Food words on the tray",
-      "body": "Start with the classics on the tray. Burek is the meat pastry. Sirnica is the cheese pita. Zeljanica is the greens pita. Pita is the general word for a phyllo pie. Add hljeb, jogurt, meso, sir, voće, and povrće next. Say each word twice. Mark the BiH spelling of hljeb with lj. Emir points at the tray and refuses the tourist trap sentence burek sa sirom. In Bosnian that fight is real. Burek comes with meat.",
+      "body": "Start with the classics on the tray. Burek is the meat pastry. Sirnica is the cheese pita. Zeljanica is the greens pita. Pita is the general word for a phyllo pie. Add hljeb, jogurt, meso, sir, voće, and povrće next. Say each word twice. Spell bread as hljeb, with lj, the way Bosnian usually writes it. Emir points at the tray and refuses the tourist trap sentence burek sa sirom. In Bosnian that fight is real. Burek comes with meat.",
       "tips": [
         "Burek is meat. Sirnica is cheese. Zeljanica is greens.",
         "Type hljeb with lj, not a soft English h-leb guess"
@@ -295,10 +295,10 @@
       "id": "p2",
       "type": "truefalse",
       "title": "True or false: food rules",
-      "prompt": "Mark each sentence true or false for BiH usage in this lesson.",
+      "prompt": "Mark each sentence true or false for Bosnian usage in this lesson.",
       "items": [
         {
-          "statement": "In BiH, burek means a meat pita.",
+          "statement": "In Bosnia and Herzegovina, burek means a meat pita.",
           "answer": true
         },
         {
@@ -349,7 +349,7 @@
     },
     {
       "id": "pr6",
-      "prompt": "Write the BiH spelling for bread.",
+      "prompt": "Write the Bosnian spelling for bread.",
       "hint": "hl-",
       "answer": "hljeb"
     },
@@ -373,7 +373,7 @@
     },
     {
       "title": "Livanjski sir",
-      "body": "Livno is famous for highland cheese, not only for mountain views. Livanjski sir comes from western Bosnia pastures with a long dairy tradition. Emir’s postcard uses that fame to pull Ana’s food map outside one city street. When you learn food words today, remember that BiH dairy pride has regional addresses."
+      "body": "Livno is famous for highland cheese, not only for mountain views. Livanjski sir comes from western Bosnia pastures with a long dairy tradition. Emir’s postcard uses that fame to pull Ana’s food map outside one city street. When you learn food words today, remember that dairy pride across Bosnia and Herzegovina has regional addresses."
     },
     {
       "title": "Jogurt is a partner",
@@ -407,7 +407,7 @@
     "questions": [
       {
         "id": "q1",
-        "prompt": "What does burek mean in BiH in this lesson?",
+        "prompt": "What does burek mean in Bosnia and Herzegovina in this lesson?",
         "options": [
           "Any pita",
           "Meat pastry",

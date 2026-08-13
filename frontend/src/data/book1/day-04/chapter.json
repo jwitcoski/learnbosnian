@@ -11,14 +11,14 @@
   "storyBeat": "Mrvica adopts Ana; Amira’s café regulars start to feel like family.",
   "learningGoals": {
     "vocabulary": [
-      "Family words: majka, otac, sestra, brat, baba, djed, sin, kći",
-      "Café circle: porodica, prijatelj, prijateljica, mačka",
-      "Possessives: moj / moja, tvoj / tvoja"
+      "Name majka, otac, sestra, brat, baba, djed, sin, and kći",
+      "Use porodica, prijatelj, prijateljica, and mačka around the café",
+      "Use the possessives moj, moja, tvoj, and tvoja"
     ],
     "grammar": [
-      "Gender intro: masculine vs feminine nouns",
-      "Moj/moja and tvoj/tvoja agreement",
-      "Saying who someone is: Ona je… / On je…"
+      "Notice masculine versus feminine nouns",
+      "Match moj or moja and tvoj or tvoja to the noun",
+      "Say who someone is with Ona je and On je"
     ],
     "culture": [
       "Café regulars as chosen family in Sarajevo",
@@ -142,7 +142,7 @@
   "grammar": [
     {
       "title": "Gender intro. he or she words",
-      "explanation": "Many Bosnian nouns feel masculine or feminine. A quick beginner tip: words ending in -a are often feminine (majka, sestra, mačka, porodica). Short words without -a are often masculine (otac, brat, sin, djed). You will meet exceptions later. for today, notice the pattern and match moj/moja to it.",
+      "explanation": "Many Bosnian nouns feel masculine or feminine. A quick beginner tip helps. Words ending in -a are often feminine, such as majka, sestra, mačka, and porodica. Short words without that ending are often masculine in this lesson, such as otac, brat, and djed.",
       "examples": [
         {
           "bosnian": "sestra, majka, mačka",
@@ -160,7 +160,7 @@
     },
     {
       "title": "Moj / moja and tvoj / tvoja",
-      "explanation": "Moj = my before a masculine noun. Moja = my before a feminine noun. Same split for your (informal): tvoj / tvoja. Say Moj brat and Moja sestra. Do not mix them yet. matching gender is the whole game.",
+      "explanation": "Moj means my before a masculine noun. Moja means my before a feminine noun. The same split holds for informal your with tvoj and tvoja. Say Moj brat and Moja sestra. Do not mix them yet.",
       "examples": [
         {
           "bosnian": "Moj otac. Moja majka.",
@@ -204,19 +204,19 @@
     {
       "id": "a",
       "title": "Lesson A: Family words + gender",
-      "body": "Build the tree: majka, otac, sestra, brat, baba, djed, sin, kći. Say each aloud twice. Mark the -a words as feminine in your notes. Add porodica (family) and mačka (cat). Ana draws a tiny family tree in her notebook. then draws Mrvica at the top. Emir laughs: To je porodica Mrvice!",
+      "body": "Build the family tree with majka, otac, sestra, brat, baba, djed, sin, and kći. Say each word aloud twice. Mark the -a words as feminine in your notes. Add porodica for family and mačka for cat. Ana draws a tiny family tree in her notebook, then draws Mrvica at the top. Emir laughs and says To je porodica Mrvice!",
       "tips": [
-        "-a endings often = feminine for this lesson’s nouns",
-        "kći needs ć. include the special letter"
+        "For this lesson’s nouns, -a endings are often feminine.",
+        "Kći needs ć. Include the special letter."
       ]
     },
     {
       "id": "b",
       "title": "Lesson B: Moj / moja at Amira’s",
-      "body": "Claim people with possessives: Moj prijatelj Emir. Moja prijateljica Amira. Moja mačka? Mrvica decides that Ana is hers. Practice pairs: Moj otac / Moja majka, Tvoj brat / Tvoja sestra. Walk the café and point: Ona je Amira. On je Emir. Ona je Mrvica. Today’s win is short true sentences, not a full case chart.",
+      "body": "Claim people with possessives. Say Moj prijatelj Emir. Say Moja prijateljica Amira. Ask Moja mačka? Mrvica decides that Ana is hers. Practice the pairs Moj otac and Moja majka, then Tvoj brat and Tvoja sestra. Walk the café and point. Say Ona je Amira. Say On je Emir. Say Ona je Mrvica. The win in this lesson is short true sentences, not a full case chart.",
       "tips": [
-        "Kit: Moj… · Moja… · On je… · Ona je…",
-        "Match moj/moja to the noun’s gender"
+        "Keep Moj, Moja, On je, and Ona je ready.",
+        "Match moj or moja to the noun’s gender."
       ]
     }
   ],

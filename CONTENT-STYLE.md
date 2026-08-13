@@ -9,10 +9,11 @@
 - **Book vs website:** Chapter JSON is book-safe. Do not put “tap the accent buttons” or other website-only UI instructions in chapter content. Website components may show accent-button help on their own.
 
 - **Latin script only.** Never teach or display Cyrillic.
-- Teach **standard Bosnian (BiH)** forms used in everyday speech.
+- Teach **standard Bosnian** forms used in everyday speech in Bosnia and Herzegovina.
 - Do **not** add “also in Croatian…” or “Serbian says…” sidebars. Stay Bosnian-focused.
 - **Exception for Lesson 0 only:** a short, respectful orientation may explain how Bosnian relates to Croatian/Serbian (mutual intelligibility, separate standards, identity). Do not teach Croatian or Serbian forms. Lessons 1 to 30 stay Bosnian-only.
-- Prefer common Bosnian spellings: *kahva*, *hljeb*, *mlijeko*, *općina* when those are the natural BiH forms in context.
+- Prefer common Bosnian spellings: *kahva*, *hljeb*, *mlijeko*, *općina* when those are the natural forms in Bosnia and Herzegovina.
+- **No unexplained BiH:** Do not write `BiH` in learner-facing English as if everyone knows the joke. Spell out **Bosnia and Herzegovina**, or say **Bosnian** for language/spelling (`Bosnian spelling`, not `BiH spelling`). Lesson 0 may teach the abbreviation BiH once, with a plain gloss. Bosnian lesson titles may keep BiH when that is the real local short form (`Ljudi iz BiH`), but the English title must spell the country out.
 - Gloss every new Bosnian word in English the first time it appears in a section.
 - Keep grammar bites small: one main idea per lesson block.
 

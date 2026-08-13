@@ -3,7 +3,7 @@
   "book": 1,
   "title": "Koliko je sati?",
   "titleEn": "What time is it?",
-  "theme": "Clocks and daily rhythm across BiH",
+  "theme": "Clocks and daily rhythm across Bosnia and Herzegovina",
   "status": "draft",
   "reviewedAt": null,
   "reviewerNotes": "Revised for BiH geographic diversity (Travnik, Una/Bihać, Neum) and accurate Travnik sahat-kula art. ready for human review.",
@@ -11,18 +11,18 @@
   "storyBeat": "Emir teaches Ana the time, then shows that Bosnia’s rhythm is bigger than one city: Travnik’s sahat-kula, Una mornings near Bihać, and weekend dreams of Neum.",
   "learningGoals": {
     "vocabulary": [
-      "Clock question: Koliko je sati?",
-      "Parts of day: jutro, podne, popodne, večer",
-      "Days: danas, sutra + weekdays ponedjeljak. nedjelja"
+      "Ask the clock question Koliko je sati?",
+      "Name jutro, podne, popodne, and večer",
+      "Use danas, sutra, and the weekdays from ponedjeljak to nedjelja"
     ],
     "grammar": [
-      "Asking and answering the hour with sat/sati",
-      "Danas / sutra for today and tomorrow",
-      "Weekday names as ready-made words"
+      "Ask and answer the hour with sat and sati",
+      "Use danas and sutra for today and tomorrow",
+      "Learn weekday names as ready-made words"
     ],
     "culture": [
-      "Sahat-kule (clock towers) in towns across BiH. not only Sarajevo",
-      "Travnik under Vlašić; Una near Bihać; Neum on the Adriatic"
+      "See sahat-kule clock towers in towns across Bosnia and Herzegovina, not only Sarajevo",
+      "Visit Travnik under Vlašić, the Una near Bihać, and Neum on the Adriatic"
     ]
   },
   "vocabulary": [
@@ -142,7 +142,7 @@
   "grammar": [
     {
       "title": "Koliko je sati?",
-      "explanation": "Ask the time with Koliko je sati? Answer with a number from Lesson 3 plus sat or sati. Jedan je sat (1:00). For 2. 4 you will often hear dva/tri/četiri sata in real speech. for this lesson, memorize the friendly pattern X je sati for 5. 12 and Jedan je sat for 1. Also say U osam sati (at eight o’clock) as a chunk.",
+      "explanation": "Ask the time with Koliko je sati? Answer with a number from Lesson 3 plus sat or sati. Say Jedan je sat for one o’clock. For two through four you will often hear sati. Keep the chunk short and clear.",
       "examples": [
         {
           "bosnian": "Koliko je sati?",
@@ -160,7 +160,7 @@
     },
     {
       "title": "Danas and sutra",
-      "explanation": "Danas = today. Sutra = tomorrow. Pair them with a weekday: Danas je petak. Sutra je subota. You can also place plans: Sutra u deset sati. kod Amire.",
+      "explanation": "Danas means today. Sutra means tomorrow. Pair them with a weekday. Say Danas je petak. Say Sutra je subota. You can also place plans with Sutra u deset sati.",
       "examples": [
         {
           "bosnian": "Danas je petak.",
@@ -178,7 +178,7 @@
     },
     {
       "title": "Weekdays. chant the week",
-      "explanation": "Learn the seven days as a list: ponedjeljak, utorak, srijeda, četvrtak, petak, subota, nedjelja. Watch četvrtak (č) and srijeda / nedjelja. Do not worry about full case endings yet. say Danas je… + the day name.",
+      "explanation": "Learn the seven days as a list. The words are ponedjeljak, utorak, srijeda, četvrtak, petak, subota, and nedjelja. Watch the special letters in srijeda and četvrtak.",
       "examples": [
         {
           "bosnian": "ponedjeljak, utorak, srijeda",
@@ -204,19 +204,19 @@
     {
       "id": "a",
       "title": "Lesson A: Ask the time",
-      "body": "Drill Koliko je sati? then answer with Lesson 3 numbers: Pet je sati. Osam je sati. Deset je sati. Jedan je sat. Add place chunks: U osam sati (kod Amire. U dvanaest sati) podne. Emir flips a postcard of Travnik’s sahat-kula while Ana practices. the same question works in every Bosnian town. Ana still says Kasno je! when she is late for kahva.",
+      "body": "Drill Koliko je sati? Then answer with Lesson 3 numbers. Say Pet je sati. Say Osam je sati. Say Deset je sati. Say Jedan je sat. Add place chunks such as U osam sati kod Amire and U dvanaest sati for podne. Emir flips a postcard of Travnik’s sahat-kula while Ana practices. The same question works in every Bosnian town. Ana still says Kasno je! when she is late for kahva.",
       "tips": [
-        "Question kit: Koliko je sati?",
-        "Reuse numbers 1. 12 from Lesson 3"
+        "Ask with Koliko je sati?",
+        "Reuse numbers one through twelve from Lesson 3."
       ]
     },
     {
       "id": "b",
       "title": "Lesson B: Days and the week’s plan",
-      "body": "Chant the weekdays twice. Then build real lines: Danas je petak. Sutra je subota. Mark parts of day: jutro, podne, popodne, večer. Emir sketches a wider week on a napkin: subota (Una? nedjelja) Neum san? For now they stay in Sarajevo, but sutra always points somewhere on the map of BiH. End with one plan: Sutra u deset sati, kod Amire!",
+      "body": "Chant the weekdays twice. Then build real lines. Say Danas je petak. Say Sutra je subota. Mark the parts of day with jutro, podne, popodne, and večer. Emir sketches a wider week on a napkin and teases subota by the Una and nedjelja dreams of Neum. For now they stay in Sarajevo, but sutra always points somewhere on the map of Bosnia and Herzegovina. End with one plan. Say Sutra u deset sati, kod Amire!",
       "tips": [
-        "Danas / sutra + weekday",
-        "četvrtak and srijeda need careful letters"
+        "Pair danas or sutra with a weekday.",
+        "Četvrtak and srijeda need careful letters."
       ]
     }
   ],
@@ -377,7 +377,7 @@
   "funFacts": [
     {
       "title": "Travnik and Vlašić",
-      "body": "Travnik has its own central-Bosnia weight on the map. It was a major Ottoman administrative centre under Mount Vlašić. Its sahat-kula still marks the town’s skyline. When you practice clock time, remember that BiH history is not only a Sarajevo footnote."
+      "body": "Travnik has its own central-Bosnia weight on the map. It was a major Ottoman administrative centre under Mount Vlašić. Its sahat-kula still marks the town’s skyline. When you practice clock time, remember that Bosnian history is not only a Sarajevo footnote."
     },
     {
       "title": "Many sahat-kule",
@@ -401,7 +401,7 @@
     {
       "label": "Next: Lesson 7: Ponavljanje",
       "url": "/learn/lesson/7",
-      "note": "Review lesson with postcards from across BiH"
+      "note": "Review lesson with postcards from across Bosnia and Herzegovina"
     },
     {
       "label": "Book 1 curriculum",
@@ -676,7 +676,7 @@
   "imageBriefs": [],
   "civicContext": {
     "title": "A country with almost no sea door of its own",
-    "body": "Bosnia and Herzegovina has almost no independent door to the sea. Its only coastline is the short stretch at Neum, and much Adriatic freight still depends on access through Croatia. Croatia’s Pelješac Bridge, opened in 2022, connects Croatian territory around Neum, while BiH traders still face foreign customs regimes rather than a full national deep-water port system. A weekend plan for the coast therefore sits inside a larger dependence on a neighbor for much of the country’s maritime trade access.",
+    "body": "Bosnia and Herzegovina has almost no independent door to the sea. Its only coastline is the short stretch at Neum, and much Adriatic freight still depends on access through Croatia. Croatia’s Pelješac Bridge, opened in 2022, connects Croatian territory around Neum, while traders in Bosnia and Herzegovina still face foreign customs regimes rather than a full national deep-water port system. A weekend plan for the coast therefore sits inside a larger dependence on a neighbor for much of the country’s maritime trade access.",
     "imageId": "civic-peljesac",
     "learnMore": {
       "label": "Wikipedia: Pelješac Bridge",

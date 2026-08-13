@@ -3,7 +3,7 @@
   "book": 1,
   "title": "Gdje je Mostar?",
   "titleEn": "Where is Mostar?",
-  "theme": "Map of BiH; Mostar tease",
+  "theme": "Map of Bosnia and Herzegovina; Mostar tease",
   "status": "draft",
   "reviewedAt": null,
   "reviewerNotes": "Full draft to Lesson 1 exemplar bar. ready for human review before publish.",
@@ -11,18 +11,18 @@
   "storyBeat": "Emir unfolds a map and teases a future Mostar trip while Ana learns place words.",
   "learningGoals": {
     "vocabulary": [
-      "Place words: grad, most, rijeka, mapa, Mostar, Sarajevo",
-      "Location adverbs: gdje, ovdje, tamo",
-      "Prepositions: u, na, kod"
+      "Use the place words grad, most, rijeka, mapa, Mostar, and Sarajevo",
+      "Use the location words gdje, ovdje, and tamo",
+      "Use the prepositions u, na, and kod"
     ],
     "grammar": [
-      "Asking Gdje je…?",
-      "Answering with ovdje / tamo",
-      "Simple place chunks: u Sarajevu, na mapi, kod Amire"
+      "Ask Gdje je…?",
+      "Answer with ovdje or tamo",
+      "Use simple place chunks such as u Sarajevu, na mapi, and kod Amire"
     ],
     "culture": [
-      "Bosnia and Herzegovina on the map",
-      "Mostar and Stari Most as a future trip tease"
+      "See Bosnia and Herzegovina on the map",
+      "Meet Mostar and Stari Most as a future trip tease"
     ]
   },
   "vocabulary": [
@@ -128,7 +128,7 @@
   "grammar": [
     {
       "title": "Gdje je…?",
-      "explanation": "Gdje? means where. Pair it with je for a ready question: Gdje je Mostar? Gdje je mapa? Gdje je Amira? Answer with a place chunk or with ovdje / tamo.",
+      "explanation": "Gdje? means where. Pair it with je for a ready question. Ask Gdje je Mostar? Ask Gdje je mapa? Ask Gdje je Amira?",
       "examples": [
         {
           "bosnian": "Gdje je Mostar?",
@@ -146,7 +146,7 @@
     },
     {
       "title": "Ovdje and tamo",
-      "explanation": "Ovdje = here (near you). Tamo = there / over there (farther away). On a map Emir points: Sarajevo je ovdje. Mostar je tamo. Practice pointing while you speak. gesture is half the lesson.",
+      "explanation": "Ovdje means here, near you. Tamo means there or over there, farther away. On a map Emir points and says Sarajevo je ovdje. He says Mostar je tamo. Practice with your finger on the page.",
       "examples": [
         {
           "bosnian": "Ovdje je Sarajevo.",
@@ -190,25 +190,25 @@
     {
       "id": "a",
       "title": "Lesson A: Gdje / ovdje / tamo",
-      "body": "Ask Gdje je…? about anything on the table: mapa, kahva, Mrvica. Answer Ovdje! when it is near, Tamo! when you point away. Add city names: Gdje je Sarajevo? Ovdje. Gdje je Mostar? Tamo. Drill ten times with a finger on an imaginary map. Emir makes Ana point south for Mostar every time she asks.",
+      "body": "Ask Gdje je…? about anything on the table, such as mapa, kahva, or Mrvica. Answer Ovdje! when it is near. Answer Tamo! when you point away. Add city names. Ask Gdje je Sarajevo? and answer Ovdje. Ask Gdje je Mostar? and answer Tamo. Drill ten times with a finger on an imaginary map. Emir makes Ana point south for Mostar every time she asks.",
       "tips": [
-        "Question kit: Gdje je + place?",
-        "Answer kit: Ovdje. / Tamo."
+        "Ask with Gdje je plus a place.",
+        "Answer with Ovdje or Tamo."
       ]
     },
     {
       "id": "b",
-      "title": "Lesson B: On the map of BiH",
-      "body": "Open the map. Say Na mapi. Find Sarajevo: U Sarajevu. ovdje. Find Mostar: Mostar je tamo, na jugu. Name the river and bridge as story bait: Neretva je rijeka. Stari most. Then place yourselves: Mi smo kod Amire, u Sarajevu. Emir grins: Mostar? Uskoro. Ana writes Gdje je Mostar? in her notebook and draws a tiny bridge.",
+      "title": "Lesson B: On the map of Bosnia and Herzegovina",
+      "body": "Open the map. Say Na mapi. Find Sarajevo and say U Sarajevu. Add ovdje. Find Mostar and say Mostar je tamo, na jugu. Name the river and bridge as story bait. Say Neretva je rijeka. Say Stari most. Then place yourselves. Say Mi smo kod Amire, u Sarajevu. Emir grins and says Mostar? Uskoro. Ana writes Gdje je Mostar? in her notebook and draws a tiny bridge.",
       "tips": [
-        "Chunks: u Sarajevu · na mapi · kod Amire · na jugu",
-        "Reuse je from Lesson 2"
+        "Keep u Sarajevu, na mapi, kod Amire, and na jugu ready.",
+        "Reuse je from Lesson 2."
       ]
     }
   ],
   "conversation": {
     "title": "Mapa na stolu",
-    "setting": "Amira’s café. A paper map of BiH on the table beside two fildžans.",
+    "setting": "Amira’s café. A paper map of Bosnia and Herzegovina on the table beside two fildžans.",
     "lines": [
       {
         "speaker": "Emir",
@@ -484,7 +484,7 @@
           "ovdje in Ana’s cup",
           "tamo, na jugu",
           "kod Mrvice only",
-          "not in BiH"
+          "not in Bosnia and Herzegovina"
         ],
         "correctIndex": 1,
         "explanation": "Mostar is farther south. tamo, na jugu.",

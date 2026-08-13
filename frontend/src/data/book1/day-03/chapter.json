@@ -11,14 +11,14 @@
   "storyBeat": "Amira’s café becomes HQ; Ana learns numbers 1. 20 and orders kahva while Mrvica steals the scene.",
   "learningGoals": {
     "vocabulary": [
-      "Numbers 1. 20",
-      "Café words: kahva, fildžan, lokum, molim",
-      "Question word: koliko?"
+      "Count from one to twenty",
+      "Use the café words kahva, fildžan, lokum, and molim",
+      "Ask with the question word koliko"
     ],
     "grammar": [
-      "Counting 1. 20 as ready-made words",
-      "Koliko? for how many / how much",
-      "Café order chunks: Kahvu, molim"
+      "Count from one to twenty as ready-made words",
+      "Use Koliko for how many or how much",
+      "Order café drinks with chunks such as Kahvu, molim"
     ],
     "culture": [
       "Bosnian coffee ritual at Amira’s",
@@ -119,7 +119,7 @@
     },
     {
       "bosnian": "kahva",
-      "english": "coffee (BiH form)",
+      "english": "coffee (Bosnian form)",
       "pronunciation": "KAH-vah",
       "partOfSpeech": "noun",
       "example": "Kahva je dobra."
@@ -142,7 +142,7 @@
   "grammar": [
     {
       "title": "Numbers 1. 20",
-      "explanation": "Learn 1. 10 cold, then 11. 20 as a chant. 1 jedan, 2 dva, 3 tri, 4 četiri, 5 pet, 6 šest, 7 sedam, 8 osam, 9 devet, 10 deset. Then: 11 jedanaest, 12 dvanaest, 13 trinaest, 14 četrnaest, 15 petnaest, 16 šesnaest, 17 sedamnaest, 18 osamnaest, 19 devetnaest, 20 dvadeset. Notice četiri and šest need accents when you type.",
+      "explanation": "Learn one through ten cold, then eleven through twenty as a chant. One is jedan. Two is dva. Three is tri. Four is četiri. Five is pet. Six is šest. Seven is sedam. Eight is osam. Nine is devet. Ten is deset. Then come jedanaest, dvanaest, trinaest, četrnaest, petnaest, šesnaest, sedamnaest, osamnaest, devetnaest, and dvadeset.",
       "examples": [
         {
           "bosnian": "jedan, dva, tri, četiri, pet",
@@ -160,7 +160,7 @@
     },
     {
       "title": "Koliko?",
-      "explanation": "Koliko? asks how many or how much. At a café you will hear Koliko košta? (How much does it cost?) and Koliko fildžana? (How many cups?). Answer with a number: Dva. / Deset KM. Keep it short.",
+      "explanation": "Koliko? asks how many or how much. At a café you will hear Koliko košta? for how much does it cost, and Koliko fildžana? for how many cups. Answer with a number. Say Dva.",
       "examples": [
         {
           "bosnian": "Koliko?",
@@ -204,19 +204,19 @@
     {
       "id": "a",
       "title": "Lesson A: Count to twenty",
-      "body": "Say 1. 10 slowly, then faster: jedan dva tri četiri pet šest sedam osam devet deset. include the special letter for četiri and šest. Next chant 11. 20: jedanaest, dvanaest, trinaest, četrnaest, petnaest, šesnaest, sedamnaest, osamnaest, devetnaest, dvadeset. Point at fingers, pigeons, or lokum pieces and count aloud. Ana drills numbers while Emir checks the time. petnaest minuta to Amira’s.",
+      "body": "Say one through ten slowly, then faster. The words are jedan, dva, tri, četiri, pet, šest, sedam, osam, devet, and deset. Include the special letters in četiri and šest. Next chant eleven through twenty. The words are jedanaest, dvanaest, trinaest, četrnaest, petnaest, šesnaest, sedamnaest, osamnaest, devetnaest, and dvadeset. Point at fingers, pigeons, or lokum pieces and count aloud. Ana drills numbers while Emir checks the time. They have petnaest minuta to Amira’s.",
       "tips": [
-        "Master 1. 10 before 11. 20",
-        "četiri and šest need accents when typing"
+        "Master one through ten before eleven through twenty.",
+        "Četiri and šest need accents when typing."
       ]
     },
     {
       "id": "b",
       "title": "Lesson B: Order at Amira’s",
-      "body": "Walk in with Zdravo! or Dobar dan! Order: Kahvu, molim. or Jednu kahvu, molim. If Emir joins: Dva fildžana, molim. Ask Koliko košta? if you want the price. Add Hvala when the tray arrives. If Amira offers lokum, smile and say Hvala. Mrvica may appear: Ana can say Zdravo, Mrvica! without new grammar. Numbers + molim + kahva are enough for your first café win.",
+      "body": "Walk in with Zdravo! or Dobar dan! Order with Kahvu, molim. Or say Jednu kahvu, molim. If Emir joins, say Dva fildžana, molim. Ask Koliko košta? if you want the price. Add Hvala when the tray arrives. If Amira offers lokum, smile and say Hvala. Mrvica may appear, and Ana can say Zdravo, Mrvica! without new grammar. Numbers, molim, and kahva are enough for your first café win.",
       "tips": [
-        "Order kit: Kahvu, molim · Dva fildžana, molim · Koliko košta?",
-        "Reuse hvala / molim from Lesson 1"
+        "Keep Kahvu, molim, Dva fildžana, molim, and Koliko košta ready.",
+        "Reuse hvala and molim from Lesson 1."
       ]
     }
   ],
@@ -351,7 +351,7 @@
     },
     {
       "id": "pr5",
-      "prompt": "How do you say ‘coffee’ in this course’s BiH form?",
+      "prompt": "How do you say ‘coffee’ in this course’s Bosnian form?",
       "hint": "Not kafa. the form with h",
       "answer": "kahva"
     },
@@ -449,7 +449,7 @@
           "the cat"
         ],
         "correctIndex": 1,
-        "explanation": "Kahva is the BiH café word for coffee.",
+        "explanation": "Kahva is the Bosnian café word for coffee.",
         "skill": "vocabulary"
       },
       {

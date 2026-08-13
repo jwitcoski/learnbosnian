@@ -343,7 +343,7 @@
     },
     {
       "id": "pr5",
-      "prompt": "Write the BiH spelling for milk.",
+      "prompt": "Write the Bosnian spelling for milk.",
       "hint": "mlj-",
       "answer": "mlijeko"
     },
@@ -498,7 +498,7 @@
       },
       {
         "id": "q8",
-        "prompt": "Which spelling is the BiH form for milk?",
+        "prompt": "Which spelling is the Bosnian form for milk?",
         "options": [
           "mleko only",
           "mlijeko",

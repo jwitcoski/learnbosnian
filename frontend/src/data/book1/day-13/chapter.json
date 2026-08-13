@@ -2,8 +2,8 @@
   "day": 13,
   "book": 1,
   "title": "Ljudi iz BiH",
-  "titleEn": "People from BiH",
-  "theme": "Who lives in BiH",
+  "titleEn": "People from Bosnia and Herzegovina",
+  "theme": "Who lives in Bosnia and Herzegovina",
   "status": "outlined",
   "reviewedAt": null,
   "reviewerNotes": "Reserve Bosnia today topic: Brčko District (not the two entities only).",
@@ -17,13 +17,13 @@
       "To be filled on draft night"
     ],
     "culture": [
-      "Who lives in BiH"
+      "Who lives in Bosnia and Herzegovina"
     ]
   },
   "vocabulary": [],
   "grammar": [],
   "culture": {
-    "title": "Who lives in BiH",
+    "title": "Who lives in Bosnia and Herzegovina",
     "body": "Stub for Lesson 13. Full culture hook will be written on the draft night.",
     "imageId": null
   },
@@ -52,7 +52,7 @@
   "images": [],
   "imagesNeeded": true,
   "imageBriefs": [
-    "Photo related to: Who lives in BiH",
+    "Photo related to: Who lives in Bosnia and Herzegovina",
     "Civic backlog for this lesson: Brčko District, the self-governing city-district under international supervision (third unit beside the two entities). Save full civicContext for draft night."
   ],
   "section": 2

@@ -3,7 +3,7 @@
   "book": 1,
   "title": "Ponavljanje",
   "titleEn": "Review",
-  "theme": "Review of Lessons 1 to 6, plus postcards from across BiH",
+  "theme": "Review of Lessons 1 to 6, plus postcards from across Bosnia and Herzegovina",
   "status": "draft",
   "reviewedAt": null,
   "reviewerNotes": "Copy cleaned (no em dashes, no Week title). Civic section added. Ready for human review.",
@@ -11,16 +11,16 @@
   "storyBeat": "Ana captions what she learned in Lessons 1 to 6. Emir then slides in postcards from Jajce, Blagaj, and Počitelj so the review opens more of the country.",
   "learningGoals": {
     "vocabulary": [
-      "Recycle Lessons 1 to 6: greetings, biti, numbers and café, family, places, time",
-      "Light diary words: sedmica, foto, priča"
+      "Recycle greetings, biti, numbers, café talk, family, places, and time from Lessons 1 to 6",
+      "Use light diary words such as sedmica, foto, and priča"
     ],
     "grammar": [
       "Remember sam, si, je and moj, moja",
       "Remember Gdje je…? and Koliko je sati?"
     ],
     "culture": [
-      "Photo captions as a memory tool",
-      "New places beyond the usual tourist pair: Jajce, Blagaj on the Buna, and Počitelj"
+      "Use photo captions as a memory tool",
+      "Add new places beyond the usual tourist pair, including Jajce, Blagaj on the Buna, and Počitelj"
     ]
   },
   "vocabulary": [
@@ -98,7 +98,7 @@
   "grammar": [
     {
       "title": "Remember. biti and possessives",
-      "explanation": "Core so far: Ja sam Ana. Ti si Emir. On je / Ona je… Pair with possessives: Moj prijatelj. Moja prijateljica. Moja mačka. If a noun ends in -a, try moja first.",
+      "explanation": "Core so far includes Ja sam Ana, Ti si Emir, and On je or Ona je. Pair those with possessives. Say Moj prijatelj. Say Moja prijateljica.",
       "examples": [
         {
           "bosnian": "Ja sam Ana. Ti si Emir.",
@@ -116,7 +116,7 @@
     },
     {
       "title": "Remember. where and when",
-      "explanation": "Place kit: Gdje je…? Ovdje. Tamo. U Sarajevu. Kod Amire. Time kit: Koliko je sati? Danas / sutra + weekday. Put them in one diary line: Danas sam kod Amire. Sutra. mapa!",
+      "explanation": "For place, keep Gdje je…?, Ovdje, Tamo, U Sarajevu, and Kod Amire ready. For time, keep Koliko je sati?, danas, sutra, and a weekday ready. Put them in one diary line. Say Danas sam kod Amire.",
       "examples": [
         {
           "bosnian": "Gdje je Mostar? Tamo.",
@@ -142,19 +142,19 @@
     {
       "id": "a",
       "title": "Lesson A: Recycle the toolkit",
-      "body": "Rapid fire without notes: Zdravo! Ja sam… Drago mi je. Kahvu, molim. Koliko? Moj brat. Moja sestra. Gdje je mapa? Ovdje. Tamo. Koliko je sati? Danas. Sutra. Emir times Ana for two minutes. Misses are fine. Laugh, repeat, and move on. Circle three weak words and write them once with the correct letters.",
+      "body": "Run a rapid fire drill without notes. Say Zdravo! Say Ja sam… Say Drago mi je. Say Kahvu, molim. Ask Koliko? Say Moj brat. Say Moja sestra. Ask Gdje je mapa? Answer Ovdje. Answer Tamo. Ask Koliko je sati? Say Danas. Say Sutra. Emir times Ana for two minutes. Misses are fine. Laugh, repeat, and move on. Circle three weak words and write them once with the correct letters.",
       "tips": [
-        "Speed first, then one careful rewrite",
-        "Revisit č ć š ž đ from Lesson 1 if your spelling slips"
+        "Speed first, then one careful rewrite.",
+        "Revisit č ć š ž đ from Lesson 1 if your spelling slips."
       ]
     },
     {
       "id": "b",
       "title": "Lesson B: Photo diary captions",
-      "body": "Caption six lines for skills from Lessons 1 to 6. Then add three place lines Emir teaches as teases: Jajce, vodopad. Blagaj, Buna. Počitelj, stari grad. Glue them with Gdje je…? and Tamo. Share the diary at the table. Amira closes the lesson with Hvala, and sutra! Lesson 8 will bring burek and more of the map.",
+      "body": "Caption six lines for skills from Lessons 1 to 6. Then add three place lines Emir teaches as teases. Write Jajce, vodopad. Write Blagaj, Buna. Write Počitelj, stari grad. Glue them with Gdje je…? and Tamo. Share the diary at the table. Amira closes the lesson with Hvala, and sutra! Lesson 8 will bring burek and more of the map.",
       "tips": [
-        "Lines from Lessons 1 to 6 come first, then three new place names",
-        "Reuse Gdje je…? and Tamo for the postcard stack"
+        "Lines from Lessons 1 to 6 come first, then three new place names.",
+        "Reuse Gdje je…? and Tamo for the postcard stack."
       ]
     }
   ],
@@ -277,7 +277,7 @@
     },
     {
       "id": "pr3",
-      "prompt": "Write the BiH café word for coffee.",
+      "prompt": "Write the Bosnian café word for coffee.",
       "hint": "With h",
       "answer": "kahva"
     },
@@ -319,7 +319,7 @@
     },
     {
       "title": "Blagaj and the Buna spring",
-      "body": "Blagaj is built around one of the region’s strongest karst springs. A Dervish tekija sits under a cliff where the Buna River bursts from the rock. The scene ties water, stone, and spiritual history into one view. Emir adds it to the review so BiH never shrinks to two tourist cities."
+      "body": "Blagaj is built around one of the region’s strongest karst springs. A Dervish tekija sits under a cliff where the Buna River bursts from the rock. The scene ties water, stone, and spiritual history into one view. Emir adds it to the review so Bosnia and Herzegovina never shrinks to two tourist cities."
     },
     {
       "title": "Počitelj’s stone stack",
@@ -604,7 +604,7 @@
   "imageBriefs": [],
   "civicContext": {
     "title": "A state built so one entity can block the rest",
-    "body": "Bosnia and Herzegovina’s postwar constitution makes national decision-making easy to block. Dayton divided the country into two entities, the Federation of BiH and Republika Srpska, and many state decisions require agreement across that structure. The design helped stop the war, but it also lets obstruction at entity level delay reforms needed for EU accession. Language practice can move every day, while the constitutional machine can still freeze the country in place.",
+    "body": "Bosnia and Herzegovina’s postwar constitution makes national decision-making easy to block. Dayton divided the country into two entities, the Federation of Bosnia and Herzegovina and Republika Srpska, and many state decisions require agreement across that structure. The design helped stop the war, but it also lets obstruction at entity level delay reforms needed for EU accession. Language practice can move every day, while the constitutional machine can still freeze the country in place.",
     "imageId": "civic-dayton-map",
     "learnMore": {
       "label": "Wikipedia: Political divisions of Bosnia and Herzegovina",
@@ -618,7 +618,7 @@
     "source": {
       "title": "Beba Selimović - Bosno moja, divna, mila",
       "artistOrSpeaker": "Beba Selimović",
-      "regionOrScene": "Section 1 review / BiH",
+      "regionOrScene": "Section 1 review / Bosnia and Herzegovina",
       "license": "YouTube Terms of Service (embed)",
       "credit": "Beba Selimović performance on YouTube",
       "pageUrl": "https://www.youtube.com/watch?v=OXul62dILOo",
