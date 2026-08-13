@@ -198,7 +198,7 @@
   ],
   "culture": {
     "title": "Market day energy in Tuzla",
-    "body": "Sarajevo’s Baščaršija is only one shopping map. Emir shows Ana photos from Tuzla in the northeast: an old-town street, a public fountain, and the everyday habit of buying fruit by the kilogram. A prodavnica can be a tiny corner shop. A pijaca is the open market where voices, scales, and kesa bags do the work. Today’s language is short on purpose. You want something, you ask the price, you say hvala.",
+    "body": "Emir takes Ana shopping with photos from Tuzla in the northeast: an old-town street, a public fountain, and the habit of buying fruit by the kilogram. A prodavnica can be a tiny corner shop. A pijaca is the open market where voices, scales, and kesa bags do the work. Today’s language stays short on purpose. You want something, you ask the price, you say hvala.",
     "imageId": "tuzla-fountain"
   },
   "lessonBlocks": [
@@ -677,14 +677,14 @@
       "credit": "Polygon painting based on photo: WV banner NE Bosnia Tuzla old town.jpg. Deanza7 / Wikimedia Commons (CC0)"
     },
     {
-      "id": "sarajevo-market",
-      "alt": "Polygon painting of open market stalls",
-      "localPath": "/images/book1/day-09-market.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sarajevo_Markt01.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_Markt01.jpg",
-      "author": "Christian Bickel",
-      "license": "CC BY-SA 2.0 de",
-      "credit": "Polygon painting based on photo: Sarajevo Markt01.jpg. Christian Bickel / Wikimedia Commons (CC BY-SA 2.0 de)"
+      "id": "tuzla-shops",
+      "alt": "Polygon painting of a shopping street in Tuzla",
+      "localPath": "/images/book1/day-09-tuzla-shops.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Tuzla_Street%2C_Bosnia.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATuzla_Street%2C_Bosnia.jpg",
+      "author": "Little Green Dragon",
+      "license": "CC BY 2.0",
+      "credit": "Polygon painting based on photo: Tuzla Street, Bosnia.jpg. Little Green Dragon / Wikimedia Commons (CC BY 2.0)"
     },
     {
       "id": "civic-tuzla-museum",

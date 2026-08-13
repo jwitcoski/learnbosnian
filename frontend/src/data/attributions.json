@@ -584,8 +584,25 @@
       "day": 8
     },
     {
+      "id": "book1-day-08-livno-sir",
+      "title": "Polygon painting of Livanjski sir highland cheese from Livno",
+      "whereUsed": [
+        "Book 1 · Lesson 8 — I love burek"
+      ],
+      "author": "Uniquenick",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALivanjski_Cheese_with_label.JPG",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Livanjski_Cheese_with_label.JPG",
+      "localPath": "/images/book1/day-08-livno-sir.png",
+      "credit": "Polygon painting based on photo: Livanjski Cheese with label.JPG. Uniquenick / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 8
+    },
+    {
       "id": "book1-day-08-livno-town",
-      "title": "Polygon painting of Livno townscape with mosque and clock tower",
+      "title": "Polygon painting of Livno mosque and clock tower in western Bosnia",
       "whereUsed": [
         "Book 1 · Lesson 8 — I love burek"
       ],
@@ -596,23 +613,6 @@
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Livno.jpg",
       "localPath": "/images/book1/day-08-livno.png",
       "credit": "Polygon painting based on photo: Livno.jpg. Golden Bosnian Lily / Wikimedia Commons (CC BY-SA 4.0)",
-      "notes": "",
-      "book": 1,
-      "day": 8
-    },
-    {
-      "id": "book1-day-08-market-fruit",
-      "title": "Polygon painting of fruit crates at a Bosnian market",
-      "whereUsed": [
-        "Book 1 · Lesson 8 — I love burek"
-      ],
-      "author": "NH53",
-      "source": "Wikimedia Commons",
-      "license": "CC BY 2.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFruit_market_in_Sarajevo_%283887505834%29.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Fruit_market_in_Sarajevo_%283887505834%29.jpg",
-      "localPath": "/images/book1/day-08-fruit.png",
-      "credit": "Polygon painting based on photo: Fruit market in Sarajevo (3887505834).jpg. NH53 / Wikimedia Commons (CC BY 2.0)",
       "notes": "",
       "book": 1,
       "day": 8
@@ -630,23 +630,6 @@
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Museum_of_East_Bosnia%2C_Tuzla.jpg",
       "localPath": "/images/book1/day-09-civic-tuzla.png",
       "credit": "Polygon painting based on photo: Museum of East Bosnia, Tuzla.jpg. Apokar / Wikimedia Commons (CC BY-SA 4.0)",
-      "notes": "",
-      "book": 1,
-      "day": 9
-    },
-    {
-      "id": "book1-day-09-sarajevo-market",
-      "title": "Polygon painting of open market stalls",
-      "whereUsed": [
-        "Book 1 · Lesson 9 — At the shop"
-      ],
-      "author": "Christian Bickel",
-      "source": "Wikimedia Commons",
-      "license": "CC BY-SA 2.0 de",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_Markt01.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sarajevo_Markt01.jpg",
-      "localPath": "/images/book1/day-09-market.png",
-      "credit": "Polygon painting based on photo: Sarajevo Markt01.jpg. Christian Bickel / Wikimedia Commons (CC BY-SA 2.0 de)",
       "notes": "",
       "book": 1,
       "day": 9
@@ -686,35 +669,35 @@
       "day": 9
     },
     {
-      "id": "book1-day-10-civic-apartment",
-      "title": "Polygon painting of an apartment building in Sarajevo",
+      "id": "book1-day-09-tuzla-shops",
+      "title": "Polygon painting of a shopping street in Tuzla",
       "whereUsed": [
-        "Book 1 · Lesson 10 — My room"
+        "Book 1 · Lesson 9 — At the shop"
       ],
-      "author": "Choinowski",
+      "author": "Little Green Dragon",
       "source": "Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AApartment_building_in_Sarajevo.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Apartment_building_in_Sarajevo.jpg",
-      "localPath": "/images/book1/day-10-civic-apartment.png",
-      "credit": "Polygon painting based on photo: Apartment building in Sarajevo.jpg. Choinowski / Wikimedia Commons (CC BY-SA 4.0)",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATuzla_Street%2C_Bosnia.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Tuzla_Street%2C_Bosnia.jpg",
+      "localPath": "/images/book1/day-09-tuzla-shops.png",
+      "credit": "Polygon painting based on photo: Tuzla Street, Bosnia.jpg. Little Green Dragon / Wikimedia Commons (CC BY 2.0)",
       "notes": "",
       "book": 1,
-      "day": 10
+      "day": 9
     },
     {
-      "id": "book1-day-10-konjic-town",
-      "title": "Polygon painting of Konjic town on the river",
+      "id": "book1-day-10-civic-stolac-houses",
+      "title": "Polygon painting of traditional stone houses in Stolac",
       "whereUsed": [
         "Book 1 · Lesson 10 — My room"
       ],
-      "author": "Boris Maric",
+      "author": "Ma▀▄Ga",
       "source": "Wikimedia Commons",
-      "license": "CC0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKonjic%2C_Bosnia_and_Herzegovina.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Konjic%2C_Bosnia_and_Herzegovina.jpg",
-      "localPath": "/images/book1/day-10-konjic.png",
-      "credit": "Polygon painting based on photo: Konjic, Bosnia and Herzegovina.jpg. Boris Maric / Wikimedia Commons (CC0)",
+      "license": "CC BY 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AStari_grad_Stolac_%2817%29.JPG",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Stari_grad_Stolac_%2817%29.JPG",
+      "localPath": "/images/book1/day-10-stolac-houses.png",
+      "credit": "Polygon painting based on photo: Stari grad Stolac (17).JPG. Ma▀▄Ga / Wikimedia Commons (CC BY 3.0)",
       "notes": "",
       "book": 1,
       "day": 10
@@ -732,6 +715,23 @@
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/13st_Radimlja.jpg",
       "localPath": "/images/book1/day-10-radimlja-detail.png",
       "credit": "Polygon painting based on photo: 13st Radimlja.jpg. Original uploader was Prof saxx at hr.wikipedia / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "",
+      "book": 1,
+      "day": 10
+    },
+    {
+      "id": "book1-day-10-stolac-old-town",
+      "title": "Polygon painting of Stari grad Stolac stone fortress and houses",
+      "whereUsed": [
+        "Book 1 · Lesson 10 — My room"
+      ],
+      "author": "Ma▀▄Ga",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AStari_grad_Stolac_%2801%29.JPG",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Stari_grad_Stolac_%2801%29.JPG",
+      "localPath": "/images/book1/day-10-stolac-old-town.png",
+      "credit": "Polygon painting based on photo: Stari grad Stolac (01).JPG. Ma▀▄Ga / Wikimedia Commons (CC BY 3.0)",
       "notes": "",
       "book": 1,
       "day": 10

@@ -194,7 +194,7 @@
   ],
   "culture": {
     "title": "Burek is meat, and Livno sends cheese",
-    "body": "On a Bosnian street, burek means a meat pita. Ask for cheese and you want sirnica. Spinach or greens mean zeljanica. Emir takes Ana to a buregdžinica near Amira’s, then shows a postcard from Livno in western Bosnia: highland pastures famous for Livanjski sir. The café is HQ, but the country’s food map is wider than one warm tray. Today Ana learns to say what she loves before the first bite turns into a flaky disaster.",
+    "body": "On a Bosnian street, burek means a meat pita. Ask for cheese and you want sirnica. Spinach or greens mean zeljanica. Emir takes Ana to a buregdžinica, then shows a postcard from Livno in western Bosnia: highland pastures famous for Livanjski sir. The café can be home base, but today’s food map points west to Livno cheese country. Ana learns to say what she loves before the first bite turns into a flaky disaster.",
     "imageId": "livno-town"
   },
   "lessonBlocks": [
@@ -658,7 +658,7 @@
   "images": [
     {
       "id": "livno-town",
-      "alt": "Polygon painting of Livno townscape with mosque and clock tower",
+      "alt": "Polygon painting of Livno mosque and clock tower in western Bosnia",
       "localPath": "/images/book1/day-08-livno.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Livno.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALivno.jpg",
@@ -677,14 +677,14 @@
       "credit": "Polygon painting based on photo: Burek photo Moma SM.jpg. photo Moma SM / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
-      "id": "market-fruit",
-      "alt": "Polygon painting of fruit crates at a Bosnian market",
-      "localPath": "/images/book1/day-08-fruit.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Fruit_market_in_Sarajevo_%283887505834%29.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFruit_market_in_Sarajevo_%283887505834%29.jpg",
-      "author": "NH53",
-      "license": "CC BY 2.0",
-      "credit": "Polygon painting based on photo: Fruit market in Sarajevo (3887505834).jpg. NH53 / Wikimedia Commons (CC BY 2.0)"
+      "id": "livno-sir",
+      "alt": "Polygon painting of Livanjski sir highland cheese from Livno",
+      "localPath": "/images/book1/day-08-livno-sir.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Livanjski_Cheese_with_label.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALivanjski_Cheese_with_label.JPG",
+      "author": "Uniquenick",
+      "license": "CC BY-SA 4.0",
+      "credit": "Polygon painting based on photo: Livanjski Cheese with label.JPG. Uniquenick / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "civic-livno-valley",
