@@ -44,6 +44,18 @@ Every chapter JSON must include (even review lessons):
 12. Dictionary entries for all new words
 13. Bosnia today (civicContext): one paragraph on a fact-based structural pressure on BiH, tied to the lesson theme, with its own image and a Wikipedia or news `learnMore` link
 
+## Bosnia today and fun facts prose
+
+Write complete thoughts. Do not rant in fragments, slogan stubs, or colon-led trailers.
+
+**Shape for every `civicContext.body` and every fun-fact `body`:**
+
+1. **Thesis** — one clear first sentence that states the point
+2. **Support** — two or three sentences with concrete facts or examples
+3. **Summary** — one closing sentence that lands the idea
+
+Keep the lesson link light and factual. Prefer plain speech over clever asides.
+
 ## Quiz quality
 
 - Four options of similar length
