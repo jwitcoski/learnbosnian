@@ -1,7 +1,6 @@
 {
   "day": 27,
   "book": 1,
-  "week": 4,
   "title": "Posao i škola",
   "titleEn": "Work and school",
   "theme": "Emir’s job; Ana’s study plan",
@@ -54,5 +53,6 @@
   "imagesNeeded": true,
   "imageBriefs": [
     "Photo related to: Emir’s job; Ana’s study plan"
-  ]
+  ],
+  "section": 4
 }

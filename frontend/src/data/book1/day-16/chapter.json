@@ -1,7 +1,6 @@
 {
   "day": 16,
   "book": 1,
-  "week": 3,
   "title": "Na autobus",
   "titleEn": "On the bus",
   "theme": "Minibus toward the coast dream",
@@ -54,5 +53,6 @@
   "imagesNeeded": true,
   "imageBriefs": [
     "Photo related to: Minibus toward the coast dream"
-  ]
+  ],
+  "section": 3
 }

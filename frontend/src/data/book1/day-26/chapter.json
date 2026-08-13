@@ -1,7 +1,6 @@
 {
   "day": 26,
   "book": 1,
-  "week": 4,
   "title": "Stanovanje",
   "titleEn": "Housing",
   "theme": "Looking at a longer stay",
@@ -54,5 +53,6 @@
   "imagesNeeded": true,
   "imageBriefs": [
     "Photo related to: Looking at a longer stay"
-  ]
+  ],
+  "section": 4
 }

@@ -10,312 +10,312 @@
     "Amira",
     "Mrvica"
   ],
-  "weeks": [
-    {
-      "week": 0,
-      "title": "Before you begin",
-      "focus": "What Bosnian is, where the name comes from, who speaks it, and who this course is for"
-    },
-    {
-      "week": 1,
-      "title": "Survive day one",
-      "focus": "Sounds, greetings, identity, numbers, family, place, time"
-    },
-    {
-      "week": 2,
-      "title": "Daily life",
-      "focus": "Food, shopping, home, weather, going out, people of BiH"
-    },
-    {
-      "week": 3,
-      "title": "Getting around",
-      "focus": "Directions, transport, restaurants, hobbies, holidays, phone"
-    },
-    {
-      "week": 4,
-      "title": "Telling stories & travel",
-      "focus": "Past tense, nature, health, housing, work/school, Mostar, writing, finale"
-    }
-  ],
   "days": [
     {
       "day": 0,
-      "week": 0,
       "title": "Zašto bosanski?",
       "titleEn": "Why Bosnian?",
       "theme": "Orientation — what Bosnian is and who this course is for",
       "languageFocus": "Orientation vocabulary; Latin-only path; no conjugation yet",
-      "storyBeat": "Map the language before Ana lands in Sarajevo"
+      "storyBeat": "Map the language before Ana lands in Sarajevo",
+      "section": 0
     },
     {
       "day": 1,
-      "week": 1,
       "title": "Zdravo, Sarajevo!",
       "titleEn": "Hello, Sarajevo!",
       "theme": "First walk through Baščaršija",
       "languageFocus": "Latin alphabet, sounds č/ć/š/ž/đ/dž, greetings",
-      "storyBeat": "Ana lands and walks Baščaršija for the first time"
+      "storyBeat": "Ana lands and walks Baščaršija for the first time",
+      "section": 1
     },
     {
       "day": 2,
-      "week": 1,
       "title": "Ja sam Ana",
       "titleEn": "I am Ana",
       "theme": "Meeting Emir at Sebilj",
       "languageFocus": "Introductions, biti (sam/si/je), personal pronouns",
-      "storyBeat": "Ana meets Emir at the Sebilj fountain"
+      "storyBeat": "Ana meets Emir at the Sebilj fountain",
+      "section": 1
     },
     {
       "day": 3,
-      "week": 1,
       "title": "Brojevi i kahva",
       "titleEn": "Numbers and coffee",
       "theme": "Coffee at Amira’s",
       "languageFocus": "Numbers 1–20, koliko?, café order",
-      "storyBeat": "Amira’s café becomes HQ; Mrvica appears"
+      "storyBeat": "Amira’s café becomes HQ; Mrvica appears",
+      "section": 1
     },
     {
       "day": 4,
-      "week": 1,
       "title": "Porodica Mrvice",
       "titleEn": "Mrvica’s family",
       "theme": "Café “family” + the cat",
       "languageFocus": "Family words, moj/tvoja, gender intro",
-      "storyBeat": "Mrvica adopts Ana; café regulars feel like family"
+      "storyBeat": "Mrvica adopts Ana; café regulars feel like family",
+      "section": 1
     },
     {
       "day": 5,
-      "week": 1,
       "title": "Gdje je Mostar?",
       "titleEn": "Where is Mostar?",
       "theme": "Map of BiH; Mostar tease",
       "languageFocus": "Places, gdje/ovdje/tamo, u/na/kod",
-      "storyBeat": "Emir teases a future Mostar trip"
+      "storyBeat": "Emir teases a future Mostar trip",
+      "section": 1
     },
     {
       "day": 6,
-      "week": 1,
       "title": "Koliko je sati?",
       "titleEn": "What time is it?",
       "theme": "City daily rhythm",
       "languageFocus": "Clock time, weekdays, danas/sutra",
-      "storyBeat": "Ana learns the city’s daily rhythm"
+      "storyBeat": "Ana learns the city’s daily rhythm",
+      "section": 1
     },
     {
       "day": 7,
-      "week": 1,
       "title": "Ponavljanje",
       "titleEn": "Review",
       "theme": "Ana’s first-week photo diary",
       "languageFocus": "Review days 1–6",
-      "storyBeat": "Photo diary of the first week"
+      "storyBeat": "Photo diary of the first week",
+      "section": 1
     },
     {
       "day": 8,
-      "week": 2,
       "title": "Volim burek",
       "titleEn": "I love burek",
       "theme": "Street food",
       "languageFocus": "Food, volim/ne volim, accusative singular intro",
-      "storyBeat": "Food disasters begin with burek"
+      "storyBeat": "Food disasters begin with burek",
+      "section": 2
     },
     {
       "day": 9,
-      "week": 2,
       "title": "U prodavnici",
       "titleEn": "At the shop",
       "theme": "Market day",
       "languageFocus": "Shopping, željeti, molim/hvala",
-      "storyBeat": "Shopping with Emir"
+      "storyBeat": "Shopping with Emir",
+      "section": 2
     },
     {
       "day": 10,
-      "week": 2,
       "title": "Moja soba",
       "titleEn": "My room",
       "theme": "Room above the café",
       "languageFocus": "Home/hotel, imati, adjective agreement",
-      "storyBeat": "Ana settles into the room above Amira’s"
+      "storyBeat": "Ana settles into the room above Amira’s",
+      "section": 2
     },
     {
       "day": 11,
-      "week": 2,
       "title": "Kakvo je vrijeme?",
       "titleEn": "How is the weather?",
       "theme": "Autumn on Trebević",
       "languageFocus": "Weather, seasons, adjectives",
-      "storyBeat": "Weather ruins a picnic"
+      "storyBeat": "Weather ruins a picnic",
+      "section": 2
     },
     {
       "day": 12,
-      "week": 2,
       "title": "Idemo u park",
       "titleEn": "Let’s go to the park",
       "theme": "Park walk (Mrvica chaos)",
       "languageFocus": "ići/doći, hajde, invitations",
-      "storyBeat": "Mrvica on a leash fails spectacularly"
+      "storyBeat": "Mrvica on a leash fails spectacularly",
+      "section": 2
     },
     {
       "day": 13,
-      "week": 2,
       "title": "Ljudi iz BiH",
       "titleEn": "People from BiH",
       "theme": "Who lives in BiH",
       "languageFocus": "Nationalities, govoriti, soft identity talk",
-      "storyBeat": "Identity chat over kahva"
+      "storyBeat": "Identity chat over kahva",
+      "section": 2
     },
     {
       "day": 14,
-      "week": 2,
       "title": "Ponavljanje",
       "titleEn": "Review",
       "theme": "Board-game night at Amira’s",
       "languageFocus": "Review days 8–13",
-      "storyBeat": "Board-game night"
+      "storyBeat": "Board-game night",
+      "section": 2
     },
     {
       "day": 15,
-      "week": 3,
       "title": "Desna ili lijeva?",
       "titleEn": "Right or left?",
       "theme": "Lost near Latinska ćuprija",
       "languageFocus": "Directions, polite imperatives",
-      "storyBeat": "Ana gets lost near the bridge"
+      "storyBeat": "Ana gets lost near the bridge",
+      "section": 3
     },
     {
       "day": 16,
-      "week": 3,
       "title": "Na autobus",
       "titleEn": "On the bus",
       "theme": "Minibus toward the coast dream",
       "languageFocus": "Transport, tickets, trebati",
-      "storyBeat": "Bus tickets and coast dreams"
+      "storyBeat": "Bus tickets and coast dreams",
+      "section": 3
     },
     {
       "day": 17,
-      "week": 3,
       "title": "Dobar tek!",
       "titleEn": "Enjoy your meal!",
       "theme": "Klepe vs japrak debate",
       "languageFocus": "Restaurant dialogue, htjeti",
-      "storyBeat": "Restaurant debate"
+      "storyBeat": "Restaurant debate",
+      "section": 3
     },
     {
       "day": 18,
-      "week": 3,
       "title": "Sport i hobiji",
       "titleEn": "Sports and hobbies",
       "theme": "Football & river walks",
       "languageFocus": "Hobbies, igrati/gledati, često/ponekad",
-      "storyBeat": "Football chat and river walks"
+      "storyBeat": "Football chat and river walks",
+      "section": 3
     },
     {
       "day": 19,
-      "week": 3,
       "title": "Praznici",
       "titleEn": "Holidays",
       "theme": "Bajram lights / winter markets",
       "languageFocus": "Holiday greetings (inclusive)",
-      "storyBeat": "Holiday lights and markets"
+      "storyBeat": "Holiday lights and markets",
+      "section": 3
     },
     {
       "day": 20,
-      "week": 3,
       "title": "Telefonski poziv",
       "titleEn": "Phone call",
       "theme": "Where is Mrvica?",
       "languageFocus": "Phone phrases, ko/šta/kada/zašto",
-      "storyBeat": "Emergency cat phone call"
+      "storyBeat": "Emergency cat phone call",
+      "section": 3
     },
     {
       "day": 21,
-      "week": 3,
       "title": "Ponavljanje",
       "titleEn": "Review",
       "theme": "Ana plans a solo weekend",
       "languageFocus": "Review days 15–20",
-      "storyBeat": "Ana plans a weekend alone"
+      "storyBeat": "Ana plans a weekend alone",
+      "section": 3
     },
     {
       "day": 22,
-      "week": 4,
       "title": "Jučer u Travniku",
       "titleEn": "Yesterday in Travnik",
       "theme": "Day trip to Travnik",
       "languageFocus": "Past tense (perfekt) intro",
-      "storyBeat": "Travnik trip begins"
+      "storyBeat": "Travnik trip begins",
+      "section": 4
     },
     {
       "day": 23,
-      "week": 4,
       "title": "Šta si radio/radila?",
       "titleEn": "What did you do?",
       "theme": "Retelling the mishap",
       "languageFocus": "Past Q&A, gender in participles",
-      "storyBeat": "Retelling the Travnik mishap"
+      "storyBeat": "Retelling the Travnik mishap",
+      "section": 4
     },
     {
       "day": 24,
-      "week": 4,
       "title": "Planine i rijeke",
       "titleEn": "Mountains and rivers",
       "theme": "Una, Neretva, Bjelašnica",
       "languageFocus": "Nature vocab, comparatives",
-      "storyBeat": "Nature day"
+      "storyBeat": "Nature day",
+      "section": 4
     },
     {
       "day": 25,
-      "week": 4,
       "title": "Kod doktora",
       "titleEn": "At the doctor",
       "theme": "Mrvica vs pinecone (vet subplot)",
       "languageFocus": "Body/health, boljeti",
-      "storyBeat": "Vet visit after pinecone incident"
+      "storyBeat": "Vet visit after pinecone incident",
+      "section": 4
     },
     {
       "day": 26,
-      "week": 4,
       "title": "Stanovanje",
       "titleEn": "Housing",
       "theme": "Looking at a longer stay",
       "languageFocus": "Flats, rent, moći/morati",
-      "storyBeat": "Almost renting longer"
+      "storyBeat": "Almost renting longer",
+      "section": 4
     },
     {
       "day": 27,
-      "week": 4,
       "title": "Posao i škola",
       "titleEn": "Work and school",
       "theme": "Emir’s job; Ana’s study plan",
       "languageFocus": "Work/school, daily routine",
-      "storyBeat": "Emir’s guide job; Ana’s study plan"
+      "storyBeat": "Emir’s guide job; Ana’s study plan",
+      "section": 4
     },
     {
       "day": 28,
-      "week": 4,
       "title": "Mostar napokon!",
       "titleEn": "Mostar at last!",
       "theme": "Stari most dare",
       "languageFocus": "Travel past + ići ću, landmarks",
-      "storyBeat": "Finally Mostar; cold Neretva dare"
+      "storyBeat": "Finally Mostar; cold Neretva dare",
+      "section": 4
     },
     {
       "day": 29,
-      "week": 4,
       "title": "Pisma iz BiH",
       "titleEn": "Letters from BiH",
       "theme": "Ana writes home",
       "languageFocus": "Postcard/email, i/ali/zato",
-      "storyBeat": "Ana writes home"
+      "storyBeat": "Ana writes home",
+      "section": 4
     },
     {
       "day": 30,
-      "week": 4,
       "title": "Završna proslava",
       "titleEn": "Graduation party",
       "theme": "Party; Mrvica steals the cake",
       "languageFocus": "Full A1 review + dictionary tour",
-      "storyBeat": "Graduation party; cake heist"
+      "storyBeat": "Graduation party; cake heist",
+      "section": 4
+    }
+  ],
+  "sections": [
+    {
+      "section": 0,
+      "title": "Before you begin",
+      "focus": "What Bosnian is, where the name comes from, who speaks it, and who this course is for"
+    },
+    {
+      "section": 1,
+      "title": "Survive day one",
+      "focus": "Sounds, greetings, identity, numbers, family, place, time"
+    },
+    {
+      "section": 2,
+      "title": "Daily life",
+      "focus": "Food, shopping, home, weather, going out, people of BiH"
+    },
+    {
+      "section": 3,
+      "title": "Getting around",
+      "focus": "Directions, transport, restaurants, hobbies, holidays, phone"
+    },
+    {
+      "section": 4,
+      "title": "Telling stories & travel",
+      "focus": "Past tense, nature, health, housing, work/school, Mostar, writing, finale"
     }
   ]
 }

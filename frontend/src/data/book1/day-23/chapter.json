@@ -1,7 +1,6 @@
 {
   "day": 23,
   "book": 1,
-  "week": 4,
   "title": "Šta si radio/radila?",
   "titleEn": "What did you do?",
   "theme": "Retelling the mishap",
@@ -54,5 +53,6 @@
   "imagesNeeded": true,
   "imageBriefs": [
     "Photo related to: Retelling the mishap"
-  ]
+  ],
+  "section": 4
 }

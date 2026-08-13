@@ -1,7 +1,6 @@
 {
   "day": 15,
   "book": 1,
-  "week": 3,
   "title": "Desna ili lijeva?",
   "titleEn": "Right or left?",
   "theme": "Lost near Latinska ćuprija",
@@ -54,5 +53,6 @@
   "imagesNeeded": true,
   "imageBriefs": [
     "Photo related to: Lost near Latinska ćuprija"
-  ]
+  ],
+  "section": 3
 }

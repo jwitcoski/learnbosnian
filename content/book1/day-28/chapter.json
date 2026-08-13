@@ -1,7 +1,6 @@
 {
   "day": 28,
   "book": 1,
-  "week": 4,
   "title": "Mostar napokon!",
   "titleEn": "Mostar at last!",
   "theme": "Stari most dare",
@@ -54,5 +53,6 @@
   "imagesNeeded": true,
   "imageBriefs": [
     "Photo related to: Stari most dare"
-  ]
+  ],
+  "section": 4
 }

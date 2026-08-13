@@ -1,7 +1,6 @@
 {
   "day": 13,
   "book": 1,
-  "week": 2,
   "title": "Ljudi iz BiH",
   "titleEn": "People from BiH",
   "theme": "Who lives in BiH",
@@ -55,5 +54,6 @@
   "imageBriefs": [
     "Photo related to: Who lives in BiH",
     "Civic backlog for this lesson: Brčko District, the self-governing city-district under international supervision (third unit beside the two entities). Save full civicContext for draft night."
-  ]
+  ],
+  "section": 2
 }

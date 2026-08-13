@@ -1,7 +1,6 @@
 {
   "day": 6,
   "book": 1,
-  "week": 1,
   "title": "Koliko je sati?",
   "titleEn": "What time is it?",
   "theme": "Clocks and daily rhythm across BiH",
@@ -734,5 +733,6 @@
     0,
     1,
     2
-  ]
+  ],
+  "section": 1
 }

@@ -1,7 +1,6 @@
 {
   "day": 4,
   "book": 1,
-  "week": 1,
   "title": "Porodica Mrvice",
   "titleEn": "Mrvica’s family",
   "theme": "Café “family” + the cat",
@@ -734,5 +733,6 @@
     0,
     1,
     2
-  ]
+  ],
+  "section": 1
 }

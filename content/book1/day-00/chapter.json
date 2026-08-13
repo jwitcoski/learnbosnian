@@ -1,7 +1,6 @@
 {
   "day": 0,
   "book": 1,
-  "week": 0,
   "title": "Zašto bosanski?",
   "titleEn": "Why Bosnian?",
   "theme": "Orientation. what Bosnian is and who this course is for",
@@ -607,5 +606,6 @@
     1,
     3,
     5
-  ]
+  ],
+  "section": 0
 }

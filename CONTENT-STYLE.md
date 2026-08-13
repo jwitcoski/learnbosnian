@@ -3,6 +3,7 @@
 ## Language rules
 
 - **Lesson titles only:** Say Lesson N. Do not put Day, Week, Sedmica, or “30 days” in lesson titles or lesson hero labels.
+- **Curriculum groups:** Call groups **Section 1**, **Section 2**, etc. on the Learn page and in learner-facing copy. Do not label them Week 1 / Week 2.
 - **No em dashes:** Do not use — or – as punctuation in learner-facing copy, titles, fun facts, dialogue, or video narration. Use full sentences with periods, commas, colons, or parentheses.
 - **Full sentences:** Culture bodies, civic notes, and fun facts must be complete sentences. No slogan fragments.
 - **Book vs website:** Chapter JSON is book-safe. Do not put “tap the accent buttons” or other website-only UI instructions in chapter content. Website components may show accent-button help on their own.
@@ -69,7 +70,7 @@ Keep the lesson link light and factual. Prefer plain speech over clever asides.
 - `kind`: `song` or `speaker` (never course Ana/Emir/Amira studio lines)
 - Rights-safe embed or clip only; store `license`, `credit`, `pageUrl` like images
 - A1 gist task: listen first, then MCQ; reveal 1–3 key lines after listen
-- Mix songs and speakers across the week; tie clip to lesson theme or place
+- Mix songs and speakers across the section; tie clip to lesson theme or place
 
 ## Images
 

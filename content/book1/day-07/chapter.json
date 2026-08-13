@@ -1,7 +1,6 @@
 {
   "day": 7,
   "book": 1,
-  "week": 1,
   "title": "Ponavljanje",
   "titleEn": "Review",
   "theme": "Review of Lessons 1 to 6, plus postcards from across BiH",
@@ -324,7 +323,7 @@
     },
     {
       "title": "Počitelj’s stone stack",
-      "body": "Počitelj climbs a Herzegovina hillside in stacked stone houses. A fortress silhouette watches over the old settlement. The town sits above the Neretva corridor as a preserved Ottoman-era place. One more postcard like this keeps Week 1 review geographically honest."
+      "body": "Počitelj climbs a Herzegovina hillside in stacked stone houses. A fortress silhouette watches over the old settlement. The town sits above the Neretva corridor as a preserved Ottoman-era place. One more postcard like this keeps Section 1 review geographically honest."
     },
     {
       "title": "Banja Luka on the mental map",
@@ -613,13 +612,13 @@
     }
   },
   "authenticListen": {
-    "title": "Čuj Bosnu: Bosno moja for week one",
+    "title": "Čuj Bosnu: Bosno moja for section one",
     "kind": "song",
-    "hook": "Close the week with a classic love-of-Bosnia sevdah. Beba Selimović sings Bosno moja, divna, mila.",
+    "hook": "Close the section with a classic love-of-Bosnia sevdah. Beba Selimović sings Bosno moja, divna, mila.",
     "source": {
       "title": "Beba Selimović - Bosno moja, divna, mila",
       "artistOrSpeaker": "Beba Selimović",
-      "regionOrScene": "Week 1 review / BiH",
+      "regionOrScene": "Section 1 review / BiH",
       "license": "YouTube Terms of Service (embed)",
       "credit": "Beba Selimović performance on YouTube",
       "pageUrl": "https://www.youtube.com/watch?v=OXul62dILOo",
@@ -627,7 +626,7 @@
     },
     "durationHint": "60–90 seconds",
     "listenTask": {
-      "prompt": "Listen for Bosna / warm chorus energy, plus any Week 1 word that sneaks in later.",
+      "prompt": "Listen for Bosna / warm chorus energy, plus any Section 1 word that sneaks in later.",
       "gistQuestion": {
         "prompt": "What is this review clip?",
         "options": [
@@ -656,7 +655,7 @@
           "english": "Thank you."
         }
       ],
-      "teacherNote": "Week 1 closed with a real ear stretch. Keep one song in your pocket for the bus."
+      "teacherNote": "Section 1 closed with a real ear stretch. Keep one song in your pocket for the bus."
     }
   },
   "speakTargets": [
@@ -688,7 +687,8 @@
     {
       "id": "cd5",
       "kind": "write",
-      "prompt": "Type three Week 1 words with correct čćšžđ."
+      "prompt": "Type three Section 1 words with correct čćšžđ."
     }
-  ]
+  ],
+  "section": 1
 }

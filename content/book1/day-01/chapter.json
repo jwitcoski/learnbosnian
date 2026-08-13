@@ -1,7 +1,6 @@
 {
   "day": 1,
   "book": 1,
-  "week": 1,
   "title": "Zdravo, Sarajevo!",
   "titleEn": "Hello, Sarajevo!",
   "theme": "First walk through Baščaršija",
@@ -827,5 +826,6 @@
     0,
     1,
     2
-  ]
+  ],
+  "section": 1
 }

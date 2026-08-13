@@ -1,7 +1,6 @@
 {
   "day": 24,
   "book": 1,
-  "week": 4,
   "title": "Planine i rijeke",
   "titleEn": "Mountains and rivers",
   "theme": "Una, Neretva, Bjelašnica",
@@ -54,5 +53,6 @@
   "imagesNeeded": true,
   "imageBriefs": [
     "Photo related to: Una, Neretva, Bjelašnica"
-  ]
+  ],
+  "section": 4
 }

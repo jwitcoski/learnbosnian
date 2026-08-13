@@ -36,17 +36,17 @@ const Learn = () => {
 
       <SectionDivider />
 
-      {book1Outline.weeks?.map((week) => (
-        <section key={week.week} style={{ marginBottom: "2rem" }}>
+      {book1Outline.sections?.map((sec) => (
+        <section key={sec.section} style={{ marginBottom: "2rem" }}>
           <h2>
-            {week.week === 0
-              ? `Orientation: ${week.title}`
-              : `Week ${week.week}: ${week.title}`}
+            {sec.section === 0
+              ? `Orientation: ${sec.title}`
+              : `Section ${sec.section}: ${sec.title}`}
           </h2>
-          <p style={{ color: "var(--color-muted)" }}>{week.focus}</p>
+          <p style={{ color: "var(--color-muted)" }}>{sec.focus}</p>
           <LockedGrid>
             {chapters
-              .filter((c) => c.week === week.week)
+              .filter((c) => c.section === sec.section)
               .map((c) => {
                 const open = canViewChapter(c);
                 const done = progress.completedDays.includes(c.day);

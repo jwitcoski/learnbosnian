@@ -1,7 +1,6 @@
 {
   "day": 29,
   "book": 1,
-  "week": 4,
   "title": "Pisma iz BiH",
   "titleEn": "Letters from BiH",
   "theme": "Ana writes home",
@@ -54,5 +53,6 @@
   "imagesNeeded": true,
   "imageBriefs": [
     "Photo related to: Ana writes home"
-  ]
+  ],
+  "section": 4
 }
