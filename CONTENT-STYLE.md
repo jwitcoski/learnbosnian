@@ -5,7 +5,7 @@
 - **Lesson titles only:** Say Lesson N. Do not put Day, Week, Sedmica, or “30 days” in lesson titles or lesson hero labels.
 - **Curriculum groups:** Call groups **Section 1**, **Section 2**, etc. on the Learn page and in learner-facing copy. Do not label them Week 1 / Week 2.
 - **No em dashes:** Do not use — or – as punctuation in learner-facing copy, titles, fun facts, dialogue, or video narration. Use full sentences with periods, commas, colons, or parentheses.
-- **Full sentences:** Culture bodies, civic notes, and fun facts must be complete sentences. No slogan fragments.
+- **Full sentences:** Culture bodies, civic notes, fun facts, and `lessonBlocks` bodies must be complete sentences. No slogan fragments. Do not dump gloss lists after a colon (`Name the classics: burek (meat), sirnica (cheese)…`). Write one claim per sentence, then name the Bosnian word inside that sentence.
 - **Book vs website:** Chapter JSON is book-safe. Do not put “tap the accent buttons” or other website-only UI instructions in chapter content. Website components may show accent-button help on their own.
 
 - **Latin script only.** Never teach or display Cyrillic.
@@ -48,6 +48,7 @@ Every chapter JSON must include (even review lessons):
 ## Bosnia today and fun facts prose
 
 Write complete thoughts. Do not rant in fragments, slogan stubs, or colon-led trailers.
+The same ban applies to `lessonBlocks[].body`: no note-taking shorthand, no `Label: item, item, item` dumps, and no trailer after a colon that should have been its own sentence.
 
 **Shape for every `civicContext.body` and every fun-fact `body`:**
 

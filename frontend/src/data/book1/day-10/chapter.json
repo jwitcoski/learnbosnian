@@ -11,18 +11,18 @@
   "storyBeat": "Ana settles into the room above Amira’s and learns imati plus simple adjective agreement.",
   "learningGoals": {
     "vocabulary": [
-      "Home words: soba, kuća, stan, vrata, prozor",
-      "Furniture: krevet, sto, stolica, lampa",
-      "Size/comfort: velik, mala, lijepa, udoban"
+      "Name soba, kuća, stan, vrata, and prozor",
+      "Name krevet, sto, stolica, and lampa",
+      "Use velik, mala, lijepa, and udoban for size and comfort"
     ],
     "grammar": [
-      "Imam / imaš (have)",
-      "Adjective agreement intro with room words",
-      "Moja soba as a possessive chunk"
+      "Use imam and imaš for have",
+      "Match short adjectives to room words",
+      "Keep Moja soba as a ready possessive chunk"
     ],
     "culture": [
-      "Living above a café as a classic small-city arrangement",
-      "Stolac and Radimlja as a stone-house postcard from Herzegovina"
+      "Living above a café is a classic small-city arrangement",
+      "Visit Stolac and Radimlja as a stone-house postcard from Herzegovina"
     ]
   },
   "vocabulary": [
@@ -142,7 +142,7 @@
   "grammar": [
     {
       "title": "Imam / imaš",
-      "explanation": "Imati means to have. Today’s forms: Imam (I have) and imaš (you have). Imam sobu. Imam krevet. Imaš lampu? Keep objects as chunks.",
+      "explanation": "Imati means to have. Learn Imam for I have and imaš for you have. Say Imam sobu. Say Imam krevet. Ask Imaš lampu? Keep objects as chunks.",
       "examples": [
         {
           "bosnian": "Imam sobu.",
@@ -160,7 +160,7 @@
     },
     {
       "title": "Moja soba",
-      "explanation": "Soba is feminine, so moja soba is the natural chunk. Pair it with short descriptions: Moja soba je mala. Moja soba je lijepa.",
+      "explanation": "Soba is feminine, so moja soba is the natural chunk. Pair it with short descriptions. Say Moja soba je mala. Say Moja soba je lijepa.",
       "examples": [
         {
           "bosnian": "Moja soba je mala.",
@@ -174,7 +174,7 @@
     },
     {
       "title": "Adjective agreement intro",
-      "explanation": "Match the adjective shape to the noun you see. Feminine soba/kuća often take -a forms: mala, lijepa. Masculine prozor/krevet take forms like velik, udoban. Learn today’s pairs by ear.",
+      "explanation": "Match the adjective shape to the noun you see. Feminine soba and kuća often take -a forms such as mala and lijepa. Masculine prozor and krevet take forms like velik and udoban. Learn the pairs by ear in this lesson.",
       "examples": [
         {
           "bosnian": "Prozor je velik.",
@@ -200,19 +200,19 @@
     {
       "id": "a",
       "title": "Lesson A: Name the room",
-      "body": "Walk the space: soba, vrata, prozor, krevet, sto, stolica, lampa. Add kuća and stan for the wider home map. Ana touches each object and says the word twice. Emir refuses English escape hatches. If you live above a café, you still need Bosnian for the furniture.",
+      "body": "Walk the space and name what you see. Learn soba, vrata, prozor, krevet, sto, stolica, and lampa. Add kuća and stan for the wider home map. Ana touches each object and says the word twice. Emir refuses English escape hatches. If you live above a café, you still need Bosnian for the furniture.",
       "tips": [
-        "soba = room; stan = apartment; kuća = house",
+        "Soba is a room. Stan is an apartment. Kuća is a house.",
         "Point and name before you make long sentences"
       ]
     },
     {
       "id": "b",
       "title": "Lesson B: Imam and short descriptions",
-      "body": "Build: Imam sobu. Imam krevet. Moja soba je mala. Prozor je velik. Krevet je udoban. Ana hangs a tiny Livno cheese postcard next to a Stolac photo, then discovers Mrvica already claimed the pillow. Ownership is a spectrum.",
+      "body": "Build short ownership sentences. Say Imam sobu. Say Imam krevet. Say Moja soba je mala. Say Prozor je velik. Say Krevet je udoban. Ana hangs a tiny Livno cheese postcard next to a Stolac photo, then discovers Mrvica already claimed the pillow. Ownership is a spectrum.",
       "tips": [
-        "Kit: Imam… / Moja soba je… / … je velik/mala/udoban",
-        "Match mala/lijepa to feminine soba/kuća"
+        "Keep Imam, Moja soba je, and short adjective endings ready",
+        "Match mala and lijepa to feminine soba and kuća"
       ]
     }
   ],

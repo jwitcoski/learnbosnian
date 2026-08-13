@@ -11,24 +11,24 @@
   "storyBeat": "Ana’s food disasters begin with burek. Emir teaches likes and a gentle accusative chunk.",
   "learningGoals": {
     "vocabulary": [
-      "Food words: burek, sirnica, zeljanica, hljeb, jogurt",
-      "Likes: volim / ne volim",
-      "Hungry: gladan / gladna; ukusno; dobar tek"
+      "Name burek, sirnica, zeljanica, hljeb, and jogurt",
+      "Use volim and ne volim for likes and dislikes",
+      "Say gladan or gladna, ukusno, and dobar tek"
     ],
     "grammar": [
-      "Volim + object chunk (accusative singular intro)",
-      "Ne volim for polite dislike",
-      "Gender on gladan / gladna"
+      "Use Volim plus a food object as one ready chunk",
+      "Use Ne volim for a polite dislike",
+      "Match gladan and gladna to the speaker"
     ],
     "culture": [
-      "In BiH, burek means meat. cheese pie is sirnica",
-      "Livno highland food postcard beyond the café street"
+      "In BiH, burek means meat, and cheese pie is sirnica",
+      "See Livno highland cheese beyond the café street"
     ]
   },
   "vocabulary": [
     {
       "bosnian": "burek",
-      "english": "meat pastry (Bosnian: meat only)",
+      "english": "meat pastry (meat only in Bosnian)",
       "pronunciation": "BOO-rek",
       "partOfSpeech": "noun",
       "example": "Volim burek."
@@ -142,7 +142,7 @@
   "grammar": [
     {
       "title": "Volim + object",
-      "explanation": "Volim means I love or I like. Put the food after it as a ready chunk: Volim burek. Volim kahvu. For many feminine food nouns ending in -a, the spoken object often ends in -u: Volim sirnicu. Volim zeljanicu. Learn the pairs as phrases first. Do not memorize a full case table today.",
+      "explanation": "Volim means I love or I like. Put the food after it as a ready chunk. Say Volim burek. Say Volim kahvu. For many feminine food nouns ending in -a, the spoken object often ends in -u. Say Volim sirnicu. Say Volim zeljanicu. Learn the pairs as phrases first. Do not memorize a full case table in this lesson.",
       "examples": [
         {
           "bosnian": "Volim burek.",
@@ -160,7 +160,7 @@
     },
     {
       "title": "Ne volim",
-      "explanation": "Add ne before volim to say you do not like something: Ne volim luk. Ne volim čaj. Keep it soft and clear. You can still be polite while you refuse a filling.",
+      "explanation": "Add ne before volim to say you do not like something. Say Ne volim luk. Say Ne volim čaj. Keep it soft and clear. You can still be polite while you refuse a filling.",
       "examples": [
         {
           "bosnian": "Ne volim luk.",
@@ -200,19 +200,19 @@
     {
       "id": "a",
       "title": "Lesson A: Food words on the tray",
-      "body": "Name the classics: burek (meat), sirnica (cheese), zeljanica (greens), pita as the general phyllo pie word. Add hljeb, jogurt, meso, sir, voće, povrće. Say each twice. Mark the BiH spelling hljeb. Emir points at the tray and refuses the tourist trap sentence burek sa sirom. In Bosnian that fight is real: burek is with meat.",
+      "body": "Start with the classics on the tray. Burek is the meat pastry. Sirnica is the cheese pita. Zeljanica is the greens pita. Pita is the general word for a phyllo pie. Add hljeb, jogurt, meso, sir, voće, and povrće next. Say each word twice. Mark the BiH spelling of hljeb with lj. Emir points at the tray and refuses the tourist trap sentence burek sa sirom. In Bosnian that fight is real. Burek comes with meat.",
       "tips": [
-        "burek = meat; sirnica = cheese; zeljanica = greens",
+        "Burek is meat. Sirnica is cheese. Zeljanica is greens.",
         "Type hljeb with lj, not a soft English h-leb guess"
       ]
     },
     {
       "id": "b",
       "title": "Lesson B: Volim / ne volim at the counter",
-      "body": "Build today’s kit: Volim burek. Volim sirnicu. Ne volim luk. Ja sam gladna / gladan. Ukusno! Dobar tek! Ana tries a too-hot bite, drops flakes on Mrvica, and still finishes the sentence. Food disasters are allowed. Silent pointing is not the goal.",
+      "body": "Build your counter phrases as full sentences. Say Volim burek. Say Volim sirnicu. Say Ne volim luk. Ana says Ja sam gladna. Emir says Ja sam gladan. Finish with Ukusno! and Dobar tek! Ana tries a too-hot bite, drops flakes on Mrvica, and still finishes the sentence. Food disasters are allowed. Silent pointing is not the goal.",
       "tips": [
-        "Chunk: Volim… / Ne volim… / Dobar tek!",
-        "Use gladna if you are Ana; gladan if you are Emir"
+        "Keep the chunks Volim, Ne volim, and Dobar tek ready",
+        "Use gladna if you are Ana. Use gladan if you are Emir."
       ]
     }
   ],
@@ -528,7 +528,7 @@
     {
       "day": 8,
       "bosnian": "burek",
-      "english": "meat pastry (Bosnian: meat only)",
+      "english": "meat pastry (meat only in Bosnian)",
       "pronunciation": "BOO-rek",
       "partOfSpeech": "noun",
       "example": "Volim burek."
