@@ -1,7 +1,7 @@
 # Book 1 lesson authoring guide
 
 **Exemplar:** Lesson 1 — `content/book1/day-01/chapter.json` (+ `video-script.md`)  
-**Also aligned:** Lessons 2–3 (same shape)  
+**Also aligned:** Lessons 2–3 and 4–10 (same shape)  
 **Exception:** Lesson 0 (orientation) and review lessons (7, 14, 21, 30) — see §5
 
 Use this guide for **Lessons 4–30**. Do not invent a new chapter shape. Copy Lesson 1’s structure; swap language focus and story beat from `outline.json`.

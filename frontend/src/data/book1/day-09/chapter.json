@@ -5,54 +5,759 @@
   "title": "U prodavnici",
   "titleEn": "At the shop",
   "theme": "Market day",
-  "status": "outlined",
+  "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "",
+  "reviewerNotes": "Full draft to Lesson 1 exemplar bar. ready for human review before publish.",
   "estimatedMinutes": 60,
-  "storyBeat": "Shopping with Emir",
+  "storyBeat": "Ana shops with Emir and practices želim, molim, hvala, and prices.",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 9: Shopping, željeti, molim/hvala"
+      "Shop and market: prodavnica, pijaca, kesa, novac",
+      "Foods to buy: jabuka, banana, voda, mlijeko",
+      "Price talk: koliko košta, jeftino, skupo"
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Želim + object chunks",
+      "Polite kit: molim / hvala",
+      "Koliko košta? for price questions"
     ],
     "culture": [
-      "Market day"
+      "Market energy in Tuzla, a northern city beyond Sarajevo’s old bazaar",
+      "Small polite routines keep the queue moving"
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "prodavnica",
+      "english": "shop / store",
+      "pronunciation": "pro-DAV-nee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Idemo u prodavnicu."
+    },
+    {
+      "bosnian": "pijaca",
+      "english": "market",
+      "pronunciation": "pee-YA-tsa",
+      "partOfSpeech": "noun",
+      "example": "Na pijaci ima voća."
+    },
+    {
+      "bosnian": "željeti",
+      "english": "to want",
+      "pronunciation": "ZHE-lye-tee",
+      "partOfSpeech": "verb",
+      "example": "Želim jabuku."
+    },
+    {
+      "bosnian": "želim",
+      "english": "I want",
+      "pronunciation": "ZHE-leem",
+      "partOfSpeech": "verb form",
+      "example": "Želim hljeb."
+    },
+    {
+      "bosnian": "molim",
+      "english": "please / you’re welcome",
+      "pronunciation": "MO-leem",
+      "partOfSpeech": "particle",
+      "example": "Hljeb, molim."
+    },
+    {
+      "bosnian": "hvala",
+      "english": "thank you",
+      "pronunciation": "HVAH-la",
+      "partOfSpeech": "interjection",
+      "example": "Hvala!"
+    },
+    {
+      "bosnian": "koliko košta",
+      "english": "how much does it cost",
+      "pronunciation": "KOH-lee-koh KOSH-ta",
+      "partOfSpeech": "phrase",
+      "example": "Koliko košta?"
+    },
+    {
+      "bosnian": "kilogram",
+      "english": "kilogram",
+      "pronunciation": "KEE-lo-gram",
+      "partOfSpeech": "noun",
+      "example": "Jedan kilogram."
+    },
+    {
+      "bosnian": "jabuka",
+      "english": "apple",
+      "pronunciation": "YA-boo-ka",
+      "partOfSpeech": "noun",
+      "example": "Želim jabuku."
+    },
+    {
+      "bosnian": "banana",
+      "english": "banana",
+      "pronunciation": "ba-NA-na",
+      "partOfSpeech": "noun",
+      "example": "Dvije banane."
+    },
+    {
+      "bosnian": "voda",
+      "english": "water",
+      "pronunciation": "VO-da",
+      "partOfSpeech": "noun",
+      "example": "Vodu, molim."
+    },
+    {
+      "bosnian": "mlijeko",
+      "english": "milk",
+      "pronunciation": "MLYE-ko",
+      "partOfSpeech": "noun",
+      "example": "Mlijeko, molim."
+    },
+    {
+      "bosnian": "novac",
+      "english": "money",
+      "pronunciation": "NO-vats",
+      "partOfSpeech": "noun",
+      "example": "Imam novac."
+    },
+    {
+      "bosnian": "jeftino",
+      "english": "cheap",
+      "pronunciation": "YEF-tee-no",
+      "partOfSpeech": "adverb/adj",
+      "example": "To je jeftino."
+    },
+    {
+      "bosnian": "skupo",
+      "english": "expensive",
+      "pronunciation": "SKOO-po",
+      "partOfSpeech": "adverb/adj",
+      "example": "To je skupo."
+    },
+    {
+      "bosnian": "kesa",
+      "english": "bag",
+      "pronunciation": "KEH-sa",
+      "partOfSpeech": "noun",
+      "example": "Kesa, molim."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Želim + object",
+      "explanation": "Želim means I want. Use it at the counter: Želim jabuku. Želim hljeb. Želim vodu. Feminine -a nouns often take -u in this chunk. Keep the list short and sayable.",
+      "examples": [
+        {
+          "bosnian": "Želim jabuku.",
+          "english": "I want an apple."
+        },
+        {
+          "bosnian": "Želim vodu.",
+          "english": "I want water."
+        },
+        {
+          "bosnian": "Želim hljeb.",
+          "english": "I want bread."
+        }
+      ]
+    },
+    {
+      "title": "Molim and hvala",
+      "explanation": "Molim softens a request (Hljeb, molim.) and can also answer thank you as you’re welcome. Hvala is thank you. Stack them: Hvala! Molim!",
+      "examples": [
+        {
+          "bosnian": "Hljeb, molim.",
+          "english": "Bread, please."
+        },
+        {
+          "bosnian": "Hvala!",
+          "english": "Thank you!"
+        },
+        {
+          "bosnian": "Molim!",
+          "english": "You’re welcome!"
+        }
+      ]
+    },
+    {
+      "title": "Koliko košta?",
+      "explanation": "Ask the price with Koliko košta? Answer with a number and KM if you know it, or just react: To je jeftino. To je skupo.",
+      "examples": [
+        {
+          "bosnian": "Koliko košta?",
+          "english": "How much does it cost?"
+        },
+        {
+          "bosnian": "To je jeftino.",
+          "english": "That is cheap."
+        },
+        {
+          "bosnian": "To je skupo.",
+          "english": "That is expensive."
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "Market day",
-    "body": "Stub for Lesson 9. Full culture hook will be written on the draft night.",
-    "imageId": null
+    "title": "Market day energy in Tuzla",
+    "body": "Sarajevo’s Baščaršija is only one shopping map. Emir shows Ana photos from Tuzla in the northeast: an old-town street, a public fountain, and the everyday habit of buying fruit by the kilogram. A prodavnica can be a tiny corner shop. A pijaca is the open market where voices, scales, and kesa bags do the work. Today’s language is short on purpose. You want something, you ask the price, you say hvala.",
+    "imageId": "tuzla-fountain"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A: Shop words that move",
+      "body": "Learn the places: prodavnica (shop) and pijaca (market). Add bag and money: kesa, novac. Then stock the basket: jabuka, banana, voda, mlijeko, plus hljeb from yesterday. Practice pointing and naming before you speak full sentences. Emir makes Ana say mlijeko with lj, not a soft English milk guess.",
+      "tips": [
+        "prodavnica = shop; pijaca = market",
+        "Type mlijeko with lj"
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B: Želim, molim, hvala",
+      "body": "Run the counter script: Želim jabuku, molim. Koliko košta? Hvala! Grab a kesa. Decide jeftino or skupo. Ana almost pays with the wrong coins, Emir laughs, and Mrvica somehow appears near the fruit crate as if she has a loyalty card.",
+      "tips": [
+        "Kit: Želim… molim. / Koliko košta? / Hvala!",
+        "React with jeftino or skupo after the price"
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Na pijaci",
+    "setting": "A small market street. Scales, fruit crates, a shopkeeper with little patience and a good heart.",
+    "lines": [
+      {
+        "speaker": "Emir",
+        "bosnian": "Idemo u prodavnicu. Pa na pijacu.",
+        "english": "Let’s go to the shop. Then to the market."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Želim jabuku, molim.",
+        "english": "I want an apple, please."
+      },
+      {
+        "speaker": "Shopkeeper",
+        "bosnian": "Dobro. Koliko?",
+        "english": "Good. How many?"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Dvije jabuke. Koliko košta?",
+        "english": "Two apples. How much does it cost?"
+      },
+      {
+        "speaker": "Shopkeeper",
+        "bosnian": "Tri KM. Jeftino!",
+        "english": "Three KM. Cheap!"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Hvala! Kesa, molim.",
+        "english": "Thank you! A bag, please."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "I mlijeko? Ja želim mlijeko.",
+        "english": "And milk? I want milk."
+      },
+      {
+        "speaker": "Narrator",
+        "bosnian": "Mrvica gleda banane. Emir: Ne.",
+        "english": "Mrvica stares at the bananas. Emir: No."
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match shop words",
+      "prompt": "Match Bosnian to English.",
+      "items": [
+        {
+          "left": "prodavnica",
+          "right": "shop"
+        },
+        {
+          "left": "pijaca",
+          "right": "market"
+        },
+        {
+          "left": "kesa",
+          "right": "bag"
+        },
+        {
+          "left": "hvala",
+          "right": "thank you"
+        },
+        {
+          "left": "skupo",
+          "right": "expensive"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "scramble",
+      "title": "Unscramble the request",
+      "prompt": "Unscramble to make today’s phrases.",
+      "items": [
+        {
+          "scrambled": "jabuku Želim molim",
+          "answer": "želim jabuku molim"
+        },
+        {
+          "scrambled": "košta Koliko",
+          "answer": "koliko košta"
+        },
+        {
+          "scrambled": "mlijeko Želim",
+          "answer": "želim mlijeko"
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Write I want an apple (object form).",
+      "hint": "Želim jabuku",
+      "answer": "Želim jabuku"
+    },
+    {
+      "id": "pr2",
+      "prompt": "Write Bread, please.",
+      "hint": "…, molim",
+      "answer": "Hljeb, molim"
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write How much does it cost?",
+      "hint": "Koliko…",
+      "answer": "Koliko košta"
+    },
+    {
+      "id": "pr4",
+      "prompt": "Write thank you.",
+      "hint": "h…",
+      "answer": "hvala"
+    },
+    {
+      "id": "pr5",
+      "prompt": "Write the BiH spelling for milk.",
+      "hint": "mlj-",
+      "answer": "mlijeko"
+    },
+    {
+      "id": "pr6",
+      "prompt": "Write That is expensive.",
+      "hint": "To je…",
+      "answer": "To je skupo"
+    },
+    {
+      "id": "pr7",
+      "prompt": "Write That is cheap.",
+      "hint": "To je…",
+      "answer": "To je jeftino"
+    },
+    {
+      "id": "pr8",
+      "prompt": "Write A bag, please.",
+      "hint": "Kesa…",
+      "answer": "Kesa, molim"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "KM on the price tag",
+      "body": "Prices are in convertible marks (KM). You do not need a finance lecture to ask Koliko košta? and understand the number."
+    },
+    {
+      "title": "Tuzla’s other fame",
+      "body": "Tuzla is known for salt and for a large urban center in the northeast. A market day there feels different from Baščaršija tourist lanes."
+    },
+    {
+      "title": "Molim does double duty",
+      "body": "Molim can mean please in a request and you’re welcome after hvala. Context tells you which one you heard."
+    },
+    {
+      "title": "Kesa is not optional",
+      "body": "Asking for a bag is normal. It is also a clean way to practice molim one more time before you leave."
+    }
+  ],
   "resources": [
     {
       "label": "How to speak Bosnian (YouTube)",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "note": "Companion video for Lesson 9"
+    },
+    {
+      "label": "Next: Lesson 10: Moja soba",
+      "url": "/learn/lesson/10",
+      "note": "Home words above Amira’s café"
+    },
+    {
+      "label": "Book 1 curriculum",
+      "url": "/learn",
+      "note": "See all lessons"
     }
   ],
   "sectionQuiz": {
     "title": "Lesson 9 section quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What is a prodavnica?",
+        "options": [
+          "A waterfall",
+          "A shop",
+          "A bridge",
+          "A clock tower"
+        ],
+        "correctIndex": 1,
+        "explanation": "Prodavnica means shop/store.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q2",
+        "prompt": "How do you say I want milk?",
+        "options": [
+          "Volim mlijeko samo",
+          "Želim mlijeko.",
+          "Ne volim vodu.",
+          "To je skupo mlijeko samo"
+        ],
+        "correctIndex": 1,
+        "explanation": "Želim + object.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q3",
+        "prompt": "Koliko košta? asks about…",
+        "options": [
+          "The time",
+          "The price",
+          "The weather",
+          "Your name"
+        ],
+        "correctIndex": 1,
+        "explanation": "It means how much does it cost?",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q4",
+        "prompt": "Which word means thank you?",
+        "options": [
+          "molim",
+          "hvala",
+          "kesa",
+          "skupo"
+        ],
+        "correctIndex": 1,
+        "explanation": "Hvala = thank you.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q5",
+        "prompt": "Tuzla appears in this lesson as…",
+        "options": [
+          "A southern sea port only",
+          "A northeast city with market energy",
+          "Only a desert",
+          "A fictional café name"
+        ],
+        "correctIndex": 1,
+        "explanation": "The culture hook widens the map to Tuzla.",
+        "skill": "culture"
+      },
+      {
+        "id": "q6",
+        "prompt": "Ana asks for a bag. What does she say?",
+        "options": [
+          "Kesa, molim.",
+          "Skupo, molim.",
+          "Gladan, molim.",
+          "Burek, hvala samo."
+        ],
+        "correctIndex": 0,
+        "explanation": "Kesa, molim.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q7",
+        "prompt": "To je skupo means…",
+        "options": [
+          "That is cheap.",
+          "That is expensive.",
+          "That is water.",
+          "That is an apple."
+        ],
+        "correctIndex": 1,
+        "explanation": "Skupo = expensive.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q8",
+        "prompt": "Which spelling is the BiH form for milk?",
+        "options": [
+          "mleko only",
+          "mlijeko",
+          "mliko",
+          "milk-o"
+        ],
+        "correctIndex": 1,
+        "explanation": "This course uses mlijeko.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q9",
+        "prompt": "In the shopping listen clip, you mainly train…",
+        "options": [
+          "Silent reading only",
+          "Hearing price and want phrases in real teaching speech",
+          "Swimming verbs",
+          "Past tense only"
+        ],
+        "correctIndex": 1,
+        "explanation": "Čuj Bosnu here targets shop phrases.",
+        "skill": "listening"
+      }
+    ]
   },
-  "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to: Market day"
+  "dictionaryEntries": [
+    {
+      "day": 9,
+      "bosnian": "prodavnica",
+      "english": "shop / store",
+      "pronunciation": "pro-DAV-nee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Idemo u prodavnicu."
+    },
+    {
+      "day": 9,
+      "bosnian": "pijaca",
+      "english": "market",
+      "pronunciation": "pee-YA-tsa",
+      "partOfSpeech": "noun",
+      "example": "Na pijaci ima voća."
+    },
+    {
+      "day": 9,
+      "bosnian": "željeti",
+      "english": "to want",
+      "pronunciation": "ZHE-lye-tee",
+      "partOfSpeech": "verb",
+      "example": "Želim jabuku."
+    },
+    {
+      "day": 9,
+      "bosnian": "želim",
+      "english": "I want",
+      "pronunciation": "ZHE-leem",
+      "partOfSpeech": "verb form",
+      "example": "Želim hljeb."
+    },
+    {
+      "day": 9,
+      "bosnian": "molim",
+      "english": "please / you’re welcome",
+      "pronunciation": "MO-leem",
+      "partOfSpeech": "particle",
+      "example": "Hljeb, molim."
+    },
+    {
+      "day": 9,
+      "bosnian": "hvala",
+      "english": "thank you",
+      "pronunciation": "HVAH-la",
+      "partOfSpeech": "interjection",
+      "example": "Hvala!"
+    },
+    {
+      "day": 9,
+      "bosnian": "koliko košta",
+      "english": "how much does it cost",
+      "pronunciation": "KOH-lee-koh KOSH-ta",
+      "partOfSpeech": "phrase",
+      "example": "Koliko košta?"
+    },
+    {
+      "day": 9,
+      "bosnian": "kilogram",
+      "english": "kilogram",
+      "pronunciation": "KEE-lo-gram",
+      "partOfSpeech": "noun",
+      "example": "Jedan kilogram."
+    },
+    {
+      "day": 9,
+      "bosnian": "jabuka",
+      "english": "apple",
+      "pronunciation": "YA-boo-ka",
+      "partOfSpeech": "noun",
+      "example": "Želim jabuku."
+    },
+    {
+      "day": 9,
+      "bosnian": "banana",
+      "english": "banana",
+      "pronunciation": "ba-NA-na",
+      "partOfSpeech": "noun",
+      "example": "Dvije banane."
+    },
+    {
+      "day": 9,
+      "bosnian": "voda",
+      "english": "water",
+      "pronunciation": "VO-da",
+      "partOfSpeech": "noun",
+      "example": "Vodu, molim."
+    },
+    {
+      "day": 9,
+      "bosnian": "mlijeko",
+      "english": "milk",
+      "pronunciation": "MLYE-ko",
+      "partOfSpeech": "noun",
+      "example": "Mlijeko, molim."
+    },
+    {
+      "day": 9,
+      "bosnian": "novac",
+      "english": "money",
+      "pronunciation": "NO-vats",
+      "partOfSpeech": "noun",
+      "example": "Imam novac."
+    },
+    {
+      "day": 9,
+      "bosnian": "jeftino",
+      "english": "cheap",
+      "pronunciation": "YEF-tee-no",
+      "partOfSpeech": "adverb/adj",
+      "example": "To je jeftino."
+    },
+    {
+      "day": 9,
+      "bosnian": "skupo",
+      "english": "expensive",
+      "pronunciation": "SKOO-po",
+      "partOfSpeech": "adverb/adj",
+      "example": "To je skupo."
+    },
+    {
+      "day": 9,
+      "bosnian": "kesa",
+      "english": "bag",
+      "pronunciation": "KEH-sa",
+      "partOfSpeech": "noun",
+      "example": "Kesa, molim."
+    }
+  ],
+  "images": [
+    {
+      "id": "tuzla-fountain",
+      "alt": "Public fountain in Tuzla",
+      "localPath": "/images/book1/day-09-tuzla-fountain.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Public_fountain%2C_Tuzla%2C_Bosnia.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3APublic_fountain%2C_Tuzla%2C_Bosnia.jpg",
+      "author": "Little Green Dragon",
+      "license": "CC BY 2.0",
+      "credit": "Based on photo: Public fountain, Tuzla, Bosnia.jpg. Little Green Dragon / Wikimedia Commons (CC BY 2.0)"
+    },
+    {
+      "id": "tuzla-old-town",
+      "alt": "Tuzla old town street",
+      "localPath": "/images/book1/day-09-tuzla-street.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/WV_banner_NE_Bosnia_Tuzla_old_town.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWV_banner_NE_Bosnia_Tuzla_old_town.jpg",
+      "author": "Deanza7",
+      "license": "CC0",
+      "credit": "Based on photo: WV banner NE Bosnia Tuzla old town.jpg. Deanza7 / Wikimedia Commons (CC0)"
+    },
+    {
+      "id": "sarajevo-market",
+      "alt": "Open market stalls in Sarajevo",
+      "localPath": "/images/book1/day-09-market.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sarajevo_Markt01.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_Markt01.jpg",
+      "author": "Christian Bickel",
+      "license": "CC BY-SA 2.0 de",
+      "credit": "Based on photo: Sarajevo Markt01.jpg. Christian Bickel / Wikimedia Commons (CC BY-SA 2.0 de)"
+    },
+    {
+      "id": "civic-tuzla-museum",
+      "alt": "Museum of East Bosnia in Tuzla",
+      "localPath": "/images/book1/day-09-civic-tuzla.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Museum_of_East_Bosnia%2C_Tuzla.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMuseum_of_East_Bosnia%2C_Tuzla.jpg",
+      "author": "Apokar",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Museum of East Bosnia, Tuzla.jpg. Apokar / Wikimedia Commons (CC BY-SA 4.0)"
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [],
+  "civicContext": {
+    "title": "Industrial cities still carry the weight of transition",
+    "body": "Tuzla grew as an industrial and energy hub, and after the war its workers faced plant closures, privatization fights, and long job insecurity while retail and services filled some gaps. A friendly market queue for apples sits next to that harder fact: many northern towns still negotiate what replaces old industrial wages.",
+    "imageId": "civic-tuzla-museum",
+    "learnMore": {
+      "label": "Wikipedia: Tuzla",
+      "url": "https://en.wikipedia.org/wiki/Tuzla"
+    }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu: shopping phrases in lesson speech",
+    "kind": "speaker",
+    "hook": "Hear how much is… and other everyday shopping phrases outside our studio cast.",
+    "source": {
+      "title": "bs learn A1 Book 1 Ch.20: How much is ...? | everyday shopping phrases",
+      "artistOrSpeaker": "SynapseLingo",
+      "regionOrScene": "Shop / prices",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "SynapseLingo Bosnian shopping phrases on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=zExUj5IIobY",
+      "embedUrl": "https://www.youtube.com/watch?v=zExUj5IIobY"
+    },
+    "durationHint": "45-90 seconds",
+    "listenTask": {
+      "prompt": "Listen for price or wanting phrases you can reuse at a counter.",
+      "gistQuestion": {
+        "prompt": "What is the clip mainly teaching?",
+        "options": [
+          "Mountain climbing only",
+          "Everyday shopping / price language",
+          "Presidential elections",
+          "Silent meditation"
+        ],
+        "correctIndex": 1
+      },
+      "targetWords": [
+        "koliko",
+        "košta",
+        "želim"
+      ],
+      "noticePrompt": "Even if the teacher’s pace differs from Emir’s, hunt for the same kit: want, please, price."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Koliko košta?",
+          "english": "How much does it cost?"
+        },
+        {
+          "bosnian": "Želim…",
+          "english": "I want…"
+        }
+      ],
+      "teacherNote": "Reuse those anchors at a real pijaca."
+    }
+  },
+  "speakTargets": [
+    1,
+    3,
+    5
   ]
 }

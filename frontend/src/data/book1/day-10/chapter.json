@@ -5,54 +5,764 @@
   "title": "Moja soba",
   "titleEn": "My room",
   "theme": "Room above the café",
-  "status": "outlined",
+  "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "",
+  "reviewerNotes": "Full draft to Lesson 1 exemplar bar. ready for human review before publish.",
   "estimatedMinutes": 60,
-  "storyBeat": "Ana settles into the room above Amira’s",
+  "storyBeat": "Ana settles into the room above Amira’s and learns imati plus simple adjective agreement.",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 10: Home/hotel, imati, adjective agreement"
+      "Home words: soba, kuća, stan, vrata, prozor",
+      "Furniture: krevet, sto, stolica, lampa",
+      "Size/comfort: velik, mala, lijepa, udoban"
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Imam / imaš (have)",
+      "Adjective agreement intro with room words",
+      "Moja soba as a possessive chunk"
     ],
     "culture": [
-      "Room above the café"
+      "Living above a café as a classic small-city arrangement",
+      "Stolac and Radimlja as a stone-house postcard from Herzegovina"
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "soba",
+      "english": "room",
+      "pronunciation": "SO-ba",
+      "partOfSpeech": "noun",
+      "example": "Moja soba je mala."
+    },
+    {
+      "bosnian": "kuća",
+      "english": "house",
+      "pronunciation": "KOO-cha",
+      "partOfSpeech": "noun",
+      "example": "To je lijepa kuća."
+    },
+    {
+      "bosnian": "stan",
+      "english": "apartment",
+      "pronunciation": "stahn",
+      "partOfSpeech": "noun",
+      "example": "Stan je iznad kafića."
+    },
+    {
+      "bosnian": "vrata",
+      "english": "door",
+      "pronunciation": "VRAH-ta",
+      "partOfSpeech": "noun",
+      "example": "Vrata su otvorena."
+    },
+    {
+      "bosnian": "prozor",
+      "english": "window",
+      "pronunciation": "PRO-zor",
+      "partOfSpeech": "noun",
+      "example": "Prozor je velik."
+    },
+    {
+      "bosnian": "krevet",
+      "english": "bed",
+      "pronunciation": "KREH-vet",
+      "partOfSpeech": "noun",
+      "example": "Krevet je udoban."
+    },
+    {
+      "bosnian": "sto",
+      "english": "table",
+      "pronunciation": "stoh",
+      "partOfSpeech": "noun",
+      "example": "Sto je mali."
+    },
+    {
+      "bosnian": "stolica",
+      "english": "chair",
+      "pronunciation": "STO-lee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Stolica je crvena."
+    },
+    {
+      "bosnian": "lampa",
+      "english": "lamp",
+      "pronunciation": "LAHM-pa",
+      "partOfSpeech": "noun",
+      "example": "Lampa je nova."
+    },
+    {
+      "bosnian": "imati",
+      "english": "to have",
+      "pronunciation": "EE-ma-tee",
+      "partOfSpeech": "verb",
+      "example": "Imam sobu."
+    },
+    {
+      "bosnian": "imam",
+      "english": "I have",
+      "pronunciation": "EE-mam",
+      "partOfSpeech": "verb form",
+      "example": "Imam krevet."
+    },
+    {
+      "bosnian": "imaš",
+      "english": "you have",
+      "pronunciation": "EE-mash",
+      "partOfSpeech": "verb form",
+      "example": "Imaš sto?"
+    },
+    {
+      "bosnian": "velik",
+      "english": "big (m.)",
+      "pronunciation": "VEH-lik",
+      "partOfSpeech": "adjective",
+      "example": "Prozor je velik."
+    },
+    {
+      "bosnian": "mala",
+      "english": "small (f.)",
+      "pronunciation": "MAH-la",
+      "partOfSpeech": "adjective",
+      "example": "Soba je mala."
+    },
+    {
+      "bosnian": "lijepa",
+      "english": "beautiful (f.)",
+      "pronunciation": "LYE-pa",
+      "partOfSpeech": "adjective",
+      "example": "Kuća je lijepa."
+    },
+    {
+      "bosnian": "udoban",
+      "english": "comfortable (m.)",
+      "pronunciation": "OO-do-ban",
+      "partOfSpeech": "adjective",
+      "example": "Krevet je udoban."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Imam / imaš",
+      "explanation": "Imati means to have. Today’s forms: Imam (I have) and imaš (you have). Imam sobu. Imam krevet. Imaš lampu? Keep objects as chunks.",
+      "examples": [
+        {
+          "bosnian": "Imam sobu.",
+          "english": "I have a room."
+        },
+        {
+          "bosnian": "Imam krevet.",
+          "english": "I have a bed."
+        },
+        {
+          "bosnian": "Imaš sto?",
+          "english": "Do you have a table?"
+        }
+      ]
+    },
+    {
+      "title": "Moja soba",
+      "explanation": "Soba is feminine, so moja soba is the natural chunk. Pair it with short descriptions: Moja soba je mala. Moja soba je lijepa.",
+      "examples": [
+        {
+          "bosnian": "Moja soba je mala.",
+          "english": "My room is small."
+        },
+        {
+          "bosnian": "Moja soba je lijepa.",
+          "english": "My room is beautiful."
+        }
+      ]
+    },
+    {
+      "title": "Adjective agreement intro",
+      "explanation": "Match the adjective shape to the noun you see. Feminine soba/kuća often take -a forms: mala, lijepa. Masculine prozor/krevet take forms like velik, udoban. Learn today’s pairs by ear.",
+      "examples": [
+        {
+          "bosnian": "Prozor je velik.",
+          "english": "The window is big."
+        },
+        {
+          "bosnian": "Krevet je udoban.",
+          "english": "The bed is comfortable."
+        },
+        {
+          "bosnian": "Kuća je lijepa.",
+          "english": "The house is beautiful."
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "Room above the café",
-    "body": "Stub for Lesson 10. Full culture hook will be written on the draft night.",
-    "imageId": null
+    "title": "A room upstairs, and stone houses farther south",
+    "body": "Ana’s new address is simple: a small soba above Amira’s café, with a window over the street and a door that never quite keeps Mrvica out. Emir widens the home idea with a postcard from Stolac in Herzegovina, where stone houses and the Radimlja stećci necropolis sit in open light. Home language can start in one rented room and still point to older ways of living on the land.",
+    "imageId": "stolac-radimlja"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A: Name the room",
+      "body": "Walk the space: soba, vrata, prozor, krevet, sto, stolica, lampa. Add kuća and stan for the wider home map. Ana touches each object and says the word twice. Emir refuses English escape hatches. If you live above a café, you still need Bosnian for the furniture.",
+      "tips": [
+        "soba = room; stan = apartment; kuća = house",
+        "Point and name before you make long sentences"
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B: Imam and short descriptions",
+      "body": "Build: Imam sobu. Imam krevet. Moja soba je mala. Prozor je velik. Krevet je udoban. Ana hangs a tiny Livno cheese postcard next to a Stolac photo, then discovers Mrvica already claimed the pillow. Ownership is a spectrum.",
+      "tips": [
+        "Kit: Imam… / Moja soba je… / … je velik/mala/udoban",
+        "Match mala/lijepa to feminine soba/kuća"
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Iznad kafića",
+    "setting": "Ana’s room above Amira’s. Soft street noise, one suitcase, one judgmental cat.",
+    "lines": [
+      {
+        "speaker": "Amira",
+        "bosnian": "Ovo je tvoja soba.",
+        "english": "This is your room."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Hvala! Moja soba je mala, ali lijepa.",
+        "english": "Thank you! My room is small, but beautiful."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Imaš krevet? Sto? Stolicu?",
+        "english": "Do you have a bed? A table? A chair?"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Imam krevet. Imam sto. Imam stolicu.",
+        "english": "I have a bed. I have a table. I have a chair."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Prozor je velik. Dobro za zrak.",
+        "english": "The window is big. Good for air."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Krevet je udoban. Volim moju sobu!",
+        "english": "The bed is comfortable. I love my room!"
+      },
+      {
+        "speaker": "Narrator",
+        "bosnian": "Mrvica sjedi na jastuku. To je sada njen sto.",
+        "english": "Mrvica sits on the pillow. That is her table now."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Ona ima sobu. Ti imaš sobu. Super!",
+        "english": "She has a room. You have a room. Great!"
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match home words",
+      "prompt": "Match Bosnian to English.",
+      "items": [
+        {
+          "left": "soba",
+          "right": "room"
+        },
+        {
+          "left": "prozor",
+          "right": "window"
+        },
+        {
+          "left": "krevet",
+          "right": "bed"
+        },
+        {
+          "left": "stolica",
+          "right": "chair"
+        },
+        {
+          "left": "lampa",
+          "right": "lamp"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "truefalse",
+      "title": "True or false: room talk",
+      "prompt": "Mark each sentence true or false for this lesson.",
+      "items": [
+        {
+          "statement": "Imam means I have.",
+          "answer": true
+        },
+        {
+          "statement": "Moja soba is a natural feminine chunk.",
+          "answer": true
+        },
+        {
+          "statement": "Kuća means window.",
+          "answer": false
+        },
+        {
+          "statement": "Stolac appears as a Herzegovina postcard place.",
+          "answer": true
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Write I have a room (object chunk).",
+      "hint": "Imam sobu",
+      "answer": "Imam sobu"
+    },
+    {
+      "id": "pr2",
+      "prompt": "Write My room is small.",
+      "hint": "Moja soba je…",
+      "answer": "Moja soba je mala"
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write The window is big.",
+      "hint": "Prozor je…",
+      "answer": "Prozor je velik"
+    },
+    {
+      "id": "pr4",
+      "prompt": "Write The bed is comfortable.",
+      "hint": "Krevet je…",
+      "answer": "Krevet je udoban"
+    },
+    {
+      "id": "pr5",
+      "prompt": "Write Do you have a table?",
+      "hint": "Imaš…",
+      "answer": "Imaš sto"
+    },
+    {
+      "id": "pr6",
+      "prompt": "Write the word for chair.",
+      "hint": "sto-",
+      "answer": "stolica"
+    },
+    {
+      "id": "pr7",
+      "prompt": "Write The house is beautiful.",
+      "hint": "Kuća je…",
+      "answer": "Kuća je lijepa"
+    },
+    {
+      "id": "pr8",
+      "prompt": "Write I have a lamp (object with -u).",
+      "hint": "Imam lampu",
+      "answer": "Imam lampu"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "Upstairs from the kahva",
+      "body": "Living above a café is a practical city pattern: short commute, strong coffee smell, and neighbors who already know your order."
+    },
+    {
+      "title": "Stećci near Stolac",
+      "body": "Radimlja’s medieval tombstones near Stolac are a Herzegovina landmark. Emir uses them as a postcard, not a history exam."
+    },
+    {
+      "title": "Stan vs kuća",
+      "body": "Stan is an apartment. Kuća is a house. Ana has a soba inside Amira’s world either way."
+    },
+    {
+      "title": "Cat property law",
+      "body": "If Mrvica sits on it, local custom says the pillow has a new owner."
+    }
+  ],
   "resources": [
     {
       "label": "How to speak Bosnian (YouTube)",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "note": "Companion video for Lesson 10"
+    },
+    {
+      "label": "How to speak Bosnian: living room furniture",
+      "url": "https://www.youtube.com/watch?v=lTp-jz2azsI",
+      "note": "Extra furniture listening"
+    },
+    {
+      "label": "Next: Lesson 11: Kakvo je vrijeme?",
+      "url": "/learn/lesson/11",
+      "note": "Weather on Trebević"
+    },
+    {
+      "label": "Book 1 curriculum",
+      "url": "/learn",
+      "note": "See all lessons"
     }
   ],
   "sectionQuiz": {
     "title": "Lesson 10 section quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What does soba mean?",
+        "options": [
+          "Soup",
+          "Room",
+          "Bridge",
+          "Market"
+        ],
+        "correctIndex": 1,
+        "explanation": "Soba = room.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q2",
+        "prompt": "Imam krevet means…",
+        "options": [
+          "I want a bed.",
+          "I have a bed.",
+          "The bed is big.",
+          "Open the door."
+        ],
+        "correctIndex": 1,
+        "explanation": "Imam = I have.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q3",
+        "prompt": "Which chunk fits a feminine room?",
+        "options": [
+          "Moj soba",
+          "Moja soba",
+          "Moj prozor soba",
+          "Imaš soba moj"
+        ],
+        "correctIndex": 1,
+        "explanation": "Moja soba.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q4",
+        "prompt": "Prozor means…",
+        "options": [
+          "Door",
+          "Window",
+          "Lamp",
+          "Chair"
+        ],
+        "correctIndex": 1,
+        "explanation": "Prozor = window.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q5",
+        "prompt": "Stolac / Radimlja appears as…",
+        "options": [
+          "A Sarajevo tram line",
+          "A Herzegovina stone-house postcard place",
+          "A coffee brand only",
+          "A sea port"
+        ],
+        "correctIndex": 1,
+        "explanation": "The culture hook points south to Stolac.",
+        "skill": "culture"
+      },
+      {
+        "id": "q6",
+        "prompt": "Ana says her room is…",
+        "options": [
+          "mala, ali lijepa",
+          "samo skupo",
+          "samo burek",
+          "samo pijaca"
+        ],
+        "correctIndex": 0,
+        "explanation": "Small but beautiful.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q7",
+        "prompt": "Which word means chair?",
+        "options": [
+          "sto",
+          "stolica",
+          "stan",
+          "soba"
+        ],
+        "correctIndex": 1,
+        "explanation": "Stolica = chair. Sto = table.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q8",
+        "prompt": "Krevet je udoban means…",
+        "options": [
+          "The bed is comfortable.",
+          "The door is new.",
+          "The lamp is expensive.",
+          "The house is far."
+        ],
+        "correctIndex": 0,
+        "explanation": "Udoban = comfortable.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q9",
+        "prompt": "The furniture listen resource helps you…",
+        "options": [
+          "Ignore home words",
+          "Hear living-room vocabulary in another teacher voice",
+          "Learn only past tense",
+          "Skip adjectives"
+        ],
+        "correctIndex": 1,
+        "explanation": "Extra listening on furniture names.",
+        "skill": "listening"
+      }
+    ]
   },
-  "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to: Room above the café"
+  "dictionaryEntries": [
+    {
+      "day": 10,
+      "bosnian": "soba",
+      "english": "room",
+      "pronunciation": "SO-ba",
+      "partOfSpeech": "noun",
+      "example": "Moja soba je mala."
+    },
+    {
+      "day": 10,
+      "bosnian": "kuća",
+      "english": "house",
+      "pronunciation": "KOO-cha",
+      "partOfSpeech": "noun",
+      "example": "To je lijepa kuća."
+    },
+    {
+      "day": 10,
+      "bosnian": "stan",
+      "english": "apartment",
+      "pronunciation": "stahn",
+      "partOfSpeech": "noun",
+      "example": "Stan je iznad kafića."
+    },
+    {
+      "day": 10,
+      "bosnian": "vrata",
+      "english": "door",
+      "pronunciation": "VRAH-ta",
+      "partOfSpeech": "noun",
+      "example": "Vrata su otvorena."
+    },
+    {
+      "day": 10,
+      "bosnian": "prozor",
+      "english": "window",
+      "pronunciation": "PRO-zor",
+      "partOfSpeech": "noun",
+      "example": "Prozor je velik."
+    },
+    {
+      "day": 10,
+      "bosnian": "krevet",
+      "english": "bed",
+      "pronunciation": "KREH-vet",
+      "partOfSpeech": "noun",
+      "example": "Krevet je udoban."
+    },
+    {
+      "day": 10,
+      "bosnian": "sto",
+      "english": "table",
+      "pronunciation": "stoh",
+      "partOfSpeech": "noun",
+      "example": "Sto je mali."
+    },
+    {
+      "day": 10,
+      "bosnian": "stolica",
+      "english": "chair",
+      "pronunciation": "STO-lee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Stolica je crvena."
+    },
+    {
+      "day": 10,
+      "bosnian": "lampa",
+      "english": "lamp",
+      "pronunciation": "LAHM-pa",
+      "partOfSpeech": "noun",
+      "example": "Lampa je nova."
+    },
+    {
+      "day": 10,
+      "bosnian": "imati",
+      "english": "to have",
+      "pronunciation": "EE-ma-tee",
+      "partOfSpeech": "verb",
+      "example": "Imam sobu."
+    },
+    {
+      "day": 10,
+      "bosnian": "imam",
+      "english": "I have",
+      "pronunciation": "EE-mam",
+      "partOfSpeech": "verb form",
+      "example": "Imam krevet."
+    },
+    {
+      "day": 10,
+      "bosnian": "imaš",
+      "english": "you have",
+      "pronunciation": "EE-mash",
+      "partOfSpeech": "verb form",
+      "example": "Imaš sto?"
+    },
+    {
+      "day": 10,
+      "bosnian": "velik",
+      "english": "big (m.)",
+      "pronunciation": "VEH-lik",
+      "partOfSpeech": "adjective",
+      "example": "Prozor je velik."
+    },
+    {
+      "day": 10,
+      "bosnian": "mala",
+      "english": "small (f.)",
+      "pronunciation": "MAH-la",
+      "partOfSpeech": "adjective",
+      "example": "Soba je mala."
+    },
+    {
+      "day": 10,
+      "bosnian": "lijepa",
+      "english": "beautiful (f.)",
+      "pronunciation": "LYE-pa",
+      "partOfSpeech": "adjective",
+      "example": "Kuća je lijepa."
+    },
+    {
+      "day": 10,
+      "bosnian": "udoban",
+      "english": "comfortable (m.)",
+      "pronunciation": "OO-do-ban",
+      "partOfSpeech": "adjective",
+      "example": "Krevet je udoban."
+    }
+  ],
+  "images": [
+    {
+      "id": "stolac-radimlja",
+      "alt": "Radimlja stećci necropolis near Stolac",
+      "localPath": "/images/book1/day-10-radimlja.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Radimlja_necropolis_near_Stolac.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARadimlja_necropolis_near_Stolac.JPG",
+      "author": "Boris Maric",
+      "license": "CC0",
+      "credit": "Based on photo: Radimlja necropolis near Stolac.JPG. Boris Maric / Wikimedia Commons (CC0)"
+    },
+    {
+      "id": "radimlja-detail",
+      "alt": "Stećak detail at Radimlja",
+      "localPath": "/images/book1/day-10-radimlja-detail.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/13st_Radimlja.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3A13st_Radimlja.jpg",
+      "author": "Original uploader was Prof saxx at hr.wikipedia",
+      "license": "CC BY-SA 3.0",
+      "credit": "Based on photo: 13st Radimlja.jpg. Original uploader was Prof saxx at hr.wikipedia / Wikimedia Commons (CC BY-SA 3.0)"
+    },
+    {
+      "id": "konjic-town",
+      "alt": "Konjic town in central Bosnia",
+      "localPath": "/images/book1/day-10-konjic.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Konjic%2C_Bosnia_and_Herzegovina.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKonjic%2C_Bosnia_and_Herzegovina.jpg",
+      "author": "Boris Maric",
+      "license": "CC0",
+      "credit": "Based on photo: Konjic, Bosnia and Herzegovina.jpg. Boris Maric / Wikimedia Commons (CC0)"
+    },
+    {
+      "id": "civic-apartment",
+      "alt": "Apartment building in Sarajevo",
+      "localPath": "/images/book1/day-10-civic-apartment.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Apartment_building_in_Sarajevo.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AApartment_building_in_Sarajevo.jpg",
+      "author": "Choinowski",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Apartment building in Sarajevo.jpg. Choinowski / Wikimedia Commons (CC BY-SA 4.0)"
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [],
+  "civicContext": {
+    "title": "Housing return still unfinished decades later",
+    "body": "After the war, hundreds of thousands of people were displaced, and property restitution and return programs never fully closed every case. A rented room above a café can feel settled while the wider housing map still carries contested apartments, delayed returns, and uneven reconstruction. Home vocabulary is intimate, and the civic file behind it remains unfinished.",
+    "imageId": "civic-apartment",
+    "learnMore": {
+      "label": "Wikipedia: Residential property in Bosnia and Herzegovina",
+      "url": "https://en.wikipedia.org/wiki/Annex_7_of_the_Dayton_Agreement"
+    }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu: living-room furniture words",
+    "kind": "speaker",
+    "hook": "Hear furniture and room vocabulary from the How to speak Bosnian channel.",
+    "source": {
+      "title": "HOW TO SPEAK BOSNIAN   Living Room Furniture",
+      "artistOrSpeaker": "How to speak Bosnian",
+      "regionOrScene": "Home / living room",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "How to speak Bosnian on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=lTp-jz2azsI",
+      "embedUrl": "https://www.youtube.com/watch?v=lTp-jz2azsI"
+    },
+    "durationHint": "45-90 seconds",
+    "listenTask": {
+      "prompt": "Listen for furniture names you can point to in Ana’s room.",
+      "gistQuestion": {
+        "prompt": "What is the clip mainly about?",
+        "options": [
+          "Airport departures",
+          "Living-room / furniture vocabulary",
+          "Only political debates",
+          "Swimming lessons"
+        ],
+        "correctIndex": 1
+      },
+      "targetWords": [
+        "soba",
+        "sto",
+        "stolica"
+      ],
+      "noticePrompt": "Pause and repeat any noun you can already see in the room above Amira’s."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "sto / stolica",
+          "english": "table / chair"
+        },
+        {
+          "bosnian": "Moja soba…",
+          "english": "My room…"
+        }
+      ],
+      "teacherNote": "Map each heard noun onto Ana’s small upstairs space."
+    }
+  },
+  "speakTargets": [
+    1,
+    3,
+    5
   ]
 }
