@@ -102,9 +102,6 @@ export default function LessonShell({ chapter }: Props) {
   } = useClipAudio();
   const book = chapter.book || 1;
 
-  const [listenFirstDone, setListenFirstDone] = useState<Record<string, boolean>>(
-    {}
-  );
   const [attemptsUsed, setAttemptsUsed] = useState(() =>
     getSpeakAttempts(chapter.day)
   );
@@ -205,10 +202,9 @@ export default function LessonShell({ chapter }: Props) {
       <SectionDivider />
 
       <Panel id="vocab">
-        <h2>Words for today</h2>
+        <h2>Words of the day</h2>
         <p style={{ color: "var(--color-muted)", marginTop: 0 }}>
-          Listen first, then reveal the spelling. Tap again anytime to loop the
-          sound.
+          Tap any word to hear it. Loop and slow speed help with shadowing.
         </p>
         <div
           style={{
@@ -236,41 +232,30 @@ export default function LessonShell({ chapter }: Props) {
             const clipId = vocabClipId(book, chapter.day, v.bosnian);
             const isPlaying = playingId === clipId;
             const isMissing = Boolean(missing[clipId]);
-            const revealed = listenFirstDone[clipId];
             return (
               <VocabCard
                 key={v.bosnian}
                 type="button"
                 onClick={() => {
-                  playClip(clipId, { loop, rate });
-                  setListenFirstDone((m) => ({ ...m, [clipId]: true }));
+                  if (!isMissing) {
+                    playClip(clipId, { loop, rate });
+                  }
                 }}
                 data-playing={isPlaying ? "true" : "false"}
                 data-missing={isMissing ? "true" : "false"}
                 aria-label={`Play pronunciation for ${v.bosnian}`}
               >
-                {revealed ? (
-                  <>
-                    <div className="bs">{v.bosnian}</div>
-                    <div className="en">{v.english}</div>
-                    {v.pronunciation && (
-                      <div className="pron">{v.pronunciation}</div>
-                    )}
-                  </>
-                ) : (
-                  <>
-                    <div className="bs">?</div>
-                    <div className="en">Listen first</div>
-                  </>
+                <div className="bs">{v.bosnian}</div>
+                <div className="en">{v.english}</div>
+                {v.pronunciation && (
+                  <div className="pron">{v.pronunciation}</div>
                 )}
                 <div className="listen">
                   {isPlaying
                     ? "Playing…"
                     : isMissing
                     ? "Audio soon"
-                    : revealed
-                    ? "Tap to hear"
-                    : "Tap to listen"}
+                    : "Tap to hear"}
                 </div>
               </VocabCard>
             );
