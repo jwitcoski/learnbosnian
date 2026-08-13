@@ -658,43 +658,43 @@
   "images": [
     {
       "id": "tuzla-fountain",
-      "alt": "Public fountain in Tuzla",
+      "alt": "Polygon painting of a public fountain square in Tuzla",
       "localPath": "/images/book1/day-09-tuzla-fountain.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Public_fountain%2C_Tuzla%2C_Bosnia.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3APublic_fountain%2C_Tuzla%2C_Bosnia.jpg",
       "author": "Little Green Dragon",
       "license": "CC BY 2.0",
-      "credit": "Based on photo: Public fountain, Tuzla, Bosnia.jpg. Little Green Dragon / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Polygon painting based on photo: Public fountain, Tuzla, Bosnia.jpg. Little Green Dragon / Wikimedia Commons (CC BY 2.0)"
     },
     {
       "id": "tuzla-old-town",
-      "alt": "Tuzla old town street",
+      "alt": "Polygon painting of a Tuzla old-town street",
       "localPath": "/images/book1/day-09-tuzla-street.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/WV_banner_NE_Bosnia_Tuzla_old_town.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWV_banner_NE_Bosnia_Tuzla_old_town.jpg",
       "author": "Deanza7",
       "license": "CC0",
-      "credit": "Based on photo: WV banner NE Bosnia Tuzla old town.jpg. Deanza7 / Wikimedia Commons (CC0)"
+      "credit": "Polygon painting based on photo: WV banner NE Bosnia Tuzla old town.jpg. Deanza7 / Wikimedia Commons (CC0)"
     },
     {
       "id": "sarajevo-market",
-      "alt": "Open market stalls in Sarajevo",
+      "alt": "Polygon painting of open market stalls",
       "localPath": "/images/book1/day-09-market.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sarajevo_Markt01.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_Markt01.jpg",
       "author": "Christian Bickel",
       "license": "CC BY-SA 2.0 de",
-      "credit": "Based on photo: Sarajevo Markt01.jpg. Christian Bickel / Wikimedia Commons (CC BY-SA 2.0 de)"
+      "credit": "Polygon painting based on photo: Sarajevo Markt01.jpg. Christian Bickel / Wikimedia Commons (CC BY-SA 2.0 de)"
     },
     {
       "id": "civic-tuzla-museum",
-      "alt": "Museum of East Bosnia in Tuzla",
+      "alt": "Polygon painting of the Museum of East Bosnia in Tuzla",
       "localPath": "/images/book1/day-09-civic-tuzla.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Museum_of_East_Bosnia%2C_Tuzla.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMuseum_of_East_Bosnia%2C_Tuzla.jpg",
       "author": "Apokar",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Museum of East Bosnia, Tuzla.jpg. Apokar / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on photo: Museum of East Bosnia, Tuzla.jpg. Apokar / Wikimedia Commons (CC BY-SA 4.0)"
     }
   ],
   "imagesNeeded": false,

@@ -663,43 +663,43 @@
   "images": [
     {
       "id": "stolac-radimlja",
-      "alt": "Radimlja stećci necropolis near Stolac",
+      "alt": "Polygon painting of the Radimlja stećci necropolis near Stolac",
       "localPath": "/images/book1/day-10-radimlja.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Radimlja_necropolis_near_Stolac.JPG",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARadimlja_necropolis_near_Stolac.JPG",
       "author": "Boris Maric",
       "license": "CC0",
-      "credit": "Based on photo: Radimlja necropolis near Stolac.JPG. Boris Maric / Wikimedia Commons (CC0)"
+      "credit": "Polygon painting based on photo: Radimlja necropolis near Stolac.JPG. Boris Maric / Wikimedia Commons (CC0)"
     },
     {
       "id": "radimlja-detail",
-      "alt": "Stećak detail at Radimlja",
+      "alt": "Polygon painting of a carved stećak detail at Radimlja",
       "localPath": "/images/book1/day-10-radimlja-detail.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/13st_Radimlja.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3A13st_Radimlja.jpg",
       "author": "Original uploader was Prof saxx at hr.wikipedia",
       "license": "CC BY-SA 3.0",
-      "credit": "Based on photo: 13st Radimlja.jpg. Original uploader was Prof saxx at hr.wikipedia / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Polygon painting based on photo: 13st Radimlja.jpg. Original uploader was Prof saxx at hr.wikipedia / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "konjic-town",
-      "alt": "Konjic town in central Bosnia",
+      "alt": "Polygon painting of Konjic town on the river",
       "localPath": "/images/book1/day-10-konjic.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Konjic%2C_Bosnia_and_Herzegovina.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKonjic%2C_Bosnia_and_Herzegovina.jpg",
       "author": "Boris Maric",
       "license": "CC0",
-      "credit": "Based on photo: Konjic, Bosnia and Herzegovina.jpg. Boris Maric / Wikimedia Commons (CC0)"
+      "credit": "Polygon painting based on photo: Konjic, Bosnia and Herzegovina.jpg. Boris Maric / Wikimedia Commons (CC0)"
     },
     {
       "id": "civic-apartment",
-      "alt": "Apartment building in Sarajevo",
+      "alt": "Polygon painting of an apartment building in Sarajevo",
       "localPath": "/images/book1/day-10-civic-apartment.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Apartment_building_in_Sarajevo.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AApartment_building_in_Sarajevo.jpg",
       "author": "Choinowski",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Apartment building in Sarajevo.jpg. Choinowski / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on photo: Apartment building in Sarajevo.jpg. Choinowski / Wikimedia Commons (CC BY-SA 4.0)"
     }
   ],
   "imagesNeeded": false,
