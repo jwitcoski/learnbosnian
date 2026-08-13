@@ -2,8 +2,8 @@
   "title": "Photo attributions",
   "intro": "Running register of every photo used on the site and in Book 1. Use this list when citing images for print, Scribus export, or YouTube descriptions. Chapter images are harvested automatically from each chapter.json; homepage and other site assets are listed here by hand.",
   "citationNote": "For Creative Commons works, credit the author, note the license, and link to the source page. For Pexels, credit the photographer and Pexels. Derivative treatments (polygon paint, background removal) still require attribution of the source photo.",
-  "generatedAt": "2026-08-10",
-  "total": 35,
+  "generatedAt": "2026-08-13",
+  "total": 47,
   "entries": [
     {
       "id": "book1-day-00-civic-schools",
@@ -548,6 +548,210 @@
       "notes": "",
       "book": 1,
       "day": 7
+    },
+    {
+      "id": "book1-day-08-burek-tray",
+      "title": "Tray of baked meat burek",
+      "whereUsed": [
+        "Book 1 · Lesson 8 — I love burek"
+      ],
+      "author": "photo Moma SM",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABurek_photo_Moma_SM.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Burek_photo_Moma_SM.jpg",
+      "localPath": "/images/book1/day-08-burek.png",
+      "credit": "Based on photo: Burek photo Moma SM.jpg. photo Moma SM / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 8
+    },
+    {
+      "id": "book1-day-08-civic-livno-valley",
+      "title": "Livno valley landscape",
+      "whereUsed": [
+        "Book 1 · Lesson 8 — I love burek"
+      ],
+      "author": "Brian Eager from Livno, Bosnia and Herzegovina",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALivno_%2838263993931%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Livno_%2838263993931%29.jpg",
+      "localPath": "/images/book1/day-08-civic-livno.png",
+      "credit": "Based on photo: Livno (38263993931).jpg. Brian Eager from Livno, Bosnia and Herzegovina / Wikimedia Commons (CC BY 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 8
+    },
+    {
+      "id": "book1-day-08-livno-town",
+      "title": "Livno townscape in western Bosnia",
+      "whereUsed": [
+        "Book 1 · Lesson 8 — I love burek"
+      ],
+      "author": "Golden Bosnian Lily",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALivno.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Livno.jpg",
+      "localPath": "/images/book1/day-08-livno.png",
+      "credit": "Based on photo: Livno.jpg. Golden Bosnian Lily / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 8
+    },
+    {
+      "id": "book1-day-08-market-fruit",
+      "title": "Fruit crates at a Sarajevo market",
+      "whereUsed": [
+        "Book 1 · Lesson 8 — I love burek"
+      ],
+      "author": "NH53",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFruit_market_in_Sarajevo_%283887505834%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Fruit_market_in_Sarajevo_%283887505834%29.jpg",
+      "localPath": "/images/book1/day-08-fruit.png",
+      "credit": "Based on photo: Fruit market in Sarajevo (3887505834).jpg. NH53 / Wikimedia Commons (CC BY 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 8
+    },
+    {
+      "id": "book1-day-09-civic-tuzla-museum",
+      "title": "Museum of East Bosnia in Tuzla",
+      "whereUsed": [
+        "Book 1 · Lesson 9 — At the shop"
+      ],
+      "author": "Apokar",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMuseum_of_East_Bosnia%2C_Tuzla.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Museum_of_East_Bosnia%2C_Tuzla.jpg",
+      "localPath": "/images/book1/day-09-civic-tuzla.png",
+      "credit": "Based on photo: Museum of East Bosnia, Tuzla.jpg. Apokar / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 9
+    },
+    {
+      "id": "book1-day-09-sarajevo-market",
+      "title": "Open market stalls in Sarajevo",
+      "whereUsed": [
+        "Book 1 · Lesson 9 — At the shop"
+      ],
+      "author": "Christian Bickel",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 2.0 de",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_Markt01.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sarajevo_Markt01.jpg",
+      "localPath": "/images/book1/day-09-market.png",
+      "credit": "Based on photo: Sarajevo Markt01.jpg. Christian Bickel / Wikimedia Commons (CC BY-SA 2.0 de)",
+      "notes": "",
+      "book": 1,
+      "day": 9
+    },
+    {
+      "id": "book1-day-09-tuzla-fountain",
+      "title": "Public fountain in Tuzla",
+      "whereUsed": [
+        "Book 1 · Lesson 9 — At the shop"
+      ],
+      "author": "Little Green Dragon",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3APublic_fountain%2C_Tuzla%2C_Bosnia.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Public_fountain%2C_Tuzla%2C_Bosnia.jpg",
+      "localPath": "/images/book1/day-09-tuzla-fountain.png",
+      "credit": "Based on photo: Public fountain, Tuzla, Bosnia.jpg. Little Green Dragon / Wikimedia Commons (CC BY 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 9
+    },
+    {
+      "id": "book1-day-09-tuzla-old-town",
+      "title": "Tuzla old town street",
+      "whereUsed": [
+        "Book 1 · Lesson 9 — At the shop"
+      ],
+      "author": "Deanza7",
+      "source": "Wikimedia Commons",
+      "license": "CC0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWV_banner_NE_Bosnia_Tuzla_old_town.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/WV_banner_NE_Bosnia_Tuzla_old_town.jpg",
+      "localPath": "/images/book1/day-09-tuzla-street.png",
+      "credit": "Based on photo: WV banner NE Bosnia Tuzla old town.jpg. Deanza7 / Wikimedia Commons (CC0)",
+      "notes": "",
+      "book": 1,
+      "day": 9
+    },
+    {
+      "id": "book1-day-10-civic-apartment",
+      "title": "Apartment building in Sarajevo",
+      "whereUsed": [
+        "Book 1 · Lesson 10 — My room"
+      ],
+      "author": "Choinowski",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AApartment_building_in_Sarajevo.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Apartment_building_in_Sarajevo.jpg",
+      "localPath": "/images/book1/day-10-civic-apartment.png",
+      "credit": "Based on photo: Apartment building in Sarajevo.jpg. Choinowski / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 10
+    },
+    {
+      "id": "book1-day-10-konjic-town",
+      "title": "Konjic town in central Bosnia",
+      "whereUsed": [
+        "Book 1 · Lesson 10 — My room"
+      ],
+      "author": "Boris Maric",
+      "source": "Wikimedia Commons",
+      "license": "CC0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKonjic%2C_Bosnia_and_Herzegovina.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Konjic%2C_Bosnia_and_Herzegovina.jpg",
+      "localPath": "/images/book1/day-10-konjic.png",
+      "credit": "Based on photo: Konjic, Bosnia and Herzegovina.jpg. Boris Maric / Wikimedia Commons (CC0)",
+      "notes": "",
+      "book": 1,
+      "day": 10
+    },
+    {
+      "id": "book1-day-10-radimlja-detail",
+      "title": "Stećak detail at Radimlja",
+      "whereUsed": [
+        "Book 1 · Lesson 10 — My room"
+      ],
+      "author": "Original uploader was Prof saxx at hr.wikipedia",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3A13st_Radimlja.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/13st_Radimlja.jpg",
+      "localPath": "/images/book1/day-10-radimlja-detail.png",
+      "credit": "Based on photo: 13st Radimlja.jpg. Original uploader was Prof saxx at hr.wikipedia / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "",
+      "book": 1,
+      "day": 10
+    },
+    {
+      "id": "book1-day-10-stolac-radimlja",
+      "title": "Radimlja stećci necropolis near Stolac",
+      "whereUsed": [
+        "Book 1 · Lesson 10 — My room"
+      ],
+      "author": "Boris Maric",
+      "source": "Wikimedia Commons",
+      "license": "CC0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARadimlja_necropolis_near_Stolac.JPG",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Radimlja_necropolis_near_Stolac.JPG",
+      "localPath": "/images/book1/day-10-radimlja.png",
+      "credit": "Based on photo: Radimlja necropolis near Stolac.JPG. Boris Maric / Wikimedia Commons (CC0)",
+      "notes": "",
+      "book": 1,
+      "day": 10
     },
     {
       "id": "home-coffee",

@@ -5,54 +5,759 @@
   "title": "Volim burek",
   "titleEn": "I love burek",
   "theme": "Street food",
-  "status": "outlined",
+  "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "",
+  "reviewerNotes": "Full draft to Lesson 1 exemplar bar. ready for human review before publish.",
   "estimatedMinutes": 60,
-  "storyBeat": "Food disasters begin with burek",
+  "storyBeat": "Ana’s food disasters begin with burek. Emir teaches likes and a gentle accusative chunk.",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 8: Food, volim/ne volim, accusative singular intro"
+      "Food words: burek, sirnica, zeljanica, hljeb, jogurt",
+      "Likes: volim / ne volim",
+      "Hungry: gladan / gladna; ukusno; dobar tek"
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Volim + object chunk (accusative singular intro)",
+      "Ne volim for polite dislike",
+      "Gender on gladan / gladna"
     ],
     "culture": [
-      "Street food"
+      "In BiH, burek means meat. cheese pie is sirnica",
+      "Livno highland food postcard beyond the café street"
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "burek",
+      "english": "meat pastry (Bosnian: meat only)",
+      "pronunciation": "BOO-rek",
+      "partOfSpeech": "noun",
+      "example": "Volim burek."
+    },
+    {
+      "bosnian": "sirnica",
+      "english": "cheese pita",
+      "pronunciation": "SEER-nee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Želim sirnicu."
+    },
+    {
+      "bosnian": "zeljanica",
+      "english": "spinach/greens pita",
+      "pronunciation": "zel-YA-nee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Zeljanica je dobra."
+    },
+    {
+      "bosnian": "hljeb",
+      "english": "bread",
+      "pronunciation": "hlyeb",
+      "partOfSpeech": "noun",
+      "example": "Hljeb, molim."
+    },
+    {
+      "bosnian": "jogurt",
+      "english": "yogurt",
+      "pronunciation": "YO-goort",
+      "partOfSpeech": "noun",
+      "example": "Jogurt uz burek."
+    },
+    {
+      "bosnian": "meso",
+      "english": "meat",
+      "pronunciation": "MEH-so",
+      "partOfSpeech": "noun",
+      "example": "Burek je s mesom."
+    },
+    {
+      "bosnian": "sir",
+      "english": "cheese",
+      "pronunciation": "seer",
+      "partOfSpeech": "noun",
+      "example": "Sirnica ima sir."
+    },
+    {
+      "bosnian": "voće",
+      "english": "fruit",
+      "pronunciation": "VO-che",
+      "partOfSpeech": "noun",
+      "example": "Voće je svježe."
+    },
+    {
+      "bosnian": "povrće",
+      "english": "vegetables",
+      "pronunciation": "POV-rche",
+      "partOfSpeech": "noun",
+      "example": "Povrće na pijaci."
+    },
+    {
+      "bosnian": "volim",
+      "english": "I love / I like",
+      "pronunciation": "VO-leem",
+      "partOfSpeech": "verb",
+      "example": "Volim burek."
+    },
+    {
+      "bosnian": "ne volim",
+      "english": "I do not like",
+      "pronunciation": "neh VO-leem",
+      "partOfSpeech": "phrase",
+      "example": "Ne volim luk."
+    },
+    {
+      "bosnian": "ukusno",
+      "english": "tasty / delicious",
+      "pronunciation": "OO-koos-no",
+      "partOfSpeech": "adjective",
+      "example": "Ukusno!"
+    },
+    {
+      "bosnian": "gladan",
+      "english": "hungry (m.)",
+      "pronunciation": "GLAH-dan",
+      "partOfSpeech": "adjective",
+      "example": "Ja sam gladan."
+    },
+    {
+      "bosnian": "gladna",
+      "english": "hungry (f.)",
+      "pronunciation": "GLAHD-na",
+      "partOfSpeech": "adjective",
+      "example": "Ja sam gladna."
+    },
+    {
+      "bosnian": "pita",
+      "english": "phyllo pie (general)",
+      "pronunciation": "PEE-ta",
+      "partOfSpeech": "noun",
+      "example": "Pita je topla."
+    },
+    {
+      "bosnian": "dobar tek",
+      "english": "enjoy your meal",
+      "pronunciation": "DOH-bar tek",
+      "partOfSpeech": "phrase",
+      "example": "Dobar tek!"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Volim + object",
+      "explanation": "Volim means I love or I like. Put the food after it as a ready chunk: Volim burek. Volim kahvu. For many feminine food nouns ending in -a, the spoken object often ends in -u: Volim sirnicu. Volim zeljanicu. Learn the pairs as phrases first. Do not memorize a full case table today.",
+      "examples": [
+        {
+          "bosnian": "Volim burek.",
+          "english": "I love burek."
+        },
+        {
+          "bosnian": "Volim sirnicu.",
+          "english": "I love cheese pita."
+        },
+        {
+          "bosnian": "Volim kahvu.",
+          "english": "I love coffee."
+        }
+      ]
+    },
+    {
+      "title": "Ne volim",
+      "explanation": "Add ne before volim to say you do not like something: Ne volim luk. Ne volim čaj. Keep it soft and clear. You can still be polite while you refuse a filling.",
+      "examples": [
+        {
+          "bosnian": "Ne volim luk.",
+          "english": "I do not like onion."
+        },
+        {
+          "bosnian": "Ne volim čaj.",
+          "english": "I do not like tea."
+        }
+      ]
+    },
+    {
+      "title": "Gladan / gladna",
+      "explanation": "Match the adjective to who is speaking. Emir says Ja sam gladan. Ana says Ja sam gladna. Then order food and finish with Dobar tek!",
+      "examples": [
+        {
+          "bosnian": "Ja sam gladan.",
+          "english": "I am hungry. (m.)"
+        },
+        {
+          "bosnian": "Ja sam gladna.",
+          "english": "I am hungry. (f.)"
+        },
+        {
+          "bosnian": "Dobar tek!",
+          "english": "Enjoy your meal!"
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "Street food",
-    "body": "Stub for Lesson 8. Full culture hook will be written on the draft night.",
-    "imageId": null
+    "title": "Burek is meat, and Livno sends cheese",
+    "body": "On a Bosnian street, burek means a meat pita. Ask for cheese and you want sirnica. Spinach or greens mean zeljanica. Emir takes Ana to a buregdžinica near Amira’s, then shows a postcard from Livno in western Bosnia: highland pastures famous for Livanjski sir. The café is HQ, but the country’s food map is wider than one warm tray. Today Ana learns to say what she loves before the first bite turns into a flaky disaster.",
+    "imageId": "livno-town"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A: Food words on the tray",
+      "body": "Name the classics: burek (meat), sirnica (cheese), zeljanica (greens), pita as the general phyllo pie word. Add hljeb, jogurt, meso, sir, voće, povrće. Say each twice. Mark the BiH spelling hljeb. Emir points at the tray and refuses the tourist trap sentence burek sa sirom. In Bosnian that fight is real: burek is with meat.",
+      "tips": [
+        "burek = meat; sirnica = cheese; zeljanica = greens",
+        "Type hljeb with lj, not a soft English h-leb guess"
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B: Volim / ne volim at the counter",
+      "body": "Build today’s kit: Volim burek. Volim sirnicu. Ne volim luk. Ja sam gladna / gladan. Ukusno! Dobar tek! Ana tries a too-hot bite, drops flakes on Mrvica, and still finishes the sentence. Food disasters are allowed. Silent pointing is not the goal.",
+      "tips": [
+        "Chunk: Volim… / Ne volim… / Dobar tek!",
+        "Use gladna if you are Ana; gladan if you are Emir"
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Burek katastrofa",
+    "setting": "A busy buregdžinica near Amira’s. Steam, trays, Mrvica lurking for crumbs.",
+    "lines": [
+      {
+        "speaker": "Emir",
+        "bosnian": "Ana, jesi gladna?",
+        "english": "Ana, are you hungry?"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Da! Ja sam gladna. Volim burek!",
+        "english": "Yes! I am hungry. I love burek!"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Dobro. Burek je s mesom. Ne sa sirom.",
+        "english": "Good. Burek is with meat. Not with cheese."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "A sirnica?",
+        "english": "And sirnica?"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Sirnica je sa sirom. Zeljanica je sa zeljem.",
+        "english": "Sirnica is with cheese. Zeljanica is with greens."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Ja volim sirnicu. Ne volim luk.",
+        "english": "I love sirnica. I do not like onion."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Dobar tek! Jogurt?",
+        "english": "Enjoy your meal! Yogurt?"
+      },
+      {
+        "speaker": "Narrator",
+        "bosnian": "Ana jede prebrzo. Mrvica jede mrvice.",
+        "english": "Ana eats too fast. Mrvica eats the crumbs."
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match the food",
+      "prompt": "Match each Bosnian food word to English.",
+      "items": [
+        {
+          "left": "burek",
+          "right": "meat pastry"
+        },
+        {
+          "left": "sirnica",
+          "right": "cheese pita"
+        },
+        {
+          "left": "zeljanica",
+          "right": "greens pita"
+        },
+        {
+          "left": "hljeb",
+          "right": "bread"
+        },
+        {
+          "left": "jogurt",
+          "right": "yogurt"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "truefalse",
+      "title": "True or false: food rules",
+      "prompt": "Mark each sentence true or false for BiH usage in this lesson.",
+      "items": [
+        {
+          "statement": "In BiH, burek means a meat pita.",
+          "answer": true
+        },
+        {
+          "statement": "Sirnica is a cheese pita.",
+          "answer": true
+        },
+        {
+          "statement": "Volim means I do not like.",
+          "answer": false
+        },
+        {
+          "statement": "Ana says Ja sam gladna.",
+          "answer": true
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Write I love burek.",
+      "hint": "Volim…",
+      "answer": "Volim burek"
+    },
+    {
+      "id": "pr2",
+      "prompt": "Write I love sirnica (object form with -u).",
+      "hint": "Volim sirnicu",
+      "answer": "Volim sirnicu"
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write I do not like onion (luk).",
+      "hint": "Ne volim…",
+      "answer": "Ne volim luk"
+    },
+    {
+      "id": "pr4",
+      "prompt": "Write I am hungry (feminine, like Ana).",
+      "hint": "Ja sam…",
+      "answer": "Ja sam gladna"
+    },
+    {
+      "id": "pr5",
+      "prompt": "Write I am hungry (masculine, like Emir).",
+      "hint": "Ja sam…",
+      "answer": "Ja sam gladan"
+    },
+    {
+      "id": "pr6",
+      "prompt": "Write the BiH spelling for bread.",
+      "hint": "hl-",
+      "answer": "hljeb"
+    },
+    {
+      "id": "pr7",
+      "prompt": "Write Enjoy your meal!",
+      "hint": "Two words",
+      "answer": "Dobar tek"
+    },
+    {
+      "id": "pr8",
+      "prompt": "Write tasty / delicious.",
+      "hint": "u…",
+      "answer": "ukusno"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "No cheese in the word burek",
+      "body": "In Bosnia and Herzegovina, asking for burek sa sirom is a classic tourist tell. Locals hear burek as meat. Cheese pie is sirnica."
+    },
+    {
+      "title": "Livanjski sir",
+      "body": "Livno’s highland cheese tradition sits west of Sarajevo’s street trays. Emir’s postcard is a reminder that dairy fame is not only a city story."
+    },
+    {
+      "title": "Jogurt is a partner",
+      "body": "Warm burek often arrives with jogurt. The pair cools the bite and turns a snack into a small ritual."
+    },
+    {
+      "title": "Mrvica tax",
+      "body": "Any flaky pita near Mrvica becomes a shared meal whether you planned it or not."
+    }
+  ],
   "resources": [
     {
       "label": "How to speak Bosnian (YouTube)",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "note": "Companion video for Lesson 8"
+    },
+    {
+      "label": "Next: Lesson 9: U prodavnici",
+      "url": "/learn/lesson/9",
+      "note": "Shopping phrases with Emir"
+    },
+    {
+      "label": "Book 1 curriculum",
+      "url": "/learn",
+      "note": "See all lessons"
     }
   ],
   "sectionQuiz": {
     "title": "Lesson 8 section quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What does burek mean in BiH in this lesson?",
+        "options": [
+          "Any pita",
+          "Meat pastry",
+          "Only cheese pie",
+          "Only bread"
+        ],
+        "correctIndex": 1,
+        "explanation": "Here burek is the meat pita. Cheese is sirnica.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q2",
+        "prompt": "How do you say I love burek?",
+        "options": [
+          "Ne volim burek.",
+          "Volim burek.",
+          "Ja sam burek.",
+          "Dobar tek burek."
+        ],
+        "correctIndex": 1,
+        "explanation": "Volim + food object.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q3",
+        "prompt": "Which word is the cheese pita?",
+        "options": [
+          "zeljanica",
+          "hljeb",
+          "sirnica",
+          "jogurt"
+        ],
+        "correctIndex": 2,
+        "explanation": "Sirnica is cheese. Zeljanica is greens.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q4",
+        "prompt": "Ana is hungry. What does she say?",
+        "options": [
+          "Ja sam gladan.",
+          "Ja sam gladna.",
+          "Ja sam burek.",
+          "Ne volim gladna."
+        ],
+        "correctIndex": 1,
+        "explanation": "Feminine speaker uses gladna.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q5",
+        "prompt": "What does Ne volim luk mean?",
+        "options": [
+          "I love onion.",
+          "I do not like onion.",
+          "Onion is bread.",
+          "Bring yogurt."
+        ],
+        "correctIndex": 1,
+        "explanation": "Ne volim = I do not like.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q6",
+        "prompt": "Livno is famous in this lesson’s postcard for…",
+        "options": [
+          "A sea bridge",
+          "Highland cheese country",
+          "Only coffee cups",
+          "Airport gates"
+        ],
+        "correctIndex": 1,
+        "explanation": "Livanjski sir and highland pastures widen the food map.",
+        "skill": "culture"
+      },
+      {
+        "id": "q7",
+        "prompt": "Emir says burek is…",
+        "options": [
+          "sa sirom",
+          "s mesom",
+          "sa voćem",
+          "sa čajem"
+        ],
+        "correctIndex": 1,
+        "explanation": "Burek is with meat.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q8",
+        "prompt": "What phrase means Enjoy your meal?",
+        "options": [
+          "Dobar dan",
+          "Dobar tek",
+          "Molim",
+          "Hvala"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dobar tek is the meal wish.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q9",
+        "prompt": "In Dino Merlin’s Burek, food names show up as…",
+        "options": [
+          "Airport codes only",
+          "Proud everyday Bosnian kitchen words",
+          "Silent captions only",
+          "English menus only"
+        ],
+        "correctIndex": 1,
+        "explanation": "Listen for food vocabulary riding a pop hook.",
+        "skill": "listening"
+      }
+    ]
   },
-  "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to: Street food"
+  "dictionaryEntries": [
+    {
+      "day": 8,
+      "bosnian": "burek",
+      "english": "meat pastry (Bosnian: meat only)",
+      "pronunciation": "BOO-rek",
+      "partOfSpeech": "noun",
+      "example": "Volim burek."
+    },
+    {
+      "day": 8,
+      "bosnian": "sirnica",
+      "english": "cheese pita",
+      "pronunciation": "SEER-nee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Želim sirnicu."
+    },
+    {
+      "day": 8,
+      "bosnian": "zeljanica",
+      "english": "spinach/greens pita",
+      "pronunciation": "zel-YA-nee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Zeljanica je dobra."
+    },
+    {
+      "day": 8,
+      "bosnian": "hljeb",
+      "english": "bread",
+      "pronunciation": "hlyeb",
+      "partOfSpeech": "noun",
+      "example": "Hljeb, molim."
+    },
+    {
+      "day": 8,
+      "bosnian": "jogurt",
+      "english": "yogurt",
+      "pronunciation": "YO-goort",
+      "partOfSpeech": "noun",
+      "example": "Jogurt uz burek."
+    },
+    {
+      "day": 8,
+      "bosnian": "meso",
+      "english": "meat",
+      "pronunciation": "MEH-so",
+      "partOfSpeech": "noun",
+      "example": "Burek je s mesom."
+    },
+    {
+      "day": 8,
+      "bosnian": "sir",
+      "english": "cheese",
+      "pronunciation": "seer",
+      "partOfSpeech": "noun",
+      "example": "Sirnica ima sir."
+    },
+    {
+      "day": 8,
+      "bosnian": "voće",
+      "english": "fruit",
+      "pronunciation": "VO-che",
+      "partOfSpeech": "noun",
+      "example": "Voće je svježe."
+    },
+    {
+      "day": 8,
+      "bosnian": "povrće",
+      "english": "vegetables",
+      "pronunciation": "POV-rche",
+      "partOfSpeech": "noun",
+      "example": "Povrće na pijaci."
+    },
+    {
+      "day": 8,
+      "bosnian": "volim",
+      "english": "I love / I like",
+      "pronunciation": "VO-leem",
+      "partOfSpeech": "verb",
+      "example": "Volim burek."
+    },
+    {
+      "day": 8,
+      "bosnian": "ne volim",
+      "english": "I do not like",
+      "pronunciation": "neh VO-leem",
+      "partOfSpeech": "phrase",
+      "example": "Ne volim luk."
+    },
+    {
+      "day": 8,
+      "bosnian": "ukusno",
+      "english": "tasty / delicious",
+      "pronunciation": "OO-koos-no",
+      "partOfSpeech": "adjective",
+      "example": "Ukusno!"
+    },
+    {
+      "day": 8,
+      "bosnian": "gladan",
+      "english": "hungry (m.)",
+      "pronunciation": "GLAH-dan",
+      "partOfSpeech": "adjective",
+      "example": "Ja sam gladan."
+    },
+    {
+      "day": 8,
+      "bosnian": "gladna",
+      "english": "hungry (f.)",
+      "pronunciation": "GLAHD-na",
+      "partOfSpeech": "adjective",
+      "example": "Ja sam gladna."
+    },
+    {
+      "day": 8,
+      "bosnian": "pita",
+      "english": "phyllo pie (general)",
+      "pronunciation": "PEE-ta",
+      "partOfSpeech": "noun",
+      "example": "Pita je topla."
+    },
+    {
+      "day": 8,
+      "bosnian": "dobar tek",
+      "english": "enjoy your meal",
+      "pronunciation": "DOH-bar tek",
+      "partOfSpeech": "phrase",
+      "example": "Dobar tek!"
+    }
+  ],
+  "images": [
+    {
+      "id": "livno-town",
+      "alt": "Livno townscape in western Bosnia",
+      "localPath": "/images/book1/day-08-livno.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Livno.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALivno.jpg",
+      "author": "Golden Bosnian Lily",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Livno.jpg. Golden Bosnian Lily / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "burek-tray",
+      "alt": "Tray of baked meat burek",
+      "localPath": "/images/book1/day-08-burek.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Burek_photo_Moma_SM.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABurek_photo_Moma_SM.jpg",
+      "author": "photo Moma SM",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Burek photo Moma SM.jpg. photo Moma SM / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "market-fruit",
+      "alt": "Fruit crates at a Sarajevo market",
+      "localPath": "/images/book1/day-08-fruit.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Fruit_market_in_Sarajevo_%283887505834%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFruit_market_in_Sarajevo_%283887505834%29.jpg",
+      "author": "NH53",
+      "license": "CC BY 2.0",
+      "credit": "Based on photo: Fruit market in Sarajevo (3887505834).jpg. NH53 / Wikimedia Commons (CC BY 2.0)"
+    },
+    {
+      "id": "civic-livno-valley",
+      "alt": "Livno valley landscape",
+      "localPath": "/images/book1/day-08-civic-livno.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Livno_%2838263993931%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALivno_%2838263993931%29.jpg",
+      "author": "Brian Eager from Livno, Bosnia and Herzegovina",
+      "license": "CC BY 2.0",
+      "credit": "Based on photo: Livno (38263993931).jpg. Brian Eager from Livno, Bosnia and Herzegovina / Wikimedia Commons (CC BY 2.0)"
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [],
+  "civicContext": {
+    "title": "A country that still imports too much of what it eats",
+    "body": "Bosnia and Herzegovina’s small farms and fragmented land ownership never fully rebuilt a strong national food system after the war, so shops and bakeries still lean on imports for staples even while local pita culture thrives. Loving burek on a street corner sits beside that quieter pressure: culinary pride is local, but the grocery supply chain often is not.",
+    "imageId": "civic-livno-valley",
+    "learnMore": {
+      "label": "Wikipedia: Agriculture in Bosnia and Herzegovina",
+      "url": "https://en.wikipedia.org/wiki/Agriculture_in_Bosnia_and_Herzegovina"
+    }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu: Dino Merlin sings Burek",
+    "kind": "song",
+    "hook": "A famous pop anthem stacks Bosnian food words. Listen for burek, pita, and the kitchen pride in the chorus.",
+    "source": {
+      "title": "Dino Merlin - Burek (Official Video) [2004]",
+      "artistOrSpeaker": "Dino Merlin",
+      "regionOrScene": "Bosnian kitchen / pop",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "Dino Merlin official video on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=e7JXd8Qavpk",
+      "embedUrl": "https://www.youtube.com/watch?v=e7JXd8Qavpk"
+    },
+    "durationHint": "45-90 seconds",
+    "listenTask": {
+      "prompt": "Listen for food words like burek or pita in the chorus energy.",
+      "gistQuestion": {
+        "prompt": "What fits the clip’s mood?",
+        "options": [
+          "Silent library rules",
+          "Proud, playful listing of Bosnian food culture",
+          "Only weather report",
+          "Airport security lecture"
+        ],
+        "correctIndex": 1
+      },
+      "targetWords": [
+        "burek",
+        "pita",
+        "kahva"
+      ],
+      "noticePrompt": "Food vocabulary can ride music. You do not need every lyric to catch the kitchen words."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Burek, pita zeljanica…",
+          "english": "Burek, spinach pita…"
+        },
+        {
+          "bosnian": "Fildžan, džezva… kahva",
+          "english": "Cup, pot… coffee"
+        }
+      ],
+      "teacherNote": "If the full verse flies by, you still practiced listening for food anchors."
+    }
+  },
+  "speakTargets": [
+    1,
+    5,
+    6
   ]
 }

@@ -19,7 +19,8 @@
 | Aligned | 2–3 | draft (same fashion) |
 | A | 4–6 | draft (same fashion) |
 | B | 7 | draft (review) |
-| C–D | 8–14 | Week 2 + review |
+| C | 8–10 | draft (same fashion) |
+| D | 11–14 | Week 2 remainder + review |
 | E–F | 15–21 | Week 3 + review |
 | G–H | 22–30 | Week 4 + finale |
 
@@ -39,9 +40,9 @@ Ana (learner), Emir (guide), Amira (café), Mrvica (cat)
 | 5 | Gdje je Mostar? | draft | Full draft (gdje/ovdje/tamo, u/na/kod, Mostar tease) — needs human review | script ready |
 | 6 | Koliko je sati? | draft | Time + weekdays; culture widened to Travnik/Una/Neum (not Sarajevo-only) — needs human review | script ready |
 | 7 | Ponavljanje | draft | Review + Jajce/Blagaj/Počitelj postcards — needs human review | script ready |
-| 8 | Volim burek | outlined | | |
-| 9 | U prodavnici | outlined | | |
-| 10 | Moja soba | outlined | | |
+| 8 | Volim burek | draft | Full draft (food, volim/ne volim, Livno postcard) — needs human review | script ready |
+| 9 | U prodavnici | draft | Full draft (shopping, želim, Tuzla market) — needs human review | script ready |
+| 10 | Moja soba | draft | Full draft (home, imati, Stolac/Radimlja) — needs human review | script ready |
 | 11 | Kakvo je vrijeme? | outlined | | |
 | 12 | Idemo u park | outlined | | |
 | 13 | Ljudi iz BiH | outlined | | |
@@ -80,6 +81,7 @@ Teaser outlines only — see `content/book2/outline.json` and `content/book3/out
 - [x] Voice recording portal (shared password, 4 voices 2F/2M) + S3/CloudFront audio + lesson tap-to-play
 - [x] Pedagogy upgrades: Čuj Bosnu authenticListen, quiz remediation links, speak-check (Transcribe+Nova), review deck, can-do checks, listen-first vocab
 - [x] Recorder trim + accept-before-upload (Female 1 = vocab, Male 1 = male parts, F2/M2 if needed)
+- [x] Lessons 8–10 full drafts (food, shop, home)
 
 ## Voice recording
 
