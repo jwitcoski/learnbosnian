@@ -1,7 +1,6 @@
 {
   "day": 3,
   "book": 1,
-  "week": 1,
   "title": "Brojevi i kahva",
   "titleEn": "Numbers and coffee",
   "theme": "Coffee at Amira’s",
@@ -795,5 +794,6 @@
     0,
     1,
     2
-  ]
+  ],
+  "section": 1
 }

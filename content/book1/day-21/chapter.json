@@ -1,7 +1,6 @@
 {
   "day": 21,
   "book": 1,
-  "week": 3,
   "title": "Ponavljanje",
   "titleEn": "Review",
   "theme": "Ana plans a solo weekend",
@@ -54,5 +53,6 @@
   "imagesNeeded": true,
   "imageBriefs": [
     "Photo related to: Ana plans a solo weekend"
-  ]
+  ],
+  "section": 3
 }

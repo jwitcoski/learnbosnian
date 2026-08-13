@@ -1,7 +1,6 @@
 {
   "day": 9,
   "book": 1,
-  "week": 2,
   "title": "U prodavnici",
   "titleEn": "At the shop",
   "theme": "Market day",
@@ -759,5 +758,6 @@
     1,
     3,
     5
-  ]
+  ],
+  "section": 2
 }

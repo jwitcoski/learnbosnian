@@ -1,7 +1,6 @@
 {
   "day": 11,
   "book": 1,
-  "week": 2,
   "title": "Kakvo je vrijeme?",
   "titleEn": "How is the weather?",
   "theme": "Autumn on Trebević",
@@ -54,5 +53,6 @@
   "imagesNeeded": true,
   "imageBriefs": [
     "Photo related to: Autumn on Trebević"
-  ]
+  ],
+  "section": 2
 }

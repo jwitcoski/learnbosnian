@@ -1,7 +1,6 @@
 {
   "day": 2,
   "book": 1,
-  "week": 1,
   "title": "Ja sam Ana",
   "titleEn": "I am Ana",
   "theme": "Meeting Emir at Sebilj",
@@ -698,5 +697,6 @@
     0,
     1,
     2
-  ]
+  ],
+  "section": 1
 }

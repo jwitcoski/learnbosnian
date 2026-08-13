@@ -1,7 +1,6 @@
 {
   "day": 22,
   "book": 1,
-  "week": 4,
   "title": "Jučer u Travniku",
   "titleEn": "Yesterday in Travnik",
   "theme": "Day trip to Travnik",
@@ -54,5 +53,6 @@
   "imagesNeeded": true,
   "imageBriefs": [
     "Photo related to: Day trip to Travnik"
-  ]
+  ],
+  "section": 4
 }

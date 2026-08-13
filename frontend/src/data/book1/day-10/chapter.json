@@ -1,7 +1,6 @@
 {
   "day": 10,
   "book": 1,
-  "week": 2,
   "title": "Moja soba",
   "titleEn": "My room",
   "theme": "Room above the café",
@@ -764,5 +763,6 @@
     1,
     3,
     5
-  ]
+  ],
+  "section": 2
 }

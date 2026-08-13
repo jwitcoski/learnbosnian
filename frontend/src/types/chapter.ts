@@ -111,7 +111,8 @@ export type DictionaryEntry = {
 export type Chapter = {
   day: number;
   book: number;
-  week: number;
+  /** Curriculum section grouping (formerly called week) */
+  section: number;
   title: string;
   titleEn: string;
   theme: string;
@@ -162,7 +163,7 @@ export type Chapter = {
   funFacts: { title: string; body: string }[];
   /** Authentic speaker/singer listening beat (Čuj Bosnu) */
   authenticListen?: AuthenticListen;
-  /** Weekly or lesson can-do self-checks */
+  /** Section or lesson can-do self-checks */
   canDoChecks?: CanDoCheck[];
   resources: { label: string; url: string; note?: string }[];
   sectionQuiz: {
@@ -178,7 +179,7 @@ export type Chapter = {
 
 export type DayOutline = {
   day: number;
-  week: number;
+  section: number;
   title: string;
   titleEn: string;
   theme: string;
@@ -192,7 +193,7 @@ export type BookOutline = {
   titleBs?: string;
   level?: string;
   days?: DayOutline[];
-  weeks?: { week: number; title: string; focus: string }[];
+  sections?: { section: number; title: string; focus: string }[];
   cast?: string[];
   summary?: string;
   themes?: string[];

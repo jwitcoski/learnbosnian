@@ -1,7 +1,6 @@
 {
   "day": 18,
   "book": 1,
-  "week": 3,
   "title": "Sport i hobiji",
   "titleEn": "Sports and hobbies",
   "theme": "Football & river walks",
@@ -54,5 +53,6 @@
   "imagesNeeded": true,
   "imageBriefs": [
     "Photo related to: Football & river walks"
-  ]
+  ],
+  "section": 3
 }

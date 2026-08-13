@@ -41,7 +41,7 @@ Fill `content/book1/day-XX/chapter.json` completely before marking `draft`.
 
 | Section | Count / rule | Notes |
 |--------|----------------|-------|
-| **Metadata** | `day`, `book`, `week`, `title`, `titleEn`, `theme`, `storyBeat`, `estimatedMinutes: 60` | Titles from outline; one-sentence storyBeat |
+| **Metadata** | `day`, `book`, `section`, `title`, `titleEn`, `theme`, `storyBeat`, `estimatedMinutes: 60` | Titles from outline; one-sentence storyBeat |
 | **status** | `draft` until human review → `published` | Never publish empty stubs |
 | **learningGoals** | 2–3 bullets each: vocabulary / grammar / culture | No “to be filled” |
 | **vocabulary** | **12–16** entries | Each: `bosnian`, `english`, `pronunciation`, `partOfSpeech`, `example` |
@@ -170,8 +170,8 @@ Each image needs: `id`, `alt`, `localPath`, source URLs, `author`, `license`, `c
 | Grammar | 1–2 “remember” panels, not new systems |
 | Blocks | A = recycle forms; B = story diary / game / plan |
 | Puzzles | Prefer match + truefalse over new scramble sets |
-| Quiz | **10** items spanning the week’s lessons |
-| Video | “Week in review” + highlight fails + CTA to next week |
+| Quiz | **10** items spanning the section’s lessons |
+| Video | “Section review” + highlight fails + CTA to next section |
 
 ### Lesson 30 — finale
 
@@ -210,13 +210,13 @@ outline.json (title, languageFocus, storyBeat)
 
 | Batch | Lessons | Focus |
 |-------|---------|--------|
-| A | 4–6 | Finish Week 1 language path |
-| B | 7 | Week 1 review |
-| C | 8–13 | Week 2 daily life |
-| D | 14 | Week 2 review |
-| E | 15–20 | Week 3 getting around |
-| F | 21 | Week 3 review |
-| G | 22–29 | Week 4 stories & travel |
+| A | 4–6 | Finish Section 1 language path |
+| B | 7 | Section 1 review |
+| C | 8–13 | Section 2 daily life |
+| D | 14 | Section 2 review |
+| E | 15–20 | Section 3 getting around |
+| F | 21 | Section 3 review |
+| G | 22–29 | Section 4 stories & travel |
 | H | 30 | Finale |
 
 Human-review each batch before filming that batch’s videos when possible; at full launch, all 30 + videos ship together.
@@ -229,7 +229,7 @@ Use outline fields; keep this checklist in reviewer notes or PR body:
 
 ```
 Lesson __: ________ / ________
-Week __ | Theme: ________
+Section __ | Theme: ________
 Language focus: ________
 Story beat: ________
 
@@ -251,7 +251,7 @@ Story beat: ________
 
 ---
 
-## 8. Quick reference — Week 1–4 language spine
+## 8. Quick reference — Section 1–4 language spine
 
 Stay faithful to `outline.json`; do not rearrange major grammar jumps.
 

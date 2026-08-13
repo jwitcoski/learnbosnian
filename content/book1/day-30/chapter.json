@@ -1,7 +1,6 @@
 {
   "day": 30,
   "book": 1,
-  "week": 4,
   "title": "Završna proslava",
   "titleEn": "Graduation party",
   "theme": "Party; Mrvica steals the cake",
@@ -54,5 +53,6 @@
   "imagesNeeded": true,
   "imageBriefs": [
     "Photo related to: Party; Mrvica steals the cake"
-  ]
+  ],
+  "section": 4
 }

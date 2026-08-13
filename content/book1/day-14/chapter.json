@@ -1,7 +1,6 @@
 {
   "day": 14,
   "book": 1,
-  "week": 2,
   "title": "Ponavljanje",
   "titleEn": "Review",
   "theme": "Board-game night at Amira’s",
@@ -54,5 +53,6 @@
   "imagesNeeded": true,
   "imageBriefs": [
     "Photo related to: Board-game night at Amira’s"
-  ]
+  ],
+  "section": 2
 }

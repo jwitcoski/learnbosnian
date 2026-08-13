@@ -1,7 +1,6 @@
 {
   "day": 12,
   "book": 1,
-  "week": 2,
   "title": "Idemo u park",
   "titleEn": "Let’s go to the park",
   "theme": "Park walk (Mrvica chaos)",
@@ -54,5 +53,6 @@
   "imagesNeeded": true,
   "imageBriefs": [
     "Photo related to: Park walk (Mrvica chaos)"
-  ]
+  ],
+  "section": 2
 }

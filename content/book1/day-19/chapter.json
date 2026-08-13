@@ -1,7 +1,6 @@
 {
   "day": 19,
   "book": 1,
-  "week": 3,
   "title": "Praznici",
   "titleEn": "Holidays",
   "theme": "Bajram lights / winter markets",
@@ -54,5 +53,6 @@
   "imagesNeeded": true,
   "imageBriefs": [
     "Photo related to: Bajram lights / winter markets"
-  ]
+  ],
+  "section": 3
 }

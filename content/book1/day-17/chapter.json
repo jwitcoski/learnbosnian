@@ -1,7 +1,6 @@
 {
   "day": 17,
   "book": 1,
-  "week": 3,
   "title": "Dobar tek!",
   "titleEn": "Enjoy your meal!",
   "theme": "Klepe vs japrak debate",
@@ -54,5 +53,6 @@
   "imagesNeeded": true,
   "imageBriefs": [
     "Photo related to: Klepe vs japrak debate"
-  ]
+  ],
+  "section": 3
 }

@@ -1,7 +1,6 @@
 {
   "day": 25,
   "book": 1,
-  "week": 4,
   "title": "Kod doktora",
   "titleEn": "At the doctor",
   "theme": "Mrvica vs pinecone (vet subplot)",
@@ -54,5 +53,6 @@
   "imagesNeeded": true,
   "imageBriefs": [
     "Photo related to: Mrvica vs pinecone (vet subplot)"
-  ]
+  ],
+  "section": 4
 }

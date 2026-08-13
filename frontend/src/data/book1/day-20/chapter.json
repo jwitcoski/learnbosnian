@@ -1,7 +1,6 @@
 {
   "day": 20,
   "book": 1,
-  "week": 3,
   "title": "Telefonski poziv",
   "titleEn": "Phone call",
   "theme": "Where is Mrvica?",
@@ -54,5 +53,6 @@
   "imagesNeeded": true,
   "imageBriefs": [
     "Photo related to: Where is Mrvica?"
-  ]
+  ],
+  "section": 3
 }
