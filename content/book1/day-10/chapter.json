@@ -193,8 +193,8 @@
     }
   ],
   "culture": {
-    "title": "A room upstairs, and stone houses farther south",
-    "body": "Ana’s new address is simple: a small soba above Amira’s café, with a window over the street and a door that never quite keeps Mrvica out. Emir widens the home idea with a postcard from Stolac in Herzegovina, where stone houses and the Radimlja stećci necropolis sit in open light. Home language can start in one rented room and still point to older ways of living on the land.",
+    "title": "A room upstairs, and stone houses in Stolac",
+    "body": "Ana’s new address is simple: a small soba above Amira’s café, with a window over the street and a door that never quite keeps Mrvica out. Emir widens the home idea with postcards from Stolac in Herzegovina, where stone houses climb below the old town walls and the Radimlja stećci necropolis sits in open light. Home language can start in one rented room and still point to older ways of living on the land.",
     "imageId": "stolac-radimlja"
   },
   "lessonBlocks": [
@@ -682,24 +682,24 @@
       "credit": "Polygon painting based on photo: 13st Radimlja.jpg. Original uploader was Prof saxx at hr.wikipedia / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
-      "id": "konjic-town",
-      "alt": "Polygon painting of Konjic town on the river",
-      "localPath": "/images/book1/day-10-konjic.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Konjic%2C_Bosnia_and_Herzegovina.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKonjic%2C_Bosnia_and_Herzegovina.jpg",
-      "author": "Boris Maric",
-      "license": "CC0",
-      "credit": "Polygon painting based on photo: Konjic, Bosnia and Herzegovina.jpg. Boris Maric / Wikimedia Commons (CC0)"
+      "id": "stolac-old-town",
+      "alt": "Polygon painting of Stari grad Stolac stone fortress and houses",
+      "localPath": "/images/book1/day-10-stolac-old-town.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Stari_grad_Stolac_%2801%29.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AStari_grad_Stolac_%2801%29.JPG",
+      "author": "Ma▀▄Ga",
+      "license": "CC BY 3.0",
+      "credit": "Polygon painting based on photo: Stari grad Stolac (01).JPG. Ma▀▄Ga / Wikimedia Commons (CC BY 3.0)"
     },
     {
-      "id": "civic-apartment",
-      "alt": "Polygon painting of an apartment building in Sarajevo",
-      "localPath": "/images/book1/day-10-civic-apartment.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Apartment_building_in_Sarajevo.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AApartment_building_in_Sarajevo.jpg",
-      "author": "Choinowski",
-      "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on photo: Apartment building in Sarajevo.jpg. Choinowski / Wikimedia Commons (CC BY-SA 4.0)"
+      "id": "civic-stolac-houses",
+      "alt": "Polygon painting of traditional stone houses in Stolac",
+      "localPath": "/images/book1/day-10-stolac-houses.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Stari_grad_Stolac_%2817%29.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AStari_grad_Stolac_%2817%29.JPG",
+      "author": "Ma▀▄Ga",
+      "license": "CC BY 3.0",
+      "credit": "Polygon painting based on photo: Stari grad Stolac (17).JPG. Ma▀▄Ga / Wikimedia Commons (CC BY 3.0)"
     }
   ],
   "imagesNeeded": false,
@@ -711,7 +711,7 @@
       "label": "Wikipedia: Annex 7 of the Dayton Agreement",
       "url": "https://en.wikipedia.org/wiki/Annex_7_of_the_Dayton_Agreement"
     },
-    "imageId": "civic-apartment"
+    "imageId": "civic-stolac-houses"
   },
   "authenticListen": {
     "title": "Čuj Bosnu: living-room furniture words",
