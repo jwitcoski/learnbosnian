@@ -165,7 +165,7 @@ def img_try(id_: str, alt: str, filename: str, titles: list[str]) -> dict:
 def quiz_question(id_, prompt, options, correct_index, explanation, skill):
     return {
         "id": id_,
-        "prompt": prompt,
+        "question": prompt,
         "options": options,
         "correctIndex": correct_index,
         "explanation": explanation,

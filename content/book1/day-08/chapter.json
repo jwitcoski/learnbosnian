@@ -407,7 +407,6 @@
     "questions": [
       {
         "id": "q1",
-        "prompt": "What does burek mean in Bosnia and Herzegovina in this lesson?",
         "options": [
           "Any pita",
           "Meat pastry",
@@ -416,11 +415,11 @@
         ],
         "correctIndex": 1,
         "explanation": "Here burek is the meat pita. Cheese is sirnica.",
-        "skill": "vocabulary"
+        "skill": "vocabulary",
+        "question": "What does burek mean in Bosnia and Herzegovina in this lesson?"
       },
       {
         "id": "q2",
-        "prompt": "How do you say I love burek?",
         "options": [
           "Ne volim burek.",
           "Volim burek.",
@@ -429,11 +428,11 @@
         ],
         "correctIndex": 1,
         "explanation": "Volim + food object.",
-        "skill": "grammar"
+        "skill": "grammar",
+        "question": "How do you say I love burek?"
       },
       {
         "id": "q3",
-        "prompt": "Which word is the cheese pita?",
         "options": [
           "zeljanica",
           "hljeb",
@@ -442,11 +441,11 @@
         ],
         "correctIndex": 2,
         "explanation": "Sirnica is cheese. Zeljanica is greens.",
-        "skill": "vocabulary"
+        "skill": "vocabulary",
+        "question": "Which word is the cheese pita?"
       },
       {
         "id": "q4",
-        "prompt": "Ana is hungry. What does she say?",
         "options": [
           "Ja sam gladan.",
           "Ja sam gladna.",
@@ -455,11 +454,11 @@
         ],
         "correctIndex": 1,
         "explanation": "Feminine speaker uses gladna.",
-        "skill": "grammar"
+        "skill": "grammar",
+        "question": "Ana is hungry. What does she say?"
       },
       {
         "id": "q5",
-        "prompt": "What does Ne volim luk mean?",
         "options": [
           "I love onion.",
           "I do not like onion.",
@@ -468,11 +467,11 @@
         ],
         "correctIndex": 1,
         "explanation": "Ne volim = I do not like.",
-        "skill": "vocabulary"
+        "skill": "vocabulary",
+        "question": "What does Ne volim luk mean?"
       },
       {
         "id": "q6",
-        "prompt": "Livno is famous in this lesson’s postcard for…",
         "options": [
           "A sea bridge",
           "Highland cheese country",
@@ -481,11 +480,11 @@
         ],
         "correctIndex": 1,
         "explanation": "Livanjski sir and highland pastures widen the food map.",
-        "skill": "culture"
+        "skill": "culture",
+        "question": "Livno is famous in this lesson’s postcard for…"
       },
       {
         "id": "q7",
-        "prompt": "Emir says burek is…",
         "options": [
           "sa sirom",
           "s mesom",
@@ -494,11 +493,11 @@
         ],
         "correctIndex": 1,
         "explanation": "Burek is with meat.",
-        "skill": "dialogue"
+        "skill": "dialogue",
+        "question": "Emir says burek is…"
       },
       {
         "id": "q8",
-        "prompt": "What phrase means Enjoy your meal?",
         "options": [
           "Dobar dan",
           "Dobar tek",
@@ -507,11 +506,11 @@
         ],
         "correctIndex": 1,
         "explanation": "Dobar tek is the meal wish.",
-        "skill": "vocabulary"
+        "skill": "vocabulary",
+        "question": "What phrase means Enjoy your meal?"
       },
       {
         "id": "q9",
-        "prompt": "In Dino Merlin’s Burek, food names show up as…",
         "options": [
           "Airport codes only",
           "Proud everyday Bosnian kitchen words",
@@ -520,7 +519,8 @@
         ],
         "correctIndex": 1,
         "explanation": "Listen for food vocabulary riding a pop hook.",
-        "skill": "listening"
+        "skill": "listening",
+        "question": "In Dino Merlin’s Burek, food names show up as…"
       }
     ]
   },

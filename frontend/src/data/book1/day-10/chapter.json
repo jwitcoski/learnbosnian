@@ -412,7 +412,6 @@
     "questions": [
       {
         "id": "q1",
-        "prompt": "What does soba mean?",
         "options": [
           "Soup",
           "Room",
@@ -421,11 +420,11 @@
         ],
         "correctIndex": 1,
         "explanation": "Soba = room.",
-        "skill": "vocabulary"
+        "skill": "vocabulary",
+        "question": "What does soba mean?"
       },
       {
         "id": "q2",
-        "prompt": "Imam krevet means…",
         "options": [
           "I want a bed.",
           "I have a bed.",
@@ -434,11 +433,11 @@
         ],
         "correctIndex": 1,
         "explanation": "Imam = I have.",
-        "skill": "grammar"
+        "skill": "grammar",
+        "question": "Imam krevet means…"
       },
       {
         "id": "q3",
-        "prompt": "Which chunk fits a feminine room?",
         "options": [
           "Moj soba",
           "Moja soba",
@@ -447,11 +446,11 @@
         ],
         "correctIndex": 1,
         "explanation": "Moja soba.",
-        "skill": "grammar"
+        "skill": "grammar",
+        "question": "Which chunk fits a feminine room?"
       },
       {
         "id": "q4",
-        "prompt": "Prozor means…",
         "options": [
           "Door",
           "Window",
@@ -460,11 +459,11 @@
         ],
         "correctIndex": 1,
         "explanation": "Prozor = window.",
-        "skill": "vocabulary"
+        "skill": "vocabulary",
+        "question": "Prozor means…"
       },
       {
         "id": "q5",
-        "prompt": "Stolac / Radimlja appears as…",
         "options": [
           "A Sarajevo tram line",
           "A Herzegovina stone-house postcard place",
@@ -473,11 +472,11 @@
         ],
         "correctIndex": 1,
         "explanation": "The culture hook points south to Stolac.",
-        "skill": "culture"
+        "skill": "culture",
+        "question": "Stolac / Radimlja appears as…"
       },
       {
         "id": "q6",
-        "prompt": "Ana says her room is…",
         "options": [
           "mala, ali lijepa",
           "samo skupo",
@@ -486,11 +485,11 @@
         ],
         "correctIndex": 0,
         "explanation": "Small but beautiful.",
-        "skill": "dialogue"
+        "skill": "dialogue",
+        "question": "Ana says her room is…"
       },
       {
         "id": "q7",
-        "prompt": "Which word means chair?",
         "options": [
           "sto",
           "stolica",
@@ -499,11 +498,11 @@
         ],
         "correctIndex": 1,
         "explanation": "Stolica = chair. Sto = table.",
-        "skill": "vocabulary"
+        "skill": "vocabulary",
+        "question": "Which word means chair?"
       },
       {
         "id": "q8",
-        "prompt": "Krevet je udoban means…",
         "options": [
           "The bed is comfortable.",
           "The door is new.",
@@ -512,11 +511,11 @@
         ],
         "correctIndex": 0,
         "explanation": "Udoban = comfortable.",
-        "skill": "grammar"
+        "skill": "grammar",
+        "question": "Krevet je udoban means…"
       },
       {
         "id": "q9",
-        "prompt": "The furniture listen resource helps you…",
         "options": [
           "Ignore home words",
           "Hear living-room vocabulary in another teacher voice",
@@ -525,7 +524,8 @@
         ],
         "correctIndex": 1,
         "explanation": "Extra listening on furniture names.",
-        "skill": "listening"
+        "skill": "listening",
+        "question": "The furniture listen resource helps you…"
       }
     ]
   },

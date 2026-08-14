@@ -371,7 +371,6 @@
     "questions": [
       {
         "id": "q1",
-        "prompt": "What does pravo mean in a direction?",
         "options": [
           "Straight ahead",
           "Behind",
@@ -380,11 +379,11 @@
         ],
         "correctIndex": 0,
         "explanation": "Pravo means straight ahead in a direction.",
-        "skill": "vocabulary"
+        "skill": "vocabulary",
+        "question": "What does pravo mean in a direction?"
       },
       {
         "id": "q2",
-        "prompt": "Which instruction tells one familiar person to turn left?",
         "options": [
           "Idite pravo.",
           "Skreni lijevo.",
@@ -393,11 +392,11 @@
         ],
         "correctIndex": 1,
         "explanation": "Skreni lijevo tells one familiar person to turn left.",
-        "skill": "grammar"
+        "skill": "grammar",
+        "question": "Which instruction tells one familiar person to turn left?"
       },
       {
         "id": "q3",
-        "prompt": "Which word means bridge?",
         "options": [
           "ulica",
           "ispred",
@@ -406,11 +405,11 @@
         ],
         "correctIndex": 2,
         "explanation": "Most means bridge.",
-        "skill": "vocabulary"
+        "skill": "vocabulary",
+        "question": "Which word means bridge?"
       },
       {
         "id": "q4",
-        "prompt": "Which phrase means behind?",
         "options": [
           "desna",
           "blizu",
@@ -419,11 +418,11 @@
         ],
         "correctIndex": 3,
         "explanation": "Iza means behind.",
-        "skill": "vocabulary"
+        "skill": "vocabulary",
+        "question": "Which phrase means behind?"
       },
       {
         "id": "q5",
-        "prompt": "Where is Ana trying to go?",
         "options": [
           "She is trying to reach Latin Bridge.",
           "She is trying to reach Jahorina.",
@@ -432,11 +431,11 @@
         ],
         "correctIndex": 0,
         "explanation": "Ana is trying to reach Latin Bridge.",
-        "skill": "dialogue"
+        "skill": "dialogue",
+        "question": "Where is Ana trying to go?"
       },
       {
         "id": "q6",
-        "prompt": "Which form is polite or plural?",
         "options": [
           "skreni",
           "idite",
@@ -445,11 +444,11 @@
         ],
         "correctIndex": 1,
         "explanation": "Idite is a polite or plural command form.",
-        "skill": "grammar"
+        "skill": "grammar",
+        "question": "Which form is polite or plural?"
       },
       {
         "id": "q7",
-        "prompt": "Which other bridge appears on a postcard?",
         "options": [
           "The bridge at Brčko",
           "The bridge at Mostar",
@@ -458,11 +457,11 @@
         ],
         "correctIndex": 2,
         "explanation": "The old stone bridge at Konjic appears on the postcard.",
-        "skill": "culture"
+        "skill": "culture",
+        "question": "Which other bridge appears on a postcard?"
       },
       {
         "id": "q8",
-        "prompt": "Why must travelers respect marked mine areas?",
         "options": [
           "The signs mark private cafés.",
           "The paths close for weather.",
@@ -471,7 +470,8 @@
         ],
         "correctIndex": 3,
         "explanation": "Landmines can remain lethal for decades after a war ends.",
-        "skill": "culture"
+        "skill": "culture",
+        "question": "Why must travelers respect marked mine areas?"
       }
     ]
   },

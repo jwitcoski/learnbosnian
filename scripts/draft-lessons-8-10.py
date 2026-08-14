@@ -330,7 +330,7 @@ def build_lesson_8(images: list) -> dict:
             "questions": [
                 {
                     "id": "q1",
-                    "prompt": "What does burek mean in BiH in this lesson?",
+                    "question": "What does burek mean in BiH in this lesson?",
                     "options": ["Any pita", "Meat pastry", "Only cheese pie", "Only bread"],
                     "correctIndex": 1,
                     "explanation": "Here burek is the meat pita. Cheese is sirnica.",
@@ -338,7 +338,7 @@ def build_lesson_8(images: list) -> dict:
                 },
                 {
                     "id": "q2",
-                    "prompt": "How do you say I love burek?",
+                    "question": "How do you say I love burek?",
                     "options": ["Ne volim burek.", "Volim burek.", "Ja sam burek.", "Dobar tek burek."],
                     "correctIndex": 1,
                     "explanation": "Volim + food object.",
@@ -346,7 +346,7 @@ def build_lesson_8(images: list) -> dict:
                 },
                 {
                     "id": "q3",
-                    "prompt": "Which word is the cheese pita?",
+                    "question": "Which word is the cheese pita?",
                     "options": ["zeljanica", "hljeb", "sirnica", "jogurt"],
                     "correctIndex": 2,
                     "explanation": "Sirnica is cheese. Zeljanica is greens.",
@@ -354,7 +354,7 @@ def build_lesson_8(images: list) -> dict:
                 },
                 {
                     "id": "q4",
-                    "prompt": "Ana is hungry. What does she say?",
+                    "question": "Ana is hungry. What does she say?",
                     "options": ["Ja sam gladan.", "Ja sam gladna.", "Ja sam burek.", "Ne volim gladna."],
                     "correctIndex": 1,
                     "explanation": "Feminine speaker uses gladna.",
@@ -362,7 +362,7 @@ def build_lesson_8(images: list) -> dict:
                 },
                 {
                     "id": "q5",
-                    "prompt": "What does Ne volim luk mean?",
+                    "question": "What does Ne volim luk mean?",
                     "options": ["I love onion.", "I do not like onion.", "Onion is bread.", "Bring yogurt."],
                     "correctIndex": 1,
                     "explanation": "Ne volim = I do not like.",
@@ -370,7 +370,7 @@ def build_lesson_8(images: list) -> dict:
                 },
                 {
                     "id": "q6",
-                    "prompt": "Livno is famous in this lesson’s postcard for…",
+                    "question": "Livno is famous in this lesson’s postcard for…",
                     "options": ["A sea bridge", "Highland cheese country", "Only coffee cups", "Airport gates"],
                     "correctIndex": 1,
                     "explanation": "Livanjski sir and highland pastures widen the food map.",
@@ -378,7 +378,7 @@ def build_lesson_8(images: list) -> dict:
                 },
                 {
                     "id": "q7",
-                    "prompt": "Emir says burek is…",
+                    "question": "Emir says burek is…",
                     "options": ["sa sirom", "s mesom", "sa voćem", "sa čajem"],
                     "correctIndex": 1,
                     "explanation": "Burek is with meat.",
@@ -386,7 +386,7 @@ def build_lesson_8(images: list) -> dict:
                 },
                 {
                     "id": "q8",
-                    "prompt": "What phrase means Enjoy your meal?",
+                    "question": "What phrase means Enjoy your meal?",
                     "options": ["Dobar dan", "Dobar tek", "Molim", "Hvala"],
                     "correctIndex": 1,
                     "explanation": "Dobar tek is the meal wish.",
@@ -394,7 +394,7 @@ def build_lesson_8(images: list) -> dict:
                 },
                 {
                     "id": "q9",
-                    "prompt": "In Dino Merlin’s Burek, food names show up as…",
+                    "question": "In Dino Merlin’s Burek, food names show up as…",
                     "options": ["Airport codes only", "Proud everyday Bosnian kitchen words", "Silent captions only", "English menus only"],
                     "correctIndex": 1,
                     "explanation": "Listen for food vocabulary riding a pop hook.",
@@ -653,7 +653,7 @@ def build_lesson_9(images: list) -> dict:
             "questions": [
                 {
                     "id": "q1",
-                    "prompt": "What is a prodavnica?",
+                    "question": "What is a prodavnica?",
                     "options": ["A waterfall", "A shop", "A bridge", "A clock tower"],
                     "correctIndex": 1,
                     "explanation": "Prodavnica means shop/store.",
@@ -661,7 +661,7 @@ def build_lesson_9(images: list) -> dict:
                 },
                 {
                     "id": "q2",
-                    "prompt": "How do you say I want milk?",
+                    "question": "How do you say I want milk?",
                     "options": ["Volim mlijeko samo", "Želim mlijeko.", "Ne volim vodu.", "To je skupo mlijeko samo"],
                     "correctIndex": 1,
                     "explanation": "Želim + object.",
@@ -669,7 +669,7 @@ def build_lesson_9(images: list) -> dict:
                 },
                 {
                     "id": "q3",
-                    "prompt": "Koliko košta? asks about…",
+                    "question": "Koliko košta? asks about…",
                     "options": ["The time", "The price", "The weather", "Your name"],
                     "correctIndex": 1,
                     "explanation": "It means how much does it cost?",
@@ -677,7 +677,7 @@ def build_lesson_9(images: list) -> dict:
                 },
                 {
                     "id": "q4",
-                    "prompt": "Which word means thank you?",
+                    "question": "Which word means thank you?",
                     "options": ["molim", "hvala", "kesa", "skupo"],
                     "correctIndex": 1,
                     "explanation": "Hvala = thank you.",
@@ -685,7 +685,7 @@ def build_lesson_9(images: list) -> dict:
                 },
                 {
                     "id": "q5",
-                    "prompt": "Tuzla appears in this lesson as…",
+                    "question": "Tuzla appears in this lesson as…",
                     "options": ["A southern sea port only", "A northeast city with market energy", "Only a desert", "A fictional café name"],
                     "correctIndex": 1,
                     "explanation": "The culture hook widens the map to Tuzla.",
@@ -693,7 +693,7 @@ def build_lesson_9(images: list) -> dict:
                 },
                 {
                     "id": "q6",
-                    "prompt": "Ana asks for a bag. What does she say?",
+                    "question": "Ana asks for a bag. What does she say?",
                     "options": ["Kesa, molim.", "Skupo, molim.", "Gladan, molim.", "Burek, hvala samo."],
                     "correctIndex": 0,
                     "explanation": "Kesa, molim.",
@@ -701,7 +701,7 @@ def build_lesson_9(images: list) -> dict:
                 },
                 {
                     "id": "q7",
-                    "prompt": "To je skupo means…",
+                    "question": "To je skupo means…",
                     "options": ["That is cheap.", "That is expensive.", "That is water.", "That is an apple."],
                     "correctIndex": 1,
                     "explanation": "Skupo = expensive.",
@@ -709,7 +709,7 @@ def build_lesson_9(images: list) -> dict:
                 },
                 {
                     "id": "q8",
-                    "prompt": "Which spelling is the BiH form for milk?",
+                    "question": "Which spelling is the BiH form for milk?",
                     "options": ["mleko only", "mlijeko", "mliko", "milk-o"],
                     "correctIndex": 1,
                     "explanation": "This course uses mlijeko.",
@@ -717,7 +717,7 @@ def build_lesson_9(images: list) -> dict:
                 },
                 {
                     "id": "q9",
-                    "prompt": "In the shopping listen clip, you mainly train…",
+                    "question": "In the shopping listen clip, you mainly train…",
                     "options": ["Silent reading only", "Hearing price and want phrases in real teaching speech", "Swimming verbs", "Past tense only"],
                     "correctIndex": 1,
                     "explanation": "Čuj Bosnu here targets shop phrases.",
@@ -977,7 +977,7 @@ def build_lesson_10(images: list) -> dict:
             "questions": [
                 {
                     "id": "q1",
-                    "prompt": "What does soba mean?",
+                    "question": "What does soba mean?",
                     "options": ["Soup", "Room", "Bridge", "Market"],
                     "correctIndex": 1,
                     "explanation": "Soba = room.",
@@ -985,7 +985,7 @@ def build_lesson_10(images: list) -> dict:
                 },
                 {
                     "id": "q2",
-                    "prompt": "Imam krevet means…",
+                    "question": "Imam krevet means…",
                     "options": ["I want a bed.", "I have a bed.", "The bed is big.", "Open the door."],
                     "correctIndex": 1,
                     "explanation": "Imam = I have.",
@@ -993,7 +993,7 @@ def build_lesson_10(images: list) -> dict:
                 },
                 {
                     "id": "q3",
-                    "prompt": "Which chunk fits a feminine room?",
+                    "question": "Which chunk fits a feminine room?",
                     "options": ["Moj soba", "Moja soba", "Moj prozor soba", "Imaš soba moj"],
                     "correctIndex": 1,
                     "explanation": "Moja soba.",
@@ -1001,7 +1001,7 @@ def build_lesson_10(images: list) -> dict:
                 },
                 {
                     "id": "q4",
-                    "prompt": "Prozor means…",
+                    "question": "Prozor means…",
                     "options": ["Door", "Window", "Lamp", "Chair"],
                     "correctIndex": 1,
                     "explanation": "Prozor = window.",
@@ -1009,7 +1009,7 @@ def build_lesson_10(images: list) -> dict:
                 },
                 {
                     "id": "q5",
-                    "prompt": "Stolac / Radimlja appears as…",
+                    "question": "Stolac / Radimlja appears as…",
                     "options": ["A Sarajevo tram line", "A Herzegovina stone-house postcard place", "A coffee brand only", "A sea port"],
                     "correctIndex": 1,
                     "explanation": "The culture hook points south to Stolac.",
@@ -1017,7 +1017,7 @@ def build_lesson_10(images: list) -> dict:
                 },
                 {
                     "id": "q6",
-                    "prompt": "Ana says her room is…",
+                    "question": "Ana says her room is…",
                     "options": ["mala, ali lijepa", "samo skupo", "samo burek", "samo pijaca"],
                     "correctIndex": 0,
                     "explanation": "Small but beautiful.",
@@ -1025,7 +1025,7 @@ def build_lesson_10(images: list) -> dict:
                 },
                 {
                     "id": "q7",
-                    "prompt": "Which word means chair?",
+                    "question": "Which word means chair?",
                     "options": ["sto", "stolica", "stan", "soba"],
                     "correctIndex": 1,
                     "explanation": "Stolica = chair. Sto = table.",
@@ -1033,7 +1033,7 @@ def build_lesson_10(images: list) -> dict:
                 },
                 {
                     "id": "q8",
-                    "prompt": "Krevet je udoban means…",
+                    "question": "Krevet je udoban means…",
                     "options": ["The bed is comfortable.", "The door is new.", "The lamp is expensive.", "The house is far."],
                     "correctIndex": 0,
                     "explanation": "Udoban = comfortable.",
@@ -1041,7 +1041,7 @@ def build_lesson_10(images: list) -> dict:
                 },
                 {
                     "id": "q9",
-                    "prompt": "The furniture listen resource helps you…",
+                    "question": "The furniture listen resource helps you…",
                     "options": ["Ignore home words", "Hear living-room vocabulary in another teacher voice", "Learn only past tense", "Skip adjectives"],
                     "correctIndex": 1,
                     "explanation": "Extra listening on furniture names.",
