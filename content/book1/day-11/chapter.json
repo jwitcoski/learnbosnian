@@ -4,55 +4,739 @@
   "title": "Kakvo je vrijeme?",
   "titleEn": "How is the weather?",
   "theme": "Autumn on Trebević",
-  "status": "outlined",
+  "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "",
+  "reviewerNotes": "This full draft is ready for human review before publication.",
   "estimatedMinutes": 60,
-  "storyBeat": "Weather ruins a picnic",
+  "storyBeat": "Rain ruins Ana and Emir's picnic on Trebević.",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 11: Weather, seasons, adjectives"
+      "Name common weather conditions and the four seasons.",
+      "Describe sun, rain, snow, wind, warmth, and cold.",
+      "Recognize weather words in a mountain forecast."
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Ask Kakvo je vrijeme? for a general weather report.",
+      "Use neuter weather descriptions such as Hladno je and Oblačno je.",
+      "Say Pada kiša and Pada snijeg when rain or snow is falling."
     ],
     "culture": [
-      "Autumn on Trebević"
+      "Explore autumn weather on Trebević and the Sarajevo cable car.",
+      "Compare Trebević with a seasonal postcard from Jahorina.",
+      "Understand why winter inversions affect air in the Sarajevo basin."
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "vrijeme",
+      "english": "weather",
+      "pronunciation": "VRYE-meh",
+      "partOfSpeech": "noun",
+      "example": "Vrijeme je hladno."
+    },
+    {
+      "bosnian": "kakvo",
+      "english": "what kind of",
+      "pronunciation": "KAHK-vo",
+      "partOfSpeech": "question word",
+      "example": "Kakvo je vrijeme?"
+    },
+    {
+      "bosnian": "sunce",
+      "english": "sun",
+      "pronunciation": "SOON-tseh",
+      "partOfSpeech": "noun",
+      "example": "Sunce sija."
+    },
+    {
+      "bosnian": "kiša",
+      "english": "rain",
+      "pronunciation": "KEE-sha",
+      "partOfSpeech": "noun",
+      "example": "Pada kiša."
+    },
+    {
+      "bosnian": "snijeg",
+      "english": "snow",
+      "pronunciation": "SNYEH-g",
+      "partOfSpeech": "noun",
+      "example": "Pada snijeg."
+    },
+    {
+      "bosnian": "oblačno",
+      "english": "cloudy",
+      "pronunciation": "OH-blach-no",
+      "partOfSpeech": "adjective",
+      "example": "Oblačno je."
+    },
+    {
+      "bosnian": "hladno",
+      "english": "cold",
+      "pronunciation": "HLAHD-no",
+      "partOfSpeech": "adjective",
+      "example": "Hladno je na planini."
+    },
+    {
+      "bosnian": "toplo",
+      "english": "warm",
+      "pronunciation": "TOH-plo",
+      "partOfSpeech": "adjective",
+      "example": "Toplo je u kafiću."
+    },
+    {
+      "bosnian": "vruće",
+      "english": "hot",
+      "pronunciation": "VROO-cheh",
+      "partOfSpeech": "adjective",
+      "example": "Ljeti je vruće."
+    },
+    {
+      "bosnian": "vjetar",
+      "english": "wind",
+      "pronunciation": "VYEH-tar",
+      "partOfSpeech": "noun",
+      "example": "Vjetar je jak."
+    },
+    {
+      "bosnian": "jesen",
+      "english": "autumn",
+      "pronunciation": "YEH-sen",
+      "partOfSpeech": "noun",
+      "example": "Jesen je hladna."
+    },
+    {
+      "bosnian": "zima",
+      "english": "winter",
+      "pronunciation": "ZEE-ma",
+      "partOfSpeech": "noun",
+      "example": "Zima donosi snijeg."
+    },
+    {
+      "bosnian": "ljeto",
+      "english": "summer",
+      "pronunciation": "LYEH-to",
+      "partOfSpeech": "noun",
+      "example": "Ljeto je toplo."
+    },
+    {
+      "bosnian": "proljeće",
+      "english": "spring",
+      "pronunciation": "PROH-lyeh-cheh",
+      "partOfSpeech": "noun",
+      "example": "Proljeće je lijepo."
+    },
+    {
+      "bosnian": "pada",
+      "english": "falls or is falling",
+      "pronunciation": "PAH-da",
+      "partOfSpeech": "verb form",
+      "example": "Kiša pada."
+    },
+    {
+      "bosnian": "sunčano",
+      "english": "sunny",
+      "pronunciation": "SOON-cha-no",
+      "partOfSpeech": "adjective",
+      "example": "Sunčano je."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Kakvo je vrijeme?",
+      "explanation": "Ask Kakvo je vrijeme? when you want a general weather report. Kakvo agrees with the neuter noun vrijeme. The whole question is a useful chunk that works in every season.",
+      "examples": [
+        {
+          "bosnian": "Kakvo je vrijeme?",
+          "english": "How is the weather?"
+        },
+        {
+          "bosnian": "Kakvo je vrijeme na Trebeviću?",
+          "english": "How is the weather on Trebević?"
+        },
+        {
+          "bosnian": "Vrijeme je hladno.",
+          "english": "The weather is cold."
+        }
+      ]
+    },
+    {
+      "title": "Neuter weather descriptions",
+      "explanation": "Bosnian often describes the weather with a neuter adjective followed by je. Say Hladno je, Toplo je, or Oblačno je. These short sentences do not need a separate word for it.",
+      "examples": [
+        {
+          "bosnian": "Hladno je.",
+          "english": "It is cold."
+        },
+        {
+          "bosnian": "Toplo je.",
+          "english": "It is warm."
+        },
+        {
+          "bosnian": "Oblačno je.",
+          "english": "It is cloudy."
+        }
+      ]
+    },
+    {
+      "title": "Pada kiša and pada snijeg",
+      "explanation": "Use pada with rain or snow to describe what is falling. Say Pada kiša for rain and Pada snijeg for snow. Keep each pair together so you can report a sudden change quickly.",
+      "examples": [
+        {
+          "bosnian": "Pada kiša.",
+          "english": "It is raining."
+        },
+        {
+          "bosnian": "Pada snijeg.",
+          "english": "It is snowing."
+        },
+        {
+          "bosnian": "Kiša pada na Trebeviću.",
+          "english": "Rain is falling on Trebević."
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "Autumn on Trebević",
-    "body": "Stub for Lesson 11. Full culture hook will be written on the draft night.",
-    "imageId": null
+    "title": "Autumn above Sarajevo",
+    "body": "Trebević rises directly above Sarajevo, but its forest air can feel far from the busy basin. Ana and Emir ride the cable car with a picnic and watch autumn colors spread below them. Sunce shines at first, then vjetar bends the branches and dark clouds gather. Emir shows a Jahorina postcard while Ana practices the four seasons. Jahorina is known for winter snow, while Trebević offers a quick mountain escape from the city. When kiša soaks the blanket, Ana learns that mountain weather rewards a good forecast and a flexible plan.",
+    "imageId": "trebevic-cable"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A: Weather and season words",
+      "body": "Start with vrijeme, sunce, kiša, snijeg, and vjetar. Then add the four seasons, which are proljeće, ljeto, jesen, and zima. Look at the Trebević view and describe what you can actually see. Say Sunčano je when the sky is bright, Oblačno je when clouds cover it, and Hladno je when the mountain air bites. Ana packs for warm autumn sun, but Emir notices the wind. Their different guesses turn the vocabulary into a real forecast. Repeat each weather sentence aloud, then choose one season and describe its usual conditions in two short Bosnian sentences.",
+      "tips": [
+        "Keep vrijeme and Kakvo je vrijeme? together as a useful question pattern.",
+        "Say the complete sentence Hladno je instead of giving only the adjective.",
+        "Use the Jahorina postcard to connect zima with snijeg."
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B: Report a changing forecast",
+      "body": "Build a weather report from short, complete sentences. Ask Kakvo je vrijeme? and answer Toplo je, Hladno je, Sunčano je, or Oblačno je. When something begins to fall, switch to Pada kiša or Pada snijeg. Ana looks at one patch of blue sky and declares success, but the clouds cross Trebević before lunch. Emir hears the first drops and says Pada kiša. The picnic moves under shelter while Mrvica, safely at home, avoids the entire problem. Practice changing your report from sun to cloud to rain so the phrases become quick enough for a real conversation.",
+      "tips": [
+        "Use a neuter adjective because vrijeme is a neuter noun.",
+        "Keep pada beside kiša or snijeg when you describe precipitation.",
+        "Answer a weather question with one clear sentence before adding details."
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Piknik na kiši",
+    "setting": "Ana and Emir have opened a picnic blanket near the Trebević cable car.",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "bosnian": "Kakvo je vrijeme?",
+        "english": "How is the weather?"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Sunčano je, ali vjetar je jak.",
+        "english": "It is sunny, but the wind is strong."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Toplo je. Hajde da jedemo.",
+        "english": "It is warm. Let us eat."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Pogledaj! Sada je oblačno.",
+        "english": "Look! It is cloudy now."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Pada kiša! Gdje je kišobran?",
+        "english": "It is raining! Where is the umbrella?"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Kišobran je u kafiću.",
+        "english": "The umbrella is in the café."
+      },
+      {
+        "speaker": "Narrator",
+        "bosnian": "Piknik je mokar, a Ana trči prema žičari.",
+        "english": "The picnic is wet, and Ana runs toward the cable car."
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match the weather",
+      "prompt": "Match each Bosnian weather word with its English meaning.",
+      "items": [
+        {
+          "left": "kiša",
+          "right": "rain"
+        },
+        {
+          "left": "snijeg",
+          "right": "snow"
+        },
+        {
+          "left": "vjetar",
+          "right": "wind"
+        },
+        {
+          "left": "sunčano",
+          "right": "sunny"
+        },
+        {
+          "left": "oblačno",
+          "right": "cloudy"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "truefalse",
+      "title": "True or false about the forecast",
+      "prompt": "Decide whether each sentence matches the lesson.",
+      "items": [
+        {
+          "statement": "Pada kiša means that it is raining.",
+          "answer": true
+        },
+        {
+          "statement": "Zima means summer.",
+          "answer": false
+        },
+        {
+          "statement": "Oblačno je describes cloudy weather.",
+          "answer": true
+        },
+        {
+          "statement": "The picnic stays dry.",
+          "answer": false
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Write the Bosnian question that asks how the weather is.",
+      "hint": "Begin with Kakvo.",
+      "answer": "Kakvo je vrijeme?"
+    },
+    {
+      "id": "pr2",
+      "prompt": "Write the Bosnian sentence for It is cold.",
+      "hint": "Use hladno.",
+      "answer": "Hladno je."
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write the Bosnian sentence for It is cloudy.",
+      "hint": "Use oblačno.",
+      "answer": "Oblačno je."
+    },
+    {
+      "id": "pr4",
+      "prompt": "Write the Bosnian sentence for It is raining.",
+      "hint": "Use pada and kiša.",
+      "answer": "Pada kiša."
+    },
+    {
+      "id": "pr5",
+      "prompt": "Write the Bosnian sentence for It is snowing.",
+      "hint": "Use pada and snijeg.",
+      "answer": "Pada snijeg."
+    },
+    {
+      "id": "pr6",
+      "prompt": "Write the Bosnian word for autumn.",
+      "hint": "The word begins with j.",
+      "answer": "jesen"
+    },
+    {
+      "id": "pr7",
+      "prompt": "Write the Bosnian word for spring.",
+      "hint": "The word begins with prol.",
+      "answer": "proljeće"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "The cable car returned",
+      "body": "The Trebević cable car connects Sarajevo with the mountain above the city. The original line was destroyed during the war, and a rebuilt service opened in 2018. The ride now gives residents and visitors quick access to forest paths and broad views. The restored cable car has again made the mountain feel close to the city."
+    },
+    {
+      "title": "Jahorina changes with the seasons",
+      "body": "Jahorina is a mountain where the season changes the entire experience. Winter brings ski slopes and reliable snow, while warmer months bring green trails and open views. A postcard from Jahorina helps Ana compare snijeg, sunce, zima, and ljeto. The mountain makes season words visible rather than abstract."
+    },
+    {
+      "title": "Mountain weather moves quickly",
+      "body": "Weather on Trebević can change faster than weather in the basin below. Sun can disappear behind cloud, and wind can arrive before rain. Ana learns this fact when the picnic blanket becomes wet. The ruined picnic makes Kakvo je vrijeme? a practical question."
+    }
+  ],
   "resources": [
     {
-      "label": "How to speak Bosnian (YouTube)",
-      "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "label": "How To Speak Bosnian Weather",
+      "url": "https://www.youtube.com/watch?v=NLlkMluC4jA",
+      "note": "This speaker resource reinforces the weather phrases from Lesson 11."
+    },
+    {
+      "label": "Next lesson",
+      "url": "/learn/lesson/12",
+      "note": "Lesson 12 invites Ana and Mrvica to Vrelo Bosne."
+    },
+    {
+      "label": "Book 1 curriculum",
+      "url": "/learn",
+      "note": "The curriculum page lists every Book 1 lesson."
     }
   ],
   "sectionQuiz": {
     "title": "Lesson 11 section quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What does vrijeme mean?",
+        "options": [
+          "Weather",
+          "Picnic",
+          "Mountain",
+          "Season"
+        ],
+        "correctIndex": 0,
+        "explanation": "Vrijeme means weather.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q2",
+        "prompt": "Which sentence asks about the weather?",
+        "options": [
+          "Pada kiša.",
+          "Kakvo je vrijeme?",
+          "Jesen je hladna.",
+          "Vjetar je jak."
+        ],
+        "correctIndex": 1,
+        "explanation": "Kakvo je vrijeme? asks how the weather is.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q3",
+        "prompt": "Which sentence means that it is cloudy?",
+        "options": [
+          "Sunčano je.",
+          "Toplo je.",
+          "Oblačno je.",
+          "Pada snijeg."
+        ],
+        "correctIndex": 2,
+        "explanation": "Oblačno je means that it is cloudy.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q4",
+        "prompt": "Which season is zima?",
+        "options": [
+          "Spring",
+          "Summer",
+          "Autumn",
+          "Winter"
+        ],
+        "correctIndex": 3,
+        "explanation": "Zima means winter.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q5",
+        "prompt": "What ruined Ana and Emir's picnic?",
+        "options": [
+          "Rain reached the blanket.",
+          "Snow blocked the cable car.",
+          "Heat melted the food.",
+          "Wind took the postcard."
+        ],
+        "correctIndex": 0,
+        "explanation": "Rain reaches the blanket and ruins the picnic.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q6",
+        "prompt": "Which place appears on Emir's second mountain postcard?",
+        "options": [
+          "Vrelo Bosne",
+          "Jahorina",
+          "Brčko",
+          "Konjic"
+        ],
+        "correctIndex": 1,
+        "explanation": "Jahorina appears as the second mountain place.",
+        "skill": "culture"
+      },
+      {
+        "id": "q7",
+        "prompt": "Which sentence means that it is snowing?",
+        "options": [
+          "Snijeg je topao.",
+          "Zima je sunčana.",
+          "Pada snijeg.",
+          "Vjetar pada."
+        ],
+        "correctIndex": 2,
+        "explanation": "Pada snijeg means that it is snowing.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q8",
+        "prompt": "Why can winter air pollution linger in Sarajevo?",
+        "options": [
+          "The cable car makes smoke.",
+          "The river stops all wind.",
+          "The mountains create summer heat.",
+          "An inversion can trap polluted air."
+        ],
+        "correctIndex": 3,
+        "explanation": "A winter inversion can trap polluted air in the Sarajevo basin.",
+        "skill": "culture"
+      }
+    ]
   },
-  "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to: Autumn on Trebević"
+  "dictionaryEntries": [
+    {
+      "day": 11,
+      "bosnian": "vrijeme",
+      "english": "weather",
+      "pronunciation": "VRYE-meh",
+      "partOfSpeech": "noun",
+      "example": "Vrijeme je hladno."
+    },
+    {
+      "day": 11,
+      "bosnian": "kakvo",
+      "english": "what kind of",
+      "pronunciation": "KAHK-vo",
+      "partOfSpeech": "question word",
+      "example": "Kakvo je vrijeme?"
+    },
+    {
+      "day": 11,
+      "bosnian": "sunce",
+      "english": "sun",
+      "pronunciation": "SOON-tseh",
+      "partOfSpeech": "noun",
+      "example": "Sunce sija."
+    },
+    {
+      "day": 11,
+      "bosnian": "kiša",
+      "english": "rain",
+      "pronunciation": "KEE-sha",
+      "partOfSpeech": "noun",
+      "example": "Pada kiša."
+    },
+    {
+      "day": 11,
+      "bosnian": "snijeg",
+      "english": "snow",
+      "pronunciation": "SNYEH-g",
+      "partOfSpeech": "noun",
+      "example": "Pada snijeg."
+    },
+    {
+      "day": 11,
+      "bosnian": "oblačno",
+      "english": "cloudy",
+      "pronunciation": "OH-blach-no",
+      "partOfSpeech": "adjective",
+      "example": "Oblačno je."
+    },
+    {
+      "day": 11,
+      "bosnian": "hladno",
+      "english": "cold",
+      "pronunciation": "HLAHD-no",
+      "partOfSpeech": "adjective",
+      "example": "Hladno je na planini."
+    },
+    {
+      "day": 11,
+      "bosnian": "toplo",
+      "english": "warm",
+      "pronunciation": "TOH-plo",
+      "partOfSpeech": "adjective",
+      "example": "Toplo je u kafiću."
+    },
+    {
+      "day": 11,
+      "bosnian": "vruće",
+      "english": "hot",
+      "pronunciation": "VROO-cheh",
+      "partOfSpeech": "adjective",
+      "example": "Ljeti je vruće."
+    },
+    {
+      "day": 11,
+      "bosnian": "vjetar",
+      "english": "wind",
+      "pronunciation": "VYEH-tar",
+      "partOfSpeech": "noun",
+      "example": "Vjetar je jak."
+    },
+    {
+      "day": 11,
+      "bosnian": "jesen",
+      "english": "autumn",
+      "pronunciation": "YEH-sen",
+      "partOfSpeech": "noun",
+      "example": "Jesen je hladna."
+    },
+    {
+      "day": 11,
+      "bosnian": "zima",
+      "english": "winter",
+      "pronunciation": "ZEE-ma",
+      "partOfSpeech": "noun",
+      "example": "Zima donosi snijeg."
+    },
+    {
+      "day": 11,
+      "bosnian": "ljeto",
+      "english": "summer",
+      "pronunciation": "LYEH-to",
+      "partOfSpeech": "noun",
+      "example": "Ljeto je toplo."
+    },
+    {
+      "day": 11,
+      "bosnian": "proljeće",
+      "english": "spring",
+      "pronunciation": "PROH-lyeh-cheh",
+      "partOfSpeech": "noun",
+      "example": "Proljeće je lijepo."
+    },
+    {
+      "day": 11,
+      "bosnian": "pada",
+      "english": "falls or is falling",
+      "pronunciation": "PAH-da",
+      "partOfSpeech": "verb form",
+      "example": "Kiša pada."
+    },
+    {
+      "day": 11,
+      "bosnian": "sunčano",
+      "english": "sunny",
+      "pronunciation": "SOON-cha-no",
+      "partOfSpeech": "adjective",
+      "example": "Sunčano je."
+    }
+  ],
+  "images": [
+    {
+      "id": "trebevic-cable",
+      "alt": "A cable car climbs Trebević above Sarajevo.",
+      "localPath": "/images/book1/day-11-trebevic-cable.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Trebevi%C4%87_Cable_Car_in_Sarajevo_01.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATrebevi%C4%87_Cable_Car_in_Sarajevo_01.jpg",
+      "author": "Adam Harangozó",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Trebević Cable Car in Sarajevo 01.jpg. Adam Harangozó / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "trebevic-view",
+      "alt": "Sarajevo appears below the Trebević cable car.",
+      "localPath": "/images/book1/day-11-trebevic-view.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Sarajevo_from_the_cable_car.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_from_the_cable_car.jpg",
+      "author": "MarinaSimic",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Sarajevo from the cable car.jpg. MarinaSimic / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "jahorina",
+      "alt": "Jahorina mountain rises under a broad sky.",
+      "localPath": "/images/book1/day-11-jahorina.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Jahorina_mountain_2018.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AJahorina_mountain_2018.jpg",
+      "author": "EXIT Photo Team",
+      "license": "CC BY-SA 3.0",
+      "credit": "Based on photo: Jahorina mountain 2018.jpg. EXIT Photo Team / Wikimedia Commons (CC BY-SA 3.0)"
+    },
+    {
+      "id": "civic-sarajevo-bowl",
+      "alt": "The Sarajevo basin lies between surrounding mountains.",
+      "localPath": "/images/book1/day-11-civic-sarajevo-bowl.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Sarajevo_%E2%80%93_Cable_Car_and_bypass.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_%E2%80%93_Cable_Car_and_bypass.jpg",
+      "author": "Julian Nyča",
+      "license": "CC BY-SA 3.0",
+      "credit": "Based on photo: Sarajevo – Cable Car and bypass.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [],
+  "civicContext": {
+    "title": "Winter inversions trap polluted air",
+    "body": "Winter air pollution is a serious civic problem in the Sarajevo basin. Mountains surround the city, and cold weather can create an inversion that holds a layer of colder air near the ground. Smoke and fine particles from heating, traffic, and other sources then remain trapped instead of dispersing. Residents may face unhealthy air for several days until wind or a weather change clears the basin. The same landscape that gives the cable car its striking view can therefore make clean winter air harder to protect.",
+    "imageId": "civic-sarajevo-bowl",
+    "learnMore": {
+      "label": "Wikipedia article about Sarajevo climate",
+      "url": "https://en.wikipedia.org/wiki/Sarajevo#Climate"
+    }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu with a weather lesson",
+    "kind": "speaker",
+    "hook": "A Bosnian teacher models weather words in a voice outside the story cast.",
+    "source": {
+      "title": "How To Speak Bosnian Weather",
+      "artistOrSpeaker": "How To Speak Bosnian",
+      "regionOrScene": "Weather lesson",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "How To Speak Bosnian on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=NLlkMluC4jA",
+      "embedUrl": "https://www.youtube.com/watch?v=NLlkMluC4jA"
+    },
+    "durationHint": "45-90 seconds",
+    "listenTask": {
+      "prompt": "Listen for a weather condition that you can report with je or pada.",
+      "gistQuestion": {
+        "prompt": "What is the speaker mainly teaching?",
+        "options": [
+          "Weather expressions",
+          "Shopping prices",
+          "Room furniture",
+          "Bridge history"
+        ],
+        "correctIndex": 0
+      },
+      "targetWords": [
+        "vrijeme",
+        "kiša",
+        "snijeg"
+      ],
+      "noticePrompt": "Listen for the difference between an adjective with je and precipitation with pada."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Kakvo je vrijeme?",
+          "english": "How is the weather?"
+        },
+        {
+          "bosnian": "Pada kiša.",
+          "english": "It is raining."
+        }
+      ],
+      "teacherNote": "Pause after each model and give your own weather report."
+    }
+  },
+  "speakTargets": [
+    0,
+    3,
+    4
   ],
   "section": 2
 }

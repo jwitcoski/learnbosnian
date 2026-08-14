@@ -2,57 +2,726 @@
   "day": 12,
   "book": 1,
   "title": "Idemo u park",
-  "titleEn": "Let’s go to the park",
-  "theme": "Park walk (Mrvica chaos)",
-  "status": "outlined",
+  "titleEn": "Let's go to the park",
+  "theme": "A walk at Vrelo Bosne",
+  "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "",
+  "reviewerNotes": "This full draft is ready for human review before publication.",
   "estimatedMinutes": 60,
-  "storyBeat": "Mrvica on a leash fails spectacularly",
+  "storyBeat": "Ana tries to walk Mrvica on a leash at Vrelo Bosne.",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 12: ići/doći, hajde, invitations"
+      "Use movement words for walking, waiting, and changing speed.",
+      "Name grass, a tree, and a leash during a park visit.",
+      "Recognize idem, ideš, and idemo in simple plans."
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Choose idem, ideš, or idemo for who is going.",
+      "Suggest a shared activity with Hajde da.",
+      "Invite someone with a Hoćeš li question."
     ],
     "culture": [
-      "Park walk (Mrvica chaos)"
+      "Visit Vrelo Bosne and the source of the Bosna River near Ilidža.",
+      "Follow the tree-lined approach from Ilidža to the springs.",
+      "Learn how the 2014 floods affected communities across the country."
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "park",
+      "english": "park",
+      "pronunciation": "park",
+      "partOfSpeech": "noun",
+      "example": "Park je lijep."
+    },
+    {
+      "bosnian": "šetati",
+      "english": "to walk",
+      "pronunciation": "SHEH-ta-tee",
+      "partOfSpeech": "verb",
+      "example": "Volim šetati."
+    },
+    {
+      "bosnian": "ići",
+      "english": "to go",
+      "pronunciation": "EE-chee",
+      "partOfSpeech": "verb",
+      "example": "Želim ići u park."
+    },
+    {
+      "bosnian": "idem",
+      "english": "I am going",
+      "pronunciation": "EE-dem",
+      "partOfSpeech": "verb form",
+      "example": "Idem u park."
+    },
+    {
+      "bosnian": "ideš",
+      "english": "you are going",
+      "pronunciation": "EE-desh",
+      "partOfSpeech": "verb form",
+      "example": "Ideš li sa mnom?"
+    },
+    {
+      "bosnian": "idemo",
+      "english": "we are going",
+      "pronunciation": "EE-deh-mo",
+      "partOfSpeech": "verb form",
+      "example": "Idemo na Vrelo Bosne."
+    },
+    {
+      "bosnian": "hajde",
+      "english": "come on or let us",
+      "pronunciation": "HAI-deh",
+      "partOfSpeech": "invitation",
+      "example": "Hajde da idemo."
+    },
+    {
+      "bosnian": "dođi",
+      "english": "come",
+      "pronunciation": "DOH-jee",
+      "partOfSpeech": "imperative",
+      "example": "Dođi ovamo, Mrvice."
+    },
+    {
+      "bosnian": "hoćeš",
+      "english": "you want or will you",
+      "pronunciation": "HOH-chesh",
+      "partOfSpeech": "verb form",
+      "example": "Hoćeš li šetati?"
+    },
+    {
+      "bosnian": "trava",
+      "english": "grass",
+      "pronunciation": "TRAH-va",
+      "partOfSpeech": "noun",
+      "example": "Trava je zelena."
+    },
+    {
+      "bosnian": "drvo",
+      "english": "tree",
+      "pronunciation": "DR-vo",
+      "partOfSpeech": "noun",
+      "example": "Drvo je visoko."
+    },
+    {
+      "bosnian": "povodac",
+      "english": "leash",
+      "pronunciation": "POH-vo-dats",
+      "partOfSpeech": "noun",
+      "example": "Imam povodac za Mrvicu."
+    },
+    {
+      "bosnian": "polako",
+      "english": "slowly",
+      "pronunciation": "POH-lah-ko",
+      "partOfSpeech": "adverb",
+      "example": "Hodaj polako."
+    },
+    {
+      "bosnian": "brzo",
+      "english": "quickly",
+      "pronunciation": "BR-zoh",
+      "partOfSpeech": "adverb",
+      "example": "Mrvica trči brzo."
+    },
+    {
+      "bosnian": "čekaj",
+      "english": "wait",
+      "pronunciation": "CHEH-kai",
+      "partOfSpeech": "imperative",
+      "example": "Čekaj, Mrvice!"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Idem, ideš, and idemo",
+      "explanation": "The verb ići means to go. Use idem for I am going, ideš for you are going, and idemo for we are going. Add a destination such as u park to make each form useful.",
+      "examples": [
+        {
+          "bosnian": "Idem u park.",
+          "english": "I am going to the park."
+        },
+        {
+          "bosnian": "Ideš li sa mnom?",
+          "english": "Are you going with me?"
+        },
+        {
+          "bosnian": "Idemo na Vrelo Bosne.",
+          "english": "We are going to Vrelo Bosne."
+        }
+      ]
+    },
+    {
+      "title": "Hajde da idemo",
+      "explanation": "Use Hajde da followed by a present verb when you suggest doing something together. Hajde da idemo is a warm invitation to get moving. The pattern also works with šetamo when you suggest a walk.",
+      "examples": [
+        {
+          "bosnian": "Hajde da idemo.",
+          "english": "Let us go."
+        },
+        {
+          "bosnian": "Hajde da šetamo.",
+          "english": "Let us take a walk."
+        },
+        {
+          "bosnian": "Hajde da idemo u park.",
+          "english": "Let us go to the park."
+        }
+      ]
+    },
+    {
+      "title": "Hoćeš li for invitations",
+      "explanation": "Begin a yes or no invitation with Hoćeš li. Put an infinitive such as šetati or ići after it. Answer with Hoću when you accept or Neću when you decline.",
+      "examples": [
+        {
+          "bosnian": "Hoćeš li šetati?",
+          "english": "Do you want to walk?"
+        },
+        {
+          "bosnian": "Hoćeš li ići u park?",
+          "english": "Do you want to go to the park?"
+        },
+        {
+          "bosnian": "Hoću, idemo!",
+          "english": "I do, so let us go!"
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "Park walk (Mrvica chaos)",
-    "body": "Stub for Lesson 12. Full culture hook will be written on the draft night.",
-    "imageId": null
+    "title": "Walking where the Bosna begins",
+    "body": "Vrelo Bosne spreads through springs, channels, and wooded paths at the foot of Mount Igman near Ilidža. The Bosna River begins here before flowing north through the country. Ana expects a peaceful walk under tall trees, and Emir points out the long avenue that connects the park with Ilidža. Families stroll beside the water, and horse carriages still travel the shaded route. Mrvica turns the calm visit into comedy by fighting her povodac and racing across the trava. The park gives Ana a green setting for invitations, movement verbs, and one urgent command to wait.",
+    "imageId": "vrelo-bosne"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A: Go for a walk",
+      "body": "Begin with the movement verb ići and its useful forms. Say Idem u park when you are going, ask Ideš li sa mnom? when you want company, and say Idemo when the group is ready. Add šetati for walking and the destination u park. At Vrelo Bosne, Ana and Emir follow the water while Mrvica studies every patch of grass. Ana announces each plan before they move. Repeat the three forms with different speakers, then point toward a destination and say a complete sentence. The goal is to connect the person, the verb form, and the place without stopping to build a table.",
+      "tips": [
+        "Use idem for yourself, ideš for one person you address, and idemo for the group.",
+        "Add u park after the verb when the park is your destination.",
+        "Say each movement sentence while you physically point in the direction of travel."
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B: Invite and respond",
+      "body": "Turn movement into a social plan with Hajde da idemo or Hoćeš li šetati? The first phrase suggests an activity for the group, while the second asks whether another person wants to join. Ana uses both patterns before attaching Mrvica's leash. The cat responds by moving brzo, not polako, and wraps the povodac around a drvo. Ana calls Dođi and Čekaj while Emir tries not to laugh. Practice one invitation, one acceptance, and one command as a three-part exchange. Keep the tone friendly because these phrases are useful with friends during any walk, not only with a determined cat.",
+      "tips": [
+        "Use Hajde da when you suggest an activity that includes you.",
+        "Use Hoćeš li followed by an infinitive when you offer a choice.",
+        "Say čekaj clearly when someone or some cat needs to wait."
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Mrvica u parku",
+    "setting": "Ana, Emir, and Mrvica stand beside a path at Vrelo Bosne.",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "bosnian": "Hajde da idemo u park.",
+        "english": "Let us go to the park."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Hoćeš li šetati pored vode?",
+        "english": "Do you want to walk beside the water?"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Hoću. Imam povodac za Mrvicu.",
+        "english": "I do. I have a leash for Mrvica."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Mrvica, polako! Drvo je ispred tebe.",
+        "english": "Mrvica, go slowly! A tree is in front of you."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Čekaj! Ne tako brzo!",
+        "english": "Wait! Do not go so quickly!"
+      },
+      {
+        "speaker": "Narrator",
+        "bosnian": "Mrvica trči oko drveta i povodac se zapetlja.",
+        "english": "Mrvica runs around the tree, and the leash becomes tangled."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Idemo u park bez povodca drugi put.",
+        "english": "We will go to the park without a leash next time."
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match park words",
+      "prompt": "Match each Bosnian park word with its English meaning.",
+      "items": [
+        {
+          "left": "šetati",
+          "right": "to walk"
+        },
+        {
+          "left": "trava",
+          "right": "grass"
+        },
+        {
+          "left": "drvo",
+          "right": "tree"
+        },
+        {
+          "left": "povodac",
+          "right": "leash"
+        },
+        {
+          "left": "čekaj",
+          "right": "wait"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "truefalse",
+      "title": "True or false about the walk",
+      "prompt": "Decide whether each sentence matches Lesson 12.",
+      "items": [
+        {
+          "statement": "Idemo means that we are going.",
+          "answer": true
+        },
+        {
+          "statement": "Brzo means slowly.",
+          "answer": false
+        },
+        {
+          "statement": "Vrelo Bosne is the source area of the Bosna River.",
+          "answer": true
+        },
+        {
+          "statement": "Mrvica walks calmly on the leash.",
+          "answer": false
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Write the Bosnian sentence for I am going to the park.",
+      "hint": "Begin with Idem.",
+      "answer": "Idem u park."
+    },
+    {
+      "id": "pr2",
+      "prompt": "Write the Bosnian phrase for We are going.",
+      "hint": "Use the we form of ići.",
+      "answer": "Idemo."
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write the Bosnian invitation for Let us go.",
+      "hint": "Begin with Hajde da.",
+      "answer": "Hajde da idemo."
+    },
+    {
+      "id": "pr4",
+      "prompt": "Write the Bosnian question for Do you want to walk?",
+      "hint": "Begin with Hoćeš li.",
+      "answer": "Hoćeš li šetati?"
+    },
+    {
+      "id": "pr5",
+      "prompt": "Write the Bosnian command that tells one person to wait.",
+      "hint": "The word begins with č.",
+      "answer": "Čekaj."
+    },
+    {
+      "id": "pr6",
+      "prompt": "Write the Bosnian word for leash.",
+      "hint": "The word begins with pov.",
+      "answer": "povodac"
+    },
+    {
+      "id": "pr7",
+      "prompt": "Write the Bosnian word for slowly.",
+      "hint": "The word begins with pol.",
+      "answer": "polako"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "The Bosna begins here",
+      "body": "Vrelo Bosne is the source area of the Bosna River. Springs rise at the foot of Mount Igman and feed clear channels through the park. Paths and small bridges let visitors follow the water without leaving Ilidža. The river that names the country begins in a calm green landscape."
+    },
+    {
+      "title": "A long avenue leads to the springs",
+      "body": "Velika aleja creates a memorable approach to Vrelo Bosne. Tall trees line the straight route from Ilidža toward the park. Visitors walk, cycle, or use traditional horse carriages along the avenue. The shaded approach turns the journey into part of the visit."
+    },
+    {
+      "title": "A cat rejects the leash plan",
+      "body": "Mrvica treats a leash as a suggestion rather than a rule. Ana says polako, while the cat chooses brzo and heads for the grass. Emir says čekaj, but Mrvica circles a tree. The failed walk makes invitation and movement words easy to remember."
+    }
+  ],
   "resources": [
     {
-      "label": "How to speak Bosnian (YouTube)",
-      "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "label": "How To Speak Bosnian Imperative Mood",
+      "url": "https://www.youtube.com/watch?v=cq9_DVwpUCY",
+      "note": "This speaker resource models Bosnian commands and imperative forms."
+    },
+    {
+      "label": "Next lesson",
+      "url": "/learn/lesson/13",
+      "note": "Lesson 13 introduces place and language conversations."
+    },
+    {
+      "label": "Book 1 curriculum",
+      "url": "/learn",
+      "note": "The curriculum page lists every Book 1 lesson."
     }
   ],
   "sectionQuiz": {
     "title": "Lesson 12 section quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What does idemo mean?",
+        "options": [
+          "We are going",
+          "I am walking",
+          "You are waiting",
+          "They are coming"
+        ],
+        "correctIndex": 0,
+        "explanation": "Idemo means that we are going.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q2",
+        "prompt": "Which sentence invites someone to walk?",
+        "options": [
+          "Idem u park.",
+          "Hoćeš li šetati?",
+          "Čekaj kod drveta.",
+          "Mrvica trči brzo."
+        ],
+        "correctIndex": 1,
+        "explanation": "Hoćeš li šetati? asks whether someone wants to walk.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q3",
+        "prompt": "Which word means leash?",
+        "options": [
+          "trava",
+          "drvo",
+          "povodac",
+          "park"
+        ],
+        "correctIndex": 2,
+        "explanation": "Povodac means leash.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q4",
+        "prompt": "Which word means slowly?",
+        "options": [
+          "hajde",
+          "čekaj",
+          "brzo",
+          "polako"
+        ],
+        "correctIndex": 3,
+        "explanation": "Polako means slowly.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q5",
+        "prompt": "What happens during Mrvica's park walk?",
+        "options": [
+          "She tangles the leash around a tree.",
+          "She sleeps beside the spring.",
+          "She waits quietly by Ana.",
+          "She rides in a carriage."
+        ],
+        "correctIndex": 0,
+        "explanation": "Mrvica tangles the leash around a tree.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q6",
+        "prompt": "What begins at Vrelo Bosne?",
+        "options": [
+          "The Vrbas River",
+          "The Bosna River",
+          "The Neretva River",
+          "The Drina River"
+        ],
+        "correctIndex": 1,
+        "explanation": "The Bosna River begins in the spring area at Vrelo Bosne.",
+        "skill": "culture"
+      },
+      {
+        "id": "q7",
+        "prompt": "Which sentence means Let us go?",
+        "options": [
+          "Dođi ovamo.",
+          "Ideš li sada?",
+          "Hajde da idemo.",
+          "Čekaj polako."
+        ],
+        "correctIndex": 2,
+        "explanation": "Hajde da idemo means Let us go.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q8",
+        "prompt": "What made the 2014 floods especially destructive?",
+        "options": [
+          "A winter inversion",
+          "A cable car failure",
+          "A dry summer",
+          "Extreme rain and swollen rivers"
+        ],
+        "correctIndex": 3,
+        "explanation": "Extreme rain and swollen rivers drove the destructive 2014 floods.",
+        "skill": "culture"
+      }
+    ]
   },
-  "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to: Park walk (Mrvica chaos)"
+  "dictionaryEntries": [
+    {
+      "day": 12,
+      "bosnian": "park",
+      "english": "park",
+      "pronunciation": "park",
+      "partOfSpeech": "noun",
+      "example": "Park je lijep."
+    },
+    {
+      "day": 12,
+      "bosnian": "šetati",
+      "english": "to walk",
+      "pronunciation": "SHEH-ta-tee",
+      "partOfSpeech": "verb",
+      "example": "Volim šetati."
+    },
+    {
+      "day": 12,
+      "bosnian": "ići",
+      "english": "to go",
+      "pronunciation": "EE-chee",
+      "partOfSpeech": "verb",
+      "example": "Želim ići u park."
+    },
+    {
+      "day": 12,
+      "bosnian": "idem",
+      "english": "I am going",
+      "pronunciation": "EE-dem",
+      "partOfSpeech": "verb form",
+      "example": "Idem u park."
+    },
+    {
+      "day": 12,
+      "bosnian": "ideš",
+      "english": "you are going",
+      "pronunciation": "EE-desh",
+      "partOfSpeech": "verb form",
+      "example": "Ideš li sa mnom?"
+    },
+    {
+      "day": 12,
+      "bosnian": "idemo",
+      "english": "we are going",
+      "pronunciation": "EE-deh-mo",
+      "partOfSpeech": "verb form",
+      "example": "Idemo na Vrelo Bosne."
+    },
+    {
+      "day": 12,
+      "bosnian": "hajde",
+      "english": "come on or let us",
+      "pronunciation": "HAI-deh",
+      "partOfSpeech": "invitation",
+      "example": "Hajde da idemo."
+    },
+    {
+      "day": 12,
+      "bosnian": "dođi",
+      "english": "come",
+      "pronunciation": "DOH-jee",
+      "partOfSpeech": "imperative",
+      "example": "Dođi ovamo, Mrvice."
+    },
+    {
+      "day": 12,
+      "bosnian": "hoćeš",
+      "english": "you want or will you",
+      "pronunciation": "HOH-chesh",
+      "partOfSpeech": "verb form",
+      "example": "Hoćeš li šetati?"
+    },
+    {
+      "day": 12,
+      "bosnian": "trava",
+      "english": "grass",
+      "pronunciation": "TRAH-va",
+      "partOfSpeech": "noun",
+      "example": "Trava je zelena."
+    },
+    {
+      "day": 12,
+      "bosnian": "drvo",
+      "english": "tree",
+      "pronunciation": "DR-vo",
+      "partOfSpeech": "noun",
+      "example": "Drvo je visoko."
+    },
+    {
+      "day": 12,
+      "bosnian": "povodac",
+      "english": "leash",
+      "pronunciation": "POH-vo-dats",
+      "partOfSpeech": "noun",
+      "example": "Imam povodac za Mrvicu."
+    },
+    {
+      "day": 12,
+      "bosnian": "polako",
+      "english": "slowly",
+      "pronunciation": "POH-lah-ko",
+      "partOfSpeech": "adverb",
+      "example": "Hodaj polako."
+    },
+    {
+      "day": 12,
+      "bosnian": "brzo",
+      "english": "quickly",
+      "pronunciation": "BR-zoh",
+      "partOfSpeech": "adverb",
+      "example": "Mrvica trči brzo."
+    },
+    {
+      "day": 12,
+      "bosnian": "čekaj",
+      "english": "wait",
+      "pronunciation": "CHEH-kai",
+      "partOfSpeech": "imperative",
+      "example": "Čekaj, Mrvice!"
+    }
+  ],
+  "images": [
+    {
+      "id": "vrelo-bosne",
+      "alt": "Water flows through the green spring area at Vrelo Bosne.",
+      "localPath": "/images/book1/day-12-vrelo-bosne.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Vrelo_Bosne%2C_Sarajevo.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVrelo_Bosne%2C_Sarajevo.jpg",
+      "author": "Author's own photo",
+      "license": "CC BY 2.5",
+      "credit": "Based on photo: Vrelo Bosne, Sarajevo.jpg. Author's own photo / Wikimedia Commons (CC BY 2.5)"
+    },
+    {
+      "id": "vrelo-park",
+      "alt": "A wooded path crosses Vrelo Bosne Park.",
+      "localPath": "/images/book1/day-12-vrelo-park.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Vrelo_Bosne_Park_in_Sarajevo.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVrelo_Bosne_Park_in_Sarajevo.JPG",
+      "author": "BiHVolim",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Vrelo Bosne Park in Sarajevo.JPG. BiHVolim / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "bosna-river",
+      "alt": "The Bosna River begins among channels at Vrelo Bosne.",
+      "localPath": "/images/book1/day-12-bosna-river.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/River_Bosna_at_Vrelo_Bosne_Park_in_Sarajevo.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARiver_Bosna_at_Vrelo_Bosne_Park_in_Sarajevo.JPG",
+      "author": "BiHVolim",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: River Bosna at Vrelo Bosne Park in Sarajevo.JPG. BiHVolim / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "civic-floods",
+      "alt": "Floodwater covers a community during the 2014 floods.",
+      "localPath": "/images/book1/day-12-civic-floods.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Floods_in_Bosnia_Doboj_2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFloods_in_Bosnia_Doboj_2.jpg",
+      "author": "Dalibor Platenik - Dali",
+      "license": "CC BY 3.0",
+      "credit": "Based on photo: Floods in Bosnia Doboj 2.jpg. Dalibor Platenik - Dali / Wikimedia Commons (CC BY 3.0)"
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [],
+  "civicContext": {
+    "title": "The 2014 floods crossed local boundaries",
+    "body": "The 2014 floods showed how a shared river emergency can affect much of Bosnia and Herzegovina. Exceptional rain caused rivers to rise, triggered landslides, damaged homes, and forced many people to evacuate. Towns such as Maglaj and Doboj faced severe destruction, while roads, farms, and public services failed in many other communities. Residents, rescue teams, and volunteers worked across administrative lines during the response and recovery. The disaster showed that flood preparation and river management require cooperation beyond any single municipality.",
+    "imageId": "civic-floods",
+    "learnMore": {
+      "label": "Wikipedia article about the 2014 Southeast Europe floods",
+      "url": "https://en.wikipedia.org/wiki/2014_Southeast_Europe_floods"
+    }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu with imperative forms",
+    "kind": "speaker",
+    "hook": "A Bosnian teacher explains command forms that can guide a walk.",
+    "source": {
+      "title": "How To Speak Bosnian Imperative mood",
+      "artistOrSpeaker": "How To Speak Bosnian",
+      "regionOrScene": "Imperative lesson",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "How To Speak Bosnian on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=cq9_DVwpUCY",
+      "embedUrl": "https://www.youtube.com/watch?v=cq9_DVwpUCY"
+    },
+    "durationHint": "45-90 seconds",
+    "listenTask": {
+      "prompt": "Listen for a command form that could guide Mrvica in the park.",
+      "gistQuestion": {
+        "prompt": "What grammar is the speaker mainly teaching?",
+        "options": [
+          "Past tense stories",
+          "Command forms",
+          "Weather adjectives",
+          "Possessive forms"
+        ],
+        "correctIndex": 1
+      },
+      "targetWords": [
+        "dođi",
+        "čekaj",
+        "idemo"
+      ],
+      "noticePrompt": "Notice how a short command can sound direct while the speaker's tone remains friendly."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Dođi ovamo.",
+          "english": "Come here."
+        },
+        {
+          "bosnian": "Čekaj!",
+          "english": "Wait!"
+        }
+      ],
+      "teacherNote": "Repeat the command, then soften your voice as if you were speaking to a friend."
+    }
+  },
+  "speakTargets": [
+    0,
+    1,
+    4
   ],
   "section": 2
 }
