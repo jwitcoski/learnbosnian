@@ -173,18 +173,8 @@
         "english": "Bravo. And this? Jajce, a waterfall!"
       },
       {
-        "speaker": "Ana",
-        "bosnian": "Gdje je Jajce?",
-        "english": "Where is Jajce?"
-      },
-      {
-        "speaker": "Emir",
-        "bosnian": "Tamo, u Bosni. Lijepo!",
-        "english": "Over there, in Bosnia. Beautiful!"
-      },
-      {
         "speaker": "Amira",
-        "bosnian": "I Blagaj? Tekija na Buna.",
+        "bosnian": "I Blagaj? Tekija na Buni.",
         "english": "And Blagaj? The tekke on the Buna."
       },
       {
@@ -194,13 +184,23 @@
       },
       {
         "speaker": "Emir",
-        "bosnian": "Da! Počitelj, stari grad. Sutra na mapi!",
-        "english": "Yes! Počitelj, an old town. Tomorrow on the map!"
+        "bosnian": "Da! Počitelj, stari grad.",
+        "english": "Yes! Počitelj, an old town."
       },
       {
         "speaker": "Amira",
         "bosnian": "Bravo, Ana. Sedmica je gotova!",
         "english": "Bravo, Ana. The week is done!"
+      },
+      {
+        "speaker": "Mrvica",
+        "bosnian": "Mjau!",
+        "english": "Meow!"
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "I Mrvica kaže bravo!",
+        "english": "And Mrvica says bravo!"
       }
     ]
   },
@@ -660,8 +660,7 @@
   },
   "speakTargets": [
     0,
-    1,
-    2
+    3
   ],
   "canDoChecks": [
     {

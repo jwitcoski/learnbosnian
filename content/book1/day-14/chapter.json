@@ -191,14 +191,19 @@
         "english": "I am from America, and I speak English."
       },
       {
-        "speaker": "Narrator",
-        "bosnian": "Mrvica gura figuru preko cilja.",
-        "english": "Mrvica pushes a game piece across the finish."
+        "speaker": "Mrvica",
+        "bosnian": "Mjau!",
+        "english": "Meow!"
       },
       {
         "speaker": "Amira",
         "bosnian": "Mrvica ima pobjedu. Igramo još jednom.",
         "english": "Mrvica has the victory. We are playing one more time."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Emire, tvoja karta je sljedeća.",
+        "english": "Emir, your card is next."
       }
     ]
   },
@@ -656,9 +661,8 @@
     }
   },
   "speakTargets": [
-    0,
-    3,
-    6
+    1,
+    4
   ],
   "canDoChecks": [
     {

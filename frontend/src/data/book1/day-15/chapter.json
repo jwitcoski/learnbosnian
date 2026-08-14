@@ -197,15 +197,20 @@
   ],
   "conversation": {
     "title": "Gdje je Latinska ćuprija?",
-    "setting": "Ana stands at the wrong corner near the Miljacka River and asks a passerby for help.",
+    "setting": "Amira points Ana toward Latin Bridge. Ana asks a passerby when the streets confuse her.",
     "lines": [
+      {
+        "speaker": "Amira",
+        "bosnian": "Latinska ćuprija je blizu. Pitaj nekoga.",
+        "english": "Latin Bridge is near. Ask someone."
+      },
       {
         "speaker": "Ana",
         "bosnian": "Oprostite, gdje je Latinska ćuprija, molim vas?",
         "english": "Excuse me, where is Latin Bridge, please?"
       },
       {
-        "speaker": "Emir",
+        "speaker": "Passerby",
         "bosnian": "Idite pravo do ulice.",
         "english": "Go straight to the street."
       },
@@ -215,7 +220,7 @@
         "english": "Then should I go right or left?"
       },
       {
-        "speaker": "Emir",
+        "speaker": "Passerby",
         "bosnian": "Skrenite lijevo. Most je blizu.",
         "english": "Turn left. The bridge is near."
       },
@@ -225,14 +230,14 @@
         "english": "Is the museum in front of the bridge?"
       },
       {
-        "speaker": "Emir",
+        "speaker": "Passerby",
         "bosnian": "Muzej je iza vas, a most je ispred vas.",
         "english": "The museum is behind you, and the bridge is in front of you."
       },
       {
-        "speaker": "Narrator",
-        "bosnian": "Ana zahvaljuje i konačno ide prema pravom mostu.",
-        "english": "Ana says thank you and finally walks toward the correct bridge."
+        "speaker": "Emir",
+        "bosnian": "Bravo, Ana! Našla si most.",
+        "english": "Bravo, Ana! You found the bridge."
       }
     ]
   },
@@ -674,9 +679,9 @@
     }
   },
   "speakTargets": [
-    0,
-    2,
-    3
+    1,
+    3,
+    5
   ],
   "section": 3
 }

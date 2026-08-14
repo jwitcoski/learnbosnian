@@ -31,7 +31,7 @@
 **On screen:** Skreni lijevo. | Idite pravo, molim vas.
 
 ### 6:30 Mini dialogue
-**Narration:** Ana asks for Latin Bridge and repeats the route before walking. Point in each direction as you repeat the dialogue.
+**Narration:** Ana asks a passerby for Latin Bridge and repeats the route before walking. Point in each direction as you repeat the dialogue.
 **On screen:** Dialogue lines appear in Bosnian and English.
 
 ### 8:00 Practice prompt

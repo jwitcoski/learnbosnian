@@ -227,7 +227,7 @@
       {
         "speaker": "Amira",
         "bosnian": "Dobar dan! Molim?",
-        "english": "Good day! Yes? / What can I get you?"
+        "english": "Good day! What can I get you?"
       },
       {
         "speaker": "Ana",
@@ -236,8 +236,8 @@
       },
       {
         "speaker": "Emir",
-        "bosnian": "I ja. jednu kahvu. Dva fildžana.",
-        "english": "And me. one coffee. Two cups."
+        "bosnian": "I ja. Jednu kahvu. Dva fildžana.",
+        "english": "And for me, one coffee. Two cups."
       },
       {
         "speaker": "Amira",
@@ -255,14 +255,14 @@
         "english": "You’re welcome! The coffee is here."
       },
       {
-        "speaker": "Narrator",
-        "bosnian": "Mrvica skače. Ana: Zdravo, Mrvica!",
-        "english": "Mrvica jumps up. Ana: Hello, Mrvica!"
+        "speaker": "Mrvica",
+        "bosnian": "Mjau!",
+        "english": "Meow!"
       },
       {
-        "speaker": "Emir",
-        "bosnian": "Ona je Mrvica. Mačka!",
-        "english": "She is Mrvica. A cat!"
+        "speaker": "Ana",
+        "bosnian": "Zdravo, Mrvica!",
+        "english": "Hello, Mrvica!"
       }
     ]
   },
@@ -791,9 +791,9 @@
     }
   },
   "speakTargets": [
-    0,
     1,
-    2
+    4,
+    7
   ],
   "section": 1
 }

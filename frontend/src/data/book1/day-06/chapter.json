@@ -235,16 +235,6 @@
         "english": "It is five o’clock. Afternoon."
       },
       {
-        "speaker": "Ana",
-        "bosnian": "Kasno je? Kahva?",
-        "english": "Is it late? Coffee?"
-      },
-      {
-        "speaker": "Emir",
-        "bosnian": "Ne. Kod Amire sada!",
-        "english": "No. At Amira’s now!"
-      },
-      {
         "speaker": "Amira",
         "bosnian": "Dobar dan! Danas je petak.",
         "english": "Good day! Today is Friday."
@@ -256,13 +246,23 @@
       },
       {
         "speaker": "Emir",
-        "bosnian": "Da. Sutra u deset sati ovdje. Poslije Travnik? Una?",
-        "english": "Yes. Tomorrow at ten o’clock here. Later Travnik? The Una?"
+        "bosnian": "Da. Sutra u deset sati ovdje.",
+        "english": "Yes. Tomorrow at ten o’clock here."
       },
       {
         "speaker": "Amira",
-        "bosnian": "Dobro. Jutro za kahvu. Subota za rijeku!",
-        "english": "Good. Morning for coffee. Saturday for the river!"
+        "bosnian": "Jutro za kahvu. Subota za rijeku!",
+        "english": "Morning for coffee. Saturday for the river!"
+      },
+      {
+        "speaker": "Mrvica",
+        "bosnian": "Mjau!",
+        "english": "Meow!"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Zdravo, Mrvica!",
+        "english": "Hello, Mrvica!"
       }
     ]
   },
@@ -731,8 +731,8 @@
   },
   "speakTargets": [
     0,
-    1,
-    2
+    3,
+    7
   ],
   "section": 1
 }

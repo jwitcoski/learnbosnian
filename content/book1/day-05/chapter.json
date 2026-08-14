@@ -241,14 +241,14 @@
         "english": "There… in the south?"
       },
       {
-        "speaker": "Emir",
-        "bosnian": "Da! Mostar je tamo. Stari most, rijeka Neretva…",
-        "english": "Yes! Mostar is there. The Old Bridge, the Neretva river…"
+        "speaker": "Amira",
+        "bosnian": "Da. Mostar je tamo, ali daleko danas.",
+        "english": "Yes. Mostar is there, but far for today."
       },
       {
         "speaker": "Amira",
-        "bosnian": "Ali danas. kahva kod Amire!",
-        "english": "But today. coffee at Amira’s!"
+        "bosnian": "Danas pijemo kahvu kod mene!",
+        "english": "Today we drink coffee at my place!"
       }
     ]
   },
@@ -704,9 +704,9 @@
     }
   },
   "speakTargets": [
-    0,
     1,
-    2
+    3,
+    5
   ],
   "section": 1
 }

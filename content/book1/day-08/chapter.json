@@ -232,8 +232,8 @@
       },
       {
         "speaker": "Emir",
-        "bosnian": "Dobro. Burek je s mesom. Ne sa sirom.",
-        "english": "Good. Burek is with meat. Not with cheese."
+        "bosnian": "Burek je s mesom. Ne sa sirom.",
+        "english": "Burek is with meat. Not with cheese."
       },
       {
         "speaker": "Ana",
@@ -241,7 +241,7 @@
         "english": "And sirnica?"
       },
       {
-        "speaker": "Emir",
+        "speaker": "Amira",
         "bosnian": "Sirnica je sa sirom. Zeljanica je sa zeljem.",
         "english": "Sirnica is with cheese. Zeljanica is with greens."
       },
@@ -256,9 +256,9 @@
         "english": "Enjoy your meal! Yogurt?"
       },
       {
-        "speaker": "Narrator",
-        "bosnian": "Ana jede prebrzo. Mrvica jede mrvice.",
-        "english": "Ana eats too fast. Mrvica eats the crumbs."
+        "speaker": "Mrvica",
+        "bosnian": "Mjau!",
+        "english": "Meow!"
       }
     ]
   },
@@ -756,8 +756,8 @@
   },
   "speakTargets": [
     1,
-    5,
-    6
+    3,
+    5
   ],
   "section": 2
 }

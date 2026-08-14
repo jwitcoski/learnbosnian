@@ -251,14 +251,14 @@
         "english": "The bed is comfortable. I love my room!"
       },
       {
-        "speaker": "Narrator",
-        "bosnian": "Mrvica sjedi na jastuku. To je sada njen sto.",
-        "english": "Mrvica sits on the pillow. That is her table now."
+        "speaker": "Mrvica",
+        "bosnian": "Mjau!",
+        "english": "Meow!"
       },
       {
-        "speaker": "Emir",
-        "bosnian": "Ona ima sobu. Ti imaš sobu. Super!",
-        "english": "She has a room. You have a room. Great!"
+        "speaker": "Amira",
+        "bosnian": "Mrvica voli tvoj jastuk.",
+        "english": "Mrvica loves your pillow."
       }
     ]
   },

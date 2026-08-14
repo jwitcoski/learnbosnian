@@ -31,7 +31,7 @@
 **On screen:** Kakvo je vrijeme? | Oblačno je | Pada kiša
 
 ### 6:30 Mini dialogue
-**Narration:** Ana calls the weather warm just before the clouds arrive. Repeat the dialogue and listen for the moment when the picnic plan changes.
+**Narration:** Amira packs a picnic warning, then Ana calls the weather warm just before the clouds arrive. Repeat the dialogue and listen for the moment when rain begins.
 **On screen:** Dialogue lines appear in Bosnian and English.
 
 ### 8:00 Practice prompt

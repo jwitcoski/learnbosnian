@@ -31,7 +31,7 @@
 **On screen:** Hajde da idemo. | Hoćeš li šetati?
 
 ### 6:30 Mini dialogue
-**Narration:** Mrvica chooses brzo instead of polako and wraps the leash around a tree. Repeat Ana's commands with a friendly but clear voice.
+**Narration:** Amira sends them out, then Mrvica chooses brzo instead of polako and wraps the leash around a tree. Repeat Ana's commands with a friendly but clear voice.
 **On screen:** Polako! | Čekaj! | Dialogue lines appear in two languages.
 
 ### 8:00 Practice prompt
