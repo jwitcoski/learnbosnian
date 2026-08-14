@@ -131,8 +131,8 @@
     {
       "day": 13,
       "title": "Ljudi iz BiH",
-      "titleEn": "People from BiH",
-      "theme": "Who lives in BiH",
+      "titleEn": "People from Bosnia and Herzegovina",
+      "theme": "Who lives in Bosnia and Herzegovina",
       "languageFocus": "Nationalities, govoriti, soft identity talk",
       "storyBeat": "Identity chat over kahva",
       "section": 2
@@ -142,7 +142,7 @@
       "title": "Ponavljanje",
       "titleEn": "Review",
       "theme": "Board-game night at Amira’s",
-      "languageFocus": "Review days 8–13",
+      "languageFocus": "Review lessons 8 to 13",
       "storyBeat": "Board-game night",
       "section": 2
     },
@@ -305,7 +305,7 @@
     {
       "section": 2,
       "title": "Daily life",
-      "focus": "Food, shopping, home, weather, going out, people of BiH"
+      "focus": "Food, shopping, home, weather, going out, people of Bosnia and Herzegovina"
     },
     {
       "section": 3,

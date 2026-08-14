@@ -2,8 +2,8 @@
   "title": "Photo attributions",
   "intro": "Running register of every photo used on the site and in Book 1. Use this list when citing images for print, Scribus export, or YouTube descriptions. Chapter images are harvested automatically from each chapter.json; homepage and other site assets are listed here by hand.",
   "citationNote": "For Creative Commons works, credit the author, note the license, and link to the source page. For Pexels, credit the photographer and Pexels. Derivative treatments (polygon paint, background removal) still require attribution of the source photo.",
-  "generatedAt": "2026-08-13",
-  "total": 47,
+  "generatedAt": "2026-08-14",
+  "total": 67,
   "entries": [
     {
       "id": "book1-day-00-civic-schools",
@@ -752,6 +752,346 @@
       "notes": "",
       "book": 1,
       "day": 10
+    },
+    {
+      "id": "book1-day-11-civic-sarajevo-bowl",
+      "title": "Polygon painting of the Sarajevo basin between surrounding mountains",
+      "whereUsed": [
+        "Book 1 · Lesson 11 — How is the weather?"
+      ],
+      "author": "Julian Nyča",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_%E2%80%93_Cable_Car_and_bypass.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Sarajevo_%E2%80%93_Cable_Car_and_bypass.jpg",
+      "localPath": "/images/book1/day-11-civic-sarajevo-bowl.png",
+      "credit": "Polygon painting based on photo: Sarajevo Cable Car and bypass.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "",
+      "book": 1,
+      "day": 11
+    },
+    {
+      "id": "book1-day-11-jahorina",
+      "title": "Polygon painting of Jahorina mountain under a broad sky",
+      "whereUsed": [
+        "Book 1 · Lesson 11 — How is the weather?"
+      ],
+      "author": "EXIT Photo Team",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AJahorina_mountain_2018.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Jahorina_mountain_2018.jpg",
+      "localPath": "/images/book1/day-11-jahorina.png",
+      "credit": "Polygon painting based on photo: Jahorina mountain 2018.jpg. EXIT Photo Team / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "",
+      "book": 1,
+      "day": 11
+    },
+    {
+      "id": "book1-day-11-trebevic-cable",
+      "title": "Polygon painting of a cable car climbing Trebević above Sarajevo",
+      "whereUsed": [
+        "Book 1 · Lesson 11 — How is the weather?"
+      ],
+      "author": "Adam Harangozó",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATrebevi%C4%87_Cable_Car_in_Sarajevo_01.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Trebevi%C4%87_Cable_Car_in_Sarajevo_01.jpg",
+      "localPath": "/images/book1/day-11-trebevic-cable.png",
+      "credit": "Polygon painting based on photo: Trebević Cable Car in Sarajevo 01.jpg. Adam Harangozó / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 11
+    },
+    {
+      "id": "book1-day-11-trebevic-view",
+      "title": "Polygon painting of Sarajevo seen from the Trebević cable car",
+      "whereUsed": [
+        "Book 1 · Lesson 11 — How is the weather?"
+      ],
+      "author": "MarinaSimic",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_from_the_cable_car.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Sarajevo_from_the_cable_car.jpg",
+      "localPath": "/images/book1/day-11-trebevic-view.png",
+      "credit": "Polygon painting based on photo: Sarajevo from the cable car.jpg. MarinaSimic / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 11
+    },
+    {
+      "id": "book1-day-12-bosna-river",
+      "title": "Polygon painting of the Bosna River beginning among channels at Vrelo Bosne",
+      "whereUsed": [
+        "Book 1 · Lesson 12 — Let's go to the park"
+      ],
+      "author": "BiHVolim",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARiver_Bosna_at_Vrelo_Bosne_Park_in_Sarajevo.JPG",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/River_Bosna_at_Vrelo_Bosne_Park_in_Sarajevo.JPG",
+      "localPath": "/images/book1/day-12-bosna-river.png",
+      "credit": "Polygon painting based on photo: River Bosna at Vrelo Bosne Park in Sarajevo.JPG. BiHVolim / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 12
+    },
+    {
+      "id": "book1-day-12-civic-floods",
+      "title": "Polygon painting of floodwater covering a community during the 2014 floods",
+      "whereUsed": [
+        "Book 1 · Lesson 12 — Let's go to the park"
+      ],
+      "author": "Dalibor Platenik - Dali",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFloods_in_Bosnia_Doboj_2.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Floods_in_Bosnia_Doboj_2.jpg",
+      "localPath": "/images/book1/day-12-civic-floods.png",
+      "credit": "Polygon painting based on photo: Floods in Bosnia Doboj 2.jpg. Dalibor Platenik - Dali / Wikimedia Commons (CC BY 3.0)",
+      "notes": "",
+      "book": 1,
+      "day": 12
+    },
+    {
+      "id": "book1-day-12-vrelo-bosne",
+      "title": "Polygon painting of water flowing through the green springs at Vrelo Bosne",
+      "whereUsed": [
+        "Book 1 · Lesson 12 — Let's go to the park"
+      ],
+      "author": "Author's own photo",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.5",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVrelo_Bosne%2C_Sarajevo.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Vrelo_Bosne%2C_Sarajevo.jpg",
+      "localPath": "/images/book1/day-12-vrelo-bosne.png",
+      "credit": "Polygon painting based on photo: Vrelo Bosne, Sarajevo.jpg. Author's own photo / Wikimedia Commons (CC BY 2.5)",
+      "notes": "",
+      "book": 1,
+      "day": 12
+    },
+    {
+      "id": "book1-day-12-vrelo-park",
+      "title": "Polygon painting of a wooded path at Vrelo Bosne Park",
+      "whereUsed": [
+        "Book 1 · Lesson 12 — Let's go to the park"
+      ],
+      "author": "BiHVolim",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVrelo_Bosne_Park_in_Sarajevo.JPG",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Vrelo_Bosne_Park_in_Sarajevo.JPG",
+      "localPath": "/images/book1/day-12-vrelo-park.png",
+      "credit": "Polygon painting based on photo: Vrelo Bosne Park in Sarajevo.JPG. BiHVolim / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 12
+    },
+    {
+      "id": "book1-day-13-brcko-city",
+      "title": "Polygon painting of lights across Brčko at night",
+      "whereUsed": [
+        "Book 1 · Lesson 13 — People from Bosnia and Herzegovina"
+      ],
+      "author": "ChillZone420",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABr%C4%8Dko_no%C4%87u.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Br%C4%8Dko_no%C4%87u.jpg",
+      "localPath": "/images/book1/day-13-brcko-city.png",
+      "credit": "Polygon painting based on photo: Brčko noću.jpg. ChillZone420 / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "",
+      "book": 1,
+      "day": 13
+    },
+    {
+      "id": "book1-day-13-brcko-mosque",
+      "title": "Polygon painting of the white mosque in Brčko",
+      "whereUsed": [
+        "Book 1 · Lesson 13 — People from Bosnia and Herzegovina"
+      ],
+      "author": "Vrtleska225",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABijela_d%C5%BEamija_Br%C4%8Dko2.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bijela_d%C5%BEamija_Br%C4%8Dko2.jpg",
+      "localPath": "/images/book1/day-13-brcko-mosque.png",
+      "credit": "Polygon painting based on photo: Bijela džamija Brčko2.jpg. Vrtleska225 / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 13
+    },
+    {
+      "id": "book1-day-13-brcko-promenade",
+      "title": "Polygon painting of people walking along the promenade in Brčko",
+      "whereUsed": [
+        "Book 1 · Lesson 13 — People from Bosnia and Herzegovina"
+      ],
+      "author": "Vladanovski",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABr%C4%8Dansko_%C5%A1etali%C5%A1te.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Br%C4%8Dansko_%C5%A1etali%C5%A1te.jpg",
+      "localPath": "/images/book1/day-13-brcko-promenade.png",
+      "credit": "Polygon painting based on photo: Brčansko šetalište.jpg. Vladanovski / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 13
+    },
+    {
+      "id": "book1-day-13-civic-brcko-map",
+      "title": "Polygon painting of a map marking Brčko District within Bosnia and Herzegovina",
+      "whereUsed": [
+        "Book 1 · Lesson 13 — People from Bosnia and Herzegovina"
+      ],
+      "author": "TUBS",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABrcko_District_in_Bosnia_and_Herzegovina.svg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Brcko_District_in_Bosnia_and_Herzegovina.svg",
+      "localPath": "/images/book1/day-13-civic-brcko-map.png",
+      "credit": "Polygon painting based on photo: Brcko District in Bosnia and Herzegovina.svg. TUBS / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "",
+      "book": 1,
+      "day": 13
+    },
+    {
+      "id": "book1-day-14-civic-emigration",
+      "title": "Polygon painting of travelers moving through Sarajevo International Airport",
+      "whereUsed": [
+        "Book 1 · Lesson 14 — Review"
+      ],
+      "author": "BiHVolim",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_International_Airport_%28SJJ%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sarajevo_International_Airport_%28SJJ%29.jpg",
+      "localPath": "/images/book1/day-14-civic-emigration.png",
+      "credit": "Polygon painting based on photo: Sarajevo International Airport (SJJ).jpg. BiHVolim / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 14
+    },
+    {
+      "id": "book1-day-14-ferhadija",
+      "title": "Polygon painting of Ferhadija Mosque in Banja Luka",
+      "whereUsed": [
+        "Book 1 · Lesson 14 — Review"
+      ],
+      "author": "Samirzahirovic",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ANKD138_Ferhadija_Dzamija_1.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/NKD138_Ferhadija_Dzamija_1.jpg",
+      "localPath": "/images/book1/day-14-ferhadija.png",
+      "credit": "Polygon painting based on photo: NKD138 Ferhadija Dzamija 1.jpg. Samirzahirovic / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 14
+    },
+    {
+      "id": "book1-day-14-kastel",
+      "title": "Polygon painting of Kastel Fortress beside the Vrbas in Banja Luka",
+      "whereUsed": [
+        "Book 1 · Lesson 14 — Review"
+      ],
+      "author": "Biljana Latinović2",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATvr%C4%91ava_Kastel_Banja_Luka.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Tvr%C4%91ava_Kastel_Banja_Luka.jpg",
+      "localPath": "/images/book1/day-14-kastel.png",
+      "credit": "Polygon painting based on photo: Tvrđava Kastel Banja Luka.jpg. Biljana Latinović2 / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 14
+    },
+    {
+      "id": "book1-day-14-vrbas",
+      "title": "Polygon painting of the Vrbas River in Banja Luka",
+      "whereUsed": [
+        "Book 1 · Lesson 14 — Review"
+      ],
+      "author": "130309p",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVrbas_from_Kastel_Banja_Luka_2019.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Vrbas_from_Kastel_Banja_Luka_2019.jpg",
+      "localPath": "/images/book1/day-14-vrbas.png",
+      "credit": "Polygon painting based on photo: Vrbas from Kastel Banja Luka 2019.jpg. 130309p / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 14
+    },
+    {
+      "id": "book1-day-15-civic-mines",
+      "title": "Polygon painting of a warning sign marking landmine danger",
+      "whereUsed": [
+        "Book 1 · Lesson 15 — Right or left?"
+      ],
+      "author": "Darij &amp; Ana",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALandmine_warning_sign_in_BiH.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Landmine_warning_sign_in_BiH.jpg",
+      "localPath": "/images/book1/day-15-civic-mines.png",
+      "credit": "Polygon painting based on photo: Landmine warning sign in BiH.jpg. Darij & Ana / Wikimedia Commons (CC BY 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 15
+    },
+    {
+      "id": "book1-day-15-konjic-bridge",
+      "title": "Polygon painting of the old stone bridge crossing the Neretva in Konjic",
+      "whereUsed": [
+        "Book 1 · Lesson 15 — Right or left?"
+      ],
+      "author": "Julian Nyča",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKonjic_Stari_most_7.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Konjic_Stari_most_7.jpg",
+      "localPath": "/images/book1/day-15-konjic-bridge.png",
+      "credit": "Polygon painting based on photo: Konjic Stari most 7.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "",
+      "book": 1,
+      "day": 15
+    },
+    {
+      "id": "book1-day-15-latin-bridge",
+      "title": "Polygon painting of Latin Bridge crossing the Miljacka River in Sarajevo",
+      "whereUsed": [
+        "Book 1 · Lesson 15 — Right or left?"
+      ],
+      "author": "Tumi-1983",
+      "source": "Wikimedia Commons",
+      "license": "CC0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALatin_Bridge_in_Sarajevo.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Latin_Bridge_in_Sarajevo.jpg",
+      "localPath": "/images/book1/day-15-latin-bridge.png",
+      "credit": "Polygon painting based on photo: Latin Bridge in Sarajevo.jpg. Tumi-1983 / Wikimedia Commons (CC0)",
+      "notes": "",
+      "book": 1,
+      "day": 15
+    },
+    {
+      "id": "book1-day-15-latin-bridge-2",
+      "title": "Polygon painting of the stone arches of Latin Bridge spanning the river",
+      "whereUsed": [
+        "Book 1 · Lesson 15 — Right or left?"
+      ],
+      "author": "CeeGee",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALatinBridgeSarajevo.JPG",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/LatinBridgeSarajevo.JPG",
+      "localPath": "/images/book1/day-15-latin-bridge-2.png",
+      "credit": "Polygon painting based on photo: LatinBridgeSarajevo.JPG. CeeGee / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 15
     },
     {
       "id": "home-coffee",

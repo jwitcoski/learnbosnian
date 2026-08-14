@@ -3,57 +3,710 @@
   "book": 1,
   "title": "Ljudi iz BiH",
   "titleEn": "People from Bosnia and Herzegovina",
-  "theme": "Who lives in Bosnia and Herzegovina",
-  "status": "outlined",
+  "theme": "Place, language, and people",
+  "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "Reserve Bosnia today topic: Brčko District (not the two entities only).",
+  "reviewerNotes": "This full draft is ready for human review before publication.",
   "estimatedMinutes": 60,
-  "storyBeat": "Identity chat over kahva",
+  "storyBeat": "Ana and Emir have a gentle identity conversation over kahva.",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 13: Nationalities, govoriti, soft identity talk"
+      "Name people, country, language, and nationality terms used in simple introductions.",
+      "Use govorim and govoriš when discussing languages.",
+      "Ask ko and odakle questions in a respectful conversation."
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Say Govorim bosanski or Govorim engleski.",
+      "Ask Odakle si? and answer with Ja sam iz plus a place.",
+      "Use ko to ask who speaks a language or comes from a place."
     ],
     "culture": [
-      "Who lives in Bosnia and Herzegovina"
+      "Keep identity talk gentle by beginning with place and language.",
+      "Visit Brčko as a river city in the northeast.",
+      "Understand Brčko District's distinct civic position."
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "ljudi",
+      "english": "people",
+      "pronunciation": "LYOO-dee",
+      "partOfSpeech": "noun",
+      "example": "Ljudi razgovaraju uz kahvu."
+    },
+    {
+      "bosnian": "zemlja",
+      "english": "country or land",
+      "pronunciation": "ZEHM-lya",
+      "partOfSpeech": "noun",
+      "example": "Bosna i Hercegovina je zemlja."
+    },
+    {
+      "bosnian": "govoriti",
+      "english": "to speak",
+      "pronunciation": "goh-VOH-ree-tee",
+      "partOfSpeech": "verb",
+      "example": "Želim govoriti bosanski."
+    },
+    {
+      "bosnian": "govorim",
+      "english": "I speak",
+      "pronunciation": "goh-VOH-reem",
+      "partOfSpeech": "verb form",
+      "example": "Govorim engleski."
+    },
+    {
+      "bosnian": "govoriš",
+      "english": "you speak",
+      "pronunciation": "goh-VOH-reesh",
+      "partOfSpeech": "verb form",
+      "example": "Govoriš li bosanski?"
+    },
+    {
+      "bosnian": "bosanski",
+      "english": "Bosnian",
+      "pronunciation": "boh-SAHN-skee",
+      "partOfSpeech": "language adjective",
+      "example": "Učim bosanski."
+    },
+    {
+      "bosnian": "engleski",
+      "english": "English",
+      "pronunciation": "EHN-gleh-skee",
+      "partOfSpeech": "language adjective",
+      "example": "Ana govori engleski."
+    },
+    {
+      "bosnian": "Amerikanka",
+      "english": "American woman",
+      "pronunciation": "ah-meh-ree-KAHN-ka",
+      "partOfSpeech": "noun",
+      "example": "Ana je Amerikanka."
+    },
+    {
+      "bosnian": "Bosanac",
+      "english": "Bosnian man",
+      "pronunciation": "boh-SAH-nats",
+      "partOfSpeech": "noun",
+      "example": "On je Bosanac."
+    },
+    {
+      "bosnian": "Bosanka",
+      "english": "Bosnian woman",
+      "pronunciation": "boh-SAHN-ka",
+      "partOfSpeech": "noun",
+      "example": "Ona je Bosanka."
+    },
+    {
+      "bosnian": "odakle",
+      "english": "from where",
+      "pronunciation": "OH-dah-kleh",
+      "partOfSpeech": "question word",
+      "example": "Odakle si?"
+    },
+    {
+      "bosnian": "jezik",
+      "english": "language",
+      "pronunciation": "YEH-zeek",
+      "partOfSpeech": "noun",
+      "example": "Bosanski jezik je lijep."
+    },
+    {
+      "bosnian": "narod",
+      "english": "people or nation",
+      "pronunciation": "NAH-rod",
+      "partOfSpeech": "noun",
+      "example": "Narod ima mnogo priča."
+    },
+    {
+      "bosnian": "ko",
+      "english": "who",
+      "pronunciation": "koh",
+      "partOfSpeech": "question word",
+      "example": "Ko govori bosanski?"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Govorim bosanski",
+      "explanation": "Use govorim to say which language you speak. Bosnian language names usually follow the verb without an article. Replace bosanski with engleski when you describe English.",
+      "examples": [
+        {
+          "bosnian": "Govorim bosanski.",
+          "english": "I speak Bosnian."
+        },
+        {
+          "bosnian": "Govorim engleski.",
+          "english": "I speak English."
+        },
+        {
+          "bosnian": "Malo govorim bosanski.",
+          "english": "I speak a little Bosnian."
+        }
+      ]
+    },
+    {
+      "title": "Odakle si?",
+      "explanation": "Ask Odakle si? when you want to know where someone is from. Answer with Ja sam iz followed by a place. A place answer shares useful information without forcing a larger identity label.",
+      "examples": [
+        {
+          "bosnian": "Odakle si?",
+          "english": "Where are you from?"
+        },
+        {
+          "bosnian": "Ja sam iz Amerike.",
+          "english": "I am from America."
+        },
+        {
+          "bosnian": "Ja sam iz Sarajeva.",
+          "english": "I am from Sarajevo."
+        }
+      ]
+    },
+    {
+      "title": "Ko govori?",
+      "explanation": "Use ko when you ask who a person is or who does an action. Pair ko with govori to ask who speaks a language. Answer with a person's name and a complete sentence.",
+      "examples": [
+        {
+          "bosnian": "Ko govori bosanski?",
+          "english": "Who speaks Bosnian?"
+        },
+        {
+          "bosnian": "Emir govori bosanski.",
+          "english": "Emir speaks Bosnian."
+        },
+        {
+          "bosnian": "Ko je iz Brčkog?",
+          "english": "Who is from Brčko?"
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "Who lives in Bosnia and Herzegovina",
-    "body": "Stub for Lesson 13. Full culture hook will be written on the draft night.",
-    "imageId": null
+    "title": "Kahva, language, and a view of Brčko",
+    "body": "Ana and Emir talk over kahva about where they come from and which languages they speak. Ana is from America and is learning Bosnian. Emir is from Sarajevo and shows her photographs of Brčko, a river city in the northeast of Bosnia and Herzegovina. Its promenade and white mosque place the conversation in a real, diverse city. People across the country use many names for themselves, their communities, and closely related language standards. This lesson does not force those identities into one answer. It gives Ana gentle questions about place and language, then leaves room for each person to describe themselves.",
+    "imageId": "brcko-promenade"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A: Ask about place and language",
+      "body": "Begin with two questions that let another person choose how much to share. Odakle si? asks where someone is from, while Govoriš li bosanski? asks whether the person speaks Bosnian. Ana answers Ja sam iz Amerike and adds Učim bosanski. Emir answers Ja sam iz Sarajeva and says Govorim bosanski. Practice the city or country answer that is true for you. Then name a language you speak, study, or want to learn. The answer remains yours. These patterns are useful because they focus on personal experience. They do not require you to guess a stranger's identity from a name, accent, religion, or appearance.",
+      "tips": [
+        "Let each person choose the place name that best answers Odakle si?",
+        "Use govorim for your own language and govoriš when addressing one person.",
+        "Avoid guessing a person's identity before they describe themselves."
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B: Talk about people with care",
+      "body": "Add ljudi, zemlja, jezik, narod, and ko to widen the conversation. Bosanac and Bosanka can describe a Bosnian man or woman, while Amerikanka describes Ana as an American woman. These words are useful, but no single label tells a person's whole story. Emir explains that people in Bosnia and Herzegovina have many names for themselves and may emphasize a city, region, community, or language. Ana keeps her questions simple and listens to the answer. Use Ko govori bosanski? in a classroom or café, then answer with a complete sentence. The best practice combines accurate grammar with room for personal choice.",
+      "tips": [
+        "Treat nationality words as options that people may use for themselves.",
+        "Use place and language questions before asking for more personal detail.",
+        "Answer ko with a named person and a complete verb phrase."
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Razgovor uz kahvu",
+    "setting": "Ana and Emir sit with kahva while Amira arranges postcards from Brčko.",
+    "lines": [
+      {
+        "speaker": "Emir",
+        "bosnian": "Ana, odakle si?",
+        "english": "Ana, where are you from?"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Ja sam iz Amerike. Ja sam Amerikanka.",
+        "english": "I am from America. I am an American woman."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Govoriš li bosanski?",
+        "english": "Do you speak Bosnian?"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Malo govorim bosanski. Govorim engleski.",
+        "english": "I speak a little Bosnian. I speak English."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Emire, odakle si ti?",
+        "english": "Emir, where are you from?"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Ja sam iz Sarajeva. Ljudi ovdje imaju mnogo priča.",
+        "english": "I am from Sarajevo. People here have many stories."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Pijte kahvu i slušajte jedni druge.",
+        "english": "Drink your coffee and listen to one another."
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match people and language words",
+      "prompt": "Match each Bosnian word with its English meaning.",
+      "items": [
+        {
+          "left": "ljudi",
+          "right": "people"
+        },
+        {
+          "left": "zemlja",
+          "right": "country or land"
+        },
+        {
+          "left": "jezik",
+          "right": "language"
+        },
+        {
+          "left": "govorim",
+          "right": "I speak"
+        },
+        {
+          "left": "odakle",
+          "right": "from where"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "truefalse",
+      "title": "True or false about introductions",
+      "prompt": "Decide whether each sentence follows the lesson.",
+      "items": [
+        {
+          "statement": "Odakle si? asks where someone is from.",
+          "answer": true
+        },
+        {
+          "statement": "Govorim means that you speak.",
+          "answer": false
+        },
+        {
+          "statement": "Ana is from America and is learning Bosnian.",
+          "answer": true
+        },
+        {
+          "statement": "One identity label tells every part of a person.",
+          "answer": false
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Write the Bosnian sentence for I speak Bosnian.",
+      "hint": "Begin with Govorim.",
+      "answer": "Govorim bosanski."
+    },
+    {
+      "id": "pr2",
+      "prompt": "Write the Bosnian sentence for I speak English.",
+      "hint": "Use engleski.",
+      "answer": "Govorim engleski."
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write the Bosnian question that asks where someone is from.",
+      "hint": "Begin with Odakle.",
+      "answer": "Odakle si?"
+    },
+    {
+      "id": "pr4",
+      "prompt": "Write the Bosnian sentence for I am from Sarajevo.",
+      "hint": "Use Ja sam iz.",
+      "answer": "Ja sam iz Sarajeva."
+    },
+    {
+      "id": "pr5",
+      "prompt": "Write the Bosnian question for Who speaks Bosnian?",
+      "hint": "Begin with Ko.",
+      "answer": "Ko govori bosanski?"
+    },
+    {
+      "id": "pr6",
+      "prompt": "Write the Bosnian word for language.",
+      "hint": "The word begins with jez.",
+      "answer": "jezik"
+    },
+    {
+      "id": "pr7",
+      "prompt": "Write the Bosnian word for people.",
+      "hint": "The word begins with lj.",
+      "answer": "ljudi"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "Place can open a gentle conversation",
+      "body": "A place question can begin an identity conversation without trying to define a person. Odakle si? lets someone answer with a city, region, country, or another place that matters. The answer can remain simple or lead to more detail if both speakers want it. Place and language provide a respectful starting point."
+    },
+    {
+      "title": "Brčko sits on the Sava",
+      "body": "Brčko stands on the Sava River in the northeast of Bosnia and Herzegovina. Its river position helped make the city an important trade and transport point. The promenade gives residents a public place beside that wider regional route. The city connects local life with a river that crosses borders."
+    },
+    {
+      "title": "Language names can vary",
+      "body": "People in Bosnia and Herzegovina may name closely related language standards in different ways. Bosnian, Croatian, and Serbian are all heard in the country, and speakers understand one another to a high degree. This lesson practices bosanski because that is the course language. Respecting the name a speaker uses keeps language learning courteous."
+    }
+  ],
   "resources": [
     {
-      "label": "How to speak Bosnian (YouTube)",
-      "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "label": "How To Speak Bosnian Countries",
+      "url": "https://www.youtube.com/watch?v=D9t5MU-srOE",
+      "note": "This speaker resource models country and nationality vocabulary."
+    },
+    {
+      "label": "Next lesson",
+      "url": "/learn/lesson/14",
+      "note": "Lesson 14 reviews Lessons 8 through 13 at Amira's."
+    },
+    {
+      "label": "Book 1 curriculum",
+      "url": "/learn",
+      "note": "The curriculum page lists every Book 1 lesson."
     }
   ],
   "sectionQuiz": {
     "title": "Lesson 13 section quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What does ljudi mean?",
+        "options": [
+          "People",
+          "Language",
+          "Country",
+          "Coffee"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ljudi means people.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q2",
+        "prompt": "Which sentence means I speak Bosnian?",
+        "options": [
+          "Učim iz Bosne.",
+          "Govorim bosanski.",
+          "Ja sam jezik.",
+          "Ko je bosanski?"
+        ],
+        "correctIndex": 1,
+        "explanation": "Govorim bosanski means I speak Bosnian.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q3",
+        "prompt": "Which question asks where someone is from?",
+        "options": [
+          "Ko govori?",
+          "Govoriš li?",
+          "Odakle si?",
+          "Koji jezik?"
+        ],
+        "correctIndex": 2,
+        "explanation": "Odakle si? asks where someone is from.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q4",
+        "prompt": "Which word means language?",
+        "options": [
+          "narod",
+          "zemlja",
+          "ljudi",
+          "jezik"
+        ],
+        "correctIndex": 3,
+        "explanation": "Jezik means language.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q5",
+        "prompt": "How does Ana describe her background?",
+        "options": [
+          "She is from America and is learning Bosnian.",
+          "She is from Brčko and teaches English.",
+          "She is from Sarajevo and speaks no English.",
+          "She is from Jahorina and studies weather."
+        ],
+        "correctIndex": 0,
+        "explanation": "Ana says she is from America and is learning Bosnian.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q6",
+        "prompt": "Where is Emir from?",
+        "options": [
+          "Konjic",
+          "Sarajevo",
+          "Banja Luka",
+          "Ilidža"
+        ],
+        "correctIndex": 1,
+        "explanation": "Emir says that he is from Sarajevo.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q7",
+        "prompt": "What is special about Brčko District?",
+        "options": [
+          "It is only a mountain resort.",
+          "It is one of the two entities.",
+          "It is a self-governing district under international supervision.",
+          "It is a neighborhood of Sarajevo."
+        ],
+        "correctIndex": 2,
+        "explanation": "Brčko is a self-governing district under international supervision.",
+        "skill": "culture"
+      },
+      {
+        "id": "q8",
+        "prompt": "What is the lesson's approach to identity?",
+        "options": [
+          "It assigns one label to everyone.",
+          "It explains an ethnic census in detail.",
+          "It avoids all place names.",
+          "It begins gently with place and language."
+        ],
+        "correctIndex": 3,
+        "explanation": "The lesson begins gently with place and language.",
+        "skill": "culture"
+      }
+    ]
   },
-  "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to: Who lives in Bosnia and Herzegovina",
-    "Civic backlog for this lesson: Brčko District, the self-governing city-district under international supervision (third unit beside the two entities). Save full civicContext for draft night."
+  "dictionaryEntries": [
+    {
+      "day": 13,
+      "bosnian": "ljudi",
+      "english": "people",
+      "pronunciation": "LYOO-dee",
+      "partOfSpeech": "noun",
+      "example": "Ljudi razgovaraju uz kahvu."
+    },
+    {
+      "day": 13,
+      "bosnian": "zemlja",
+      "english": "country or land",
+      "pronunciation": "ZEHM-lya",
+      "partOfSpeech": "noun",
+      "example": "Bosna i Hercegovina je zemlja."
+    },
+    {
+      "day": 13,
+      "bosnian": "govoriti",
+      "english": "to speak",
+      "pronunciation": "goh-VOH-ree-tee",
+      "partOfSpeech": "verb",
+      "example": "Želim govoriti bosanski."
+    },
+    {
+      "day": 13,
+      "bosnian": "govorim",
+      "english": "I speak",
+      "pronunciation": "goh-VOH-reem",
+      "partOfSpeech": "verb form",
+      "example": "Govorim engleski."
+    },
+    {
+      "day": 13,
+      "bosnian": "govoriš",
+      "english": "you speak",
+      "pronunciation": "goh-VOH-reesh",
+      "partOfSpeech": "verb form",
+      "example": "Govoriš li bosanski?"
+    },
+    {
+      "day": 13,
+      "bosnian": "bosanski",
+      "english": "Bosnian",
+      "pronunciation": "boh-SAHN-skee",
+      "partOfSpeech": "language adjective",
+      "example": "Učim bosanski."
+    },
+    {
+      "day": 13,
+      "bosnian": "engleski",
+      "english": "English",
+      "pronunciation": "EHN-gleh-skee",
+      "partOfSpeech": "language adjective",
+      "example": "Ana govori engleski."
+    },
+    {
+      "day": 13,
+      "bosnian": "Amerikanka",
+      "english": "American woman",
+      "pronunciation": "ah-meh-ree-KAHN-ka",
+      "partOfSpeech": "noun",
+      "example": "Ana je Amerikanka."
+    },
+    {
+      "day": 13,
+      "bosnian": "Bosanac",
+      "english": "Bosnian man",
+      "pronunciation": "boh-SAH-nats",
+      "partOfSpeech": "noun",
+      "example": "On je Bosanac."
+    },
+    {
+      "day": 13,
+      "bosnian": "Bosanka",
+      "english": "Bosnian woman",
+      "pronunciation": "boh-SAHN-ka",
+      "partOfSpeech": "noun",
+      "example": "Ona je Bosanka."
+    },
+    {
+      "day": 13,
+      "bosnian": "odakle",
+      "english": "from where",
+      "pronunciation": "OH-dah-kleh",
+      "partOfSpeech": "question word",
+      "example": "Odakle si?"
+    },
+    {
+      "day": 13,
+      "bosnian": "jezik",
+      "english": "language",
+      "pronunciation": "YEH-zeek",
+      "partOfSpeech": "noun",
+      "example": "Bosanski jezik je lijep."
+    },
+    {
+      "day": 13,
+      "bosnian": "narod",
+      "english": "people or nation",
+      "pronunciation": "NAH-rod",
+      "partOfSpeech": "noun",
+      "example": "Narod ima mnogo priča."
+    },
+    {
+      "day": 13,
+      "bosnian": "ko",
+      "english": "who",
+      "pronunciation": "koh",
+      "partOfSpeech": "question word",
+      "example": "Ko govori bosanski?"
+    }
+  ],
+  "images": [
+    {
+      "id": "brcko-promenade",
+      "alt": "Polygon painting of people walking along the promenade in Brčko",
+      "localPath": "/images/book1/day-13-brcko-promenade.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Br%C4%8Dansko_%C5%A1etali%C5%A1te.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABr%C4%8Dansko_%C5%A1etali%C5%A1te.jpg",
+      "author": "Vladanovski",
+      "license": "CC BY-SA 4.0",
+      "credit": "Polygon painting based on photo: Brčansko šetalište.jpg. Vladanovski / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "brcko-mosque",
+      "alt": "Polygon painting of the white mosque in Brčko",
+      "localPath": "/images/book1/day-13-brcko-mosque.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bijela_d%C5%BEamija_Br%C4%8Dko2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABijela_d%C5%BEamija_Br%C4%8Dko2.jpg",
+      "author": "Vrtleska225",
+      "license": "CC BY-SA 4.0",
+      "credit": "Polygon painting based on photo: Bijela džamija Brčko2.jpg. Vrtleska225 / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "brcko-city",
+      "alt": "Polygon painting of lights across Brčko at night",
+      "localPath": "/images/book1/day-13-brcko-city.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Br%C4%8Dko_no%C4%87u.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABr%C4%8Dko_no%C4%87u.jpg",
+      "author": "ChillZone420",
+      "license": "CC BY-SA 3.0",
+      "credit": "Polygon painting based on photo: Brčko noću.jpg. ChillZone420 / Wikimedia Commons (CC BY-SA 3.0)"
+    },
+    {
+      "id": "civic-brcko-map",
+      "alt": "Polygon painting of a map marking Brčko District within Bosnia and Herzegovina",
+      "localPath": "/images/book1/day-13-civic-brcko-map.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Brcko_District_in_Bosnia_and_Herzegovina.svg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABrcko_District_in_Bosnia_and_Herzegovina.svg",
+      "author": "TUBS",
+      "license": "CC BY-SA 3.0",
+      "credit": "Polygon painting based on photo: Brcko District in Bosnia and Herzegovina.svg. TUBS / Wikimedia Commons (CC BY-SA 3.0)"
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [],
+  "civicContext": {
+    "title": "Brčko District has a distinct civic role",
+    "body": "Brčko District has a distinct place in the constitutional structure of Bosnia and Herzegovina. It is a self-governing district held in condominium by both entities rather than governed as an ordinary municipality within either one. An international supervisory system was created to support implementation of the postwar arbitration award and the district's multiethnic institutions. Local government in Brčko therefore operates alongside an unusual national and international framework. The district shows that the country's civic map includes more than the two entities alone.",
+    "imageId": "civic-brcko-map",
+    "learnMore": {
+      "label": "Wikipedia article about Brčko District",
+      "url": "https://en.wikipedia.org/wiki/Brčko_District"
+    }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu with countries and origins",
+    "kind": "speaker",
+    "hook": "A Bosnian teacher models country words that support gentle introductions.",
+    "source": {
+      "title": "How To Speak Bosnian Countries",
+      "artistOrSpeaker": "How To Speak Bosnian",
+      "regionOrScene": "Countries and origins lesson",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "How To Speak Bosnian on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=D9t5MU-srOE",
+      "embedUrl": "https://www.youtube.com/watch?v=D9t5MU-srOE"
+    },
+    "durationHint": "45-90 seconds",
+    "listenTask": {
+      "prompt": "Listen for a country or origin word that could answer Odakle si?",
+      "gistQuestion": {
+        "prompt": "What vocabulary is the speaker mainly teaching?",
+        "options": [
+          "Weather conditions",
+          "Country names",
+          "Room furniture",
+          "Street directions"
+        ],
+        "correctIndex": 1
+      },
+      "targetWords": [
+        "zemlja",
+        "Amerika",
+        "bosanski"
+      ],
+      "noticePrompt": "Listen for how a place name changes after the phrase Ja sam iz."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Odakle si?",
+          "english": "Where are you from?"
+        },
+        {
+          "bosnian": "Ja sam iz Amerike.",
+          "english": "I am from America."
+        }
+      ],
+      "teacherNote": "Answer the question with a place that feels natural for your own introduction."
+    }
+  },
+  "speakTargets": [
+    0,
+    3,
+    4
   ],
   "section": 2
 }

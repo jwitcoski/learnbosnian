@@ -20,8 +20,8 @@
 | A | 4–6 | draft (same fashion) |
 | B | 7 | draft (review) |
 | C | 8–10 | draft (same fashion) |
-| D | 11–14 | Week 2 remainder + review |
-| E–F | 15–21 | Week 3 + review |
+| D | 11–15 | draft (weather, park, people, review, directions) |
+| E–F | 16–21 | Section 3 remainder + review |
 | G–H | 22–30 | Week 4 + finale |
 
 ## Characters
@@ -43,11 +43,11 @@ Ana (learner), Emir (guide), Amira (café), Mrvica (cat)
 | 8 | Volim burek | draft | Full draft (food, volim/ne volim, Livno postcard) — needs human review | script ready |
 | 9 | U prodavnici | draft | Full draft (shopping, želim, Tuzla market) — needs human review | script ready |
 | 10 | Moja soba | draft | Full draft (home, imati, Stolac/Radimlja) — needs human review | script ready |
-| 11 | Kakvo je vrijeme? | outlined | | |
-| 12 | Idemo u park | outlined | | |
-| 13 | Ljudi iz BiH | outlined | | |
-| 14 | Sedmica 2 — ponavljanje | outlined | | |
-| 15 | Desna ili lijeva? | outlined | | |
+| 11 | Kakvo je vrijeme? | draft | Full draft (weather, Trebević/Jahorina, inversion civic) — needs human review | script ready |
+| 12 | Idemo u park | draft | Full draft (invitations, Vrelo Bosne, 2014 floods civic) — needs human review | script ready |
+| 13 | Ljudi iz BiH | draft | Full draft (place/language identity, Brčko, district civic) — needs human review | script ready |
+| 14 | Ponavljanje | draft | Review of Lessons 8 to 13 plus Banja Luka postcards — needs human review | script ready |
+| 15 | Desna ili lijeva? | draft | Full draft (directions, Latin Bridge/Konjic, landmine civic) — needs human review | script ready |
 | 16 | Na autobus | outlined | | |
 | 17 | Dobar tek! | outlined | | |
 | 18 | Sport i hobiji | outlined | | |
@@ -82,6 +82,7 @@ Teaser outlines only — see `content/book2/outline.json` and `content/book3/out
 - [x] Pedagogy upgrades: Čuj Bosnu authenticListen, quiz remediation links, speak-check (Transcribe+Nova), review deck, can-do checks, listen-first vocab
 - [x] Recorder trim + accept-before-upload (Female 1 = vocab, Male 1 = male parts, F2/M2 if needed)
 - [x] Lessons 8–10 full drafts (food, shop, home)
+- [x] Lessons 11–15 full drafts (weather, park, people, review, directions)
 
 ## Voice recording
 

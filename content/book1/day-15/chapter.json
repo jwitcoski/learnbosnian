@@ -3,56 +3,680 @@
   "book": 1,
   "title": "Desna ili lijeva?",
   "titleEn": "Right or left?",
-  "theme": "Lost near Latinska ćuprija",
-  "status": "outlined",
+  "theme": "Directions near Latin Bridge",
+  "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "",
+  "reviewerNotes": "This full draft is ready for human review before publication.",
   "estimatedMinutes": 60,
-  "storyBeat": "Ana gets lost near the bridge",
+  "storyBeat": "Ana gets lost near Latin Bridge and asks for polite directions.",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 15: Directions, polite imperatives"
+      "Use right, left, and straight-ahead words to follow a route.",
+      "Locate a street, bridge, café, or museum with distance and position words.",
+      "Add molim vas when asking a stranger for help."
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Use skreni for an informal singular direction.",
+      "Use idite and other polite forms with a stranger or group.",
+      "Describe landmarks with blizu, daleko, ispred, and iza."
     ],
     "culture": [
-      "Lost near Latinska ćuprija"
+      "Navigate near Latin Bridge in Sarajevo.",
+      "Compare Latin Bridge with the old stone bridge in Konjic.",
+      "Understand why marked landmine areas still restrict movement."
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "desna",
+      "english": "right",
+      "pronunciation": "DEHS-na",
+      "partOfSpeech": "adjective",
+      "example": "Desna ulica vodi do mosta."
+    },
+    {
+      "bosnian": "lijeva",
+      "english": "left",
+      "pronunciation": "LYEH-va",
+      "partOfSpeech": "adjective",
+      "example": "Lijeva strana je uz rijeku."
+    },
+    {
+      "bosnian": "pravo",
+      "english": "straight ahead",
+      "pronunciation": "PRAH-vo",
+      "partOfSpeech": "adverb",
+      "example": "Idite pravo."
+    },
+    {
+      "bosnian": "skreni",
+      "english": "turn",
+      "pronunciation": "SKREH-nee",
+      "partOfSpeech": "informal imperative",
+      "example": "Skreni lijevo."
+    },
+    {
+      "bosnian": "ulica",
+      "english": "street",
+      "pronunciation": "OO-lee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Ova ulica je kratka."
+    },
+    {
+      "bosnian": "most",
+      "english": "bridge",
+      "pronunciation": "mohst",
+      "partOfSpeech": "noun",
+      "example": "Most je blizu."
+    },
+    {
+      "bosnian": "blizu",
+      "english": "near",
+      "pronunciation": "BLEE-zoo",
+      "partOfSpeech": "adverb",
+      "example": "Latinska ćuprija je blizu."
+    },
+    {
+      "bosnian": "daleko",
+      "english": "far",
+      "pronunciation": "DAH-leh-ko",
+      "partOfSpeech": "adverb",
+      "example": "Konjic nije daleko."
+    },
+    {
+      "bosnian": "ispred",
+      "english": "in front of",
+      "pronunciation": "EES-pred",
+      "partOfSpeech": "preposition",
+      "example": "Kafić je ispred mosta."
+    },
+    {
+      "bosnian": "iza",
+      "english": "behind",
+      "pronunciation": "EE-za",
+      "partOfSpeech": "preposition",
+      "example": "Muzej je iza ugla."
+    },
+    {
+      "bosnian": "idite",
+      "english": "go",
+      "pronunciation": "EE-dee-teh",
+      "partOfSpeech": "polite imperative",
+      "example": "Idite pravo, molim vas."
+    },
+    {
+      "bosnian": "molim vas",
+      "english": "please",
+      "pronunciation": "MOH-leem vahs",
+      "partOfSpeech": "polite phrase",
+      "example": "Pomozite mi, molim vas."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Skreni and idite",
+      "explanation": "Use skreni when you tell one familiar person to turn. Use idite when you address a stranger politely or speak to more than one person. Add a direction word to make the instruction complete.",
+      "examples": [
+        {
+          "bosnian": "Skreni lijevo.",
+          "english": "Turn left."
+        },
+        {
+          "bosnian": "Idite pravo.",
+          "english": "Go straight."
+        },
+        {
+          "bosnian": "Idite desno.",
+          "english": "Go right."
+        }
+      ]
+    },
+    {
+      "title": "Polite directions with molim vas",
+      "explanation": "Molim vas adds please when you speak politely to a stranger or a group. Pair it with the polite imperative idite. A calm tone and the polite form make a direction sound helpful rather than abrupt.",
+      "examples": [
+        {
+          "bosnian": "Idite pravo, molim vas.",
+          "english": "Go straight, please."
+        },
+        {
+          "bosnian": "Skrenite lijevo, molim vas.",
+          "english": "Turn left, please."
+        },
+        {
+          "bosnian": "Pomozite mi, molim vas.",
+          "english": "Please help me."
+        }
+      ]
+    },
+    {
+      "title": "Locate a landmark",
+      "explanation": "Use blizu and daleko to describe distance. Use ispred for in front of and iza for behind. Connect these words to a visible landmark such as a bridge, street, café, or museum.",
+      "examples": [
+        {
+          "bosnian": "Most je blizu.",
+          "english": "The bridge is near."
+        },
+        {
+          "bosnian": "Kafić je ispred mosta.",
+          "english": "The café is in front of the bridge."
+        },
+        {
+          "bosnian": "Muzej je iza ugla.",
+          "english": "The museum is behind the corner."
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "Lost near Latinska ćuprija",
-    "body": "Stub for Lesson 15. Full culture hook will be written on the draft night.",
-    "imageId": null
+    "title": "Two bridges and two city routes",
+    "body": "Ana loses her bearings near Latin Bridge, where the Miljacka River bends through central Sarajevo. The stone bridge is easy to recognize, but the streets around it still send her in circles. Emir has also given her a postcard of the old bridge in Konjic, a graceful reconstructed Ottoman crossing over the Neretva. The two bridges belong to different rivers and different city stories. Ana asks a passerby for help with molim vas, then follows pravo, desna, and lijeva carefully. Directions become memorable when a real landmark waits at the end of the route.",
+    "imageId": "latin-bridge"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A: Follow the route",
+      "body": "Stand at an imaginary street corner near Latin Bridge and listen for three core directions. Pravo sends you straight ahead, desno sends you right, and lijevo sends you left. The vocabulary list gives desna and lijeva because they can describe a feminine noun such as ulica or strana, while the direction phrases use desno and lijevo. Add most and ulica so each instruction points toward something visible. Ana checks every bridge against her Konjic postcard and briefly follows the wrong river. Trace a route with your finger while saying each turn. Movement makes the contrast between right, left, and straight much easier to retain.",
+      "tips": [
+        "Keep the full ije spelling in lijeva and lijevo.",
+        "Use pravo when the route continues straight ahead.",
+        "Connect every turn to a visible street or bridge."
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B: Ask and answer politely",
+      "body": "Use a polite form when you ask a stranger for directions. Begin with Oprostite or Molim vas, then listen for idite, skrenite, blizu, daleko, ispred, or iza. A friend may tell Ana Skreni lijevo, but a passerby can say Idite pravo, molim vas. The difference marks the relationship and number of people, not a different route. Ana repeats each instruction to confirm it before walking away. Courtesy helps the exchange move smoothly. Practice a short exchange in which one person asks for the bridge and another gives two steps. End with Hvala so the interaction sounds complete and courteous in a real Sarajevo street.",
+      "tips": [
+        "Use idite or skrenite when you address a stranger politely.",
+        "Repeat the route in your own words before you begin walking.",
+        "Finish a request for help with molim vas and a response with hvala."
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Gdje je Latinska ćuprija?",
+    "setting": "Ana stands at the wrong corner near the Miljacka River and asks a passerby for help.",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "bosnian": "Oprostite, gdje je Latinska ćuprija, molim vas?",
+        "english": "Excuse me, where is Latin Bridge, please?"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Idite pravo do ulice.",
+        "english": "Go straight to the street."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Onda desno ili lijevo?",
+        "english": "Then should I go right or left?"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Skrenite lijevo. Most je blizu.",
+        "english": "Turn left. The bridge is near."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Je li muzej ispred mosta?",
+        "english": "Is the museum in front of the bridge?"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Muzej je iza vas, a most je ispred vas.",
+        "english": "The museum is behind you, and the bridge is in front of you."
+      },
+      {
+        "speaker": "Narrator",
+        "bosnian": "Ana zahvaljuje i konačno ide prema pravom mostu.",
+        "english": "Ana says thank you and finally walks toward the correct bridge."
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match direction words",
+      "prompt": "Match each Bosnian direction word with its English meaning.",
+      "items": [
+        {
+          "left": "desna",
+          "right": "right"
+        },
+        {
+          "left": "lijeva",
+          "right": "left"
+        },
+        {
+          "left": "pravo",
+          "right": "straight ahead"
+        },
+        {
+          "left": "ispred",
+          "right": "in front of"
+        },
+        {
+          "left": "iza",
+          "right": "behind"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "truefalse",
+      "title": "True or false about directions",
+      "prompt": "Decide whether each sentence correctly describes Lesson 15.",
+      "items": [
+        {
+          "statement": "Idite can be a polite or plural command.",
+          "answer": true
+        },
+        {
+          "statement": "Daleko means near.",
+          "answer": false
+        },
+        {
+          "statement": "Ana is looking for Latin Bridge.",
+          "answer": true
+        },
+        {
+          "statement": "The postcard bridge is in Mostar.",
+          "answer": false
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Write the Bosnian instruction that tells one familiar person to turn left.",
+      "hint": "Use skreni and lijevo.",
+      "answer": "Skreni lijevo."
+    },
+    {
+      "id": "pr2",
+      "prompt": "Write the polite Bosnian instruction for Go straight.",
+      "hint": "Begin with Idite.",
+      "answer": "Idite pravo."
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write the Bosnian sentence for The bridge is near.",
+      "hint": "Use most and blizu.",
+      "answer": "Most je blizu."
+    },
+    {
+      "id": "pr4",
+      "prompt": "Write the Bosnian phrase for in front of.",
+      "hint": "The word begins with isp.",
+      "answer": "ispred"
+    },
+    {
+      "id": "pr5",
+      "prompt": "Write the Bosnian phrase for behind.",
+      "hint": "The word begins with i.",
+      "answer": "iza"
+    },
+    {
+      "id": "pr6",
+      "prompt": "Write the polite Bosnian phrase for please.",
+      "hint": "The second word is vas.",
+      "answer": "molim vas"
+    },
+    {
+      "id": "pr7",
+      "prompt": "Write the Bosnian word for street.",
+      "hint": "The word begins with ul.",
+      "answer": "ulica"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "Latin Bridge carries layered history",
+      "body": "Latin Bridge crosses the Miljacka River in central Sarajevo. A nearby street corner became internationally known after the 1914 assassination of Archduke Franz Ferdinand. The bridge itself has older Ottoman roots and has served ordinary city movement for generations. It is both an everyday crossing and a landmark tied to world history."
+    },
+    {
+      "title": "Konjic rebuilt an older crossing",
+      "body": "The old stone bridge in Konjic crosses the Neretva River. The original Ottoman bridge was destroyed during the Second World War, and a careful reconstruction opened in 2009. Its stone arch again links the two sides of the town center. The restored crossing gives direction practice a second bridge beyond Sarajevo."
+    },
+    {
+      "title": "Lijeva keeps its full spelling",
+      "body": "The Bosnian word for left is lijeva in the feminine form used with strana or ulica. The ije sequence is important in the course spelling. Saying the word slowly helps the middle sound remain audible. Accurate lijeva keeps a left turn from becoming a spelling shortcut."
+    }
+  ],
   "resources": [
     {
-      "label": "How to speak Bosnian (YouTube)",
-      "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "label": "How To Speak Bosnian Directions",
+      "url": "https://www.youtube.com/watch?v=sWbg301Ujjg",
+      "note": "This speaker resource reinforces street direction phrases."
+    },
+    {
+      "label": "Next lesson",
+      "url": "/learn/lesson/16",
+      "note": "Lesson 16 covers tickets and travel phrases."
+    },
+    {
+      "label": "Book 1 curriculum",
+      "url": "/learn",
+      "note": "The curriculum page lists every Book 1 lesson."
     }
   ],
   "sectionQuiz": {
     "title": "Lesson 15 section quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What does pravo mean in a direction?",
+        "options": [
+          "Straight ahead",
+          "Behind",
+          "Near",
+          "Right"
+        ],
+        "correctIndex": 0,
+        "explanation": "Pravo means straight ahead in a direction.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q2",
+        "prompt": "Which instruction tells one familiar person to turn left?",
+        "options": [
+          "Idite pravo.",
+          "Skreni lijevo.",
+          "Most je blizu.",
+          "Ulica je desna."
+        ],
+        "correctIndex": 1,
+        "explanation": "Skreni lijevo tells one familiar person to turn left.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q3",
+        "prompt": "Which word means bridge?",
+        "options": [
+          "ulica",
+          "ispred",
+          "most",
+          "daleko"
+        ],
+        "correctIndex": 2,
+        "explanation": "Most means bridge.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q4",
+        "prompt": "Which phrase means behind?",
+        "options": [
+          "desna",
+          "blizu",
+          "ispred",
+          "iza"
+        ],
+        "correctIndex": 3,
+        "explanation": "Iza means behind.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q5",
+        "prompt": "Where is Ana trying to go?",
+        "options": [
+          "She is trying to reach Latin Bridge.",
+          "She is trying to reach Jahorina.",
+          "She is trying to reach Vrelo Bosne.",
+          "She is trying to reach Brčko."
+        ],
+        "correctIndex": 0,
+        "explanation": "Ana is trying to reach Latin Bridge.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q6",
+        "prompt": "Which form is polite or plural?",
+        "options": [
+          "skreni",
+          "idite",
+          "lijeva",
+          "pravo"
+        ],
+        "correctIndex": 1,
+        "explanation": "Idite is a polite or plural command form.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q7",
+        "prompt": "Which other bridge appears on a postcard?",
+        "options": [
+          "The bridge at Brčko",
+          "The bridge at Mostar",
+          "The old bridge at Konjic",
+          "The bridge at Doboj"
+        ],
+        "correctIndex": 2,
+        "explanation": "The old stone bridge at Konjic appears on the postcard.",
+        "skill": "culture"
+      },
+      {
+        "id": "q8",
+        "prompt": "Why must travelers respect marked mine areas?",
+        "options": [
+          "The signs mark private cafés.",
+          "The paths close for weather.",
+          "The bridges need tickets.",
+          "Landmines can remain lethal for decades."
+        ],
+        "correctIndex": 3,
+        "explanation": "Landmines can remain lethal for decades after a war ends.",
+        "skill": "culture"
+      }
+    ]
   },
-  "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to: Lost near Latinska ćuprija"
+  "dictionaryEntries": [
+    {
+      "day": 15,
+      "bosnian": "desna",
+      "english": "right",
+      "pronunciation": "DEHS-na",
+      "partOfSpeech": "adjective",
+      "example": "Desna ulica vodi do mosta."
+    },
+    {
+      "day": 15,
+      "bosnian": "lijeva",
+      "english": "left",
+      "pronunciation": "LYEH-va",
+      "partOfSpeech": "adjective",
+      "example": "Lijeva strana je uz rijeku."
+    },
+    {
+      "day": 15,
+      "bosnian": "pravo",
+      "english": "straight ahead",
+      "pronunciation": "PRAH-vo",
+      "partOfSpeech": "adverb",
+      "example": "Idite pravo."
+    },
+    {
+      "day": 15,
+      "bosnian": "skreni",
+      "english": "turn",
+      "pronunciation": "SKREH-nee",
+      "partOfSpeech": "informal imperative",
+      "example": "Skreni lijevo."
+    },
+    {
+      "day": 15,
+      "bosnian": "ulica",
+      "english": "street",
+      "pronunciation": "OO-lee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Ova ulica je kratka."
+    },
+    {
+      "day": 15,
+      "bosnian": "most",
+      "english": "bridge",
+      "pronunciation": "mohst",
+      "partOfSpeech": "noun",
+      "example": "Most je blizu."
+    },
+    {
+      "day": 15,
+      "bosnian": "blizu",
+      "english": "near",
+      "pronunciation": "BLEE-zoo",
+      "partOfSpeech": "adverb",
+      "example": "Latinska ćuprija je blizu."
+    },
+    {
+      "day": 15,
+      "bosnian": "daleko",
+      "english": "far",
+      "pronunciation": "DAH-leh-ko",
+      "partOfSpeech": "adverb",
+      "example": "Konjic nije daleko."
+    },
+    {
+      "day": 15,
+      "bosnian": "ispred",
+      "english": "in front of",
+      "pronunciation": "EES-pred",
+      "partOfSpeech": "preposition",
+      "example": "Kafić je ispred mosta."
+    },
+    {
+      "day": 15,
+      "bosnian": "iza",
+      "english": "behind",
+      "pronunciation": "EE-za",
+      "partOfSpeech": "preposition",
+      "example": "Muzej je iza ugla."
+    },
+    {
+      "day": 15,
+      "bosnian": "idite",
+      "english": "go",
+      "pronunciation": "EE-dee-teh",
+      "partOfSpeech": "polite imperative",
+      "example": "Idite pravo, molim vas."
+    },
+    {
+      "day": 15,
+      "bosnian": "molim vas",
+      "english": "please",
+      "pronunciation": "MOH-leem vahs",
+      "partOfSpeech": "polite phrase",
+      "example": "Pomozite mi, molim vas."
+    }
+  ],
+  "images": [
+    {
+      "id": "latin-bridge",
+      "alt": "Polygon painting of Latin Bridge crossing the Miljacka River in Sarajevo",
+      "localPath": "/images/book1/day-15-latin-bridge.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Latin_Bridge_in_Sarajevo.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALatin_Bridge_in_Sarajevo.jpg",
+      "author": "Tumi-1983",
+      "license": "CC0",
+      "credit": "Polygon painting based on photo: Latin Bridge in Sarajevo.jpg. Tumi-1983 / Wikimedia Commons (CC0)"
+    },
+    {
+      "id": "latin-bridge-2",
+      "alt": "Polygon painting of the stone arches of Latin Bridge spanning the river",
+      "localPath": "/images/book1/day-15-latin-bridge-2.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/LatinBridgeSarajevo.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALatinBridgeSarajevo.JPG",
+      "author": "CeeGee",
+      "license": "CC BY-SA 4.0",
+      "credit": "Polygon painting based on photo: LatinBridgeSarajevo.JPG. CeeGee / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "konjic-bridge",
+      "alt": "Polygon painting of the old stone bridge crossing the Neretva in Konjic",
+      "localPath": "/images/book1/day-15-konjic-bridge.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Konjic_Stari_most_7.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKonjic_Stari_most_7.jpg",
+      "author": "Julian Nyča",
+      "license": "CC BY-SA 3.0",
+      "credit": "Polygon painting based on photo: Konjic Stari most 7.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
+    },
+    {
+      "id": "civic-mines",
+      "alt": "Polygon painting of a warning sign marking landmine danger",
+      "localPath": "/images/book1/day-15-civic-mines.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Landmine_warning_sign_in_BiH.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALandmine_warning_sign_in_BiH.jpg",
+      "author": "Darij &amp; Ana",
+      "license": "CC BY 2.0",
+      "credit": "Polygon painting based on photo: Landmine warning sign in BiH.jpg. Darij & Ana / Wikimedia Commons (CC BY 2.0)"
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [],
+  "civicContext": {
+    "title": "Landmines still restrict safe movement",
+    "body": "Landmines and other unexploded ordnance still restrict movement in parts of Bosnia and Herzegovina. Mines were placed around former front lines, roads, fields, and settlements during the war, and floods or erosion can shift dangerous devices from recorded locations. Clearance teams have removed many hazards, but the work is slow, technical, and expensive. Residents and hikers must obey warning signs, stay on known routes, and never enter a marked area. A direction is therefore a safety instruction when contaminated land remains nearby.",
+    "imageId": "civic-mines",
+    "learnMore": {
+      "label": "Wikipedia article about landmines in Bosnia and Herzegovina",
+      "url": "https://en.wikipedia.org/wiki/Land_mines_in_Bosnia_and_Herzegovina"
+    }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu with street directions",
+    "kind": "speaker",
+    "hook": "A Bosnian teacher models direction language in a voice outside the story cast.",
+    "source": {
+      "title": "HOW TO SPEAK BOSNIAN Lesson Directions",
+      "artistOrSpeaker": "How To Speak Bosnian",
+      "regionOrScene": "Street directions lesson",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "How To Speak Bosnian on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=sWbg301Ujjg",
+      "embedUrl": "https://www.youtube.com/watch?v=sWbg301Ujjg"
+    },
+    "durationHint": "45-90 seconds",
+    "listenTask": {
+      "prompt": "Listen for right, left, or straight ahead in the speaker's route.",
+      "gistQuestion": {
+        "prompt": "What is the speaker mainly teaching?",
+        "options": [
+          "Food orders",
+          "Street directions",
+          "Weather reports",
+          "Language names"
+        ],
+        "correctIndex": 1
+      },
+      "targetWords": [
+        "desno",
+        "lijevo",
+        "pravo"
+      ],
+      "noticePrompt": "Listen for the direction word at the end of each short command."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Skreni lijevo.",
+          "english": "Turn left."
+        },
+        {
+          "bosnian": "Idite pravo.",
+          "english": "Go straight."
+        }
+      ],
+      "teacherNote": "Point in the matching direction as soon as you hear each target word."
+    }
+  },
+  "speakTargets": [
+    0,
+    2,
+    3
   ],
   "section": 3
 }
