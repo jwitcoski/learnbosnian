@@ -407,7 +407,6 @@
     "questions": [
       {
         "id": "q1",
-        "prompt": "What is a prodavnica?",
         "options": [
           "A waterfall",
           "A shop",
@@ -416,11 +415,11 @@
         ],
         "correctIndex": 1,
         "explanation": "Prodavnica means shop/store.",
-        "skill": "vocabulary"
+        "skill": "vocabulary",
+        "question": "What is a prodavnica?"
       },
       {
         "id": "q2",
-        "prompt": "How do you say I want milk?",
         "options": [
           "Volim mlijeko samo",
           "Želim mlijeko.",
@@ -429,11 +428,11 @@
         ],
         "correctIndex": 1,
         "explanation": "Želim + object.",
-        "skill": "grammar"
+        "skill": "grammar",
+        "question": "How do you say I want milk?"
       },
       {
         "id": "q3",
-        "prompt": "Koliko košta? asks about…",
         "options": [
           "The time",
           "The price",
@@ -442,11 +441,11 @@
         ],
         "correctIndex": 1,
         "explanation": "It means how much does it cost?",
-        "skill": "vocabulary"
+        "skill": "vocabulary",
+        "question": "Koliko košta? asks about…"
       },
       {
         "id": "q4",
-        "prompt": "Which word means thank you?",
         "options": [
           "molim",
           "hvala",
@@ -455,11 +454,11 @@
         ],
         "correctIndex": 1,
         "explanation": "Hvala = thank you.",
-        "skill": "vocabulary"
+        "skill": "vocabulary",
+        "question": "Which word means thank you?"
       },
       {
         "id": "q5",
-        "prompt": "Tuzla appears in this lesson as…",
         "options": [
           "A southern sea port only",
           "A northeast city with market energy",
@@ -468,11 +467,11 @@
         ],
         "correctIndex": 1,
         "explanation": "The culture hook widens the map to Tuzla.",
-        "skill": "culture"
+        "skill": "culture",
+        "question": "Tuzla appears in this lesson as…"
       },
       {
         "id": "q6",
-        "prompt": "Ana asks for a bag. What does she say?",
         "options": [
           "Kesa, molim.",
           "Skupo, molim.",
@@ -481,11 +480,11 @@
         ],
         "correctIndex": 0,
         "explanation": "Kesa, molim.",
-        "skill": "dialogue"
+        "skill": "dialogue",
+        "question": "Ana asks for a bag. What does she say?"
       },
       {
         "id": "q7",
-        "prompt": "To je skupo means…",
         "options": [
           "That is cheap.",
           "That is expensive.",
@@ -494,11 +493,11 @@
         ],
         "correctIndex": 1,
         "explanation": "Skupo = expensive.",
-        "skill": "grammar"
+        "skill": "grammar",
+        "question": "To je skupo means…"
       },
       {
         "id": "q8",
-        "prompt": "Which spelling is the Bosnian form for milk?",
         "options": [
           "mleko only",
           "mlijeko",
@@ -507,11 +506,11 @@
         ],
         "correctIndex": 1,
         "explanation": "This course uses mlijeko.",
-        "skill": "vocabulary"
+        "skill": "vocabulary",
+        "question": "Which spelling is the Bosnian form for milk?"
       },
       {
         "id": "q9",
-        "prompt": "In the shopping listen clip, you mainly train…",
         "options": [
           "Silent reading only",
           "Hearing price and want phrases in real teaching speech",
@@ -520,7 +519,8 @@
         ],
         "correctIndex": 1,
         "explanation": "Čuj Bosnu here targets shop phrases.",
-        "skill": "listening"
+        "skill": "listening",
+        "question": "In the shopping listen clip, you mainly train…"
       }
     ]
   },

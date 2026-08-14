@@ -51,6 +51,10 @@ function fallbackSkills(ch: Chapter): QuizSkill[] {
   return out;
 }
 
+function questionText(q: Chapter["sectionQuiz"]["questions"][number]): string {
+  return q.question || (q as { prompt?: string }).prompt || "";
+}
+
 export default function SectionQuiz({ chapter, embedded }: Props) {
   const questions = chapter.sectionQuiz?.questions || [];
   const [answers, setAnswers] = useState<Record<string, number>>({});
@@ -79,8 +83,9 @@ export default function SectionQuiz({ chapter, embedded }: Props) {
       const skill = q.skill || "vocabulary";
       missedSkills[skill] = (missedSkills[skill] || 0) + 1;
       // Heuristic: pull a matching vocab card from the question text
+      const text = questionText(q).toLowerCase();
       const hit = chapter.vocabulary?.find((v) =>
-        q.question.toLowerCase().includes(v.bosnian.toLowerCase())
+        text.includes(v.bosnian.toLowerCase())
       );
       if (hit) {
         missedVocab.push({
@@ -146,7 +151,7 @@ export default function SectionQuiz({ chapter, embedded }: Props) {
           >
             <p>
               <strong>
-                {qi + 1}. {q.question}
+                {qi + 1}. {questionText(q)}
               </strong>
             </p>
             {q.options.map((opt, oi) => {

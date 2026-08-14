@@ -399,7 +399,6 @@
     "questions": [
       {
         "id": "q1",
-        "prompt": "What does vrijeme mean?",
         "options": [
           "Weather",
           "Picnic",
@@ -408,11 +407,11 @@
         ],
         "correctIndex": 0,
         "explanation": "Vrijeme means weather.",
-        "skill": "vocabulary"
+        "skill": "vocabulary",
+        "question": "What does vrijeme mean?"
       },
       {
         "id": "q2",
-        "prompt": "Which sentence asks about the weather?",
         "options": [
           "Pada kiša.",
           "Kakvo je vrijeme?",
@@ -421,11 +420,11 @@
         ],
         "correctIndex": 1,
         "explanation": "Kakvo je vrijeme? asks how the weather is.",
-        "skill": "grammar"
+        "skill": "grammar",
+        "question": "Which sentence asks about the weather?"
       },
       {
         "id": "q3",
-        "prompt": "Which sentence means that it is cloudy?",
         "options": [
           "Sunčano je.",
           "Toplo je.",
@@ -434,11 +433,11 @@
         ],
         "correctIndex": 2,
         "explanation": "Oblačno je means that it is cloudy.",
-        "skill": "grammar"
+        "skill": "grammar",
+        "question": "Which sentence means that it is cloudy?"
       },
       {
         "id": "q4",
-        "prompt": "Which season is zima?",
         "options": [
           "Spring",
           "Summer",
@@ -447,11 +446,11 @@
         ],
         "correctIndex": 3,
         "explanation": "Zima means winter.",
-        "skill": "vocabulary"
+        "skill": "vocabulary",
+        "question": "Which season is zima?"
       },
       {
         "id": "q5",
-        "prompt": "What ruined Ana and Emir's picnic?",
         "options": [
           "Rain reached the blanket.",
           "Snow blocked the cable car.",
@@ -460,11 +459,11 @@
         ],
         "correctIndex": 0,
         "explanation": "Rain reaches the blanket and ruins the picnic.",
-        "skill": "dialogue"
+        "skill": "dialogue",
+        "question": "What ruined Ana and Emir's picnic?"
       },
       {
         "id": "q6",
-        "prompt": "Which place appears on Emir's second mountain postcard?",
         "options": [
           "Vrelo Bosne",
           "Jahorina",
@@ -473,11 +472,11 @@
         ],
         "correctIndex": 1,
         "explanation": "Jahorina appears as the second mountain place.",
-        "skill": "culture"
+        "skill": "culture",
+        "question": "Which place appears on Emir's second mountain postcard?"
       },
       {
         "id": "q7",
-        "prompt": "Which sentence means that it is snowing?",
         "options": [
           "Snijeg je topao.",
           "Zima je sunčana.",
@@ -486,11 +485,11 @@
         ],
         "correctIndex": 2,
         "explanation": "Pada snijeg means that it is snowing.",
-        "skill": "grammar"
+        "skill": "grammar",
+        "question": "Which sentence means that it is snowing?"
       },
       {
         "id": "q8",
-        "prompt": "Why can winter air pollution linger in Sarajevo?",
         "options": [
           "The cable car makes smoke.",
           "The river stops all wind.",
@@ -499,7 +498,8 @@
         ],
         "correctIndex": 3,
         "explanation": "A winter inversion can trap polluted air in the Sarajevo basin.",
-        "skill": "culture"
+        "skill": "culture",
+        "question": "Why can winter air pollution linger in Sarajevo?"
       }
     ]
   },

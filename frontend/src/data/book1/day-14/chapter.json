@@ -343,7 +343,6 @@
     "questions": [
       {
         "id": "q1",
-        "prompt": "Which sentence expresses a food preference?",
         "options": [
           "Volim burek.",
           "Imam prozor.",
@@ -352,11 +351,11 @@
         ],
         "correctIndex": 0,
         "explanation": "Volim burek expresses a food preference.",
-        "skill": "vocabulary"
+        "skill": "vocabulary",
+        "question": "Which sentence expresses a food preference?"
       },
       {
         "id": "q2",
-        "prompt": "Which phrase asks the price?",
         "options": [
           "Dobar tek.",
           "Koliko košta?",
@@ -365,11 +364,11 @@
         ],
         "correctIndex": 1,
         "explanation": "Koliko košta? asks how much something costs.",
-        "skill": "vocabulary"
+        "skill": "vocabulary",
+        "question": "Which phrase asks the price?"
       },
       {
         "id": "q3",
-        "prompt": "Which sentence means I have a room?",
         "options": [
           "Želim sobu.",
           "Volim sobu.",
@@ -378,11 +377,11 @@
         ],
         "correctIndex": 2,
         "explanation": "Imam sobu means that I have a room.",
-        "skill": "grammar"
+        "skill": "grammar",
+        "question": "Which sentence means I have a room?"
       },
       {
         "id": "q4",
-        "prompt": "Which sentence means that it is raining?",
         "options": [
           "Kiša je ljeto.",
           "Sunčano je.",
@@ -391,11 +390,11 @@
         ],
         "correctIndex": 3,
         "explanation": "Pada kiša means that it is raining.",
-        "skill": "grammar"
+        "skill": "grammar",
+        "question": "Which sentence means that it is raining?"
       },
       {
         "id": "q5",
-        "prompt": "Which phrase suggests going together?",
         "options": [
           "Hajde da idemo.",
           "Ja sam iz parka.",
@@ -404,11 +403,11 @@
         ],
         "correctIndex": 0,
         "explanation": "Hajde da idemo suggests that the group should go.",
-        "skill": "grammar"
+        "skill": "grammar",
+        "question": "Which phrase suggests going together?"
       },
       {
         "id": "q6",
-        "prompt": "Which question asks where someone is from?",
         "options": [
           "Ko govori?",
           "Odakle si?",
@@ -417,11 +416,11 @@
         ],
         "correctIndex": 1,
         "explanation": "Odakle si? asks where someone is from.",
-        "skill": "grammar"
+        "skill": "grammar",
+        "question": "Which question asks where someone is from?"
       },
       {
         "id": "q7",
-        "prompt": "What does karta mean in the game scene?",
         "options": [
           "Table",
           "Coffee",
@@ -430,11 +429,11 @@
         ],
         "correctIndex": 2,
         "explanation": "Karta means card in the board-game scene.",
-        "skill": "vocabulary"
+        "skill": "vocabulary",
+        "question": "What does karta mean in the game scene?"
       },
       {
         "id": "q8",
-        "prompt": "Which phrase asks for another round?",
         "options": [
           "Dobar tek.",
           "Čekaj polako.",
@@ -443,11 +442,11 @@
         ],
         "correctIndex": 3,
         "explanation": "Još jednom means one more time.",
-        "skill": "dialogue"
+        "skill": "dialogue",
+        "question": "Which phrase asks for another round?"
       },
       {
         "id": "q9",
-        "prompt": "Which Banja Luka landmark stands beside the Vrbas?",
         "options": [
           "Kastel Fortress",
           "Latin Bridge",
@@ -456,11 +455,11 @@
         ],
         "correctIndex": 0,
         "explanation": "Kastel Fortress stands beside the Vrbas River.",
-        "skill": "culture"
+        "skill": "culture",
+        "question": "Which Banja Luka landmark stands beside the Vrbas?"
       },
       {
         "id": "q10",
-        "prompt": "What is one major cause of demographic decline?",
         "options": [
           "More board games",
           "Sustained emigration",
@@ -469,7 +468,8 @@
         ],
         "correctIndex": 1,
         "explanation": "Sustained emigration contributes to demographic decline.",
-        "skill": "culture"
+        "skill": "culture",
+        "question": "What is one major cause of demographic decline?"
       }
     ]
   },

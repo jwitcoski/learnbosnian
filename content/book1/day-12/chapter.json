@@ -392,7 +392,6 @@
     "questions": [
       {
         "id": "q1",
-        "prompt": "What does idemo mean?",
         "options": [
           "We are going",
           "I am walking",
@@ -401,11 +400,11 @@
         ],
         "correctIndex": 0,
         "explanation": "Idemo means that we are going.",
-        "skill": "vocabulary"
+        "skill": "vocabulary",
+        "question": "What does idemo mean?"
       },
       {
         "id": "q2",
-        "prompt": "Which sentence invites someone to walk?",
         "options": [
           "Idem u park.",
           "Hoćeš li šetati?",
@@ -414,11 +413,11 @@
         ],
         "correctIndex": 1,
         "explanation": "Hoćeš li šetati? asks whether someone wants to walk.",
-        "skill": "grammar"
+        "skill": "grammar",
+        "question": "Which sentence invites someone to walk?"
       },
       {
         "id": "q3",
-        "prompt": "Which word means leash?",
         "options": [
           "trava",
           "drvo",
@@ -427,11 +426,11 @@
         ],
         "correctIndex": 2,
         "explanation": "Povodac means leash.",
-        "skill": "vocabulary"
+        "skill": "vocabulary",
+        "question": "Which word means leash?"
       },
       {
         "id": "q4",
-        "prompt": "Which word means slowly?",
         "options": [
           "hajde",
           "čekaj",
@@ -440,11 +439,11 @@
         ],
         "correctIndex": 3,
         "explanation": "Polako means slowly.",
-        "skill": "vocabulary"
+        "skill": "vocabulary",
+        "question": "Which word means slowly?"
       },
       {
         "id": "q5",
-        "prompt": "What happens during Mrvica's park walk?",
         "options": [
           "She tangles the leash around a tree.",
           "She sleeps beside the spring.",
@@ -453,11 +452,11 @@
         ],
         "correctIndex": 0,
         "explanation": "Mrvica tangles the leash around a tree.",
-        "skill": "dialogue"
+        "skill": "dialogue",
+        "question": "What happens during Mrvica's park walk?"
       },
       {
         "id": "q6",
-        "prompt": "What begins at Vrelo Bosne?",
         "options": [
           "The Vrbas River",
           "The Bosna River",
@@ -466,11 +465,11 @@
         ],
         "correctIndex": 1,
         "explanation": "The Bosna River begins in the spring area at Vrelo Bosne.",
-        "skill": "culture"
+        "skill": "culture",
+        "question": "What begins at Vrelo Bosne?"
       },
       {
         "id": "q7",
-        "prompt": "Which sentence means Let us go?",
         "options": [
           "Dođi ovamo.",
           "Ideš li sada?",
@@ -479,11 +478,11 @@
         ],
         "correctIndex": 2,
         "explanation": "Hajde da idemo means Let us go.",
-        "skill": "grammar"
+        "skill": "grammar",
+        "question": "Which sentence means Let us go?"
       },
       {
         "id": "q8",
-        "prompt": "What made the 2014 floods especially destructive?",
         "options": [
           "A winter inversion",
           "A cable car failure",
@@ -492,7 +491,8 @@
         ],
         "correctIndex": 3,
         "explanation": "Extreme rain and swollen rivers drove the destructive 2014 floods.",
-        "skill": "culture"
+        "skill": "culture",
+        "question": "What made the 2014 floods especially destructive?"
       }
     ]
   },

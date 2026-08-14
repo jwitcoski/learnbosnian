@@ -55,7 +55,7 @@ Fill `content/book1/day-XX/chapter.json` completely before marking `draft`.
 | **authenticListen** | **1** Čuj Bosnu block | Song or speaker; listen-first gist; 1–3 key lines; full attribution |
 | **civicContext** | **1** fact + image | Structural pressure on BiH, tied to lesson theme; full sentences; no opinion slogans |
 | **resources** | Channel/video + optional map + **next lesson** link | `/learn/lesson/N` |
-| **sectionQuiz** | **8–10** MCQs, `passPercent: 70`, explanations + **`skill`** | Mix meaning, form, one culture |
+| **sectionQuiz** | **8–10** MCQs with `question` (not `prompt`), `passPercent: 70`, explanations + **`skill`** | Mix meaning, form, one culture |
 | **speakTargets** | Optional `number[]` | 0-based dialogue line indexes for AI speak-check (default: up to 3 learner lines) |
 | **canDoChecks** | Review lessons: **3–5** | Short self-check prompts (speak / listen / write) |
 | **dictionaryEntries** | Every teaching vocab item (+ full number set if taught) | `day: N` |

@@ -385,7 +385,6 @@
     "questions": [
       {
         "id": "q1",
-        "prompt": "What does ljudi mean?",
         "options": [
           "People",
           "Language",
@@ -394,11 +393,11 @@
         ],
         "correctIndex": 0,
         "explanation": "Ljudi means people.",
-        "skill": "vocabulary"
+        "skill": "vocabulary",
+        "question": "What does ljudi mean?"
       },
       {
         "id": "q2",
-        "prompt": "Which sentence means I speak Bosnian?",
         "options": [
           "Učim iz Bosne.",
           "Govorim bosanski.",
@@ -407,11 +406,11 @@
         ],
         "correctIndex": 1,
         "explanation": "Govorim bosanski means I speak Bosnian.",
-        "skill": "grammar"
+        "skill": "grammar",
+        "question": "Which sentence means I speak Bosnian?"
       },
       {
         "id": "q3",
-        "prompt": "Which question asks where someone is from?",
         "options": [
           "Ko govori?",
           "Govoriš li?",
@@ -420,11 +419,11 @@
         ],
         "correctIndex": 2,
         "explanation": "Odakle si? asks where someone is from.",
-        "skill": "grammar"
+        "skill": "grammar",
+        "question": "Which question asks where someone is from?"
       },
       {
         "id": "q4",
-        "prompt": "Which word means language?",
         "options": [
           "narod",
           "zemlja",
@@ -433,11 +432,11 @@
         ],
         "correctIndex": 3,
         "explanation": "Jezik means language.",
-        "skill": "vocabulary"
+        "skill": "vocabulary",
+        "question": "Which word means language?"
       },
       {
         "id": "q5",
-        "prompt": "How does Ana describe her background?",
         "options": [
           "She is from America and is learning Bosnian.",
           "She is from Brčko and teaches English.",
@@ -446,11 +445,11 @@
         ],
         "correctIndex": 0,
         "explanation": "Ana says she is from America and is learning Bosnian.",
-        "skill": "dialogue"
+        "skill": "dialogue",
+        "question": "How does Ana describe her background?"
       },
       {
         "id": "q6",
-        "prompt": "Where is Emir from?",
         "options": [
           "Konjic",
           "Sarajevo",
@@ -459,11 +458,11 @@
         ],
         "correctIndex": 1,
         "explanation": "Emir says that he is from Sarajevo.",
-        "skill": "dialogue"
+        "skill": "dialogue",
+        "question": "Where is Emir from?"
       },
       {
         "id": "q7",
-        "prompt": "What is special about Brčko District?",
         "options": [
           "It is only a mountain resort.",
           "It is one of the two entities.",
@@ -472,11 +471,11 @@
         ],
         "correctIndex": 2,
         "explanation": "Brčko is a self-governing district under international supervision.",
-        "skill": "culture"
+        "skill": "culture",
+        "question": "What is special about Brčko District?"
       },
       {
         "id": "q8",
-        "prompt": "What is the lesson's approach to identity?",
         "options": [
           "It assigns one label to everyone.",
           "It explains an ethnic census in detail.",
@@ -485,7 +484,8 @@
         ],
         "correctIndex": 3,
         "explanation": "The lesson begins gently with place and language.",
-        "skill": "culture"
+        "skill": "culture",
+        "question": "What is the lesson's approach to identity?"
       }
     ]
   },
