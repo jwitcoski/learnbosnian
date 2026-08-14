@@ -1639,7 +1639,7 @@ def main():
         img_try("vrelo-bosne", "Water flows through the green spring area at Vrelo Bosne.", "day-12-vrelo-bosne.png", ["File:Vrelo Bosne, Sarajevo.jpg", "File:Vrelo Bosne (1).jpg"]),
         img_try("vrelo-park", "A wooded path crosses Vrelo Bosne Park.", "day-12-vrelo-park.png", ["File:Vrelo Bosne Park in Sarajevo.JPG", "File:Vrelo Bosne (1).jpg"]),
         img_try("bosna-river", "The Bosna River begins among channels at Vrelo Bosne.", "day-12-bosna-river.png", ["File:River Bosna at Vrelo Bosne Park in Sarajevo.JPG", "File:Vrelo Bosne, Sarajevo.jpg"]),
-        img_try("civic-floods", "Floodwater covers a community during the 2014 floods.", "day-12-civic-floods.png", ["File:2014 floods in Bosnia.jpg", "File:Maglaj 2014.jpg", "File:Bosnia and Herzegovina floods 2014.jpg", "File:Floods in Doboj 2014.jpg"]),
+        img_try("civic-floods", "Floodwater covers a community during the 2014 floods.", "day-12-civic-floods.png", ["File:2014 floods in Bosnia.jpg", "File:Maglaj 2014.jpg", "File:Bosnia and Herzegovina floods 2014.jpg", "File:Floods in Doboj 2014.jpg", "File:Floods in Bosnia Doboj 2.jpg", "File:Floods in Bosnia Doboj.jpg"]),
     ]
     print("Downloading Lesson 13 images")
     imgs13 = [
@@ -1652,8 +1652,8 @@ def main():
     imgs14 = [
         img_try("kastel", "Kastel Fortress stands beside the Vrbas in Banja Luka.", "day-14-kastel.png", ["File:Tvrđava Kastel Banja Luka.jpg"]),
         img_try("ferhadija", "Ferhadija Mosque rises in Banja Luka.", "day-14-ferhadija.png", ["File:NKD138 Ferhadija Dzamija 1.jpg", "File:Ferhadija (Banja Luka) 2.jpg"]),
-        img_try("vrbas", "The Vrbas River flows through Banja Luka.", "day-14-vrbas.png", ["File:Vrbas Banja Luka.jpg", "File:River Vrbas in Banja Luka.jpg"]),
-        img_try("civic-emigration", "Travelers move through Sarajevo International Airport.", "day-14-civic-emigration.png", ["File:Sarajevo International Airport.jpg", "File:Bus station Banja Luka.jpg"]),
+        img_try("vrbas", "The Vrbas River flows through Banja Luka.", "day-14-vrbas.png", ["File:Vrbas Banja Luka.jpg", "File:River Vrbas in Banja Luka.jpg", "File:Vrbas from Kastel Banja Luka 2019.jpg"]),
+        img_try("civic-emigration", "Travelers move through Sarajevo International Airport.", "day-14-civic-emigration.png", ["File:Sarajevo International Airport.jpg", "File:Bus station Banja Luka.jpg", "File:Sarajevo International Airport (SJJ).jpg"]),
     ]
     print("Downloading Lesson 15 images")
     imgs15 = [
