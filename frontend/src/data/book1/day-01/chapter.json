@@ -341,7 +341,7 @@
       {
         "speaker": "Shopkeeper",
         "bosnian": "Dobar dan! Molim?",
-        "english": "Good day! Yes? / Can I help you?"
+        "english": "Good day! Can I help you?"
       },
       {
         "speaker": "Ana",
@@ -351,7 +351,7 @@
       {
         "speaker": "Shopkeeper",
         "bosnian": "Da. Čaj. Molim!",
-        "english": "Yes. Tea. Here you are! / Please!"
+        "english": "Yes. Tea. Here you are!"
       },
       {
         "speaker": "Ana",
@@ -364,9 +364,14 @@
         "english": "Goodbye!"
       },
       {
-        "speaker": "Narrator",
-        "bosnian": "Mrvica mjauče. Ana kaže: Zdravo!",
-        "english": "Mrvica meows. Ana says: Hello!"
+        "speaker": "Mrvica",
+        "bosnian": "Mjau!",
+        "english": "Meow!"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Zdravo!",
+        "english": "Hello!"
       }
     ]
   },
@@ -824,8 +829,8 @@
   },
   "speakTargets": [
     0,
-    1,
-    2
+    2,
+    4
   ],
   "section": 1
 }

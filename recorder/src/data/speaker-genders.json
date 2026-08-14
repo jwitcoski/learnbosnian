@@ -1,12 +1,37 @@
 {
   "vocabVoiceId": "female-1",
   "speakers": {
-    "Ana": { "voiceId": "female-1", "gender": "female" },
-    "Amira": { "voiceId": "female-2", "gender": "female" },
-    "Emir": { "voiceId": "male-1", "gender": "male" },
-    "Narrator": { "voiceId": "female-1", "gender": "female" },
-    "Shopkeeper": { "voiceId": "male-2", "gender": "male" },
-    "Mrvica": { "voiceId": "male-2", "gender": "male" }
+    "Ana": {
+      "voiceId": "female-1",
+      "gender": "female"
+    },
+    "Amira": {
+      "voiceId": "female-2",
+      "gender": "female"
+    },
+    "Emir": {
+      "voiceId": "male-1",
+      "gender": "male"
+    },
+    "Narrator": {
+      "voiceId": "female-1",
+      "gender": "female"
+    },
+    "Shopkeeper": {
+      "voiceId": "male-2",
+      "gender": "male"
+    },
+    "Mrvica": {
+      "voiceId": "male-2",
+      "gender": "male"
+    },
+    "Passerby": {
+      "voiceId": "male-2",
+      "gender": "male"
+    }
   },
-  "default": { "voiceId": "female-1", "gender": "female" }
+  "default": {
+    "voiceId": "female-1",
+    "gender": "female"
+  }
 }

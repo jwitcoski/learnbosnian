@@ -240,13 +240,18 @@
       },
       {
         "speaker": "Emir",
-        "bosnian": "Ja sam iz Sarajeva. Ljudi ovdje imaju mnogo priča.",
-        "english": "I am from Sarajevo. People here have many stories."
+        "bosnian": "Ja sam iz Sarajeva.",
+        "english": "I am from Sarajevo."
       },
       {
         "speaker": "Amira",
         "bosnian": "Pijte kahvu i slušajte jedni druge.",
         "english": "Drink your coffee and listen to one another."
+      },
+      {
+        "speaker": "Mrvica",
+        "bosnian": "Mjau!",
+        "english": "Meow!"
       }
     ]
   },
@@ -704,7 +709,7 @@
     }
   },
   "speakTargets": [
-    0,
+    1,
     3,
     4
   ],

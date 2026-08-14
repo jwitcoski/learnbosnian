@@ -226,8 +226,8 @@
     "lines": [
       {
         "speaker": "Amira",
-        "bosnian": "Ana. tvoja porodica?",
-        "english": "Ana. your family?"
+        "bosnian": "Ana, tvoja porodica?",
+        "english": "Ana, your family?"
       },
       {
         "speaker": "Ana",
@@ -255,9 +255,9 @@
         "english": "Emir is my friend. You are my friend."
       },
       {
-        "speaker": "Narrator",
-        "bosnian": "Mrvica skače. Ana: Zdravo, Mrvica!",
-        "english": "Mrvica jumps up. Ana: Hello, Mrvica!"
+        "speaker": "Mrvica",
+        "bosnian": "Mjau!",
+        "english": "Meow!"
       },
       {
         "speaker": "Emir",
@@ -730,9 +730,9 @@
     }
   },
   "speakTargets": [
-    0,
     1,
-    2
+    3,
+    5
   ],
   "section": 1
 }

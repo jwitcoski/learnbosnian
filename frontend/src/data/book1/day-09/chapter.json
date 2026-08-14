@@ -222,12 +222,12 @@
   ],
   "conversation": {
     "title": "Na pijaci",
-    "setting": "A small market street. Scales, fruit crates, a shopkeeper with little patience and a good heart.",
+    "setting": "Amira sends Ana and Emir for fruit and milk. A shopkeeper weighs apples at a small counter.",
     "lines": [
       {
-        "speaker": "Emir",
-        "bosnian": "Idemo u prodavnicu. Pa na pijacu.",
-        "english": "Let’s go to the shop. Then to the market."
+        "speaker": "Amira",
+        "bosnian": "Kupite jabuke i mlijeko, molim.",
+        "english": "Buy apples and milk, please."
       },
       {
         "speaker": "Ana",
@@ -256,13 +256,13 @@
       },
       {
         "speaker": "Emir",
-        "bosnian": "I mlijeko? Ja želim mlijeko.",
-        "english": "And milk? I want milk."
+        "bosnian": "I mlijeko, molim.",
+        "english": "And milk, please."
       },
       {
-        "speaker": "Narrator",
-        "bosnian": "Mrvica gleda banane. Emir: Ne.",
-        "english": "Mrvica stares at the bananas. Emir: No."
+        "speaker": "Shopkeeper",
+        "bosnian": "Evo mlijeka. Doviđenja!",
+        "english": "Here is the milk. Goodbye!"
       }
     ]
   },

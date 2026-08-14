@@ -218,8 +218,13 @@
   ],
   "conversation": {
     "title": "Mrvica u parku",
-    "setting": "Ana, Emir, and Mrvica stand beside a path at Vrelo Bosne.",
+    "setting": "Amira sends Ana, Emir, and Mrvica toward Vrelo Bosne. The leash plan fails near a tree.",
     "lines": [
+      {
+        "speaker": "Amira",
+        "bosnian": "Idite u park, ali pazite Mrvicu.",
+        "english": "Go to the park, but watch Mrvica."
+      },
       {
         "speaker": "Ana",
         "bosnian": "Hajde da idemo u park.",
@@ -232,13 +237,13 @@
       },
       {
         "speaker": "Ana",
-        "bosnian": "Hoću. Imam povodac za Mrvicu.",
-        "english": "I do. I have a leash for Mrvica."
+        "bosnian": "Hoću. Imam povodac.",
+        "english": "I do. I have a leash."
       },
       {
         "speaker": "Emir",
-        "bosnian": "Mrvica, polako! Drvo je ispred tebe.",
-        "english": "Mrvica, go slowly! A tree is in front of you."
+        "bosnian": "Mrvica, polako!",
+        "english": "Mrvica, go slowly!"
       },
       {
         "speaker": "Ana",
@@ -246,14 +251,14 @@
         "english": "Wait! Do not go so quickly!"
       },
       {
-        "speaker": "Narrator",
-        "bosnian": "Mrvica trči oko drveta i povodac se zapetlja.",
-        "english": "Mrvica runs around the tree, and the leash becomes tangled."
+        "speaker": "Mrvica",
+        "bosnian": "Mjau!",
+        "english": "Meow!"
       },
       {
         "speaker": "Emir",
-        "bosnian": "Idemo u park bez povodca drugi put.",
-        "english": "We will go to the park without a leash next time."
+        "bosnian": "Povodac je oko drveta.",
+        "english": "The leash is around the tree."
       }
     ]
   },
@@ -719,9 +724,9 @@
     }
   },
   "speakTargets": [
-    0,
     1,
-    4
+    3,
+    5
   ],
   "section": 2
 }

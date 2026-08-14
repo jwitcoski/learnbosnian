@@ -236,8 +236,8 @@
       },
       {
         "speaker": "Emir",
-        "bosnian": "Da. Ja sam iz Sarajeva. On (Sebilj) je tu.",
-        "english": "Yes. I am from Sarajevo. That (Sebilj) is here."
+        "bosnian": "Da. Ja sam iz Sarajeva.",
+        "english": "Yes. I am from Sarajevo."
       },
       {
         "speaker": "Ana",
@@ -250,9 +250,9 @@
         "english": "Yes, I am a guide. Let’s go!"
       },
       {
-        "speaker": "Narrator",
-        "bosnian": "Mrvica gleda. Sutra: kahva.",
-        "english": "Mrvica watches. Tomorrow: coffee."
+        "speaker": "Mrvica",
+        "bosnian": "Mjau!",
+        "english": "Meow!"
       }
     ]
   },
@@ -694,9 +694,9 @@
     }
   },
   "speakTargets": [
-    0,
     1,
-    2
+    3,
+    5
   ],
   "section": 1
 }
