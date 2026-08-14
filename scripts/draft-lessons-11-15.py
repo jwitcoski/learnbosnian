@@ -404,7 +404,7 @@ def build_lesson_11(images: list) -> dict:
             {
                 "id": "a",
                 "title": "Lesson A: Weather and season words",
-                "body": "Start with vrijeme, sunce, kiša, snijeg, and vjetar. Then add the four seasons, which are proljeće, ljeto, jesen, and zima. Look at the Trebević view and describe what you can actually see. Say Sunčano je when the sky is bright, Oblačno je when clouds cover it, and Hladno je when the mountain air bites. Ana packs for warm autumn sun, but Emir notices the wind. Their different guesses turn the vocabulary into a real forecast. Repeat each weather sentence aloud, then choose one season and describe its usual conditions in two short Bosnian sentences.",
+                "body": "Start with vrijeme, sunce, kiša, snijeg, and vjetar. Then add the four seasons, which are proljeće, ljeto, jesen, and zima. Look at the Trebević view and describe what you can actually see. Say Sunčano je when the sky is bright, Oblačno je when clouds cover it, and Hladno je when the mountain air bites. Ana packs for warm autumn sun, but Emir notices the wind. Their different guesses turn the vocabulary into a real forecast. The mountain gives each term a visible reference. Repeat each weather sentence aloud, then choose one season and describe its usual conditions in two short Bosnian sentences.",
                 "tips": [
                     "Keep vrijeme and Kakvo je vrijeme? together as a useful question pattern.",
                     "Say the complete sentence Hladno je instead of giving only the adjective.",
@@ -414,7 +414,7 @@ def build_lesson_11(images: list) -> dict:
             {
                 "id": "b",
                 "title": "Lesson B: Report a changing forecast",
-                "body": "Build a weather report from short, complete sentences. Ask Kakvo je vrijeme? and answer Toplo je, Hladno je, Sunčano je, or Oblačno je. When something begins to fall, switch to Pada kiša or Pada snijeg. Ana looks at one patch of blue sky and declares success, but the clouds cross Trebević before lunch. Emir hears the first drops and says Pada kiša. The picnic moves under shelter while Mrvica, safely at home, avoids the entire problem. Practice changing your report from sun to cloud to rain so the phrases become quick enough for a real conversation.",
+                "body": "Build a weather report from short, complete sentences. Ask Kakvo je vrijeme? and answer Toplo je, Hladno je, Sunčano je, or Oblačno je. When something begins to fall, switch to Pada kiša or Pada snijeg. Ana looks at one patch of blue sky and declares success, but the clouds cross Trebević before lunch. Emir hears the first drops and says Pada kiša. The picnic moves under shelter while Mrvica, safely at home, avoids the entire problem. A quick update keeps the group prepared. Practice changing your report from sun to cloud to rain so the phrases become quick enough for a real conversation.",
                 "tips": [
                     "Use a neuter adjective because vrijeme is a neuter noun.",
                     "Keep pada beside kiša or snijeg when you describe precipitation.",
@@ -626,7 +626,7 @@ def build_lesson_12(images: list) -> dict:
             {
                 "id": "b",
                 "title": "Lesson B: Invite and respond",
-                "body": "Turn movement into a social plan with Hajde da idemo or Hoćeš li šetati? The first phrase suggests an activity for the group, while the second asks whether another person wants to join. Ana uses both patterns before attaching Mrvica's leash. The cat responds by moving brzo, not polako, and wraps the povodac around a drvo. Ana calls Dođi and Čekaj while Emir tries not to laugh. Practice one invitation, one acceptance, and one command as a three-part exchange. Keep the tone friendly because these phrases are useful with friends during any walk, not only with a determined cat.",
+                "body": "Turn movement into a social plan with Hajde da idemo or Hoćeš li šetati? The first phrase suggests an activity for the group, while the second asks whether another person wants to join. Ana uses both patterns before attaching Mrvica's leash. The cat responds by moving brzo, not polako, and wraps the povodac around a drvo. Ana calls Dođi and Čekaj while Emir tries not to laugh. The park supplies every cue. Practice one invitation, one acceptance, and one command as a three-part exchange. Keep the tone friendly because these phrases are useful with friends during any walk, not only with a determined cat.",
                 "tips": [
                     "Use Hajde da when you suggest an activity that includes you.",
                     "Use Hoćeš li followed by an infinitive when you offer a choice.",
@@ -827,7 +827,7 @@ def build_lesson_13(images: list) -> dict:
             {
                 "id": "a",
                 "title": "Lesson A: Ask about place and language",
-                "body": "Begin with two questions that let another person choose how much to share. Odakle si? asks where someone is from, while Govoriš li bosanski? asks whether the person speaks Bosnian. Ana answers Ja sam iz Amerike and adds Učim bosanski. Emir answers Ja sam iz Sarajeva and says Govorim bosanski. Practice the city or country answer that is true for you. Then name a language you speak, study, or want to learn. These patterns are useful because they focus on personal experience. They do not require you to guess a stranger's identity from a name, accent, religion, or appearance.",
+                "body": "Begin with two questions that let another person choose how much to share. Odakle si? asks where someone is from, while Govoriš li bosanski? asks whether the person speaks Bosnian. Ana answers Ja sam iz Amerike and adds Učim bosanski. Emir answers Ja sam iz Sarajeva and says Govorim bosanski. Practice the city or country answer that is true for you. Then name a language you speak, study, or want to learn. The answer remains yours. These patterns are useful because they focus on personal experience. They do not require you to guess a stranger's identity from a name, accent, religion, or appearance.",
                 "tips": [
                     "Let each person choose the place name that best answers Odakle si?",
                     "Use govorim for your own language and govoriš when addressing one person.",
@@ -982,12 +982,12 @@ def build_lesson_14(images: list) -> dict:
         },
     ]
     quiz = [
-        quiz_question("q1", "Which sentence expresses a food preference?", ["Volim burek.", "Imam prozor.", "Pada kiša.", "Idemo u park."], 0, "Volim burek expresses a food preference.", "lesson-8"),
-        quiz_question("q2", "Which phrase asks the price?", ["Dobar tek.", "Koliko košta?", "Kakvo je vrijeme?", "Odakle si?"], 1, "Koliko košta? asks how much something costs.", "lesson-9"),
-        quiz_question("q3", "Which sentence means I have a room?", ["Želim sobu.", "Volim sobu.", "Imam sobu.", "Idem u sobu."], 2, "Imam sobu means that I have a room.", "lesson-10"),
-        quiz_question("q4", "Which sentence means that it is raining?", ["Kiša je ljeto.", "Sunčano je.", "Hladno je.", "Pada kiša."], 3, "Pada kiša means that it is raining.", "lesson-11"),
-        quiz_question("q5", "Which phrase suggests going together?", ["Hajde da idemo.", "Ja sam iz parka.", "Govorim polako.", "Imam povodac."], 0, "Hajde da idemo suggests that the group should go.", "lesson-12"),
-        quiz_question("q6", "Which question asks where someone is from?", ["Ko govori?", "Odakle si?", "Imaš li kartu?", "Hoćeš li igrati?"], 1, "Odakle si? asks where someone is from.", "lesson-13"),
+        quiz_question("q1", "Which sentence expresses a food preference?", ["Volim burek.", "Imam prozor.", "Pada kiša.", "Idemo u park."], 0, "Volim burek expresses a food preference.", "vocabulary"),
+        quiz_question("q2", "Which phrase asks the price?", ["Dobar tek.", "Koliko košta?", "Kakvo je vrijeme?", "Odakle si?"], 1, "Koliko košta? asks how much something costs.", "vocabulary"),
+        quiz_question("q3", "Which sentence means I have a room?", ["Želim sobu.", "Volim sobu.", "Imam sobu.", "Idem u sobu."], 2, "Imam sobu means that I have a room.", "grammar"),
+        quiz_question("q4", "Which sentence means that it is raining?", ["Kiša je ljeto.", "Sunčano je.", "Hladno je.", "Pada kiša."], 3, "Pada kiša means that it is raining.", "grammar"),
+        quiz_question("q5", "Which phrase suggests going together?", ["Hajde da idemo.", "Ja sam iz parka.", "Govorim polako.", "Imam povodac."], 0, "Hajde da idemo suggests that the group should go.", "grammar"),
+        quiz_question("q6", "Which question asks where someone is from?", ["Ko govori?", "Odakle si?", "Imaš li kartu?", "Hoćeš li igrati?"], 1, "Odakle si? asks where someone is from.", "grammar"),
         quiz_question("q7", "What does karta mean in the game scene?", ["Table", "Coffee", "Card", "Victory"], 2, "Karta means card in the board-game scene.", "vocabulary"),
         quiz_question("q8", "Which phrase asks for another round?", ["Dobar tek.", "Čekaj polako.", "Govorim engleski.", "Još jednom."], 3, "Još jednom means one more time.", "dialogue"),
         quiz_question("q9", "Which Banja Luka landmark stands beside the Vrbas?", ["Kastel Fortress", "Latin Bridge", "Vrelo Bosne", "Trebević cable car"], 0, "Kastel Fortress stands beside the Vrbas River.", "culture"),
@@ -1025,7 +1025,7 @@ def build_lesson_14(images: list) -> dict:
             {
                 "id": "a",
                 "title": "Lesson A: Build with familiar verbs",
-                "body": "Review the four first-person forms that have carried Ana through recent lessons. Volim states a preference, želim states a wish, imam states possession, and govorim names a language you speak. Draw a card and complete its prompt with one of those verbs. You might say Volim sirnicu, Želim vodu, Imam malu sobu, or Govorim malo bosanski. Amira awards a game piece only for a complete, sayable sentence. Emir tries to win by speaking faster, but accuracy matters more than speed. Repeat any difficult sentence još jednom, then change one word so the pattern becomes flexible rather than memorized.",
+                "body": "Review the four first-person forms that have carried Ana through recent lessons. Volim states a preference, želim states a wish, imam states possession, and govorim names a language you speak. Draw a card and complete its prompt with one of those verbs. You might say Volim sirnicu, Želim vodu, Imam malu sobu, or Govorim malo bosanski. Amira awards a game piece only for a complete, sayable sentence. Emir tries to win by speaking faster, but accuracy matters more than speed. Every card brings an old pattern back. Repeat any difficult sentence još jednom, then change one word so the pattern becomes flexible rather than memorized.",
                 "tips": [
                     "Choose the verb by meaning before you add the familiar object.",
                     "Say the complete sentence aloud before you move your game piece.",
@@ -1048,7 +1048,7 @@ def build_lesson_14(images: list) -> dict:
             "setting": "Amira's café table holds a board, cards, kahva, and one curious cat.",
             "lines": [
                 {"speaker": "Amira", "bosnian": "Hajde da igramo. Ana, uzmi kartu.", "english": "Let us play. Ana, take a card."},
-                {"speaker": "Ana", "bosnian": "Pitanje je: Kakvo je vrijeme?", "english": "The question asks how the weather is."},
+                {"speaker": "Ana", "bosnian": "Pitanje glasi Kakvo je vrijeme?", "english": "The question asks how the weather is."},
                 {"speaker": "Emir", "bosnian": "Hladno je. Sada ja imam kartu.", "english": "It is cold. Now I have a card."},
                 {"speaker": "Emir", "bosnian": "Ana, odakle si i šta govoriš?", "english": "Ana, where are you from, and what do you speak?"},
                 {"speaker": "Ana", "bosnian": "Ja sam iz Amerike i govorim engleski.", "english": "I am from America, and I speak English."},
@@ -1123,18 +1123,18 @@ def build_lesson_14(images: list) -> dict:
             target_words=["sredinom", "ja", "ti"],
             notice="Let the melody carry you while you notice any short word you already recognize.",
             key_lines=[
-                {"bosnian": "Sredinom", "english": "Through the middle"},
+                {"bosnian": "Sredinom", "english": "The title means through the middle."},
                 {"bosnian": "Dino Merlin", "english": "The singer's name is Dino Merlin."},
             ],
             teacher_note="Success means catching an anchor word in natural music, not decoding the whole song.",
         ),
         speak_targets=[0, 3, 6],
         can_do_checks=[
-            {"skill": "speak", "prompt": "I can say one complete sentence with volim, želim, or imam."},
-            {"skill": "speak", "prompt": "I can ask a weather, invitation, or origin question aloud."},
-            {"skill": "listen", "prompt": "I can identify the topic of a familiar short exchange."},
-            {"skill": "listen", "prompt": "I can catch at least one familiar word in a Bosnian song."},
-            {"skill": "write", "prompt": "I can write a two-line exchange using material from two lessons."},
+            {"id": "cd1", "kind": "speak", "prompt": "I can say one complete sentence with volim, želim, or imam."},
+            {"id": "cd2", "kind": "speak", "prompt": "I can ask a weather, invitation, or origin question aloud."},
+            {"id": "cd3", "kind": "listen", "prompt": "I can identify the topic of a familiar short exchange."},
+            {"id": "cd4", "kind": "listen", "prompt": "I can catch at least one familiar word in a Bosnian song."},
+            {"id": "cd5", "kind": "write", "prompt": "I can write a two-line exchange using material from two lessons."},
         ],
         section=2,
     )
@@ -1252,7 +1252,7 @@ def build_lesson_15(images: list) -> dict:
             {
                 "id": "b",
                 "title": "Lesson B: Ask and answer politely",
-                "body": "Use a polite form when you ask a stranger for directions. Begin with Oprostite or Molim vas, then listen for idite, skrenite, blizu, daleko, ispred, or iza. A friend may tell Ana Skreni lijevo, but a passerby can say Idite pravo, molim vas. The difference marks the relationship and number of people, not a different route. Ana repeats each instruction to confirm it before walking away. Practice a short exchange in which one person asks for the bridge and another gives two steps. End with Hvala so the interaction sounds complete and courteous in a real Sarajevo street.",
+                "body": "Use a polite form when you ask a stranger for directions. Begin with Oprostite or Molim vas, then listen for idite, skrenite, blizu, daleko, ispred, or iza. A friend may tell Ana Skreni lijevo, but a passerby can say Idite pravo, molim vas. The difference marks the relationship and number of people, not a different route. Ana repeats each instruction to confirm it before walking away. Courtesy helps the exchange move smoothly. Practice a short exchange in which one person asks for the bridge and another gives two steps. End with Hvala so the interaction sounds complete and courteous in a real Sarajevo street.",
                 "tips": [
                     "Use idite or skrenite when you address a stranger politely.",
                     "Repeat the route in your own words before you begin walking.",
