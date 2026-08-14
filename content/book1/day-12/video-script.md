@@ -35,8 +35,8 @@
 **On screen:** Polako! | Čekaj! | Dialogue lines appear in two languages.
 
 ### 8:00 Practice prompt
-**Narration:** Pause and invite someone to walk, accept the invitation, and say where you are going. Continue with Lesson 13, Ljudi iz BiH.
-**On screen:** Practice an invitation | Next lesson is Ljudi iz BiH.
+**Narration:** Pause and invite someone to walk, accept the invitation, and say where you are going. Continue with Lesson 13, Ljudi iz BiH, People from Bosnia and Herzegovina.
+**On screen:** Practice an invitation | Next lesson is People from Bosnia and Herzegovina.
 
 ## End screen
 - Link to website `/learn/lesson/12`

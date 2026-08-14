@@ -35,8 +35,8 @@
 **On screen:** Dialogue lines appear in Bosnian and English.
 
 ### 8:00 Practice prompt
-**Narration:** Pause and give a polite two-step route to a nearby landmark. Then review the section and check what you can now say without notes.
-**On screen:** Give a route | Review Lessons 11 through 15.
+**Narration:** Pause and give a polite two-step route to a nearby landmark. Continue with Lesson 16, Na autobus.
+**On screen:** Give a route | Next lesson is Na autobus.
 
 ## End screen
 - Link to website `/learn/lesson/15`

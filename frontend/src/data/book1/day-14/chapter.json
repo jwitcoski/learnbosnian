@@ -558,43 +558,43 @@
   "images": [
     {
       "id": "kastel",
-      "alt": "Kastel Fortress stands beside the Vrbas in Banja Luka.",
+      "alt": "Polygon painting of Kastel Fortress beside the Vrbas in Banja Luka",
       "localPath": "/images/book1/day-14-kastel.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Tvr%C4%91ava_Kastel_Banja_Luka.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATvr%C4%91ava_Kastel_Banja_Luka.jpg",
       "author": "Biljana Latinović2",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Tvrđava Kastel Banja Luka.jpg. Biljana Latinović2 / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on photo: Tvrđava Kastel Banja Luka.jpg. Biljana Latinović2 / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "ferhadija",
-      "alt": "Ferhadija Mosque rises in Banja Luka.",
+      "alt": "Polygon painting of Ferhadija Mosque in Banja Luka",
       "localPath": "/images/book1/day-14-ferhadija.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/NKD138_Ferhadija_Dzamija_1.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ANKD138_Ferhadija_Dzamija_1.jpg",
       "author": "Samirzahirovic",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: NKD138 Ferhadija Dzamija 1.jpg. Samirzahirovic / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on photo: NKD138 Ferhadija Dzamija 1.jpg. Samirzahirovic / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "vrbas",
-      "alt": "The Vrbas River flows through Banja Luka.",
+      "alt": "Polygon painting of the Vrbas River in Banja Luka",
       "localPath": "/images/book1/day-14-vrbas.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Vrbas_from_Kastel_Banja_Luka_2019.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVrbas_from_Kastel_Banja_Luka_2019.jpg",
       "author": "130309p",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Vrbas from Kastel Banja Luka 2019.jpg. 130309p / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on photo: Vrbas from Kastel Banja Luka 2019.jpg. 130309p / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "civic-emigration",
-      "alt": "Travelers move through Sarajevo International Airport.",
+      "alt": "Polygon painting of travelers moving through Sarajevo International Airport",
       "localPath": "/images/book1/day-14-civic-emigration.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sarajevo_International_Airport_%28SJJ%29.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_International_Airport_%28SJJ%29.jpg",
       "author": "BiHVolim",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Sarajevo International Airport (SJJ).jpg. BiHVolim / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on photo: Sarajevo International Airport (SJJ).jpg. BiHVolim / Wikimedia Commons (CC BY-SA 4.0)"
     }
   ],
   "imagesNeeded": false,

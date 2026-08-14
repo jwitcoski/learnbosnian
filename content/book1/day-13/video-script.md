@@ -11,7 +11,7 @@
 ## Narration and on-screen cues
 
 ### 0:00 Cold open
-**Narration:** Lesson 13 is Ljudi iz BiH. Ana and Emir share kahva and begin a gentle conversation about place and language.
+**Narration:** Lesson 13 is Ljudi iz BiH, People from Bosnia and Herzegovina. Ana and Emir share kahva and begin a gentle conversation about place and language.
 **On screen:** Ljudi iz BiH | Lesson 13
 
 ### 0:40 Goals

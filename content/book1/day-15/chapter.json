@@ -355,14 +355,14 @@
       "note": "This speaker resource reinforces street direction phrases."
     },
     {
+      "label": "Next lesson",
+      "url": "/learn/lesson/16",
+      "note": "Lesson 16 covers tickets and travel phrases."
+    },
+    {
       "label": "Book 1 curriculum",
       "url": "/learn",
       "note": "The curriculum page lists every Book 1 lesson."
-    },
-    {
-      "label": "Return to Lesson 14",
-      "url": "/learn/lesson/14",
-      "note": "Lesson 14 reviews the language that leads into this section."
     }
   ],
   "sectionQuiz": {
@@ -576,43 +576,43 @@
   "images": [
     {
       "id": "latin-bridge",
-      "alt": "Latin Bridge crosses the Miljacka River in Sarajevo.",
+      "alt": "Polygon painting of Latin Bridge crossing the Miljacka River in Sarajevo",
       "localPath": "/images/book1/day-15-latin-bridge.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Latin_Bridge_in_Sarajevo.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALatin_Bridge_in_Sarajevo.jpg",
       "author": "Tumi-1983",
       "license": "CC0",
-      "credit": "Based on photo: Latin Bridge in Sarajevo.jpg. Tumi-1983 / Wikimedia Commons (CC0)"
+      "credit": "Polygon painting based on photo: Latin Bridge in Sarajevo.jpg. Tumi-1983 / Wikimedia Commons (CC0)"
     },
     {
       "id": "latin-bridge-2",
-      "alt": "The stone arches of Latin Bridge span the river.",
+      "alt": "Polygon painting of the stone arches of Latin Bridge spanning the river",
       "localPath": "/images/book1/day-15-latin-bridge-2.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/LatinBridgeSarajevo.JPG",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALatinBridgeSarajevo.JPG",
       "author": "CeeGee",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: LatinBridgeSarajevo.JPG. CeeGee / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on photo: LatinBridgeSarajevo.JPG. CeeGee / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "konjic-bridge",
-      "alt": "The old stone bridge crosses the Neretva in Konjic.",
+      "alt": "Polygon painting of the old stone bridge crossing the Neretva in Konjic",
       "localPath": "/images/book1/day-15-konjic-bridge.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Konjic_Stari_most_7.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKonjic_Stari_most_7.jpg",
       "author": "Julian Nyča",
       "license": "CC BY-SA 3.0",
-      "credit": "Based on photo: Konjic Stari most 7.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Polygon painting based on photo: Konjic Stari most 7.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "civic-mines",
-      "alt": "A warning sign marks landmine danger.",
+      "alt": "Polygon painting of a warning sign marking landmine danger",
       "localPath": "/images/book1/day-15-civic-mines.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Landmine_warning_sign_in_BiH.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALandmine_warning_sign_in_BiH.jpg",
       "author": "Darij &amp; Ana",
       "license": "CC BY 2.0",
-      "credit": "Based on photo: Landmine warning sign in BiH.jpg. Darij &amp; Ana / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Polygon painting based on photo: Landmine warning sign in BiH.jpg. Darij & Ana / Wikimedia Commons (CC BY 2.0)"
     }
   ],
   "imagesNeeded": false,

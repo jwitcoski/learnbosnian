@@ -606,43 +606,43 @@
   "images": [
     {
       "id": "brcko-promenade",
-      "alt": "People walk along the promenade in Brčko.",
+      "alt": "Polygon painting of people walking along the promenade in Brčko",
       "localPath": "/images/book1/day-13-brcko-promenade.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Br%C4%8Dansko_%C5%A1etali%C5%A1te.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABr%C4%8Dansko_%C5%A1etali%C5%A1te.jpg",
       "author": "Vladanovski",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Brčansko šetalište.jpg. Vladanovski / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on photo: Brčansko šetalište.jpg. Vladanovski / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "brcko-mosque",
-      "alt": "The white mosque stands in Brčko.",
+      "alt": "Polygon painting of the white mosque in Brčko",
       "localPath": "/images/book1/day-13-brcko-mosque.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bijela_d%C5%BEamija_Br%C4%8Dko2.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABijela_d%C5%BEamija_Br%C4%8Dko2.jpg",
       "author": "Vrtleska225",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Bijela džamija Brčko2.jpg. Vrtleska225 / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on photo: Bijela džamija Brčko2.jpg. Vrtleska225 / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "brcko-city",
-      "alt": "Lights shine across Brčko at night.",
+      "alt": "Polygon painting of lights across Brčko at night",
       "localPath": "/images/book1/day-13-brcko-city.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Br%C4%8Dko_no%C4%87u.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABr%C4%8Dko_no%C4%87u.jpg",
       "author": "ChillZone420",
       "license": "CC BY-SA 3.0",
-      "credit": "Based on photo: Brčko noću.jpg. ChillZone420 / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Polygon painting based on photo: Brčko noću.jpg. ChillZone420 / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "civic-brcko-map",
-      "alt": "A map marks Brčko District within Bosnia and Herzegovina.",
+      "alt": "Polygon painting of a map marking Brčko District within Bosnia and Herzegovina",
       "localPath": "/images/book1/day-13-civic-brcko-map.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Brcko_District_in_Bosnia_and_Herzegovina.svg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABrcko_District_in_Bosnia_and_Herzegovina.svg",
       "author": "TUBS",
       "license": "CC BY-SA 3.0",
-      "credit": "Based on photo: Brcko District in Bosnia and Herzegovina.svg. TUBS / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Polygon painting based on photo: Brcko District in Bosnia and Herzegovina.svg. TUBS / Wikimedia Commons (CC BY-SA 3.0)"
     }
   ],
   "imagesNeeded": false,

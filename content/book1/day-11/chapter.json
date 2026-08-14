@@ -636,43 +636,43 @@
   "images": [
     {
       "id": "trebevic-cable",
-      "alt": "A cable car climbs Trebević above Sarajevo.",
+      "alt": "Polygon painting of a cable car climbing Trebević above Sarajevo",
       "localPath": "/images/book1/day-11-trebevic-cable.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Trebevi%C4%87_Cable_Car_in_Sarajevo_01.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATrebevi%C4%87_Cable_Car_in_Sarajevo_01.jpg",
       "author": "Adam Harangozó",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Trebević Cable Car in Sarajevo 01.jpg. Adam Harangozó / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on photo: Trebević Cable Car in Sarajevo 01.jpg. Adam Harangozó / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "trebevic-view",
-      "alt": "Sarajevo appears below the Trebević cable car.",
+      "alt": "Polygon painting of Sarajevo seen from the Trebević cable car",
       "localPath": "/images/book1/day-11-trebevic-view.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Sarajevo_from_the_cable_car.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_from_the_cable_car.jpg",
       "author": "MarinaSimic",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Sarajevo from the cable car.jpg. MarinaSimic / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on photo: Sarajevo from the cable car.jpg. MarinaSimic / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "jahorina",
-      "alt": "Jahorina mountain rises under a broad sky.",
+      "alt": "Polygon painting of Jahorina mountain under a broad sky",
       "localPath": "/images/book1/day-11-jahorina.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Jahorina_mountain_2018.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AJahorina_mountain_2018.jpg",
       "author": "EXIT Photo Team",
       "license": "CC BY-SA 3.0",
-      "credit": "Based on photo: Jahorina mountain 2018.jpg. EXIT Photo Team / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Polygon painting based on photo: Jahorina mountain 2018.jpg. EXIT Photo Team / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "civic-sarajevo-bowl",
-      "alt": "The Sarajevo basin lies between surrounding mountains.",
+      "alt": "Polygon painting of the Sarajevo basin between surrounding mountains",
       "localPath": "/images/book1/day-11-civic-sarajevo-bowl.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Sarajevo_%E2%80%93_Cable_Car_and_bypass.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_%E2%80%93_Cable_Car_and_bypass.jpg",
       "author": "Julian Nyča",
       "license": "CC BY-SA 3.0",
-      "credit": "Based on photo: Sarajevo – Cable Car and bypass.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Polygon painting based on photo: Sarajevo Cable Car and bypass.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
     }
   ],
   "imagesNeeded": false,
