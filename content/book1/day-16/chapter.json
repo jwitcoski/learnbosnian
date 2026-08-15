@@ -3,56 +3,753 @@
   "book": 1,
   "title": "Na autobus",
   "titleEn": "On the bus",
-  "theme": "Minibus toward the coast dream",
-  "status": "outlined",
+  "theme": "Bus tickets and coast dreams",
+  "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "",
+  "reviewerNotes": "This full draft is ready for human review before publication.",
   "estimatedMinutes": 60,
-  "storyBeat": "Bus tickets and coast dreams",
+  "storyBeat": "Ana and Emir buy bus tickets and dream of Jablanica lake views and Neum on the coast.",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 16: Transport, tickets, trebati"
+      "Buy a bus ticket with karta, stanica, and price phrases.",
+      "Name seat, window, driver, departure, and arrival words.",
+      "Talk about a coast trip toward Neum."
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Use Treba mi and trebaš as present need chunks.",
+      "Ask Koliko košta karta? and choose jednosmjerna or povratna.",
+      "Read odlazak and dolazak on a station board."
     ],
     "culture": [
-      "Minibus toward the coast dream"
+      "Start from the Sarajevo bus station toward lake and coast.",
+      "Picture Jablaničko Lake on the southbound road.",
+      "Notice how road corridors and entity borders affect travel."
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "autobus",
+      "english": "bus",
+      "pronunciation": "OW-toh-boos",
+      "partOfSpeech": "noun",
+      "example": "Autobus ide do Neuma."
+    },
+    {
+      "bosnian": "karta",
+      "english": "ticket",
+      "pronunciation": "KAR-ta",
+      "partOfSpeech": "noun",
+      "example": "Treba mi karta."
+    },
+    {
+      "bosnian": "stanica",
+      "english": "station",
+      "pronunciation": "STA-nee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Stanica je blizu."
+    },
+    {
+      "bosnian": "vozač",
+      "english": "driver",
+      "pronunciation": "VO-zach",
+      "partOfSpeech": "noun",
+      "example": "Vozač čeka putnike."
+    },
+    {
+      "bosnian": "sjedalo",
+      "english": "seat",
+      "pronunciation": "SYEH-da-lo",
+      "partOfSpeech": "noun",
+      "example": "Imam sjedalo uz prozor."
+    },
+    {
+      "bosnian": "prozor",
+      "english": "window",
+      "pronunciation": "PRO-zor",
+      "partOfSpeech": "noun",
+      "example": "Sjedalo uz prozor je lijepo."
+    },
+    {
+      "bosnian": "dolazak",
+      "english": "arrival",
+      "pronunciation": "DO-la-zak",
+      "partOfSpeech": "noun",
+      "example": "Dolazak je u pet sati."
+    },
+    {
+      "bosnian": "odlazak",
+      "english": "departure",
+      "pronunciation": "OD-la-zak",
+      "partOfSpeech": "noun",
+      "example": "Odlazak je uskoro."
+    },
+    {
+      "bosnian": "treba mi",
+      "english": "I need",
+      "pronunciation": "TREH-ba mee",
+      "partOfSpeech": "phrase",
+      "example": "Treba mi karta za Neum."
+    },
+    {
+      "bosnian": "trebaš",
+      "english": "you need",
+      "pronunciation": "TREH-bash",
+      "partOfSpeech": "verb form",
+      "example": "Trebaš kartu, molim."
+    },
+    {
+      "bosnian": "koliko košta",
+      "english": "how much does it cost",
+      "pronunciation": "KO-lee-ko KOSH-ta",
+      "partOfSpeech": "phrase",
+      "example": "Koliko košta karta?"
+    },
+    {
+      "bosnian": "jednosmjerna",
+      "english": "one-way",
+      "pronunciation": "YED-no-smyeh-rna",
+      "partOfSpeech": "adjective",
+      "example": "Jednosmjerna karta, molim."
+    },
+    {
+      "bosnian": "povratna",
+      "english": "return",
+      "pronunciation": "POV-rat-na",
+      "partOfSpeech": "adjective",
+      "example": "Povratna karta, molim."
+    },
+    {
+      "bosnian": "more",
+      "english": "sea",
+      "pronunciation": "MO-reh",
+      "partOfSpeech": "noun",
+      "example": "Želim more u Neumu."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Treba mi and trebaš",
+      "explanation": "Learn this as a phrase, not a table. Treba mi means I need and takes the thing you need right after it. Trebaš means you need when you speak to one familiar person. Keep the chunk together and stay in the present.",
+      "examples": [
+        {
+          "bosnian": "Treba mi karta.",
+          "english": "I need a ticket."
+        },
+        {
+          "bosnian": "Treba mi autobus.",
+          "english": "I need a bus."
+        },
+        {
+          "bosnian": "Trebaš kartu, molim.",
+          "english": "You need a ticket, please."
+        }
+      ]
+    },
+    {
+      "title": "Ticket questions at the counter",
+      "explanation": "Treat this as a ready chunk you can say today. Ask Koliko košta karta? for the price. Add jednosmjerna or povratna before karta to choose one-way or return. Finish with molim when you speak to the clerk.",
+      "examples": [
+        {
+          "bosnian": "Koliko košta karta?",
+          "english": "How much does the ticket cost?"
+        },
+        {
+          "bosnian": "Jednosmjerna karta, molim.",
+          "english": "A one-way ticket, please."
+        },
+        {
+          "bosnian": "Povratna karta, molim.",
+          "english": "A return ticket, please."
+        }
+      ]
+    },
+    {
+      "title": "Station timing chunks",
+      "explanation": "Say the whole line together; skip the full chart for now. Use odlazak for departure and dolazak for arrival. Pair each word with a clock time you already know. These present-tense lines help you read a board without learning a new tense.",
+      "examples": [
+        {
+          "bosnian": "Odlazak je uskoro.",
+          "english": "Departure is soon."
+        },
+        {
+          "bosnian": "Dolazak je u pet sati.",
+          "english": "Arrival is at five o'clock."
+        },
+        {
+          "bosnian": "Autobus ide do Neuma.",
+          "english": "The bus goes to Neum."
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "Minibus toward the coast dream",
-    "body": "Stub for Lesson 16. Full culture hook will be written on the draft night.",
-    "imageId": null
+    "title": "From the station toward lake and coast",
+    "body": "Sarajevo's main bus station sends coaches and minibuses toward lakes and the coast. Ana buys a ticket while Emir points to a postcard of Jablaničko Lake, the blue water that often appears on the road south. Their bigger dream is Neum, the short Adriatic stretch that gives Bosnia and Herzegovina a seaside town. From the window seat they imagine salt air after mountain tunnels and lake curves. Station boards list odlazak times while travelers clutch coffee and bags. A clear ticket phrase turns a coast dream into a real departure from the crowded hall. ",
+    "imageId": "sarajevo-bus-station"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A: Ticket counter phrases",
+      "body": "Start with autobus, karta, and stanica so the station feels familiar before the doors open. Add vozač, sjedalo, and prozor so the ride has concrete nouns you can point to. Practice Treba mi karta until the need chunk sounds automatic at a busy counter. Then ask Koliko košta karta? and choose jednosmjerna or povratna before you pay. Ana stands at the Sarajevo counter with Emir and imagines the lake stop near Jablanica. The coast dream needs a ticket first, not a full travel grammar chart for every case. Say each counter line twice, then point to the board and name odlazak or dolazak in a full sentence. ",
+      "tips": [
+        "Keep Treba mi and the noun together as one chunk.",
+        "Add molim when you speak to the ticket clerk.",
+        "Choose jednosmjerna or povratna before you pay."
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B: Board and dream of Neum",
+      "body": "Move from the counter to the seat once the ticket is in your hand. Say Imam sjedalo uz prozor when you claim a window and want the lake view later. Reuse Molim and Hvala with the clerk, then tell a friend Trebaš kartu before the doors close. Ana wants Neum, Emir wants the lake view, and Mrvica stays home with Amira for the day. Keep every sentence in the present so you can buy and board today without past or future charts. Practice a short chain aloud: need, price, ticket type, seat, thank you, and one calm boarding sentence. Repeat the chain until boarding feels easy. ",
+      "tips": [
+        "Reuse Hvala after you receive the ticket.",
+        "Practice sjedalo uz prozor before you sit.",
+        "Stay in present tense even when you talk about the coast dream."
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Karta za more",
+    "setting": "Ana and Emir stand at the Sarajevo bus station ticket counter.",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "bosnian": "Treba mi karta za Neum, molim.",
+        "english": "I need a ticket to Neum, please."
+      },
+      {
+        "speaker": "Clerk",
+        "bosnian": "Jednosmjerna ili povratna?",
+        "english": "One-way or return?"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Povratna, molim. Koliko košta karta?",
+        "english": "Return, please. How much does the ticket cost?"
+      },
+      {
+        "speaker": "Clerk",
+        "bosnian": "Evo karte. Odlazak je uskoro.",
+        "english": "Here is the ticket. Departure is soon."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Hvala! Imam sjedalo uz prozor?",
+        "english": "Thank you! Do I have a window seat?"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Da. Želim vidjeti Jablanicu i more.",
+        "english": "Yes. I want to see Jablanica and the sea."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Hajde da idemo na autobus.",
+        "english": "Let us go to the bus."
+      },
+      {
+        "speaker": "Narrator",
+        "bosnian": "Mrvica spava kod Amire, daleko od autobusa.",
+        "english": "Mrvica sleeps at Amira's, far from the bus."
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match travel words",
+      "prompt": "Match each Bosnian travel word with its English meaning.",
+      "items": [
+        {
+          "left": "karta",
+          "right": "ticket"
+        },
+        {
+          "left": "stanica",
+          "right": "station"
+        },
+        {
+          "left": "odlazak",
+          "right": "departure"
+        },
+        {
+          "left": "dolazak",
+          "right": "arrival"
+        },
+        {
+          "left": "more",
+          "right": "sea"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "truefalse",
+      "title": "True or false on the bus",
+      "prompt": "Decide whether each sentence matches the lesson.",
+      "items": [
+        {
+          "statement": "Treba mi karta means I need a ticket.",
+          "answer": true
+        },
+        {
+          "statement": "Jednosmjerna means a return ticket.",
+          "answer": false
+        },
+        {
+          "statement": "Neum is on the Adriatic coast.",
+          "answer": true
+        },
+        {
+          "statement": "Odlazak means arrival.",
+          "answer": false
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Write the Bosnian chunk for I need a ticket.",
+      "hint": "Begin with Treba mi.",
+      "answer": "Treba mi karta."
+    },
+    {
+      "id": "pr2",
+      "prompt": "Write the polite price question for a ticket.",
+      "hint": "Begin with Koliko.",
+      "answer": "Koliko košta karta?"
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write the Bosnian for A return ticket, please.",
+      "hint": "Use povratna and molim.",
+      "answer": "Povratna karta, molim."
+    },
+    {
+      "id": "pr4",
+      "prompt": "Write the Bosnian for Departure is soon.",
+      "hint": "Use odlazak.",
+      "answer": "Odlazak je uskoro."
+    },
+    {
+      "id": "pr5",
+      "prompt": "Write the Bosnian for I have a window seat.",
+      "hint": "Use sjedalo and prozor.",
+      "answer": "Imam sjedalo uz prozor."
+    },
+    {
+      "id": "pr6",
+      "prompt": "Write the Bosnian word for bus.",
+      "hint": "It begins with auto.",
+      "answer": "autobus"
+    },
+    {
+      "id": "pr7",
+      "prompt": "Write the Bosnian word for station.",
+      "hint": "It begins with sta.",
+      "answer": "stanica"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "Neum is the short coast",
+      "body": "Neum is the Adriatic town that gives Bosnia and Herzegovina a coastline. The stretch is short compared with neighboring countries, yet it still offers beaches and seafood. Travelers often reach it by road from inland cities. The coast dream in this lesson is therefore a real destination, not only a postcard fantasy."
+    },
+    {
+      "title": "Jablanica sits on the lake road",
+      "body": "Jablaničko Lake appears on many southbound routes from Sarajevo. The water sits in a mountain corridor and often becomes a rest stop in travelers' stories. Emir's postcard keeps the lake visible while Ana buys tickets. The stop reminds learners that the coast journey includes inland beauty."
+    },
+    {
+      "title": "Treba mi is a survival chunk",
+      "body": "Treba mi plus a noun is one of the fastest ways to name a need at a counter. You do not need a full conjugation chart to buy a ticket. Pair the chunk with molim and you sound ready for a clerk. Present-tense survival phrases keep Book 1 practical."
+    },
+    {
+      "title": "Window seats teach prozor",
+      "body": "Sjedalo uz prozor turns furniture words into travel comfort. Learners already know short location phrases, and the window seat makes them memorable. Ana chooses the view toward lake and coast. The ride becomes vocabulary practice with a real landscape."
+    }
+  ],
   "resources": [
     {
-      "label": "How to speak Bosnian (YouTube)",
+      "label": "Learn Bosnian: Telling Time",
+      "url": "https://www.youtube.com/watch?v=0xiYbtHQaDc",
+      "note": "Clock phrases help you read departure boards at the station."
+    },
+    {
+      "label": "Next lesson",
+      "url": "/learn/lesson/17",
+      "note": "Lesson 17 takes Ana and Emir into a restaurant debate."
+    },
+    {
+      "label": "How to speak Bosnian channel",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "note": "Browse more speaker models after you finish the lesson."
     }
   ],
   "sectionQuiz": {
     "title": "Lesson 16 section quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does karta mean at the station?",
+        "options": [
+          "Ticket",
+          "Driver",
+          "Window",
+          "Lake"
+        ],
+        "correctIndex": 0,
+        "explanation": "Karta means ticket in this travel context.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q2",
+        "question": "Which chunk means I need a ticket?",
+        "options": [
+          "Koliko košta karta?",
+          "Treba mi karta.",
+          "Odlazak je uskoro.",
+          "Imam sjedalo."
+        ],
+        "correctIndex": 1,
+        "explanation": "Treba mi karta means I need a ticket.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q3",
+        "question": "Which word means departure?",
+        "options": [
+          "dolazak",
+          "stanica",
+          "odlazak",
+          "sjedalo"
+        ],
+        "correctIndex": 2,
+        "explanation": "Odlazak means departure.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q4",
+        "question": "Which ticket is a return ticket?",
+        "options": [
+          "jednosmjerna",
+          "povratna",
+          "prozor",
+          "vozač"
+        ],
+        "correctIndex": 1,
+        "explanation": "Povratna means return.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q5",
+        "question": "What coast town do Ana and Emir dream about?",
+        "options": [
+          "Neum",
+          "Brčko",
+          "Zenica",
+          "Livno"
+        ],
+        "correctIndex": 0,
+        "explanation": "They dream about Neum on the Adriatic coast.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q6",
+        "question": "How do you politely ask the price?",
+        "options": [
+          "Trebaš kartu.",
+          "Autobus ide.",
+          "Koliko košta karta?",
+          "Dolazak je u pet sati."
+        ],
+        "correctIndex": 2,
+        "explanation": "Koliko košta karta? asks the price.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q7",
+        "question": "Which lake appears on the route postcard?",
+        "options": [
+          "Jablaničko Lake",
+          "Una only",
+          "Pliva only",
+          "The Adriatic itself"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jablaničko Lake appears on Emir's postcard.",
+        "skill": "culture"
+      },
+      {
+        "id": "q8",
+        "question": "Why can bus travel feel complicated across the country?",
+        "options": [
+          "Only one road exists.",
+          "Entity and corridor planning can fragment routes.",
+          "Tickets are free.",
+          "Buses never leave Sarajevo."
+        ],
+        "correctIndex": 1,
+        "explanation": "Entity borders and unfinished corridors create travel friction.",
+        "skill": "culture"
+      },
+      {
+        "id": "q9",
+        "question": "Which sentence claims a window seat?",
+        "options": [
+          "Imam sjedalo uz prozor.",
+          "Treba mi more.",
+          "Vozač čeka.",
+          "Stanica je daleko."
+        ],
+        "correctIndex": 0,
+        "explanation": "Imam sjedalo uz prozor claims a window seat.",
+        "skill": "listening"
+      }
+    ]
   },
-  "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to: Minibus toward the coast dream"
+  "dictionaryEntries": [
+    {
+      "day": 16,
+      "bosnian": "autobus",
+      "english": "bus",
+      "pronunciation": "OW-toh-boos",
+      "partOfSpeech": "noun",
+      "example": "Autobus ide do Neuma."
+    },
+    {
+      "day": 16,
+      "bosnian": "karta",
+      "english": "ticket",
+      "pronunciation": "KAR-ta",
+      "partOfSpeech": "noun",
+      "example": "Treba mi karta."
+    },
+    {
+      "day": 16,
+      "bosnian": "stanica",
+      "english": "station",
+      "pronunciation": "STA-nee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Stanica je blizu."
+    },
+    {
+      "day": 16,
+      "bosnian": "vozač",
+      "english": "driver",
+      "pronunciation": "VO-zach",
+      "partOfSpeech": "noun",
+      "example": "Vozač čeka putnike."
+    },
+    {
+      "day": 16,
+      "bosnian": "sjedalo",
+      "english": "seat",
+      "pronunciation": "SYEH-da-lo",
+      "partOfSpeech": "noun",
+      "example": "Imam sjedalo uz prozor."
+    },
+    {
+      "day": 16,
+      "bosnian": "prozor",
+      "english": "window",
+      "pronunciation": "PRO-zor",
+      "partOfSpeech": "noun",
+      "example": "Sjedalo uz prozor je lijepo."
+    },
+    {
+      "day": 16,
+      "bosnian": "dolazak",
+      "english": "arrival",
+      "pronunciation": "DO-la-zak",
+      "partOfSpeech": "noun",
+      "example": "Dolazak je u pet sati."
+    },
+    {
+      "day": 16,
+      "bosnian": "odlazak",
+      "english": "departure",
+      "pronunciation": "OD-la-zak",
+      "partOfSpeech": "noun",
+      "example": "Odlazak je uskoro."
+    },
+    {
+      "day": 16,
+      "bosnian": "treba mi",
+      "english": "I need",
+      "pronunciation": "TREH-ba mee",
+      "partOfSpeech": "phrase",
+      "example": "Treba mi karta za Neum."
+    },
+    {
+      "day": 16,
+      "bosnian": "trebaš",
+      "english": "you need",
+      "pronunciation": "TREH-bash",
+      "partOfSpeech": "verb form",
+      "example": "Trebaš kartu, molim."
+    },
+    {
+      "day": 16,
+      "bosnian": "koliko košta",
+      "english": "how much does it cost",
+      "pronunciation": "KO-lee-ko KOSH-ta",
+      "partOfSpeech": "phrase",
+      "example": "Koliko košta karta?"
+    },
+    {
+      "day": 16,
+      "bosnian": "jednosmjerna",
+      "english": "one-way",
+      "pronunciation": "YED-no-smyeh-rna",
+      "partOfSpeech": "adjective",
+      "example": "Jednosmjerna karta, molim."
+    },
+    {
+      "day": 16,
+      "bosnian": "povratna",
+      "english": "return",
+      "pronunciation": "POV-rat-na",
+      "partOfSpeech": "adjective",
+      "example": "Povratna karta, molim."
+    },
+    {
+      "day": 16,
+      "bosnian": "more",
+      "english": "sea",
+      "pronunciation": "MO-reh",
+      "partOfSpeech": "noun",
+      "example": "Želim more u Neumu."
+    }
   ],
-  "section": 3
+  "images": [
+    {
+      "id": "sarajevo-bus-station",
+      "alt": "Coaches wait outside the Sarajevo bus station.",
+      "localPath": "/images/book1/day-16-sarajevo-bus-station.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Sarajevo_bus_station_2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_bus_station_2.jpg",
+      "author": "Vano111ru",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Sarajevo bus station 2.jpg. Vano111ru / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "jablanica-lake",
+      "alt": "Blue water fills Jablaničko Lake among the hills.",
+      "localPath": "/images/book1/day-16-jablanica-lake.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jablani%C4%8Dko_jezero_1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AJablani%C4%8Dko_jezero_1.jpg",
+      "author": "Julian Nyča",
+      "license": "CC BY-SA 3.0",
+      "credit": "Based on photo: Jablaničko jezero 1.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
+    },
+    {
+      "id": "neum-coast",
+      "alt": "A beach curves along the Adriatic at Neum.",
+      "localPath": "/images/book1/day-16-neum-coast.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Zenit_Beach_in_Neum%2C_2024_1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AZenit_Beach_in_Neum%2C_2024_1.jpg",
+      "author": "Bdx",
+      "license": "CC0",
+      "credit": "Based on photo: Zenit Beach in Neum, 2024 1.jpg. Bdx / Wikimedia Commons (CC0)"
+    },
+    {
+      "id": "civic-a1-corridor",
+      "alt": "A motorway corridor cuts through hills in Bosnia and Herzegovina.",
+      "localPath": "/images/book1/day-16-civic-a1-corridor.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/BiH_Autoput_A1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABiH_Autoput_A1.jpg",
+      "author": "Bushido",
+      "license": "Public domain",
+      "credit": "Based on photo: BiH Autoput A1.jpg. Bushido / Wikimedia Commons (Public domain)"
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [],
+  "civicContext": {
+    "title": "Fragmented roads and coast access",
+    "body": "Road travel across Bosnia and Herzegovina still crosses entity and canton boundaries that shape daily movement. Corridor A1 and related motorway projects aim to connect the coast with inland cities, yet unfinished segments and entity-level planning create friction for drivers and coaches. A ticket to Neum can mean changing roads, signs, and even the feel of administration along the way. Learners who travel by bus notice that geography and governance sit on the same map. Better corridors reduce isolation, but fragmented responsibility remains a structural travel pressure.",
+    "imageId": "civic-a1-corridor",
+    "learnMore": {
+      "label": "Wikipedia article about A1 motorway in Bosnia and Herzegovina",
+      "url": "https://en.wikipedia.org/wiki/A1_(Bosnia_and_Herzegovina)"
+    }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu with clock phrases for departures",
+    "kind": "speaker",
+    "hook": "A teacher models time phrases you can reuse when a bus board lists the hour.",
+    "source": {
+      "title": "Learn Bosnian: Telling Time (Sati i Minuti)",
+      "artistOrSpeaker": "Lingo Hero",
+      "regionOrScene": "Clock and schedule language",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "Lingo Hero on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=0xiYbtHQaDc",
+      "embedUrl": "https://www.youtube.com/watch?v=0xiYbtHQaDc"
+    },
+    "durationHint": "45-90 seconds",
+    "listenTask": {
+      "prompt": "Listen for a time phrase you could place beside odlazak or dolazak.",
+      "gistQuestion": {
+        "prompt": "What is the speaker mainly teaching?",
+        "options": [
+          "Telling time and clock language",
+          "Football rules",
+          "Holiday greetings",
+          "Phone emergencies"
+        ],
+        "correctIndex": 0
+      },
+      "targetWords": [
+        "sati",
+        "koliko"
+      ],
+      "noticePrompt": "You do not need every number. Catch the question shape for time."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Koliko je sati?",
+          "english": "What time is it?"
+        },
+        {
+          "bosnian": "Odlazak je uskoro.",
+          "english": "Departure is soon."
+        }
+      ],
+      "teacherNote": "After the clip, say one departure sentence with a time you know."
+    }
+  },
+  "speakTargets": [
+    0,
+    2,
+    4
+  ],
+  "section": 3,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Kakvo je vrijeme?",
+        "english": "How is the weather?"
+      },
+      {
+        "bosnian": "Idite pravo, molim vas.",
+        "english": "Go straight, please."
+      },
+      {
+        "bosnian": "Hajde da idemo.",
+        "english": "Let us go."
+      },
+      {
+        "bosnian": "Hvala!",
+        "english": "Thank you!"
+      }
+    ]
+  }
 }

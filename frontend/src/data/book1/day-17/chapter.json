@@ -3,56 +3,751 @@
   "book": 1,
   "title": "Dobar tek!",
   "titleEn": "Enjoy your meal!",
-  "theme": "Klepe vs japrak debate",
-  "status": "outlined",
+  "theme": "Restaurant debate over klepe and japrak",
+  "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "",
+  "reviewerNotes": "This full draft is ready for human review before publication.",
   "estimatedMinutes": 60,
-  "storyBeat": "Restaurant debate",
+  "storyBeat": "Ana and Emir debate klepe versus japrak at a Sarajevo restaurant.",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 17: Restaurant dialogue, htjeti"
+      "Order klepe or japrak from a restaurant menu.",
+      "Use waiter, bill, and meal-wish words at the table.",
+      "Describe food as ukusan or ukusna."
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Use hoću, hoćeš, and hoćemo as present wanting chunks.",
+      "Order with molim and ask for račun politely.",
+      "Say Dobar tek when the food arrives."
     ],
     "culture": [
-      "Klepe vs japrak debate"
+      "Compare klepe and japrak as beloved Bosnian dishes.",
+      "Keep Visoko on the wider food map with a postcard.",
+      "Notice hospitality as part of everyday recovery."
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "restoran",
+      "english": "restaurant",
+      "pronunciation": "reh-sto-RAN",
+      "partOfSpeech": "noun",
+      "example": "Idemo u restoran."
+    },
+    {
+      "bosnian": "jelovnik",
+      "english": "menu",
+      "pronunciation": "yeh-LOV-neek",
+      "partOfSpeech": "noun",
+      "example": "Jelovnik je na stolu."
+    },
+    {
+      "bosnian": "konobar",
+      "english": "waiter",
+      "pronunciation": "ko-NO-bar",
+      "partOfSpeech": "noun",
+      "example": "Konobar dolazi."
+    },
+    {
+      "bosnian": "klepe",
+      "english": "Bosnian dumplings",
+      "pronunciation": "KLEH-peh",
+      "partOfSpeech": "noun",
+      "example": "Hoću klepe."
+    },
+    {
+      "bosnian": "japrak",
+      "english": "stuffed vine leaves",
+      "pronunciation": "YAH-prak",
+      "partOfSpeech": "noun",
+      "example": "Hoću japrak."
+    },
+    {
+      "bosnian": "narudžba",
+      "english": "order",
+      "pronunciation": "nah-ROOJ-ba",
+      "partOfSpeech": "noun",
+      "example": "Narudžba je gotova."
+    },
+    {
+      "bosnian": "račun",
+      "english": "bill",
+      "pronunciation": "RAH-choon",
+      "partOfSpeech": "noun",
+      "example": "Račun, molim."
+    },
+    {
+      "bosnian": "hoću",
+      "english": "I want",
+      "pronunciation": "HO-choo",
+      "partOfSpeech": "verb form",
+      "example": "Hoću klepe, molim."
+    },
+    {
+      "bosnian": "hoćeš",
+      "english": "you want",
+      "pronunciation": "HO-chesh",
+      "partOfSpeech": "verb form",
+      "example": "Hoćeš li japrak?"
+    },
+    {
+      "bosnian": "hoćemo",
+      "english": "we want",
+      "pronunciation": "HO-cheh-mo",
+      "partOfSpeech": "verb form",
+      "example": "Hoćemo jesti."
+    },
+    {
+      "bosnian": "ukusan",
+      "english": "tasty (m.)",
+      "pronunciation": "OO-koo-san",
+      "partOfSpeech": "adjective",
+      "example": "Japrak je ukusan."
+    },
+    {
+      "bosnian": "ukusna",
+      "english": "tasty (f.)",
+      "pronunciation": "OO-koos-na",
+      "partOfSpeech": "adjective",
+      "example": "Juha je ukusna."
+    },
+    {
+      "bosnian": "dobar tek",
+      "english": "enjoy your meal",
+      "pronunciation": "DO-bar tek",
+      "partOfSpeech": "phrase",
+      "example": "Dobar tek!"
+    },
+    {
+      "bosnian": "još",
+      "english": "more or another",
+      "pronunciation": "yosh",
+      "partOfSpeech": "adverb",
+      "example": "Još hlijeba, molim."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Hoću, hoćeš, hoćemo",
+      "explanation": "Hold this as a spoken pattern, not a grammar grid. Hoću means I want, hoćeš asks or states what you want, and hoćemo covers we want. Keep these present forms as restaurant chunks. Do not expand into past or future paradigms yet.",
+      "examples": [
+        {
+          "bosnian": "Hoću klepe.",
+          "english": "I want klepe."
+        },
+        {
+          "bosnian": "Hoćeš li japrak?",
+          "english": "Do you want japrak?"
+        },
+        {
+          "bosnian": "Hoćemo jesti.",
+          "english": "We want to eat."
+        }
+      ]
+    },
+    {
+      "title": "Ordering with molim and račun",
+      "explanation": "Learn the usable chunk first; full tables can wait. Place the food word first, then molim. When you finish, say Račun, molim for the bill. Politeness keeps a public restaurant scene smooth.",
+      "examples": [
+        {
+          "bosnian": "Klepe, molim.",
+          "english": "Klepe, please."
+        },
+        {
+          "bosnian": "Japrak, molim.",
+          "english": "Japrak, please."
+        },
+        {
+          "bosnian": "Račun, molim.",
+          "english": "The bill, please."
+        }
+      ]
+    },
+    {
+      "title": "Dobar tek at the table",
+      "explanation": "Keep this as a sayable line rather than a paradigm list. Dobar tek wishes someone an enjoyable meal. Say it when food arrives, then answer with Hvala. The phrase works among friends and with restaurant staff.",
+      "examples": [
+        {
+          "bosnian": "Dobar tek!",
+          "english": "Enjoy your meal!"
+        },
+        {
+          "bosnian": "Dobar tek, Ana!",
+          "english": "Enjoy your meal, Ana!"
+        },
+        {
+          "bosnian": "Hvala, dobar tek!",
+          "english": "Thanks, enjoy your meal!"
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "Klepe vs japrak debate",
-    "body": "Stub for Lesson 17. Full culture hook will be written on the draft night.",
-    "imageId": null
+    "title": "Klepe, japrak, and a full table",
+    "body": "Sarajevo restaurants still argue gently about favorite trays when friends share a table. Klepe are soft dumplings often served with sauce and garlic yogurt energy on a busy night. Japrak wraps rice and meat in vine leaves and arrives as neat rolls that invite a slow bite. Ana and Emir open a jelovnik and turn the debate into practice with hoću and hoćeš. A Visoko postcard on the table reminds them that food stories travel beyond one city street. Saying Dobar tek seals the meal as a shared social moment before anyone reaches for the bill. ",
+    "imageId": "klepe-sarajevo"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A: Wanting food with htjeti chunks",
+      "body": "Learn restoran, jelovnik, konobar, klepe, and japrak first so the room has clear names. Then lock the present chunks Hoću, Hoćeš li, and Hoćemo as ready wanting lines. Ana wants klepe. Emir wants japrak. Their friendly disagreement is the lesson engine. Point at the menu and say the food word with molim instead of inventing long sentences. Stay in the present so the order is ready for a real waiter tonight without extra paradigms. Repeat each dish name twice, then switch roles so both of you can ask and answer with hoćeš. Keep the wanting chunks short and reusable at the table. ",
+      "tips": [
+        "Say Hoću plus the dish as one ready line.",
+        "Use Hoćeš li for a friendly question.",
+        "Keep htjeti in the present only."
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B: From order to račun",
+      "body": "Build the full table flow from greeting to goodbye in short present lines. Greet, order with hoću, wish Dobar tek, ask for još if you need bread, then call for račun. Reuse Hvala after every helpful move from the konobar so politeness stays audible. Amira may appear with an opinion, and Mrvica watches for crumbs under the table as always. The Visoko postcard keeps the meal tied to a wider map of Bosnian kitchens beyond Sarajevo. Practice the debate until both dishes feel easy to pronounce and easy to defend with a smile. End by asking for the bill with a calm polite voice. ",
+      "tips": [
+        "Add molim to every order and to Račun, molim.",
+        "Answer Dobar tek with Hvala.",
+        "Name both dishes so the debate stays balanced."
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Klepe ili japrak?",
+    "setting": "Ana and Emir sit in a busy Sarajevo restaurant with a Visoko postcard on the table.",
+    "lines": [
+      {
+        "speaker": "Konobar",
+        "bosnian": "Izvolite. Jelovnik je tu.",
+        "english": "Here you are. The menu is here."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Hoću klepe, molim.",
+        "english": "I want klepe, please."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "A ja hoću japrak, molim.",
+        "english": "And I want japrak, please."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Hoćeš li probati klepe?",
+        "english": "Do you want to try klepe?"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Možda. Japrak je ukusan!",
+        "english": "Maybe. Japrak is tasty!"
+      },
+      {
+        "speaker": "Konobar",
+        "bosnian": "Dobar tek!",
+        "english": "Enjoy your meal!"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Hvala! Račun, molim, poslije.",
+        "english": "Thank you! The bill, please, afterward."
+      },
+      {
+        "speaker": "Narrator",
+        "bosnian": "Mrvica čeka mrvice pod stolom.",
+        "english": "Mrvica waits for crumbs under the table."
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match restaurant words",
+      "prompt": "Match each Bosnian restaurant word with its English meaning.",
+      "items": [
+        {
+          "left": "jelovnik",
+          "right": "menu"
+        },
+        {
+          "left": "konobar",
+          "right": "waiter"
+        },
+        {
+          "left": "račun",
+          "right": "bill"
+        },
+        {
+          "left": "klepe",
+          "right": "dumplings"
+        },
+        {
+          "left": "japrak",
+          "right": "stuffed vine leaves"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "scramble",
+      "title": "Unscramble the order",
+      "prompt": "Unscramble to make today's polite restaurant phrases.",
+      "items": [
+        {
+          "scrambled": "klepe Hoću molim",
+          "answer": "hoću klepe molim"
+        },
+        {
+          "scrambled": "molim Račun",
+          "answer": "račun molim"
+        },
+        {
+          "scrambled": "tek Dobar",
+          "answer": "dobar tek"
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Write I want klepe, please. in Bosnian.",
+      "hint": "Begin with Hoću.",
+      "answer": "Hoću klepe, molim."
+    },
+    {
+      "id": "pr2",
+      "prompt": "Write Do you want japrak? in Bosnian.",
+      "hint": "Begin with Hoćeš li.",
+      "answer": "Hoćeš li japrak?"
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write The bill, please. in Bosnian.",
+      "hint": "Use račun.",
+      "answer": "Račun, molim."
+    },
+    {
+      "id": "pr4",
+      "prompt": "Write Enjoy your meal! in Bosnian.",
+      "hint": "Two words.",
+      "answer": "Dobar tek!"
+    },
+    {
+      "id": "pr5",
+      "prompt": "Write We want to eat. in Bosnian.",
+      "hint": "Use hoćemo.",
+      "answer": "Hoćemo jesti."
+    },
+    {
+      "id": "pr6",
+      "prompt": "Write the Bosnian word for menu.",
+      "hint": "It begins with jel.",
+      "answer": "jelovnik"
+    },
+    {
+      "id": "pr7",
+      "prompt": "Write the Bosnian word for waiter.",
+      "hint": "It begins with kon.",
+      "answer": "konobar"
+    },
+    {
+      "id": "pr8",
+      "prompt": "Write Japrak is tasty. in Bosnian (masculine form).",
+      "hint": "Use ukusan.",
+      "answer": "Japrak je ukusan."
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "Klepe invite sauce and garlic",
+      "body": "Klepe are boiled dumplings that often arrive with a savory sauce. Many diners add garlic yogurt flavor at the table. The dish feels homey even in a busy restaurant. Ana's order makes the soft dumpling a speaking target."
+    },
+    {
+      "title": "Japrak wraps the vine leaf",
+      "body": "Japrak uses vine leaves around a rice and meat filling. The rolls cook slowly and taste bright with lemon or sauce. Emir defends japrak as the wiser tray. The debate keeps both food names active."
+    },
+    {
+      "title": "Visoko sits on the food map",
+      "body": "A postcard from Visoko reminds diners that Bosnian kitchens are not only Sarajevo scenes. Towns across the country share related stuffed and dough dishes with local twists. The card widens the meal without leaving the table. Geography becomes part of the restaurant chat."
+    }
+  ],
   "resources": [
     {
-      "label": "How to speak Bosnian (YouTube)",
+      "label": "Bosnian Coffee with local guides",
+      "url": "https://www.youtube.com/watch?v=wFGbkVzNCFU",
+      "note": "Café hospitality speech supports restaurant listening."
+    },
+    {
+      "label": "Next lesson",
+      "url": "/learn/lesson/18",
+      "note": "Lesson 18 moves into sports and hobbies."
+    },
+    {
+      "label": "How to speak Bosnian channel",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "note": "Find more everyday speaker models on the channel."
     }
   ],
   "sectionQuiz": {
     "title": "Lesson 17 section quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does jelovnik mean?",
+        "options": [
+          "Menu",
+          "Bill",
+          "Waiter",
+          "Dumpling"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jelovnik means menu.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q2",
+        "question": "Which form means I want?",
+        "options": [
+          "hoćeš",
+          "hoću",
+          "hoćemo",
+          "račun"
+        ],
+        "correctIndex": 1,
+        "explanation": "Hoću means I want.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q3",
+        "question": "Which dish uses vine leaves?",
+        "options": [
+          "klepe",
+          "burek",
+          "japrak",
+          "jogurt"
+        ],
+        "correctIndex": 2,
+        "explanation": "Japrak uses vine leaves.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q4",
+        "question": "How do you ask for the bill?",
+        "options": [
+          "Dobar tek!",
+          "Hoćemo jesti.",
+          "Još hlijeba.",
+          "Račun, molim."
+        ],
+        "correctIndex": 3,
+        "explanation": "Račun, molim asks for the bill.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q5",
+        "question": "What do Ana and Emir debate?",
+        "options": [
+          "Klepe versus japrak",
+          "Bus versus tram",
+          "Snow versus rain",
+          "Left versus right"
+        ],
+        "correctIndex": 0,
+        "explanation": "They debate klepe versus japrak.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q6",
+        "question": "What does Dobar tek mean?",
+        "options": [
+          "Where is the station?",
+          "Enjoy your meal!",
+          "I need a ticket.",
+          "Who is calling?"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dobar tek means enjoy your meal.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q7",
+        "question": "Which town appears on the postcard?",
+        "options": [
+          "Visoko",
+          "Neum",
+          "Zenica",
+          "Brčko"
+        ],
+        "correctIndex": 0,
+        "explanation": "Visoko appears on the postcard.",
+        "skill": "culture"
+      },
+      {
+        "id": "q8",
+        "question": "Why do restaurants matter beyond the plate?",
+        "options": [
+          "They erase all travel rules.",
+          "They support jobs and public hospitality.",
+          "They replace schools.",
+          "They ban tourist menus."
+        ],
+        "correctIndex": 1,
+        "explanation": "Food service supports jobs and hospitality in recovery.",
+        "skill": "culture"
+      },
+      {
+        "id": "q9",
+        "question": "Which sentence orders klepe politely?",
+        "options": [
+          "Hoću klepe, molim.",
+          "Klepe je račun.",
+          "Hoćeš li stanica?",
+          "Dobar tek je jelovnik."
+        ],
+        "correctIndex": 0,
+        "explanation": "Hoću klepe, molim is a polite order.",
+        "skill": "listening"
+      }
+    ]
   },
-  "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to: Klepe vs japrak debate"
+  "dictionaryEntries": [
+    {
+      "day": 17,
+      "bosnian": "restoran",
+      "english": "restaurant",
+      "pronunciation": "reh-sto-RAN",
+      "partOfSpeech": "noun",
+      "example": "Idemo u restoran."
+    },
+    {
+      "day": 17,
+      "bosnian": "jelovnik",
+      "english": "menu",
+      "pronunciation": "yeh-LOV-neek",
+      "partOfSpeech": "noun",
+      "example": "Jelovnik je na stolu."
+    },
+    {
+      "day": 17,
+      "bosnian": "konobar",
+      "english": "waiter",
+      "pronunciation": "ko-NO-bar",
+      "partOfSpeech": "noun",
+      "example": "Konobar dolazi."
+    },
+    {
+      "day": 17,
+      "bosnian": "klepe",
+      "english": "Bosnian dumplings",
+      "pronunciation": "KLEH-peh",
+      "partOfSpeech": "noun",
+      "example": "Hoću klepe."
+    },
+    {
+      "day": 17,
+      "bosnian": "japrak",
+      "english": "stuffed vine leaves",
+      "pronunciation": "YAH-prak",
+      "partOfSpeech": "noun",
+      "example": "Hoću japrak."
+    },
+    {
+      "day": 17,
+      "bosnian": "narudžba",
+      "english": "order",
+      "pronunciation": "nah-ROOJ-ba",
+      "partOfSpeech": "noun",
+      "example": "Narudžba je gotova."
+    },
+    {
+      "day": 17,
+      "bosnian": "račun",
+      "english": "bill",
+      "pronunciation": "RAH-choon",
+      "partOfSpeech": "noun",
+      "example": "Račun, molim."
+    },
+    {
+      "day": 17,
+      "bosnian": "hoću",
+      "english": "I want",
+      "pronunciation": "HO-choo",
+      "partOfSpeech": "verb form",
+      "example": "Hoću klepe, molim."
+    },
+    {
+      "day": 17,
+      "bosnian": "hoćeš",
+      "english": "you want",
+      "pronunciation": "HO-chesh",
+      "partOfSpeech": "verb form",
+      "example": "Hoćeš li japrak?"
+    },
+    {
+      "day": 17,
+      "bosnian": "hoćemo",
+      "english": "we want",
+      "pronunciation": "HO-cheh-mo",
+      "partOfSpeech": "verb form",
+      "example": "Hoćemo jesti."
+    },
+    {
+      "day": 17,
+      "bosnian": "ukusan",
+      "english": "tasty (m.)",
+      "pronunciation": "OO-koo-san",
+      "partOfSpeech": "adjective",
+      "example": "Japrak je ukusan."
+    },
+    {
+      "day": 17,
+      "bosnian": "ukusna",
+      "english": "tasty (f.)",
+      "pronunciation": "OO-koos-na",
+      "partOfSpeech": "adjective",
+      "example": "Juha je ukusna."
+    },
+    {
+      "day": 17,
+      "bosnian": "dobar tek",
+      "english": "enjoy your meal",
+      "pronunciation": "DO-bar tek",
+      "partOfSpeech": "phrase",
+      "example": "Dobar tek!"
+    },
+    {
+      "day": 17,
+      "bosnian": "još",
+      "english": "more or another",
+      "pronunciation": "yosh",
+      "partOfSpeech": "adverb",
+      "example": "Još hlijeba, molim."
+    }
   ],
-  "section": 3
+  "images": [
+    {
+      "id": "klepe-sarajevo",
+      "alt": "A plate of klepe is served in Sarajevo.",
+      "localPath": "/images/book1/day-17-klepe-sarajevo.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Klepe_Sarajevo_Bosnia_%2810675888145%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKlepe_Sarajevo_Bosnia_%2810675888145%29.jpg",
+      "author": "amanderson2",
+      "license": "CC BY 2.0",
+      "credit": "Based on photo: Klepe Sarajevo Bosnia (10675888145).jpg. amanderson2 / Wikimedia Commons (CC BY 2.0)"
+    },
+    {
+      "id": "japrak-dish",
+      "alt": "Stuffed vine leaves are arranged as japrak.",
+      "localPath": "/images/book1/day-17-japrak-dish.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Japrak_1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AJaprak_1.jpg",
+      "author": "Tizilohja25",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Japrak 1.jpg. Tizilohja25 / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "visoko-postcard",
+      "alt": "Visoko spreads across hills below a wide sky.",
+      "localPath": "/images/book1/day-17-visoko-postcard.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Visoko.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVisoko.jpg",
+      "author": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "credit": "Based on photo: Visoko.jpg. Wikimedia Commons / Wikimedia Commons (CC BY-SA 3.0)"
+    },
+    {
+      "id": "civic-food-economy",
+      "alt": "A generous plate of ćevapi with kajmak represents local food service.",
+      "localPath": "/images/book1/day-17-civic-food-economy.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Cevapi_s_kajmakom.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACevapi_s_kajmakom.jpg",
+      "author": "Christian Paul from Vancouver, Canada",
+      "license": "CC BY-SA 2.0",
+      "credit": "Based on photo: Cevapi s kajmakom.jpg. Christian Paul from Vancouver, Canada / Wikimedia Commons (CC BY-SA 2.0)"
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [],
+  "civicContext": {
+    "title": "Hospitality keeps cities open",
+    "body": "Hospitality and food service are visible parts of recovery and everyday economy in Bosnia and Herzegovina. Cafés and restaurants create jobs, welcome return visits, and keep local recipes in public life after years of disruption. A simple order for klepe or japrak supports kitchens that teach taste and employ neighbors on ordinary evenings. Tourism and local dining both matter, yet wages and seasonal demand can stay uneven across towns. Learners who eat out practice language inside a sector that helps cities feel open, busy, and welcoming again. ",
+    "imageId": "civic-food-economy",
+    "learnMore": {
+      "label": "Wikipedia article about cuisine of Bosnia and Herzegovina",
+      "url": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina_cuisine"
+    }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu in café hospitality speech",
+    "kind": "speaker",
+    "hook": "A Sarajevo guide talks through coffee hospitality, a close cousin of restaurant politeness.",
+    "source": {
+      "title": "Bosnian Coffee - Explore Sarajevo with Local Guides",
+      "artistOrSpeaker": "Meet Bosnia Tours (Edin)",
+      "regionOrScene": "Café and hospitality talk",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "Meet Bosnia Tours on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=wFGbkVzNCFU",
+      "embedUrl": "https://www.youtube.com/watch?v=wFGbkVzNCFU"
+    },
+    "durationHint": "45-90 seconds",
+    "listenTask": {
+      "prompt": "Listen for warm hosting language and any food or coffee ritual cues.",
+      "gistQuestion": {
+        "prompt": "Where does this speech feel at home?",
+        "options": [
+          "A café or hospitality scene",
+          "A football locker room only",
+          "A silent library exam",
+          "A mountain weather robot"
+        ],
+        "correctIndex": 0
+      },
+      "targetWords": [
+        "kahva",
+        "molim"
+      ],
+      "noticePrompt": "Catch the polite hosting mood even if some talk is bilingual."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Izvolite.",
+          "english": "Here you are / please have it."
+        },
+        {
+          "bosnian": "Dobar tek!",
+          "english": "Enjoy your meal!"
+        }
+      ],
+      "teacherNote": "After listening, place an order with hoću and molim."
+    }
+  },
+  "speakTargets": [
+    1,
+    2,
+    5
+  ],
+  "section": 3,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Treba mi karta.",
+        "english": "I need a ticket."
+      },
+      {
+        "bosnian": "Koliko košta karta?",
+        "english": "How much does the ticket cost?"
+      },
+      {
+        "bosnian": "Volim burek.",
+        "english": "I love burek."
+      },
+      {
+        "bosnian": "Molim.",
+        "english": "Please."
+      }
+    ]
+  }
 }

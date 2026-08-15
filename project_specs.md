@@ -32,7 +32,8 @@
 | B | 7 | draft (review) |
 | C | 8–10 | draft (same fashion) |
 | D | 11–15 | draft (weather, park, people, review, directions) |
-| E–F | 16–21 | Section 3 remainder + review |
+| E | 16–20 | draft (bus, restaurant, hobbies, holidays, phone) |
+| F | 21 | outlined (section 3 review) |
 | G–H | 22–30 | Section 4 travel/longer stay (present only) + finale |
 
 ## Characters
@@ -59,11 +60,11 @@ Ana (learner), Emir (guide), Amira (café), Mrvica (cat)
 | 13 | Ljudi iz BiH | draft | Full draft (place/language identity, Brčko, district civic) — needs human review | script ready |
 | 14 | Ponavljanje | draft | Review of Lessons 8 to 13 plus Banja Luka postcards — needs human review | script ready |
 | 15 | Desna ili lijeva? | draft | Full draft (directions, Latin Bridge/Konjic, landmine civic) — needs human review | script ready |
-| 16 | Na autobus | outlined | | |
-| 17 | Dobar tek! | outlined | | |
-| 18 | Sport i hobiji | outlined | | |
-| 19 | Praznici | outlined | | |
-| 20 | Telefonski poziv | outlined | | |
+| 16 | Na autobus | draft | Full draft (transport, tickets, trebati, Neum coast dream) — needs human review | script ready |
+| 17 | Dobar tek! | draft | Full draft (restaurant, htjeti, klepe vs japrak) — needs human review | script ready |
+| 18 | Sport i hobiji | draft | Full draft (hobbies, igrati/gledati, često/ponekad, Zenica/Una) — needs human review | script ready |
+| 19 | Praznici | draft | Full draft (inclusive holiday greetings, Ferhadija lights) — needs human review | script ready |
+| 20 | Telefonski poziv | draft | Full draft (phone phrases, ko/šta/kada/zašto, Mrvica call) — needs human review | script ready |
 | 21 | Sedmica 3 — ponavljanje | outlined | | |
 | 22 | Jučer u Travniku | outlined | | |
 | 23 | Šta si radio/radila? | outlined | | |

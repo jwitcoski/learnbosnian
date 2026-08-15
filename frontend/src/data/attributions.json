@@ -3,7 +3,7 @@
   "intro": "Running register of every photo used on the site and in Book 1. Use this list when citing images for print, Scribus export, or YouTube descriptions. Chapter images are harvested automatically from each chapter.json; homepage and other site assets are listed here by hand.",
   "citationNote": "For Creative Commons works, credit the author, note the license, and link to the source page. For Pexels, credit the photographer and Pexels. Derivative treatments (polygon paint, background removal) still require attribution of the source photo.",
   "generatedAt": "2026-08-15",
-  "total": 67,
+  "total": 87,
   "entries": [
     {
       "id": "book1-day-00-civic-schools",
@@ -1092,6 +1092,346 @@
       "notes": "",
       "book": 1,
       "day": 15
+    },
+    {
+      "id": "book1-day-16-civic-a1-corridor",
+      "title": "A motorway corridor cuts through hills in Bosnia and Herzegovina.",
+      "whereUsed": [
+        "Book 1 · Lesson 16 — On the bus"
+      ],
+      "author": "Bushido",
+      "source": "Wikimedia Commons",
+      "license": "Public domain",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABiH_Autoput_A1.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/BiH_Autoput_A1.jpg",
+      "localPath": "/images/book1/day-16-civic-a1-corridor.png",
+      "credit": "Based on photo: BiH Autoput A1.jpg. Bushido / Wikimedia Commons (Public domain)",
+      "notes": "",
+      "book": 1,
+      "day": 16
+    },
+    {
+      "id": "book1-day-16-jablanica-lake",
+      "title": "Blue water fills Jablaničko Lake among the hills.",
+      "whereUsed": [
+        "Book 1 · Lesson 16 — On the bus"
+      ],
+      "author": "Julian Nyča",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AJablani%C4%8Dko_jezero_1.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jablani%C4%8Dko_jezero_1.jpg",
+      "localPath": "/images/book1/day-16-jablanica-lake.png",
+      "credit": "Based on photo: Jablaničko jezero 1.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "",
+      "book": 1,
+      "day": 16
+    },
+    {
+      "id": "book1-day-16-neum-coast",
+      "title": "A beach curves along the Adriatic at Neum.",
+      "whereUsed": [
+        "Book 1 · Lesson 16 — On the bus"
+      ],
+      "author": "Bdx",
+      "source": "Wikimedia Commons",
+      "license": "CC0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AZenit_Beach_in_Neum%2C_2024_1.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Zenit_Beach_in_Neum%2C_2024_1.jpg",
+      "localPath": "/images/book1/day-16-neum-coast.png",
+      "credit": "Based on photo: Zenit Beach in Neum, 2024 1.jpg. Bdx / Wikimedia Commons (CC0)",
+      "notes": "",
+      "book": 1,
+      "day": 16
+    },
+    {
+      "id": "book1-day-16-sarajevo-bus-station",
+      "title": "Coaches wait outside the Sarajevo bus station.",
+      "whereUsed": [
+        "Book 1 · Lesson 16 — On the bus"
+      ],
+      "author": "Vano111ru",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_bus_station_2.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Sarajevo_bus_station_2.jpg",
+      "localPath": "/images/book1/day-16-sarajevo-bus-station.png",
+      "credit": "Based on photo: Sarajevo bus station 2.jpg. Vano111ru / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 16
+    },
+    {
+      "id": "book1-day-17-civic-food-economy",
+      "title": "A generous plate of ćevapi with kajmak represents local food service.",
+      "whereUsed": [
+        "Book 1 · Lesson 17 — Enjoy your meal!"
+      ],
+      "author": "Christian Paul from Vancouver, Canada",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACevapi_s_kajmakom.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Cevapi_s_kajmakom.jpg",
+      "localPath": "/images/book1/day-17-civic-food-economy.png",
+      "credit": "Based on photo: Cevapi s kajmakom.jpg. Christian Paul from Vancouver, Canada / Wikimedia Commons (CC BY-SA 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 17
+    },
+    {
+      "id": "book1-day-17-japrak-dish",
+      "title": "Stuffed vine leaves are arranged as japrak.",
+      "whereUsed": [
+        "Book 1 · Lesson 17 — Enjoy your meal!"
+      ],
+      "author": "Tizilohja25",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AJaprak_1.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Japrak_1.jpg",
+      "localPath": "/images/book1/day-17-japrak-dish.png",
+      "credit": "Based on photo: Japrak 1.jpg. Tizilohja25 / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 17
+    },
+    {
+      "id": "book1-day-17-klepe-sarajevo",
+      "title": "A plate of klepe is served in Sarajevo.",
+      "whereUsed": [
+        "Book 1 · Lesson 17 — Enjoy your meal!"
+      ],
+      "author": "amanderson2",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKlepe_Sarajevo_Bosnia_%2810675888145%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Klepe_Sarajevo_Bosnia_%2810675888145%29.jpg",
+      "localPath": "/images/book1/day-17-klepe-sarajevo.png",
+      "credit": "Based on photo: Klepe Sarajevo Bosnia (10675888145).jpg. amanderson2 / Wikimedia Commons (CC BY 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 17
+    },
+    {
+      "id": "book1-day-17-visoko-postcard",
+      "title": "Visoko spreads across hills below a wide sky.",
+      "whereUsed": [
+        "Book 1 · Lesson 17 — Enjoy your meal!"
+      ],
+      "author": "Wikimedia Commons",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVisoko.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Visoko.jpg",
+      "localPath": "/images/book1/day-17-visoko-postcard.png",
+      "credit": "Based on photo: Visoko.jpg. Wikimedia Commons / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "",
+      "book": 1,
+      "day": 17
+    },
+    {
+      "id": "book1-day-18-bilino-polje",
+      "title": "Bilino Polje stadium opens wide under a bright sky.",
+      "whereUsed": [
+        "Book 1 · Lesson 18 — Sports and hobbies"
+      ],
+      "author": "BiHVolim",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABilino_Polje_Stadium_%28wide_angle%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bilino_Polje_Stadium_%28wide_angle%29.jpg",
+      "localPath": "/images/book1/day-18-bilino-polje.png",
+      "credit": "Based on photo: Bilino Polje Stadium (wide angle).jpg. BiHVolim / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "",
+      "book": 1,
+      "day": 18
+    },
+    {
+      "id": "book1-day-18-bilino-polje-stands",
+      "title": "The stands of Bilino Polje face the green pitch.",
+      "whereUsed": [
+        "Book 1 · Lesson 18 — Sports and hobbies"
+      ],
+      "author": "Emin Tarahija",
+      "source": "Wikimedia Commons",
+      "license": "CC0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AStadion_Bilino_Polje.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Stadion_Bilino_Polje.jpg",
+      "localPath": "/images/book1/day-18-bilino-polje-stands.png",
+      "credit": "Based on photo: Stadion Bilino Polje.jpg. Emin Tarahija / Wikimedia Commons (CC0)",
+      "notes": "",
+      "book": 1,
+      "day": 18
+    },
+    {
+      "id": "book1-day-18-civic-emigration-airport",
+      "title": "Travelers move through Sarajevo International Airport.",
+      "whereUsed": [
+        "Book 1 · Lesson 18 — Sports and hobbies"
+      ],
+      "author": "BiHVolim",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_International_Airport_%28SJJ%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sarajevo_International_Airport_%28SJJ%29.jpg",
+      "localPath": "/images/book1/day-18-civic-emigration-airport.png",
+      "credit": "Based on photo: Sarajevo International Airport (SJJ).jpg. BiHVolim / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 18
+    },
+    {
+      "id": "book1-day-18-strbacki-buk",
+      "title": "White water pours over stone shelves at Štrbački buk.",
+      "whereUsed": [
+        "Book 1 · Lesson 18 — Sports and hobbies"
+      ],
+      "author": "Julian Nyča",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3A%C5%A0trba%C4%8Dki_buk_1.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/%C5%A0trba%C4%8Dki_buk_1.jpg",
+      "localPath": "/images/book1/day-18-strbacki-buk.png",
+      "credit": "Based on photo: Štrbački buk 1.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "",
+      "book": 1,
+      "day": 18
+    },
+    {
+      "id": "book1-day-19-civic-pluralism",
+      "title": "A map shows the 2013 municipal ethnic composition of Bosnia and Herzegovina.",
+      "whereUsed": [
+        "Book 1 · Lesson 19 — Holidays"
+      ],
+      "author": "Lilic",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0 rs",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABosnia_and_Herzegovina_2013_Ethnic_composition_by_municipality.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bosnia_and_Herzegovina_2013_Ethnic_composition_by_municipality.png",
+      "localPath": "/images/book1/day-19-civic-pluralism.png",
+      "credit": "Based on photo: Bosnia and Herzegovina 2013 Ethnic composition by municipality.png. Lilic / Wikimedia Commons (CC BY-SA 3.0 rs)",
+      "notes": "",
+      "book": 1,
+      "day": 19
+    },
+    {
+      "id": "book1-day-19-ferhadija-lights",
+      "title": "People walk Ferhadija Street in central Sarajevo.",
+      "whereUsed": [
+        "Book 1 · Lesson 19 — Holidays"
+      ],
+      "author": "Niegodzisie",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFerhadija%2C_Sarajevo%2C_2023.01.22_2.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ferhadija%2C_Sarajevo%2C_2023.01.22_2.jpg",
+      "localPath": "/images/book1/day-19-ferhadija-lights.png",
+      "credit": "Based on photo: Ferhadija, Sarajevo, 2023.01.22 2.jpg. Niegodzisie / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 19
+    },
+    {
+      "id": "book1-day-19-gazi-husrev-beg",
+      "title": "Gazi Husrev-beg's Mosque rises in Sarajevo.",
+      "whereUsed": [
+        "Book 1 · Lesson 19 — Holidays"
+      ],
+      "author": "Aleksandra Đuričić",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGazi_Husrev-beg%27s_Mosque._Sarajevo_04.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Gazi_Husrev-beg%27s_Mosque._Sarajevo_04.jpg",
+      "localPath": "/images/book1/day-19-gazi-husrev-beg.png",
+      "credit": "Based on photo: Gazi Husrev-beg's Mosque. Sarajevo 04.jpg. Aleksandra Đuričić / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 19
+    },
+    {
+      "id": "book1-day-19-sacred-heart",
+      "title": "Sacred Heart Cathedral stands in Sarajevo.",
+      "whereUsed": [
+        "Book 1 · Lesson 19 — Holidays"
+      ],
+      "author": "Bjoertvedt",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_Sacred_Heart_Cathedral_IMG_1245.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sarajevo_Sacred_Heart_Cathedral_IMG_1245.jpg",
+      "localPath": "/images/book1/day-19-sacred-heart.png",
+      "credit": "Based on photo: Sarajevo Sacred Heart Cathedral IMG 1245.jpg. Bjoertvedt / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 19
+    },
+    {
+      "id": "book1-day-20-civic-diaspora-calls",
+      "title": "A chart shows remittance costs as a share of money sent home.",
+      "whereUsed": [
+        "Book 1 · Lesson 20 — Phone call"
+      ],
+      "author": "Our World in Data",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARemittance-costs-as-share-of-amount-remitted.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Remittance-costs-as-share-of-amount-remitted.png",
+      "localPath": "/images/book1/day-20-civic-diaspora-calls.png",
+      "credit": "Based on photo: Remittance-costs-as-share-of-amount-remitted.png. Our World in Data / Wikimedia Commons (CC BY 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 20
+    },
+    {
+      "id": "book1-day-20-ferhadija-connection",
+      "title": "Pedestrians move along Ferhadija while the city stays connected.",
+      "whereUsed": [
+        "Book 1 · Lesson 20 — Phone call"
+      ],
+      "author": "Niegodzisie",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFerhadija%2C_Sarajevo%2C_2023.01.22_2.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ferhadija%2C_Sarajevo%2C_2023.01.22_2.jpg",
+      "localPath": "/images/book1/day-20-ferhadija-connection.png",
+      "credit": "Based on photo: Ferhadija, Sarajevo, 2023.01.22 2.jpg. Niegodzisie / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 20
+    },
+    {
+      "id": "book1-day-20-sarajevo-tram",
+      "title": "A blue Sarajevo tram travels along a city street.",
+      "whereUsed": [
+        "Book 1 · Lesson 20 — Phone call"
+      ],
+      "author": "xiquinhosilva",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_tram_706.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Sarajevo_tram_706.jpg",
+      "localPath": "/images/book1/day-20-sarajevo-tram.png",
+      "credit": "Based on photo: Sarajevo tram 706.jpg. xiquinhosilva / Wikimedia Commons (CC BY 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 20
+    },
+    {
+      "id": "book1-day-20-sarajevo-tram-city-hall",
+      "title": "A tram passes near Sarajevo City Hall.",
+      "whereUsed": [
+        "Book 1 · Lesson 20 — Phone call"
+      ],
+      "author": "J. Studnička &amp; Co., Sarajevo.",
+      "source": "Wikimedia Commons",
+      "license": "Public domain",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_Tram_City-Hall.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Sarajevo_Tram_City-Hall.jpg",
+      "localPath": "/images/book1/day-20-sarajevo-tram-city-hall.png",
+      "credit": "Based on photo: Sarajevo Tram City-Hall.jpg. J. Studnička &amp; Co., Sarajevo. / Wikimedia Commons (Public domain)",
+      "notes": "",
+      "book": 1,
+      "day": 20
     },
     {
       "id": "home-coffee",

@@ -3,56 +3,762 @@
   "book": 1,
   "title": "Praznici",
   "titleEn": "Holidays",
-  "theme": "Bajram lights / winter markets",
-  "status": "outlined",
+  "theme": "Holiday lights and inclusive greetings",
+  "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "",
+  "reviewerNotes": "This full draft is ready for human review before publication.",
   "estimatedMinutes": 60,
-  "storyBeat": "Holiday lights and markets",
+  "storyBeat": "Ana practices Bajram, Božić, and New Year greetings under Ferhadija lights.",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 19: Holiday greetings (inclusive)"
+      "Offer Bajram, Božić, and New Year greetings.",
+      "Name lights, candles, markets, gifts, and cards.",
+      "Use family and together words in holiday talk."
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Match sretan and sretna to the holiday phrase.",
+      "Use Čestitam plus a holiday name.",
+      "Keep inclusive present-tense wishes ready."
     ],
     "culture": [
-      "Bajram lights / winter markets"
+      "Walk Ferhadija during lighted holiday evenings.",
+      "Recognize mosque and cathedral landmarks in one city center.",
+      "Understand pluralism as a civic skill in greeting choices."
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "praznik",
+      "english": "holiday",
+      "pronunciation": "PRAZ-neek",
+      "partOfSpeech": "noun",
+      "example": "Danas je praznik."
+    },
+    {
+      "bosnian": "Bajram",
+      "english": "Eid",
+      "pronunciation": "BAI-ram",
+      "partOfSpeech": "noun",
+      "example": "Sretan Bajram!"
+    },
+    {
+      "bosnian": "Božić",
+      "english": "Christmas",
+      "pronunciation": "BO-zheech",
+      "partOfSpeech": "noun",
+      "example": "Sretan Božić!"
+    },
+    {
+      "bosnian": "Nova godina",
+      "english": "New Year",
+      "pronunciation": "NO-va go-DEE-na",
+      "partOfSpeech": "noun phrase",
+      "example": "Sretna Nova godina!"
+    },
+    {
+      "bosnian": "sretan",
+      "english": "happy (m.)",
+      "pronunciation": "SREH-tan",
+      "partOfSpeech": "adjective",
+      "example": "Sretan praznik!"
+    },
+    {
+      "bosnian": "sretna",
+      "english": "happy (f.)",
+      "pronunciation": "SREH-tna",
+      "partOfSpeech": "adjective",
+      "example": "Sretna Nova godina!"
+    },
+    {
+      "bosnian": "čestitka",
+      "english": "greeting card",
+      "pronunciation": "ches-TEET-ka",
+      "partOfSpeech": "noun",
+      "example": "Imam čestitku."
+    },
+    {
+      "bosnian": "svijeća",
+      "english": "candle",
+      "pronunciation": "SVYE-cha",
+      "partOfSpeech": "noun",
+      "example": "Svijeća gori."
+    },
+    {
+      "bosnian": "svjetla",
+      "english": "lights",
+      "pronunciation": "SVYET-la",
+      "partOfSpeech": "noun",
+      "example": "Svjetla su lijepa."
+    },
+    {
+      "bosnian": "tržnica",
+      "english": "market",
+      "pronunciation": "TRZH-nee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Idemo na tržnicu."
+    },
+    {
+      "bosnian": "dar",
+      "english": "gift",
+      "pronunciation": "dar",
+      "partOfSpeech": "noun",
+      "example": "Ovo je mali dar."
+    },
+    {
+      "bosnian": "porodica",
+      "english": "family",
+      "pronunciation": "po-RO-dee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Porodica se okuplja."
+    },
+    {
+      "bosnian": "zajedno",
+      "english": "together",
+      "pronunciation": "za-YED-no",
+      "partOfSpeech": "adverb",
+      "example": "Slavimo zajedno."
+    },
+    {
+      "bosnian": "čestitam",
+      "english": "I congratulate / I greet",
+      "pronunciation": "ches-TEE-tam",
+      "partOfSpeech": "verb form",
+      "example": "Čestitam Bajram!"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Sretan and sretna greetings",
+      "explanation": "Build this as a ready-made line you can reuse. Sretan pairs with masculine holiday names such as Bajram and Božić. Sretna pairs with feminine phrases such as Nova godina. Learn each full greeting as one chunk.",
+      "examples": [
+        {
+          "bosnian": "Sretan Bajram!",
+          "english": "Happy Eid!"
+        },
+        {
+          "bosnian": "Sretan Božić!",
+          "english": "Merry Christmas!"
+        },
+        {
+          "bosnian": "Sretna Nova godina!",
+          "english": "Happy New Year!"
+        }
+      ]
+    },
+    {
+      "title": "Čestitam plus the holiday",
+      "explanation": "Store this as a phrase you can pull out in conversation. Čestitam plus the holiday name is a warm congratulation. Keep the present form and smile with your voice. The chunk works across different communities.",
+      "examples": [
+        {
+          "bosnian": "Čestitam Bajram!",
+          "english": "Eid greetings!"
+        },
+        {
+          "bosnian": "Čestitam Božić!",
+          "english": "Christmas greetings!"
+        },
+        {
+          "bosnian": "Čestitam Novu godinu!",
+          "english": "New Year greetings!"
+        }
+      ]
+    },
+    {
+      "title": "Inclusive holiday talk",
+      "explanation": "Focus on the spoken chunk; postpone the full paradigm. Name more than one holiday so your greetings stay inclusive. Add zajedno when people celebrate side by side on the same street. Present-tense wishes are enough for market conversations.",
+      "examples": [
+        {
+          "bosnian": "Sretan praznik!",
+          "english": "Happy holiday!"
+        },
+        {
+          "bosnian": "Slavimo zajedno.",
+          "english": "We celebrate together."
+        },
+        {
+          "bosnian": "Svjetla su lijepa.",
+          "english": "The lights are beautiful."
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "Bajram lights / winter markets",
-    "body": "Stub for Lesson 19. Full culture hook will be written on the draft night.",
-    "imageId": null
+    "title": "Lights, markets, and shared greetings",
+    "body": "Holiday lights on Ferhadija turn central Sarajevo into a shared evening walk for many neighbors. Nearby, Gazi Husrev-beg's Mosque and the Sacred Heart Cathedral stand as reminders that communities mark the calendar in different ways. Ana practices Sretan Bajram, Sretan Božić, and Sretna Nova godina without ranking the days. A market stall sells čestitke while svjetla glitter above the crowd and music spills from cafés. Inclusive greetings keep friendship open through the season and make the street feel wider. One polite wish can travel farther than a perfect grammar explanation. ",
+    "imageId": "ferhadija-lights"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A: Three holiday wishes",
+      "body": "Learn the three core wishes first: Sretan Bajram, Sretan Božić, and Sretna Nova godina. Notice sretan versus sretna and keep each greeting whole as one spoken chunk. Add Čestitam Bajram as a second warm pattern you can hand to family or friends. Ana repeats the greetings while Emir points to mosque and cathedral photos on the same city map. The goal is respectful fluency in public, not a theology lecture or a comparison chart. Say each wish twice, then switch which holiday you greet so your mouth stays flexible. Keep the tone warm and the chunks complete. Say the lines out loud twice before you move on. ",
+      "tips": [
+        "Memorize each full greeting as one chunk.",
+        "Watch sretan versus sretna before you speak.",
+        "Practice all three so you can answer different neighbors."
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B: Market politeness and cards",
+      "body": "Take the greetings into a market scene with svjetla, dar, and čestitka in your pocket vocabulary. Say Molim and Hvala at the stall, then wish the seller a holiday that fits the moment. Amira likes Nova godina lights; Emir talks about Bajram visits; Ana sends a Božić card to family abroad. Practice switching greetings so you can answer whoever you meet on Ferhadija after dark. End with Slavimo zajedno as a friendly present-tense line that leaves room for difference. A card plus a spoken wish is enough to make the season feel shared without forcing one calendar. Practice one card message before you leave the stall. ",
+      "tips": [
+        "Use molim and hvala at the market stall.",
+        "Hand over a čestitka with a spoken wish.",
+        "Say Slavimo zajedno when the mood is shared."
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Svjetla na Ferhadiji",
+    "setting": "Ana, Emir, and Amira walk Ferhadija under holiday lights near market stalls.",
+    "lines": [
+      {
+        "speaker": "Amira",
+        "bosnian": "Svjetla su lijepa večeras!",
+        "english": "The lights are beautiful this evening!"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Sretna Nova godina unaprijed!",
+        "english": "Happy New Year in advance!"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Sretan Bajram porodici, molim vas.",
+        "english": "Happy Eid to the family, please."
+      },
+      {
+        "speaker": "Seller",
+        "bosnian": "Hvala! Želite čestitku?",
+        "english": "Thank you! Would you like a greeting card?"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Da, molim. Sretan Božić pišem majci.",
+        "english": "Yes, please. I am writing Merry Christmas to my mother."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Slavimo zajedno u gradu.",
+        "english": "We celebrate together in the city."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Evo malog dara. Hvala vam!",
+        "english": "Here is a small gift. Thank you!"
+      },
+      {
+        "speaker": "Narrator",
+        "bosnian": "Mrvica gleda svijeću i mirne korake.",
+        "english": "Mrvica watches a candle and the calm steps."
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match holiday greetings",
+      "prompt": "Match each Bosnian greeting with its English meaning.",
+      "items": [
+        {
+          "left": "Sretan Bajram!",
+          "right": "Happy Eid!"
+        },
+        {
+          "left": "Sretan Božić!",
+          "right": "Merry Christmas!"
+        },
+        {
+          "left": "Sretna Nova godina!",
+          "right": "Happy New Year!"
+        },
+        {
+          "left": "čestitka",
+          "right": "greeting card"
+        },
+        {
+          "left": "svjetla",
+          "right": "lights"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "truefalse",
+      "title": "True or false about holidays",
+      "prompt": "Decide whether each sentence matches the lesson.",
+      "items": [
+        {
+          "statement": "Sretna Nova godina uses the feminine form sretna.",
+          "answer": true
+        },
+        {
+          "statement": "The lesson teaches only one community greeting.",
+          "answer": false
+        },
+        {
+          "statement": "Ferhadija can host lighted evening walks.",
+          "answer": true
+        },
+        {
+          "statement": "Čestitam Bajram is a warm greeting chunk.",
+          "answer": true
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Write Happy Eid! in Bosnian.",
+      "hint": "Use Sretan.",
+      "answer": "Sretan Bajram!"
+    },
+    {
+      "id": "pr2",
+      "prompt": "Write Merry Christmas! in Bosnian.",
+      "hint": "Use Božić.",
+      "answer": "Sretan Božić!"
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write Happy New Year! in Bosnian.",
+      "hint": "Use Sretna.",
+      "answer": "Sretna Nova godina!"
+    },
+    {
+      "id": "pr4",
+      "prompt": "Write We celebrate together. in Bosnian.",
+      "hint": "Use zajedno.",
+      "answer": "Slavimo zajedno."
+    },
+    {
+      "id": "pr5",
+      "prompt": "Write The lights are beautiful. in Bosnian.",
+      "hint": "Use svjetla.",
+      "answer": "Svjetla su lijepa."
+    },
+    {
+      "id": "pr6",
+      "prompt": "Write the Bosnian word for greeting card.",
+      "hint": "It begins with čest.",
+      "answer": "čestitka"
+    },
+    {
+      "id": "pr7",
+      "prompt": "Write Eid greetings! with Čestitam.",
+      "hint": "Begin with Čestitam.",
+      "answer": "Čestitam Bajram!"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "Ferhadija is a holiday promenade",
+      "body": "Ferhadija Street fills with evening walkers when lights go up for winter seasons. Shops, cafés, and market energy make greetings useful in motion. The pedestrian flow is part of the city's social weather. Practicing wishes here feels natural rather than staged."
+    },
+    {
+      "title": "Two landmarks, one center",
+      "body": "Gazi Husrev-beg's Mosque and the Sacred Heart Cathedral stand in the wider downtown story of Sarajevo. Their nearness teaches that holidays are plural in public life. Photos of both places help learners avoid a single-community frame. Respect starts with accurate naming."
+    },
+    {
+      "title": "Čestitka carries a written wish",
+      "body": "A čestitka is a greeting card you can hand over with a spoken line. Writing Sretan Bajram or Sretan Božić reinforces the chunk. Small gifts and cards keep contact warm across distance. The object makes the phrase memorable."
+    }
+  ],
   "resources": [
     {
-      "label": "How to speak Bosnian (YouTube)",
+      "label": "Tebi majko misli lete",
+      "url": "https://www.youtube.com/watch?v=QkvCVZqRYFY",
+      "note": "A warm family song fits holiday feeling and čestitke."
+    },
+    {
+      "label": "Next lesson",
+      "url": "/learn/lesson/20",
+      "note": "Lesson 20 practices phone phrases when Mrvica goes missing."
+    },
+    {
+      "label": "How to speak Bosnian channel",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "note": "Continue with speaker models after the market scene."
     }
   ],
   "sectionQuiz": {
     "title": "Lesson 19 section quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Which greeting matches Eid?",
+        "options": [
+          "Sretan Bajram!",
+          "Sretan Božić!",
+          "Sretna Nova godina!",
+          "Račun, molim."
+        ],
+        "correctIndex": 0,
+        "explanation": "Sretan Bajram greets Eid.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q2",
+        "question": "Which form fits Nova godina?",
+        "options": [
+          "sretan",
+          "sretna",
+          "često",
+          "tim"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sretna pairs with Nova godina.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q3",
+        "question": "What does čestitka mean?",
+        "options": [
+          "Candle",
+          "Greeting card",
+          "Stadium",
+          "Ticket"
+        ],
+        "correctIndex": 1,
+        "explanation": "Čestitka means greeting card.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q4",
+        "question": "Which street hosts the holiday walk in this lesson?",
+        "options": [
+          "Ferhadija",
+          "Only a highway shoulder",
+          "Only an airport runway",
+          "Only a ski slope"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ferhadija hosts the holiday walk.",
+        "skill": "culture"
+      },
+      {
+        "id": "q5",
+        "question": "Why does the lesson teach more than one greeting?",
+        "options": [
+          "To keep holiday talk inclusive",
+          "To erase all holidays",
+          "To avoid markets",
+          "To replace family names"
+        ],
+        "correctIndex": 0,
+        "explanation": "Multiple greetings keep talk inclusive.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q6",
+        "question": "Which sentence means We celebrate together?",
+        "options": [
+          "Slavimo zajedno.",
+          "Treba mi karta.",
+          "Igram fudbal.",
+          "Hoću klepe."
+        ],
+        "correctIndex": 0,
+        "explanation": "Slavimo zajedno means we celebrate together.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q7",
+        "question": "Which landmark is a cathedral in the lesson images?",
+        "options": [
+          "Sacred Heart Cathedral",
+          "Bilino Polje",
+          "Neum beach",
+          "Jablanica lake only"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sacred Heart Cathedral appears among the images.",
+        "skill": "culture"
+      },
+      {
+        "id": "q8",
+        "question": "What does svjetla mean?",
+        "options": [
+          "Lights",
+          "Gifts",
+          "Buses",
+          "Menus"
+        ],
+        "correctIndex": 0,
+        "explanation": "Svjetla means lights.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q9",
+        "question": "Which civic idea fits the mosque and cathedral pairing?",
+        "options": [
+          "Plural communities share public space",
+          "Only one faith may use streets",
+          "Holidays are illegal",
+          "Markets ban greetings"
+        ],
+        "correctIndex": 0,
+        "explanation": "Plural communities sharing space is the civic thread.",
+        "skill": "culture"
+      },
+      {
+        "id": "q10",
+        "question": "Which line is a New Year wish?",
+        "options": [
+          "Sretna Nova godina!",
+          "Sretan Bajram!",
+          "Jednosmjerna karta.",
+          "Ko je tamo?"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sretna Nova godina is the New Year wish.",
+        "skill": "listening"
+      }
+    ]
   },
-  "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to: Bajram lights / winter markets"
+  "dictionaryEntries": [
+    {
+      "day": 19,
+      "bosnian": "praznik",
+      "english": "holiday",
+      "pronunciation": "PRAZ-neek",
+      "partOfSpeech": "noun",
+      "example": "Danas je praznik."
+    },
+    {
+      "day": 19,
+      "bosnian": "Bajram",
+      "english": "Eid",
+      "pronunciation": "BAI-ram",
+      "partOfSpeech": "noun",
+      "example": "Sretan Bajram!"
+    },
+    {
+      "day": 19,
+      "bosnian": "Božić",
+      "english": "Christmas",
+      "pronunciation": "BO-zheech",
+      "partOfSpeech": "noun",
+      "example": "Sretan Božić!"
+    },
+    {
+      "day": 19,
+      "bosnian": "Nova godina",
+      "english": "New Year",
+      "pronunciation": "NO-va go-DEE-na",
+      "partOfSpeech": "noun phrase",
+      "example": "Sretna Nova godina!"
+    },
+    {
+      "day": 19,
+      "bosnian": "sretan",
+      "english": "happy (m.)",
+      "pronunciation": "SREH-tan",
+      "partOfSpeech": "adjective",
+      "example": "Sretan praznik!"
+    },
+    {
+      "day": 19,
+      "bosnian": "sretna",
+      "english": "happy (f.)",
+      "pronunciation": "SREH-tna",
+      "partOfSpeech": "adjective",
+      "example": "Sretna Nova godina!"
+    },
+    {
+      "day": 19,
+      "bosnian": "čestitka",
+      "english": "greeting card",
+      "pronunciation": "ches-TEET-ka",
+      "partOfSpeech": "noun",
+      "example": "Imam čestitku."
+    },
+    {
+      "day": 19,
+      "bosnian": "svijeća",
+      "english": "candle",
+      "pronunciation": "SVYE-cha",
+      "partOfSpeech": "noun",
+      "example": "Svijeća gori."
+    },
+    {
+      "day": 19,
+      "bosnian": "svjetla",
+      "english": "lights",
+      "pronunciation": "SVYET-la",
+      "partOfSpeech": "noun",
+      "example": "Svjetla su lijepa."
+    },
+    {
+      "day": 19,
+      "bosnian": "tržnica",
+      "english": "market",
+      "pronunciation": "TRZH-nee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Idemo na tržnicu."
+    },
+    {
+      "day": 19,
+      "bosnian": "dar",
+      "english": "gift",
+      "pronunciation": "dar",
+      "partOfSpeech": "noun",
+      "example": "Ovo je mali dar."
+    },
+    {
+      "day": 19,
+      "bosnian": "porodica",
+      "english": "family",
+      "pronunciation": "po-RO-dee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Porodica se okuplja."
+    },
+    {
+      "day": 19,
+      "bosnian": "zajedno",
+      "english": "together",
+      "pronunciation": "za-YED-no",
+      "partOfSpeech": "adverb",
+      "example": "Slavimo zajedno."
+    },
+    {
+      "day": 19,
+      "bosnian": "čestitam",
+      "english": "I congratulate / I greet",
+      "pronunciation": "ches-TEE-tam",
+      "partOfSpeech": "verb form",
+      "example": "Čestitam Bajram!"
+    }
   ],
-  "section": 3
+  "images": [
+    {
+      "id": "ferhadija-lights",
+      "alt": "People walk Ferhadija Street in central Sarajevo.",
+      "localPath": "/images/book1/day-19-ferhadija-lights.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ferhadija%2C_Sarajevo%2C_2023.01.22_2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFerhadija%2C_Sarajevo%2C_2023.01.22_2.jpg",
+      "author": "Niegodzisie",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Ferhadija, Sarajevo, 2023.01.22 2.jpg. Niegodzisie / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "gazi-husrev-beg",
+      "alt": "Gazi Husrev-beg's Mosque rises in Sarajevo.",
+      "localPath": "/images/book1/day-19-gazi-husrev-beg.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Gazi_Husrev-beg%27s_Mosque._Sarajevo_04.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGazi_Husrev-beg%27s_Mosque._Sarajevo_04.jpg",
+      "author": "Aleksandra Đuričić",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Gazi Husrev-beg's Mosque. Sarajevo 04.jpg. Aleksandra Đuričić / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "sacred-heart",
+      "alt": "Sacred Heart Cathedral stands in Sarajevo.",
+      "localPath": "/images/book1/day-19-sacred-heart.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sarajevo_Sacred_Heart_Cathedral_IMG_1245.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_Sacred_Heart_Cathedral_IMG_1245.jpg",
+      "author": "Bjoertvedt",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Sarajevo Sacred Heart Cathedral IMG 1245.jpg. Bjoertvedt / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "civic-pluralism",
+      "alt": "A map shows the 2013 municipal ethnic composition of Bosnia and Herzegovina.",
+      "localPath": "/images/book1/day-19-civic-pluralism.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bosnia_and_Herzegovina_2013_Ethnic_composition_by_municipality.png",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABosnia_and_Herzegovina_2013_Ethnic_composition_by_municipality.png",
+      "author": "Lilic",
+      "license": "CC BY-SA 3.0 rs",
+      "credit": "Based on photo: Bosnia and Herzegovina 2013 Ethnic composition by municipality.png. Lilic / Wikimedia Commons (CC BY-SA 3.0 rs)"
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [],
+  "civicContext": {
+    "title": "Plural streets need plural greetings",
+    "body": "Sarajevo's religious architecture makes pluralism visible in daily walking distance through the historic center. Mosques and churches share nearby streets, so holiday seasons often overlap in lights, markets, and public greetings. That closeness can be beautiful and also politically sensitive after conflict, which is why careful words matter. Learners who offer inclusive greetings practice a civic skill by recognizing neighbors without erasing difference. Shared streets work best when language leaves room for more than one celebration on the same winter night. ",
+    "imageId": "civic-pluralism",
+    "learnMore": {
+      "label": "Wikipedia article about demography of Bosnia and Herzegovina",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Bosnia_and_Herzegovina"
+    }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu with a warm family song",
+    "kind": "song",
+    "hook": "Holiday cards often travel toward family. Listen for warm majka feeling in a song voice outside the cast.",
+    "source": {
+      "title": "Tebi majko misli lete - Sementa Rajhard",
+      "artistOrSpeaker": "Sementa Rajhard",
+      "regionOrScene": "Family warmth for holiday cards",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "Sementa Rajhard performance on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=QkvCVZqRYFY",
+      "embedUrl": "https://www.youtube.com/watch?v=QkvCVZqRYFY"
+    },
+    "durationHint": "45-90 seconds",
+    "listenTask": {
+      "prompt": "Listen for majka or a warm family-directed tone.",
+      "gistQuestion": {
+        "prompt": "What fits the clip's mood?",
+        "options": [
+          "Warm song aimed at mother or family feeling",
+          "Only bus engine noise",
+          "A cooking timer only",
+          "Silent chess analysis"
+        ],
+        "correctIndex": 0
+      },
+      "targetWords": [
+        "majka",
+        "porodica"
+      ],
+      "noticePrompt": "You can miss full lyrics and still catch the family warmth."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Majko…",
+          "english": "Mother…"
+        },
+        {
+          "bosnian": "Sretan praznik!",
+          "english": "Happy holiday!"
+        }
+      ],
+      "teacherNote": "After the song, say one greeting you would write on a čestitka."
+    }
+  },
+  "speakTargets": [
+    1,
+    2,
+    4
+  ],
+  "section": 3,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Često igram fudbal.",
+        "english": "I often play football."
+      },
+      {
+        "bosnian": "Moj hobi je šetnja.",
+        "english": "My hobby is walking."
+      },
+      {
+        "bosnian": "Dobar tek!",
+        "english": "Enjoy your meal!"
+      },
+      {
+        "bosnian": "Hvala!",
+        "english": "Thank you!"
+      }
+    ]
+  }
 }

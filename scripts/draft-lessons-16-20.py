@@ -1335,8 +1335,8 @@ def build_lesson_19(images: list) -> dict:
             "body": civic_body,
             "imageId": "civic-pluralism",
             "learnMore": {
-                "label": "Wikipedia article about Sacred Heart Cathedral, Sarajevo",
-                "url": "https://en.wikipedia.org/wiki/Sacred_Heart_Cathedral,_Sarajevo",
+                "label": "Wikipedia article about demography of Bosnia and Herzegovina",
+                "url": "https://en.wikipedia.org/wiki/Demographics_of_Bosnia_and_Herzegovina",
             },
         },
         listen=authentic_listen(
@@ -2045,11 +2045,12 @@ def main():
         ),
         img_try(
             "civic-pluralism",
-            "Sacred Heart Cathedral marks one of Sarajevo's shared religious landmarks.",
+            "A map shows the 2013 municipal ethnic composition of Bosnia and Herzegovina.",
             "day-19-civic-pluralism.png",
             [
-                "File:Sarajevo Sacred Heart Cathedral IMG 1245.jpg",
                 "File:Bosnia and Herzegovina 2013 Ethnic composition by municipality.png",
+                "File:Bosnia, ethnic map 2013.png",
+                "File:Map Bih entities.png",
             ],
         ),
     ]

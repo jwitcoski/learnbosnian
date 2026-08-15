@@ -3,56 +3,753 @@
   "book": 1,
   "title": "Sport i hobiji",
   "titleEn": "Sports and hobbies",
-  "theme": "Football & river walks",
-  "status": "outlined",
+  "theme": "Football chat and river walks",
+  "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "",
+  "reviewerNotes": "This full draft is ready for human review before publication.",
   "estimatedMinutes": 60,
-  "storyBeat": "Football chat and river walks",
+  "storyBeat": "Ana and Emir compare football at Bilino Polje with quiet walks by the Una.",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 18: Hobbies, igrati/gledati, često/ponekad"
+      "Talk about football, matches, teams, and hobbies.",
+      "Use river and walk words for a nature hobby.",
+      "Contrast playing and watching with igrati and gledati forms."
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Use igram and gledam in the present.",
+      "Add često and ponekad to describe habits.",
+      "Reuse Volim with sports and walks."
     ],
     "culture": [
-      "Football & river walks"
+      "Visit Bilino Polje in Zenica through the lesson images.",
+      "Add Štrbački buk on the Una as a postcard walk.",
+      "Understand youth emigration as a pressure beside local sports life."
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "sport",
+      "english": "sport",
+      "pronunciation": "sport",
+      "partOfSpeech": "noun",
+      "example": "Sport je zabavan."
+    },
+    {
+      "bosnian": "hobi",
+      "english": "hobby",
+      "pronunciation": "HO-bee",
+      "partOfSpeech": "noun",
+      "example": "Moj hobi je šetnja."
+    },
+    {
+      "bosnian": "fudbal",
+      "english": "football",
+      "pronunciation": "FOOD-bal",
+      "partOfSpeech": "noun",
+      "example": "Volim fudbal."
+    },
+    {
+      "bosnian": "igrati",
+      "english": "to play",
+      "pronunciation": "EE-gra-tee",
+      "partOfSpeech": "verb",
+      "example": "Volim igrati fudbal."
+    },
+    {
+      "bosnian": "igram",
+      "english": "I play",
+      "pronunciation": "EE-gram",
+      "partOfSpeech": "verb form",
+      "example": "Igram fudbal."
+    },
+    {
+      "bosnian": "gledati",
+      "english": "to watch",
+      "pronunciation": "GLEH-da-tee",
+      "partOfSpeech": "verb",
+      "example": "Volim gledati fudbal."
+    },
+    {
+      "bosnian": "gledam",
+      "english": "I watch",
+      "pronunciation": "GLEH-dam",
+      "partOfSpeech": "verb form",
+      "example": "Gledam utakmicu."
+    },
+    {
+      "bosnian": "utakmica",
+      "english": "match",
+      "pronunciation": "oo-TAK-mee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Utakmica je danas."
+    },
+    {
+      "bosnian": "često",
+      "english": "often",
+      "pronunciation": "CHES-to",
+      "partOfSpeech": "adverb",
+      "example": "Često igram fudbal."
+    },
+    {
+      "bosnian": "ponekad",
+      "english": "sometimes",
+      "pronunciation": "PO-ne-kad",
+      "partOfSpeech": "adverb",
+      "example": "Ponekad gledam utakmicu."
+    },
+    {
+      "bosnian": "rijeka",
+      "english": "river",
+      "pronunciation": "REE-ye-ka",
+      "partOfSpeech": "noun",
+      "example": "Rijeka Una je lijepa."
+    },
+    {
+      "bosnian": "šetnja",
+      "english": "walk",
+      "pronunciation": "SHET-nya",
+      "partOfSpeech": "noun",
+      "example": "Šetnja uz rijeku je mirna."
+    },
+    {
+      "bosnian": "trčati",
+      "english": "to run",
+      "pronunciation": "TR-cha-tee",
+      "partOfSpeech": "verb",
+      "example": "Volim trčati."
+    },
+    {
+      "bosnian": "tim",
+      "english": "team",
+      "pronunciation": "teem",
+      "partOfSpeech": "noun",
+      "example": "Moj tim igra dobro."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Igram and gledam",
+      "explanation": "Memorize the phrase shape; leave the full table for later. Igram covers I play, and gledam covers I watch. Add fudbal or utakmica to finish the chunk. These present forms are enough for a stadium chat today.",
+      "examples": [
+        {
+          "bosnian": "Igram fudbal.",
+          "english": "I play football."
+        },
+        {
+          "bosnian": "Gledam utakmicu.",
+          "english": "I watch the match."
+        },
+        {
+          "bosnian": "Volim igrati fudbal.",
+          "english": "I like to play football."
+        }
+      ]
+    },
+    {
+      "title": "Često and ponekad",
+      "explanation": "Take this as a speaking chunk, not a case chart. Place često or ponekad before the verb to show how often you do something. Često means often, and ponekad means sometimes. Keep the rest of the sentence in the present.",
+      "examples": [
+        {
+          "bosnian": "Često igram fudbal.",
+          "english": "I often play football."
+        },
+        {
+          "bosnian": "Ponekad gledam utakmicu.",
+          "english": "I sometimes watch the match."
+        },
+        {
+          "bosnian": "Često idem na šetnju.",
+          "english": "I often go for a walk."
+        }
+      ]
+    },
+    {
+      "title": "Hobby lines with volim",
+      "explanation": "Practice the whole expression before you worry about paradigms. Reuse Volim plus an activity noun or infinitive. Pair sports with river walks so hobbies feel wider than one stadium. Short present lines keep the chat friendly.",
+      "examples": [
+        {
+          "bosnian": "Volim fudbal.",
+          "english": "I love football."
+        },
+        {
+          "bosnian": "Volim šetnju.",
+          "english": "I love walks."
+        },
+        {
+          "bosnian": "Moj hobi je šetnja.",
+          "english": "My hobby is walking."
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "Football & river walks",
-    "body": "Stub for Lesson 18. Full culture hook will be written on the draft night.",
-    "imageId": null
+    "title": "Stadium noise and river calm",
+    "body": "Zenica's Bilino Polje stadium gives football a loud local home on match days. Ana and Emir talk about the tim, the utakmica, and who watches versus who plays. A second postcard shows Štrbački buk on the Una River, where water crashes white over stone. Weekend life can mean a packed stand one afternoon and a river walk the next morning. Crowds chant, then later the path grows quiet beside the water. Hobby words stay honest when they include both the stadium noise and the calm path. ",
+    "imageId": "bilino-polje"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A: Play, watch, and how often",
+      "body": "Begin with sport, hobi, fudbal, utakmica, and tim so the stadium vocabulary is concrete. Then practice Igram and Gledam as separate present chunks you can finish with a noun. Ana often watches. Emir sometimes plays. Frequency words često and ponekad make the difference clear. Say each sentence while pointing to the Bilino Polje image so the place anchors the verb. Do not build a full verb chart yet; reuse the ready lines until they feel automatic. Finish Lesson A by telling a partner how often you watch and how often you play in two short lines. Keep both frequency words active in your answers. ",
+      "tips": [
+        "Keep igram and gledam as separate ready chunks.",
+        "Put često or ponekad before the verb.",
+        "Name the team or match to finish the line."
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B: From stands to river path",
+      "body": "Move from the stadium to the river postcard without dropping the football words you just learned. Use Volim šetnju and Rijeka Una je lijepa to balance the match talk with outdoor calm. Ask a friend Hoćeš li gledati utakmicu? and answer with često or ponekad plus a present verb. Amira prefers the waterfall walk, while Mrvica prefers any path that might hide snacks. Close by naming one sport habit and one nature habit in the present tense only. The goal is a weekend self-portrait you can say aloud, not a list of abstract hobby nouns. Repeat your two habits until they sound natural. ",
+      "tips": [
+        "Balance football lines with šetnja vocabulary.",
+        "Ask Hoćeš li gledati utakmicu? in a friendly voice.",
+        "Claim one hobby you will actually repeat."
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Utakmica ili šetnja?",
+    "setting": "Ana and Emir look at a Bilino Polje photo and an Una waterfall postcard.",
+    "lines": [
+      {
+        "speaker": "Emir",
+        "bosnian": "Često gledam fudbal u Zenici.",
+        "english": "I often watch football in Zenica."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Ja ponekad gledam utakmicu.",
+        "english": "I sometimes watch a match."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Igram u parku, ali volim i stadion.",
+        "english": "I play in the park, but I also love the stadium."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Moj hobi je šetnja uz rijeku.",
+        "english": "My hobby is a walk by the river."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Štrbački buk je prelijep, molim vas pogledajte!",
+        "english": "Štrbački buk is beautiful, please look!"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Hoćeš li ići na utakmicu?",
+        "english": "Do you want to go to the match?"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Možda. Hvala na ideji!",
+        "english": "Maybe. Thanks for the idea!"
+      },
+      {
+        "speaker": "Narrator",
+        "bosnian": "Mrvica bira šetnju, jer ima mirisa.",
+        "english": "Mrvica chooses the walk, because there are smells."
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match hobby words",
+      "prompt": "Match each Bosnian word with its English meaning.",
+      "items": [
+        {
+          "left": "fudbal",
+          "right": "football"
+        },
+        {
+          "left": "utakmica",
+          "right": "match"
+        },
+        {
+          "left": "često",
+          "right": "often"
+        },
+        {
+          "left": "ponekad",
+          "right": "sometimes"
+        },
+        {
+          "left": "šetnja",
+          "right": "walk"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "truefalse",
+      "title": "True or false about hobbies",
+      "prompt": "Decide whether each sentence matches the lesson.",
+      "items": [
+        {
+          "statement": "Igram means I play.",
+          "answer": true
+        },
+        {
+          "statement": "Ponekad means often.",
+          "answer": false
+        },
+        {
+          "statement": "Bilino Polje is in Zenica.",
+          "answer": true
+        },
+        {
+          "statement": "Štrbački buk is a desert stadium.",
+          "answer": false
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Write I play football. in Bosnian.",
+      "hint": "Begin with Igram.",
+      "answer": "Igram fudbal."
+    },
+    {
+      "id": "pr2",
+      "prompt": "Write I watch the match. in Bosnian.",
+      "hint": "Use gledam.",
+      "answer": "Gledam utakmicu."
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write I often play football. in Bosnian.",
+      "hint": "Start with Često.",
+      "answer": "Često igram fudbal."
+    },
+    {
+      "id": "pr4",
+      "prompt": "Write I sometimes watch the match. in Bosnian.",
+      "hint": "Start with Ponekad.",
+      "answer": "Ponekad gledam utakmicu."
+    },
+    {
+      "id": "pr5",
+      "prompt": "Write My hobby is walking. in Bosnian.",
+      "hint": "Use hobi and šetnja.",
+      "answer": "Moj hobi je šetnja."
+    },
+    {
+      "id": "pr6",
+      "prompt": "Write the Bosnian word for team.",
+      "hint": "Three letters.",
+      "answer": "tim"
+    },
+    {
+      "id": "pr7",
+      "prompt": "Write I love football. in Bosnian.",
+      "hint": "Use Volim.",
+      "answer": "Volim fudbal."
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "Bilino Polje anchors Zenica football",
+      "body": "Bilino Polje is the main football stadium in Zenica. National and club matches have made the ground familiar across the country. The wide stands give learners a clear sports image beyond Sarajevo. Saying utakmica beside this ground makes the word feel loud and real."
+    },
+    {
+      "title": "Štrbački buk shows the Una",
+      "body": "Štrbački buk is a waterfall stretch on the Una River near the northwestern border area. White water over wide stone shelves draws walkers and photographers. The postcard balances stadium noise with river calm. Hobby vocabulary needs both kinds of weekend."
+    },
+    {
+      "title": "Često beats a long chart",
+      "body": "Frequency adverbs let beginners tell the truth about habits without new tenses. Često and ponekad fit in front of present verbs you already know. The pattern is small and reusable. Honesty about how often you play keeps conversation human."
+    },
+    {
+      "title": "Hobi can be quiet",
+      "body": "Not every hobby is a competitive sport. Šetnja along a river counts, and so does watching from the stands. Book 1 keeps the word open on purpose. Learners should claim the activity they will actually repeat."
+    }
+  ],
   "resources": [
     {
-      "label": "How to speak Bosnian (YouTube)",
+      "label": "Beba Selimović - Bosno moja",
+      "url": "https://www.youtube.com/watch?v=OXul62dILOo",
+      "note": "A warm Bosnia song for weekend leisure listening."
+    },
+    {
+      "label": "Next lesson",
+      "url": "/learn/lesson/19",
+      "note": "Lesson 19 practices inclusive holiday greetings."
+    },
+    {
+      "label": "How to speak Bosnian channel",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "note": "Keep browsing speaker models after practice."
     }
   ],
   "sectionQuiz": {
     "title": "Lesson 18 section quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does utakmica mean?",
+        "options": [
+          "Team",
+          "Match",
+          "River",
+          "Hobby"
+        ],
+        "correctIndex": 1,
+        "explanation": "Utakmica means match.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q2",
+        "question": "Which sentence means I play football?",
+        "options": [
+          "Gledam fudbal.",
+          "Igram fudbal.",
+          "Rijeka je hobi.",
+          "Ponekad je tim."
+        ],
+        "correctIndex": 1,
+        "explanation": "Igram fudbal means I play football.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q3",
+        "question": "Which word means often?",
+        "options": [
+          "ponekad",
+          "često",
+          "šetnja",
+          "tim"
+        ],
+        "correctIndex": 1,
+        "explanation": "Često means often.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q4",
+        "question": "Which place is the Zenica stadium?",
+        "options": [
+          "Bilino Polje",
+          "Latin Bridge",
+          "Neum beach",
+          "Ferhadija"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bilino Polje is the Zenica stadium.",
+        "skill": "culture"
+      },
+      {
+        "id": "q5",
+        "question": "What second landscape balances the football chat?",
+        "options": [
+          "A Una River waterfall walk",
+          "A desert dune",
+          "A desert stadium",
+          "A closed airport only"
+        ],
+        "correctIndex": 0,
+        "explanation": "Štrbački buk on the Una balances the chat.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q6",
+        "question": "Which sentence means I sometimes watch the match?",
+        "options": [
+          "Često igram fudbal.",
+          "Ponekad gledam utakmicu.",
+          "Volim račun.",
+          "Treba mi karta."
+        ],
+        "correctIndex": 1,
+        "explanation": "Ponekad gledam utakmicu uses sometimes plus watch.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q7",
+        "question": "What does gledam mean?",
+        "options": [
+          "I watch",
+          "I run",
+          "I need",
+          "I order"
+        ],
+        "correctIndex": 0,
+        "explanation": "Gledam means I watch.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q8",
+        "question": "What civic pressure sits beside youth sports?",
+        "options": [
+          "Young people leaving for work or study abroad",
+          "Too many waterfalls",
+          "Free tickets only",
+          "No football words"
+        ],
+        "correctIndex": 0,
+        "explanation": "Youth emigration for work or study is a related civic pressure.",
+        "skill": "culture"
+      },
+      {
+        "id": "q9",
+        "question": "Which line names a walking hobby?",
+        "options": [
+          "Moj hobi je šetnja.",
+          "Račun, molim.",
+          "Jednosmjerna karta.",
+          "Ko je tamo?"
+        ],
+        "correctIndex": 0,
+        "explanation": "Moj hobi je šetnja names walking as a hobby.",
+        "skill": "listening"
+      }
+    ]
   },
-  "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to: Football & river walks"
+  "dictionaryEntries": [
+    {
+      "day": 18,
+      "bosnian": "sport",
+      "english": "sport",
+      "pronunciation": "sport",
+      "partOfSpeech": "noun",
+      "example": "Sport je zabavan."
+    },
+    {
+      "day": 18,
+      "bosnian": "hobi",
+      "english": "hobby",
+      "pronunciation": "HO-bee",
+      "partOfSpeech": "noun",
+      "example": "Moj hobi je šetnja."
+    },
+    {
+      "day": 18,
+      "bosnian": "fudbal",
+      "english": "football",
+      "pronunciation": "FOOD-bal",
+      "partOfSpeech": "noun",
+      "example": "Volim fudbal."
+    },
+    {
+      "day": 18,
+      "bosnian": "igrati",
+      "english": "to play",
+      "pronunciation": "EE-gra-tee",
+      "partOfSpeech": "verb",
+      "example": "Volim igrati fudbal."
+    },
+    {
+      "day": 18,
+      "bosnian": "igram",
+      "english": "I play",
+      "pronunciation": "EE-gram",
+      "partOfSpeech": "verb form",
+      "example": "Igram fudbal."
+    },
+    {
+      "day": 18,
+      "bosnian": "gledati",
+      "english": "to watch",
+      "pronunciation": "GLEH-da-tee",
+      "partOfSpeech": "verb",
+      "example": "Volim gledati fudbal."
+    },
+    {
+      "day": 18,
+      "bosnian": "gledam",
+      "english": "I watch",
+      "pronunciation": "GLEH-dam",
+      "partOfSpeech": "verb form",
+      "example": "Gledam utakmicu."
+    },
+    {
+      "day": 18,
+      "bosnian": "utakmica",
+      "english": "match",
+      "pronunciation": "oo-TAK-mee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Utakmica je danas."
+    },
+    {
+      "day": 18,
+      "bosnian": "često",
+      "english": "often",
+      "pronunciation": "CHES-to",
+      "partOfSpeech": "adverb",
+      "example": "Često igram fudbal."
+    },
+    {
+      "day": 18,
+      "bosnian": "ponekad",
+      "english": "sometimes",
+      "pronunciation": "PO-ne-kad",
+      "partOfSpeech": "adverb",
+      "example": "Ponekad gledam utakmicu."
+    },
+    {
+      "day": 18,
+      "bosnian": "rijeka",
+      "english": "river",
+      "pronunciation": "REE-ye-ka",
+      "partOfSpeech": "noun",
+      "example": "Rijeka Una je lijepa."
+    },
+    {
+      "day": 18,
+      "bosnian": "šetnja",
+      "english": "walk",
+      "pronunciation": "SHET-nya",
+      "partOfSpeech": "noun",
+      "example": "Šetnja uz rijeku je mirna."
+    },
+    {
+      "day": 18,
+      "bosnian": "trčati",
+      "english": "to run",
+      "pronunciation": "TR-cha-tee",
+      "partOfSpeech": "verb",
+      "example": "Volim trčati."
+    },
+    {
+      "day": 18,
+      "bosnian": "tim",
+      "english": "team",
+      "pronunciation": "teem",
+      "partOfSpeech": "noun",
+      "example": "Moj tim igra dobro."
+    }
   ],
-  "section": 3
+  "images": [
+    {
+      "id": "bilino-polje",
+      "alt": "Bilino Polje stadium opens wide under a bright sky.",
+      "localPath": "/images/book1/day-18-bilino-polje.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bilino_Polje_Stadium_%28wide_angle%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABilino_Polje_Stadium_%28wide_angle%29.jpg",
+      "author": "BiHVolim",
+      "license": "CC BY-SA 3.0",
+      "credit": "Based on photo: Bilino Polje Stadium (wide angle).jpg. BiHVolim / Wikimedia Commons (CC BY-SA 3.0)"
+    },
+    {
+      "id": "bilino-polje-stands",
+      "alt": "The stands of Bilino Polje face the green pitch.",
+      "localPath": "/images/book1/day-18-bilino-polje-stands.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Stadion_Bilino_Polje.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AStadion_Bilino_Polje.jpg",
+      "author": "Emin Tarahija",
+      "license": "CC0",
+      "credit": "Based on photo: Stadion Bilino Polje.jpg. Emin Tarahija / Wikimedia Commons (CC0)"
+    },
+    {
+      "id": "strbacki-buk",
+      "alt": "White water pours over stone shelves at Štrbački buk.",
+      "localPath": "/images/book1/day-18-strbacki-buk.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/%C5%A0trba%C4%8Dki_buk_1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3A%C5%A0trba%C4%8Dki_buk_1.jpg",
+      "author": "Julian Nyča",
+      "license": "CC BY-SA 3.0",
+      "credit": "Based on photo: Štrbački buk 1.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
+    },
+    {
+      "id": "civic-emigration-airport",
+      "alt": "Travelers move through Sarajevo International Airport.",
+      "localPath": "/images/book1/day-18-civic-emigration-airport.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sarajevo_International_Airport_%28SJJ%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_International_Airport_%28SJJ%29.jpg",
+      "author": "BiHVolim",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Sarajevo International Airport (SJJ).jpg. BiHVolim / Wikimedia Commons (CC BY-SA 4.0)"
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [],
+  "civicContext": {
+    "title": "Youth leave, weekend ties remain",
+    "body": "Many young people from Bosnia and Herzegovina leave for study or work abroad, and stadium crowds feel that absence. Remittances and return visits keep ties alive, yet local clubs and weekend hobbies also need people who stay. An airport departure hall can mark opportunity and loss at the same time. Sports talk therefore sits beside a civic question about who remains to play, coach, and watch. Learners should hear both the joy of a match and the pressure of emigration.",
+    "imageId": "civic-emigration-airport",
+    "learnMore": {
+      "label": "Wikipedia article about demographics of Bosnia and Herzegovina",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Bosnia_and_Herzegovina"
+    }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu with a weekend leisure song",
+    "kind": "song",
+    "hook": "A classic love-of-Bosnia song stretches the ear for leisure and belonging after sports talk.",
+    "source": {
+      "title": "Beba Selimović - Bosno moja, divna, mila",
+      "artistOrSpeaker": "Beba Selimović",
+      "regionOrScene": "Weekend leisure and belonging",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "Beba Selimović performance on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=OXul62dILOo",
+      "embedUrl": "https://www.youtube.com/watch?v=OXul62dILOo"
+    },
+    "durationHint": "45-90 seconds",
+    "listenTask": {
+      "prompt": "Listen for Bosna or warm chorus energy rather than every lyric.",
+      "gistQuestion": {
+        "prompt": "What kind of clip is this?",
+        "options": [
+          "A traditional song about Bosnia",
+          "A ticket-machine tutorial",
+          "A silent spreadsheet",
+          "Only stadium whistle sounds"
+        ],
+        "correctIndex": 0
+      },
+      "targetWords": [
+        "Bosna",
+        "volim"
+      ],
+      "noticePrompt": "Leisure listening can be emotional. Catch mood plus any familiar word."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Bosno moja…",
+          "english": "My Bosnia…"
+        },
+        {
+          "bosnian": "Volim fudbal.",
+          "english": "I love football."
+        }
+      ],
+      "teacherNote": "After the song, say one sport habit and one walk habit."
+    }
+  },
+  "speakTargets": [
+    0,
+    3,
+    5
+  ],
+  "section": 3,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Hoću klepe, molim.",
+        "english": "I want klepe, please."
+      },
+      {
+        "bosnian": "Dobar tek!",
+        "english": "Enjoy your meal!"
+      },
+      {
+        "bosnian": "Hajde da idemo.",
+        "english": "Let us go."
+      },
+      {
+        "bosnian": "Volim burek.",
+        "english": "I love burek."
+      }
+    ]
+  }
 }

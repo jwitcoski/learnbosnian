@@ -3,56 +3,759 @@
   "book": 1,
   "title": "Telefonski poziv",
   "titleEn": "Phone call",
-  "theme": "Where is Mrvica?",
-  "status": "outlined",
+  "theme": "Emergency cat phone call",
+  "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "",
+  "reviewerNotes": "This full draft is ready for human review before publication.",
   "estimatedMinutes": 60,
-  "storyBeat": "Emergency cat phone call",
+  "storyBeat": "Ana calls Emir in a panic when Mrvica goes missing near the tram line.",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 20: Phone phrases, ko/šta/kada/zašto"
+      "Open and continue a phone call with alo, broj, and veza.",
+      "Use ko, šta, kada, and zašto to gather facts.",
+      "Describe an urgent missing-pet problem."
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Use Alo? and Ko je tamo? as phone openers.",
+      "Ask šta, kada, and zašto in the present.",
+      "Signal urgency with Hitno je! and polite help requests."
     ],
     "culture": [
-      "Where is Mrvica?"
+      "Place phone talk beside Sarajevo tram streets.",
+      "Treat clear connection as part of city life.",
+      "Link phone habits to diaspora care and remittance ties."
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "telefon",
+      "english": "telephone",
+      "pronunciation": "teh-leh-FON",
+      "partOfSpeech": "noun",
+      "example": "Gdje je telefon?"
+    },
+    {
+      "bosnian": "poziv",
+      "english": "call",
+      "pronunciation": "PO-zeev",
+      "partOfSpeech": "noun",
+      "example": "Imam važan poziv."
+    },
+    {
+      "bosnian": "alo",
+      "english": "hello (on phone)",
+      "pronunciation": "AH-lo",
+      "partOfSpeech": "interjection",
+      "example": "Alo?"
+    },
+    {
+      "bosnian": "ko",
+      "english": "who",
+      "pronunciation": "ko",
+      "partOfSpeech": "question word",
+      "example": "Ko je tamo?"
+    },
+    {
+      "bosnian": "šta",
+      "english": "what",
+      "pronunciation": "shta",
+      "partOfSpeech": "question word",
+      "example": "Šta se desi?"
+    },
+    {
+      "bosnian": "kada",
+      "english": "when",
+      "pronunciation": "KA-da",
+      "partOfSpeech": "question word",
+      "example": "Kada dolaziš?"
+    },
+    {
+      "bosnian": "zašto",
+      "english": "why",
+      "pronunciation": "ZA-shto",
+      "partOfSpeech": "question word",
+      "example": "Zašto zoveš?"
+    },
+    {
+      "bosnian": "broj",
+      "english": "number",
+      "pronunciation": "broi",
+      "partOfSpeech": "noun",
+      "example": "Koji je broj?"
+    },
+    {
+      "bosnian": "javiti se",
+      "english": "to answer or get in touch",
+      "pronunciation": "YA-vee-tee se",
+      "partOfSpeech": "verb phrase",
+      "example": "Javi se uskoro."
+    },
+    {
+      "bosnian": "čujem",
+      "english": "I hear",
+      "pronunciation": "CHOO-yem",
+      "partOfSpeech": "verb form",
+      "example": "Čujem te dobro."
+    },
+    {
+      "bosnian": "hitno",
+      "english": "urgent",
+      "pronunciation": "HEEL-no",
+      "partOfSpeech": "adverb",
+      "example": "Hitno je!"
+    },
+    {
+      "bosnian": "nestala",
+      "english": "missing (f.)",
+      "pronunciation": "neh-STA-la",
+      "partOfSpeech": "adjective",
+      "example": "Mrvica je nestala!"
+    },
+    {
+      "bosnian": "tramvaj",
+      "english": "tram",
+      "pronunciation": "TRAM-vai",
+      "partOfSpeech": "noun",
+      "example": "Tramvaj ide kroz grad."
+    },
+    {
+      "bosnian": "veza",
+      "english": "connection",
+      "pronunciation": "VEH-za",
+      "partOfSpeech": "noun",
+      "example": "Imamo dobru vezu."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Phone openers: Alo and Ko je tamo?",
+      "explanation": "Learn this as a phrase, not a table. Start a call with Alo? then ask Ko je tamo? when you need the name. Keep both chunks short and clear. Present-tense phone talk is enough for an urgent cat emergency.",
+      "examples": [
+        {
+          "bosnian": "Alo?",
+          "english": "Hello?"
+        },
+        {
+          "bosnian": "Ko je tamo?",
+          "english": "Who is there?"
+        },
+        {
+          "bosnian": "Ja sam Ana.",
+          "english": "I am Ana."
+        }
+      ]
+    },
+    {
+      "title": "Šta, kada, and zašto",
+      "explanation": "Hold this as a spoken pattern, not a grammar grid. Use šta for what, kada for when, and zašto for why. Pair each question word with a present verb you already know. The set helps you gather facts fast on a call.",
+      "examples": [
+        {
+          "bosnian": "Šta se desi?",
+          "english": "What is happening?"
+        },
+        {
+          "bosnian": "Kada dolaziš?",
+          "english": "When are you coming?"
+        },
+        {
+          "bosnian": "Zašto zoveš?",
+          "english": "Why are you calling?"
+        }
+      ]
+    },
+    {
+      "title": "Urgent present chunks",
+      "explanation": "Say the whole line together; skip the full chart for now. Hitno je! flags urgency. Nestala describes a feminine missing subject such as Mrvica. Add Molim vas when you ask a stranger for help by phone or on the street.",
+      "examples": [
+        {
+          "bosnian": "Hitno je!",
+          "english": "It is urgent!"
+        },
+        {
+          "bosnian": "Mrvica je nestala!",
+          "english": "Mrvica is missing!"
+        },
+        {
+          "bosnian": "Pomozite, molim vas!",
+          "english": "Help, please!"
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "Where is Mrvica?",
-    "body": "Stub for Lesson 20. Full culture hook will be written on the draft night.",
-    "imageId": null
+    "title": "Calls beside the tram",
+    "body": "Sarajevo trams slide past cafés where people still step outside to finish a call in clearer air. Ana phones Emir when Mrvica disappears near the tracks, and every question word suddenly matters. Ko, šta, kada, and zašto turn panic into a usable checklist she can repeat under stress. Mobile connection is ordinary now, yet the voice on the line still carries care across a noisy street. A clear Alo? can start both small talks and true emergencies before anyone explains the problem. Phone survival phrases belong beside tram noise, not only beside a quiet classroom desk. ",
+    "imageId": "sarajevo-tram"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A: Phone questions that gather facts",
+      "body": "Lock the phone kit: telefon, poziv, alo, broj, and veza before the emergency story begins. Practice Alo? and Ko je tamo? until both openers sound natural on the first try. Then drill šta, kada, and zašto with short present answers so facts arrive in order. Ana calls from near a tram stop while Emir asks for details without wasting time. Keep the lines sharp; a missing cat does not wait for a full grammar chart. Record yourself asking all four question words, then answer each one in one calm present sentence. Keep the checklist order steady under pressure. Say the lines out loud twice before you move on. ",
+      "tips": [
+        "Start with Alo? before you ask anything else.",
+        "Use one question word at a time.",
+        "Answer with a short present-tense sentence."
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B: The Mrvica emergency call",
+      "body": "Build the emergency call as a sequence you can run even when you feel rushed. Say Hitno je! then Mrvica je nestala! then ask for help with molim vas in a clear voice. Reuse Čujem te dobro when the connection is clear and you need to slow the other person down. Amira joins the search on another line, and the tram keeps moving beside the café windows. Close the call with a plan in the present: Idemo sad. Practice until the question words feel like a calm checklist rather than a scramble of panic. Repeat the full call once without looking at notes. ",
+      "tips": [
+        "Say Hitno je! early if the problem is urgent.",
+        "Add molim vas when you ask for help.",
+        "Confirm the connection with Čujem te dobro."
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Gdje je Mrvica?",
+    "setting": "Ana calls Emir from a café near a Sarajevo tram stop after Mrvica disappears.",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "bosnian": "Alo? Emire, hitno je!",
+        "english": "Hello? Emir, it is urgent!"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Alo, Ana! Ko je s tobom?",
+        "english": "Hello, Ana! Who is with you?"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Mrvica je nestala! Šta radim?",
+        "english": "Mrvica is missing! What do I do?"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Gdje je sada? Jesi li kod tramvaja?",
+        "english": "Where is she now? Are you by the tram?"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Sad, kod tramvaja. Zašto trči tako brzo?",
+        "english": "Now, by the tram. Why does she run so fast?"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Čujem te dobro. Idemo sad, molim te, čekaj!",
+        "english": "I hear you well. We are going now, please wait!"
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Ja zovem komšije. Pomozite, molim vas!",
+        "english": "I am calling the neighbors. Help, please!"
+      },
+      {
+        "speaker": "Narrator",
+        "bosnian": "Mrvica sjedi iza kantice i mirno trepće.",
+        "english": "Mrvica sits behind a bin and blinks calmly."
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match phone words",
+      "prompt": "Match each Bosnian phone word with its English meaning.",
+      "items": [
+        {
+          "left": "alo",
+          "right": "hello (on phone)"
+        },
+        {
+          "left": "ko",
+          "right": "who"
+        },
+        {
+          "left": "šta",
+          "right": "what"
+        },
+        {
+          "left": "kada",
+          "right": "when"
+        },
+        {
+          "left": "zašto",
+          "right": "why"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "truefalse",
+      "title": "True or false on the call",
+      "prompt": "Decide whether each sentence matches the lesson.",
+      "items": [
+        {
+          "statement": "Alo? is a common phone opener.",
+          "answer": true
+        },
+        {
+          "statement": "Zašto means when.",
+          "answer": false
+        },
+        {
+          "statement": "Mrvica is missing in the dialogue.",
+          "answer": true
+        },
+        {
+          "statement": "Hitno je! signals urgency.",
+          "answer": true
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Write the Bosnian phone hello.",
+      "hint": "One short word with a question mark.",
+      "answer": "Alo?"
+    },
+    {
+      "id": "pr2",
+      "prompt": "Write Who is there? in Bosnian.",
+      "hint": "Begin with Ko.",
+      "answer": "Ko je tamo?"
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write Why are you calling? in Bosnian.",
+      "hint": "Begin with Zašto.",
+      "answer": "Zašto zoveš?"
+    },
+    {
+      "id": "pr4",
+      "prompt": "Write It is urgent! in Bosnian.",
+      "hint": "Use hitno.",
+      "answer": "Hitno je!"
+    },
+    {
+      "id": "pr5",
+      "prompt": "Write Mrvica is missing! in Bosnian.",
+      "hint": "Use nestala.",
+      "answer": "Mrvica je nestala!"
+    },
+    {
+      "id": "pr6",
+      "prompt": "Write I hear you well. in Bosnian.",
+      "hint": "Begin with Čujem.",
+      "answer": "Čujem te dobro."
+    },
+    {
+      "id": "pr7",
+      "prompt": "Write Help, please! in Bosnian (polite).",
+      "hint": "Use molim vas.",
+      "answer": "Pomozite, molim vas!"
+    },
+    {
+      "id": "pr8",
+      "prompt": "Write the Bosnian word for tram.",
+      "hint": "It begins with tram.",
+      "answer": "tramvaj"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "Alo is the phone hello",
+      "body": "Bosnian phone calls often open with Alo? rather than a street greeting. The short sound checks the line and invites the other person to speak. Learners should keep it separate from Zdravo. The channel of speech changes the first word."
+    },
+    {
+      "title": "Trams frame everyday calls",
+      "body": "Sarajevo trams run through central corridors where people move between errands and cafés. Taking a call beside the tracks is a normal city picture. The tram image keeps the emergency story local and mobile. Noise on the line becomes part of the listening task."
+    },
+    {
+      "title": "Question words form a checklist",
+      "body": "Ko, šta, kada, and zašto help a panicked speaker slow down. Each word requests one kind of fact. Used together, they organize an urgent conversation. Book 1 teaches them as present-tense tools, not as abstract grammar labels."
+    },
+    {
+      "title": "Mrvica keeps stakes personal",
+      "body": "A missing cat is a comic emergency with real feeling. The cast cares, so learners care enough to repeat the lines. Personal stakes make phone phrases stick. Humor and urgency can share the same call."
+    }
+  ],
   "resources": [
     {
-      "label": "How to speak Bosnian (YouTube)",
+      "label": "Bosnian Grammar: How to Say I am",
+      "url": "https://www.youtube.com/watch?v=CUUGzc3C1G8",
+      "note": "Self-introduction chunks help you answer Ko je tamo?"
+    },
+    {
+      "label": "Next lesson",
+      "url": "/learn/lesson/21",
+      "note": "Lesson 21 reviews frames from Lessons 15 to 20."
+    },
+    {
+      "label": "How to speak Bosnian channel",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "note": "Keep a speaker playlist ready after the phone emergency."
     }
   ],
   "sectionQuiz": {
     "title": "Lesson 20 section quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Alo? mean on the phone?",
+        "options": [
+          "Hello?",
+          "Ticket please",
+          "Enjoy your meal",
+          "Turn left"
+        ],
+        "correctIndex": 0,
+        "explanation": "Alo? is the phone hello.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q2",
+        "question": "Which word asks who?",
+        "options": [
+          "šta",
+          "kada",
+          "ko",
+          "zašto"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ko asks who.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q3",
+        "question": "Which word asks why?",
+        "options": [
+          "zašto",
+          "tramvaj",
+          "broj",
+          "veza"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zašto asks why.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q4",
+        "question": "What happened to Mrvica?",
+        "options": [
+          "She is missing.",
+          "She bought tickets.",
+          "She cooked japrak.",
+          "She scored a goal."
+        ],
+        "correctIndex": 0,
+        "explanation": "Mrvica is missing in the story.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q5",
+        "question": "Which sentence flags urgency?",
+        "options": [
+          "Hitno je!",
+          "Sretan Bajram!",
+          "Ponekad gledam.",
+          "Povratna karta."
+        ],
+        "correctIndex": 0,
+        "explanation": "Hitno je! flags urgency.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q6",
+        "question": "What does čujem mean?",
+        "options": [
+          "I hear",
+          "I play",
+          "I order",
+          "I depart"
+        ],
+        "correctIndex": 0,
+        "explanation": "Čujem means I hear.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q7",
+        "question": "Which city vehicle appears in the culture scene?",
+        "options": [
+          "Tram",
+          "Submarine",
+          "Helicopter taxi only",
+          "Cable ferry only"
+        ],
+        "correctIndex": 0,
+        "explanation": "The tram appears in the Sarajevo phone scene.",
+        "skill": "culture"
+      },
+      {
+        "id": "q8",
+        "question": "Why do phones matter for diaspora families?",
+        "options": [
+          "They help people stay connected across countries.",
+          "They replace all roads.",
+          "They ban remittances.",
+          "They end holidays."
+        ],
+        "correctIndex": 0,
+        "explanation": "Phones help diaspora families stay connected.",
+        "skill": "culture"
+      },
+      {
+        "id": "q9",
+        "question": "Which polite ask fits an urgent stranger call?",
+        "options": [
+          "Pomozite, molim vas!",
+          "Dobar tek japrak.",
+          "Često igram.",
+          "Jednosmjerna karta."
+        ],
+        "correctIndex": 0,
+        "explanation": "Pomozite, molim vas! is a polite urgent ask.",
+        "skill": "listening"
+      }
+    ]
   },
-  "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to: Where is Mrvica?"
+  "dictionaryEntries": [
+    {
+      "day": 20,
+      "bosnian": "telefon",
+      "english": "telephone",
+      "pronunciation": "teh-leh-FON",
+      "partOfSpeech": "noun",
+      "example": "Gdje je telefon?"
+    },
+    {
+      "day": 20,
+      "bosnian": "poziv",
+      "english": "call",
+      "pronunciation": "PO-zeev",
+      "partOfSpeech": "noun",
+      "example": "Imam važan poziv."
+    },
+    {
+      "day": 20,
+      "bosnian": "alo",
+      "english": "hello (on phone)",
+      "pronunciation": "AH-lo",
+      "partOfSpeech": "interjection",
+      "example": "Alo?"
+    },
+    {
+      "day": 20,
+      "bosnian": "ko",
+      "english": "who",
+      "pronunciation": "ko",
+      "partOfSpeech": "question word",
+      "example": "Ko je tamo?"
+    },
+    {
+      "day": 20,
+      "bosnian": "šta",
+      "english": "what",
+      "pronunciation": "shta",
+      "partOfSpeech": "question word",
+      "example": "Šta se desi?"
+    },
+    {
+      "day": 20,
+      "bosnian": "kada",
+      "english": "when",
+      "pronunciation": "KA-da",
+      "partOfSpeech": "question word",
+      "example": "Kada dolaziš?"
+    },
+    {
+      "day": 20,
+      "bosnian": "zašto",
+      "english": "why",
+      "pronunciation": "ZA-shto",
+      "partOfSpeech": "question word",
+      "example": "Zašto zoveš?"
+    },
+    {
+      "day": 20,
+      "bosnian": "broj",
+      "english": "number",
+      "pronunciation": "broi",
+      "partOfSpeech": "noun",
+      "example": "Koji je broj?"
+    },
+    {
+      "day": 20,
+      "bosnian": "javiti se",
+      "english": "to answer or get in touch",
+      "pronunciation": "YA-vee-tee se",
+      "partOfSpeech": "verb phrase",
+      "example": "Javi se uskoro."
+    },
+    {
+      "day": 20,
+      "bosnian": "čujem",
+      "english": "I hear",
+      "pronunciation": "CHOO-yem",
+      "partOfSpeech": "verb form",
+      "example": "Čujem te dobro."
+    },
+    {
+      "day": 20,
+      "bosnian": "hitno",
+      "english": "urgent",
+      "pronunciation": "HEEL-no",
+      "partOfSpeech": "adverb",
+      "example": "Hitno je!"
+    },
+    {
+      "day": 20,
+      "bosnian": "nestala",
+      "english": "missing (f.)",
+      "pronunciation": "neh-STA-la",
+      "partOfSpeech": "adjective",
+      "example": "Mrvica je nestala!"
+    },
+    {
+      "day": 20,
+      "bosnian": "tramvaj",
+      "english": "tram",
+      "pronunciation": "TRAM-vai",
+      "partOfSpeech": "noun",
+      "example": "Tramvaj ide kroz grad."
+    },
+    {
+      "day": 20,
+      "bosnian": "veza",
+      "english": "connection",
+      "pronunciation": "VEH-za",
+      "partOfSpeech": "noun",
+      "example": "Imamo dobru vezu."
+    }
   ],
-  "section": 3
+  "images": [
+    {
+      "id": "sarajevo-tram",
+      "alt": "A blue Sarajevo tram travels along a city street.",
+      "localPath": "/images/book1/day-20-sarajevo-tram.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Sarajevo_tram_706.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_tram_706.jpg",
+      "author": "xiquinhosilva",
+      "license": "CC BY 2.0",
+      "credit": "Based on photo: Sarajevo tram 706.jpg. xiquinhosilva / Wikimedia Commons (CC BY 2.0)"
+    },
+    {
+      "id": "sarajevo-tram-city-hall",
+      "alt": "A tram passes near Sarajevo City Hall.",
+      "localPath": "/images/book1/day-20-sarajevo-tram-city-hall.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Sarajevo_Tram_City-Hall.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_Tram_City-Hall.jpg",
+      "author": "J. Studnička &amp; Co., Sarajevo.",
+      "license": "Public domain",
+      "credit": "Based on photo: Sarajevo Tram City-Hall.jpg. J. Studnička &amp; Co., Sarajevo. / Wikimedia Commons (Public domain)"
+    },
+    {
+      "id": "ferhadija-connection",
+      "alt": "Pedestrians move along Ferhadija while the city stays connected.",
+      "localPath": "/images/book1/day-20-ferhadija-connection.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ferhadija%2C_Sarajevo%2C_2023.01.22_2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFerhadija%2C_Sarajevo%2C_2023.01.22_2.jpg",
+      "author": "Niegodzisie",
+      "license": "CC BY-SA 4.0",
+      "credit": "Based on photo: Ferhadija, Sarajevo, 2023.01.22 2.jpg. Niegodzisie / Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "civic-diaspora-calls",
+      "alt": "A chart shows remittance costs as a share of money sent home.",
+      "localPath": "/images/book1/day-20-civic-diaspora-calls.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Remittance-costs-as-share-of-amount-remitted.png",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARemittance-costs-as-share-of-amount-remitted.png",
+      "author": "Our World in Data",
+      "license": "CC BY 4.0",
+      "credit": "Based on photo: Remittance-costs-as-share-of-amount-remitted.png. Our World in Data / Wikimedia Commons (CC BY 4.0)"
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [],
+  "civicContext": {
+    "title": "Calls that hold families together",
+    "body": "Families spread across countries stay connected through calls, messages, and remittances sent home. A phone line can carry birthday wishes, job news, and urgent help requests in the same afternoon. For many households in Bosnia and Herzegovina, diaspora contact is part of weekly life rather than a rare event. Mobile networks make that contact faster, yet cost and distance still shape who can talk and how often. Lesson 20 treats the phone as both a language tool and a civic lifeline.",
+    "imageId": "civic-diaspora-calls",
+    "learnMore": {
+      "label": "Wikipedia article about remittance",
+      "url": "https://en.wikipedia.org/wiki/Remittance"
+    }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu with introduction chunks for callers",
+    "kind": "speaker",
+    "hook": "A teacher models Ja sam lines you can reuse when someone asks who is calling.",
+    "source": {
+      "title": "Bosnian Grammar: How to Say 'I am' (Ja sam) - Introducing Yourself",
+      "artistOrSpeaker": "Lingo Hero",
+      "regionOrScene": "Self-introduction for phone identity",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "Lingo Hero on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=CUUGzc3C1G8",
+      "embedUrl": "https://www.youtube.com/watch?v=CUUGzc3C1G8"
+    },
+    "durationHint": "45-90 seconds",
+    "listenTask": {
+      "prompt": "Listen for Ja sam and name yourself as if you are answering a call.",
+      "gistQuestion": {
+        "prompt": "What is the speaker teaching?",
+        "options": [
+          "How to say I am and introduce yourself",
+          "How to buy bus tickets only",
+          "How to ski Jahorina only",
+          "How to bake only hljeb"
+        ],
+        "correctIndex": 0
+      },
+      "targetWords": [
+        "ja",
+        "sam"
+      ],
+      "noticePrompt": "On a phone call, Ja sam plus your name answers Ko je tamo?"
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Ja sam Ana.",
+          "english": "I am Ana."
+        },
+        {
+          "bosnian": "Ko je tamo?",
+          "english": "Who is there?"
+        }
+      ],
+      "teacherNote": "After the clip, rehearse Alo? then Ja sam… then your urgent line."
+    }
+  },
+  "speakTargets": [
+    0,
+    2,
+    5
+  ],
+  "section": 3,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Sretan Bajram!",
+        "english": "Happy Eid!"
+      },
+      {
+        "bosnian": "Sretan Božić!",
+        "english": "Merry Christmas!"
+      },
+      {
+        "bosnian": "Molim vas.",
+        "english": "Please."
+      },
+      {
+        "bosnian": "Gdje je Mostar?",
+        "english": "Where is Mostar?"
+      }
+    ]
+  }
 }
