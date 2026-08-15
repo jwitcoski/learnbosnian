@@ -199,7 +199,13 @@ export type BookOutline = {
   titleBs?: string;
   level?: string;
   days?: DayOutline[];
-  sections?: { section: number; title: string; focus: string }[];
+  sections?: {
+    section: number;
+    title: string;
+    focus: string;
+    testId?: string;
+  }[];
+  finalTestId?: string;
   cast?: string[];
   summary?: string;
   themes?: string[];

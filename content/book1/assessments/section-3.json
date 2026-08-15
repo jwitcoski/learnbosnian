@@ -1,0 +1,189 @@
+{
+  "id": "section-3",
+  "book": 1,
+  "kind": "section",
+  "section": 3,
+  "coversDays": [
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "title": "Section 3 test",
+  "titleEn": "Section 3 test · Getting around",
+  "intro": "This test covers Lessons 15 to 21. Directions, bus, restaurant, hobbies, holidays, and phone. Pass with 70% or higher.",
+  "passPercent": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What does Dobar tek mean?",
+      "options": [
+        "Where is the station?",
+        "Enjoy your meal!",
+        "I need a ticket.",
+        "Who is calling?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dobar tek means enjoy your meal.",
+      "skill": "vocabulary",
+      "remediationDay": 17
+    },
+    {
+      "id": "q2",
+      "question": "Which sentence means I play football?",
+      "options": [
+        "Gledam fudbal.",
+        "Igram fudbal.",
+        "Rijeka je hobi.",
+        "Ponekad je tim."
+      ],
+      "correctIndex": 1,
+      "explanation": "Igram fudbal means I play football.",
+      "skill": "grammar",
+      "remediationDay": 18
+    },
+    {
+      "id": "q3",
+      "question": "Which line asks for the bill?",
+      "options": [
+        "Račun, molim.",
+        "Treba mi karta.",
+        "Često zovem.",
+        "Imam plan."
+      ],
+      "correctIndex": 0,
+      "explanation": "Račun, molim asks for the bill.",
+      "skill": "dialogue",
+      "remediationDay": 21
+    },
+    {
+      "id": "q4",
+      "question": "Which town appears on the postcard?",
+      "options": [
+        "Visoko",
+        "Neum",
+        "Zenica",
+        "Brčko"
+      ],
+      "correctIndex": 0,
+      "explanation": "Visoko appears on the postcard.",
+      "skill": "culture",
+      "remediationDay": 17
+    },
+    {
+      "id": "q5",
+      "question": "Which line is a New Year wish?",
+      "options": [
+        "Sretna Nova godina!",
+        "Sretan Bajram!",
+        "Jednosmjerna karta.",
+        "Ko je tamo?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sretna Nova godina is the New Year wish.",
+      "skill": "listening",
+      "remediationDay": 19
+    },
+    {
+      "id": "q6",
+      "question": "Which phrase means behind?",
+      "options": [
+        "desna",
+        "blizu",
+        "ispred",
+        "iza"
+      ],
+      "correctIndex": 3,
+      "explanation": "Iza means behind.",
+      "skill": "vocabulary",
+      "remediationDay": 15
+    },
+    {
+      "id": "q7",
+      "question": "Which sentence flags urgency?",
+      "options": [
+        "Hitno je!",
+        "Sretan Bajram!",
+        "Ponekad gledam.",
+        "Povratna karta."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hitno je! flags urgency.",
+      "skill": "grammar",
+      "remediationDay": 20
+    },
+    {
+      "id": "q8",
+      "question": "What coast town do Ana and Emir dream about?",
+      "options": [
+        "Neum",
+        "Brčko",
+        "Zenica",
+        "Livno"
+      ],
+      "correctIndex": 0,
+      "explanation": "They dream about Neum on the Adriatic coast.",
+      "skill": "dialogue",
+      "remediationDay": 16
+    },
+    {
+      "id": "q9",
+      "question": "Which street hosts the holiday walk in this lesson?",
+      "options": [
+        "Ferhadija",
+        "Only a highway shoulder",
+        "Only an airport runway",
+        "Only a ski slope"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ferhadija hosts the holiday walk.",
+      "skill": "culture",
+      "remediationDay": 19
+    },
+    {
+      "id": "q10",
+      "question": "Which line names a walking hobby?",
+      "options": [
+        "Moj hobi je šetnja.",
+        "Račun, molim.",
+        "Jednosmjerna karta.",
+        "Ko je tamo?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Moj hobi je šetnja names walking as a hobby.",
+      "skill": "listening",
+      "remediationDay": 18
+    },
+    {
+      "id": "q11",
+      "question": "What does čujem mean?",
+      "options": [
+        "I hear",
+        "I play",
+        "I order",
+        "I depart"
+      ],
+      "correctIndex": 0,
+      "explanation": "Čujem means I hear.",
+      "skill": "vocabulary",
+      "remediationDay": 20
+    },
+    {
+      "id": "q12",
+      "question": "Which word asks who?",
+      "options": [
+        "šta",
+        "kada",
+        "ko",
+        "zašto"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ko asks who.",
+      "skill": "grammar",
+      "remediationDay": 20
+    }
+  ]
+}

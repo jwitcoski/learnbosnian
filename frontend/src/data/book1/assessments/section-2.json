@@ -1,0 +1,189 @@
+{
+  "id": "section-2",
+  "book": 1,
+  "kind": "section",
+  "section": 2,
+  "coversDays": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "title": "Section 2 test",
+  "titleEn": "Section 2 test · Daily life",
+  "intro": "This test covers Lessons 8 to 14. Food, shopping, home, weather, invitations, and identity. Pass with 70% or higher.",
+  "passPercent": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What does ljudi mean?",
+      "options": [
+        "People",
+        "Language",
+        "Country",
+        "Coffee"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ljudi means people.",
+      "skill": "vocabulary",
+      "remediationDay": 13
+    },
+    {
+      "id": "q2",
+      "question": "Which phrase suggests going together?",
+      "options": [
+        "Hajde da idemo.",
+        "Ja sam iz parka.",
+        "Govorim polako.",
+        "Imam povodac."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hajde da idemo suggests that the group should go.",
+      "skill": "grammar",
+      "remediationDay": 14
+    },
+    {
+      "id": "q3",
+      "question": "What made the 2014 floods especially destructive?",
+      "options": [
+        "A winter inversion",
+        "A cable car failure",
+        "A dry summer",
+        "Extreme rain and swollen rivers"
+      ],
+      "correctIndex": 3,
+      "explanation": "Extreme rain and swollen rivers drove the destructive 2014 floods.",
+      "skill": "culture",
+      "remediationDay": 12
+    },
+    {
+      "id": "q4",
+      "question": "Emir says burek is…",
+      "options": [
+        "sa sirom",
+        "s mesom",
+        "sa voćem",
+        "sa čajem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Burek is with meat.",
+      "skill": "dialogue",
+      "remediationDay": 8
+    },
+    {
+      "id": "q5",
+      "question": "In Dino Merlin’s Burek, food names show up as…",
+      "options": [
+        "Airport codes only",
+        "Proud everyday Bosnian kitchen words",
+        "Silent captions only",
+        "English menus only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Listen for food vocabulary riding a pop hook.",
+      "skill": "listening",
+      "remediationDay": 8
+    },
+    {
+      "id": "q6",
+      "question": "What does Ne volim luk mean?",
+      "options": [
+        "I love onion.",
+        "I do not like onion.",
+        "Onion is bread.",
+        "Bring yogurt."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ne volim = I do not like.",
+      "skill": "vocabulary",
+      "remediationDay": 8
+    },
+    {
+      "id": "q7",
+      "question": "Imam krevet means…",
+      "options": [
+        "I want a bed.",
+        "I have a bed.",
+        "The bed is big.",
+        "Open the door."
+      ],
+      "correctIndex": 1,
+      "explanation": "Imam = I have.",
+      "skill": "grammar",
+      "remediationDay": 10
+    },
+    {
+      "id": "q8",
+      "question": "Livno is famous in this lesson’s postcard for…",
+      "options": [
+        "A sea bridge",
+        "Highland cheese country",
+        "Only coffee cups",
+        "Airport gates"
+      ],
+      "correctIndex": 1,
+      "explanation": "Livanjski sir and highland pastures widen the food map.",
+      "skill": "culture",
+      "remediationDay": 8
+    },
+    {
+      "id": "q9",
+      "question": "What ruined Ana and Emir's picnic?",
+      "options": [
+        "Rain reached the blanket.",
+        "Snow blocked the cable car.",
+        "Heat melted the food.",
+        "Wind took the postcard."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rain reaches the blanket and ruins the picnic.",
+      "skill": "dialogue",
+      "remediationDay": 11
+    },
+    {
+      "id": "q10",
+      "question": "In the shopping listen clip, you mainly train…",
+      "options": [
+        "Silent reading only",
+        "Hearing price and want phrases in real teaching speech",
+        "Swimming verbs",
+        "Past tense only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Čuj Bosnu here targets shop phrases.",
+      "skill": "listening",
+      "remediationDay": 9
+    },
+    {
+      "id": "q11",
+      "question": "Which phrase asks the price?",
+      "options": [
+        "Dobar tek.",
+        "Koliko košta?",
+        "Kakvo je vrijeme?",
+        "Odakle si?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Koliko košta? asks how much something costs.",
+      "skill": "vocabulary",
+      "remediationDay": 14
+    },
+    {
+      "id": "q12",
+      "question": "Which question asks where someone is from?",
+      "options": [
+        "Ko govori?",
+        "Govoriš li?",
+        "Odakle si?",
+        "Koji jezik?"
+      ],
+      "correctIndex": 2,
+      "explanation": "Odakle si? asks where someone is from.",
+      "skill": "grammar",
+      "remediationDay": 13
+    }
+  ]
+}

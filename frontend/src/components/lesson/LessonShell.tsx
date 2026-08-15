@@ -520,7 +520,7 @@ export default function LessonShell({ chapter }: Props) {
 
       <Panel id="quiz">
         <SectionDivider />
-        <h2>Section quiz</h2>
+        <h2>Lesson quiz</h2>
         <p>
           Or open the dedicated quiz page:{" "}
           <Link to={`/quiz/lesson/${chapter.day}`}>
@@ -529,6 +529,41 @@ export default function LessonShell({ chapter }: Props) {
         </p>
         <SectionQuiz chapter={chapter} embedded />
       </Panel>
+
+      {(chapter.day === 7 ||
+        chapter.day === 14 ||
+        chapter.day === 21 ||
+        chapter.day === 30) && (
+        <Panel id="section-test">
+          <SectionDivider />
+          <h2>{chapter.day === 30 ? "Tests" : "Section test"}</h2>
+          {chapter.day === 30 ? (
+            <>
+              <p>
+                Finish Section 4 with its section test, then take the Book 1
+                final covering Lessons 1 to 30.
+              </p>
+              <p>
+                <Link to="/test/section/4">Open Section 4 test</Link>
+                {" · "}
+                <Link to="/test/final">Open Book 1 final test</Link>
+              </p>
+            </>
+          ) : (
+            <>
+              <p>
+                After this review, take the Section {chapter.section} test
+                covering the lessons in this section.
+              </p>
+              <p>
+                <Link to={`/test/section/${chapter.section}`}>
+                  Open Section {chapter.section} test
+                </Link>
+              </p>
+            </>
+          )}
+        </Panel>
+      )}
 
       <Panel id="continue">
         <SectionDivider />

@@ -1,0 +1,191 @@
+{
+  "id": "section-4",
+  "book": 1,
+  "kind": "section",
+  "section": 4,
+  "coversDays": [
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "title": "Section 4 test",
+  "titleEn": "Section 4 test · Travel and longer stay",
+  "intro": "This test covers Lessons 22 to 30. Travnik, routines, nature, health, housing, work, Mostar, writing, and finale. Pass with 70% or higher.",
+  "passPercent": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What does šetamo mean?",
+      "options": [
+        "we walk",
+        "I see",
+        "this is",
+        "goodbye"
+      ],
+      "correctIndex": 0,
+      "explanation": "Šetamo means we walk.",
+      "skill": "vocabulary",
+      "remediationDay": 22
+    },
+    {
+      "id": "q2",
+      "question": "Which conjunction means but?",
+      "options": [
+        "i",
+        "ali",
+        "zato",
+        "molim"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ali means but.",
+      "skill": "grammar",
+      "remediationDay": 29
+    },
+    {
+      "id": "q3",
+      "question": "What river flows under Stari Most?",
+      "options": [
+        "Neretva",
+        "Sava",
+        "Una",
+        "Drina"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Neretva flows under Stari Most.",
+      "skill": "culture",
+      "remediationDay": 28
+    },
+    {
+      "id": "q4",
+      "question": "What does the seller do at the market?",
+      "options": [
+        "Sells fruit",
+        "Drives a bus",
+        "Treats patients",
+        "Skis on Jahorina"
+      ],
+      "correctIndex": 0,
+      "explanation": "The seller says he sells fruit at the market.",
+      "skill": "dialogue",
+      "remediationDay": 23
+    },
+    {
+      "id": "q5",
+      "question": "What does šaljem mean?",
+      "options": [
+        "I send",
+        "I jump",
+        "I rent",
+        "I refuse"
+      ],
+      "correctIndex": 0,
+      "explanation": "Šaljem means I send.",
+      "skill": "vocabulary",
+      "remediationDay": 29
+    },
+    {
+      "id": "q6",
+      "question": "What does moraš platiti kiriju mean?",
+      "options": [
+        "You must pay the rent.",
+        "The rent is monthly.",
+        "The key is here.",
+        "Come in."
+      ],
+      "correctIndex": 0,
+      "explanation": "Moraš platiti kiriju means you must pay the rent.",
+      "skill": "grammar",
+      "remediationDay": 26
+    },
+    {
+      "id": "q7",
+      "question": "What civic gap does the lesson describe?",
+      "options": [
+        "Jahorina booms while Bjelašnica and Igman look neglected",
+        "All ski lifts closed forever",
+        "Una stopped flowing",
+        "Neretva became a desert"
+      ],
+      "correctIndex": 0,
+      "explanation": "Investment diverged between Jahorina and Federation Olympic sites.",
+      "skill": "culture",
+      "remediationDay": 24
+    },
+    {
+      "id": "q8",
+      "question": "Who asks what Ana and Emir see on the phone?",
+      "options": [
+        "Amira",
+        "Mrvica",
+        "A doctor",
+        "A bus clerk"
+      ],
+      "correctIndex": 0,
+      "explanation": "Amira asks what they see during the call.",
+      "skill": "dialogue",
+      "remediationDay": 22
+    },
+    {
+      "id": "q9",
+      "question": "Which adjective means cold?",
+      "options": [
+        "hladan",
+        "visok",
+        "opasan",
+        "zelena"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hladan means cold.",
+      "skill": "vocabulary",
+      "remediationDay": 28
+    },
+    {
+      "id": "q10",
+      "question": "Which form means I work or I do?",
+      "options": [
+        "radim",
+        "radiš",
+        "radi",
+        "volim"
+      ],
+      "correctIndex": 0,
+      "explanation": "Radim means I work or I do.",
+      "skill": "grammar",
+      "remediationDay": 23
+    },
+    {
+      "id": "q11",
+      "question": "Which river is famous for green water in the northwest?",
+      "options": [
+        "Una",
+        "Neretva only in the sea",
+        "No rivers exist",
+        "Only the Adriatic"
+      ],
+      "correctIndex": 0,
+      "explanation": "Una is famous for green water in the northwest.",
+      "skill": "culture",
+      "remediationDay": 24
+    },
+    {
+      "id": "q12",
+      "question": "Where does Emir work as a guide?",
+      "options": [
+        "Banja Luka",
+        "Neum only",
+        "Berlin",
+        "Dublin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Emir guides in Banja Luka.",
+      "skill": "dialogue",
+      "remediationDay": 27
+    }
+  ]
+}

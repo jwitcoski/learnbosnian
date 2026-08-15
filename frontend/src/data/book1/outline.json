@@ -300,22 +300,27 @@
     {
       "section": 1,
       "title": "Survive day one",
-      "focus": "Sounds, greetings, identity, numbers, family, place, time"
+      "focus": "Sounds, greetings, identity, numbers, family, place, time",
+      "testId": "section-1"
     },
     {
       "section": 2,
       "title": "Daily life",
-      "focus": "Food, shopping, home, weather, going out, people of Bosnia and Herzegovina"
+      "focus": "Food, shopping, home, weather, going out, people of Bosnia and Herzegovina",
+      "testId": "section-2"
     },
     {
       "section": 3,
       "title": "Getting around",
-      "focus": "Directions, transport, restaurants, hobbies, holidays, phone"
+      "focus": "Directions, transport, restaurants, hobbies, holidays, phone",
+      "testId": "section-3"
     },
     {
       "section": 4,
       "title": "Travel and longer stay",
-      "focus": "Travnik and Mostar in the present, nature, health, housing, work, writing, finale"
+      "focus": "Travnik and Mostar in the present, nature, health, housing, work, writing, finale",
+      "testId": "section-4"
     }
-  ]
+  ],
+  "finalTestId": "final"
 }

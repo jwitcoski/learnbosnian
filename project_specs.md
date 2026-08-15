@@ -18,6 +18,7 @@
 - Lesson 0 states that Book 1 teaches ready phrases and present-tense chunks rather than full case tables. Deeper grammar waits for Book 2.
 - Public scenes include at least one polite exchange (`molim` / `hvala` / `molim vas`)
 - Studio-clean dialogue is OK. Do not add reduced street variants in Book 1.
+- **Assessments:** each curriculum section (1–4) has a dedicated section test at `/test/section/N`. Book 1 has a final test at `/test/final`. Content lives in `content/book1/assessments/`.
 
 ## Lesson production plan
 
