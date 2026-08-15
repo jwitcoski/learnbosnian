@@ -3,7 +3,7 @@
   "intro": "Running register of every photo used on the site and in Book 1. Use this list when citing images for print, Scribus export, or YouTube descriptions. Chapter images are harvested automatically from each chapter.json; homepage and other site assets are listed here by hand.",
   "citationNote": "For Creative Commons works, credit the author, note the license, and link to the source page. For Pexels, credit the photographer and Pexels. Derivative treatments (polygon paint, background removal) still require attribution of the source photo.",
   "generatedAt": "2026-08-15",
-  "total": 87,
+  "total": 127,
   "entries": [
     {
       "id": "book1-day-00-civic-schools",
@@ -1432,6 +1432,686 @@
       "notes": "",
       "book": 1,
       "day": 20
+    },
+    {
+      "id": "book1-day-21-cafe-plan",
+      "title": "Polygon painting of a café table used for weekend planning.",
+      "whereUsed": [
+        "Book 1 · Lesson 21 — Review"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-21-cafe-plan.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 21
+    },
+    {
+      "id": "book1-day-21-civic-rural-bus",
+      "title": "Polygon painting of an empty rural bus stop in a Bosnian village.",
+      "whereUsed": [
+        "Book 1 · Lesson 21 — Review"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-21-civic-rural-bus.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 21
+    },
+    {
+      "id": "book1-day-21-una-postcard",
+      "title": "Polygon painting of an Una River postcard view near Bihać.",
+      "whereUsed": [
+        "Book 1 · Lesson 21 — Review"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-21-una-postcard.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 21
+    },
+    {
+      "id": "book1-day-21-weekend-map",
+      "title": "Polygon painting of a weekend map beside the Una River.",
+      "whereUsed": [
+        "Book 1 · Lesson 21 — Review"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-21-weekend-map.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 21
+    },
+    {
+      "id": "book1-day-22-civic-winding-road",
+      "title": "Polygon painting of a winding mountain road with fast traffic risk.",
+      "whereUsed": [
+        "Book 1 · Lesson 22 — Today in Travnik"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-22-civic-winding-road.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 22
+    },
+    {
+      "id": "book1-day-22-travnik-mosque",
+      "title": "Polygon painting of a colorful mosque in Travnik old town.",
+      "whereUsed": [
+        "Book 1 · Lesson 22 — Today in Travnik"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-22-travnik-mosque.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 22
+    },
+    {
+      "id": "book1-day-22-travnik-street",
+      "title": "Polygon painting of a narrow Travnik street.",
+      "whereUsed": [
+        "Book 1 · Lesson 22 — Today in Travnik"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-22-travnik-street.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 22
+    },
+    {
+      "id": "book1-day-22-travnik-tower",
+      "title": "Polygon painting of the Travnik fortress tower on a hill.",
+      "whereUsed": [
+        "Book 1 · Lesson 22 — Today in Travnik"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-22-travnik-tower.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 22
+    },
+    {
+      "id": "book1-day-23-activity-cards",
+      "title": "Polygon painting of activity cards on a wooden table.",
+      "whereUsed": [
+        "Book 1 · Lesson 23 — What do you do?"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-23-activity-cards.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 23
+    },
+    {
+      "id": "book1-day-23-civic-eurovision-debt",
+      "title": "Polygon painting of a dim stage standing for Eurovision absence and BHRT debt.",
+      "whereUsed": [
+        "Book 1 · Lesson 23 — What do you do?"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-23-civic-eurovision-debt.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 23
+    },
+    {
+      "id": "book1-day-23-daily-cafe",
+      "title": "Polygon painting of a busy café where people talk about daily plans.",
+      "whereUsed": [
+        "Book 1 · Lesson 23 — What do you do?"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-23-daily-cafe.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 23
+    },
+    {
+      "id": "book1-day-23-zenica-postcard",
+      "title": "Polygon painting of a Zenica valley postcard.",
+      "whereUsed": [
+        "Book 1 · Lesson 23 — What do you do?"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-23-zenica-postcard.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 23
+    },
+    {
+      "id": "book1-day-24-bjelasnica-ridge",
+      "title": "Polygon painting of a rocky Bjelašnica ridge.",
+      "whereUsed": [
+        "Book 1 · Lesson 24 — Mountains and rivers"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-24-bjelasnica-ridge.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 24
+    },
+    {
+      "id": "book1-day-24-civic-olympic-ski-gap",
+      "title": "Polygon painting contrasting lively Jahorina with neglected Olympic ski sites.",
+      "whereUsed": [
+        "Book 1 · Lesson 24 — Mountains and rivers"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-24-civic-olympic-ski-gap.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 24
+    },
+    {
+      "id": "book1-day-24-jahorina-ski",
+      "title": "Polygon painting of busy ski slopes on Jahorina.",
+      "whereUsed": [
+        "Book 1 · Lesson 24 — Mountains and rivers"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-24-jahorina-ski.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 24
+    },
+    {
+      "id": "book1-day-24-una-river",
+      "title": "Polygon painting of the turquoise Una River canyon.",
+      "whereUsed": [
+        "Book 1 · Lesson 24 — Mountains and rivers"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-24-una-river.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 24
+    },
+    {
+      "id": "book1-day-25-civic-jmbg",
+      "title": "Polygon painting of newborn paperwork and passport delay.",
+      "whereUsed": [
+        "Book 1 · Lesson 25 — At the doctor"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-25-civic-jmbg.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 25
+    },
+    {
+      "id": "book1-day-25-clinic-door",
+      "title": "Polygon painting of a small clinic door on a Bosnian street.",
+      "whereUsed": [
+        "Book 1 · Lesson 25 — At the doctor"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-25-clinic-door.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 25
+    },
+    {
+      "id": "book1-day-25-mrvica-vet",
+      "title": "Polygon painting of Mrvica the cat at a vet exam table.",
+      "whereUsed": [
+        "Book 1 · Lesson 25 — At the doctor"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-25-mrvica-vet.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 25
+    },
+    {
+      "id": "book1-day-25-pharmacy-shelf",
+      "title": "Polygon painting of a pharmacy shelf with medicine bottles.",
+      "whereUsed": [
+        "Book 1 · Lesson 25 — At the doctor"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-25-pharmacy-shelf.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 25
+    },
+    {
+      "id": "book1-day-26-apartment-door",
+      "title": "Polygon painting of an apartment door and keys.",
+      "whereUsed": [
+        "Book 1 · Lesson 26 — Housing"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-26-apartment-door.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 26
+    },
+    {
+      "id": "book1-day-26-civic-returnee-pressure",
+      "title": "Polygon painting of a quiet returnee house under local pressure.",
+      "whereUsed": [
+        "Book 1 · Lesson 26 — Housing"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-26-civic-returnee-pressure.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 26
+    },
+    {
+      "id": "book1-day-26-flat-kitchen",
+      "title": "Polygon painting of a bright flat kitchen.",
+      "whereUsed": [
+        "Book 1 · Lesson 26 — Housing"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-26-flat-kitchen.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 26
+    },
+    {
+      "id": "book1-day-26-furniture-corner",
+      "title": "Polygon painting of a furnished room corner.",
+      "whereUsed": [
+        "Book 1 · Lesson 26 — Housing"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-26-furniture-corner.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 26
+    },
+    {
+      "id": "book1-day-27-civic-rs-secession",
+      "title": "Polygon painting of institutional tension around entity challenges to state authority.",
+      "whereUsed": [
+        "Book 1 · Lesson 27 — Work and school"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-27-civic-rs-secession.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 27
+    },
+    {
+      "id": "book1-day-27-classroom-desk",
+      "title": "Polygon painting of a classroom desk and notebook.",
+      "whereUsed": [
+        "Book 1 · Lesson 27 — Work and school"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-27-classroom-desk.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 27
+    },
+    {
+      "id": "book1-day-27-guide-badge",
+      "title": "Polygon painting of a tour guide badge and map.",
+      "whereUsed": [
+        "Book 1 · Lesson 27 — Work and school"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-27-guide-badge.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 27
+    },
+    {
+      "id": "book1-day-27-office-tram",
+      "title": "Polygon painting of a tram commute toward work.",
+      "whereUsed": [
+        "Book 1 · Lesson 27 — Work and school"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-27-office-tram.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 27
+    },
+    {
+      "id": "book1-day-28-civic-medjugorje",
+      "title": "Polygon painting of a Međugorje hillside cross and pilgrimage path.",
+      "whereUsed": [
+        "Book 1 · Lesson 28 — Mostar at last!"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-28-civic-medjugorje.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 28
+    },
+    {
+      "id": "book1-day-28-mostar-old-town",
+      "title": "Polygon painting of Mostar old-town roofs and alleys.",
+      "whereUsed": [
+        "Book 1 · Lesson 28 — Mostar at last!"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-28-mostar-old-town.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 28
+    },
+    {
+      "id": "book1-day-28-neretva-green",
+      "title": "Polygon painting of green Neretva river water.",
+      "whereUsed": [
+        "Book 1 · Lesson 28 — Mostar at last!"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-28-neretva-green.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 28
+    },
+    {
+      "id": "book1-day-28-stari-most",
+      "title": "Polygon painting of Stari Most over the Neretva in Mostar.",
+      "whereUsed": [
+        "Book 1 · Lesson 28 — Mostar at last!"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-28-stari-most.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 28
+    },
+    {
+      "id": "book1-day-29-civic-genocide-denial",
+      "title": "Polygon painting of the Srebrenica memorial cemetery in solemn light.",
+      "whereUsed": [
+        "Book 1 · Lesson 29 — Letters from Bosnia and Herzegovina"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-29-civic-genocide-denial.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 29
+    },
+    {
+      "id": "book1-day-29-ferhadija-letter",
+      "title": "Polygon painting of letter writing near Ferhadija.",
+      "whereUsed": [
+        "Book 1 · Lesson 29 — Letters from Bosnia and Herzegovina"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-29-ferhadija-letter.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 29
+    },
+    {
+      "id": "book1-day-29-postcard-desk",
+      "title": "Polygon painting of a postcard writing desk.",
+      "whereUsed": [
+        "Book 1 · Lesson 29 — Letters from Bosnia and Herzegovina"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-29-postcard-desk.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 29
+    },
+    {
+      "id": "book1-day-29-stamp-envelope",
+      "title": "Polygon painting of a stamped envelope on a table.",
+      "whereUsed": [
+        "Book 1 · Lesson 29 — Letters from Bosnia and Herzegovina"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-29-stamp-envelope.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 29
+    },
+    {
+      "id": "book1-day-30-cake-heist",
+      "title": "Polygon painting of Mrvica stealing cake at the party.",
+      "whereUsed": [
+        "Book 1 · Lesson 30 — Graduation party"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-30-cake-heist.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 30
+    },
+    {
+      "id": "book1-day-30-civic-night-wolves",
+      "title": "Polygon painting of a motorcycle parade mood in Banja Luka.",
+      "whereUsed": [
+        "Book 1 · Lesson 30 — Graduation party"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-30-civic-night-wolves.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 30
+    },
+    {
+      "id": "book1-day-30-friends-toast",
+      "title": "Polygon painting of friends toasting at the finale party.",
+      "whereUsed": [
+        "Book 1 · Lesson 30 — Graduation party"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-30-friends-toast.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 30
+    },
+    {
+      "id": "book1-day-30-party-table",
+      "title": "Polygon painting of a graduation party table.",
+      "whereUsed": [
+        "Book 1 · Lesson 30 — Graduation party"
+      ],
+      "author": "Course polygon art",
+      "source": "Other",
+      "license": "Course original",
+      "pageUrl": "",
+      "sourceUrl": "",
+      "localPath": "/images/book1/day-30-party-table.png",
+      "credit": "Original polygon painting for Learn Bosnian Book 1.",
+      "notes": "",
+      "book": 1,
+      "day": 30
     },
     {
       "id": "home-coffee",

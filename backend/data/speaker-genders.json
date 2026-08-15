@@ -48,6 +48,26 @@
     "Driver": {
       "voiceId": "male-2",
       "gender": "male"
+    },
+    "Doctor": {
+      "voiceId": "male-2",
+      "gender": "male"
+    },
+    "Landlord": {
+      "voiceId": "male-2",
+      "gender": "male"
+    },
+    "Kolega": {
+      "voiceId": "male-2",
+      "gender": "male"
+    },
+    "Neighbor": {
+      "voiceId": "male-2",
+      "gender": "male"
+    },
+    "Veterinar": {
+      "voiceId": "male-2",
+      "gender": "male"
     }
   },
   "default": {

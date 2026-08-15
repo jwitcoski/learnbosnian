@@ -4,55 +4,760 @@
   "title": "Šta radiš?",
   "titleEn": "What do you do?",
   "theme": "Daily activity questions after the trip",
-  "status": "outlined",
+  "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "",
+  "reviewerNotes": "This full draft is ready for human review before publication.",
   "estimatedMinutes": 60,
-  "storyBeat": "Ana asks what people do today and what they like to do",
+  "storyBeat": "After Travnik, Ana asks what everyone does today and what they like to do.",
   "learningGoals": {
     "vocabulary": [
-      "Coming. Present activity questions such as Šta radiš?"
+      "Use radim, radiš, and radi to talk about present activities.",
+      "Ask Šta radiš? and answer with danas, sada, posao, and škola."
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Keep radim, radiš, and radi in the present tense.",
+      "Add volim da plus a light verb for habits you enjoy."
     ],
     "culture": [
-      "Talking about daily activities in the present"
+      "Notice daily life rhythm in Bosnia and Herzegovina after a trip.",
+      "Widen the map with Zenica or Tešanj on a postcard."
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "radim",
+      "english": "I work or I do",
+      "pronunciation": "RAH-deem",
+      "partOfSpeech": "verb form",
+      "example": "Radim danas."
+    },
+    {
+      "bosnian": "radiš",
+      "english": "you work or you do",
+      "pronunciation": "RAH-deesh",
+      "partOfSpeech": "verb form",
+      "example": "Šta radiš danas?"
+    },
+    {
+      "bosnian": "radi",
+      "english": "he or she works",
+      "pronunciation": "RAH-dee",
+      "partOfSpeech": "verb form",
+      "example": "Emir radi danas."
+    },
+    {
+      "bosnian": "šta radiš",
+      "english": "what do you do",
+      "pronunciation": "shta RAH-deesh",
+      "partOfSpeech": "phrase",
+      "example": "Šta radiš danas?"
+    },
+    {
+      "bosnian": "volim da",
+      "english": "I like to",
+      "pronunciation": "VOH-leem da",
+      "partOfSpeech": "phrase",
+      "example": "Volim da šetam."
+    },
+    {
+      "bosnian": "danas",
+      "english": "today",
+      "pronunciation": "DAH-nas",
+      "partOfSpeech": "adverb",
+      "example": "Šta radiš danas?"
+    },
+    {
+      "bosnian": "sada",
+      "english": "now",
+      "pronunciation": "SAH-da",
+      "partOfSpeech": "adverb",
+      "example": "Sada radim."
+    },
+    {
+      "bosnian": "posao",
+      "english": "work or job",
+      "pronunciation": "POH-sa-oh",
+      "partOfSpeech": "noun",
+      "example": "Posao je dobar."
+    },
+    {
+      "bosnian": "škola",
+      "english": "school",
+      "pronunciation": "SHKOH-la",
+      "partOfSpeech": "noun",
+      "example": "Idem u školu."
+    },
+    {
+      "bosnian": "kuhati",
+      "english": "to cook",
+      "pronunciation": "koo-HAH-tee",
+      "partOfSpeech": "verb",
+      "example": "Volim da kuhati."
+    },
+    {
+      "bosnian": "čitati",
+      "english": "to read",
+      "pronunciation": "chee-TAH-tee",
+      "partOfSpeech": "verb",
+      "example": "Volim da čitati."
+    },
+    {
+      "bosnian": "odmor",
+      "english": "rest or break",
+      "pronunciation": "OD-mor",
+      "partOfSpeech": "noun",
+      "example": "Trebam odmor."
+    },
+    {
+      "bosnian": "ritam",
+      "english": "rhythm",
+      "pronunciation": "REE-tam",
+      "partOfSpeech": "noun",
+      "example": "Ritam dana je miran."
+    },
+    {
+      "bosnian": "Zenica",
+      "english": "Zenica",
+      "pronunciation": "ZEH-nee-tsa",
+      "partOfSpeech": "proper noun",
+      "example": "Zenica je industrijski grad."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Radim, radiš, and radi in the present",
+      "explanation": "Say the whole line together. Skip the full chart for now. Radim means I work or I do. Radiš asks or states what you do. Radi covers he or she does. Keep all three in the present tense.",
+      "examples": [
+        {
+          "bosnian": "Radim danas.",
+          "english": "I work today."
+        },
+        {
+          "bosnian": "Šta radiš?",
+          "english": "What do you do?"
+        },
+        {
+          "bosnian": "Emir radi danas.",
+          "english": "Emir works today."
+        }
+      ]
+    },
+    {
+      "title": "Šta radiš? as a daily question",
+      "explanation": "Keep this as a sayable line rather than a paradigm list. Šta radiš? opens talk about today's activity. Answer with radim plus one verb or place you already know.",
+      "examples": [
+        {
+          "bosnian": "Šta radiš danas?",
+          "english": "What do you do today?"
+        },
+        {
+          "bosnian": "Radim i učim.",
+          "english": "I work and study."
+        },
+        {
+          "bosnian": "Sada radim.",
+          "english": "I am working now."
+        }
+      ]
+    },
+    {
+      "title": "Volim da plus a light verb",
+      "explanation": "Memorize the phrase shape. Leave the full table for later. Volim da plus a verb names something you like to do. Use it after you answer šta radiš with a habit you enjoy.",
+      "examples": [
+        {
+          "bosnian": "Volim da šetam.",
+          "english": "I like to walk."
+        },
+        {
+          "bosnian": "Volim da čitam.",
+          "english": "I like to read."
+        },
+        {
+          "bosnian": "Volim da kuvam.",
+          "english": "I like to cook."
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "What do you do today?",
-    "body": "Stub for Lesson 23. Present activity questions only. Past retelling moves to Book 2.",
-    "imageId": null
+    "title": "Daily rhythm with a Zenica or Tešanj postcard",
+    "body": "After the Travnik trip Ana asks friends what they do on a normal day in Bosnia and Herzegovina. Morning coffee, work or school, and an evening walk shape a rhythm that feels familiar across towns. Zenica appears on a postcard from an industrial city on the Bosna River, far from Sarajevo's tourist streets. Tešanj offers another northern postcard with quiet stone lanes and local crafts. Daily life is not only sightseeing. People answer šta radiš? with honest present-tense lines about work, rest, and small pleasures.",
+    "imageId": "zenica-postcard"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A. Ask what someone does today",
+      "body": "Learn radim, radiš, and radi as three present activity chunks. Ask Šta radiš danas? and answer with one clear verb. Add danas and sada to keep the talk in the present moment. Ana meets Emir after Travnik and compares schedules over coffee. Practice Radim danas and Šta radiš? until the question sounds natural. Do not open a full conjugation chart. Say the whole line together.",
+      "tips": [
+        "Ask Šta radiš? before you offer your own answer.",
+        "Keep radim and danas in one short line.",
+        "Stay in present tense for every activity sentence."
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B. Add habits with volim da",
+      "body": "Add volim da plus a light verb for habits you enjoy. Say Volim da šetam or Volim da čitam after you name today's work. Amira describes café rhythm while a seller names what he does at the market. Mix posao, škola, and odmor when you talk about a full day. Keep public scenes polite with molim and hvala. End with one postcard line about Zenica or Tešanj to widen the map beyond the capital.",
+      "tips": [
+        "Follow radim with volim da for a habit you enjoy.",
+        "Reuse molim and hvala in market and café scenes.",
+        "Name one northern town from the postcard on the table."
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Šta radiš danas?",
+    "setting": "Ana, Emir, and Amira talk at the café while a seller passes with market goods.",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "bosnian": "Šta radiš danas, Emire?",
+        "english": "What do you do today, Emir?"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Radim danas. Posao je dobar.",
+        "english": "I work today. The job is good."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Ja radim u kafiću. Sada je miran ritam.",
+        "english": "I work in the café. Now the rhythm is calm."
+      },
+      {
+        "speaker": "Seller",
+        "bosnian": "Ja radim na pijaci. Prodajem voće.",
+        "english": "I work at the market. I sell fruit."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Volim da šetam poslije posla.",
+        "english": "I like to walk after work."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Volim da čitam i slušam muziku.",
+        "english": "I like to read and listen to music."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Pogledaj kartu iz Zenice. Lijep grad.",
+        "english": "Look at the card from Zenica. A nice town."
+      },
+      {
+        "speaker": "Seller",
+        "bosnian": "Dobar dan. Trebam odmor sada.",
+        "english": "Good day. I need a break now."
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match the activity forms",
+      "prompt": "Match each Bosnian form with its English meaning.",
+      "items": [
+        {
+          "left": "radim",
+          "right": "I work or I do"
+        },
+        {
+          "left": "radiš",
+          "right": "you work or you do"
+        },
+        {
+          "left": "šta radiš",
+          "right": "what do you do"
+        },
+        {
+          "left": "volim da",
+          "right": "I like to"
+        },
+        {
+          "left": "danas",
+          "right": "today"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "truefalse",
+      "title": "True or false about daily talk",
+      "prompt": "Decide whether each sentence matches the lesson.",
+      "items": [
+        {
+          "statement": "Šta radiš? asks about today's activity.",
+          "answer": true
+        },
+        {
+          "statement": "Volim da šetam means I like to walk.",
+          "answer": true
+        },
+        {
+          "statement": "Zenica appears on a lesson postcard.",
+          "answer": true
+        },
+        {
+          "statement": "BHRT can join Eurovision freely while sanctioned.",
+          "answer": false
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Write the Bosnian question What do you do today?",
+      "hint": "Begin with Šta radiš.",
+      "answer": "Šta radiš danas?"
+    },
+    {
+      "id": "pr2",
+      "prompt": "Write the Bosnian for I work today.",
+      "hint": "Use Radim danas.",
+      "answer": "Radim danas."
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write the Bosnian for I like to walk.",
+      "hint": "Use Volim da šetam.",
+      "answer": "Volim da šetam."
+    },
+    {
+      "id": "pr4",
+      "prompt": "Write the Bosnian for I like to read.",
+      "hint": "Use Volim da čitam.",
+      "answer": "Volim da čitam."
+    },
+    {
+      "id": "pr5",
+      "prompt": "Write the Bosnian for Now I work.",
+      "hint": "Begin with Sada.",
+      "answer": "Sada radim."
+    },
+    {
+      "id": "pr6",
+      "prompt": "Write the Bosnian word for school.",
+      "hint": "It begins with ško.",
+      "answer": "škola"
+    },
+    {
+      "id": "pr7",
+      "prompt": "Write the Bosnian for I need a break.",
+      "hint": "Use Trebam odmor.",
+      "answer": "Trebam odmor."
+    },
+    {
+      "id": "pr8",
+      "prompt": "Write the Bosnian for Emir works today.",
+      "hint": "Use Emir radi danas.",
+      "answer": "Emir radi danas."
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "Šta radiš? opens honest daily talk",
+      "body": "Šta radiš? is a friendly present-tense question after a trip or on a normal morning. The answer can name work, school, or rest. Book 1 keeps the exchange short and sayable."
+    },
+    {
+      "title": "Zenica widens the map beyond Sarajevo",
+      "body": "Zenica sits on the Bosna River as an industrial city with its own daily rhythm. A postcard keeps the place visible without turning the lesson into a grammar tour. Northern towns balance capital-focused stories."
+    },
+    {
+      "title": "Volim da adds a habit after work talk",
+      "body": "Volim da plus a verb lets you name a pleasure after you name a duty. Walk, read, or cook in one light line. The pattern stays in the present and avoids a full infinitive chart."
+    },
+    {
+      "title": "Eurovision stays closed while BHRT debt remains",
+      "body": "Fans in Bosnia and Herzegovina follow Eurovision even when the country cannot compete. BHRT sanctions over unpaid debt keep the broadcaster off the contest stage. Culture abroad can mirror institutional pressure at home."
+    }
+  ],
   "resources": [
     {
-      "label": "How to speak Bosnian (YouTube)",
+      "label": "Beba Selimović - Bosno moja",
+      "url": "https://www.youtube.com/watch?v=OXul62dILOo",
+      "note": "A warm Bosnia song fits daily rhythm listening."
+    },
+    {
+      "label": "Next lesson",
+      "url": "/learn/lesson/24",
+      "note": "Lesson 24 names mountains and rivers."
+    },
+    {
+      "label": "How to speak Bosnian channel",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "note": "Browse more speaker models after daily talk practice."
     }
   ],
   "sectionQuiz": {
     "title": "Lesson 23 section quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does šta radiš mean?",
+        "options": [
+          "what do you do",
+          "how much does it cost",
+          "where is it",
+          "good day"
+        ],
+        "correctIndex": 0,
+        "explanation": "Šta radiš means what do you do.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q2",
+        "question": "Which form means I work or I do?",
+        "options": [
+          "radim",
+          "radiš",
+          "radi",
+          "volim"
+        ],
+        "correctIndex": 0,
+        "explanation": "Radim means I work or I do.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q3",
+        "question": "Which line says I like to walk?",
+        "options": [
+          "Volim da šetam.",
+          "Šta radiš?",
+          "Račun, molim.",
+          "Tamo je kula."
+        ],
+        "correctIndex": 0,
+        "explanation": "Volim da šetam means I like to walk.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q4",
+        "question": "Which town appears on a lesson postcard?",
+        "options": [
+          "Zenica",
+          "Only Neum",
+          "Only Travnik",
+          "Only Brčko"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zenica appears on a lesson postcard.",
+        "skill": "culture"
+      },
+      {
+        "id": "q5",
+        "question": "Why is Bosnia and Herzegovina absent from Eurovision?",
+        "options": [
+          "BHRT remains sanctioned by the EBU over debt",
+          "The country has no musicians",
+          "Eurovision banned all Balkan states",
+          "BHRT never existed"
+        ],
+        "correctIndex": 0,
+        "explanation": "BHRT sanctions over unpaid debt block Eurovision participation.",
+        "skill": "culture"
+      },
+      {
+        "id": "q6",
+        "question": "What does danas mean?",
+        "options": [
+          "today",
+          "yesterday",
+          "tomorrow",
+          "never"
+        ],
+        "correctIndex": 0,
+        "explanation": "Danas means today.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q7",
+        "question": "What does the seller do at the market?",
+        "options": [
+          "Sells fruit",
+          "Drives a bus",
+          "Treats patients",
+          "Skis on Jahorina"
+        ],
+        "correctIndex": 0,
+        "explanation": "The seller says he sells fruit at the market.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q8",
+        "question": "Which line names a calm café rhythm?",
+        "options": [
+          "Sada je miran ritam.",
+          "Tamo je kula.",
+          "Koliko košta karta?",
+          "Boli me glava."
+        ],
+        "correctIndex": 0,
+        "explanation": "Amira says the rhythm is calm now.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q9",
+        "question": "What does posao mean?",
+        "options": [
+          "work or job",
+          "school",
+          "river",
+          "tower"
+        ],
+        "correctIndex": 0,
+        "explanation": "Posao means work or job.",
+        "skill": "vocabulary"
+      }
+    ]
   },
-  "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to. Retelling the mishap"
+  "dictionaryEntries": [
+    {
+      "day": 23,
+      "bosnian": "radim",
+      "english": "I work or I do",
+      "pronunciation": "RAH-deem",
+      "partOfSpeech": "verb form",
+      "example": "Radim danas."
+    },
+    {
+      "day": 23,
+      "bosnian": "radiš",
+      "english": "you work or you do",
+      "pronunciation": "RAH-deesh",
+      "partOfSpeech": "verb form",
+      "example": "Šta radiš danas?"
+    },
+    {
+      "day": 23,
+      "bosnian": "radi",
+      "english": "he or she works",
+      "pronunciation": "RAH-dee",
+      "partOfSpeech": "verb form",
+      "example": "Emir radi danas."
+    },
+    {
+      "day": 23,
+      "bosnian": "šta radiš",
+      "english": "what do you do",
+      "pronunciation": "shta RAH-deesh",
+      "partOfSpeech": "phrase",
+      "example": "Šta radiš danas?"
+    },
+    {
+      "day": 23,
+      "bosnian": "volim da",
+      "english": "I like to",
+      "pronunciation": "VOH-leem da",
+      "partOfSpeech": "phrase",
+      "example": "Volim da šetam."
+    },
+    {
+      "day": 23,
+      "bosnian": "danas",
+      "english": "today",
+      "pronunciation": "DAH-nas",
+      "partOfSpeech": "adverb",
+      "example": "Šta radiš danas?"
+    },
+    {
+      "day": 23,
+      "bosnian": "sada",
+      "english": "now",
+      "pronunciation": "SAH-da",
+      "partOfSpeech": "adverb",
+      "example": "Sada radim."
+    },
+    {
+      "day": 23,
+      "bosnian": "posao",
+      "english": "work or job",
+      "pronunciation": "POH-sa-oh",
+      "partOfSpeech": "noun",
+      "example": "Posao je dobar."
+    },
+    {
+      "day": 23,
+      "bosnian": "škola",
+      "english": "school",
+      "pronunciation": "SHKOH-la",
+      "partOfSpeech": "noun",
+      "example": "Idem u školu."
+    },
+    {
+      "day": 23,
+      "bosnian": "kuhati",
+      "english": "to cook",
+      "pronunciation": "koo-HAH-tee",
+      "partOfSpeech": "verb",
+      "example": "Volim da kuhati."
+    },
+    {
+      "day": 23,
+      "bosnian": "čitati",
+      "english": "to read",
+      "pronunciation": "chee-TAH-tee",
+      "partOfSpeech": "verb",
+      "example": "Volim da čitati."
+    },
+    {
+      "day": 23,
+      "bosnian": "odmor",
+      "english": "rest or break",
+      "pronunciation": "OD-mor",
+      "partOfSpeech": "noun",
+      "example": "Trebam odmor."
+    },
+    {
+      "day": 23,
+      "bosnian": "ritam",
+      "english": "rhythm",
+      "pronunciation": "REE-tam",
+      "partOfSpeech": "noun",
+      "example": "Ritam dana je miran."
+    },
+    {
+      "day": 23,
+      "bosnian": "Zenica",
+      "english": "Zenica",
+      "pronunciation": "ZEH-nee-tsa",
+      "partOfSpeech": "proper noun",
+      "example": "Zenica je industrijski grad."
+    }
   ],
-  "section": 4
+  "images": [
+    {
+      "id": "daily-cafe",
+      "alt": "Polygon painting of a busy café where people talk about daily plans.",
+      "localPath": "/images/book1/day-23-daily-cafe.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "zenica-postcard",
+      "alt": "Polygon painting of a Zenica valley postcard.",
+      "localPath": "/images/book1/day-23-zenica-postcard.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "activity-cards",
+      "alt": "Polygon painting of activity cards on a wooden table.",
+      "localPath": "/images/book1/day-23-activity-cards.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "civic-eurovision-debt",
+      "alt": "Polygon painting of a dim stage standing for Eurovision absence and BHRT debt.",
+      "localPath": "/images/book1/day-23-civic-eurovision-debt.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [
+    "daily-cafe: Café table where friends compare daily schedules",
+    "zenica-postcard: Postcard of Zenica on the Bosna River for culture hero",
+    "activity-cards: Simple activity cards with radim and volim da prompts",
+    "civic-eurovision-debt: Eurovision stage or BHRT broadcast theme for civic panel"
+  ],
+  "civicContext": {
+    "title": "BHRT stays sanctioned and Bosnia and Herzegovina misses Eurovision",
+    "body": "Bosnia and Herzegovina remains absent from the Eurovision Song Contest because BHRT stays sanctioned by the European Broadcasting Union. The public broadcaster carries unpaid debt that blocks full membership rights. Without a settled agreement, the country cannot return to the contest stage. Ana hears fans discuss the gap while she asks friends about weekend music habits. A cultural stage abroad can stay closed when institutional debt goes unresolved.",
+    "imageId": "civic-eurovision-debt",
+    "learnMore": {
+      "label": "Eurovoix article on BHRT EBU sanctions",
+      "url": "https://eurovoix.com/2023/11/13/bosnia-herzegovina-bhrt-remains-sanctioned-by-the-ebu/"
+    }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu with Bosno moja for daily rhythm",
+    "kind": "song",
+    "hook": "A warm Bosnia song gives daily talk a natural listening anchor.",
+    "source": {
+      "title": "Beba Selimović - Bosno moja",
+      "artistOrSpeaker": "Beba Selimović",
+      "regionOrScene": "Bosnian song for weekend leisure",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "Beba Selimović on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=OXul62dILOo",
+      "embedUrl": "https://www.youtube.com/watch?v=OXul62dILOo"
+    },
+    "durationHint": "45-90 seconds",
+    "listenTask": {
+      "prompt": "Listen for a place name or short word you recognize without translating every lyric.",
+      "gistQuestion": {
+        "prompt": "What kind of listening experience does the clip provide?",
+        "options": [
+          "A warm Bosnian song",
+          "A bus ticket lesson",
+          "A hospital intake form",
+          "A ski lift announcement"
+        ],
+        "correctIndex": 0
+      },
+      "targetWords": [
+        "bosno",
+        "moja"
+      ],
+      "noticePrompt": "Let the melody carry you while you notice one familiar sound."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Bosno moja",
+          "english": "My Bosnia"
+        },
+        {
+          "bosnian": "Šta radiš danas?",
+          "english": "What do you do today?"
+        }
+      ],
+      "teacherNote": "After the clip, answer šta radiš? with one radim line and one volim da line."
+    }
+  },
+  "speakTargets": [
+    0,
+    4,
+    5
+  ],
+  "section": 4,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Ovo je Sulejmanija.",
+        "english": "This is Sulejmanija."
+      },
+      {
+        "bosnian": "Šetamo kroz grad.",
+        "english": "We walk through the town."
+      },
+      {
+        "bosnian": "Često zovem Amiru.",
+        "english": "I often call Amira."
+      },
+      {
+        "bosnian": "Hvala!",
+        "english": "Thank you!"
+      }
+    ]
+  }
 }

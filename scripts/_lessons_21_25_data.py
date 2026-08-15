@@ -647,8 +647,8 @@ def build_lesson_22() -> dict:
             "body": civic_body,
             "imageId": "civic-winding-road",
             "learnMore": {
-                "label": "Wikipedia article about transport in Bosnia and Herzegovina",
-                "url": "https://en.wikipedia.org/wiki/Transport_in_Bosnia_and_Herzegovina",
+                "label": "WHO road safety country profile for Bosnia and Herzegovina",
+                "url": "https://www.who.int/publications/m/item/road-safety-bih-2023-country-profile",
             },
         },
         listen=authentic_listen(

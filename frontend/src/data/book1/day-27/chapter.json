@@ -3,56 +3,757 @@
   "book": 1,
   "title": "Posao i škola",
   "titleEn": "Work and school",
-  "theme": "Emir’s job. Ana’s study plan",
-  "status": "outlined",
+  "theme": "Emir's guide shift and Ana's study plan",
+  "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "",
+  "reviewerNotes": "This full draft is ready for human review before publication.",
   "estimatedMinutes": 60,
-  "storyBeat": "Emir’s guide job. Ana’s study plan",
+  "storyBeat": "Emir leads a morning tour in Banja Luka while Ana maps a quiet study week at the university library.",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 27. Work/school, daily routine"
+      "Name posao, škola, radim, and učim for daily routines.",
+      "Introduce kolega and student for people at work and campus.",
+      "Describe a simple weekday plan in the present."
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Use radim and učim as steady present routine verbs.",
+      "Ask Gdje radiš? and answer with a workplace chunk.",
+      "Link škola plans with želim and danas."
     ],
     "culture": [
-      "Emir’s job. Ana’s study plan"
+      "Picture campus life in Banja Luka or Mostar without repeating Sarajevo café beats.",
+      "Treat guide work and student schedules as parallel routines.",
+      "Notice how trams and offices frame a workday postcard."
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "posao",
+      "english": "job or work",
+      "pronunciation": "PO-sao",
+      "partOfSpeech": "noun",
+      "example": "Posao je dobar."
+    },
+    {
+      "bosnian": "škola",
+      "english": "school",
+      "pronunciation": "SHKOH-la",
+      "partOfSpeech": "noun",
+      "example": "Škola je blizu."
+    },
+    {
+      "bosnian": "radim",
+      "english": "I work",
+      "pronunciation": "RA-deem",
+      "partOfSpeech": "verb form",
+      "example": "Radim svaki dan."
+    },
+    {
+      "bosnian": "učim",
+      "english": "I study",
+      "pronunciation": "OO-cheem",
+      "partOfSpeech": "verb form",
+      "example": "Učim bosanski."
+    },
+    {
+      "bosnian": "kolega",
+      "english": "colleague",
+      "pronunciation": "koh-LEH-ga",
+      "partOfSpeech": "noun",
+      "example": "Kolega je ljubazan."
+    },
+    {
+      "bosnian": "student",
+      "english": "student",
+      "pronunciation": "stoo-DENT",
+      "partOfSpeech": "noun",
+      "example": "Student uči mnogo."
+    },
+    {
+      "bosnian": "profesor",
+      "english": "professor",
+      "pronunciation": "proh-feh-SOR",
+      "partOfSpeech": "noun",
+      "example": "Profesor je strogi."
+    },
+    {
+      "bosnian": "kancelarija",
+      "english": "office",
+      "pronunciation": "kan-tseh-LA-rya",
+      "partOfSpeech": "noun",
+      "example": "Kancelarija je mala."
+    },
+    {
+      "bosnian": "biblioteka",
+      "english": "library",
+      "pronunciation": "bee-blee-oh-TEH-ka",
+      "partOfSpeech": "noun",
+      "example": "Biblioteka je tiha."
+    },
+    {
+      "bosnian": "raspored",
+      "english": "schedule",
+      "pronunciation": "rahs-POR-ed",
+      "partOfSpeech": "noun",
+      "example": "Raspored je pun."
+    },
+    {
+      "bosnian": "danas",
+      "english": "today",
+      "pronunciation": "DA-nahs",
+      "partOfSpeech": "adverb",
+      "example": "Danas radim."
+    },
+    {
+      "bosnian": "svaki dan",
+      "english": "every day",
+      "pronunciation": "SVA-kee dahn",
+      "partOfSpeech": "phrase",
+      "example": "Učim svaki dan."
+    },
+    {
+      "bosnian": "gdje radiš",
+      "english": "where do you work",
+      "pronunciation": "gdyeh RAH-deesh",
+      "partOfSpeech": "phrase",
+      "example": "Gdje radiš?"
+    },
+    {
+      "bosnian": "imam pauzu",
+      "english": "I have a break",
+      "pronunciation": "EE-mam POW-zoo",
+      "partOfSpeech": "phrase",
+      "example": "Imam pauzu u podne."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Radim routine lines",
+      "explanation": "Treat this as a ready chunk you can say today. Radim tells what you do for work in the present. Add svaki dan or danas after the verb. Keep the line short so guide shifts and office talk stay sayable.",
+      "examples": [
+        {
+          "bosnian": "Radim kao vodič.",
+          "english": "I work as a guide."
+        },
+        {
+          "bosnian": "Radim u kancelariji.",
+          "english": "I work in the office."
+        },
+        {
+          "bosnian": "Danas radim rano.",
+          "english": "Today I work early."
+        }
+      ]
+    },
+    {
+      "title": "Učim study chunks",
+      "explanation": "Learn the usable chunk first. Full tables can wait. Učim names what you study now. Pair it with bosanski, u biblioteci, or sa kolegom. Present study plans need no past tense storytelling.",
+      "examples": [
+        {
+          "bosnian": "Učim bosanski.",
+          "english": "I study Bosnian."
+        },
+        {
+          "bosnian": "Učim u biblioteci.",
+          "english": "I study in the library."
+        },
+        {
+          "bosnian": "Učim svaki dan.",
+          "english": "I study every day."
+        }
+      ]
+    },
+    {
+      "title": "Workplace question shape",
+      "explanation": "Store this as a phrase you can pull out in conversation. Ask Gdje radiš? to learn where someone works. Answer with u plus a place chunk. The question shape opens polite small talk on a tram or campus path.",
+      "examples": [
+        {
+          "bosnian": "Gdje radiš?",
+          "english": "Where do you work?"
+        },
+        {
+          "bosnian": "Radim u turističkoj kancelariji.",
+          "english": "I work in the tourist office."
+        },
+        {
+          "bosnian": "Radim kao vodič u Banjoj Luci.",
+          "english": "I work as a guide in Banja Luka."
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "Emir’s job. Ana’s study plan",
-    "body": "Stub for Lesson 27. Full culture hook will be written on the draft night.",
-    "imageId": null
+    "title": "Campus and office postcard from Banja Luka",
+    "body": "Banja Luka mixes tram lines, café breaks, and a university campus where students carry notebooks beside the Vrbas River. Emir wears a guide badge for morning groups while Ana borrows a desk in the library for Bosnian homework. Office workers share quick coffee with kolega before the next meeting. Students compare raspored notes in the hallway and say učim prije ispita. A mid-size city workday feels calmer than capital rush yet still full of schedules. Present tense lines about radim and učim let you join that routine without a career memoir.",
+    "imageId": "guide-badge"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A. Work and study verbs",
+      "body": "Open with posao and škola so work and campus share one lesson frame. Practice Radim kao vodič until Emir's guide shift sounds natural on a busy morning. Add učim bosanski for Ana's study plan at the biblioteka after lunch. Name kolega and student when you point at people in the hallway between classes. Ask Gdje radiš? on the tram and answer with a place chunk that names your office or campus building. Keep radim and učim as present lines rather than a full conjugation chart on the wall. Say danas and svaki dan to anchor time without opening future tables. Say each routine sentence twice, then add hvala when a colleague opens the door for you.",
+      "tips": [
+        "Pair radim with a place chunk u plus location.",
+        "Say učim with the subject you study today.",
+        "Reuse molim when you ask a colleague for help."
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B. Schedules on a busy day",
+      "body": "Move from verbs to a full weekday raspored on paper beside your coffee cup. Say Imam pauzu u podne when Emir rests between tour groups in the old town. Ana tells Amira Želim učiti u biblioteci danas while notebooks stack on the desk. Emir meets a kolega near the kancelarija and shares a quick plan for the afternoon shift. Students pass with knjige while a tram bell rings outside the faculty window. Reuse hvala and vidimo se when the shift ends and the library lamps glow. Practice a short chain aloud. Work verb, study verb, schedule noun, break phrase, thanks, and one calm goodbye. Repeat the chain until your own weekday story feels sayable in Bosnian.",
+      "tips": [
+        "Point at a clock when you say danas or u podne.",
+        "Keep answers in the present even for future plans.",
+        "Use student and profesor to widen campus talk."
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Radni dan i biblioteka",
+    "setting": "Emir finishes a guide morning in Banja Luka while Ana and Amira plan study time and a colleague shares the office schedule.",
+    "lines": [
+      {
+        "speaker": "Emir",
+        "bosnian": "Danas radim kao vodič. Imam pun raspored.",
+        "english": "Today I work as a guide. I have a full schedule."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Ja učim u biblioteci poslije podne.",
+        "english": "I study in the library after noon."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Gdje radiš danas, Emire?",
+        "english": "Where do you work today, Emir?"
+      },
+      {
+        "speaker": "Kolega",
+        "bosnian": "Radimo u kancelariji do pet sati.",
+        "english": "We work in the office until five o'clock."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Profesor je strogi, ali studenti pomažu.",
+        "english": "The professor is strict, but students help."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Imam pauzu. Hajde na kafu.",
+        "english": "I have a break. Let us get coffee."
+      },
+      {
+        "speaker": "Kolega",
+        "bosnian": "Dobar plan. Vidimo se u školi.",
+        "english": "Good plan. See you at school."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Želim učiti bosanski svaki dan.",
+        "english": "I want to study Bosnian every day."
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match work and school words",
+      "prompt": "Match each Bosnian word with its English meaning.",
+      "items": [
+        {
+          "left": "posao",
+          "right": "job"
+        },
+        {
+          "left": "učim",
+          "right": "I study"
+        },
+        {
+          "left": "kolega",
+          "right": "colleague"
+        },
+        {
+          "left": "biblioteka",
+          "right": "library"
+        },
+        {
+          "left": "raspored",
+          "right": "schedule"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "truefalse",
+      "title": "True or false on routines",
+      "prompt": "Decide whether each sentence matches the lesson.",
+      "items": [
+        {
+          "statement": "Radim means I work.",
+          "answer": true
+        },
+        {
+          "statement": "Biblioteka means office.",
+          "answer": false
+        },
+        {
+          "statement": "Gdje radiš? asks where someone works.",
+          "answer": true
+        },
+        {
+          "statement": "Student means professor.",
+          "answer": false
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Write the Bosnian for I work as a guide.",
+      "hint": "Use Radim kao vodič.",
+      "answer": "Radim kao vodič."
+    },
+    {
+      "id": "pr2",
+      "prompt": "Write the Bosnian for I study Bosnian.",
+      "hint": "Use Učim.",
+      "answer": "Učim bosanski."
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write the Bosnian for Where do you work?",
+      "hint": "Two words.",
+      "answer": "Gdje radiš?"
+    },
+    {
+      "id": "pr4",
+      "prompt": "Write the Bosnian for I have a break at noon.",
+      "hint": "Use Imam pauzu u podne.",
+      "answer": "Imam pauzu u podne."
+    },
+    {
+      "id": "pr5",
+      "prompt": "Write the Bosnian word for colleague.",
+      "hint": "It begins with kol.",
+      "answer": "kolega"
+    },
+    {
+      "id": "pr6",
+      "prompt": "Write the Bosnian for Today I work early.",
+      "hint": "Begin with Danas.",
+      "answer": "Danas radim rano."
+    },
+    {
+      "id": "pr7",
+      "prompt": "Write the Bosnian for I study in the library.",
+      "hint": "Use biblioteka.",
+      "answer": "Učim u biblioteci."
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "Banja Luka trams frame the commute",
+      "body": "Banja Luka workers and students often meet on trams between campus and downtown offices. A guide badge and a notebook bag fit the same morning rhythm. Present tense commute talk keeps the city feel real."
+    },
+    {
+      "title": "Radim is a daily anchor",
+      "body": "Radim plus a role or place tells people what you do now. Guides, clerks, and office staff all reuse the same short line. You do not need every case ending to sound employed."
+    },
+    {
+      "title": "Biblioteka hours teach patience",
+      "body": "University libraries in Bosnia and Herzegovina can be quiet islands on a loud day. Ana's study plan shows how učim fits academic life without a grammar lecture."
+    },
+    {
+      "title": "Kolega opens office small talk",
+      "body": "Naming a kolega humanizes workplace scenes. One polite question about posao can start a friendly break. Keep the tone present and practical."
+    }
+  ],
   "resources": [
     {
-      "label": "How to speak Bosnian (YouTube)",
+      "label": "Learn Bosnian telling time (YouTube)",
+      "url": "https://www.youtube.com/watch?v=0xiYbtHQaDc",
+      "note": "Clock phrases help you read work and class schedules."
+    },
+    {
+      "label": "Next lesson",
+      "url": "/learn/lesson/28",
+      "note": "Lesson 28 reaches Mostar and the Neretva."
+    },
+    {
+      "label": "How to speak Bosnian channel",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "note": "Browse more speaker models after you finish the lesson."
     }
   ],
   "sectionQuiz": {
     "title": "Lesson 27 section quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does radim mean?",
+        "options": [
+          "I work",
+          "I study",
+          "I rent",
+          "I jump"
+        ],
+        "correctIndex": 0,
+        "explanation": "Radim means I work.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q2",
+        "question": "Which line says I study Bosnian?",
+        "options": [
+          "Radim kao vodič.",
+          "Učim bosanski.",
+          "Imam pauzu.",
+          "Gdje radiš?"
+        ],
+        "correctIndex": 1,
+        "explanation": "Učim bosanski means I study Bosnian.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q3",
+        "question": "What does biblioteka mean?",
+        "options": [
+          "Library",
+          "Office",
+          "Tram",
+          "Contract"
+        ],
+        "correctIndex": 0,
+        "explanation": "Biblioteka means library.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q4",
+        "question": "Where does Emir work as a guide?",
+        "options": [
+          "Banja Luka",
+          "Neum only",
+          "Berlin",
+          "Dublin"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emir guides in Banja Luka.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q5",
+        "question": "Which question asks where someone works?",
+        "options": [
+          "Gdje radiš?",
+          "Koliko je kirija?",
+          "Može? Mogu pogledati stan?",
+          "Kakvo je vrijeme?"
+        ],
+        "correctIndex": 0,
+        "explanation": "Gdje radiš? asks where you work.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q6",
+        "question": "What does kolega mean?",
+        "options": [
+          "Colleague",
+          "Student",
+          "Landlord",
+          "Driver"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kolega means colleague.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q7",
+        "question": "What civic topic does this lesson highlight?",
+        "options": [
+          "Republika Srpska leaders push secessionist rhetoric against state authority",
+          "All schools are closed forever",
+          "Guides are illegal",
+          "Libraries ban Bosnian books"
+        ],
+        "correctIndex": 0,
+        "explanation": "Leaders in Republika Srpska continually challenge state-level judicial and police authority.",
+        "skill": "culture"
+      },
+      {
+        "id": "q8",
+        "question": "What does Ana do after noon?",
+        "options": [
+          "Studies in the library",
+          "Jumps from Stari Most",
+          "Rents a flat in Zenica",
+          "Buys bus tickets"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ana studies in the library after noon.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q9",
+        "question": "Which phrase means I have a break?",
+        "options": [
+          "Imam pauzu",
+          "Imam ugovor",
+          "Imam kiriju",
+          "Imam kartu"
+        ],
+        "correctIndex": 0,
+        "explanation": "Imam pauzu means I have a break.",
+        "skill": "grammar"
+      }
+    ]
   },
-  "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to. Emir’s job. Ana’s study plan"
+  "dictionaryEntries": [
+    {
+      "day": 27,
+      "bosnian": "posao",
+      "english": "job or work",
+      "pronunciation": "PO-sao",
+      "partOfSpeech": "noun",
+      "example": "Posao je dobar."
+    },
+    {
+      "day": 27,
+      "bosnian": "škola",
+      "english": "school",
+      "pronunciation": "SHKOH-la",
+      "partOfSpeech": "noun",
+      "example": "Škola je blizu."
+    },
+    {
+      "day": 27,
+      "bosnian": "radim",
+      "english": "I work",
+      "pronunciation": "RA-deem",
+      "partOfSpeech": "verb form",
+      "example": "Radim svaki dan."
+    },
+    {
+      "day": 27,
+      "bosnian": "učim",
+      "english": "I study",
+      "pronunciation": "OO-cheem",
+      "partOfSpeech": "verb form",
+      "example": "Učim bosanski."
+    },
+    {
+      "day": 27,
+      "bosnian": "kolega",
+      "english": "colleague",
+      "pronunciation": "koh-LEH-ga",
+      "partOfSpeech": "noun",
+      "example": "Kolega je ljubazan."
+    },
+    {
+      "day": 27,
+      "bosnian": "student",
+      "english": "student",
+      "pronunciation": "stoo-DENT",
+      "partOfSpeech": "noun",
+      "example": "Student uči mnogo."
+    },
+    {
+      "day": 27,
+      "bosnian": "profesor",
+      "english": "professor",
+      "pronunciation": "proh-feh-SOR",
+      "partOfSpeech": "noun",
+      "example": "Profesor je strogi."
+    },
+    {
+      "day": 27,
+      "bosnian": "kancelarija",
+      "english": "office",
+      "pronunciation": "kan-tseh-LA-rya",
+      "partOfSpeech": "noun",
+      "example": "Kancelarija je mala."
+    },
+    {
+      "day": 27,
+      "bosnian": "biblioteka",
+      "english": "library",
+      "pronunciation": "bee-blee-oh-TEH-ka",
+      "partOfSpeech": "noun",
+      "example": "Biblioteka je tiha."
+    },
+    {
+      "day": 27,
+      "bosnian": "raspored",
+      "english": "schedule",
+      "pronunciation": "rahs-POR-ed",
+      "partOfSpeech": "noun",
+      "example": "Raspored je pun."
+    },
+    {
+      "day": 27,
+      "bosnian": "danas",
+      "english": "today",
+      "pronunciation": "DA-nahs",
+      "partOfSpeech": "adverb",
+      "example": "Danas radim."
+    },
+    {
+      "day": 27,
+      "bosnian": "svaki dan",
+      "english": "every day",
+      "pronunciation": "SVA-kee dahn",
+      "partOfSpeech": "phrase",
+      "example": "Učim svaki dan."
+    },
+    {
+      "day": 27,
+      "bosnian": "gdje radiš",
+      "english": "where do you work",
+      "pronunciation": "gdyeh RAH-deesh",
+      "partOfSpeech": "phrase",
+      "example": "Gdje radiš?"
+    },
+    {
+      "day": 27,
+      "bosnian": "imam pauzu",
+      "english": "I have a break",
+      "pronunciation": "EE-mam POW-zoo",
+      "partOfSpeech": "phrase",
+      "example": "Imam pauzu u podne."
+    }
   ],
-  "section": 4
+  "images": [
+    {
+      "id": "guide-badge",
+      "alt": "Polygon painting of a tour guide badge and map.",
+      "localPath": "/images/book1/day-27-guide-badge.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "classroom-desk",
+      "alt": "Polygon painting of a classroom desk and notebook.",
+      "localPath": "/images/book1/day-27-classroom-desk.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "office-tram",
+      "alt": "Polygon painting of a tram commute toward work.",
+      "localPath": "/images/book1/day-27-office-tram.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "civic-rs-secession",
+      "alt": "Polygon painting of institutional tension around entity challenges to state authority.",
+      "localPath": "/images/book1/day-27-civic-rs-secession.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [
+    "Guide badge and morning group in Banja Luka for guide-badge.",
+    "Classroom desk with notebooks for classroom-desk.",
+    "Office window beside a tram line for office-tram.",
+    "News still on Republika Srpska political rally for civic-rs-secession."
+  ],
+  "civicContext": {
+    "title": "Republika Srpska rhetoric keeps challenging state authority",
+    "body": "Political leaders in Republika Srpska repeatedly float secessionist language and resist rulings from state-level courts and police structures in Bosnia and Herzegovina. Entity institutions celebrate parallel holidays and symbols while ministers question binding decisions from Sarajevo. For young workers and students, that friction shows up as competing news headlines above the same tram line. A routine workday therefore sits inside a constitutional tug-of-war that is louder than a campus schedule yet just as daily.",
+    "imageId": "civic-rs-secession",
+    "learnMore": {
+      "label": "Wikipedia article on proposed secession of Republika Srpska",
+      "url": "https://en.wikipedia.org/wiki/Proposed_secession_of_Republika_Srpska"
+    }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu with clock phrases for schedules",
+    "kind": "speaker",
+    "hook": "A teacher models clock language you can place beside radim and učim.",
+    "source": {
+      "title": "Learn Bosnian. Telling Time (Sati i Minuti)",
+      "artistOrSpeaker": "Lingo Hero",
+      "regionOrScene": "Clock and schedule language",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "Lingo Hero on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=0xiYbtHQaDc",
+      "embedUrl": "https://www.youtube.com/watch?v=0xiYbtHQaDc"
+    },
+    "durationHint": "45-90 seconds",
+    "listenTask": {
+      "prompt": "Listen for a time phrase you could place beside Imam pauzu.",
+      "gistQuestion": {
+        "prompt": "What is the speaker mainly teaching?",
+        "options": [
+          "Telling time and clock language",
+          "Cooking burek",
+          "Phone emergencies",
+          "Holiday greetings"
+        ],
+        "correctIndex": 0
+      },
+      "targetWords": [
+        "sati",
+        "koliko"
+      ],
+      "noticePrompt": "Catch the question shape for time rather than every number."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Koliko je sati?",
+          "english": "What time is it?"
+        },
+        {
+          "bosnian": "Imam pauzu u podne.",
+          "english": "I have a break at noon."
+        }
+      ],
+      "teacherNote": "After the clip, say one work or study line with a time word you know."
+    }
+  },
+  "speakTargets": [
+    0,
+    5
+  ],
+  "section": 4,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Danas radim.",
+        "english": "Today I work."
+      },
+      {
+        "bosnian": "Učim bosanski.",
+        "english": "I study Bosnian."
+      },
+      {
+        "bosnian": "Gdje je stanica?",
+        "english": "Where is the station?"
+      },
+      {
+        "bosnian": "Hajde da idemo.",
+        "english": "Let us go."
+      }
+    ]
+  }
 }

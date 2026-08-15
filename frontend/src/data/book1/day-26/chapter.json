@@ -4,55 +4,756 @@
   "title": "Stanovanje",
   "titleEn": "Housing",
   "theme": "Looking at a longer stay",
-  "status": "outlined",
+  "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "",
+  "reviewerNotes": "This full draft is ready for human review before publication.",
   "estimatedMinutes": 60,
-  "storyBeat": "Almost renting longer",
+  "storyBeat": "Ana and Emir visit a Zenica flat with Amira and almost sign a monthly lease with the landlord.",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 26. Flats, rent, moći/morati"
+      "Name stan, soba, kirija, and namještaj for a rental visit.",
+      "Use može and moraš as present permission and obligation chunks.",
+      "Ask Koliko je kirija? and talk about a monthly stay."
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Use Može? and Može. as quick permission lines.",
+      "Say moraš with rent and contract nouns in the present.",
+      "Describe a flat with ima and soba phrases."
     ],
     "culture": [
-      "Looking at a longer stay"
+      "Picture apartment hunting in Zenica near schools and tram lines.",
+      "Treat a hallway tour as polite present-tense practice.",
+      "Notice how returnees and young families compete for the same flats."
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "stan",
+      "english": "apartment",
+      "pronunciation": "stahn",
+      "partOfSpeech": "noun",
+      "example": "Stan je sunčan."
+    },
+    {
+      "bosnian": "soba",
+      "english": "room",
+      "pronunciation": "SO-ba",
+      "partOfSpeech": "noun",
+      "example": "Soba je velika."
+    },
+    {
+      "bosnian": "kirija",
+      "english": "rent",
+      "pronunciation": "KEE-rya",
+      "partOfSpeech": "noun",
+      "example": "Kirija je mjesečno."
+    },
+    {
+      "bosnian": "namještaj",
+      "english": "furniture",
+      "pronunciation": "nah-MYEH-shtai",
+      "partOfSpeech": "noun",
+      "example": "Namještaj je star."
+    },
+    {
+      "bosnian": "kuhinja",
+      "english": "kitchen",
+      "pronunciation": "koo-HEE-nya",
+      "partOfSpeech": "noun",
+      "example": "Kuhinja je čista."
+    },
+    {
+      "bosnian": "kupatilo",
+      "english": "bathroom",
+      "pronunciation": "koo-pa-TEE-lo",
+      "partOfSpeech": "noun",
+      "example": "Kupatilo je malo."
+    },
+    {
+      "bosnian": "ključ",
+      "english": "key",
+      "pronunciation": "klyooch",
+      "partOfSpeech": "noun",
+      "example": "Gdje je ključ?"
+    },
+    {
+      "bosnian": "ugovor",
+      "english": "contract",
+      "pronunciation": "OO-goh-vor",
+      "partOfSpeech": "noun",
+      "example": "Trebam ugovor."
+    },
+    {
+      "bosnian": "može",
+      "english": "it is OK or allowed",
+      "pronunciation": "MO-zheh",
+      "partOfSpeech": "phrase",
+      "example": "Može. Ulazite."
+    },
+    {
+      "bosnian": "moraš",
+      "english": "you must",
+      "pronunciation": "MO-rash",
+      "partOfSpeech": "verb form",
+      "example": "Moraš platiti kiriju."
+    },
+    {
+      "bosnian": "mjesečno",
+      "english": "monthly",
+      "pronunciation": "myeh-SEHCH-no",
+      "partOfSpeech": "adverb",
+      "example": "Plaćam mjesečno."
+    },
+    {
+      "bosnian": "pogledati",
+      "english": "to look at",
+      "pronunciation": "poh-gleh-DA-tee",
+      "partOfSpeech": "verb",
+      "example": "Želim pogledati stan."
+    },
+    {
+      "bosnian": "iznajmiti",
+      "english": "to rent",
+      "pronunciation": "eez-nai-MEE-tee",
+      "partOfSpeech": "verb",
+      "example": "Želim iznajmiti stan."
+    },
+    {
+      "bosnian": "koliko je kirija",
+      "english": "how much is the rent",
+      "pronunciation": "KO-lee-ko yeh KEE-rya",
+      "partOfSpeech": "phrase",
+      "example": "Koliko je kirija?"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Može permission chunks",
+      "explanation": "Learn this as a full phrase. Do not treat it as a table. Može? asks if something is allowed. Može. answers yes in one calm word. Ne može. refuses without a tense chart. Pair the chunk with ulazite or sjedite when you visit a flat.",
+      "examples": [
+        {
+          "bosnian": "Može? Mogu pogledati stan?",
+          "english": "May I? Can I look at the apartment?"
+        },
+        {
+          "bosnian": "Može. Ulazite.",
+          "english": "Yes. Come in."
+        },
+        {
+          "bosnian": "Ne može. Nema ključa.",
+          "english": "Not allowed. There is no key."
+        }
+      ]
+    },
+    {
+      "title": "Moraš obligation lines",
+      "explanation": "Hold this as a spoken pattern. Do not treat it as a grammar grid. Moraš tells one person what they must do now. Add platiti kiriju or imati ugovor right after the chunk. Stay in the present so the landlord talk stays practical.",
+      "examples": [
+        {
+          "bosnian": "Moraš platiti kiriju.",
+          "english": "You must pay the rent."
+        },
+        {
+          "bosnian": "Moraš imati ugovor.",
+          "english": "You must have a contract."
+        },
+        {
+          "bosnian": "Moraš biti tačan.",
+          "english": "You must be on time."
+        }
+      ]
+    },
+    {
+      "title": "Rent question shape",
+      "explanation": "Take this as a speaking chunk. Do not memorize a case chart yet. Ask Koliko je kirija? when you stand in the hallway. Answer Kirija je mjesečno. Add a number later. The question shape matters more than every case ending today.",
+      "examples": [
+        {
+          "bosnian": "Koliko je kirija?",
+          "english": "How much is the rent?"
+        },
+        {
+          "bosnian": "Kirija je mjesečno.",
+          "english": "The rent is monthly."
+        },
+        {
+          "bosnian": "Kirija je tri stotine.",
+          "english": "The rent is three hundred."
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "Looking at a longer stay",
-    "body": "Stub for Lesson 26. Full culture hook will be written on the draft night.",
-    "imageId": null
+    "title": "Flat hunting in Zenica",
+    "body": "In Zenica many newcomers hunt flats through word of mouth, online ads, and quick visits after work. Ana and Emir climb a staircase in a block near the steelworks and imagine a longer stay beyond the guest room above the café. The landlord opens a bright kitchen and points to a corner where a sofa already waits. Kirija is discussed in marks per month on a handwritten note taped to the door. Young families and returnees often compete for the same two-room flats near schools and tram lines. A polite visit with molim and clear questions about rent can turn a hallway tour into a serious conversation about keys.",
+    "imageId": "flat-kitchen"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A. Permission and rent questions",
+      "body": "Start with stan, soba, and kirija so the hallway has real nouns before you step inside. Practice Može? Mogu pogledati stan? until the permission chunk sounds natural at a closed door. Ask Koliko je kirija? while you still wear your shoes in the corridor. Add kuhinja and kupatilo as you walk through each room. Ana repeats mjesečno with the landlord while Emir counts windows and checks the light. Keep može and moraš as spoken lines rather than a modal verb table. Point at namještaj in the corner and say ima mali sto. Reuse molim when you enter and hvala when you leave each room. Say each rent question twice, then thank the landlord with hvala before you step back into the stairwell.",
+      "tips": [
+        "Keep Može? and the follow-up question in one breath.",
+        "Pair kirija with mjesečno when you talk about monthly pay.",
+        "Stay in the present even when you plan a longer stay."
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B. Almost signing the lease",
+      "body": "Move from the tour to the table where an ugovor waits beside a pen. Say Moraš platiti kiriju when the landlord explains house rules in plain language. Describe namještaj with ima and lijep when you point at the sofa corner. Amira asks about ključ and Ana says Želim iznajmiti stan for three months. Emir checks that kuhinja i kupatilo su čisti before he nods toward the balcony. Reuse molim and hvala with the landlord so the scene stays polite end to end. Practice a short chain aloud. Permission, rent, room names, obligation, thanks, and one calm goodbye at the door. Repeat the chain until signing feels possible even if you still need one night to decide.",
+      "tips": [
+        "Reuse Imam from earlier lessons when you claim a favorite room.",
+        "Say namještaj slowly. It is a long but useful word.",
+        "End with hvala even if you need time to decide."
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Pogled stana u Zenici",
+    "setting": "Ana, Emir, and Amira visit a Zenica flat with the landlord before a possible longer stay.",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "bosnian": "Dobar dan. Može? Mogu pogledati stan?",
+        "english": "Good day. May I? Can I look at the apartment?"
+      },
+      {
+        "speaker": "Landlord",
+        "bosnian": "Može. Ulazite. Ovo je kuhinja.",
+        "english": "Yes. Come in. This is the kitchen."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Koliko je kirija mjesečno?",
+        "english": "How much is the rent monthly?"
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Soba je sunčana. Imam dobar osjećaj.",
+        "english": "The room is sunny. I have a good feeling."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Želim iznajmiti stan na tri mjeseca.",
+        "english": "I want to rent the apartment for three months."
+      },
+      {
+        "speaker": "Landlord",
+        "bosnian": "Moraš platiti kiriju prvog u mjesecu.",
+        "english": "You must pay the rent on the first of the month."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Imamo ugovor i ključ danas?",
+        "english": "Do we have a contract and key today?"
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Hvala. Razmislimo do večeri.",
+        "english": "Thank you. We will think until evening."
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match housing words",
+      "prompt": "Match each Bosnian housing word with its English meaning.",
+      "items": [
+        {
+          "left": "kirija",
+          "right": "rent"
+        },
+        {
+          "left": "namještaj",
+          "right": "furniture"
+        },
+        {
+          "left": "kuhinja",
+          "right": "kitchen"
+        },
+        {
+          "left": "ključ",
+          "right": "key"
+        },
+        {
+          "left": "ugovor",
+          "right": "contract"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "truefalse",
+      "title": "True or false at the flat",
+      "prompt": "Decide whether each sentence matches the lesson.",
+      "items": [
+        {
+          "statement": "Može. Ulazite. means yes, come in.",
+          "answer": true
+        },
+        {
+          "statement": "Moraš platiti kiriju means you must pay the rent.",
+          "answer": true
+        },
+        {
+          "statement": "Kupatilo means kitchen.",
+          "answer": false
+        },
+        {
+          "statement": "Koliko je kirija? asks about rent.",
+          "answer": true
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Write the Bosnian for May I look at the apartment?",
+      "hint": "Begin with Može?",
+      "answer": "Može? Mogu pogledati stan?"
+    },
+    {
+      "id": "pr2",
+      "prompt": "Write the Bosnian for How much is the rent?",
+      "hint": "Use kirija.",
+      "answer": "Koliko je kirija?"
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write the Bosnian for You must pay the rent.",
+      "hint": "Begin with Moraš.",
+      "answer": "Moraš platiti kiriju."
+    },
+    {
+      "id": "pr4",
+      "prompt": "Write the Bosnian for The kitchen is clean.",
+      "hint": "Use kuhinja and čista.",
+      "answer": "Kuhinja je čista."
+    },
+    {
+      "id": "pr5",
+      "prompt": "Write the Bosnian word for furniture.",
+      "hint": "It begins with nam.",
+      "answer": "namještaj"
+    },
+    {
+      "id": "pr6",
+      "prompt": "Write the Bosnian for I want to rent the apartment.",
+      "hint": "Use Želim iznajmiti stan.",
+      "answer": "Želim iznajmiti stan."
+    },
+    {
+      "id": "pr7",
+      "prompt": "Write the Bosnian for Yes. Come in.",
+      "hint": "Use Može and ulazite.",
+      "answer": "Može. Ulazite."
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "Zenica mixes industry and student life",
+      "body": "Zenica sits in central Bosnia and Herzegovina with factories, university students, and tram lines that shape daily housing hunts. Flats near campus and the steelworks turn over quickly. Learners who visit a block staircase practice real city vocabulary rather than only café small talk."
+    },
+    {
+      "title": "Kirija is often monthly",
+      "body": "Rent talk in Bosnia and Herzegovina usually centers on a monthly kirija figure. Landlords may write the number on a note or say it in the hallway. Learning Koliko je kirija? prepares you for that first practical question."
+    },
+    {
+      "title": "Može is a door opener",
+      "body": "Može? at a doorway is faster than a long grammar explanation. The answer Može. invites you inside with one calm word. Present permission chunks keep housing visits friendly."
+    },
+    {
+      "title": "Namještaj can be light",
+      "body": "Some flats come with basic namještaj while others are empty. A sofa corner and kitchen table are enough to describe a place today. Point and name rather than memorizing a furniture catalog."
+    }
+  ],
   "resources": [
     {
-      "label": "How to speak Bosnian (YouTube)",
+      "label": "Learn Bosnian house vocabulary (YouTube)",
+      "url": "https://www.youtube.com/watch?v=lTp-jz2azsI",
+      "note": "Room and house words support flat visits."
+    },
+    {
+      "label": "Next lesson",
+      "url": "/learn/lesson/27",
+      "note": "Lesson 27 follows Emir at work and Ana at school."
+    },
+    {
+      "label": "How to speak Bosnian channel",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "note": "Browse more speaker models after you finish the lesson."
     }
   ],
   "sectionQuiz": {
     "title": "Lesson 26 section quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does kirija mean?",
+        "options": [
+          "Rent",
+          "Key",
+          "Kitchen",
+          "Contract"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kirija means rent.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q2",
+        "question": "Which line asks permission to enter?",
+        "options": [
+          "Moraš platiti kiriju.",
+          "Može? Mogu pogledati stan?",
+          "Kuhinja je čista.",
+          "Namještaj je star."
+        ],
+        "correctIndex": 1,
+        "explanation": "Može? Mogu pogledati stan? asks permission.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q3",
+        "question": "What does moraš platiti kiriju mean?",
+        "options": [
+          "You must pay the rent.",
+          "The rent is monthly.",
+          "The key is here.",
+          "Come in."
+        ],
+        "correctIndex": 0,
+        "explanation": "Moraš platiti kiriju means you must pay the rent.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q4",
+        "question": "Which room word means bathroom?",
+        "options": [
+          "kuhinja",
+          "kupatilo",
+          "soba",
+          "stan"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kupatilo means bathroom.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q5",
+        "question": "Where does the culture scene take place?",
+        "options": [
+          "Zenica",
+          "Neum beach only",
+          "Jajce waterfall only",
+          "Brčko port"
+        ],
+        "correctIndex": 0,
+        "explanation": "The flat hunt is set in Zenica.",
+        "skill": "culture"
+      },
+      {
+        "id": "q6",
+        "question": "Who speaks as the landlord in the dialogue?",
+        "options": [
+          "Landlord",
+          "Mrvica",
+          "Clerk",
+          "Driver"
+        ],
+        "correctIndex": 0,
+        "explanation": "The landlord shows the kitchen and explains rent.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q7",
+        "question": "What civic pressure does this housing lesson highlight?",
+        "options": [
+          "Returnee Bosniaks in Republika Srpska face hostile community pressure",
+          "All rents are free nationwide",
+          "Only Sarajevo has apartments",
+          "Contracts are illegal"
+        ],
+        "correctIndex": 0,
+        "explanation": "Returnees especially Bosniaks in Republika Srpska can face hostile community environments.",
+        "skill": "culture"
+      },
+      {
+        "id": "q8",
+        "question": "Which word means furniture?",
+        "options": [
+          "ključ",
+          "namještaj",
+          "ugovor",
+          "mjesečno"
+        ],
+        "correctIndex": 1,
+        "explanation": "Namještaj means furniture.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q9",
+        "question": "What does Ana want to do for three months?",
+        "options": [
+          "Rent the apartment",
+          "Buy a bus ticket",
+          "Jump from Stari Most",
+          "Write a novel"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ana wants to rent the apartment for three months.",
+        "skill": "dialogue"
+      }
+    ]
   },
-  "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to. Looking at a longer stay"
+  "dictionaryEntries": [
+    {
+      "day": 26,
+      "bosnian": "stan",
+      "english": "apartment",
+      "pronunciation": "stahn",
+      "partOfSpeech": "noun",
+      "example": "Stan je sunčan."
+    },
+    {
+      "day": 26,
+      "bosnian": "soba",
+      "english": "room",
+      "pronunciation": "SO-ba",
+      "partOfSpeech": "noun",
+      "example": "Soba je velika."
+    },
+    {
+      "day": 26,
+      "bosnian": "kirija",
+      "english": "rent",
+      "pronunciation": "KEE-rya",
+      "partOfSpeech": "noun",
+      "example": "Kirija je mjesečno."
+    },
+    {
+      "day": 26,
+      "bosnian": "namještaj",
+      "english": "furniture",
+      "pronunciation": "nah-MYEH-shtai",
+      "partOfSpeech": "noun",
+      "example": "Namještaj je star."
+    },
+    {
+      "day": 26,
+      "bosnian": "kuhinja",
+      "english": "kitchen",
+      "pronunciation": "koo-HEE-nya",
+      "partOfSpeech": "noun",
+      "example": "Kuhinja je čista."
+    },
+    {
+      "day": 26,
+      "bosnian": "kupatilo",
+      "english": "bathroom",
+      "pronunciation": "koo-pa-TEE-lo",
+      "partOfSpeech": "noun",
+      "example": "Kupatilo je malo."
+    },
+    {
+      "day": 26,
+      "bosnian": "ključ",
+      "english": "key",
+      "pronunciation": "klyooch",
+      "partOfSpeech": "noun",
+      "example": "Gdje je ključ?"
+    },
+    {
+      "day": 26,
+      "bosnian": "ugovor",
+      "english": "contract",
+      "pronunciation": "OO-goh-vor",
+      "partOfSpeech": "noun",
+      "example": "Trebam ugovor."
+    },
+    {
+      "day": 26,
+      "bosnian": "može",
+      "english": "it is OK or allowed",
+      "pronunciation": "MO-zheh",
+      "partOfSpeech": "phrase",
+      "example": "Može. Ulazite."
+    },
+    {
+      "day": 26,
+      "bosnian": "moraš",
+      "english": "you must",
+      "pronunciation": "MO-rash",
+      "partOfSpeech": "verb form",
+      "example": "Moraš platiti kiriju."
+    },
+    {
+      "day": 26,
+      "bosnian": "mjesečno",
+      "english": "monthly",
+      "pronunciation": "myeh-SEHCH-no",
+      "partOfSpeech": "adverb",
+      "example": "Plaćam mjesečno."
+    },
+    {
+      "day": 26,
+      "bosnian": "pogledati",
+      "english": "to look at",
+      "pronunciation": "poh-gleh-DA-tee",
+      "partOfSpeech": "verb",
+      "example": "Želim pogledati stan."
+    },
+    {
+      "day": 26,
+      "bosnian": "iznajmiti",
+      "english": "to rent",
+      "pronunciation": "eez-nai-MEE-tee",
+      "partOfSpeech": "verb",
+      "example": "Želim iznajmiti stan."
+    },
+    {
+      "day": 26,
+      "bosnian": "koliko je kirija",
+      "english": "how much is the rent",
+      "pronunciation": "KO-lee-ko yeh KEE-rya",
+      "partOfSpeech": "phrase",
+      "example": "Koliko je kirija?"
+    }
   ],
-  "section": 4
+  "images": [
+    {
+      "id": "flat-kitchen",
+      "alt": "Polygon painting of a bright flat kitchen.",
+      "localPath": "/images/book1/day-26-flat-kitchen.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "apartment-door",
+      "alt": "Polygon painting of an apartment door and keys.",
+      "localPath": "/images/book1/day-26-apartment-door.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "furniture-corner",
+      "alt": "Polygon painting of a furnished room corner.",
+      "localPath": "/images/book1/day-26-furniture-corner.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "civic-returnee-pressure",
+      "alt": "Polygon painting of a quiet returnee house under local pressure.",
+      "localPath": "/images/book1/day-26-civic-returnee-pressure.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [
+    "Polygon scene of a bright flat kitchen in Zenica for culture hero flat-kitchen.",
+    "Apartment door with a handwritten rent note for apartment-door.",
+    "Sofa corner with light namještaj for furniture-corner.",
+    "Documentary still on returnee housing pressure for civic-returnee-pressure."
+  ],
+  "civicContext": {
+    "title": "Returnee housing still meets quiet hostility",
+    "body": "Thousands of Bosniaks who returned to homes in Republika Srpska after the war still meet cold stares, segregated schools, and political rhetoric that treats them as guests rather than citizens. International monitors document pressure on minority communities through blocked employment, disputed property cases, and symbols that celebrate wartime actors. Return is legal on paper, yet daily life can shrink to a few safe streets and family visits. Housing hunts in mixed towns therefore carry quiet fear beneath the rent question. Learners who rent a flat hear how peace agreements and neighborly politeness do not erase structural hostility overnight.",
+    "imageId": "civic-returnee-pressure",
+    "learnMore": {
+      "label": "Wikipedia article on return of refugees and IDPs in Bosnia and Herzegovina",
+      "url": "https://en.wikipedia.org/wiki/Return_of_refugees_and_IDPs_in_Bosnia_and_Herzegovina"
+    }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu with house and room words",
+    "kind": "speaker",
+    "hook": "A short lesson models room vocabulary you can reuse when you tour a flat.",
+    "source": {
+      "title": "Learn Bosnian - House vocabulary",
+      "artistOrSpeaker": "Learn Bosnian with Elma",
+      "regionOrScene": "Home and room language",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "Learn Bosnian with Elma on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=lTp-jz2azsI",
+      "embedUrl": "https://www.youtube.com/watch?v=lTp-jz2azsI"
+    },
+    "durationHint": "45-90 seconds",
+    "listenTask": {
+      "prompt": "Listen for a room word you could point to during a flat visit.",
+      "gistQuestion": {
+        "prompt": "What is the speaker mainly teaching?",
+        "options": [
+          "House and room vocabulary",
+          "Football scores",
+          "Holiday greetings",
+          "Phone emergencies"
+        ],
+        "correctIndex": 0
+      },
+      "targetWords": [
+        "soba",
+        "stan"
+      ],
+      "noticePrompt": "You do not need every case ending. Catch one room noun you recognize."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Moja soba je mala.",
+          "english": "My room is small."
+        },
+        {
+          "bosnian": "Stan je sunčan.",
+          "english": "The apartment is sunny."
+        }
+      ],
+      "teacherNote": "After the clip, name one room in your imaginary flat aloud."
+    }
+  },
+  "speakTargets": [
+    0,
+    4
+  ],
+  "section": 4,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Moja soba je mala.",
+        "english": "My room is small."
+      },
+      {
+        "bosnian": "Stan je iznad kafića.",
+        "english": "The apartment is above the café."
+      },
+      {
+        "bosnian": "Koliko košta?",
+        "english": "How much does it cost?"
+      },
+      {
+        "bosnian": "Hvala, molim.",
+        "english": "Thank you, please."
+      }
+    ]
+  }
 }

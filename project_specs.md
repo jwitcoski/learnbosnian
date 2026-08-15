@@ -33,8 +33,8 @@
 | C | 8–10 | draft (same fashion) |
 | D | 11–15 | draft (weather, park, people, review, directions) |
 | E | 16–20 | draft (bus, restaurant, hobbies, holidays, phone) |
-| F | 21 | outlined (section 3 review) |
-| G–H | 22–30 | Section 4 travel/longer stay (present only) + finale |
+| F | 21 | draft (section 3 review) |
+| G–H | 22–30 | draft (Section 4 travel/longer stay + finale) |
 
 ## Characters
 
@@ -65,16 +65,16 @@ Ana (learner), Emir (guide), Amira (café), Mrvica (cat)
 | 18 | Sport i hobiji | draft | Civic locked to cantonal universities and private colleges | script ready |
 | 19 | Praznici | draft | Civic locked to Gulf-funded mosque reconstruction | script ready |
 | 20 | Telefonski poziv | draft | Civic locked to Southern Interconnection gas deal | script ready |
-| 21 | Sedmica 3 — ponavljanje | outlined | | |
-| 22 | Jučer u Travniku | outlined | | |
-| 23 | Šta si radio/radila? | outlined | | |
-| 24 | Planine i rijeke | outlined | | |
-| 25 | Kod doktora | outlined | | |
-| 26 | Stanovanje | outlined | | |
-| 27 | Posao i škola | outlined | | |
-| 28 | Mostar napokon! | outlined | | |
-| 29 | Pisma iz BiH | outlined | | |
-| 30 | Završna proslava | outlined | | |
+| 21 | Ponavljanje | draft | Section 3 review; civic rural bus loss | script ready |
+| 22 | Danas u Travniku | draft | Civic winding roads / traffic deaths | script ready |
+| 23 | Šta radiš? | draft | Civic BHRT Eurovision debt | script ready |
+| 24 | Planine i rijeke | draft | Civic Jahorina vs Bjelašnica/Igman | script ready |
+| 25 | Kod doktora | draft | Civic 2013 JMBG baby ID crisis | script ready |
+| 26 | Stanovanje | draft | Civic returnee pressure in RS | script ready |
+| 27 | Posao i škola | draft | Civic RS secession challenges | script ready |
+| 28 | Mostar napokon! | draft | Civic Međugorje / church judgment | script ready |
+| 29 | Pisma iz BiH | draft | Civic genocide denial | script ready |
+| 30 | Završna proslava | draft | Civic Night Wolves in RS | script ready |
 
 ## Books 2–3
 
@@ -95,6 +95,8 @@ Teaser outlines only — see `content/book2/outline.json` and `content/book3/out
 - [x] Recorder trim + accept-before-upload (Female 1 = vocab, Male 1 = male parts, F2/M2 if needed)
 - [x] Lessons 8–10 full drafts (food, shop, home)
 - [x] Lessons 11–15 full drafts (weather, park, people, review, directions)
+- [x] Lessons 16–20 full drafts (bus, restaurant, hobbies, holidays, phone)
+- [x] Lessons 21–30 full drafts (review through finale)
 
 ## Voice recording
 
