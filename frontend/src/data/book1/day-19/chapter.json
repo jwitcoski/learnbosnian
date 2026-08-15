@@ -211,47 +211,47 @@
   ],
   "conversation": {
     "title": "Svjetla na Ferhadiji",
-    "setting": "Ana, Emir, and Amira walk Ferhadija under holiday lights near market stalls.",
+    "setting": "Ana, Emir, and Amira buy cards under holiday lights while a seller works the stall.",
     "lines": [
       {
         "speaker": "Amira",
-        "bosnian": "Svjetla su lijepa večeras!",
-        "english": "The lights are beautiful this evening!"
+        "bosnian": "Sretan Bajram, Ana!",
+        "english": "Happy Eid, Ana!"
       },
       {
         "speaker": "Ana",
-        "bosnian": "Sretna Nova godina unaprijed!",
-        "english": "Happy New Year in advance!"
+        "bosnian": "Hvala! Sretan Božić, Emire.",
+        "english": "Thank you! Merry Christmas, Emir."
       },
       {
         "speaker": "Emir",
-        "bosnian": "Sretan Bajram porodici, molim vas.",
-        "english": "Happy Eid to the family, please."
+        "bosnian": "Sretna Nova godina, Amira!",
+        "english": "Happy New Year, Amira!"
       },
       {
         "speaker": "Seller",
-        "bosnian": "Hvala! Želite čestitku?",
-        "english": "Thank you! Would you like a greeting card?"
-      },
-      {
-        "speaker": "Ana",
-        "bosnian": "Da, molim. Sretan Božić pišem majci.",
-        "english": "Yes, please. I am writing Merry Christmas to my mother."
+        "bosnian": "Čestitka, molim? Svjetla su lijepa.",
+        "english": "A greeting card, please? The lights are beautiful."
       },
       {
         "speaker": "Amira",
-        "bosnian": "Slavimo zajedno u gradu.",
-        "english": "We celebrate together in the city."
+        "bosnian": "Da. Jednu čestitku, molim.",
+        "english": "Yes. One greeting card, please."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Koliko košta?",
+        "english": "How much does it cost?"
       },
       {
         "speaker": "Emir",
-        "bosnian": "Evo malog dara. Hvala vam!",
-        "english": "Here is a small gift. Thank you!"
+        "bosnian": "To je jeftino. Hvala!",
+        "english": "That is cheap. Thank you!"
       },
       {
-        "speaker": "Narrator",
-        "bosnian": "Mrvica gleda svijeću i mirne korake.",
-        "english": "Mrvica watches a candle and the calm steps."
+        "speaker": "Seller",
+        "bosnian": "Molim. Sretan praznik!",
+        "english": "You are welcome. Happy holiday!"
       }
     ]
   },
@@ -494,15 +494,15 @@
       },
       {
         "id": "q9",
-        "question": "Which civic idea fits the mosque and cathedral pairing?",
+        "question": "What religious change does the civic panel describe?",
         "options": [
-          "Plural communities share public space",
-          "Only one faith may use streets",
-          "Holidays are illegal",
-          "Markets ban greetings"
+          "Postwar religion as identity plus Gulf-funded conservative mosque reconstruction",
+          "Religion disappeared after Yugoslavia",
+          "Only one faith may use city streets",
+          "No foreign money rebuilt any mosque"
         ],
         "correctIndex": 0,
-        "explanation": "Plural communities sharing space is the civic thread.",
+        "explanation": "After socialism, religion returned as public identity, and Gulf donations helped rebuild mosques with more conservative teaching streams.",
         "skill": "culture"
       },
       {
@@ -637,54 +637,54 @@
   "images": [
     {
       "id": "ferhadija-lights",
-      "alt": "People walk Ferhadija Street in central Sarajevo.",
+      "alt": "Polygon painting of people walk Ferhadija Street in central Sarajevo.",
       "localPath": "/images/book1/day-19-ferhadija-lights.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ferhadija%2C_Sarajevo%2C_2023.01.22_2.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFerhadija%2C_Sarajevo%2C_2023.01.22_2.jpg",
       "author": "Niegodzisie",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Ferhadija, Sarajevo, 2023.01.22 2.jpg. Niegodzisie / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on photo: Ferhadija, Sarajevo, 2023.01.22 2.jpg. Niegodzisie / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "gazi-husrev-beg",
-      "alt": "Gazi Husrev-beg's Mosque rises in Sarajevo.",
+      "alt": "Polygon painting of gazi Husrev-beg's Mosque rises in Sarajevo.",
       "localPath": "/images/book1/day-19-gazi-husrev-beg.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Gazi_Husrev-beg%27s_Mosque._Sarajevo_04.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGazi_Husrev-beg%27s_Mosque._Sarajevo_04.jpg",
       "author": "Aleksandra Đuričić",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Gazi Husrev-beg's Mosque. Sarajevo 04.jpg. Aleksandra Đuričić / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on photo: Gazi Husrev-beg's Mosque. Sarajevo 04.jpg. Aleksandra Đuričić / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "sacred-heart",
-      "alt": "Sacred Heart Cathedral stands in Sarajevo.",
+      "alt": "Polygon painting of sacred Heart Cathedral stands in Sarajevo.",
       "localPath": "/images/book1/day-19-sacred-heart.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sarajevo_Sacred_Heart_Cathedral_IMG_1245.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_Sacred_Heart_Cathedral_IMG_1245.jpg",
       "author": "Bjoertvedt",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Sarajevo Sacred Heart Cathedral IMG 1245.jpg. Bjoertvedt / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on photo: Sarajevo Sacred Heart Cathedral IMG 1245.jpg. Bjoertvedt / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "civic-pluralism",
-      "alt": "A map shows the 2013 municipal ethnic composition of Bosnia and Herzegovina.",
+      "alt": "Polygon painting of the Saudi-funded King Fahd Mosque in Sarajevo",
       "localPath": "/images/book1/day-19-civic-pluralism.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bosnia_and_Herzegovina_2013_Ethnic_composition_by_municipality.png",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABosnia_and_Herzegovina_2013_Ethnic_composition_by_municipality.png",
-      "author": "Lilic",
-      "license": "CC BY-SA 3.0 rs",
-      "credit": "Based on photo: Bosnia and Herzegovina 2013 Ethnic composition by municipality.png. Lilic / Wikimedia Commons (CC BY-SA 3.0 rs)"
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/King_Fahd_Mosque_Sarajevo_%286%29.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKing_Fahd_Mosque_Sarajevo_%286%29.JPG",
+      "author": "BiHVolim",
+      "license": "CC BY-SA 4.0",
+      "credit": "Polygon painting based on photo: King Fahd Mosque Sarajevo (6).JPG. BiHVolim / Wikimedia Commons (CC BY-SA 4.0)"
     }
   ],
   "imagesNeeded": false,
   "imageBriefs": [],
   "civicContext": {
-    "title": "Plural streets need plural greetings",
-    "body": "Sarajevo's religious architecture makes pluralism visible in daily walking distance through the historic center. Mosques and churches share nearby streets, so holiday seasons often overlap in lights, markets, and public greetings. That closeness can be beautiful and also politically sensitive after conflict, which is why careful words matter. Learners who offer inclusive greetings practice a civic skill by recognizing neighbors without erasing difference. Shared streets work best when language leaves room for more than one celebration on the same winter night. ",
+    "title": "Rebuilt mosques and religion as postwar identity",
+    "body": "Holiday greetings sound gentle, but the religious landscape hardened after socialism. Under Yugoslavia many people lived more secular lives and kept faith quieter; after the war, religion returned as a loud public identity marker for communities that had been targeted or displaced. Destroyed mosques were rebuilt with large Gulf donations, including Saudi-funded projects such as Sarajevo’s King Fahd Mosque, and some funding streams supported more conservative teaching than older Bosnian Islamic practice. Catholic and Orthodox markers remain strong elsewhere. Inclusive wishes on Ferhadija sit beside foreign-funded reconstruction that changed who teaches, and what identity means, in rebuilt prayer spaces.",
     "imageId": "civic-pluralism",
     "learnMore": {
-      "label": "Wikipedia article about demography of Bosnia and Herzegovina",
-      "url": "https://en.wikipedia.org/wiki/Demographics_of_Bosnia_and_Herzegovina"
+      "label": "Wikipedia: King Fahd Mosque (Sarajevo)",
+      "url": "https://en.wikipedia.org/wiki/King_Fahd_Mosque_(Sarajevo)"
     }
   },
   "authenticListen": {
@@ -735,8 +735,7 @@
   },
   "speakTargets": [
     1,
-    2,
-    4
+    5
   ],
   "section": 3,
   "sayAgain": {

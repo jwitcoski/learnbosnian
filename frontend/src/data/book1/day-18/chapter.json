@@ -211,7 +211,7 @@
   ],
   "conversation": {
     "title": "Utakmica ili šetnja?",
-    "setting": "Ana and Emir look at a Bilino Polje photo and an Una waterfall postcard.",
+    "setting": "Ana, Emir, and Amira plan a weekend while Mrvica interrupts the hobby debate.",
     "lines": [
       {
         "speaker": "Emir",
@@ -220,38 +220,38 @@
       },
       {
         "speaker": "Ana",
-        "bosnian": "Ja ponekad gledam utakmicu.",
-        "english": "I sometimes watch a match."
-      },
-      {
-        "speaker": "Emir",
-        "bosnian": "Igram u parku, ali volim i stadion.",
-        "english": "I play in the park, but I also love the stadium."
-      },
-      {
-        "speaker": "Ana",
-        "bosnian": "Moj hobi je šetnja uz rijeku.",
-        "english": "My hobby is a walk by the river."
+        "bosnian": "Ja ponekad igram, ali volim šetnju.",
+        "english": "I sometimes play, but I love walking."
       },
       {
         "speaker": "Amira",
-        "bosnian": "Štrbački buk je prelijep, molim vas pogledajte!",
-        "english": "Štrbački buk is beautiful, please look!"
+        "bosnian": "Hajde da idemo na rijeku.",
+        "english": "Let us go to the river."
+      },
+      {
+        "speaker": "Mrvica",
+        "bosnian": "Miau! Ne volim loptu.",
+        "english": "Meow! I do not like the ball."
       },
       {
         "speaker": "Emir",
-        "bosnian": "Hoćeš li ići na utakmicu?",
-        "english": "Do you want to go to the match?"
+        "bosnian": "Dobro. Danas šetamo, sutra utakmica.",
+        "english": "Fine. Today we walk, tomorrow the match."
       },
       {
         "speaker": "Ana",
-        "bosnian": "Možda. Hvala na ideji!",
-        "english": "Maybe. Thanks for the idea!"
+        "bosnian": "Hvala, Emire. To volim.",
+        "english": "Thank you, Emir. I love that."
       },
       {
-        "speaker": "Narrator",
-        "bosnian": "Mrvica bira šetnju, jer ima mirisa.",
-        "english": "Mrvica chooses the walk, because there are smells."
+        "speaker": "Amira",
+        "bosnian": "Često šetam uz Unu.",
+        "english": "I often walk along the Una."
+      },
+      {
+        "speaker": "Mrvica",
+        "bosnian": "Miau. Polako, molim.",
+        "english": "Meow. Slowly, please."
       }
     ]
   },
@@ -485,15 +485,15 @@
       },
       {
         "id": "q8",
-        "question": "What civic pressure sits beside youth sports?",
+        "question": "What education problem does the civic panel highlight?",
         "options": [
-          "Young people leaving for work or study abroad",
-          "Too many waterfalls",
-          "Free tickets only",
-          "No football words"
+          "Cantonal and entity universities plus weak private degree mills",
+          "One national university with identical quality everywhere",
+          "No private colleges exist",
+          "Diplomas never matter for work"
         ],
         "correctIndex": 0,
-        "explanation": "Youth emigration for work or study is a related civic pressure.",
+        "explanation": "Higher education is split by canton and entity, and weak oversight can turn some private schools into degree mills.",
         "skill": "culture"
       },
       {
@@ -628,54 +628,54 @@
   "images": [
     {
       "id": "bilino-polje",
-      "alt": "Bilino Polje stadium opens wide under a bright sky.",
+      "alt": "Polygon painting of bilino Polje stadium opens wide under a bright sky.",
       "localPath": "/images/book1/day-18-bilino-polje.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bilino_Polje_Stadium_%28wide_angle%29.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABilino_Polje_Stadium_%28wide_angle%29.jpg",
       "author": "BiHVolim",
       "license": "CC BY-SA 3.0",
-      "credit": "Based on photo: Bilino Polje Stadium (wide angle).jpg. BiHVolim / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Polygon painting based on photo: Bilino Polje Stadium (wide angle).jpg. BiHVolim / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "bilino-polje-stands",
-      "alt": "The stands of Bilino Polje face the green pitch.",
+      "alt": "Polygon painting of the stands of Bilino Polje face the green pitch.",
       "localPath": "/images/book1/day-18-bilino-polje-stands.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Stadion_Bilino_Polje.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AStadion_Bilino_Polje.jpg",
       "author": "Emin Tarahija",
       "license": "CC0",
-      "credit": "Based on photo: Stadion Bilino Polje.jpg. Emin Tarahija / Wikimedia Commons (CC0)"
+      "credit": "Polygon painting based on photo: Stadion Bilino Polje.jpg. Emin Tarahija / Wikimedia Commons (CC0)"
     },
     {
       "id": "strbacki-buk",
-      "alt": "White water pours over stone shelves at Štrbački buk.",
+      "alt": "Polygon painting of white water pours over stone shelves at Štrbački buk.",
       "localPath": "/images/book1/day-18-strbacki-buk.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/%C5%A0trba%C4%8Dki_buk_1.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3A%C5%A0trba%C4%8Dki_buk_1.jpg",
       "author": "Julian Nyča",
       "license": "CC BY-SA 3.0",
-      "credit": "Based on photo: Štrbački buk 1.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Polygon painting based on photo: Štrbački buk 1.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "civic-emigration-airport",
-      "alt": "Travelers move through Sarajevo International Airport.",
+      "alt": "Polygon painting of a University of Sarajevo building",
       "localPath": "/images/book1/day-18-civic-emigration-airport.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sarajevo_International_Airport_%28SJJ%29.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_International_Airport_%28SJJ%29.jpg",
-      "author": "BiHVolim",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/University_of_Sarajevo_in_2014.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AUniversity_of_Sarajevo_in_2014.jpg",
+      "author": "Choinowski",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Sarajevo International Airport (SJJ).jpg. BiHVolim / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on photo: University of Sarajevo in 2014.jpg. Choinowski / Wikimedia Commons (CC BY-SA 4.0)"
     }
   ],
   "imagesNeeded": false,
   "imageBriefs": [],
   "civicContext": {
-    "title": "Youth leave, weekend ties remain",
-    "body": "Many young people from Bosnia and Herzegovina leave for study or work abroad, and stadium crowds feel that absence. Remittances and return visits keep ties alive, yet local clubs and weekend hobbies also need people who stay. An airport departure hall can mark opportunity and loss at the same time. Sports talk therefore sits beside a civic question about who remains to play, coach, and watch. Learners should hear both the joy of a match and the pressure of emigration.",
+    "title": "Cantonal universities and diploma mills hollow out youth plans",
+    "body": "Sport talk about weekends sits next to a broken education market. In the Federation, cantons fund and oversee public universities, Republika Srpska runs a separate system, and dozens of private colleges opened after 2000. Quality and recognition vary sharply across that patchwork. Weak oversight has allowed some private schools to operate more like degree mills that sell credentials than like serious classrooms. Young people who train, study, or look for work still confront a map where the canton or entity that stamps a diploma can matter as much as skill, which feeds emigration and distrust.",
     "imageId": "civic-emigration-airport",
     "learnMore": {
-      "label": "Wikipedia article about demographics of Bosnia and Herzegovina",
-      "url": "https://en.wikipedia.org/wiki/Demographics_of_Bosnia_and_Herzegovina"
+      "label": "Wikipedia: Education in Bosnia and Herzegovina",
+      "url": "https://en.wikipedia.org/wiki/Education_in_Bosnia_and_Herzegovina"
     }
   },
   "authenticListen": {
@@ -725,8 +725,7 @@
     }
   },
   "speakTargets": [
-    0,
-    3,
+    1,
     5
   ],
   "section": 3,

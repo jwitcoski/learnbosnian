@@ -211,47 +211,47 @@
   ],
   "conversation": {
     "title": "Klepe ili japrak?",
-    "setting": "Ana and Emir sit in a busy Sarajevo restaurant with a Visoko postcard on the table.",
+    "setting": "Ana, Emir, and Amira order at a Sarajevo restaurant while a waiter takes the table.",
     "lines": [
       {
         "speaker": "Konobar",
-        "bosnian": "Izvolite. Jelovnik je tu.",
-        "english": "Here you are. The menu is here."
+        "bosnian": "Jelovnik, molim. Šta želite?",
+        "english": "The menu, please. What would you like?"
       },
       {
         "speaker": "Ana",
         "bosnian": "Hoću klepe, molim.",
-        "english": "I want klepe, please."
+        "english": "I want dumplings, please."
       },
       {
         "speaker": "Emir",
-        "bosnian": "A ja hoću japrak, molim.",
-        "english": "And I want japrak, please."
+        "bosnian": "Ja hoću japrak.",
+        "english": "I want stuffed leaves."
       },
       {
-        "speaker": "Ana",
-        "bosnian": "Hoćeš li probati klepe?",
-        "english": "Do you want to try klepe?"
-      },
-      {
-        "speaker": "Emir",
-        "bosnian": "Možda. Japrak je ukusan!",
-        "english": "Maybe. Japrak is tasty!"
+        "speaker": "Amira",
+        "bosnian": "Ja želim vodu i japrak.",
+        "english": "I want water and stuffed leaves."
       },
       {
         "speaker": "Konobar",
-        "bosnian": "Dobar tek!",
-        "english": "Enjoy your meal!"
+        "bosnian": "Dobro. Još nešto?",
+        "english": "Good. Anything else?"
       },
       {
         "speaker": "Ana",
-        "bosnian": "Hvala! Račun, molim, poslije.",
-        "english": "Thank you! The bill, please, afterward."
+        "bosnian": "Ne, hvala. Dobar tek!",
+        "english": "No, thank you. Enjoy your meal!"
       },
       {
-        "speaker": "Narrator",
-        "bosnian": "Mrvica čeka mrvice pod stolom.",
-        "english": "Mrvica waits for crumbs under the table."
+        "speaker": "Emir",
+        "bosnian": "Dobar tek, Amira!",
+        "english": "Enjoy your meal, Amira!"
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Hvala. Račun kasnije, molim.",
+        "english": "Thanks. The bill later, please."
       }
     ]
   },
@@ -483,15 +483,15 @@
       },
       {
         "id": "q8",
-        "question": "Why do restaurants matter beyond the plate?",
+        "question": "What unequal document reality does the civic panel describe?",
         "options": [
-          "They erase all travel rules.",
-          "They support jobs and public hospitality.",
-          "They replace schools.",
-          "They ban tourist menus."
+          "Ethnic dual citizenship and minority exclusion from top offices",
+          "Everyone holds the same EU passport automatically",
+          "Restaurants ban all greetings",
+          "Only tourists may buy klepe"
         ],
-        "correctIndex": 1,
-        "explanation": "Food service supports jobs and hospitality in recovery.",
+        "correctIndex": 0,
+        "explanation": "Bosnian Serbs and Croats may hold neighbor-state passports, while Sejdić and Finci exclusion still bars some minorities from highest offices.",
         "skill": "culture"
       },
       {
@@ -626,54 +626,54 @@
   "images": [
     {
       "id": "klepe-sarajevo",
-      "alt": "A plate of klepe is served in Sarajevo.",
+      "alt": "Polygon painting of a plate of klepe is served in Sarajevo.",
       "localPath": "/images/book1/day-17-klepe-sarajevo.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Klepe_Sarajevo_Bosnia_%2810675888145%29.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKlepe_Sarajevo_Bosnia_%2810675888145%29.jpg",
       "author": "amanderson2",
       "license": "CC BY 2.0",
-      "credit": "Based on photo: Klepe Sarajevo Bosnia (10675888145).jpg. amanderson2 / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Polygon painting based on photo: Klepe Sarajevo Bosnia (10675888145).jpg. amanderson2 / Wikimedia Commons (CC BY 2.0)"
     },
     {
       "id": "japrak-dish",
-      "alt": "Stuffed vine leaves are arranged as japrak.",
+      "alt": "Polygon painting of stuffed vine leaves are arranged as japrak.",
       "localPath": "/images/book1/day-17-japrak-dish.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Japrak_1.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AJaprak_1.jpg",
       "author": "Tizilohja25",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Japrak 1.jpg. Tizilohja25 / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on photo: Japrak 1.jpg. Tizilohja25 / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "visoko-postcard",
-      "alt": "Visoko spreads across hills below a wide sky.",
+      "alt": "Polygon painting of visoko spreads across hills below a wide sky.",
       "localPath": "/images/book1/day-17-visoko-postcard.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Visoko.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVisoko.jpg",
       "author": "Wikimedia Commons",
       "license": "CC BY-SA 3.0",
-      "credit": "Based on photo: Visoko.jpg. Wikimedia Commons / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Polygon painting based on photo: Visoko.jpg. Wikimedia Commons / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "civic-food-economy",
-      "alt": "A generous plate of ćevapi with kajmak represents local food service.",
+      "alt": "Polygon painting of a border crossing between Bosnia and Herzegovina and Croatia",
       "localPath": "/images/book1/day-17-civic-food-economy.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Cevapi_s_kajmakom.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACevapi_s_kajmakom.jpg",
-      "author": "Christian Paul from Vancouver, Canada",
-      "license": "CC BY-SA 2.0",
-      "credit": "Based on photo: Cevapi s kajmakom.jpg. Christian Paul from Vancouver, Canada / Wikimedia Commons (CC BY-SA 2.0)"
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Croatia_Bosnia_Border_%28129455903%29.jpeg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACroatia_Bosnia_Border_%28129455903%29.jpeg",
+      "author": "José Sáez",
+      "license": "CC BY-SA 3.0",
+      "credit": "Polygon painting based on photo: Croatia Bosnia Border (129455903).jpeg. José Sáez / Wikimedia Commons (CC BY-SA 3.0)"
     }
   ],
   "imagesNeeded": false,
   "imageBriefs": [],
   "civicContext": {
-    "title": "Hospitality keeps cities open",
-    "body": "Hospitality and food service are visible parts of recovery and everyday economy in Bosnia and Herzegovina. Cafés and restaurants create jobs, welcome return visits, and keep local recipes in public life after years of disruption. A simple order for klepe or japrak supports kitchens that teach taste and employ neighbors on ordinary evenings. Tourism and local dining both matter, yet wages and seasonal demand can stay uneven across towns. Learners who eat out practice language inside a sector that helps cities feel open, busy, and welcoming again. ",
+    "title": "Passports split mobility at the same table",
+    "body": "Shared food does not mean equal documents. Many Bosnian Serbs and Bosnian Croats can obtain Serbian or Croatian citizenship while still living in Bosnia and Herzegovina, which can open European Union travel and paperwork routes that many Bosniak neighbors cannot match through residence alone. Roma, Jewish, and other minority citizens already face constitutional barriers to the highest state offices under the Sejdić and Finci problem. A restaurant debate over klepe and japrak happens in a country where the passport in your pocket can depend on ethnic affiliation as much as on the address where you sleep.",
     "imageId": "civic-food-economy",
     "learnMore": {
-      "label": "Wikipedia article about cuisine of Bosnia and Herzegovina",
-      "url": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina_cuisine"
+      "label": "Wikipedia: Sejdić and Finci v. Bosnia and Herzegovina",
+      "url": "https://en.wikipedia.org/wiki/Sejdi%C4%87_and_Finci_v._Bosnia_and_Herzegovina"
     }
   },
   "authenticListen": {
@@ -724,7 +724,6 @@
   },
   "speakTargets": [
     1,
-    2,
     5
   ],
   "section": 3,

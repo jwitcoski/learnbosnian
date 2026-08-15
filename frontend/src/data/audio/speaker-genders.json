@@ -28,6 +28,26 @@
     "Passerby": {
       "voiceId": "male-2",
       "gender": "male"
+    },
+    "Clerk": {
+      "voiceId": "male-2",
+      "gender": "male"
+    },
+    "Konobar": {
+      "voiceId": "male-2",
+      "gender": "male"
+    },
+    "Seller": {
+      "voiceId": "male-2",
+      "gender": "male"
+    },
+    "Waiter": {
+      "voiceId": "male-2",
+      "gender": "male"
+    },
+    "Driver": {
+      "voiceId": "male-2",
+      "gender": "male"
     }
   },
   "default": {

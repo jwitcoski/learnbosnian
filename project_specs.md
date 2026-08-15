@@ -60,11 +60,11 @@ Ana (learner), Emir (guide), Amira (café), Mrvica (cat)
 | 13 | Ljudi iz BiH | draft | Full draft (place/language identity, Brčko, district civic) — needs human review | script ready |
 | 14 | Ponavljanje | draft | Review of Lessons 8 to 13 plus Banja Luka postcards — needs human review | script ready |
 | 15 | Desna ili lijeva? | draft | Full draft (directions, Latin Bridge/Konjic, landmine civic) — needs human review | script ready |
-| 16 | Na autobus | draft | Full draft (transport, tickets, trebati, Neum coast dream) — needs human review | script ready |
-| 17 | Dobar tek! | draft | Full draft (restaurant, htjeti, klepe vs japrak) — needs human review | script ready |
-| 18 | Sport i hobiji | draft | Full draft (hobbies, igrati/gledati, često/ponekad, Zenica/Una) — needs human review | script ready |
-| 19 | Praznici | draft | Full draft (inclusive holiday greetings, Ferhadija lights) — needs human review | script ready |
-| 20 | Telefonski poziv | draft | Full draft (phone phrases, ko/šta/kada/zašto, Mrvica call) — needs human review | script ready |
+| 16 | Na autobus | draft | Hardened: polygon images, 4-voice dialogue balance, civic on Corridor Vc / used cars | script ready |
+| 17 | Dobar tek! | draft | Hardened: polygon images, 4-voice balance, civic on dual passports / minority exclusion | script ready |
+| 18 | Sport i hobiji | draft | Hardened: polygon images, 4-voice balance, civic on cantonal universities / degree mills | script ready |
+| 19 | Praznici | draft | Hardened: polygon images, 4-voice balance, civic on Gulf-funded mosques / religion as identity | script ready |
+| 20 | Telefonski poziv | draft | Hardened: polygon images, 4-voice balance, civic on opaque gas deals / currency board | script ready |
 | 21 | Sedmica 3 — ponavljanje | outlined | | |
 | 22 | Jučer u Travniku | outlined | | |
 | 23 | Šta si radio/radila? | outlined | | |

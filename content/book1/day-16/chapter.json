@@ -211,12 +211,12 @@
   ],
   "conversation": {
     "title": "Karta za more",
-    "setting": "Ana and Emir stand at the Sarajevo bus station ticket counter.",
+    "setting": "Ana, Emir, and Amira buy tickets at the Sarajevo bus station while a clerk works the window.",
     "lines": [
       {
         "speaker": "Ana",
-        "bosnian": "Treba mi karta za Neum, molim.",
-        "english": "I need a ticket to Neum, please."
+        "bosnian": "Jedna karta za Neum, molim.",
+        "english": "One ticket to Neum, please."
       },
       {
         "speaker": "Clerk",
@@ -225,33 +225,33 @@
       },
       {
         "speaker": "Emir",
-        "bosnian": "Povratna, molim. Koliko košta karta?",
-        "english": "Return, please. How much does the ticket cost?"
+        "bosnian": "Treba nam povratna karta.",
+        "english": "We need a return ticket."
       },
       {
-        "speaker": "Clerk",
-        "bosnian": "Evo karte. Odlazak je uskoro.",
-        "english": "Here is the ticket. Departure is soon."
+        "speaker": "Amira",
+        "bosnian": "Koliko košta karta?",
+        "english": "How much does the ticket cost?"
       },
       {
         "speaker": "Ana",
-        "bosnian": "Hvala! Imam sjedalo uz prozor?",
-        "english": "Thank you! Do I have a window seat?"
+        "bosnian": "I Jablanica je na putu, zar ne?",
+        "english": "And Jablanica is on the way, right?"
       },
       {
         "speaker": "Emir",
-        "bosnian": "Da. Želim vidjeti Jablanicu i more.",
-        "english": "Yes. I want to see Jablanica and the sea."
+        "bosnian": "Da. Jezero je lijepo.",
+        "english": "Yes. The lake is beautiful."
       },
       {
-        "speaker": "Ana",
-        "bosnian": "Hajde da idemo na autobus.",
-        "english": "Let us go to the bus."
+        "speaker": "Amira",
+        "bosnian": "Hvala. Idemo polako.",
+        "english": "Thank you. We are going slowly."
       },
       {
-        "speaker": "Narrator",
-        "bosnian": "Mrvica spava kod Amire, daleko od autobusa.",
-        "english": "Mrvica sleeps at Amira's, far from the bus."
+        "speaker": "Clerk",
+        "bosnian": "Molim. Stanica je tamo.",
+        "english": "You are welcome. The platform is over there."
       }
     ]
   },
@@ -485,15 +485,15 @@
       },
       {
         "id": "q8",
-        "question": "Why can bus travel feel complicated across the country?",
+        "question": "Which civic pressure fits this bus lesson?",
         "options": [
-          "Only one road exists.",
-          "Entity and corridor planning can fragment routes.",
-          "Tickets are free.",
-          "Buses never leave Sarajevo."
+          "Unfinished Corridor Vc and dirty used cars on unequal routes",
+          "Perfect motorways in every canton already",
+          "No buses exist in Sarajevo",
+          "Tickets are free nationwide"
         ],
-        "correctIndex": 1,
-        "explanation": "Entity borders and unfinished corridors create travel friction.",
+        "correctIndex": 0,
+        "explanation": "Corridor Vc remains incomplete while used cars that fail stricter EU emission rules still arrive in the region.",
         "skill": "culture"
       },
       {
@@ -628,54 +628,54 @@
   "images": [
     {
       "id": "sarajevo-bus-station",
-      "alt": "Coaches wait outside the Sarajevo bus station.",
+      "alt": "Polygon painting of coaches wait outside the Sarajevo bus station.",
       "localPath": "/images/book1/day-16-sarajevo-bus-station.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Sarajevo_bus_station_2.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_bus_station_2.jpg",
       "author": "Vano111ru",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Sarajevo bus station 2.jpg. Vano111ru / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on photo: Sarajevo bus station 2.jpg. Vano111ru / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "jablanica-lake",
-      "alt": "Blue water fills Jablaničko Lake among the hills.",
+      "alt": "Polygon painting of blue water fills Jablaničko Lake among the hills.",
       "localPath": "/images/book1/day-16-jablanica-lake.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jablani%C4%8Dko_jezero_1.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AJablani%C4%8Dko_jezero_1.jpg",
       "author": "Julian Nyča",
       "license": "CC BY-SA 3.0",
-      "credit": "Based on photo: Jablaničko jezero 1.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Polygon painting based on photo: Jablaničko jezero 1.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "neum-coast",
-      "alt": "A beach curves along the Adriatic at Neum.",
+      "alt": "Polygon painting of a beach curves along the Adriatic at Neum.",
       "localPath": "/images/book1/day-16-neum-coast.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Zenit_Beach_in_Neum%2C_2024_1.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AZenit_Beach_in_Neum%2C_2024_1.jpg",
       "author": "Bdx",
       "license": "CC0",
-      "credit": "Based on photo: Zenit Beach in Neum, 2024 1.jpg. Bdx / Wikimedia Commons (CC0)"
+      "credit": "Polygon painting based on photo: Zenit Beach in Neum, 2024 1.jpg. Bdx / Wikimedia Commons (CC0)"
     },
     {
       "id": "civic-a1-corridor",
-      "alt": "A motorway corridor cuts through hills in Bosnia and Herzegovina.",
+      "alt": "Polygon painting of a motorway section near Banja Luka",
       "localPath": "/images/book1/day-16-civic-a1-corridor.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/BiH_Autoput_A1.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABiH_Autoput_A1.jpg",
-      "author": "Bushido",
-      "license": "Public domain",
-      "credit": "Based on photo: BiH Autoput A1.jpg. Bushido / Wikimedia Commons (Public domain)"
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Highway_banja_luka_gradiska1.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHighway_banja_luka_gradiska1.JPG",
+      "author": "Edin the",
+      "license": "CC BY-SA 3.0",
+      "credit": "Polygon painting based on photo: Highway banja luka gradiska1.JPG. Edin the / Wikimedia Commons (CC BY-SA 3.0)"
     }
   ],
   "imagesNeeded": false,
   "imageBriefs": [],
   "civicContext": {
-    "title": "Fragmented roads and coast access",
-    "body": "Road travel across Bosnia and Herzegovina still crosses entity and canton boundaries that shape daily movement. Corridor A1 and related motorway projects aim to connect the coast with inland cities, yet unfinished segments and entity-level planning create friction for drivers and coaches. A ticket to Neum can mean changing roads, signs, and even the feel of administration along the way. Learners who travel by bus notice that geography and governance sit on the same map. Better corridors reduce isolation, but fragmented responsibility remains a structural travel pressure.",
+    "title": "Motorways and dirty used cars follow unequal routes",
+    "body": "Getting around Bosnia and Herzegovina still exposes unequal infrastructure and weak environmental filters. The EU-backed Corridor Vc motorway remains only partly finished after years of loans and delays, while other corridors, including motorway links serving Banja Luka and southern border approaches toward Međugorje and Croatia, advance on different political clocks. Used vehicles that struggle to meet stricter EU emission standards are also widely sold across the Western Balkans, including here. A bus ticket can mean riding past unfinished national corridors and older exhaust that cleaner markets no longer want.",
     "imageId": "civic-a1-corridor",
     "learnMore": {
-      "label": "Wikipedia article about A1 motorway in Bosnia and Herzegovina",
-      "url": "https://en.wikipedia.org/wiki/A1_(Bosnia_and_Herzegovina)"
+      "label": "Bankwatch report on Corridor Vc in Bosnia and Herzegovina",
+      "url": "https://bankwatch.org/publication/the-corridor-vc-motorway-in-bosnia-and-herzegovina"
     }
   },
   "authenticListen": {
@@ -726,7 +726,6 @@
   },
   "speakTargets": [
     0,
-    2,
     4
   ],
   "section": 3,

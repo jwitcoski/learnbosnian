@@ -211,47 +211,47 @@
   ],
   "conversation": {
     "title": "Gdje je Mrvica?",
-    "setting": "Ana calls Emir from a café near a Sarajevo tram stop after Mrvica disappears.",
+    "setting": "Ana calls Emir in a panic; Amira searches the café while Mrvica finally answers from under a chair.",
     "lines": [
       {
         "speaker": "Ana",
-        "bosnian": "Alo? Emire, hitno je!",
-        "english": "Hello? Emir, it is urgent!"
+        "bosnian": "Alo? Emire, gdje je Mrvica?",
+        "english": "Hello? Emir, where is Mrvica?"
       },
       {
         "speaker": "Emir",
-        "bosnian": "Alo, Ana! Ko je s tobom?",
-        "english": "Hello, Ana! Who is with you?"
-      },
-      {
-        "speaker": "Ana",
-        "bosnian": "Mrvica je nestala! Šta radim?",
-        "english": "Mrvica is missing! What do I do?"
-      },
-      {
-        "speaker": "Emir",
-        "bosnian": "Gdje je sada? Jesi li kod tramvaja?",
-        "english": "Where is she now? Are you by the tram?"
-      },
-      {
-        "speaker": "Ana",
-        "bosnian": "Sad, kod tramvaja. Zašto trči tako brzo?",
-        "english": "Now, by the tram. Why does she run so fast?"
-      },
-      {
-        "speaker": "Emir",
-        "bosnian": "Čujem te dobro. Idemo sad, molim te, čekaj!",
-        "english": "I hear you well. We are going now, please wait!"
+        "bosnian": "Ko je tamo? Šta se dešava?",
+        "english": "Who is there? What is happening?"
       },
       {
         "speaker": "Amira",
-        "bosnian": "Ja zovem komšije. Pomozite, molim vas!",
-        "english": "I am calling the neighbors. Help, please!"
+        "bosnian": "Tražim je u kafiću, Ana.",
+        "english": "I am looking for her in the café, Ana."
       },
       {
-        "speaker": "Narrator",
-        "bosnian": "Mrvica sjedi iza kantice i mirno trepće.",
-        "english": "Mrvica sits behind a bin and blinks calmly."
+        "speaker": "Mrvica",
+        "bosnian": "Miau! Ovdje sam.",
+        "english": "Meow! I am here."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Zašto nestaješ? Hitno je!",
+        "english": "Why do you disappear? It is urgent!"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Kada dolaziš? Čujem Amiru.",
+        "english": "When are you coming? I hear Amira."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Hvala Bogu. Mrvica je ispod stolice.",
+        "english": "Thank goodness. Mrvica is under the chair."
+      },
+      {
+        "speaker": "Mrvica",
+        "bosnian": "Miau. Molim, mir.",
+        "english": "Meow. Please, peace."
       }
     ]
   },
@@ -491,15 +491,15 @@
       },
       {
         "id": "q8",
-        "question": "Why do phones matter for diaspora families?",
+        "question": "Which civic pressures sit behind urgent calls home?",
         "options": [
-          "They help people stay connected across countries.",
-          "They replace all roads.",
-          "They ban remittances.",
-          "They end holidays."
+          "Opaque Trump-linked gas deals and a euro currency board without normal monetary freedom",
+          "Unlimited independent central-bank policy and cheap local wages for all",
+          "No remittances ever arrive",
+          "Gas arrives only from domestic wells"
         ],
         "correctIndex": 0,
-        "explanation": "Phones help diaspora families stay connected.",
+        "explanation": "The Southern Interconnection politics raised transparency alarms, and the Central Bank runs a currency board tied to the euro.",
         "skill": "culture"
       },
       {
@@ -634,54 +634,54 @@
   "images": [
     {
       "id": "sarajevo-tram",
-      "alt": "A blue Sarajevo tram travels along a city street.",
+      "alt": "Polygon painting of a blue Sarajevo tram travels along a city street.",
       "localPath": "/images/book1/day-20-sarajevo-tram.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Sarajevo_tram_706.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_tram_706.jpg",
       "author": "xiquinhosilva",
       "license": "CC BY 2.0",
-      "credit": "Based on photo: Sarajevo tram 706.jpg. xiquinhosilva / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Polygon painting based on photo: Sarajevo tram 706.jpg. xiquinhosilva / Wikimedia Commons (CC BY 2.0)"
     },
     {
       "id": "sarajevo-tram-city-hall",
-      "alt": "A tram passes near Sarajevo City Hall.",
+      "alt": "Polygon painting of a tram passes near Sarajevo City Hall.",
       "localPath": "/images/book1/day-20-sarajevo-tram-city-hall.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Sarajevo_Tram_City-Hall.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_Tram_City-Hall.jpg",
       "author": "J. Studnička &amp; Co., Sarajevo.",
       "license": "Public domain",
-      "credit": "Based on photo: Sarajevo Tram City-Hall.jpg. J. Studnička &amp; Co., Sarajevo. / Wikimedia Commons (Public domain)"
+      "credit": "Polygon painting based on photo: Sarajevo Tram City-Hall.jpg. J. Studnička &amp; Co., Sarajevo. / Wikimedia Commons (Public domain)"
     },
     {
       "id": "ferhadija-connection",
-      "alt": "Pedestrians move along Ferhadija while the city stays connected.",
+      "alt": "Polygon painting of pedestrians move along Ferhadija while the city stays connected.",
       "localPath": "/images/book1/day-20-ferhadija-connection.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ferhadija%2C_Sarajevo%2C_2023.01.22_2.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFerhadija%2C_Sarajevo%2C_2023.01.22_2.jpg",
       "author": "Niegodzisie",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Ferhadija, Sarajevo, 2023.01.22 2.jpg. Niegodzisie / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on photo: Ferhadija, Sarajevo, 2023.01.22 2.jpg. Niegodzisie / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "civic-diaspora-calls",
-      "alt": "A chart shows remittance costs as a share of money sent home.",
+      "alt": "Polygon painting of a highway corridor used as a stand-in for contested infrastructure deals",
       "localPath": "/images/book1/day-20-civic-diaspora-calls.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Remittance-costs-as-share-of-amount-remitted.png",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARemittance-costs-as-share-of-amount-remitted.png",
-      "author": "Our World in Data",
-      "license": "CC BY 4.0",
-      "credit": "Based on photo: Remittance-costs-as-share-of-amount-remitted.png. Our World in Data / Wikimedia Commons (CC BY 4.0)"
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Autobahn-Sarajevo.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAutobahn-Sarajevo.jpg",
+      "author": "Eao-be",
+      "license": "CC BY-SA 3.0",
+      "credit": "Polygon painting based on photo: Autobahn-Sarajevo.jpg. Eao-be / Wikimedia Commons (CC BY-SA 3.0)"
     }
   ],
   "imagesNeeded": false,
   "imageBriefs": [],
   "civicContext": {
-    "title": "Calls that hold families together",
-    "body": "Families spread across countries stay connected through calls, messages, and remittances sent home. A phone line can carry birthday wishes, job news, and urgent help requests in the same afternoon. For many households in Bosnia and Herzegovina, diaspora contact is part of weekly life rather than a rare event. Mobile networks make that contact faster, yet cost and distance still shape who can talk and how often. Lesson 20 treats the phone as both a language tool and a civic lifeline.",
+    "title": "Opaque gas deals and a currency board without normal central-bank power",
+    "body": "An urgent phone call home travels through a state that still imports nearly all of its natural gas on a Russian-linked route through neighboring systems, while major new pipeline politics arrive with foreign patrons. In 2026 the Federation moved to designate a U.S. company linked to Trump-aligned investors as developer of the Southern Interconnection without a normal open tender, drawing European Union warnings about transparency and aid. The Central Bank of Bosnia and Herzegovina operates as a currency board tied to the euro, so the country does not run ordinary independent monetary policy. Families abroad send remittances because wages and institutions leave gaps; energy contracts and limited monetary power shape the larger silence behind every call.",
     "imageId": "civic-diaspora-calls",
     "learnMore": {
-      "label": "Wikipedia article about remittance",
-      "url": "https://en.wikipedia.org/wiki/Remittance"
+      "label": "RFE/RL: EU warns Bosnia over U.S. gas project and aid risk",
+      "url": "https://www.rferl.org/a/eu-bosnia-gas-pipeline-us-investor-aid/33741747.html"
     }
   },
   "authenticListen": {
@@ -732,8 +732,7 @@
   },
   "speakTargets": [
     0,
-    2,
-    5
+    4
   ],
   "section": 3,
   "sayAgain": {

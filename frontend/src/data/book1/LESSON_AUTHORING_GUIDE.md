@@ -113,6 +113,7 @@ Fill `content/book1/day-XX/chapter.json` completely before marking `draft`.
 - Advance **today’s** language + one story beat
 - Narrator lines: max 1–2 for comic glue (Mrvica, etc.)
 - English gloss on every line
+- **Voice balance:** across the 8 dialogue lines, aim for roughly equal parts for the four studio voices: Ana/Narrator (`female-1`), Emir (`male-1`), Amira (`female-2`), and Male 2 roles (`Shopkeeper` / `Clerk` / `Konobar` / `Seller` / `Passerby` / `Mrvica`). Prefer **2 lines each** when the scene allows.
 
 ### Practice / quiz rules
 
