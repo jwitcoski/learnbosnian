@@ -632,7 +632,7 @@
   "images": [
     {
       "id": "party-table",
-      "alt": "Polygon painting based on the credited Commons photo. A graduation party table.",
+      "alt": "Polygon painting of a birthday cake matching the Commons source photo.",
       "localPath": "/images/book1/day-30-party-table.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/A_birthday_cake_2.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AA_birthday_cake_2.jpg",
@@ -642,13 +642,13 @@
     },
     {
       "id": "cake-heist",
-      "alt": "Polygon painting based on the credited Commons photo. Mrvica stealing cake at the party.",
+      "alt": "Polygon painting of a cat with a cake matching the Commons source photo.",
       "localPath": "/images/book1/day-30-cake-heist.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACat_November_2010-1a.jpg",
-      "author": "Alvesgaspar",
-      "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on the photo Cat November 2010-1a.jpg. Alvesgaspar / Wikimedia Commons (CC BY-SA 3.0)"
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Cake_red_cat_2024.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACake_red_cat_2024.jpg",
+      "author": "AKA MBG",
+      "license": "CC0",
+      "credit": "Polygon painting based on the photo Cake red cat 2024.jpg. AKA MBG / Wikimedia Commons (CC0)"
     },
     {
       "id": "friends-toast",
@@ -662,13 +662,13 @@
     },
     {
       "id": "civic-night-wolves",
-      "alt": "Polygon painting based on the credited Commons photo. A motorcycle parade mood in Banja Luka.",
+      "alt": "Polygon painting of Night Wolves motorcycles matching the Commons source photo.",
       "localPath": "/images/book1/day-30-civic-night-wolves.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Tvr%C4%91ava_Kastel_Banja_Luka.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATvr%C4%91ava_Kastel_Banja_Luka.jpg",
-      "author": "Biljana Latinović2",
-      "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on the photo Tvrđava Kastel Banja Luka.jpg. Biljana Latinović2 / Wikimedia Commons (CC BY-SA 4.0)"
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Vladimir_Putin_with_Night_Wolves_Motorclub_%282019-08-10%29_5.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVladimir_Putin_with_Night_Wolves_Motorclub_%282019-08-10%29_5.jpg",
+      "author": "The Presidential Press and Information Office",
+      "license": "CC BY 4.0",
+      "credit": "Polygon painting based on the photo Vladimir Putin with Night Wolves Motorclub (2019-08-10) 5.jpg. The Presidential Press and Information Office / Wikimedia Commons (CC BY 4.0)"
     }
   ],
   "imagesNeeded": false,

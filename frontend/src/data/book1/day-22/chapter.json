@@ -635,33 +635,33 @@
     },
     {
       "id": "travnik-street",
-      "alt": "Polygon painting based on the credited Commons photo. A narrow Travnik street.",
+      "alt": "Polygon painting of a Travnik old-town street matching the Commons source photo.",
       "localPath": "/images/book1/day-22-travnik-street.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Travnik_Altstadt_3.JPG",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATravnik_Altstadt_3.JPG",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Travnik_Altstadt_1.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATravnik_Altstadt_1.JPG",
       "author": "Julian Nyča",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on the photo Travnik Altstadt 3.JPG. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Polygon painting based on the photo Travnik Altstadt 1.JPG. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "travnik-tower",
-      "alt": "Polygon painting based on the credited Commons photo. The Travnik fortress tower on a hill.",
+      "alt": "Polygon painting of Travnik fortress on the hill matching the Commons source photo.",
       "localPath": "/images/book1/day-22-travnik-tower.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Travnik_City_Centre_1.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATravnik_City_Centre_1.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Travnik_Festung_1.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATravnik_Festung_1.JPG",
       "author": "Julian Nyča",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on the photo Travnik City Centre 1.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Polygon painting based on the photo Travnik Festung 1.JPG. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "civic-winding-road",
-      "alt": "Polygon painting based on the credited Commons photo. A winding mountain road with fast traffic risk.",
+      "alt": "Polygon painting of a winding mountain road matching the Commons source photo.",
       "localPath": "/images/book1/day-22-civic-winding-road.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Highway_banja_luka_gradiska1.JPG",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHighway_banja_luka_gradiska1.JPG",
-      "author": "Edin the",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Grossglockner_road_1997b.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGrossglockner_road_1997b.jpg",
+      "author": "Holger.Ellgaard",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on the photo Highway banja luka gradiska1.JPG. Edin the / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Polygon painting based on the photo Grossglockner road 1997b.jpg. Holger.Ellgaard / Wikimedia Commons (CC BY-SA 3.0)"
     }
   ],
   "imagesNeeded": false,

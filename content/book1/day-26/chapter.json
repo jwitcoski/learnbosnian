@@ -628,23 +628,23 @@
   "images": [
     {
       "id": "flat-kitchen",
-      "alt": "Polygon painting based on the credited Commons photo. A bright flat kitchen.",
+      "alt": "Polygon painting of a bright modern apartment kitchen matching the Commons source photo.",
       "localPath": "/images/book1/day-26-flat-kitchen.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/BiH_Svrzo_kitchen_vodnica.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABiH_Svrzo_kitchen_vodnica.jpg",
-      "author": "Whitepixels",
-      "license": "CC0",
-      "credit": "Polygon painting based on the photo BiH Svrzo kitchen vodnica.jpg. Whitepixels / Wikimedia Commons (CC0)"
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Modern_kitchen_and_dining_area_in_a_bright_apartment_on_a_sunny_day_with_simple_decor_and_furniture.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AModern_kitchen_and_dining_area_in_a_bright_apartment_on_a_sunny_day_with_simple_decor_and_furniture.jpg",
+      "author": "Shixart1985",
+      "license": "CC BY 2.0",
+      "credit": "Polygon painting based on the photo Modern kitchen and dining area in a bright apartment on a sunny day with simple decor and furniture.jpg. Shixart1985 / Wikimedia Commons (CC BY 2.0)"
     },
     {
       "id": "apartment-door",
-      "alt": "Polygon painting based on the credited Commons photo. An apartment door and keys.",
+      "alt": "Polygon painting of a residential wooden door matching the Commons source photo.",
       "localPath": "/images/book1/day-26-apartment-door.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Sarajevo_Hotel-Bristol_Revolving-Door_2011-10-25.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_Hotel-Bristol_Revolving-Door_2011-10-25.jpg",
-      "author": "Milan Suvajac",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Simple_Traditional_Wooden_Door%2C_Himachal_Pradesh.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASimple_Traditional_Wooden_Door%2C_Himachal_Pradesh.jpg",
+      "author": "Rajani Gairshail",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on the photo Sarajevo Hotel-Bristol Revolving-Door 2011-10-25.jpg. Milan Suvajac / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on the photo Simple Traditional Wooden Door, Himachal Pradesh.jpg. Rajani Gairshail / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "furniture-corner",
@@ -658,13 +658,13 @@
     },
     {
       "id": "civic-returnee-pressure",
-      "alt": "Polygon painting based on the credited Commons photo. A quiet returnee house under local pressure.",
+      "alt": "Polygon painting of a destroyed house matching the Commons source photo.",
       "localPath": "/images/book1/day-26-civic-returnee-pressure.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Stari_grad_Stolac_%2817%29.JPG",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AStari_grad_Stolac_%2817%29.JPG",
-      "author": "Ma▀▄Ga",
-      "license": "CC BY 3.0",
-      "credit": "Polygon painting based on the photo Stari grad Stolac (17).JPG. Ma▀▄Ga / Wikimedia Commons (CC BY 3.0)"
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Destroyed_House_Vitina_%284061872003%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADestroyed_House_Vitina_%284061872003%29.jpg",
+      "author": "Tony Hisgett from Birmingham, UK",
+      "license": "CC BY 2.0",
+      "credit": "Polygon painting based on the photo Destroyed House Vitina (4061872003).jpg. Tony Hisgett from Birmingham, UK / Wikimedia Commons (CC BY 2.0)"
     }
   ],
   "imagesNeeded": false,

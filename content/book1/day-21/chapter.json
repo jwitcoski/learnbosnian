@@ -560,13 +560,13 @@
   "images": [
     {
       "id": "weekend-map",
-      "alt": "Polygon painting based on the credited Commons photo. A weekend map beside the Una River.",
+      "alt": "Polygon painting of a map for weekend planning matching the Commons source photo.",
       "localPath": "/images/book1/day-21-weekend-map.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Una_near_Biha%C4%87_2.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AUna_near_Biha%C4%87_2.jpg",
-      "author": "This Photo was taken by Miha Peče",
-      "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on the photo Una near Bihać 2.jpg. This Photo was taken by Miha Peče / Wikimedia Commons (CC BY-SA 4.0)"
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Orienteering_map.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AOrienteering_map.jpg",
+      "author": "Marcin Mikita",
+      "license": "CC BY-SA 3.0",
+      "credit": "Polygon painting based on the photo Orienteering map.jpg. Marcin Mikita / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "una-postcard",
@@ -590,13 +590,13 @@
     },
     {
       "id": "civic-rural-bus",
-      "alt": "Polygon painting based on the credited Commons photo. An empty rural bus stop in a Bosnian village.",
+      "alt": "Polygon painting of a rural bus stop matching the Commons source photo.",
       "localPath": "/images/book1/day-21-civic-rural-bus.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Sarajevo_bus_station_2.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_bus_station_2.jpg",
-      "author": "Vano111ru",
-      "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on the photo Sarajevo bus station 2.jpg. Vano111ru / Wikimedia Commons (CC BY-SA 4.0)"
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Bus_stop.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABus_stop.jpg",
+      "author": "Jonatan Svensson Glad",
+      "license": "Public domain",
+      "credit": "Polygon painting based on the photo Bus stop.jpg. Jonatan Svensson Glad / Wikimedia Commons (Public domain)"
     }
   ],
   "imagesNeeded": false,

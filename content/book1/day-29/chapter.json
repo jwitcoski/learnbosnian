@@ -657,13 +657,13 @@
     },
     {
       "id": "stamp-envelope",
-      "alt": "Polygon painting based on the credited Commons photo. A stamped envelope on a table.",
+      "alt": "Polygon painting of a letter and envelope matching the Commons source photo.",
       "localPath": "/images/book1/day-29-stamp-envelope.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Ministry_of_Railways._Postal_envelope._img_08.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMinistry_of_Railways._Postal_envelope._img_08.jpg",
-      "author": "Scanning Dmitry Makeev, scan date - 2020 year.",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/AnselAdamsManzanarletter1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAnselAdamsManzanarletter1.jpg",
+      "author": "Ansel Adams",
       "license": "Public domain",
-      "credit": "Polygon painting based on the photo Ministry of Railways. Scanning Dmitry Makeev, scan date - 2020 year. / Wikimedia Commons (Public domain)"
+      "credit": "Polygon painting based on the photo AnselAdamsManzanarletter1.jpg. Ansel Adams / Wikimedia Commons (Public domain)"
     },
     {
       "id": "ferhadija-letter",

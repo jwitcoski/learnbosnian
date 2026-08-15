@@ -628,23 +628,23 @@
   "images": [
     {
       "id": "guide-badge",
-      "alt": "Polygon painting based on the credited Commons photo. A tour guide badge and map.",
+      "alt": "Polygon painting of a tourist information point matching the Commons source photo.",
       "localPath": "/images/book1/day-27-guide-badge.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Sarajevo_Bascarsija_2011-10-28_%282%29.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_Bascarsija_2011-10-28_%282%29.jpg",
-      "author": "Milan Suvajac",
-      "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on the photo Sarajevo Bascarsija 2011-10-28 (2).jpg. Milan Suvajac / Wikimedia Commons (CC BY-SA 4.0)"
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Tourist_information.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATourist_information.jpg",
+      "author": "Dick Tracy at German Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "credit": "Polygon painting based on the photo Tourist information.jpg. Dick Tracy at German Wikipedia / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "classroom-desk",
-      "alt": "Polygon painting based on the credited Commons photo. A classroom desk and notebook.",
+      "alt": "Polygon painting of an empty classroom with desks matching the Commons source photo.",
       "localPath": "/images/book1/day-27-classroom-desk.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Faculty_of_Islamic_Studies_in_Sarajevo_2023.01.22.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFaculty_of_Islamic_Studies_in_Sarajevo_2023.01.22.jpg",
-      "author": "Niegodzisie",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Empty_classroom_2020.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AEmpty_classroom_2020.jpg",
+      "author": "Dobrislava",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on the photo Faculty of Islamic Studies in Sarajevo 2023.01.22.jpg. Niegodzisie / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on the photo Empty classroom 2020.jpg. Dobrislava / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "office-tram",

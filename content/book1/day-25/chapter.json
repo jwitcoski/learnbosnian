@@ -631,43 +631,43 @@
   "images": [
     {
       "id": "clinic-door",
-      "alt": "Polygon painting based on the credited Commons photo. A small clinic door on a Bosnian street.",
+      "alt": "Polygon painting of a clinic hospital entrance matching the Commons source photo.",
       "localPath": "/images/book1/day-25-clinic-door.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Dubrave_Gornje_-_Pharmacy_%282019%29.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADubrave_Gornje_-_Pharmacy_%282019%29.jpg",
-      "author": "Sebleouf",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/D%C3%BClmen%2C_Franz-Hospital_--_2012_--_3908.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AD%C3%BClmen%2C_Franz-Hospital_--_2012_--_3908.jpg",
+      "author": "Dietmar Rabich",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on the photo Dubrave Gornje - Pharmacy (2019).jpg. Sebleouf / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on the photo Dülmen, Franz-Hospital -- 2012 -- 3908.jpg. Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "pharmacy-shelf",
-      "alt": "Polygon painting based on the credited Commons photo. A pharmacy shelf with medicine bottles.",
+      "alt": "Polygon painting of an interior pharmacy with medicine shelves matching the Commons source photo.",
       "localPath": "/images/book1/day-25-pharmacy-shelf.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Dubrave_Gornje_-_Pharmacy_%282019%29.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADubrave_Gornje_-_Pharmacy_%282019%29.jpg",
-      "author": "Sebleouf",
-      "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on the photo Dubrave Gornje - Pharmacy (2019).jpg. Sebleouf / Wikimedia Commons (CC BY-SA 4.0)"
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/RoscheiderHof-ladengasse-apotheke-2003-1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARoscheiderHof-ladengasse-apotheke-2003-1.jpg",
+      "author": "Helge Klaus Rieder",
+      "license": "CC BY-SA 3.0",
+      "credit": "Polygon painting based on the photo RoscheiderHof-ladengasse-apotheke-2003-1.jpg. Helge Klaus Rieder / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "mrvica-vet",
-      "alt": "Polygon painting based on the credited Commons photo. Mrvica the cat at a vet exam table.",
+      "alt": "Polygon painting of a cat on a counter matching the Commons source photo.",
       "localPath": "/images/book1/day-25-mrvica-vet.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACat_November_2010-1a.jpg",
-      "author": "Alvesgaspar",
-      "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on the photo Cat November 2010-1a.jpg. Alvesgaspar / Wikimedia Commons (CC BY-SA 3.0)"
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Cat_on_bar_counter_2025-07-25.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACat_on_bar_counter_2025-07-25.jpg",
+      "author": "Andy Li",
+      "license": "CC0",
+      "credit": "Polygon painting based on the photo Cat on bar counter 2025-07-25.jpg. Andy Li / Wikimedia Commons (CC0)"
     },
     {
       "id": "civic-jmbg",
-      "alt": "Polygon painting based on the credited Commons photo. Newborn paperwork and passport delay.",
+      "alt": "Polygon painting of the Sarajevo Parliamentary Assembly matching the Commons source photo.",
       "localPath": "/images/book1/day-25-civic-jmbg.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Sarajevo_parlament_2007.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_parlament_2007.jpg",
-      "author": "Dingoa",
-      "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on the photo Sarajevo parlament 2007.jpg. Dingoa / Wikimedia Commons (CC BY-SA 3.0)"
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Sarajevo_Parliamentary-Assembly_2011-09-26.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_Parliamentary-Assembly_2011-09-26.jpg",
+      "author": "Milan Suvajac",
+      "license": "CC BY-SA 4.0",
+      "credit": "Polygon painting based on the photo Sarajevo Parliamentary-Assembly 2011-09-26.jpg. Milan Suvajac / Wikimedia Commons (CC BY-SA 4.0)"
     }
   ],
   "imagesNeeded": false,

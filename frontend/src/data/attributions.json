@@ -1452,17 +1452,17 @@
     },
     {
       "id": "book1-day-21-civic-rural-bus",
-      "title": "Polygon painting based on the credited Commons photo. An empty rural bus stop in a Bosnian village.",
+      "title": "Polygon painting of a rural bus stop matching the Commons source photo.",
       "whereUsed": [
         "Book 1 · Lesson 21 — Review"
       ],
-      "author": "Vano111ru",
+      "author": "Jonatan Svensson Glad",
       "source": "Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_bus_station_2.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Sarajevo_bus_station_2.jpg",
+      "license": "Public domain",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABus_stop.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Bus_stop.jpg",
       "localPath": "/images/book1/day-21-civic-rural-bus.png",
-      "credit": "Polygon painting based on the photo Sarajevo bus station 2.jpg. Vano111ru / Wikimedia Commons (CC BY-SA 4.0)",
+      "credit": "Polygon painting based on the photo Bus stop.jpg. Jonatan Svensson Glad / Wikimedia Commons (Public domain)",
       "notes": "",
       "book": 1,
       "day": 21
@@ -1486,34 +1486,34 @@
     },
     {
       "id": "book1-day-21-weekend-map",
-      "title": "Polygon painting based on the credited Commons photo. A weekend map beside the Una River.",
+      "title": "Polygon painting of a map for weekend planning matching the Commons source photo.",
       "whereUsed": [
         "Book 1 · Lesson 21 — Review"
       ],
-      "author": "This Photo was taken by Miha Peče",
+      "author": "Marcin Mikita",
       "source": "Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AUna_near_Biha%C4%87_2.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Una_near_Biha%C4%87_2.jpg",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AOrienteering_map.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Orienteering_map.jpg",
       "localPath": "/images/book1/day-21-weekend-map.png",
-      "credit": "Polygon painting based on the photo Una near Bihać 2.jpg. This Photo was taken by Miha Peče / Wikimedia Commons (CC BY-SA 4.0)",
+      "credit": "Polygon painting based on the photo Orienteering map.jpg. Marcin Mikita / Wikimedia Commons (CC BY-SA 3.0)",
       "notes": "",
       "book": 1,
       "day": 21
     },
     {
       "id": "book1-day-22-civic-winding-road",
-      "title": "Polygon painting based on the credited Commons photo. A winding mountain road with fast traffic risk.",
+      "title": "Polygon painting of a winding mountain road matching the Commons source photo.",
       "whereUsed": [
         "Book 1 · Lesson 22 — Today in Travnik"
       ],
-      "author": "Edin the",
+      "author": "Holger.Ellgaard",
       "source": "Wikimedia Commons",
       "license": "CC BY-SA 3.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHighway_banja_luka_gradiska1.JPG",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Highway_banja_luka_gradiska1.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGrossglockner_road_1997b.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Grossglockner_road_1997b.jpg",
       "localPath": "/images/book1/day-22-civic-winding-road.png",
-      "credit": "Polygon painting based on the photo Highway banja luka gradiska1.JPG. Edin the / Wikimedia Commons (CC BY-SA 3.0)",
+      "credit": "Polygon painting based on the photo Grossglockner road 1997b.jpg. Holger.Ellgaard / Wikimedia Commons (CC BY-SA 3.0)",
       "notes": "",
       "book": 1,
       "day": 22
@@ -1537,58 +1537,58 @@
     },
     {
       "id": "book1-day-22-travnik-street",
-      "title": "Polygon painting based on the credited Commons photo. A narrow Travnik street.",
+      "title": "Polygon painting of a Travnik old-town street matching the Commons source photo.",
       "whereUsed": [
         "Book 1 · Lesson 22 — Today in Travnik"
       ],
       "author": "Julian Nyča",
       "source": "Wikimedia Commons",
       "license": "CC BY-SA 3.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATravnik_Altstadt_3.JPG",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Travnik_Altstadt_3.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATravnik_Altstadt_1.JPG",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Travnik_Altstadt_1.JPG",
       "localPath": "/images/book1/day-22-travnik-street.png",
-      "credit": "Polygon painting based on the photo Travnik Altstadt 3.JPG. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)",
+      "credit": "Polygon painting based on the photo Travnik Altstadt 1.JPG. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)",
       "notes": "",
       "book": 1,
       "day": 22
     },
     {
       "id": "book1-day-22-travnik-tower",
-      "title": "Polygon painting based on the credited Commons photo. The Travnik fortress tower on a hill.",
+      "title": "Polygon painting of Travnik fortress on the hill matching the Commons source photo.",
       "whereUsed": [
         "Book 1 · Lesson 22 — Today in Travnik"
       ],
       "author": "Julian Nyča",
       "source": "Wikimedia Commons",
       "license": "CC BY-SA 3.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATravnik_City_Centre_1.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Travnik_City_Centre_1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATravnik_Festung_1.JPG",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Travnik_Festung_1.JPG",
       "localPath": "/images/book1/day-22-travnik-tower.png",
-      "credit": "Polygon painting based on the photo Travnik City Centre 1.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)",
+      "credit": "Polygon painting based on the photo Travnik Festung 1.JPG. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)",
       "notes": "",
       "book": 1,
       "day": 22
     },
     {
       "id": "book1-day-23-activity-cards",
-      "title": "Polygon painting based on the credited Commons photo. Activity cards on a wooden table.",
+      "title": "Polygon painting of cards on a table matching the Commons source photo.",
       "whereUsed": [
         "Book 1 · Lesson 23 — What do you do?"
       ],
-      "author": "Multiple users. See History",
+      "author": "No machine-readable author provided. FvS~commonswiki assumed (based on copyright claims).",
       "source": "Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AZenica.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Zenica_%28collage_image%29.jpg",
+      "license": "Public domain",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3APlaying_cards.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Playing_cards.jpg",
       "localPath": "/images/book1/day-23-activity-cards.png",
-      "credit": "Polygon painting based on the photo Zenica.jpg. Multiple users. See History / Wikimedia Commons (CC BY-SA 4.0)",
+      "credit": "Polygon painting based on the photo Playing cards.jpg. No machine-readable author provided. FvS~commonswiki assumed (based on copyright claims). / Wikimedia Commons (Public domain)",
       "notes": "",
       "book": 1,
       "day": 23
     },
     {
       "id": "book1-day-23-civic-eurovision-debt",
-      "title": "Polygon painting based on the credited Commons photo. A dim stage standing for Eurovision absence and BHRT debt.",
+      "title": "Polygon painting of Vijećnica matching the Commons source photo.",
       "whereUsed": [
         "Book 1 · Lesson 23 — What do you do?"
       ],
@@ -1622,17 +1622,17 @@
     },
     {
       "id": "book1-day-23-zenica-postcard",
-      "title": "Polygon painting based on the credited Commons photo. A Zenica valley postcard.",
+      "title": "Polygon painting of Zenica matching the Commons source photo.",
       "whereUsed": [
         "Book 1 · Lesson 23 — What do you do?"
       ],
-      "author": "Emin Tarahija",
+      "author": "Multiple users. See History",
       "source": "Wikimedia Commons",
-      "license": "CC0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATheater_in_Zenica_from_side.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Theater_in_Zenica_from_side.jpg",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AZenica.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Zenica_%28collage_image%29.jpg",
       "localPath": "/images/book1/day-23-zenica-postcard.png",
-      "credit": "Polygon painting based on the photo Theater in Zenica from side.jpg. Emin Tarahija / Wikimedia Commons (CC0)",
+      "credit": "Polygon painting based on the photo Zenica.jpg. Multiple users. See History / Wikimedia Commons (CC BY-SA 4.0)",
       "notes": "",
       "book": 1,
       "day": 23
@@ -1707,119 +1707,119 @@
     },
     {
       "id": "book1-day-25-civic-jmbg",
-      "title": "Polygon painting based on the credited Commons photo. Newborn paperwork and passport delay.",
+      "title": "Polygon painting of the Sarajevo Parliamentary Assembly matching the Commons source photo.",
       "whereUsed": [
         "Book 1 · Lesson 25 — At the doctor"
       ],
-      "author": "Dingoa",
+      "author": "Milan Suvajac",
       "source": "Wikimedia Commons",
-      "license": "CC BY-SA 3.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_parlament_2007.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Sarajevo_parlament_2007.jpg",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_Parliamentary-Assembly_2011-09-26.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Sarajevo_Parliamentary-Assembly_2011-09-26.jpg",
       "localPath": "/images/book1/day-25-civic-jmbg.png",
-      "credit": "Polygon painting based on the photo Sarajevo parlament 2007.jpg. Dingoa / Wikimedia Commons (CC BY-SA 3.0)",
+      "credit": "Polygon painting based on the photo Sarajevo Parliamentary-Assembly 2011-09-26.jpg. Milan Suvajac / Wikimedia Commons (CC BY-SA 4.0)",
       "notes": "",
       "book": 1,
       "day": 25
     },
     {
       "id": "book1-day-25-clinic-door",
-      "title": "Polygon painting based on the credited Commons photo. A small clinic door on a Bosnian street.",
+      "title": "Polygon painting of a clinic hospital entrance matching the Commons source photo.",
       "whereUsed": [
         "Book 1 · Lesson 25 — At the doctor"
       ],
-      "author": "Sebleouf",
+      "author": "Dietmar Rabich",
       "source": "Wikimedia Commons",
       "license": "CC BY-SA 4.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADubrave_Gornje_-_Pharmacy_%282019%29.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Dubrave_Gornje_-_Pharmacy_%282019%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AD%C3%BClmen%2C_Franz-Hospital_--_2012_--_3908.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/D%C3%BClmen%2C_Franz-Hospital_--_2012_--_3908.jpg",
       "localPath": "/images/book1/day-25-clinic-door.png",
-      "credit": "Polygon painting based on the photo Dubrave Gornje - Pharmacy (2019).jpg. Sebleouf / Wikimedia Commons (CC BY-SA 4.0)",
+      "credit": "Polygon painting based on the photo Dülmen, Franz-Hospital -- 2012 -- 3908.jpg. Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)",
       "notes": "",
       "book": 1,
       "day": 25
     },
     {
       "id": "book1-day-25-mrvica-vet",
-      "title": "Polygon painting based on the credited Commons photo. Mrvica the cat at a vet exam table.",
+      "title": "Polygon painting of a cat on a counter matching the Commons source photo.",
       "whereUsed": [
         "Book 1 · Lesson 25 — At the doctor"
       ],
-      "author": "Alvesgaspar",
+      "author": "Andy Li",
       "source": "Wikimedia Commons",
-      "license": "CC BY-SA 3.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACat_November_2010-1a.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg",
+      "license": "CC0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACat_on_bar_counter_2025-07-25.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Cat_on_bar_counter_2025-07-25.jpg",
       "localPath": "/images/book1/day-25-mrvica-vet.png",
-      "credit": "Polygon painting based on the photo Cat November 2010-1a.jpg. Alvesgaspar / Wikimedia Commons (CC BY-SA 3.0)",
+      "credit": "Polygon painting based on the photo Cat on bar counter 2025-07-25.jpg. Andy Li / Wikimedia Commons (CC0)",
       "notes": "",
       "book": 1,
       "day": 25
     },
     {
       "id": "book1-day-25-pharmacy-shelf",
-      "title": "Polygon painting based on the credited Commons photo. A pharmacy shelf with medicine bottles.",
+      "title": "Polygon painting of an interior pharmacy with medicine shelves matching the Commons source photo.",
       "whereUsed": [
         "Book 1 · Lesson 25 — At the doctor"
       ],
-      "author": "Sebleouf",
+      "author": "Helge Klaus Rieder",
       "source": "Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADubrave_Gornje_-_Pharmacy_%282019%29.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Dubrave_Gornje_-_Pharmacy_%282019%29.jpg",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARoscheiderHof-ladengasse-apotheke-2003-1.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/RoscheiderHof-ladengasse-apotheke-2003-1.jpg",
       "localPath": "/images/book1/day-25-pharmacy-shelf.png",
-      "credit": "Polygon painting based on the photo Dubrave Gornje - Pharmacy (2019).jpg. Sebleouf / Wikimedia Commons (CC BY-SA 4.0)",
+      "credit": "Polygon painting based on the photo RoscheiderHof-ladengasse-apotheke-2003-1.jpg. Helge Klaus Rieder / Wikimedia Commons (CC BY-SA 3.0)",
       "notes": "",
       "book": 1,
       "day": 25
     },
     {
       "id": "book1-day-26-apartment-door",
-      "title": "Polygon painting based on the credited Commons photo. An apartment door and keys.",
+      "title": "Polygon painting of a residential wooden door matching the Commons source photo.",
       "whereUsed": [
         "Book 1 · Lesson 26 — Housing"
       ],
-      "author": "Milan Suvajac",
+      "author": "Rajani Gairshail",
       "source": "Wikimedia Commons",
       "license": "CC BY-SA 4.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_Hotel-Bristol_Revolving-Door_2011-10-25.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Sarajevo_Hotel-Bristol_Revolving-Door_2011-10-25.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASimple_Traditional_Wooden_Door%2C_Himachal_Pradesh.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Simple_Traditional_Wooden_Door%2C_Himachal_Pradesh.jpg",
       "localPath": "/images/book1/day-26-apartment-door.png",
-      "credit": "Polygon painting based on the photo Sarajevo Hotel-Bristol Revolving-Door 2011-10-25.jpg. Milan Suvajac / Wikimedia Commons (CC BY-SA 4.0)",
+      "credit": "Polygon painting based on the photo Simple Traditional Wooden Door, Himachal Pradesh.jpg. Rajani Gairshail / Wikimedia Commons (CC BY-SA 4.0)",
       "notes": "",
       "book": 1,
       "day": 26
     },
     {
       "id": "book1-day-26-civic-returnee-pressure",
-      "title": "Polygon painting based on the credited Commons photo. A quiet returnee house under local pressure.",
+      "title": "Polygon painting of a destroyed house matching the Commons source photo.",
       "whereUsed": [
         "Book 1 · Lesson 26 — Housing"
       ],
-      "author": "Ma▀▄Ga",
+      "author": "Tony Hisgett from Birmingham, UK",
       "source": "Wikimedia Commons",
-      "license": "CC BY 3.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AStari_grad_Stolac_%2817%29.JPG",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Stari_grad_Stolac_%2817%29.JPG",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADestroyed_House_Vitina_%284061872003%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Destroyed_House_Vitina_%284061872003%29.jpg",
       "localPath": "/images/book1/day-26-civic-returnee-pressure.png",
-      "credit": "Polygon painting based on the photo Stari grad Stolac (17).JPG. Ma▀▄Ga / Wikimedia Commons (CC BY 3.0)",
+      "credit": "Polygon painting based on the photo Destroyed House Vitina (4061872003).jpg. Tony Hisgett from Birmingham, UK / Wikimedia Commons (CC BY 2.0)",
       "notes": "",
       "book": 1,
       "day": 26
     },
     {
       "id": "book1-day-26-flat-kitchen",
-      "title": "Polygon painting based on the credited Commons photo. A bright flat kitchen.",
+      "title": "Polygon painting of a bright modern apartment kitchen matching the Commons source photo.",
       "whereUsed": [
         "Book 1 · Lesson 26 — Housing"
       ],
-      "author": "Whitepixels",
+      "author": "Shixart1985",
       "source": "Wikimedia Commons",
-      "license": "CC0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABiH_Svrzo_kitchen_vodnica.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/BiH_Svrzo_kitchen_vodnica.jpg",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AModern_kitchen_and_dining_area_in_a_bright_apartment_on_a_sunny_day_with_simple_decor_and_furniture.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Modern_kitchen_and_dining_area_in_a_bright_apartment_on_a_sunny_day_with_simple_decor_and_furniture.jpg",
       "localPath": "/images/book1/day-26-flat-kitchen.png",
-      "credit": "Polygon painting based on the photo BiH Svrzo kitchen vodnica.jpg. Whitepixels / Wikimedia Commons (CC0)",
+      "credit": "Polygon painting based on the photo Modern kitchen and dining area in a bright apartment on a sunny day with simple decor and furniture.jpg. Shixart1985 / Wikimedia Commons (CC BY 2.0)",
       "notes": "",
       "book": 1,
       "day": 26
@@ -1860,34 +1860,34 @@
     },
     {
       "id": "book1-day-27-classroom-desk",
-      "title": "Polygon painting based on the credited Commons photo. A classroom desk and notebook.",
+      "title": "Polygon painting of an empty classroom with desks matching the Commons source photo.",
       "whereUsed": [
         "Book 1 · Lesson 27 — Work and school"
       ],
-      "author": "Niegodzisie",
+      "author": "Dobrislava",
       "source": "Wikimedia Commons",
       "license": "CC BY-SA 4.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFaculty_of_Islamic_Studies_in_Sarajevo_2023.01.22.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Faculty_of_Islamic_Studies_in_Sarajevo_2023.01.22.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AEmpty_classroom_2020.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Empty_classroom_2020.jpg",
       "localPath": "/images/book1/day-27-classroom-desk.png",
-      "credit": "Polygon painting based on the photo Faculty of Islamic Studies in Sarajevo 2023.01.22.jpg. Niegodzisie / Wikimedia Commons (CC BY-SA 4.0)",
+      "credit": "Polygon painting based on the photo Empty classroom 2020.jpg. Dobrislava / Wikimedia Commons (CC BY-SA 4.0)",
       "notes": "",
       "book": 1,
       "day": 27
     },
     {
       "id": "book1-day-27-guide-badge",
-      "title": "Polygon painting based on the credited Commons photo. A tour guide badge and map.",
+      "title": "Polygon painting of a tourist information point matching the Commons source photo.",
       "whereUsed": [
         "Book 1 · Lesson 27 — Work and school"
       ],
-      "author": "Milan Suvajac",
+      "author": "Dick Tracy at German Wikipedia",
       "source": "Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_Bascarsija_2011-10-28_%282%29.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Sarajevo_Bascarsija_2011-10-28_%282%29.jpg",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATourist_information.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Tourist_information.jpg",
       "localPath": "/images/book1/day-27-guide-badge.png",
-      "credit": "Polygon painting based on the photo Sarajevo Bascarsija 2011-10-28 (2).jpg. Milan Suvajac / Wikimedia Commons (CC BY-SA 4.0)",
+      "credit": "Polygon painting based on the photo Tourist information.jpg. Dick Tracy at German Wikipedia / Wikimedia Commons (CC BY-SA 3.0)",
       "notes": "",
       "book": 1,
       "day": 27
@@ -2030,51 +2030,51 @@
     },
     {
       "id": "book1-day-29-stamp-envelope",
-      "title": "Polygon painting based on the credited Commons photo. A stamped envelope on a table.",
+      "title": "Polygon painting of a letter and envelope matching the Commons source photo.",
       "whereUsed": [
         "Book 1 · Lesson 29 — Letters from Bosnia and Herzegovina"
       ],
-      "author": "Scanning Dmitry Makeev, scan date - 2020 year.",
+      "author": "Ansel Adams",
       "source": "Wikimedia Commons",
       "license": "Public domain",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMinistry_of_Railways._Postal_envelope._img_08.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Ministry_of_Railways._Postal_envelope._img_08.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAnselAdamsManzanarletter1.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/AnselAdamsManzanarletter1.jpg",
       "localPath": "/images/book1/day-29-stamp-envelope.png",
-      "credit": "Polygon painting based on the photo Ministry of Railways. Scanning Dmitry Makeev, scan date - 2020 year. / Wikimedia Commons (Public domain)",
+      "credit": "Polygon painting based on the photo AnselAdamsManzanarletter1.jpg. Ansel Adams / Wikimedia Commons (Public domain)",
       "notes": "",
       "book": 1,
       "day": 29
     },
     {
       "id": "book1-day-30-cake-heist",
-      "title": "Polygon painting based on the credited Commons photo. Mrvica stealing cake at the party.",
+      "title": "Polygon painting of a cat with a cake matching the Commons source photo.",
       "whereUsed": [
         "Book 1 · Lesson 30 — Graduation party"
       ],
-      "author": "Alvesgaspar",
+      "author": "AKA MBG",
       "source": "Wikimedia Commons",
-      "license": "CC BY-SA 3.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACat_November_2010-1a.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg",
+      "license": "CC0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACake_red_cat_2024.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Cake_red_cat_2024.jpg",
       "localPath": "/images/book1/day-30-cake-heist.png",
-      "credit": "Polygon painting based on the photo Cat November 2010-1a.jpg. Alvesgaspar / Wikimedia Commons (CC BY-SA 3.0)",
+      "credit": "Polygon painting based on the photo Cake red cat 2024.jpg. AKA MBG / Wikimedia Commons (CC0)",
       "notes": "",
       "book": 1,
       "day": 30
     },
     {
       "id": "book1-day-30-civic-night-wolves",
-      "title": "Polygon painting based on the credited Commons photo. A motorcycle parade mood in Banja Luka.",
+      "title": "Polygon painting of Night Wolves motorcycles matching the Commons source photo.",
       "whereUsed": [
         "Book 1 · Lesson 30 — Graduation party"
       ],
-      "author": "Biljana Latinović2",
+      "author": "The Presidential Press and Information Office",
       "source": "Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATvr%C4%91ava_Kastel_Banja_Luka.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Tvr%C4%91ava_Kastel_Banja_Luka.jpg",
+      "license": "CC BY 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVladimir_Putin_with_Night_Wolves_Motorclub_%282019-08-10%29_5.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Vladimir_Putin_with_Night_Wolves_Motorclub_%282019-08-10%29_5.jpg",
       "localPath": "/images/book1/day-30-civic-night-wolves.png",
-      "credit": "Polygon painting based on the photo Tvrđava Kastel Banja Luka.jpg. Biljana Latinović2 / Wikimedia Commons (CC BY-SA 4.0)",
+      "credit": "Polygon painting based on the photo Vladimir Putin with Night Wolves Motorclub (2019-08-10) 5.jpg. The Presidential Press and Information Office / Wikimedia Commons (CC BY 4.0)",
       "notes": "",
       "book": 1,
       "day": 30
@@ -2098,7 +2098,7 @@
     },
     {
       "id": "book1-day-30-party-table",
-      "title": "Polygon painting based on the credited Commons photo. A graduation party table.",
+      "title": "Polygon painting of a birthday cake matching the Commons source photo.",
       "whereUsed": [
         "Book 1 · Lesson 30 — Graduation party"
       ],
