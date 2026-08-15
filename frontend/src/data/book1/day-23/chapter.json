@@ -631,7 +631,7 @@
   "images": [
     {
       "id": "daily-cafe",
-      "alt": "Polygon painting of a busy café where people talk about daily plans.",
+      "alt": "Polygon painting based on the credited Commons photo. A busy café where people talk about daily plans.",
       "localPath": "/images/book1/day-23-daily-cafe.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Bosnian_coffee_%2813926468997%29.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABosnian_coffee_%2813926468997%29.jpg",
@@ -641,7 +641,7 @@
     },
     {
       "id": "zenica-postcard",
-      "alt": "Polygon painting of a Zenica valley postcard.",
+      "alt": "Polygon painting based on the credited Commons photo. A Zenica valley postcard.",
       "localPath": "/images/book1/day-23-zenica-postcard.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Theater_in_Zenica_from_side.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATheater_in_Zenica_from_side.jpg",
@@ -651,7 +651,7 @@
     },
     {
       "id": "activity-cards",
-      "alt": "Polygon painting of activity cards on a wooden table.",
+      "alt": "Polygon painting based on the credited Commons photo. Activity cards on a wooden table.",
       "localPath": "/images/book1/day-23-activity-cards.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Zenica_%28collage_image%29.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AZenica.jpg",
@@ -661,7 +661,7 @@
     },
     {
       "id": "civic-eurovision-debt",
-      "alt": "Polygon painting of a dim stage standing for Eurovision absence and BHRT debt.",
+      "alt": "Polygon painting based on the credited Commons photo. A dim stage standing for Eurovision absence and BHRT debt.",
       "localPath": "/images/book1/day-23-civic-eurovision-debt.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Vije%C4%87nica.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVije%C4%87nica.jpg",

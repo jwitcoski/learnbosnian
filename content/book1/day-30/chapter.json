@@ -632,7 +632,7 @@
   "images": [
     {
       "id": "party-table",
-      "alt": "Polygon painting of a graduation party table.",
+      "alt": "Polygon painting based on the credited Commons photo. A graduation party table.",
       "localPath": "/images/book1/day-30-party-table.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/A_birthday_cake_2.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AA_birthday_cake_2.jpg",
@@ -642,7 +642,7 @@
     },
     {
       "id": "cake-heist",
-      "alt": "Polygon painting of Mrvica stealing cake at the party.",
+      "alt": "Polygon painting based on the credited Commons photo. Mrvica stealing cake at the party.",
       "localPath": "/images/book1/day-30-cake-heist.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACat_November_2010-1a.jpg",
@@ -652,7 +652,7 @@
     },
     {
       "id": "friends-toast",
-      "alt": "Polygon painting of friends toasting at the finale party.",
+      "alt": "Polygon painting based on the credited Commons photo. Friends toasting at the finale party.",
       "localPath": "/images/book1/day-30-friends-toast.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Wedding_Glasses_%284005789482%29.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWedding_Glasses_%284005789482%29.jpg",
@@ -662,7 +662,7 @@
     },
     {
       "id": "civic-night-wolves",
-      "alt": "Polygon painting of a motorcycle parade mood in Banja Luka.",
+      "alt": "Polygon painting based on the credited Commons photo. A motorcycle parade mood in Banja Luka.",
       "localPath": "/images/book1/day-30-civic-night-wolves.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Tvr%C4%91ava_Kastel_Banja_Luka.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATvr%C4%91ava_Kastel_Banja_Luka.jpg",

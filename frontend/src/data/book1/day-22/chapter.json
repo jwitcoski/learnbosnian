@@ -625,7 +625,7 @@
   "images": [
     {
       "id": "travnik-mosque",
-      "alt": "Polygon painting of a colorful mosque in Travnik old town.",
+      "alt": "Polygon painting based on the credited Commons photo. A colorful mosque in Travnik old town.",
       "localPath": "/images/book1/day-22-travnik-mosque.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Travnik_mosque_03.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATravnik_mosque_03.jpg",
@@ -635,7 +635,7 @@
     },
     {
       "id": "travnik-street",
-      "alt": "Polygon painting of a narrow Travnik street.",
+      "alt": "Polygon painting based on the credited Commons photo. A narrow Travnik street.",
       "localPath": "/images/book1/day-22-travnik-street.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Travnik_Altstadt_3.JPG",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATravnik_Altstadt_3.JPG",
@@ -645,7 +645,7 @@
     },
     {
       "id": "travnik-tower",
-      "alt": "Polygon painting of the Travnik fortress tower on a hill.",
+      "alt": "Polygon painting based on the credited Commons photo. The Travnik fortress tower on a hill.",
       "localPath": "/images/book1/day-22-travnik-tower.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Travnik_City_Centre_1.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATravnik_City_Centre_1.jpg",
@@ -655,7 +655,7 @@
     },
     {
       "id": "civic-winding-road",
-      "alt": "Polygon painting of a winding mountain road with fast traffic risk.",
+      "alt": "Polygon painting based on the credited Commons photo. A winding mountain road with fast traffic risk.",
       "localPath": "/images/book1/day-22-civic-winding-road.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Highway_banja_luka_gradiska1.JPG",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHighway_banja_luka_gradiska1.JPG",

@@ -631,7 +631,7 @@
   "images": [
     {
       "id": "clinic-door",
-      "alt": "Polygon painting of a small clinic door on a Bosnian street.",
+      "alt": "Polygon painting based on the credited Commons photo. A small clinic door on a Bosnian street.",
       "localPath": "/images/book1/day-25-clinic-door.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Dubrave_Gornje_-_Pharmacy_%282019%29.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADubrave_Gornje_-_Pharmacy_%282019%29.jpg",
@@ -641,7 +641,7 @@
     },
     {
       "id": "pharmacy-shelf",
-      "alt": "Polygon painting of a pharmacy shelf with medicine bottles.",
+      "alt": "Polygon painting based on the credited Commons photo. A pharmacy shelf with medicine bottles.",
       "localPath": "/images/book1/day-25-pharmacy-shelf.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Dubrave_Gornje_-_Pharmacy_%282019%29.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADubrave_Gornje_-_Pharmacy_%282019%29.jpg",
@@ -651,7 +651,7 @@
     },
     {
       "id": "mrvica-vet",
-      "alt": "Polygon painting of Mrvica the cat at a vet exam table.",
+      "alt": "Polygon painting based on the credited Commons photo. Mrvica the cat at a vet exam table.",
       "localPath": "/images/book1/day-25-mrvica-vet.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACat_November_2010-1a.jpg",
@@ -661,7 +661,7 @@
     },
     {
       "id": "civic-jmbg",
-      "alt": "Polygon painting of newborn paperwork and passport delay.",
+      "alt": "Polygon painting based on the credited Commons photo. Newborn paperwork and passport delay.",
       "localPath": "/images/book1/day-25-civic-jmbg.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Sarajevo_parlament_2007.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_parlament_2007.jpg",
