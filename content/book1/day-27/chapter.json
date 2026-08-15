@@ -628,13 +628,13 @@
   "images": [
     {
       "id": "guide-badge",
-      "alt": "Polygon painting of a tourist information point matching the Commons source photo.",
+      "alt": "Polygon painting of the Turistički Info Centar facade in Trebinje matching the Commons source photo.",
       "localPath": "/images/book1/day-27-guide-badge.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Tourist_information.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATourist_information.jpg",
-      "author": "Dick Tracy at German Wikipedia",
-      "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on the photo Tourist information.jpg. Dick Tracy at German Wikipedia / Wikimedia Commons (CC BY-SA 3.0)"
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Turisti%C4%8Dki_info_centar_-_panoramio.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATuristi%C4%8Dki_info_centar_-_panoramio.jpg",
+      "author": "Mister No",
+      "license": "CC BY 3.0",
+      "credit": "Polygon painting based on the photo Turistički info centar - panoramio.jpg. Mister No / Wikimedia Commons (CC BY 3.0)"
     },
     {
       "id": "classroom-desk",
