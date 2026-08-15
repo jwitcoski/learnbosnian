@@ -16,7 +16,8 @@
     ],
     "grammar": [
       "Remember sam, si, je and moj, moja",
-      "Remember Gdje je…? and Koliko je sati?"
+      "Remember Gdje je…? and Koliko je sati?",
+      "Reuse familiar present-tense frames from earlier lessons."
     ],
     "culture": [
       "Use photo captions as a memory tool",
@@ -98,7 +99,7 @@
   "grammar": [
     {
       "title": "Remember. biti and possessives",
-      "explanation": "Core so far includes Ja sam Ana, Ti si Emir, and On je or Ona je. Pair those with possessives. Say Moj prijatelj. Say Moja prijateljica.",
+      "explanation": "Learn this as a phrase, not a table. Core so far includes Ja sam Ana, Ti si Emir, and On je or Ona je. Pair those with possessives. Say Moj prijatelj. Say Moja prijateljica.",
       "examples": [
         {
           "bosnian": "Ja sam Ana. Ti si Emir.",
@@ -116,7 +117,7 @@
     },
     {
       "title": "Remember. where and when",
-      "explanation": "For place, keep Gdje je…?, Ovdje, Tamo, U Sarajevu, and Kod Amire ready. For time, keep Koliko je sati?, danas, sutra, and a weekday ready. Put them in one diary line. Say Danas sam kod Amire.",
+      "explanation": "Learn this as a phrase, not a table. For place, keep Gdje je…?, Ovdje, Tamo, U Sarajevu, and Kod Amire ready. For time, keep Koliko je sati?, danas, sutra, and a weekday ready. Put them in one diary line. Say Danas sam kod Amire.",
       "examples": [
         {
           "bosnian": "Gdje je Mostar? Tamo.",
@@ -142,7 +143,7 @@
     {
       "id": "a",
       "title": "Lesson A: Recycle the toolkit",
-      "body": "Run a rapid fire drill without notes. Say Zdravo! Say Ja sam… Say Drago mi je. Say Kahvu, molim. Ask Koliko? Say Moj brat. Say Moja sestra. Ask Gdje je mapa? Answer Ovdje. Answer Tamo. Ask Koliko je sati? Say Danas. Say Sutra. Emir times Ana for two minutes. Misses are fine. Laugh, repeat, and move on. Circle three weak words and write them once with the correct letters.",
+      "body": "This review is a frame drill for Section 1. Run a rapid fire drill without notes. Say Zdravo! Say Ja sam… Say Drago mi je. Say Kahvu, molim. Ask Koliko? Say Moj brat. Say Moja sestra. Ask Gdje je mapa? Answer Ovdje. Answer Tamo. Ask Koliko je sati? Say Danas. Say Sutra. Emir times Ana for two minutes. Misses are fine. Laugh, repeat, and move on. Circle three weak words and write them once with the correct letters.",
       "tips": [
         "Speed first, then one careful rewrite.",
         "Revisit č ć š ž đ from Lesson 1 if your spelling slips."
@@ -689,5 +690,27 @@
       "prompt": "Type three Section 1 words with correct čćšžđ."
     }
   ],
-  "section": 1
+  "section": 1,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Koliko je sati?",
+        "english": "What time is it?"
+      },
+      {
+        "bosnian": "Pet je sati.",
+        "english": "It is five o’clock."
+      },
+      {
+        "bosnian": "Danas je petak.",
+        "english": "Today is Friday."
+      },
+      {
+        "bosnian": "Sutra je subota.",
+        "english": "Tomorrow is Saturday."
+      }
+    ]
+  }
 }

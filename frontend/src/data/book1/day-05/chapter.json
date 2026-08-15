@@ -18,7 +18,7 @@
     "grammar": [
       "Ask Gdje je…?",
       "Answer with ovdje or tamo",
-      "Use simple place chunks such as u Sarajevu, na mapi, and kod Amire"
+      "Reuse familiar present-tense frames from earlier lessons."
     ],
     "culture": [
       "See Bosnia and Herzegovina on the map",
@@ -128,7 +128,7 @@
   "grammar": [
     {
       "title": "Gdje je…?",
-      "explanation": "Gdje? means where. Pair it with je for a ready question. Ask Gdje je Mostar? Ask Gdje je mapa? Ask Gdje je Amira?",
+      "explanation": "Learn this as a phrase, not a table. Gdje? means where. Pair it with je for a ready question. Ask Gdje je Mostar? Ask Gdje je mapa? Ask Gdje je Amira?",
       "examples": [
         {
           "bosnian": "Gdje je Mostar?",
@@ -146,7 +146,7 @@
     },
     {
       "title": "Ovdje and tamo",
-      "explanation": "Ovdje means here, near you. Tamo means there or over there, farther away. On a map Emir points and says Sarajevo je ovdje. He says Mostar je tamo. Practice with your finger on the page.",
+      "explanation": "Learn this as a phrase, not a table. Ovdje means here, near you. Tamo means there or over there, farther away. On a map Emir points and says Sarajevo je ovdje. He says Mostar je tamo. Practice with your finger on the page.",
       "examples": [
         {
           "bosnian": "Ovdje je Sarajevo.",
@@ -164,7 +164,7 @@
     },
     {
       "title": "U / na / kod. say them as chunks",
-      "explanation": "Memorize useful place lines before full case tables. U Sarajevu = in Sarajevo. Na mapi = on the map. Kod Amire = at Amira’s. Na jugu = in the south. Learn the whole chunk; morphology details come later.",
+      "explanation": "Learn this as a phrase, not a table. Memorize useful place lines before full case tables. U Sarajevu = in Sarajevo. Na mapi = on the map. Kod Amire = at Amira’s. Na jugu = in the south. Learn the whole chunk; morphology details come later.",
       "examples": [
         {
           "bosnian": "U Sarajevu.",
@@ -708,5 +708,27 @@
     3,
     5
   ],
-  "section": 1
+  "section": 1,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Moja majka je u Americi.",
+        "english": "My mother is in America."
+      },
+      {
+        "bosnian": "Emir je moj prijatelj.",
+        "english": "Emir is my friend."
+      },
+      {
+        "bosnian": "Mi smo mala porodica.",
+        "english": "We are a little family."
+      },
+      {
+        "bosnian": "Jednu kahvu, molim.",
+        "english": "One coffee, please."
+      }
+    ]
+  }
 }

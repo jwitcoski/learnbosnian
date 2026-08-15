@@ -284,6 +284,25 @@ export default function LessonShell({ chapter }: Props) {
         ))}
       </Panel>
 
+      {chapter.sayAgain?.lines?.length ? (
+        <Panel id="say-again">
+          <SectionDivider />
+          <h2>{chapter.sayAgain.title || "Say again"}</h2>
+          {chapter.sayAgain.intro ? (
+            <p style={{ color: "var(--color-muted)", marginTop: 0 }}>
+              {chapter.sayAgain.intro}
+            </p>
+          ) : null}
+          <GoalList>
+            {chapter.sayAgain.lines.map((line) => (
+              <li key={line.bosnian}>
+                <strong>{line.bosnian}</strong>: {line.english}
+              </li>
+            ))}
+          </GoalList>
+        </Panel>
+      ) : null}
+
       {chapter.lessonBlocks.map((block, idx) => (
         <Panel key={block.id} id={`lesson-${block.id}`}>
           <SectionDivider />

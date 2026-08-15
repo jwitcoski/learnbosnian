@@ -18,7 +18,7 @@
     "grammar": [
       "Use the present of biti with sam, si, and je",
       "Introduce yourself with Ja sam and Zovem se",
-      "Build simple On je and Ona je sentences"
+      "Reuse familiar present-tense frames from earlier lessons."
     ],
     "culture": [
       "Sebilj as Baščaršija’s meeting fountain",
@@ -128,7 +128,7 @@
   "grammar": [
     {
       "title": "biti. sam, si, je",
-      "explanation": "The verb biti means to be. Beginners live on three short forms. Say ja sam for I am. Say ti si for you are. Say on je or ona je for he is or she is. Put the pronoun first when you want clarity. Say Ja sam Ana.",
+      "explanation": "Learn this as a phrase, not a table. The verb biti means to be. Beginners live on three short forms. Say ja sam for I am. Say ti si for you are. Say on je or ona je for he is or she is. Put the pronoun first when you want clarity. Say Ja sam Ana.",
       "examples": [
         {
           "bosnian": "Ja sam Ana.",
@@ -150,7 +150,7 @@
     },
     {
       "title": "Two ways to introduce yourself",
-      "explanation": "Ja sam Ana states identity with biti. Zovem se Ana means “I am called Ana / my name is Ana.” Both are natural. For “nice to meet you,” say Drago mi je. literally “it is dear to me.”",
+      "explanation": "Learn this as a phrase, not a table. Ja sam Ana states identity with biti. Zovem se Ana means “I am called Ana / my name is Ana.” Both are natural. For “nice to meet you,” say Drago mi je. literally “it is dear to me.”",
       "examples": [
         {
           "bosnian": "Zovem se Ana.",
@@ -168,7 +168,7 @@
     },
     {
       "title": "iz. saying where you are from",
-      "explanation": "Use iz plus a place for origin. Say Ja sam iz Amerike. Say Emir je iz Sarajeva. You do not need full case tables yet.",
+      "explanation": "Learn this as a phrase, not a table. Use iz plus a place for origin. Say Ja sam iz Amerike. Say Emir je iz Sarajeva. You do not need full case tables yet.",
       "examples": [
         {
           "bosnian": "Ja sam iz Amerike.",
@@ -698,5 +698,27 @@
     3,
     5
   ],
-  "section": 1
+  "section": 1,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Dobar dan!",
+        "english": "Good day!"
+      },
+      {
+        "bosnian": "Hvala!",
+        "english": "Thank you!"
+      },
+      {
+        "bosnian": "Molim?",
+        "english": "Can I help you?"
+      },
+      {
+        "bosnian": "Doviđenja!",
+        "english": "Goodbye!"
+      }
+    ]
+  }
 }

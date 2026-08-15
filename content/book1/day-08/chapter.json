@@ -18,7 +18,7 @@
     "grammar": [
       "Use Volim plus a food object as one ready chunk",
       "Use Ne volim for a polite dislike",
-      "Match gladan and gladna to the speaker"
+      "Reuse familiar present-tense frames from earlier lessons."
     ],
     "culture": [
       "In Bosnia and Herzegovina, burek means meat, and cheese pie is sirnica",
@@ -142,7 +142,7 @@
   "grammar": [
     {
       "title": "Volim + object",
-      "explanation": "Volim means I love or I like. Put the food after it as a ready chunk. Say Volim burek. Say Volim kahvu. For many feminine food nouns ending in -a, the spoken object often ends in -u. Say Volim sirnicu. Say Volim zeljanicu. Learn the pairs as phrases first. Do not memorize a full case table in this lesson.",
+      "explanation": "Learn this as a phrase, not a table. Volim means I love or I like. Put the food after it as a ready chunk. Say Volim burek. Say Volim kahvu. For many feminine food nouns ending in -a, the spoken object often ends in -u. Say Volim sirnicu. Say Volim zeljanicu. Learn the pairs as phrases first. Do not memorize a full case table in this lesson.",
       "examples": [
         {
           "bosnian": "Volim burek.",
@@ -160,7 +160,7 @@
     },
     {
       "title": "Ne volim",
-      "explanation": "Add ne before volim to say you do not like something. Say Ne volim luk. Say Ne volim čaj. Keep it soft and clear. You can still be polite while you refuse a filling.",
+      "explanation": "Learn this as a phrase, not a table. Add ne before volim to say you do not like something. Say Ne volim luk. Say Ne volim čaj. Keep it soft and clear. You can still be polite while you refuse a filling.",
       "examples": [
         {
           "bosnian": "Ne volim luk.",
@@ -174,7 +174,7 @@
     },
     {
       "title": "Gladan / gladna",
-      "explanation": "Match the adjective to who is speaking. Emir says Ja sam gladan. Ana says Ja sam gladna. Then order food and finish with Dobar tek!",
+      "explanation": "Learn this as a phrase, not a table. Match the adjective to who is speaking. Emir says Ja sam gladan. Ana says Ja sam gladna. Then order food and finish with Dobar tek!",
       "examples": [
         {
           "bosnian": "Ja sam gladan.",
@@ -247,8 +247,8 @@
       },
       {
         "speaker": "Ana",
-        "bosnian": "Ja volim sirnicu. Ne volim luk.",
-        "english": "I love sirnica. I do not like onion."
+        "bosnian": "Hvala! Ja volim sirnicu. Ne volim luk.",
+        "english": "Thank you! I love sirnica. I do not like onion."
       },
       {
         "speaker": "Amira",
@@ -759,5 +759,27 @@
     3,
     5
   ],
-  "section": 2
+  "section": 2,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Ja sam Ana.",
+        "english": "I am Ana."
+      },
+      {
+        "bosnian": "Gdje je Sarajevo?",
+        "english": "Where is Sarajevo?"
+      },
+      {
+        "bosnian": "Jednu kahvu, molim.",
+        "english": "One coffee, please."
+      },
+      {
+        "bosnian": "Hvala!",
+        "english": "Thank you!"
+      }
+    ]
+  }
 }

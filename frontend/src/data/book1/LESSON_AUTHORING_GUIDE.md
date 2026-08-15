@@ -22,6 +22,21 @@ Use this guide for **Lessons 4–30**. Do not invent a new chapter shape. Copy L
 - Every `sectionQuiz` question should set `skill` (`vocabulary` | `grammar` | `dialogue` | `culture` | `listening`) for remediation links.
 - **Civic backlog:** Brčko District (self-governing city-district under international supervision) is a third unit beside the two entities. Do not cram it into the Lesson 7 entities note. Draft it on Lesson 13 (identity / people of BiH) or another northern/administration lesson.
 
+### Book 1 pedagogy lock (tourist / expat survival)
+
+Book 1 is an **A1 present-tense survival intro** for travelers, short-stay visitors, and early expats. It is not a full grammar course and not early A2 storytelling.
+
+| Lock | Rule |
+|------|------|
+| Present tense only | Teach usable present forms and polite imperatives. No past tense (perfekt), no future paradigms. Past storytelling moves to **Book 2**. |
+| Chunks over tables | Keep grammar panel titles if useful, but the **first sentence** of every grammar explanation must be: `Learn this as a phrase, not a table.` |
+| Spiral frames | Every new lesson after Lesson 1 must reuse **5 to 8** high-frequency frames from earlier lessons inside Say again, blocks, dialogue, or practice. |
+| Say again warm-up | Every normal lesson (and reviews) includes `sayAgain` with **exactly 4** recycled Bosnian/English lines before Lesson A. |
+| Review = frame drill | Lessons **7, 14, 21, 30** drill the core frames hard. Prefer recycle cards and question switches over new systems. |
+| Public politeness | Any shop, café counter, bus, clinic, or stranger scene needs at least one polite exchange (`molim`, `hvala`, or `molim vas`). Keep ja/ti as the default social voice. |
+| Studio speech OK | Keep dialogue clean for recording. Do not add reduced “street” variants in Book 1. |
+| Audience copy | Lesson 0 and marketing must say short-stay social survival (tourist + early expat), Latin-only Bosnian, present tense. Do not promise A2. |
+
 ## 1. Product promises (every lesson)
 
 | Promise | Rule |
@@ -47,6 +62,7 @@ Fill `content/book1/day-XX/chapter.json` completely before marking `draft`.
 | **vocabulary** | **12–16** entries | Each: `bosnian`, `english`, `pronunciation`, `partOfSpeech`, `example` |
 | **grammar** | **2–3** panels | (1) core system (2) how-to / typing or pattern (3) optional communicative use |
 | **culture** | **80–120 words** + `imageId` | Place or ritual tied to the lesson images |
+| **sayAgain** | **Exactly 4** recycled lines | Warm-up before Lesson A; prior-lesson frames only |
 | **lessonBlocks** | **Exactly A + B** | A = system/forms; B = communicative use in the story scene |
 | **conversation** | Title, setting, **6–8 lines** | BS + EN; cast-consistent; reuse prior greetings when natural |
 | **puzzles** | **2** | Prefer: match + (scramble \| truefalse \| second match) |
@@ -162,15 +178,17 @@ Each image needs: `id`, `alt`, `localPath`, source URLs, `author`, `license`, `c
 - ~35 minutes; up to **3** lesson blocks; denser culture; light dialogue OK
 - Do not use as the mold for Lessons 4–29
 
-### Review lessons — 7, 14, 21 (and lighter 30)
+### Review lessons — 7, 14, 21 (and 30)
 
 | Adjust | Rule |
 |--------|------|
 | New vocab | **6–10** recycle-heavy items (or themed review list) |
 | Grammar | 1–2 “remember” panels, not new systems |
-| Blocks | A = recycle forms; B = story diary / game / plan |
+| Blocks | A = frame drill with core verbs/questions; B = board game / plan / diary using those frames |
+| Say again | 4 highest-value frames from the section |
 | Puzzles | Prefer match + truefalse over new scramble sets |
 | Quiz | **10** items spanning the section’s lessons |
+| Can-do | **3–5** checks on Lessons 14, 21, 30 |
 | Video | “Section review” + highlight fails + CTA to next section |
 
 ### Lesson 30 — finale
@@ -216,8 +234,8 @@ outline.json (title, languageFocus, storyBeat)
 | D | 14 | Section 2 review |
 | E | 15–20 | Section 3 getting around |
 | F | 21 | Section 3 review |
-| G | 22–29 | Section 4 stories & travel |
-| H | 30 | Finale |
+| G | 22–29 | Section 4 travel and longer stay (**present tense only**) |
+| H | 30 | Finale frame review |
 
 Human-review each batch before filming that batch’s videos when possible; at full launch, all 30 + videos ship together.
 
@@ -255,10 +273,13 @@ Story beat: ________
 
 Stay faithful to `outline.json`; do not rearrange major grammar jumps.
 
-- **W1:** sounds/greetings → biti → numbers/café → family/gender → places → time → review  
-- **W2:** food → shop → home → weather → invitations → identity → review  
-- **W3:** directions → bus → restaurant → hobbies → holidays → phone → review  
-- **W4:** past tense → past Q&A → nature → health → housing → work → Mostar → writing → finale  
+- **Section 1:** sounds/greetings → biti → numbers/café → family/gender → places → time → review  
+- **Section 2:** food → shop → home → weather → invitations → identity → review  
+- **Section 3:** directions → bus → restaurant → hobbies → holidays → phone → review  
+- **Section 4:** Travnik day trip (present) → daily-activity questions (present) → nature → health → housing → work → Mostar landmarks → writing → finale  
+
+**Core spiral frames (keep returning):**  
+`Ja sam…` · `Zovem se…` · `Drago mi je.` · `Volim…` · `Želim…` · `Imam…` · `Idemo…` · `Odakle si?` · `Kakvo je vrijeme?` · `Gdje je…?` · `Koliko košta?` · `Molim.` / `Hvala.` / `Molim vas.`
 
 ---
 
@@ -269,5 +290,7 @@ Stay faithful to `outline.json`; do not rearrange major grammar jumps.
 - Do not teach comparative BCS columns  
 - Do not replace the silly story with pure drill pages  
 - Do not ship video scripts that still say “Day N” or “30 Days” if site says Lesson  
+- Do not teach past tense or future paradigms in Book 1 (Book 2 owns storytelling tenses)  
+- Do not promise A2 on Lesson 0 or marketing pages  
 
 When in doubt: open Lesson 1 JSON and mirror field-by-field.

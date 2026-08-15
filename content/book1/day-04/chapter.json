@@ -18,7 +18,7 @@
     "grammar": [
       "Notice masculine versus feminine nouns",
       "Match moj or moja and tvoj or tvoja to the noun",
-      "Say who someone is with Ona je and On je"
+      "Reuse familiar present-tense frames from earlier lessons."
     ],
     "culture": [
       "Café regulars as chosen family in Sarajevo",
@@ -142,7 +142,7 @@
   "grammar": [
     {
       "title": "Gender intro. he or she words",
-      "explanation": "Many Bosnian nouns feel masculine or feminine. A quick beginner tip helps. Words ending in -a are often feminine, such as majka, sestra, mačka, and porodica. Short words without that ending are often masculine in this lesson, such as otac, brat, and djed.",
+      "explanation": "Learn this as a phrase, not a table. Many Bosnian nouns feel masculine or feminine. A quick beginner tip helps. Words ending in -a are often feminine, such as majka, sestra, mačka, and porodica. Short words without that ending are often masculine in this lesson, such as otac, brat, and djed.",
       "examples": [
         {
           "bosnian": "sestra, majka, mačka",
@@ -160,7 +160,7 @@
     },
     {
       "title": "Moj / moja and tvoj / tvoja",
-      "explanation": "Moj means my before a masculine noun. Moja means my before a feminine noun. The same split holds for informal your with tvoj and tvoja. Say Moj brat and Moja sestra. Do not mix them yet.",
+      "explanation": "Learn this as a phrase, not a table. Moj means my before a masculine noun. Moja means my before a feminine noun. The same split holds for informal your with tvoj and tvoja. Say Moj brat and Moja sestra. Do not mix them yet.",
       "examples": [
         {
           "bosnian": "Moj otac. Moja majka.",
@@ -178,7 +178,7 @@
     },
     {
       "title": "Who is who: On je / Ona je",
-      "explanation": "Reuse biti from Lesson 2. On je moj prijatelj. Ona je moja prijateljica. Ona je Mrvica. mačka! Point and name people (and one bossy cat) with short lines.",
+      "explanation": "Learn this as a phrase, not a table. Reuse biti from Lesson 2. On je moj prijatelj. Ona je moja prijateljica. Ona je Mrvica. mačka! Point and name people (and one bossy cat) with short lines.",
       "examples": [
         {
           "bosnian": "On je moj brat.",
@@ -734,5 +734,27 @@
     3,
     5
   ],
-  "section": 1
+  "section": 1,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Jednu kahvu, molim.",
+        "english": "One coffee, please."
+      },
+      {
+        "bosnian": "Dva fildžana.",
+        "english": "Two cups."
+      },
+      {
+        "bosnian": "Hvala!",
+        "english": "Thank you!"
+      },
+      {
+        "bosnian": "Ja sam Ana.",
+        "english": "I am Ana."
+      }
+    ]
+  }
 }

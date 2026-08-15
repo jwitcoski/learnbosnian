@@ -18,7 +18,7 @@
     "grammar": [
       "Choose idem, ideš, or idemo for who is going.",
       "Suggest a shared activity with Hajde da.",
-      "Invite someone with a Hoćeš li question."
+      "Reuse familiar present-tense frames from earlier lessons."
     ],
     "culture": [
       "Visit Vrelo Bosne and the source of the Bosna River near Ilidža.",
@@ -136,7 +136,7 @@
   "grammar": [
     {
       "title": "Idem, ideš, and idemo",
-      "explanation": "The verb ići means to go. Use idem for I am going, ideš for you are going, and idemo for we are going. Add a destination such as u park to make each form useful.",
+      "explanation": "Learn this as a phrase, not a table. The verb ići means to go. Use idem for I am going, ideš for you are going, and idemo for we are going. Add a destination such as u park to make each form useful.",
       "examples": [
         {
           "bosnian": "Idem u park.",
@@ -154,7 +154,7 @@
     },
     {
       "title": "Hajde da idemo",
-      "explanation": "Use Hajde da followed by a present verb when you suggest doing something together. Hajde da idemo is a warm invitation to get moving. The pattern also works with šetamo when you suggest a walk.",
+      "explanation": "Learn this as a phrase, not a table. Use Hajde da followed by a present verb when you suggest doing something together. Hajde da idemo is a warm invitation to get moving. The pattern also works with šetamo when you suggest a walk.",
       "examples": [
         {
           "bosnian": "Hajde da idemo.",
@@ -172,7 +172,7 @@
     },
     {
       "title": "Hoćeš li for invitations",
-      "explanation": "Begin a yes or no invitation with Hoćeš li. Put an infinitive such as šetati or ići after it. Answer with Hoću when you accept or Neću when you decline.",
+      "explanation": "Learn this as a phrase, not a table. Begin a yes or no invitation with Hoćeš li. Put an infinitive such as šetati or ići after it. Answer with Hoću when you accept or Neću when you decline.",
       "examples": [
         {
           "bosnian": "Hoćeš li šetati?",
@@ -728,5 +728,27 @@
     3,
     5
   ],
-  "section": 2
+  "section": 2,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Kakvo je vrijeme?",
+        "english": "How is the weather?"
+      },
+      {
+        "bosnian": "Sunčano je.",
+        "english": "It is sunny."
+      },
+      {
+        "bosnian": "Pada kiša.",
+        "english": "It is raining."
+      },
+      {
+        "bosnian": "Idemo!",
+        "english": "Let’s go!"
+      }
+    ]
+  }
 }

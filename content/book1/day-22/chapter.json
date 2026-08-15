@@ -1,17 +1,17 @@
 {
   "day": 22,
   "book": 1,
-  "title": "Jučer u Travniku",
-  "titleEn": "Yesterday in Travnik",
-  "theme": "Day trip to Travnik",
+  "title": "Danas u Travniku",
+  "titleEn": "Today in Travnik",
+  "theme": "Day trip to Travnik in the present",
   "status": "outlined",
   "reviewedAt": null,
   "reviewerNotes": "",
   "estimatedMinutes": 60,
-  "storyBeat": "Travnik trip begins",
+  "storyBeat": "Ana and Emir walk Travnik and name what they see",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 22: Past tense (perfekt) intro"
+      "Coming: place and sightseeing words for Travnik in the present"
     ],
     "grammar": [
       "To be filled on draft night"
@@ -23,8 +23,8 @@
   "vocabulary": [],
   "grammar": [],
   "culture": {
-    "title": "Day trip to Travnik",
-    "body": "Stub for Lesson 22. Full culture hook will be written on the draft night.",
+    "title": "Today in Travnik",
+    "body": "Stub for Lesson 22. Present-tense sightseeing draft comes later. Past tense belongs in Book 2.",
     "imageId": null
   },
   "lessonBlocks": [],

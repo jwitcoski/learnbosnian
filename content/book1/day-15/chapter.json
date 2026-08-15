@@ -18,7 +18,7 @@
     "grammar": [
       "Use skreni for an informal singular direction.",
       "Use idite and other polite forms with a stranger or group.",
-      "Describe landmarks with blizu, daleko, ispred, and iza."
+      "Reuse familiar present-tense frames from earlier lessons."
     ],
     "culture": [
       "Navigate near Latin Bridge in Sarajevo.",
@@ -115,7 +115,7 @@
   "grammar": [
     {
       "title": "Skreni and idite",
-      "explanation": "Use skreni when you tell one familiar person to turn. Use idite when you address a stranger politely or speak to more than one person. Add a direction word to make the instruction complete.",
+      "explanation": "Learn this as a phrase, not a table. Use skreni when you tell one familiar person to turn. Use idite when you address a stranger politely or speak to more than one person. Add a direction word to make the instruction complete.",
       "examples": [
         {
           "bosnian": "Skreni lijevo.",
@@ -133,7 +133,7 @@
     },
     {
       "title": "Polite directions with molim vas",
-      "explanation": "Molim vas adds please when you speak politely to a stranger or a group. Pair it with the polite imperative idite. A calm tone and the polite form make a direction sound helpful rather than abrupt.",
+      "explanation": "Learn this as a phrase, not a table. Molim vas adds please when you speak politely to a stranger or a group. Pair it with the polite imperative idite. A calm tone and the polite form make a direction sound helpful rather than abrupt.",
       "examples": [
         {
           "bosnian": "Idite pravo, molim vas.",
@@ -151,7 +151,7 @@
     },
     {
       "title": "Locate a landmark",
-      "explanation": "Use blizu and daleko to describe distance. Use ispred for in front of and iza for behind. Connect these words to a visible landmark such as a bridge, street, café, or museum.",
+      "explanation": "Learn this as a phrase, not a table. Use blizu and daleko to describe distance. Use ispred for in front of and iza for behind. Connect these words to a visible landmark such as a bridge, street, café, or museum.",
       "examples": [
         {
           "bosnian": "Most je blizu.",
@@ -683,5 +683,27 @@
     3,
     5
   ],
-  "section": 3
+  "section": 3,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Odakle si?",
+        "english": "Where are you from?"
+      },
+      {
+        "bosnian": "Ja sam iz Amerike.",
+        "english": "I am from America."
+      },
+      {
+        "bosnian": "Hajde da idemo.",
+        "english": "Let us go."
+      },
+      {
+        "bosnian": "Molim vas.",
+        "english": "Please."
+      }
+    ]
+  }
 }

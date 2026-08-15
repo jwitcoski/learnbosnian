@@ -1,30 +1,30 @@
 {
   "day": 23,
   "book": 1,
-  "title": "Šta si radio/radila?",
-  "titleEn": "What did you do?",
-  "theme": "Retelling the mishap",
+  "title": "Šta radiš?",
+  "titleEn": "What do you do?",
+  "theme": "Daily activity questions after the trip",
   "status": "outlined",
   "reviewedAt": null,
   "reviewerNotes": "",
   "estimatedMinutes": 60,
-  "storyBeat": "Retelling the Travnik mishap",
+  "storyBeat": "Ana asks what people do today and what they like to do",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 23: Past Q&A, gender in participles"
+      "Coming: present activity questions such as Šta radiš?"
     ],
     "grammar": [
       "To be filled on draft night"
     ],
     "culture": [
-      "Retelling the mishap"
+      "Talking about daily activities in the present"
     ]
   },
   "vocabulary": [],
   "grammar": [],
   "culture": {
-    "title": "Retelling the mishap",
-    "body": "Stub for Lesson 23. Full culture hook will be written on the draft night.",
+    "title": "What do you do today?",
+    "body": "Stub for Lesson 23. Present activity questions only. Past retelling moves to Book 2.",
     "imageId": null
   },
   "lessonBlocks": [],

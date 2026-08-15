@@ -18,7 +18,8 @@ const Books = () => {
       <section style={{ marginBottom: "2rem" }}>
         <h2>Book 1 — {book1Outline.title}</h2>
         <p>
-          Level {book1Outline.level}. Thirty one-hour chapters. Cast:{" "}
+          Level {book1Outline.level}. Thirty one-hour present-tense survival
+          chapters for travelers and early expats. Cast:{" "}
           {book1Outline.cast?.join(", ")}.
         </p>
         <p>

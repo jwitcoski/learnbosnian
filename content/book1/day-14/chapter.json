@@ -3,25 +3,25 @@
   "book": 1,
   "title": "Ponavljanje",
   "titleEn": "Review",
-  "theme": "Board-game night at Amira's",
+  "theme": "Frame-drill board game at Amira’s",
   "status": "draft",
   "reviewedAt": null,
   "reviewerNotes": "This full draft is ready for human review before publication.",
   "estimatedMinutes": 60,
-  "storyBeat": "A board game makes Ana reuse language from Lessons 8 through 13.",
+  "storyBeat": "A board game makes Ana reuse core present-tense frames from Lessons 8 through 13.",
   "learningGoals": {
     "vocabulary": [
-      "Reuse high-value words from food, shopping, home, weather, park, and identity lessons.",
-      "Add igra, karta, pobjeda, and još jednom for game night."
+      "Reuse high-value frames from food, shopping, home, weather, park, and identity lessons.",
+      "Add igra, karta, pobjeda, and još jednom for game-night drill."
     ],
     "grammar": [
-      "Combine volim, želim, imam, and govorim with familiar words.",
-      "Reuse weather questions, invitations, and place questions in conversation.",
-      "Choose a complete sentence instead of answering with an isolated word."
+      "Drill volim, želim, imam, and govorim as complete sentences.",
+      "Switch among Koliko košta?, Kakvo je vrijeme?, Hoćeš li…?, and Odakle si?",
+      "Reuse familiar present-tense frames from earlier lessons."
     ],
     "culture": [
       "Visit Banja Luka through Kastel Fortress, the Vrbas River, and Ferhadija Mosque.",
-      "Connect a relaxed game night with the wider movement of people away from the country."
+      "Treat review night as frame practice, not a new grammar system."
     ]
   },
   "vocabulary": [
@@ -99,7 +99,7 @@
   "grammar": [
     {
       "title": "Remember your useful first-person verbs",
-      "explanation": "Volim, želim, imam, and govorim let you say a great deal about yourself. Follow each verb with a familiar object or language chunk. Use them during the game to express a preference, a wish, a possession, or a language ability.",
+      "explanation": "Learn this as a phrase, not a table. Volim, želim, imam, and govorim let you say a great deal about yourself. Follow each verb with a familiar object or language chunk. Use them during the game to express a preference, a wish, a possession, or a language ability.",
       "examples": [
         {
           "bosnian": "Volim ovu igru.",
@@ -117,7 +117,7 @@
     },
     {
       "title": "Remember questions and invitations",
-      "explanation": "Use Kakvo je vrijeme? to ask about weather, Hoćeš li? to offer a choice, and Hajde da to suggest a shared action. These patterns turn separate vocabulary lists into conversation. Choose the pattern that matches whether you need information, an answer, or group action.",
+      "explanation": "Learn this as a phrase, not a table. Use Kakvo je vrijeme? to ask about weather, Hoćeš li? to offer a choice, and Hajde da to suggest a shared action. These patterns turn separate vocabulary lists into conversation. Choose the pattern that matches whether you need information, an answer, or group action.",
       "examples": [
         {
           "bosnian": "Kakvo je vrijeme?",
@@ -142,22 +142,22 @@
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A: Build with familiar verbs",
-      "body": "Review the four first-person forms that have carried Ana through recent lessons. Volim states a preference, želim states a wish, imam states possession, and govorim names a language you speak. Draw a card and complete its prompt with one of those verbs. You might say Volim sirnicu, Želim vodu, Imam malu sobu, or Govorim malo bosanski. Amira awards a game piece only for a complete, sayable sentence. Emir tries to win by speaking faster, but accuracy matters more than speed. Every card brings an old pattern back. Repeat any difficult sentence još jednom, then change one word so the pattern becomes flexible rather than memorized.",
+      "title": "Lesson A: Drill the core frames",
+      "body": "This review is a frame drill. Stay with four first-person forms: Volim, Želim, Imam, and Govorim. Draw a card and finish a complete sentence before you move. Useful answers include Volim sirnicu, Želim vodu, Imam malu sobu, and Govorim malo bosanski. Amira accepts only a full sentence. Speed does not beat accuracy. If a line is weak, say it još jednom with one word changed. The goal is automatic present-tense speech, not a new table.",
       "tips": [
-        "Choose the verb by meaning before you add the familiar object.",
-        "Say the complete sentence aloud before you move your game piece.",
-        "Repeat a difficult pattern još jednom with one word changed."
+        "Pick the frame by meaning first, then add one familiar object.",
+        "Say the whole sentence aloud before you move a game piece.",
+        "Repeat a weak frame još jednom with one changed word."
       ]
     },
     {
       "id": "b",
-      "title": "Lesson B: Connect questions across lessons",
-      "body": "Use the board to move between six conversation settings. Ask Koliko košta? at the shop, Kakvo je vrijeme? on Trebević, Hoćeš li šetati? at Vrelo Bosne, and Odakle si? over kahva. A room square requires an imam sentence, and a food square requires volim or želim. Ana discovers that the patterns support one another because each question invites a short, complete answer. Mrvica knocks over the weather cards, so the final round mixes every topic. Take one card from two different lessons and build a tiny exchange. The review succeeds when you can switch contexts without returning to English instructions.",
+      "title": "Lesson B: Switch questions under pressure",
+      "body": "Now switch frames the way real conversation switches. Ask Koliko košta? at the shop, Kakvo je vrijeme? for Trebević, Hoćeš li šetati? for the park, and Odakle si? over kahva. A room square needs an imam sentence. A food square needs volim or želim. Answer every question with a complete present-tense sentence. When Mrvica knocks the cards over, mix two topics in one short exchange. The review works when you can change frames without English coaching.",
       "tips": [
-        "Listen to the question word before you choose your answer pattern.",
-        "Answer with a complete sentence even when one word might be understood.",
-        "Mix two lesson topics when a single topic feels too easy."
+        "Hear the question word before you choose your answer frame.",
+        "Keep ja/ti as the default, and add molim or hvala in shop talk.",
+        "Mix two old topics when one topic feels too easy."
       ]
     }
   ],
@@ -691,5 +691,27 @@
       "prompt": "I can write a two-line exchange using material from two lessons."
     }
   ],
-  "section": 2
+  "section": 2,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Volim burek.",
+        "english": "I love burek."
+      },
+      {
+        "bosnian": "Želim vodu.",
+        "english": "I want water."
+      },
+      {
+        "bosnian": "Imam sobu.",
+        "english": "I have a room."
+      },
+      {
+        "bosnian": "Govorim bosanski.",
+        "english": "I speak Bosnian."
+      }
+    ]
+  }
 }
