@@ -8,14 +8,14 @@
   "reviewedAt": "2026-08-05",
   "reviewerNotes": "Published for live preview. Orientation chapter. comparative notes intentional on Lesson 0 only.",
   "estimatedMinutes": 35,
-  "storyBeat": "Before Ana lands in Sarajevo, we pause for a clear map: what Bosnian is, where the name comes from, how it relates to neighboring standards, who speaks it, and who these lessons are for.",
+  "storyBeat": "Before Ana lands in Sarajevo, we pause for a clear map. What Bosnian is, where the name comes from, how it relates to neighboring standards, who speaks it, and who these lessons are for.",
   "learningGoals": {
     "vocabulary": [
       "Learn bosanski, jezik, Bosna i Hercegovina, and dobrodošli",
       "Meet the cast names Ana, Emir, Amira, and Mrvica"
     ],
     "grammar": [
-      "Know that Book 1 teaches ready phrases and present-tense chunks, not full case tables or conjugation charts.",
+      "Know that Book 1 teaches ready phrases and present-tense chunks rather than full case tables or conjugation charts.",
       "Use Latin script only from Lesson 1 onward. This course never teaches Cyrillic."
     ],
     "culture": [
@@ -99,7 +99,7 @@
   ],
   "grammar": [
     {
-      "title": "This course teaches Bosnian: Latin script only",
+      "title": "This course teaches Bosnian. Latin script only",
       "explanation": "From Lesson 1 you will see and type Bosnian in the Latin alphabet (with letters like č, ć, š, ž, đ). Official Bosnian can also appear in Cyrillic, but this course never teaches or displays Cyrillic. One path, one script, less noise.",
       "examples": [
         {
@@ -113,8 +113,8 @@
       ]
     },
     {
-      "title": "Book 1 teaches phrases, not full grammar tables",
-      "explanation": "Bosnian grammar is real and complicated. Cases, endings, and long verb charts can overwhelm beginners. Book 1 does not teach that full system. You learn ready phrases and present-tense chunks you can say today: order coffee, ask the time, introduce yourself, stay polite. Grammar labels appear only to help you notice a useful pattern. Full paradigms and past-tense storytelling wait for Book 2.",
+      "title": "Book 1 teaches phrases rather than full grammar tables",
+      "explanation": "Bosnian grammar is real and complicated. Cases, endings, and long verb charts can overwhelm beginners. Book 1 does not teach that full system. You learn ready phrases and present-tense chunks you can say today. Order coffee, ask the time, introduce yourself, stay polite. Grammar labels appear only to help you notice a useful pattern. Full paradigms and past-tense storytelling wait for Book 2.",
       "examples": [
         {
           "bosnian": "Kahvu, molim.",
@@ -149,8 +149,8 @@
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A: What is Bosnian, and where does the name come from?",
-      "body": "Bosnian is the standard language taught and used as bosanski jezik in Bosnia and Herzegovina. The word bosanski comes from Bosna, the name of the region and the river Bosna, plus a Slavic adjective ending that roughly means of Bosnia. So the language name is tied to place, not to a single invented brand. Standard Bosnian is built on the widespread Štokavian dialect shared with neighboring standards. The area sat at a crossroads of Slavic speech, Ottoman administration, and Austro-Hungarian schooling. That history left everyday Bosnian with familiar Slavic words plus older loanwords from Turkish, Arabic, and Persian that feel at home in café talk, food talk, and everyday politeness. You do not need the full history to start. You need one clear label. You are learning Bosnian.",
+      "title": "Lesson A. What is Bosnian, and where does the name come from?",
+      "body": "Bosnian is the standard language taught and used as bosanski jezik in Bosnia and Herzegovina. The word bosanski comes from Bosna, the name of the region and the river Bosna, plus a Slavic adjective ending that roughly means of Bosnia. So the language name is tied to place rather than to a single invented brand. Standard Bosnian is built on the widespread Štokavian dialect shared with neighboring standards. The area sat at a crossroads of Slavic speech, Ottoman administration, and Austro-Hungarian schooling. That history left everyday Bosnian with familiar Slavic words plus older loanwords from Turkish, Arabic, and Persian that feel at home in café talk, food talk, and everyday politeness. You do not need the full history to start. You need one clear label. You are learning Bosnian.",
       "tips": [
         "Say bosanski jezik aloud once. It means Bosnian language.",
         "The name points to Bosnia (Bosna), the place."
@@ -158,7 +158,7 @@
     },
     {
       "id": "b",
-      "title": "Lesson B: Why Bosnian is not “just Croatian or Serbian,” and who speaks it",
+      "title": "Lesson B. Why Bosnian is not “just Croatian or Serbian,” and who speaks it",
       "body": "People often ask whether Bosnian is the same as Croatian or Serbian. The honest short answer is that speakers can usually understand each other, because the standards grew from the same dialect family. The honest longer answer is that they are not the same course, the same classroom label, or the same cultural home. Differences show up in preferred vocabulary, some spelling and sound habits, script choices in public life, and identity above all. Bosnian is an official language of Bosnia and Herzegovina. It is spoken by Bosniaks and by many other people across the country, and it is also spoken in diaspora communities worldwide. Neighbors may call their own standards Croatian or Serbian. Mutual understanding does not erase those names. This book teaches Bosnian forms used in everyday life in Bosnia and Herzegovina. From Lesson 1 we will not train you to compare three columns of vocabulary. We will train you to sound at home saying zdravo in Sarajevo.",
       "tips": [
         "Mutual understanding is not the same as identical language identity.",
@@ -167,11 +167,11 @@
     },
     {
       "id": "c",
-      "title": "Lesson C: Why learn Bosnian, and who these lessons are for",
-      "body": "Why Bosnian? Because you care about this place and these people. You may visit Bosnia and Herzegovina for a short stay, begin an expat year, have family or partners with roots here, reclaim a home language from diaspora, or refuse a vague Balkans label. Book 1 is a tourist and early-expat survival path: order food, find your way, talk about weather and rooms, meet people politely, and stay in the present tense. Bosnian grammar (cases, endings, long charts) is rich and complicated, so Book 1 does not teach that full system yet. You learn ready phrases and present-tense chunks you can use this week. This course is for absolute beginners and false beginners who read English. It fits adults and older teens who can spend about an hour a day with Latin-script Bosnian only. It is not a linguistics degree, a three-language comparative grammar, a Cyrillic course, or an A2 storytelling course. Past-tense stories and deeper grammar wait for Book 2. Lesson 0 is your map. Lesson 1 is your first step onto the stone streets of Baščaršija.",
+      "title": "Lesson C. Why learn Bosnian, and who these lessons are for",
+      "body": "Why Bosnian? Because you care about this place and these people. You may visit Bosnia and Herzegovina for a short stay, begin an expat year, have family or partners with roots here, reclaim a home language from diaspora, or refuse a vague Balkans label. Book 1 is a tourist and early-expat survival path. Order food, find your way, talk about weather and rooms, meet people politely, and stay in the present tense. Bosnian grammar (cases, endings, long charts) is rich and complicated, so Book 1 does not teach that full system yet. You learn ready phrases and present-tense chunks you can use this week. This course is for absolute beginners and false beginners who read English. It fits adults and older teens who can spend about an hour a day with Latin-script Bosnian only. It is not a linguistics degree, a three-language comparative grammar, a Cyrillic course, or an A2 storytelling course. Past-tense stories and deeper grammar wait for Book 2. Lesson 0 is your map. Lesson 1 is your first step onto the stone streets of Baščaršija.",
       "tips": [
         "If you can read this page in English, you are in the right audience.",
-        "Expect phrases you can say, not case tables to memorize.",
+        "Expect phrases you can say rather than case tables to memorize.",
         "Plan about 35 minutes today, then about 60 minutes from Lesson 1."
       ]
     }
@@ -279,13 +279,13 @@
     },
     {
       "id": "pr2",
-      "prompt": "Translate: language",
+      "prompt": "Translate. Language",
       "hint": "One word",
       "answer": "jezik"
     },
     {
       "id": "pr3",
-      "prompt": "Write the full country name in Bosnian (three words: B… i H…).",
+      "prompt": "Write the full country name in Bosnian (three words. B… i H…).",
       "hint": "Bosna i Hercegovina",
       "answer": "Bosna i Hercegovina"
     },
@@ -297,7 +297,7 @@
     },
     {
       "id": "pr5",
-      "prompt": "Which script does this course teach: latin or cyrillic?",
+      "prompt": "Which script does this course teach. Latin or cyrillic?",
       "hint": "One word. latin",
       "answer": "latin"
     },
@@ -320,7 +320,7 @@
       "body": "Bosanski is basically “Bosnian / of Bosnia”. The language name is anchored in the place name Bosna."
     },
     {
-      "title": "Official, not obscure",
+      "title": "Official rather than obscure",
       "body": "Bosnian is an official language of Bosnia and Herzegovina, used in schools, media, and daily life. Not a dialect label invented for tourists."
     },
     {
@@ -329,7 +329,7 @@
     },
     {
       "title": "Why we skip Cyrillic here",
-      "body": "Less split attention. Master Latin Bosnian first; you can explore other scripts later if you want."
+      "body": "Less split attention. Master Latin Bosnian first. You can explore other scripts later if you want."
     },
     {
       "title": "Why we skip the big grammar table",
@@ -343,7 +343,7 @@
       "note": "Companion videos after human review"
     },
     {
-      "label": "Lesson 1: Zdravo, Sarajevo!",
+      "label": "Lesson 1. Zdravo, Sarajevo!",
       "url": "/learn/lesson/1",
       "note": "Start the language path after this orientation"
     },
@@ -419,7 +419,7 @@
           "Learners who refuse culture and want verb tables alone"
         ],
         "correctIndex": 0,
-        "explanation": "Book 1 is for English-reading beginners and false beginners who want clear, cultural, Latin-script Bosnian through ready phrases, not verb tables alone.",
+        "explanation": "Book 1 is for English-reading beginners and false beginners who want clear, cultural, Latin-script Bosnian through ready phrases rather than verb tables alone.",
         "skill": "culture"
       },
       {
@@ -458,7 +458,7 @@
           "Skip culture and only teach flags"
         ],
         "correctIndex": 1,
-        "explanation": "Lesson 0 answers the map questions; Lessons 1 to 30 teach Bosnian through story and practice.",
+        "explanation": "Lesson 0 answers the map questions. Lessons 1 to 30 teach Bosnian through story and practice.",
         "skill": "culture"
       },
       {
@@ -466,7 +466,7 @@
         "question": "How does Book 1 handle Bosnian grammar?",
         "options": [
           "Full case tables and conjugation charts from Lesson 1",
-          "Ready phrases and present-tense chunks you can say today; deeper grammar waits for Book 2",
+          "Ready phrases and present-tense chunks you can say today. Deeper grammar waits for Book 2",
           "Only linguistics theory with no speaking practice",
           "Three parallel language columns every day"
         ],
@@ -547,7 +547,7 @@
       "pageUrl": "https://www.pexels.com/photo/the-koski-mehmed-pasha-mosque-mostar-bosnia-and-herzegovina-24244453/",
       "author": "Borys Jarzcuk",
       "license": "Pexels License",
-      "credit": "Based on photo: Mostar and the Neretva. Borys Jarzcuk / Pexels"
+      "credit": "Based on the photo Mostar and the Neretva. Borys Jarzcuk / Pexels"
     },
     {
       "id": "stari-most",
@@ -557,7 +557,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Stari_Most_Mostar_Bosnia_and_Herzegovina.jpg",
       "author": "Djani Behram",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Stari Most, Mostar. Djani Behram / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Based on the photo Stari Most, Mostar. Djani Behram / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "mostar-panorama",
@@ -567,7 +567,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Mostar_Old_Town_Panorama_2007.jpg",
       "author": "Ramirez",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Mostar Old Town panorama. Ramirez / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Based on the photo Mostar Old Town panorama. Ramirez / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "civic-schools",
@@ -577,7 +577,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Gimnazija_Mostar.jpg",
       "author": "Jennifer Boyer",
       "license": "CC BY 2.0",
-      "credit": "Based on photo: Gimnazija Mostar. Jennifer Boyer / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Based on the photo Gimnazija Mostar. Jennifer Boyer / Wikimedia Commons (CC BY 2.0)"
     }
   ],
   "imagesNeeded": false,
@@ -587,12 +587,12 @@
     "body": "In parts of Bosnia and Herzegovina, children from different ethnic communities still attend school under a segregated model often called two schools under one roof. Students may share one building while using separate entrances, teachers, classrooms, and history lessons. International monitors have documented the practice for years as everyday discrimination in education. The result is that children in the same town can grow up learning different versions of the past inside the same walls.",
     "imageId": "civic-schools",
     "learnMore": {
-      "label": "Wikipedia: Two schools under one roof",
+      "label": "Wikipedia. Two schools under one roof",
       "url": "https://en.wikipedia.org/wiki/Two_schools_under_one_roof"
     }
   },
   "authenticListen": {
-    "title": "Čuj Bosnu: one language, three names",
+    "title": "Čuj Bosnu. One language, three names",
     "kind": "speaker",
     "hook": "Lesson 0 is about what Bosnian is. Hear a real explainer that compares Bosnian, Croatian, and Serbian so your ear meets the neighborhood of the language.",
     "source": {

@@ -14,9 +14,12 @@ Use this guide for **Lessons 4–30**. Do not invent a new chapter shape. Copy L
 - Titles say **Lesson N** only. Never Day N, Week N, or Sedmica N in titles.
 - Review lessons are titled **Ponavljanje** / **Review**, not “Week 1 review”.
 - Never use em dashes (`—`) or en dashes (`–`) as punctuation in chapter JSON or video scripts.
+- Never use semicolons (`;`) or colons (`:`) inside learner-facing sentences. Prefer two short sentences or a clean connector such as **and**, **so**, or **because**.
+- Do not glue two phrases into one sentence with a comma (no “phrase, not a table” pairs and no comma splices). Vocatives like `Hvala, Emire.` are fine.
+- Block titles use a period after the letter label: `Lesson A. Ticket phrases` (not `Lesson A:`).
 - Write full sentences in culture, civic, and fun-fact bodies.
 - Keep website UI tips (accent buttons) out of chapter JSON. Book export must stay book-safe.
-- Civic and fun-fact bodies use **Thesis → support → summary** (complete sentences, no colon-rant endings)
+- Civic and fun-fact bodies use **Thesis then support then summary** (complete sentences, no colon-rant endings)
 - Every drafted lesson needs `civicContext` { title, body, imageId, learnMore: { label, url } } with a dedicated image: one documented structural pressure on BiH, thematically linked to the lesson. Body must be one paragraph. Include a Wikipedia or reputable news `learnMore` link.
 - Every drafted lesson needs `authenticListen` (Čuj Bosnu): one song or non-course speaker clip with listen-first gist task. Rights-safe embed/`clipId` only. Not studio cast dialogue audio.
 - Every `sectionQuiz` question should set `skill` (`vocabulary` | `grammar` | `dialogue` | `culture` | `listening`) for remediation links.
@@ -95,18 +98,18 @@ Fill `content/book1/day-XX/chapter.json` completely before marking `draft`.
 
 **Chunks-first phrase bank** (same idea, varied wording):
 
-1. Learn this as a phrase, not a table.
+1. Learn this as a full phrase. Do not treat it as a table.
 2. Treat this as a ready chunk you can say today.
-3. Say the whole line together; skip the full chart for now.
-4. Hold this as a spoken pattern, not a grammar grid.
-5. Learn the usable chunk first; full tables can wait.
+3. Say the whole line together. Skip the full chart for now.
+4. Hold this as a spoken pattern. Do not treat it as a grammar grid.
+5. Learn the usable chunk first. Full tables can wait.
 6. Keep this as a sayable line rather than a paradigm list.
-7. Memorize the phrase shape; leave the full table for later.
-8. Take this as a speaking chunk, not a case chart.
+7. Memorize the phrase shape. Leave the full table for later.
+8. Take this as a speaking chunk. Do not memorize a case chart yet.
 9. Practice the whole expression before you worry about paradigms.
 10. Build this as a ready-made line you can reuse.
 11. Store this as a phrase you can pull out in conversation.
-12. Focus on the spoken chunk; postpone the full paradigm.
+12. Focus on the spoken chunk. Postpone the full paradigm.
 
 ### Dialogue rules
 

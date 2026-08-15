@@ -4,9 +4,9 @@
 **Status:** Export when the chapter is `published`.
 
 ## Thumbnail text
-- EN: Lesson 19: Holidays
-- BS: Praznici
-- Background: Holiday lights glitter along Ferhadija in Sarajevo.
+- EN. Lesson 19. Holidays
+- BS. Praznici
+- Background. Holiday lights glitter along Ferhadija in Sarajevo.
 
 ## Narration and on-screen cues
 
@@ -22,11 +22,11 @@
 **Narration:** Mosque and cathedral landmarks remind you that many communities share the same city center. Inclusive greetings keep friendship open.
 **On screen:** Ferhadija | mosque | cathedral | image credits
 
-### 3:00 Lesson A: Three holiday wishes
+### 3:00 Lesson A. Three holiday wishes
 **Narration:** Match sretan and sretna to the holiday name. Add Čestitam Bajram as a second warm chunk.
 **On screen:** sretan | sretna | Čestitam Bajram!
 
-### 5:00 Lesson B: Market politeness and cards
+### 5:00 Lesson B. Market politeness and cards
 **Narration:** Buy a čestitka with molim, wish the seller well, and say Slavimo zajedno when the street feels shared.
 **On screen:** čestitka | molim | Slavimo zajedno.
 
@@ -40,5 +40,5 @@
 
 ## End screen
 - Link to website `/learn/lesson/19`
-- Playlist: Learn Bosnian Book 1
+- Playlist. Learn Bosnian Book 1
 - Image credits appear in the description.

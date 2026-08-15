@@ -3,27 +3,27 @@
   "book": 1,
   "title": "Završna proslava",
   "titleEn": "Graduation party",
-  "theme": "Party; Mrvica steals the cake",
+  "theme": "Party. Mrvica steals the cake",
   "status": "outlined",
   "reviewedAt": null,
-  "reviewerNotes": "Book 1 pedagogy lock: present tense only; review is a frame drill.",
+  "reviewerNotes": "Book 1 pedagogy lock. Present tense only. Review is a frame drill.",
   "estimatedMinutes": 60,
-  "storyBeat": "Graduation party; cake heist",
+  "storyBeat": "Graduation party. Cake heist",
   "learningGoals": {
     "vocabulary": [
-      "Coming: Full A1 present-tense frame review and dictionary tour."
+      "Coming. Full A1 present-tense frame review and dictionary tour."
     ],
     "grammar": [
       "To be filled on draft night"
     ],
     "culture": [
-      "Party; Mrvica steals the cake"
+      "Party. Mrvica steals the cake"
     ]
   },
   "vocabulary": [],
   "grammar": [],
   "culture": {
-    "title": "Party; Mrvica steals the cake",
+    "title": "Party. Mrvica steals the cake",
     "body": "Stub for Lesson 30. Full culture hook will be written on the draft night.",
     "imageId": null
   },
@@ -52,7 +52,7 @@
   "images": [],
   "imagesNeeded": true,
   "imageBriefs": [
-    "Photo related to: Party; Mrvica steals the cake"
+    "Photo related to. Party. Mrvica steals the cake"
   ],
   "section": 4
 }

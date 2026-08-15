@@ -6,12 +6,12 @@
   "theme": "Ana plans a solo weekend",
   "status": "outlined",
   "reviewedAt": null,
-  "reviewerNotes": "Book 1 pedagogy lock: present tense only; review is a frame drill.",
+  "reviewerNotes": "Book 1 pedagogy lock. Present tense only. Review is a frame drill.",
   "estimatedMinutes": 60,
   "storyBeat": "Ana plans a weekend alone",
   "learningGoals": {
     "vocabulary": [
-      "Coming: Frame drill review of lessons 15 to 20. Present tense only."
+      "Coming. Frame drill review of lessons 15 to 20. Present tense only."
     ],
     "grammar": [
       "To be filled on draft night"
@@ -52,7 +52,7 @@
   "images": [],
   "imagesNeeded": true,
   "imageBriefs": [
-    "Photo related to: Ana plans a solo weekend"
+    "Photo related to. Ana plans a solo weekend"
   ],
   "section": 3
 }

@@ -115,7 +115,7 @@
   "grammar": [
     {
       "title": "Skreni and idite",
-      "explanation": "Learn the usable chunk first; full tables can wait. Use skreni when you tell one familiar person to turn. Use idite when you address a stranger politely or speak to more than one person. Add a direction word to make the instruction complete.",
+      "explanation": "Learn the usable chunk first. Full tables can wait. Use skreni when you tell one familiar person to turn. Use idite when you address a stranger politely or speak to more than one person. Add a direction word to make the instruction complete.",
       "examples": [
         {
           "bosnian": "Skreni lijevo.",
@@ -151,7 +151,7 @@
     },
     {
       "title": "Locate a landmark",
-      "explanation": "Memorize the phrase shape; leave the full table for later. Use blizu and daleko to describe distance. Use ispred for in front of and iza for behind. Connect these words to a visible landmark such as a bridge, street, café, or museum.",
+      "explanation": "Memorize the phrase shape. Leave the full table for later. Use blizu and daleko to describe distance. Use ispred for in front of and iza for behind. Connect these words to a visible landmark such as a bridge, street, café, or museum.",
       "examples": [
         {
           "bosnian": "Most je blizu.",
@@ -176,7 +176,7 @@
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A: Follow the route",
+      "title": "Lesson A. Follow the route",
       "body": "Stand at an imaginary street corner near Latin Bridge and listen for three core directions. Pravo sends you straight ahead, desno sends you right, and lijevo sends you left. The vocabulary list gives desna and lijeva because they can describe a feminine noun such as ulica or strana, while the direction phrases use desno and lijevo. Add most and ulica so each instruction points toward something visible. Ana checks every bridge against her Konjic postcard and briefly follows the wrong river. Trace a route with your finger while saying each turn. Movement makes the contrast between right, left, and straight much easier to retain.",
       "tips": [
         "Keep the full ije spelling in lijeva and lijevo.",
@@ -186,8 +186,8 @@
     },
     {
       "id": "b",
-      "title": "Lesson B: Ask and answer politely",
-      "body": "Use a polite form when you ask a stranger for directions. Begin with Oprostite or Molim vas, then listen for idite, skrenite, blizu, daleko, ispred, or iza. A friend may tell Ana Skreni lijevo, but a passerby can say Idite pravo, molim vas. The difference marks the relationship and number of people, not a different route. Ana repeats each instruction to confirm it before walking away. Courtesy helps the exchange move smoothly. Practice a short exchange in which one person asks for the bridge and another gives two steps. End with Hvala so the interaction sounds complete and courteous in a real Sarajevo street.",
+      "title": "Lesson B. Ask and answer politely",
+      "body": "Use a polite form when you ask a stranger for directions. Begin with Oprostite or Molim vas, then listen for idite, skrenite, blizu, daleko, ispred, or iza. A friend may tell Ana Skreni lijevo, but a passerby can say Idite pravo, molim vas. The difference marks the relationship and number of people rather than a different route. Ana repeats each instruction to confirm it before walking away. Courtesy helps the exchange move smoothly. Practice a short exchange in which one person asks for the bridge and another gives two steps. End with Hvala so the interaction sounds complete and courteous in a real Sarajevo street.",
       "tips": [
         "Use idite or skrenite when you address a stranger politely.",
         "Repeat the route in your own words before you begin walking.",
@@ -587,7 +587,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALatin_Bridge_in_Sarajevo.jpg",
       "author": "Tumi-1983",
       "license": "CC0",
-      "credit": "Polygon painting based on photo: Latin Bridge in Sarajevo.jpg. Tumi-1983 / Wikimedia Commons (CC0)"
+      "credit": "Polygon painting based on the photo Latin Bridge in Sarajevo.jpg. Tumi-1983 / Wikimedia Commons (CC0)"
     },
     {
       "id": "latin-bridge-2",
@@ -597,7 +597,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALatinBridgeSarajevo.JPG",
       "author": "CeeGee",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on photo: LatinBridgeSarajevo.JPG. CeeGee / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on the photo LatinBridgeSarajevo.JPG. CeeGee / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "konjic-bridge",
@@ -607,7 +607,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKonjic_Stari_most_7.jpg",
       "author": "Julian Nyča",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on photo: Konjic Stari most 7.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Polygon painting based on the photo Konjic Stari most 7.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "civic-mines",
@@ -615,9 +615,9 @@
       "localPath": "/images/book1/day-15-civic-mines.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Landmine_warning_sign_in_BiH.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALandmine_warning_sign_in_BiH.jpg",
-      "author": "Darij &amp; Ana",
+      "author": "Darij & Ana",
       "license": "CC BY 2.0",
-      "credit": "Polygon painting based on photo: Landmine warning sign in BiH.jpg. Darij & Ana / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Polygon painting based on the photo Landmine warning sign in BiH.jpg. Darij & Ana / Wikimedia Commons (CC BY 2.0)"
     }
   ],
   "imagesNeeded": false,

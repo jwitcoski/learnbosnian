@@ -4,9 +4,9 @@
 **Status:** Export when the chapter is `published`.
 
 ## Thumbnail text
-- EN: Lesson 17: Enjoy your meal!
-- BS: Dobar tek!
-- Background: A Sarajevo restaurant table with klepe and japrak.
+- EN. Lesson 17. Enjoy your meal!
+- BS. Dobar tek!
+- Background. A Sarajevo restaurant table with klepe and japrak.
 
 ## Narration and on-screen cues
 
@@ -22,11 +22,11 @@
 **Narration:** Sarajevo kitchens argue kindly about favorite trays. A Visoko postcard widens the food map beyond one street.
 **On screen:** klepe | japrak | Visoko | image credits
 
-### 3:00 Lesson A: Wanting food with htjeti chunks
+### 3:00 Lesson A. Wanting food with htjeti chunks
 **Narration:** Say Hoću klepe. Ask Hoćeš li japrak? Keep htjeti in the present and skip the full chart.
 **On screen:** Hoću klepe. | Hoćeš li japrak?
 
-### 5:00 Lesson B: From order to račun
+### 5:00 Lesson B. From order to račun
 **Narration:** Add molim to every order. Wish Dobar tek when the plates arrive, then finish with Račun, molim.
 **On screen:** Dobar tek! | Račun, molim.
 
@@ -40,5 +40,5 @@
 
 ## End screen
 - Link to website `/learn/lesson/17`
-- Playlist: Learn Bosnian Book 1
+- Playlist. Learn Bosnian Book 1
 - Image credits appear in the description.

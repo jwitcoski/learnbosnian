@@ -197,7 +197,7 @@
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A: Go for a walk",
+      "title": "Lesson A. Go for a walk",
       "body": "Begin with the movement verb ići and its useful forms. Say Idem u park when you are going, ask Ideš li sa mnom? when you want company, and say Idemo when the group is ready. Add šetati for walking and the destination u park. At Vrelo Bosne, Ana and Emir follow the water while Mrvica studies every patch of grass. Ana announces each plan before they move. Repeat the three forms with different speakers, then point toward a destination and say a complete sentence. The goal is to connect the person, the verb form, and the place without stopping to build a table.",
       "tips": [
         "Use idem for yourself, ideš for one person you address, and idemo for the group.",
@@ -207,8 +207,8 @@
     },
     {
       "id": "b",
-      "title": "Lesson B: Invite and respond",
-      "body": "Turn movement into a social plan with Hajde da idemo or Hoćeš li šetati? The first phrase suggests an activity for the group, while the second asks whether another person wants to join. Ana uses both patterns before attaching Mrvica's leash. The cat responds by moving brzo, not polako, and wraps the povodac around a drvo. Ana calls Dođi and Čekaj while Emir tries not to laugh. The park supplies every cue. Practice one invitation, one acceptance, and one command as a three-part exchange. Keep the tone friendly because these phrases are useful with friends during any walk, not only with a determined cat.",
+      "title": "Lesson B. Invite and respond",
+      "body": "Turn movement into a social plan with Hajde da idemo or Hoćeš li šetati? The first phrase suggests an activity for the group, while the second asks whether another person wants to join. Ana uses both patterns before attaching Mrvica's leash. The cat responds by moving brzo rather than polako, and wraps the povodac around a drvo. Ana calls Dođi and Čekaj while Emir tries not to laugh. The park supplies every cue. Practice one invitation, one acceptance, and one command as a three-part exchange. Keep the tone friendly because these phrases are useful with friends during any walk rather than only with a determined cat.",
       "tips": [
         "Use Hajde da when you suggest an activity that includes you.",
         "Use Hoćeš li followed by an infinitive when you offer a choice.",
@@ -632,7 +632,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVrelo_Bosne%2C_Sarajevo.jpg",
       "author": "Author's own photo",
       "license": "CC BY 2.5",
-      "credit": "Polygon painting based on photo: Vrelo Bosne, Sarajevo.jpg. Author's own photo / Wikimedia Commons (CC BY 2.5)"
+      "credit": "Polygon painting based on the photo Vrelo Bosne, Sarajevo.jpg. Author's own photo / Wikimedia Commons (CC BY 2.5)"
     },
     {
       "id": "vrelo-park",
@@ -642,7 +642,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVrelo_Bosne_Park_in_Sarajevo.JPG",
       "author": "BiHVolim",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on photo: Vrelo Bosne Park in Sarajevo.JPG. BiHVolim / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on the photo Vrelo Bosne Park in Sarajevo.JPG. BiHVolim / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "bosna-river",
@@ -652,7 +652,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARiver_Bosna_at_Vrelo_Bosne_Park_in_Sarajevo.JPG",
       "author": "BiHVolim",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on photo: River Bosna at Vrelo Bosne Park in Sarajevo.JPG. BiHVolim / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on the photo River Bosna at Vrelo Bosne Park in Sarajevo.JPG. BiHVolim / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "civic-floods",
@@ -662,7 +662,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFloods_in_Bosnia_Doboj_2.jpg",
       "author": "Dalibor Platenik - Dali",
       "license": "CC BY 3.0",
-      "credit": "Polygon painting based on photo: Floods in Bosnia Doboj 2.jpg. Dalibor Platenik - Dali / Wikimedia Commons (CC BY 3.0)"
+      "credit": "Polygon painting based on the photo Floods in Bosnia Doboj 2.jpg. Dalibor Platenik - Dali / Wikimedia Commons (CC BY 3.0)"
     }
   ],
   "imagesNeeded": false,

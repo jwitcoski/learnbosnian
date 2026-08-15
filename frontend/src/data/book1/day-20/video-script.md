@@ -4,9 +4,9 @@
 **Status:** Export when the chapter is `published`.
 
 ## Thumbnail text
-- EN: Lesson 20: Phone call
-- BS: Telefonski poziv
-- Background: A Sarajevo tram passes while Ana makes an urgent call.
+- EN. Lesson 20. Phone call
+- BS. Telefonski poziv
+- Background. A Sarajevo tram passes while Ana makes an urgent call.
 
 ## Narration and on-screen cues
 
@@ -22,11 +22,11 @@
 **Narration:** Trams and cafés frame everyday mobile talk in Sarajevo. A good connection can carry both jokes and true emergencies.
 **On screen:** tramvaj | telefon | image credits
 
-### 3:00 Lesson A: Phone questions that gather facts
+### 3:00 Lesson A. Phone questions that gather facts
 **Narration:** Open with Alo? Ask Ko je tamo? Then gather facts with šta, kada, and zašto in the present.
 **On screen:** Alo? | Ko je tamo? | Zašto zoveš?
 
-### 5:00 Lesson B: The Mrvica emergency call
+### 5:00 Lesson B. The Mrvica emergency call
 **Narration:** Say Hitno je! and Mrvica je nestala! Ask for help with molim vas, then confirm Čujem te dobro.
 **On screen:** Hitno je! | Mrvica je nestala! | Pomozite, molim vas!
 
@@ -40,5 +40,5 @@
 
 ## End screen
 - Link to website `/learn/lesson/20`
-- Playlist: Learn Bosnian Book 1
+- Playlist. Learn Bosnian Book 1
 - Image credits appear in the description.

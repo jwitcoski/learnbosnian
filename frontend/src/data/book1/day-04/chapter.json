@@ -8,7 +8,7 @@
   "reviewedAt": null,
   "reviewerNotes": "Full draft to Lesson 1 exemplar bar. ready for human review before publish.",
   "estimatedMinutes": 60,
-  "storyBeat": "Mrvica adopts Ana; Amira’s café regulars start to feel like family.",
+  "storyBeat": "Mrvica adopts Ana. Amira’s café regulars start to feel like family.",
   "learningGoals": {
     "vocabulary": [
       "Name majka, otac, sestra, brat, baba, djed, sin, and kći",
@@ -177,8 +177,8 @@
       ]
     },
     {
-      "title": "Who is who: On je / Ona je",
-      "explanation": "Focus on the spoken chunk; postpone the full paradigm. Reuse biti from Lesson 2. On je moj prijatelj. Ona je moja prijateljica. Ona je Mrvica. mačka! Point and name people (and one bossy cat) with short lines.",
+      "title": "Who is who. On je / Ona je",
+      "explanation": "Focus on the spoken chunk. Postpone the full paradigm. Reuse biti from Lesson 2. On je moj prijatelj. Ona je moja prijateljica. Ona je Mrvica. mačka! Point and name people (and one bossy cat) with short lines.",
       "examples": [
         {
           "bosnian": "On je moj brat.",
@@ -197,13 +197,13 @@
   ],
   "culture": {
     "title": "Café family and one small boss",
-    "body": "In Sarajevo, a good café can feel like a living room. Regulars greet the owner by name, share news, and claim “their” chair. Amira’s place works the same way: Ana, Emir, and the usual guests start to feel like porodica. Family you choose. Mrvica the cat patrols the tables, steals warmth, and somehow adopts Ana. Learn the family words, then use them for blood relatives and for the people (and cats) who make a city feel like home.",
+    "body": "In Sarajevo, a good café can feel like a living room. Regulars greet the owner by name, share news, and claim “their” chair. Amira’s place works the same way. Ana, Emir, and the usual guests start to feel like porodica. Family you choose. Mrvica the cat patrols the tables, steals warmth, and somehow adopts Ana. Learn the family words, then use them for blood relatives and for the people (and cats) who make a city feel like home.",
     "imageId": "cafe-family"
   },
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A: Family words + gender",
+      "title": "Lesson A. Family words + gender",
       "body": "Build the family tree with majka, otac, sestra, brat, baba, djed, sin, and kći. Say each word aloud twice. Mark the -a words as feminine in your notes. Add porodica for family and mačka for cat. Ana draws a tiny family tree in her notebook, then draws Mrvica at the top. Emir laughs and says To je porodica Mrvice!",
       "tips": [
         "For this lesson’s nouns, -a endings are often feminine.",
@@ -212,8 +212,8 @@
     },
     {
       "id": "b",
-      "title": "Lesson B: Moj / moja at Amira’s",
-      "body": "Claim people with possessives. Say Moj prijatelj Emir. Say Moja prijateljica Amira. Ask Moja mačka? Mrvica decides that Ana is hers. Practice the pairs Moj otac and Moja majka, then Tvoj brat and Tvoja sestra. Walk the café and point. Say Ona je Amira. Say On je Emir. Say Ona je Mrvica. The win in this lesson is short true sentences, not a full case chart.",
+      "title": "Lesson B. Moj / moja at Amira’s",
+      "body": "Claim people with possessives. Say Moj prijatelj Emir. Say Moja prijateljica Amira. Ask Moja mačka? Mrvica decides that Ana is hers. Practice the pairs Moj otac and Moja majka, then Tvoj brat and Tvoja sestra. Walk the café and point. Say Ona je Amira. Say On je Emir. Say Ona je Mrvica. The win in this lesson is short true sentences rather than a full case chart.",
       "tips": [
         "Keep Moj, Moja, On je, and Ona je ready.",
         "Match moj or moja to the noun’s gender."
@@ -369,7 +369,7 @@
     },
     {
       "id": "pr8",
-      "prompt": "Type: Emir is my friend. (Emir je moj prijatelj.)",
+      "prompt": "Type. Emir is my friend. (Emir je moj prijatelj.)",
       "hint": "Reuse je + moj",
       "answer": "Emir je moj prijatelj"
     }
@@ -389,7 +389,7 @@
     },
     {
       "title": "Chosen family at the table",
-      "body": "Calling café regulars porodica is half joke and half truth. People share news, chairs, and kahva until the table feels like home. Warmth is part of the language lesson, not an extra decoration. When Ana uses family words at Amira’s, she is naming both blood relatives and chosen company."
+      "body": "Calling café regulars porodica is half joke and half truth. People share news, chairs, and kahva until the table feels like home. Warmth is part of the language lesson rather than a extra decoration. When Ana uses family words at Amira’s, she is naming both blood relatives and chosen company."
     }
   ],
   "resources": [
@@ -399,7 +399,7 @@
       "note": "Companion video for Lesson 4"
     },
     {
-      "label": "Next: Lesson 5: Gdje je Mostar?",
+      "label": "Next. Lesson 5. Gdje je Mostar?",
       "url": "/learn/lesson/5",
       "note": "Places, gdje/ovdje/tamo, and a Mostar tease"
     },
@@ -436,7 +436,7 @@
           "sin"
         ],
         "correctIndex": 1,
-        "explanation": "Brat = brother; sestra = sister.",
+        "explanation": "Brat = brother. Sestra = sister.",
         "skill": "vocabulary"
       },
       {
@@ -462,7 +462,7 @@
           "Our family"
         ],
         "correctIndex": 1,
-        "explanation": "Moj = my (masculine); otac = father.",
+        "explanation": "Moj = my (masculine). Otac = father.",
         "skill": "grammar"
       },
       {
@@ -639,7 +639,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_Ferhadija_2007-08-16.jpg",
       "author": "Milan Suvajac",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Open café on Ferhadija, Sarajevo. Milan Suvajac / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Based on the photo Open café on Ferhadija, Sarajevo. Milan Suvajac / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "mrvica-cat",
@@ -649,7 +649,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Cat_November_2010-1a.jpg",
       "author": "Alvesgaspar",
       "license": "CC BY-SA 3.0",
-      "credit": "Based on photo: Cat. Alvesgaspar / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Based on the photo Cat. Alvesgaspar / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "family-table",
@@ -659,7 +659,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_coffee_(13926468997).jpg",
       "author": "Michał Huniewicz",
       "license": "CC BY 2.0",
-      "credit": "Based on photo: Bosnian coffee gathering mood. Michał Huniewicz / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Based on the photo Bosnian coffee gathering mood. Michał Huniewicz / Wikimedia Commons (CC BY 2.0)"
     },
     {
       "id": "civic-parliament",
@@ -669,7 +669,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_parlament_2007.jpg",
       "author": "Dingoa",
       "license": "CC BY-SA 3.0",
-      "credit": "Based on photo: Sarajevo parliament. Dingoa / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Based on the photo Sarajevo parliament. Dingoa / Wikimedia Commons (CC BY-SA 3.0)"
     }
   ],
   "imagesNeeded": false,
@@ -679,12 +679,12 @@
     "body": "Bosnia and Herzegovina’s top executive is split along ethnic lines, and some leaders still challenge the state’s survival. The Presidency has three members, one Bosniak, one Croat, and one Serb, under the Dayton settlement that ended the war. In the years since, senior officials from Republika Srpska have repeatedly threatened to withdraw from state institutions and have promoted secessionist goals. Family talk at a café table happens in a country where parts of the leadership still openly question whether the state should remain whole.",
     "imageId": "civic-parliament",
     "learnMore": {
-      "label": "Wikipedia: Presidency of Bosnia and Herzegovina",
+      "label": "Wikipedia. Presidency of Bosnia and Herzegovina",
       "url": "https://en.wikipedia.org/wiki/Presidency_of_Bosnia_and_Herzegovina"
     }
   },
   "authenticListen": {
-    "title": "Čuj Bosnu: a song for majka",
+    "title": "Čuj Bosnu. A song for majka",
     "kind": "song",
     "hook": "Family words live in songs too. Listen to Tebi majko misli lete and catch the warm majka sound.",
     "source": {

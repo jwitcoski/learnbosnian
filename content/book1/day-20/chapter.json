@@ -128,8 +128,8 @@
   ],
   "grammar": [
     {
-      "title": "Phone openers: Alo and Ko je tamo?",
-      "explanation": "Learn this as a phrase, not a table. Start a call with Alo? then ask Ko je tamo? when you need the name. Keep both chunks short and clear. Present-tense phone talk is enough for an urgent cat emergency.",
+      "title": "Phone openers with Alo and Ko je tamo?",
+      "explanation": "Learn this as a full phrase. Do not treat it as a table. Start a call with Alo? then ask Ko je tamo? when you need the name. Keep both chunks short and clear. Present-tense phone talk is enough for an urgent cat emergency.",
       "examples": [
         {
           "bosnian": "Alo?",
@@ -147,7 +147,7 @@
     },
     {
       "title": "Šta, kada, and zašto",
-      "explanation": "Hold this as a spoken pattern, not a grammar grid. Use šta for what, kada for when, and zašto for why. Pair each question word with a present verb you already know. The set helps you gather facts fast on a call.",
+      "explanation": "Hold this as a spoken pattern. Do not treat it as a grammar grid. Use šta for what, kada for when, and zašto for why. Pair each question word with a present verb you already know. The set helps you gather facts fast on a call.",
       "examples": [
         {
           "bosnian": "Šta se desi?",
@@ -165,7 +165,7 @@
     },
     {
       "title": "Urgent present chunks",
-      "explanation": "Say the whole line together; skip the full chart for now. Hitno je! flags urgency. Nestala describes a feminine missing subject such as Mrvica. Add Molim vas when you ask a stranger for help by phone or on the street.",
+      "explanation": "Say the whole line together. Skip the full chart for now. Hitno je! flags urgency. Nestala describes a feminine missing subject such as Mrvica. Add Molim vas when you ask a stranger for help by phone or on the street.",
       "examples": [
         {
           "bosnian": "Hitno je!",
@@ -184,14 +184,14 @@
   ],
   "culture": {
     "title": "Calls beside the tram",
-    "body": "Sarajevo trams slide past cafés where people still step outside to finish a call in clearer air. Ana phones Emir when Mrvica disappears near the tracks, and every question word suddenly matters. Ko, šta, kada, and zašto turn panic into a usable checklist she can repeat under stress. Mobile connection is ordinary now, yet the voice on the line still carries care across a noisy street. A clear Alo? can start both small talks and true emergencies before anyone explains the problem. Phone survival phrases belong beside tram noise, not only beside a quiet classroom desk. ",
+    "body": "Sarajevo trams slide past cafés where people still step outside to finish a call in clearer air. Ana phones Emir when Mrvica disappears near the tracks, and every question word suddenly matters. Ko, šta, kada, and zašto turn panic into a usable checklist she can repeat under stress. Mobile connection is ordinary now, yet the voice on the line still carries care across a noisy street. A clear Alo? can start both small talks and true emergencies before anyone explains the problem. Phone survival phrases belong beside tram noise rather than only beside a quiet classroom desk. ",
     "imageId": "sarajevo-tram"
   },
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A: Phone questions that gather facts",
-      "body": "Lock the phone kit: telefon, poziv, alo, broj, and veza before the emergency story begins. Practice Alo? and Ko je tamo? until both openers sound natural on the first try. Then drill šta, kada, and zašto with short present answers so facts arrive in order. Ana calls from near a tram stop while Emir asks for details without wasting time. Keep the lines sharp; a missing cat does not wait for a full grammar chart. Record yourself asking all four question words, then answer each one in one calm present sentence. Keep the checklist order steady under pressure. Say the lines out loud twice before you move on. ",
+      "title": "Lesson A. Phone questions that gather facts",
+      "body": "Lock the phone kit. Telefon, poziv, alo, broj, and veza before the emergency story begins. Practice Alo? and Ko je tamo? until both openers sound natural on the first try. Then drill šta, kada, and zašto with short present answers so facts arrive in order. Ana calls from near a tram stop while Emir asks for details without wasting time. Keep the lines sharp. A missing cat does not wait for a full grammar chart. Record yourself asking all four question words, then answer each one in one calm present sentence. Keep the checklist order steady under pressure. Say the lines out loud twice before you move on. ",
       "tips": [
         "Start with Alo? before you ask anything else.",
         "Use one question word at a time.",
@@ -200,8 +200,8 @@
     },
     {
       "id": "b",
-      "title": "Lesson B: The Mrvica emergency call",
-      "body": "Build the emergency call as a sequence you can run even when you feel rushed. Say Hitno je! then Mrvica je nestala! then ask for help with molim vas in a clear voice. Reuse Čujem te dobro when the connection is clear and you need to slow the other person down. Amira joins the search on another line, and the tram keeps moving beside the café windows. Close the call with a plan in the present: Idemo sad. Practice until the question words feel like a calm checklist rather than a scramble of panic. Repeat the full call once without looking at notes. ",
+      "title": "Lesson B. The Mrvica emergency call",
+      "body": "Build the emergency call as a sequence you can run even when you feel rushed. Say Hitno je! then Mrvica je nestala! then ask for help with molim vas in a clear voice. Reuse Čujem te dobro when the connection is clear and you need to slow the other person down. Amira joins the search on another line, and the tram keeps moving beside the café windows. Close the call with a plan in the present. Idemo sad. Practice until the question words feel like a calm checklist rather than a scramble of panic. Repeat the full call once without looking at notes. ",
       "tips": [
         "Say Hitno je! early if the problem is urgent.",
         "Add molim vas when you ask for help.",
@@ -211,7 +211,7 @@
   ],
   "conversation": {
     "title": "Gdje je Mrvica?",
-    "setting": "Ana calls Emir in a panic; Amira searches the café while Mrvica finally answers from under a chair.",
+    "setting": "Ana calls Emir in a panic. Amira searches the café while Mrvica finally answers from under a chair.",
     "lines": [
       {
         "speaker": "Ana",
@@ -370,7 +370,7 @@
     },
     {
       "title": "Question words form a checklist",
-      "body": "Ko, šta, kada, and zašto help a panicked speaker slow down. Each word requests one kind of fact. Used together, they organize an urgent conversation. Book 1 teaches them as present-tense tools, not as abstract grammar labels."
+      "body": "Ko, šta, kada, and zašto help a panicked speaker slow down. Each word requests one kind of fact. Used together, they organize an urgent conversation. Book 1 teaches them as present-tense tools rather than as abstract grammar labels."
     },
     {
       "title": "Mrvica keeps stakes personal",
@@ -379,7 +379,7 @@
   ],
   "resources": [
     {
-      "label": "Bosnian Grammar: How to Say I am",
+      "label": "Bosnian Grammar. How to Say I am",
       "url": "https://www.youtube.com/watch?v=CUUGzc3C1G8",
       "note": "Self-introduction chunks help you answer Ko je tamo?"
     },
@@ -640,7 +640,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_tram_706.jpg",
       "author": "xiquinhosilva",
       "license": "CC BY 2.0",
-      "credit": "Polygon painting based on photo: Sarajevo tram 706.jpg. xiquinhosilva / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Polygon painting based on the photo Sarajevo tram 706.jpg. xiquinhosilva / Wikimedia Commons (CC BY 2.0)"
     },
     {
       "id": "sarajevo-tram-city-hall",
@@ -648,9 +648,9 @@
       "localPath": "/images/book1/day-20-sarajevo-tram-city-hall.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Sarajevo_Tram_City-Hall.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_Tram_City-Hall.jpg",
-      "author": "J. Studnička &amp; Co., Sarajevo.",
+      "author": "J. Studnička & Co., Sarajevo.",
       "license": "Public domain",
-      "credit": "Polygon painting based on photo: Sarajevo Tram City-Hall.jpg. J. Studnička &amp; Co., Sarajevo. / Wikimedia Commons (Public domain)"
+      "credit": "Polygon painting based on the photo Sarajevo Tram City-Hall.jpg. J. Studnička &amp. Co., Sarajevo. / Wikimedia Commons (Public domain)"
     },
     {
       "id": "ferhadija-connection",
@@ -660,7 +660,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFerhadija%2C_Sarajevo%2C_2023.01.22_2.jpg",
       "author": "Niegodzisie",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on photo: Ferhadija, Sarajevo, 2023.01.22 2.jpg. Niegodzisie / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on the photo Ferhadija, Sarajevo, 2023.01.22 2.jpg. Niegodzisie / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "civic-diaspora-calls",
@@ -670,17 +670,17 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAutobahn-Sarajevo.jpg",
       "author": "Eao-be",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on photo: Autobahn-Sarajevo.jpg. Eao-be / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Polygon painting based on the photo Autobahn-Sarajevo.jpg. Eao-be / Wikimedia Commons (CC BY-SA 3.0)"
     }
   ],
   "imagesNeeded": false,
   "imageBriefs": [],
   "civicContext": {
     "title": "Opaque gas deals and a currency board without normal central-bank power",
-    "body": "An urgent phone call home travels through a state that still imports nearly all of its natural gas on a Russian-linked route through neighboring systems, while major new pipeline politics arrive with foreign patrons. In 2026 the Federation moved to designate a U.S. company linked to Trump-aligned investors as developer of the Southern Interconnection without a normal open tender, drawing European Union warnings about transparency and aid. The Central Bank of Bosnia and Herzegovina operates as a currency board tied to the euro, so the country does not run ordinary independent monetary policy. Families abroad send remittances because wages and institutions leave gaps; energy contracts and limited monetary power shape the larger silence behind every call.",
+    "body": "An urgent phone call home travels through a state that still imports nearly all of its natural gas on a Russian-linked route through neighboring systems, while major new pipeline politics arrive with foreign patrons. In 2026 the Federation moved to designate a U.S. company linked to Trump-aligned investors as developer of the Southern Interconnection without a normal open tender, drawing European Union warnings about transparency and aid. The Central Bank of Bosnia and Herzegovina operates as a currency board tied to the euro, so the country does not run ordinary independent monetary policy. Families abroad send remittances because wages and institutions leave gaps. Energy contracts and limited monetary power shape the larger silence behind every call.",
     "imageId": "civic-diaspora-calls",
     "learnMore": {
-      "label": "RFE/RL: EU warns Bosnia over U.S. gas project and aid risk",
+      "label": "RFE/RL. EU warns Bosnia over U.S. gas project and aid risk",
       "url": "https://www.rferl.org/a/eu-bosnia-gas-pipeline-us-investor-aid/33741747.html"
     }
   },
@@ -689,7 +689,7 @@
     "kind": "speaker",
     "hook": "A teacher models Ja sam lines you can reuse when someone asks who is calling.",
     "source": {
-      "title": "Bosnian Grammar: How to Say 'I am' (Ja sam) - Introducing Yourself",
+      "title": "Bosnian Grammar. How to Say 'I am' (Ja sam) - Introducing Yourself",
       "artistOrSpeaker": "Lingo Hero",
       "regionOrScene": "Self-introduction for phone identity",
       "license": "YouTube Terms of Service (embed)",

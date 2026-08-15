@@ -4,9 +4,9 @@
 **Status:** Export when the chapter is `published`.
 
 ## Thumbnail text
-- EN: Lesson 15: Right or left?
-- BS: Desna ili lijeva?
-- Background: Latin Bridge crosses the Miljacka in Sarajevo.
+- EN. Lesson 15. Right or left?
+- BS. Desna ili lijeva?
+- Background. Latin Bridge crosses the Miljacka in Sarajevo.
 
 ## Narration and on-screen cues
 
@@ -22,12 +22,12 @@
 **Narration:** Latin Bridge anchors the Sarajevo route. A postcard of the reconstructed old stone bridge in Konjic adds a second river crossing without taking the lesson to Mostar.
 **On screen:** Latin Bridge | Konjic | image credits
 
-### 3:00 Lesson A: Follow the route
+### 3:00 Lesson A. Follow the route
 **Narration:** Say pravo for straight ahead. Use desno for a right turn and lijevo for a left turn. Connect each instruction to a street or bridge.
 **On screen:** pravo | desno | lijevo
 
-### 5:00 Lesson B: Ask and answer politely
-**Narration:** A friend can say Skreni lijevo. A stranger can answer Idite pravo, molim vas. The polite form changes the relationship, not the route.
+### 5:00 Lesson B. Ask and answer politely
+**Narration:** A friend can say Skreni lijevo. A stranger can answer Idite pravo, molim vas. The polite form changes the relationship rather than the route.
 **On screen:** Skreni lijevo. | Idite pravo, molim vas.
 
 ### 6:30 Mini dialogue
@@ -40,5 +40,5 @@
 
 ## End screen
 - Link to website `/learn/lesson/15`
-- Playlist: Learn Bosnian Book 1
+- Playlist. Learn Bosnian Book 1
 - Image credits appear in the description.

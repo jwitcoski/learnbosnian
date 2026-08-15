@@ -4,9 +4,9 @@
 **Status:** Export when the chapter is `published`.
 
 ## Thumbnail text
-- EN: Lesson 11: How is the weather?
-- BS: Kakvo je vrijeme?
-- Background: The cable car climbs Trebević in autumn.
+- EN. Lesson 11. How is the weather?
+- BS. Kakvo je vrijeme?
+- Background. The cable car climbs Trebević in autumn.
 
 ## Narration and on-screen cues
 
@@ -22,11 +22,11 @@
 **Narration:** The cable car rises from the Sarajevo basin into the forest of Trebević. A Jahorina postcard shows how another nearby mountain changes from green trails to winter snow.
 **On screen:** Trebević | Jahorina | image credits
 
-### 3:00 Lesson A: Weather and season words
+### 3:00 Lesson A. Weather and season words
 **Narration:** Say vrijeme, sunce, kiša, snijeg, and vjetar. Then say proljeće, ljeto, jesen, and zima. Use a complete sentence for every condition.
 **On screen:** sunce | kiša | snijeg | vjetar
 
-### 5:00 Lesson B: Report a changing forecast
+### 5:00 Lesson B. Report a changing forecast
 **Narration:** Ask Kakvo je vrijeme? Answer Hladno je, Toplo je, or Oblačno je. Say Pada kiša when rain begins and Pada snijeg when snow begins.
 **On screen:** Kakvo je vrijeme? | Oblačno je | Pada kiša
 
@@ -40,5 +40,5 @@
 
 ## End screen
 - Link to website `/learn/lesson/11`
-- Playlist: Learn Bosnian Book 1
+- Playlist. Learn Bosnian Book 1
 - Image credits appear in the description.

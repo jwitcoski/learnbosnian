@@ -14,10 +14,10 @@
 - Present tense only (no perfekt / future paradigms)
 - Spiral frames + **Say again** warm-up (4 recycled lines) every drafted lesson
 - Reviews 7 / 14 / 21 / 30 are frame drills
-- Grammar panels keep labels, but open with a chunks-first reminder (phrase bank in `LESSON_AUTHORING_GUIDE.md`; rotate wording so panels do not all sound the same)
-- Lesson 0 states that Book 1 teaches ready phrases and present-tense chunks, not full case tables; deeper grammar waits for Book 2
+- Grammar panels keep labels, but open with a chunks-first reminder from the phrase bank in `LESSON_AUTHORING_GUIDE.md`. Rotate wording so panels do not all sound the same. Learner prose avoids semicolons, colons inside sentences, and comma-glued phrase pairs.
+- Lesson 0 states that Book 1 teaches ready phrases and present-tense chunks rather than full case tables. Deeper grammar waits for Book 2.
 - Public scenes include at least one polite exchange (`molim` / `hvala` / `molim vas`)
-- Studio-clean dialogue is OK; no reduced street variants in Book 1
+- Studio-clean dialogue is OK. Do not add reduced street variants in Book 1.
 
 ## Lesson production plan
 

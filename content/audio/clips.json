@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T02:17:49.849Z",
+  "generatedAt": "2026-08-15T02:38:57.395Z",
   "voiceProfiles": [
     {
       "id": "female-1",
@@ -2482,7 +2482,7 @@
       "type": "dialogue",
       "index": 0,
       "bosnian": "Ovo je moja sedmica. Foto: kahva kod Amire!",
-      "english": "This is my week. Photo: coffee at Amira’s!",
+      "english": "This is my week. Photo. Coffee at Amira’s!",
       "pronunciation": "",
       "preferredGender": "female",
       "assignedVoiceId": "female-1",

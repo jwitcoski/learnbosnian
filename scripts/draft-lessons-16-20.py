@@ -328,7 +328,7 @@ def build_lesson_16(images: list) -> dict:
     grammar = [
         {
             "title": "Treba mi and trebaš",
-            "explanation": "Learn this as a phrase, not a table. Treba mi means I need and takes the thing you need right after it. Trebaš means you need when you speak to one familiar person. Keep the chunk together and stay in the present.",
+            "explanation": "Learn this as a full phrase. Do not treat it as a table. Treba mi means I need and takes the thing you need right after it. Trebaš means you need when you speak to one familiar person. Keep the chunk together and stay in the present.",
             "examples": [
                 {"bosnian": "Treba mi karta.", "english": "I need a ticket."},
                 {"bosnian": "Treba mi autobus.", "english": "I need a bus."},
@@ -346,7 +346,7 @@ def build_lesson_16(images: list) -> dict:
         },
         {
             "title": "Station timing chunks",
-            "explanation": "Say the whole line together; skip the full chart for now. Use odlazak for departure and dolazak for arrival. Pair each word with a clock time you already know. These present-tense lines help you read a board without learning a new tense.",
+            "explanation": "Say the whole line together. Skip the full chart for now. Use odlazak for departure and dolazak for arrival. Pair each word with a clock time you already know. These present-tense lines help you read a board without learning a new tense.",
             "examples": [
                 {"bosnian": "Odlazak je uskoro.", "english": "Departure is soon."},
                 {"bosnian": "Dolazak je u pet sati.", "english": "Arrival is at five o'clock."},
@@ -370,7 +370,7 @@ def build_lesson_16(images: list) -> dict:
         "Then ask Koliko košta karta? "
         "and choose jednosmjerna or povratna before you pay. "
         "Ana stands at the Sarajevo counter with Emir and imagines the lake stop near Jablanica. "
-        "The coast dream needs a ticket first, not a full travel grammar chart for every case. "
+        "The coast dream needs a ticket first rather than a full travel grammar chart for every case. "
         "Say each counter line twice, then point to the board and name odlazak or dolazak in a full sentence. "
     )
     block_b = (
@@ -593,7 +593,7 @@ def build_lesson_17(images: list) -> dict:
     grammar = [
         {
             "title": "Hoću, hoćeš, hoćemo",
-            "explanation": "Hold this as a spoken pattern, not a grammar grid. Hoću means I want, hoćeš asks or states what you want, and hoćemo covers we want. Keep these present forms as restaurant chunks. Do not expand into past or future paradigms yet.",
+            "explanation": "Hold this as a spoken pattern. Do not treat it as a grammar grid. Hoću means I want, hoćeš asks or states what you want, and hoćemo covers we want. Keep these present forms as restaurant chunks. Do not expand into past or future paradigms yet.",
             "examples": [
                 {"bosnian": "Hoću klepe.", "english": "I want klepe."},
                 {"bosnian": "Hoćeš li japrak?", "english": "Do you want japrak?"},
@@ -602,7 +602,7 @@ def build_lesson_17(images: list) -> dict:
         },
         {
             "title": "Ordering with molim and račun",
-            "explanation": "Learn the usable chunk first; full tables can wait. Place the food word first, then molim. When you finish, say Račun, molim for the bill. Politeness keeps a public restaurant scene smooth.",
+            "explanation": "Learn the usable chunk first. Full tables can wait. Place the food word first, then molim. When you finish, say Račun, molim for the bill. Politeness keeps a public restaurant scene smooth.",
             "examples": [
                 {"bosnian": "Klepe, molim.", "english": "Klepe, please."},
                 {"bosnian": "Japrak, molim.", "english": "Japrak, please."},
@@ -864,7 +864,7 @@ def build_lesson_18(images: list) -> dict:
     grammar = [
         {
             "title": "Igram and gledam",
-            "explanation": "Memorize the phrase shape; leave the full table for later. Igram covers I play, and gledam covers I watch. Add fudbal or utakmica to finish the chunk. These present forms are enough for a stadium chat today.",
+            "explanation": "Memorize the phrase shape. Leave the full table for later. Igram covers I play, and gledam covers I watch. Add fudbal or utakmica to finish the chunk. These present forms are enough for a stadium chat today.",
             "examples": [
                 {"bosnian": "Igram fudbal.", "english": "I play football."},
                 {"bosnian": "Gledam utakmicu.", "english": "I watch the match."},
@@ -873,7 +873,7 @@ def build_lesson_18(images: list) -> dict:
         },
         {
             "title": "Često and ponekad",
-            "explanation": "Take this as a speaking chunk, not a case chart. Place često or ponekad before the verb to show how often you do something. Često means often, and ponekad means sometimes. Keep the rest of the sentence in the present.",
+            "explanation": "Take this as a speaking chunk. Do not memorize a case chart yet. Place često or ponekad before the verb to show how often you do something. Često means often, and ponekad means sometimes. Keep the rest of the sentence in the present.",
             "examples": [
                 {"bosnian": "Često igram fudbal.", "english": "I often play football."},
                 {"bosnian": "Ponekad gledam utakmicu.", "english": "I sometimes watch the match."},
@@ -917,7 +917,7 @@ def build_lesson_18(images: list) -> dict:
         "and answer with često or ponekad plus a present verb. "
         "Amira prefers the waterfall walk, while Mrvica prefers any path that might hide snacks. "
         "Close by naming one sport habit and one nature habit in the present tense only. "
-        "The goal is a weekend self-portrait you can say aloud, not a list of abstract hobby nouns. "
+        "The goal is a weekend self-portrait you can say aloud rather than a list of abstract hobby nouns. "
         "Repeat your two habits until they sound natural. "
     )
     assert 100 <= len(block_a.split()) <= 180, len(block_a.split())
@@ -1149,7 +1149,7 @@ def build_lesson_19(images: list) -> dict:
         },
         {
             "title": "Inclusive holiday talk",
-            "explanation": "Focus on the spoken chunk; postpone the full paradigm. Name more than one holiday so your greetings stay inclusive. Add zajedno when people celebrate side by side on the same street. Present-tense wishes are enough for market conversations.",
+            "explanation": "Focus on the spoken chunk. Postpone the full paradigm. Name more than one holiday so your greetings stay inclusive. Add zajedno when people celebrate side by side on the same street. Present-tense wishes are enough for market conversations.",
             "examples": [
                 {"bosnian": "Sretan praznik!", "english": "Happy holiday!"},
                 {"bosnian": "Slavimo zajedno.", "english": "We celebrate together."},
@@ -1171,7 +1171,7 @@ def build_lesson_19(images: list) -> dict:
         "Notice sretan versus sretna and keep each greeting whole as one spoken chunk. "
         "Add Čestitam Bajram as a second warm pattern you can hand to family or friends. "
         "Ana repeats the greetings while Emir points to mosque and cathedral photos on the same city map. "
-        "The goal is respectful fluency in public, not a theology lecture or a comparison chart. "
+        "The goal is respectful fluency in public rather than a theology lecture or a comparison chart. "
         "Say each wish twice, then switch which holiday you greet so your mouth stays flexible. "
         "Keep the tone warm and the chunks complete. "
         "Say the lines out loud twice before you move on. "
@@ -1393,7 +1393,7 @@ def build_lesson_20(images: list) -> dict:
     grammar = [
         {
             "title": "Phone openers: Alo and Ko je tamo?",
-            "explanation": "Learn this as a phrase, not a table. Start a call with Alo? then ask Ko je tamo? when you need the name. Keep both chunks short and clear. Present-tense phone talk is enough for an urgent cat emergency.",
+            "explanation": "Learn this as a full phrase. Do not treat it as a table. Start a call with Alo? then ask Ko je tamo? when you need the name. Keep both chunks short and clear. Present-tense phone talk is enough for an urgent cat emergency.",
             "examples": [
                 {"bosnian": "Alo?", "english": "Hello?"},
                 {"bosnian": "Ko je tamo?", "english": "Who is there?"},
@@ -1402,7 +1402,7 @@ def build_lesson_20(images: list) -> dict:
         },
         {
             "title": "Šta, kada, and zašto",
-            "explanation": "Hold this as a spoken pattern, not a grammar grid. Use šta for what, kada for when, and zašto for why. Pair each question word with a present verb you already know. The set helps you gather facts fast on a call.",
+            "explanation": "Hold this as a spoken pattern. Do not treat it as a grammar grid. Use šta for what, kada for when, and zašto for why. Pair each question word with a present verb you already know. The set helps you gather facts fast on a call.",
             "examples": [
                 {"bosnian": "Šta se desi?", "english": "What is happening?"},
                 {"bosnian": "Kada dolaziš?", "english": "When are you coming?"},
@@ -1411,7 +1411,7 @@ def build_lesson_20(images: list) -> dict:
         },
         {
             "title": "Urgent present chunks",
-            "explanation": "Say the whole line together; skip the full chart for now. Hitno je! flags urgency. Nestala describes a feminine missing subject such as Mrvica. Add Molim vas when you ask a stranger for help by phone or on the street.",
+            "explanation": "Say the whole line together. Skip the full chart for now. Hitno je! flags urgency. Nestala describes a feminine missing subject such as Mrvica. Add Molim vas when you ask a stranger for help by phone or on the street.",
             "examples": [
                 {"bosnian": "Hitno je!", "english": "It is urgent!"},
                 {"bosnian": "Mrvica je nestala!", "english": "Mrvica is missing!"},
@@ -1472,7 +1472,7 @@ def build_lesson_20(images: list) -> dict:
         },
         {
             "title": "Question words form a checklist",
-            "body": "Ko, šta, kada, and zašto help a panicked speaker slow down. Each word requests one kind of fact. Used together, they organize an urgent conversation. Book 1 teaches them as present-tense tools, not as abstract grammar labels.",
+            "body": "Ko, šta, kada, and zašto help a panicked speaker slow down. Each word requests one kind of fact. Used together, they organize an urgent conversation. Book 1 teaches them as present-tense tools rather than as abstract grammar labels.",
         },
         {
             "title": "Mrvica keeps stakes personal",

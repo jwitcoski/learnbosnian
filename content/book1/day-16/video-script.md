@@ -4,9 +4,9 @@
 **Status:** Export when the chapter is `published`.
 
 ## Thumbnail text
-- EN: Lesson 16: On the bus
-- BS: Na autobus
-- Background: Coaches wait at the Sarajevo bus station.
+- EN. Lesson 16. On the bus
+- BS. Na autobus
+- Background. Coaches wait at the Sarajevo bus station.
 
 ## Narration and on-screen cues
 
@@ -22,11 +22,11 @@
 **Narration:** The Sarajevo bus station starts the journey. A postcard of Jablaničko Lake appears on the road south, and Neum waits as the short Adriatic dream.
 **On screen:** Sarajevo station | Jablanica | Neum | image credits
 
-### 3:00 Lesson A: Ticket counter phrases
+### 3:00 Lesson A. Ticket counter phrases
 **Narration:** Say Treba mi karta. Ask Koliko košta karta? Choose jednosmjerna or povratna, then add molim.
 **On screen:** Treba mi karta. | Povratna karta, molim.
 
-### 5:00 Lesson B: Board and claim a seat
+### 5:00 Lesson B. Board and claim a seat
 **Narration:** Read odlazak and dolazak on the board. Claim Imam sjedalo uz prozor, thank the clerk, and keep the coast dream in the present.
 **On screen:** odlazak | dolazak | sjedalo uz prozor
 
@@ -40,5 +40,5 @@
 
 ## End screen
 - Link to website `/learn/lesson/16`
-- Playlist: Learn Bosnian Book 1
+- Playlist. Learn Bosnian Book 1
 - Image credits appear in the description.

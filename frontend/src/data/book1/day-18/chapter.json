@@ -129,7 +129,7 @@
   "grammar": [
     {
       "title": "Igram and gledam",
-      "explanation": "Memorize the phrase shape; leave the full table for later. Igram covers I play, and gledam covers I watch. Add fudbal or utakmica to finish the chunk. These present forms are enough for a stadium chat today.",
+      "explanation": "Memorize the phrase shape. Leave the full table for later. Igram covers I play, and gledam covers I watch. Add fudbal or utakmica to finish the chunk. These present forms are enough for a stadium chat today.",
       "examples": [
         {
           "bosnian": "Igram fudbal.",
@@ -147,7 +147,7 @@
     },
     {
       "title": "Često and ponekad",
-      "explanation": "Take this as a speaking chunk, not a case chart. Place često or ponekad before the verb to show how often you do something. Često means often, and ponekad means sometimes. Keep the rest of the sentence in the present.",
+      "explanation": "Take this as a speaking chunk. Do not memorize a case chart yet. Place često or ponekad before the verb to show how often you do something. Često means often, and ponekad means sometimes. Keep the rest of the sentence in the present.",
       "examples": [
         {
           "bosnian": "Često igram fudbal.",
@@ -190,8 +190,8 @@
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A: Play, watch, and how often",
-      "body": "Begin with sport, hobi, fudbal, utakmica, and tim so the stadium vocabulary is concrete. Then practice Igram and Gledam as separate present chunks you can finish with a noun. Ana often watches. Emir sometimes plays. Frequency words često and ponekad make the difference clear. Say each sentence while pointing to the Bilino Polje image so the place anchors the verb. Do not build a full verb chart yet; reuse the ready lines until they feel automatic. Finish Lesson A by telling a partner how often you watch and how often you play in two short lines. Keep both frequency words active in your answers. ",
+      "title": "Lesson A. Play, watch, and how often",
+      "body": "Begin with sport, hobi, fudbal, utakmica, and tim so the stadium vocabulary is concrete. Then practice Igram and Gledam as separate present chunks you can finish with a noun. Ana often watches. Emir sometimes plays. Frequency words često and ponekad make the difference clear. Say each sentence while pointing to the Bilino Polje image so the place anchors the verb. Do not build a full verb chart yet. Reuse the ready lines until they feel automatic. Finish Lesson A by telling a partner how often you watch and how often you play in two short lines. Keep both frequency words active in your answers. ",
       "tips": [
         "Keep igram and gledam as separate ready chunks.",
         "Put često or ponekad before the verb.",
@@ -200,8 +200,8 @@
     },
     {
       "id": "b",
-      "title": "Lesson B: From stands to river path",
-      "body": "Move from the stadium to the river postcard without dropping the football words you just learned. Use Volim šetnju and Rijeka Una je lijepa to balance the match talk with outdoor calm. Ask a friend Hoćeš li gledati utakmicu? and answer with često or ponekad plus a present verb. Amira prefers the waterfall walk, while Mrvica prefers any path that might hide snacks. Close by naming one sport habit and one nature habit in the present tense only. The goal is a weekend self-portrait you can say aloud, not a list of abstract hobby nouns. Repeat your two habits until they sound natural. ",
+      "title": "Lesson B. From stands to river path",
+      "body": "Move from the stadium to the river postcard without dropping the football words you just learned. Use Volim šetnju and Rijeka Una je lijepa to balance the match talk with outdoor calm. Ask a friend Hoćeš li gledati utakmicu? and answer with često or ponekad plus a present verb. Amira prefers the waterfall walk, while Mrvica prefers any path that might hide snacks. Close by naming one sport habit and one nature habit in the present tense only. The goal is a weekend self-portrait you can say aloud rather than a list of abstract hobby nouns. Repeat your two habits until they sound natural. ",
       "tips": [
         "Balance football lines with šetnja vocabulary.",
         "Ask Hoćeš li gledati utakmicu? in a friendly voice.",
@@ -634,7 +634,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABilino_Polje_Stadium_%28wide_angle%29.jpg",
       "author": "BiHVolim",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on photo: Bilino Polje Stadium (wide angle).jpg. BiHVolim / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Polygon painting based on the photo Bilino Polje Stadium (wide angle).jpg. BiHVolim / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "bilino-polje-stands",
@@ -644,7 +644,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AStadion_Bilino_Polje.jpg",
       "author": "Emin Tarahija",
       "license": "CC0",
-      "credit": "Polygon painting based on photo: Stadion Bilino Polje.jpg. Emin Tarahija / Wikimedia Commons (CC0)"
+      "credit": "Polygon painting based on the photo Stadion Bilino Polje.jpg. Emin Tarahija / Wikimedia Commons (CC0)"
     },
     {
       "id": "strbacki-buk",
@@ -654,7 +654,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3A%C5%A0trba%C4%8Dki_buk_1.jpg",
       "author": "Julian Nyča",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on photo: Štrbački buk 1.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Polygon painting based on the photo Štrbački buk 1.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "civic-emigration-airport",
@@ -664,7 +664,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AUniversity_of_Sarajevo_in_2014.jpg",
       "author": "Choinowski",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on photo: University of Sarajevo in 2014.jpg. Choinowski / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on the photo University of Sarajevo in 2014.jpg. Choinowski / Wikimedia Commons (CC BY-SA 4.0)"
     }
   ],
   "imagesNeeded": false,
@@ -674,7 +674,7 @@
     "body": "Sport talk about weekends sits next to a broken education market. In the Federation, cantons fund and oversee public universities, Republika Srpska runs a separate system, and dozens of private colleges opened after 2000. Quality and recognition vary sharply across that patchwork. Weak oversight has allowed some private schools to operate more like degree mills that sell credentials than like serious classrooms. Young people who train, study, or look for work still confront a map where the canton or entity that stamps a diploma can matter as much as skill, which feeds emigration and distrust.",
     "imageId": "civic-emigration-airport",
     "learnMore": {
-      "label": "Wikipedia: Education in Bosnia and Herzegovina",
+      "label": "Wikipedia. Education in Bosnia and Herzegovina",
       "url": "https://en.wikipedia.org/wiki/Education_in_Bosnia_and_Herzegovina"
     }
   },

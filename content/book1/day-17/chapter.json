@@ -129,7 +129,7 @@
   "grammar": [
     {
       "title": "Hoću, hoćeš, hoćemo",
-      "explanation": "Hold this as a spoken pattern, not a grammar grid. Hoću means I want, hoćeš asks or states what you want, and hoćemo covers we want. Keep these present forms as restaurant chunks. Do not expand into past or future paradigms yet.",
+      "explanation": "Hold this as a spoken pattern. Do not treat it as a grammar grid. Hoću means I want, hoćeš asks or states what you want, and hoćemo covers we want. Keep these present forms as restaurant chunks. Do not expand into past or future paradigms yet.",
       "examples": [
         {
           "bosnian": "Hoću klepe.",
@@ -147,7 +147,7 @@
     },
     {
       "title": "Ordering with molim and račun",
-      "explanation": "Learn the usable chunk first; full tables can wait. Place the food word first, then molim. When you finish, say Račun, molim for the bill. Politeness keeps a public restaurant scene smooth.",
+      "explanation": "Learn the usable chunk first. Full tables can wait. Place the food word first, then molim. When you finish, say Račun, molim for the bill. Politeness keeps a public restaurant scene smooth.",
       "examples": [
         {
           "bosnian": "Klepe, molim.",
@@ -190,7 +190,7 @@
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A: Wanting food with htjeti chunks",
+      "title": "Lesson A. Wanting food with htjeti chunks",
       "body": "Learn restoran, jelovnik, konobar, klepe, and japrak first so the room has clear names. Then lock the present chunks Hoću, Hoćeš li, and Hoćemo as ready wanting lines. Ana wants klepe. Emir wants japrak. Their friendly disagreement is the lesson engine. Point at the menu and say the food word with molim instead of inventing long sentences. Stay in the present so the order is ready for a real waiter tonight without extra paradigms. Repeat each dish name twice, then switch roles so both of you can ask and answer with hoćeš. Keep the wanting chunks short and reusable at the table. ",
       "tips": [
         "Say Hoću plus the dish as one ready line.",
@@ -200,7 +200,7 @@
     },
     {
       "id": "b",
-      "title": "Lesson B: From order to račun",
+      "title": "Lesson B. From order to račun",
       "body": "Build the full table flow from greeting to goodbye in short present lines. Greet, order with hoću, wish Dobar tek, ask for još if you need bread, then call for račun. Reuse Hvala after every helpful move from the konobar so politeness stays audible. Amira may appear with an opinion, and Mrvica watches for crumbs under the table as always. The Visoko postcard keeps the meal tied to a wider map of Bosnian kitchens beyond Sarajevo. Practice the debate until both dishes feel easy to pronounce and easy to defend with a smile. End by asking for the bill with a calm polite voice. ",
       "tips": [
         "Add molim to every order and to Račun, molim.",
@@ -632,7 +632,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKlepe_Sarajevo_Bosnia_%2810675888145%29.jpg",
       "author": "amanderson2",
       "license": "CC BY 2.0",
-      "credit": "Polygon painting based on photo: Klepe Sarajevo Bosnia (10675888145).jpg. amanderson2 / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Polygon painting based on the photo Klepe Sarajevo Bosnia (10675888145).jpg. amanderson2 / Wikimedia Commons (CC BY 2.0)"
     },
     {
       "id": "japrak-dish",
@@ -642,7 +642,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AJaprak_1.jpg",
       "author": "Tizilohja25",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on photo: Japrak 1.jpg. Tizilohja25 / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on the photo Japrak 1.jpg. Tizilohja25 / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "visoko-postcard",
@@ -652,7 +652,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVisoko.jpg",
       "author": "Wikimedia Commons",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on photo: Visoko.jpg. Wikimedia Commons / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Polygon painting based on the photo Visoko.jpg. Wikimedia Commons / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "civic-food-economy",
@@ -662,7 +662,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACroatia_Bosnia_Border_%28129455903%29.jpeg",
       "author": "José Sáez",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on photo: Croatia Bosnia Border (129455903).jpeg. José Sáez / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Polygon painting based on the photo Croatia Bosnia Border (129455903).jpeg. José Sáez / Wikimedia Commons (CC BY-SA 3.0)"
     }
   ],
   "imagesNeeded": false,
@@ -672,7 +672,7 @@
     "body": "Shared food does not mean equal documents. Many Bosnian Serbs and Bosnian Croats can obtain Serbian or Croatian citizenship while still living in Bosnia and Herzegovina, which can open European Union travel and paperwork routes that many Bosniak neighbors cannot match through residence alone. Roma, Jewish, and other minority citizens already face constitutional barriers to the highest state offices under the Sejdić and Finci problem. A restaurant debate over klepe and japrak happens in a country where the passport in your pocket can depend on ethnic affiliation as much as on the address where you sleep.",
     "imageId": "civic-food-economy",
     "learnMore": {
-      "label": "Wikipedia: Sejdić and Finci v. Bosnia and Herzegovina",
+      "label": "Wikipedia. Sejdić and Finci v. Bosnia and Herzegovina",
       "url": "https://en.wikipedia.org/wiki/Sejdi%C4%87_and_Finci_v._Bosnia_and_Herzegovina"
     }
   },

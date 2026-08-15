@@ -4,9 +4,9 @@
 **Status:** Export when the chapter is `published`.
 
 ## Thumbnail text
-- EN: Lesson 18: Sports and hobbies
-- BS: Sport i hobiji
-- Background: Bilino Polje stadium opens wide in Zenica.
+- EN. Lesson 18. Sports and hobbies
+- BS. Sport i hobiji
+- Background. Bilino Polje stadium opens wide in Zenica.
 
 ## Narration and on-screen cues
 
@@ -22,11 +22,11 @@
 **Narration:** Zenica's stadium gives the match a loud home. Štrbački buk on the Una gives the weekend a second mood.
 **On screen:** Bilino Polje | Una | Štrbački buk | image credits
 
-### 3:00 Lesson A: Play, watch, and how often
+### 3:00 Lesson A. Play, watch, and how often
 **Narration:** Say Igram fudbal and Gledam utakmicu. Place često or ponekad before the verb.
 **On screen:** Često igram fudbal. | Ponekad gledam utakmicu.
 
-### 5:00 Lesson B: From stands to river path
+### 5:00 Lesson B. From stands to river path
 **Narration:** Balance the stadium with Moj hobi je šetnja. Ask a friend about the match, then claim a walk.
 **On screen:** Moj hobi je šetnja. | Hoćeš li gledati utakmicu?
 
@@ -40,5 +40,5 @@
 
 ## End screen
 - Link to website `/learn/lesson/18`
-- Playlist: Learn Bosnian Book 1
+- Playlist. Learn Bosnian Book 1
 - Image credits appear in the description.

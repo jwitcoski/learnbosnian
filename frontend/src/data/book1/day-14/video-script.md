@@ -4,9 +4,9 @@
 **Status:** Export when the chapter is `published`.
 
 ## Thumbnail text
-- EN: Lesson 14: Review
-- BS: Ponavljanje
-- Background: Kastel Fortress beside the Vrbas in Banja Luka.
+- EN. Lesson 14. Review
+- BS. Ponavljanje
+- Background. Kastel Fortress beside the Vrbas in Banja Luka.
 
 ## Narration and on-screen cues
 
@@ -22,11 +22,11 @@
 **Narration:** Postcards bring Banja Luka to the game table. Kastel stands beside the Vrbas, and the reconstructed Ferhadija Mosque carries both living worship and restored memory.
 **On screen:** Banja Luka | Kastel | Ferhadija | image credits
 
-### 3:00 Lesson A: Build with familiar verbs
+### 3:00 Lesson A. Build with familiar verbs
 **Narration:** Use volim for a preference, želim for a wish, imam for possession, and govorim for a language. Draw a card and say one complete sentence.
-**On screen:** Volim... | Želim... | Imam... | Govorim...
+**On screen:** Volim. | Želim. | Imam. | Govorim.
 
-### 5:00 Lesson B: Connect questions across lessons
+### 5:00 Lesson B. Connect questions across lessons
 **Narration:** Switch between Koliko košta?, Kakvo je vrijeme?, Hoćeš li šetati?, and Odakle si? Listen to the question before you choose your answer.
 **On screen:** Price | Weather | Invitation | Place
 
@@ -40,5 +40,5 @@
 
 ## End screen
 - Link to website `/learn/lesson/14`
-- Playlist: Learn Bosnian Book 1
+- Playlist. Learn Bosnian Book 1
 - Image credits appear in the description.

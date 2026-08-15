@@ -128,7 +128,7 @@
   "grammar": [
     {
       "title": "biti. sam, si, je",
-      "explanation": "Hold this as a spoken pattern, not a grammar grid. The verb biti means to be. Beginners live on three short forms. Say ja sam for I am. Say ti si for you are. Say on je or ona je for he is or she is. Put the pronoun first when you want clarity. Say Ja sam Ana.",
+      "explanation": "Hold this as a spoken pattern. Do not treat it as a grammar grid. The verb biti means to be. Beginners live on three short forms. Say ja sam for I am. Say ti si for you are. Say on je or ona je for he is or she is. Put the pronoun first when you want clarity. Say Ja sam Ana.",
       "examples": [
         {
           "bosnian": "Ja sam Ana.",
@@ -150,7 +150,7 @@
     },
     {
       "title": "Two ways to introduce yourself",
-      "explanation": "Learn the usable chunk first; full tables can wait. Ja sam Ana states identity with biti. Zovem se Ana means “I am called Ana / my name is Ana.” Both are natural. For “nice to meet you,” say Drago mi je. literally “it is dear to me.”",
+      "explanation": "Learn the usable chunk first. Full tables can wait. Ja sam Ana states identity with biti. Zovem se Ana means “I am called Ana / my name is Ana.” Both are natural. For “nice to meet you,” say Drago mi je. literally “it is dear to me.”",
       "examples": [
         {
           "bosnian": "Zovem se Ana.",
@@ -193,7 +193,7 @@
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A: Pronouns and biti",
+      "title": "Lesson A. Pronouns and biti",
       "body": "Learn four pronouns in this lesson. Ja means I. Ti means you in informal speech. On means he. Ona means she. Pair them with biti. Say ja sam, ti si, on je, and ona je. Say them aloud until they feel automatic. Then build tiny truths. Say Ja sam Ana. Say Ti si Emir. Say On je vodič. Say Ona je prijateljica. We will meet more she words soon. For now Ona je Ana is enough. Beginners often drop the pronoun when the verb form is clear, but keeping Ja sam Ana is clearer and friendlier while you learn.",
       "tips": [
         "Drill ja sam, ti si, on je, and ona je.",
@@ -202,7 +202,7 @@
     },
     {
       "id": "b",
-      "title": "Lesson B: Meeting Emir",
+      "title": "Lesson B. Meeting Emir",
       "body": "At Sebilj, Ana needs a meeting script. Start with a greeting from Lesson 1, such as Zdravo! or Dobar dan! Then say Zovem se Ana. Or say Ja sam Ana. Add origin if you want with Ja sam iz Amerike. When Emir answers, reply Drago mi je! Listen for On je Emir, Ja sam Emir, or Zovem se Emir. All of those are fine. End with a smile and maybe Hvala when he offers help. Tomorrow you will drink kahva with Amira. In this lesson you only need to be Ana.",
       "tips": [
         "Meeting order is Zdravo, then Ja sam or Zovem se, then Drago mi je.",
@@ -309,19 +309,19 @@
   "practice": [
     {
       "id": "pr1",
-      "prompt": "Complete: Ja ___ Ana. (I am)",
+      "prompt": "Complete. Ja ___ Ana. (I am)",
       "hint": "Short form of biti for ‘I’",
       "answer": "sam"
     },
     {
       "id": "pr2",
-      "prompt": "Complete: Ti ___ Emir. (you are)",
+      "prompt": "Complete. Ti ___ Emir. (you are)",
       "hint": "Short form for ‘you’",
       "answer": "si"
     },
     {
       "id": "pr3",
-      "prompt": "Complete: On ___ vodič. (he is)",
+      "prompt": "Complete. On ___ vodič. (he is)",
       "hint": "One short word",
       "answer": "je"
     },
@@ -333,13 +333,13 @@
     },
     {
       "id": "pr5",
-      "prompt": "Translate: Nice to meet you!",
+      "prompt": "Translate. Nice to meet you!",
       "hint": "Three words",
       "answer": "Drago mi je"
     },
     {
       "id": "pr6",
-      "prompt": "Say: I am from Sarajevo. (use Ja sam iz…)",
+      "prompt": "Say. I am from Sarajevo. (use Ja sam iz…)",
       "hint": "Ja sam iz Sarajeva",
       "answer": "Ja sam iz Sarajeva"
     },
@@ -360,7 +360,7 @@
       "body": "The short biti forms sam, si, and je behave like little grammar hitchhikers. In longer sentences they often like the second position. Beginners do not need the full theory on day one. For now, keep clear Ja sam patterns and let fluency grow later."
     },
     {
-      "title": "Drago mi je is warm, not stiff",
+      "title": "Drago mi je is warm rather than stiff",
       "body": "Drago mi je is the standard way to say nice to meet you. It sounds warm in cafés, offices, and first introductions. Ana and Emir use it because real meetings need more than a name. Learn it as a ready chunk, then say it like you mean the welcome."
     },
     {
@@ -375,12 +375,12 @@
       "note": "Companion video for Lesson 2"
     },
     {
-      "label": "Map: Sebilj, Baščaršija",
+      "label": "Map. Sebilj, Baščaršija",
       "url": "https://www.openstreetmap.org/#map=18/43.8596/18.4312",
       "note": "Find the fountain before Lesson 3"
     },
     {
-      "label": "Next: Lesson 3: Brojevi i kahva",
+      "label": "Next. Lesson 3. Brojevi i kahva",
       "url": "/learn/lesson/3",
       "note": "Numbers and coffee at Amira’s"
     }
@@ -451,7 +451,7 @@
           "You are a fountain"
         ],
         "correctIndex": 1,
-        "explanation": "On je = he is; vodič = guide.",
+        "explanation": "On je = he is. Vodič = guide.",
         "skill": "vocabulary"
       },
       {
@@ -490,7 +490,7 @@
           "we"
         ],
         "correctIndex": 1,
-        "explanation": "Ona = she; on = he.",
+        "explanation": "Ona = she. On = he.",
         "skill": "vocabulary"
       },
       {
@@ -503,7 +503,7 @@
           "ona si / on sam"
         ],
         "correctIndex": 1,
-        "explanation": "Remember: ja sam, ti si, on/ona je.",
+        "explanation": "Remember. Ja sam, ti si, on/ona je.",
         "skill": "vocabulary"
       }
     ]
@@ -603,7 +603,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Day_in_Sarajevo.jpg",
       "author": "Daniel Wabyick",
       "license": "CC BY 2.0",
-      "credit": "Based on photo: Sebilj, Baščaršija. Daniel Wabyick / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Based on the photo Sebilj, Baščaršija. Daniel Wabyick / Wikimedia Commons (CC BY 2.0)"
     },
     {
       "id": "sebilj-close",
@@ -613,7 +613,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_-_Sebilj_fountain.jpg",
       "author": "JoJan",
       "license": "CC BY 3.0",
-      "credit": "Based on photo: Sebilj fountain. JoJan / Wikimedia Commons (CC BY 3.0)"
+      "credit": "Based on the photo Sebilj fountain. JoJan / Wikimedia Commons (CC BY 3.0)"
     },
     {
       "id": "bascarsija-street",
@@ -623,7 +623,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Ba%C5%A1%C4%8Dar%C5%A1ija_Sarajevo.jpg",
       "author": "Stechshotme",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Baščaršija street. Stechshotme / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Based on the photo Baščaršija street. Stechshotme / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "civic-presidency",
@@ -633,7 +633,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Presidency_of_BiH_in_Sarajevo_2023.01.29_1.jpg",
       "author": "Niegodzisie",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Presidency of BiH, Sarajevo. Niegodzisie / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Based on the photo Presidency of BiH, Sarajevo. Niegodzisie / Wikimedia Commons (CC BY-SA 4.0)"
     }
   ],
   "imagesNeeded": false,
@@ -643,16 +643,16 @@
     "body": "Bosnia and Herzegovina’s constitution still blocks some citizens from the highest state offices because of ethnicity. Key posts such as the tripartite Presidency and seats in the House of Peoples are reserved for Bosniacs, Croats, and Serbs as constituent peoples. Jews, Roma, and other citizens outside those labels cannot hold those offices. The European Court of Human Rights ruled against that exclusion in Sejdić and Finci in 2009, and the judgment has still not been fully implemented.",
     "imageId": "civic-presidency",
     "learnMore": {
-      "label": "Wikipedia: Sejdić and Finci v. Bosnia and Herzegovina",
+      "label": "Wikipedia. Sejdić and Finci v. Bosnia and Herzegovina",
       "url": "https://en.wikipedia.org/wiki/Sejdi%C4%87_and_Finci_v._Bosnia_and_Herzegovina"
     }
   },
   "authenticListen": {
-    "title": "Čuj Bosnu: Ja sam… in a real teacher voice",
+    "title": "Čuj Bosnu. Ja sam… in a real teacher voice",
     "kind": "speaker",
     "hook": "Hear someone walk through Ja sam and self-introduction patterns outside our Ana/Emir studio takes.",
     "source": {
-      "title": "Bosnian Grammar: How to Say 'I am' (Ja sam) - Introducing Yourself",
+      "title": "Bosnian Grammar. How to Say 'I am' (Ja sam) - Introducing Yourself",
       "artistOrSpeaker": "Lingo Hero",
       "regionOrScene": "Introductions",
       "license": "YouTube Terms of Service (embed)",

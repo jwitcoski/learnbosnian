@@ -4,9 +4,9 @@
 **Status:** Export when the chapter is `published`.
 
 ## Thumbnail text
-- EN: Lesson 13: People from Bosnia and Herzegovina
-- BS: Ljudi iz BiH
-- Background: The promenade beside the Sava in Brčko.
+- EN. Lesson 13. People from Bosnia and Herzegovina
+- BS. Ljudi iz BiH
+- Background. The promenade beside the Sava in Brčko.
 
 ## Narration and on-screen cues
 
@@ -22,11 +22,11 @@
 **Narration:** Emir's postcards show Brčko on the Sava River. Its promenade, mosque, and distinct civic position widen Ana's map of the country.
 **On screen:** Brčko | Sava River | image credits
 
-### 3:00 Lesson A: Ask about place and language
+### 3:00 Lesson A. Ask about place and language
 **Narration:** Ask Odakle si? Answer Ja sam iz and add a place. Say Govorim bosanski or Govorim engleski to name a language you speak.
-**On screen:** Odakle si? | Ja sam iz... | Govorim...
+**On screen:** Odakle si? | Ja sam iz. | Govorim.
 
-### 5:00 Lesson B: Talk about people with care
+### 5:00 Lesson B. Talk about people with care
 **Narration:** People in Bosnia and Herzegovina use many names for themselves. Begin with place and language, respect the answer, and let the other person choose how much to share.
 **On screen:** Place | Language | Listen with respect
 
@@ -40,5 +40,5 @@
 
 ## End screen
 - Link to website `/learn/lesson/13`
-- Playlist: Learn Bosnian Book 1
+- Playlist. Learn Bosnian Book 1
 - Image credits appear in the description.

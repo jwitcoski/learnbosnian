@@ -142,7 +142,7 @@
   "grammar": [
     {
       "title": "Imam / imaš",
-      "explanation": "Say the whole line together; skip the full chart for now. Imati means to have. Learn Imam for I have and imaš for you have. Say Imam sobu. Say Imam krevet. Ask Imaš lampu? Keep objects as chunks.",
+      "explanation": "Say the whole line together. Skip the full chart for now. Imati means to have. Learn Imam for I have and imaš for you have. Say Imam sobu. Say Imam krevet. Ask Imaš lampu? Keep objects as chunks.",
       "examples": [
         {
           "bosnian": "Imam sobu.",
@@ -160,7 +160,7 @@
     },
     {
       "title": "Moja soba",
-      "explanation": "Hold this as a spoken pattern, not a grammar grid. Soba is feminine, so moja soba is the natural chunk. Pair it with short descriptions. Say Moja soba je mala. Say Moja soba je lijepa.",
+      "explanation": "Hold this as a spoken pattern. Do not treat it as a grammar grid. Soba is feminine, so moja soba is the natural chunk. Pair it with short descriptions. Say Moja soba je mala. Say Moja soba je lijepa.",
       "examples": [
         {
           "bosnian": "Moja soba je mala.",
@@ -174,7 +174,7 @@
     },
     {
       "title": "Adjective agreement intro",
-      "explanation": "Learn the usable chunk first; full tables can wait. Match the adjective shape to the noun you see. Feminine soba and kuća often take -a forms such as mala and lijepa. Masculine prozor and krevet take forms like velik and udoban. Learn the pairs by ear in this lesson.",
+      "explanation": "Learn the usable chunk first. Full tables can wait. Match the adjective shape to the noun you see. Feminine soba and kuća often take -a forms such as mala and lijepa. Masculine prozor and krevet take forms like velik and udoban. Learn the pairs by ear in this lesson.",
       "examples": [
         {
           "bosnian": "Prozor je velik.",
@@ -199,7 +199,7 @@
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A: Name the room",
+      "title": "Lesson A. Name the room",
       "body": "Walk the space and name what you see. Learn soba, vrata, prozor, krevet, sto, stolica, and lampa. Add kuća and stan for the wider home map. Ana touches each object and says the word twice. Emir refuses English escape hatches. If you live above a café, you still need Bosnian for the furniture.",
       "tips": [
         "Soba is a room. Stan is an apartment. Kuća is a house.",
@@ -208,7 +208,7 @@
     },
     {
       "id": "b",
-      "title": "Lesson B: Imam and short descriptions",
+      "title": "Lesson B. Imam and short descriptions",
       "body": "Build short ownership sentences. Say Imam sobu. Say Imam krevet. Say Moja soba je mala. Say Prozor je velik. Say Krevet je udoban. Ana hangs a tiny Livno cheese postcard next to a Stolac photo, then discovers Mrvica already claimed the pillow. Ownership is a spectrum.",
       "tips": [
         "Keep Imam, Moja soba je, and short adjective endings ready",
@@ -294,7 +294,7 @@
     {
       "id": "p2",
       "type": "truefalse",
-      "title": "True or false: room talk",
+      "title": "True or false. Room talk",
       "prompt": "Mark each sentence true or false for this lesson.",
       "items": [
         {
@@ -369,7 +369,7 @@
   "funFacts": [
     {
       "title": "Upstairs from the kahva",
-      "body": "Living above a café is a practical city pattern in Bosnia and Herzegovina. The commute is short, the coffee smell is strong, and neighbors already know your order. Ana’s soba above Amira’s puts her inside that everyday arrangement. Home vocabulary in this lesson starts in a real upstairs room, not a textbook floor plan."
+      "body": "Living above a café is a practical city pattern in Bosnia and Herzegovina. The commute is short, the coffee smell is strong, and neighbors already know your order. Ana’s soba above Amira’s puts her inside that everyday arrangement. Home vocabulary in this lesson starts in a real upstairs room rather than a textbook floor plan."
     },
     {
       "title": "Stećci near Stolac",
@@ -391,12 +391,12 @@
       "note": "Companion video for Lesson 10"
     },
     {
-      "label": "How to speak Bosnian: living room furniture",
+      "label": "How to speak Bosnian. Living room furniture",
       "url": "https://www.youtube.com/watch?v=lTp-jz2azsI",
       "note": "Extra furniture listening"
     },
     {
-      "label": "Next: Lesson 11: Kakvo je vrijeme?",
+      "label": "Next. Lesson 11. Kakvo je vrijeme?",
       "url": "/learn/lesson/11",
       "note": "Weather on Trebević"
     },
@@ -668,7 +668,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARadimlja_necropolis_near_Stolac.JPG",
       "author": "Boris Maric",
       "license": "CC0",
-      "credit": "Polygon painting based on photo: Radimlja necropolis near Stolac.JPG. Boris Maric / Wikimedia Commons (CC0)"
+      "credit": "Polygon painting based on the photo Radimlja necropolis near Stolac.JPG. Boris Maric / Wikimedia Commons (CC0)"
     },
     {
       "id": "radimlja-detail",
@@ -678,7 +678,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3A13st_Radimlja.jpg",
       "author": "Original uploader was Prof saxx at hr.wikipedia",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on photo: 13st Radimlja.jpg. Original uploader was Prof saxx at hr.wikipedia / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Polygon painting based on the photo 13st Radimlja.jpg. Original uploader was Prof saxx at hr.wikipedia / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "stolac-old-town",
@@ -688,7 +688,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AStari_grad_Stolac_%2801%29.JPG",
       "author": "Ma▀▄Ga",
       "license": "CC BY 3.0",
-      "credit": "Polygon painting based on photo: Stari grad Stolac (01).JPG. Ma▀▄Ga / Wikimedia Commons (CC BY 3.0)"
+      "credit": "Polygon painting based on the photo Stari grad Stolac (01).JPG. Ma▀▄Ga / Wikimedia Commons (CC BY 3.0)"
     },
     {
       "id": "civic-stolac-houses",
@@ -698,7 +698,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AStari_grad_Stolac_%2817%29.JPG",
       "author": "Ma▀▄Ga",
       "license": "CC BY 3.0",
-      "credit": "Polygon painting based on photo: Stari grad Stolac (17).JPG. Ma▀▄Ga / Wikimedia Commons (CC BY 3.0)"
+      "credit": "Polygon painting based on the photo Stari grad Stolac (17).JPG. Ma▀▄Ga / Wikimedia Commons (CC BY 3.0)"
     }
   ],
   "imagesNeeded": false,
@@ -708,16 +708,16 @@
     "body": "Housing return after the war remains an unfinished national task in Bosnia and Herzegovina. Hundreds of thousands of people were displaced from their homes. Annex 7 of the Dayton Peace Agreement promised the right to return and reclaim property, but many restitution cases, damaged apartments, and contested ownership claims stayed unresolved for years. Even now, some families are still waiting for permanent housing solutions that the peace settlement said should arrive much sooner.",
     "imageId": "civic-stolac-houses",
     "learnMore": {
-      "label": "Wikipedia: Annex 7 of the Dayton Agreement",
+      "label": "Wikipedia. Annex 7 of the Dayton Agreement",
       "url": "https://en.wikipedia.org/wiki/Annex_7_of_the_Dayton_Agreement"
     }
   },
   "authenticListen": {
-    "title": "Čuj Bosnu: living-room furniture words",
+    "title": "Čuj Bosnu. Living-room furniture words",
     "kind": "speaker",
     "hook": "Hear furniture and room vocabulary from the How to speak Bosnian channel.",
     "source": {
-      "title": "HOW TO SPEAK BOSNIAN   Living Room Furniture",
+      "title": "HOW TO SPEAK BOSNIAN Living Room Furniture",
       "artistOrSpeaker": "How to speak Bosnian",
       "regionOrScene": "Home / living room",
       "license": "YouTube Terms of Service (embed)",

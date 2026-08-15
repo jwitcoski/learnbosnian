@@ -129,7 +129,7 @@
   "grammar": [
     {
       "title": "Govorim bosanski",
-      "explanation": "Focus on the spoken chunk; postpone the full paradigm. Use govorim to say which language you speak. Bosnian language names usually follow the verb without an article. Replace bosanski with engleski when you describe English.",
+      "explanation": "Focus on the spoken chunk. Postpone the full paradigm. Use govorim to say which language you speak. Bosnian language names usually follow the verb without an article. Replace bosanski with engleski when you describe English.",
       "examples": [
         {
           "bosnian": "Govorim bosanski.",
@@ -147,7 +147,7 @@
     },
     {
       "title": "Odakle si?",
-      "explanation": "Learn this as a phrase, not a table. Ask Odakle si? when you want to know where someone is from. Answer with Ja sam iz followed by a place. A place answer shares useful information without forcing a larger identity label.",
+      "explanation": "Learn this as a full phrase. Do not treat it as a table. Ask Odakle si? when you want to know where someone is from. Answer with Ja sam iz followed by a place. A place answer shares useful information without forcing a larger identity label.",
       "examples": [
         {
           "bosnian": "Odakle si?",
@@ -190,7 +190,7 @@
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A: Ask about place and language",
+      "title": "Lesson A. Ask about place and language",
       "body": "Begin with two questions that let another person choose how much to share. Odakle si? asks where someone is from, while Govoriš li bosanski? asks whether the person speaks Bosnian. Ana answers Ja sam iz Amerike and adds Učim bosanski. Emir answers Ja sam iz Sarajeva and says Govorim bosanski. Practice the city or country answer that is true for you. Then name a language you speak, study, or want to learn. The answer remains yours. These patterns are useful because they focus on personal experience. They do not require you to guess a stranger's identity from a name, accent, religion, or appearance.",
       "tips": [
         "Let each person choose the place name that best answers Odakle si?",
@@ -200,7 +200,7 @@
     },
     {
       "id": "b",
-      "title": "Lesson B: Talk about people with care",
+      "title": "Lesson B. Talk about people with care",
       "body": "Add ljudi, zemlja, jezik, narod, and ko to widen the conversation. Bosanac and Bosanka can describe a Bosnian man or woman, while Amerikanka describes Ana as an American woman. These words are useful, but no single label tells a person's whole story. Emir explains that people in Bosnia and Herzegovina have many names for themselves and may emphasize a city, region, community, or language. Ana keeps her questions simple and listens to the answer. Use Ko govori bosanski? in a classroom or café, then answer with a complete sentence. The best practice combines accurate grammar with room for personal choice.",
       "tips": [
         "Treat nationality words as options that people may use for themselves.",
@@ -617,7 +617,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABr%C4%8Dansko_%C5%A1etali%C5%A1te.jpg",
       "author": "Vladanovski",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on photo: Brčansko šetalište.jpg. Vladanovski / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on the photo Brčansko šetalište.jpg. Vladanovski / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "brcko-mosque",
@@ -627,7 +627,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABijela_d%C5%BEamija_Br%C4%8Dko2.jpg",
       "author": "Vrtleska225",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on photo: Bijela džamija Brčko2.jpg. Vrtleska225 / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on the photo Bijela džamija Brčko2.jpg. Vrtleska225 / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "brcko-city",
@@ -637,7 +637,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABr%C4%8Dko_no%C4%87u.jpg",
       "author": "ChillZone420",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on photo: Brčko noću.jpg. ChillZone420 / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Polygon painting based on the photo Brčko noću.jpg. ChillZone420 / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "civic-brcko-map",
@@ -647,7 +647,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABrcko_District_in_Bosnia_and_Herzegovina.svg",
       "author": "TUBS",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on photo: Brcko District in Bosnia and Herzegovina.svg. TUBS / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Polygon painting based on the photo Brcko District in Bosnia and Herzegovina.svg. TUBS / Wikimedia Commons (CC BY-SA 3.0)"
     }
   ],
   "imagesNeeded": false,

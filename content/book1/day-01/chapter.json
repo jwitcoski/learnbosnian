@@ -142,7 +142,7 @@
   "grammar": [
     {
       "title": "The full Latin Bosnian alphabet",
-      "explanation": "Learn this as a phrase, not a table. Bosnian in this course uses the Latin script only. There is no Cyrillic here. There are 30 letters. Most match English shapes, and a few need extra care. Say the full order out loud. The letters are A B C Č Ć D Dž Đ E F G H I J K L Lj M N Nj O P R S Š T U V Z Ž.",
+      "explanation": "Learn this as a full phrase. Do not treat it as a table. Bosnian in this course uses the Latin script only. There is no Cyrillic here. There are 30 letters. Most match English shapes, and a few need extra care. Say the full order out loud. The letters are A B C Č Ć D Dž Đ E F G H I J K L Lj M N Nj O P R S Š T U V Z Ž.",
       "examples": [
         {
           "bosnian": "A a",
@@ -286,7 +286,7 @@
     },
     {
       "title": "Greeting exchanges",
-      "explanation": "Say the whole line together; skip the full chart for now. Start simple. Say a greeting, hear one back, then add hvala or molim. Formal day greetings use dobar dan; friends often say zdravo.",
+      "explanation": "Say the whole line together. Skip the full chart for now. Start simple. Say a greeting, hear one back, then add hvala or molim. Formal day greetings use dobar dan. Friends often say zdravo.",
       "examples": [
         {
           "bosnian": "Zdravo!",
@@ -305,13 +305,13 @@
   ],
   "culture": {
     "title": "Baščaršija, Sarajevo’s old heart",
-    "body": "Baščaršija is the historic bazaar of Sarajevo: narrow streets, copper shops, cafés, and the sound of footsteps on stone. Ana arrives with a backpack and a phrase list. Shopkeepers greet visitors with a warm Dobar dan! Learning greetings here is not just polite. It opens doors (and often a free smile). The special letters in Baščaršija (š, č) are your first real Bosnian workout.",
+    "body": "Baščaršija is the historic bazaar of Sarajevo. Narrow streets, copper shops, cafés, and the sound of footsteps on stone. Ana arrives with a backpack and a phrase list. Shopkeepers greet visitors with a warm Dobar dan! Learning greetings here is not just polite. It opens doors (and often a free smile). The special letters in Baščaršija (š, č) are your first real Bosnian workout.",
     "imageId": "bascarsija"
   },
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A: Walk the full alphabet",
+      "title": "Lesson A. Walk the full alphabet",
       "body": "Say the whole Latin Bosnian alphabet out loud once. The letters are A B C Č Ć D Dž Đ E F G H I J K L Lj M N Nj O P R S Š T U V Z Ž. That is thirty letters. Digraphs Dž, Lj, and Nj are single alphabet letters even though they look like two characters. Now zoom in on the ones English does not have. Practice Č č like church, Ć ć a bit softer and shorter, Dž dž like jam, Đ đ a softer j, Š š like ship, and Ž ž like the s in measure, plus Lj lj and Nj nj. Practice the words čaj, ćup, džezva, đak, šuma, žena, ljubav for love, and njega for care. Ana drills them on the plane, then spots Baščaršija on a sign and finally hears the letters in a real street name.",
       "tips": [
         "Do not skip the boring letters. C sounds like ts, and J sounds like English Y.",
@@ -321,18 +321,18 @@
     },
     {
       "id": "b",
-      "title": "Lesson B: Your first greetings",
+      "title": "Lesson B. Your first greetings",
       "body": "Memorize this mini set as full words. Zdravo means hi. Dobar dan means good day. Dobro jutro means good morning. Dobra večer means good evening. Hvala means thanks. Molim means please or you are welcome. Doviđenja means goodbye. Da means yes. Ne means no. Use Dobar dan with people you do not know well. Use Zdravo with friends, or with Emir once you meet him tomorrow. Notice that doviđenja needs đ and večer needs č. Write the special letters carefully when you practice.",
       "tips": [
         "A smile helps more than perfect pronunciation.",
-        "Learn each greeting as a ready chunk, not a grammar puzzle.",
+        "Learn each greeting as a ready chunk. Do not treat it as a grammar puzzle.",
         "If you forget, Hvala still works almost everywhere."
       ]
     }
   ],
   "conversation": {
     "title": "Ana’s first hello",
-    "setting": "A narrow street in Baščaršija. Ana nearly trips over a cat: Mrvica, though she does not know the name yet.",
+    "setting": "A narrow street in Baščaršija. Ana nearly trips over a cat. Mrvica, though she does not know the name yet.",
     "lines": [
       {
         "speaker": "Ana",
@@ -447,7 +447,7 @@
     },
     {
       "id": "pr4",
-      "prompt": "Translate: Thank you!",
+      "prompt": "Translate. Thank you!",
       "hint": "One word",
       "answer": "hvala"
     },
@@ -473,7 +473,7 @@
   "funFacts": [
     {
       "title": "Baščaršija means main market",
-      "body": "Baščaršija is not just a pretty old-town label. The name comes from Turkish roots for the chief marketplace. Craft shops, cafés, and copper work still fill those streets today. When Ana learns greetings here, she is practicing language in a living market, not a museum set."
+      "body": "Baščaršija is not just a pretty old-town label. The name comes from Turkish roots for the chief marketplace. Craft shops, cafés, and copper work still fill those streets today. When Ana learns greetings here, she is practicing language in a living market rather than a museum set."
     },
     {
       "title": "One letter, one sound",
@@ -491,7 +491,7 @@
       "note": "Companion videos for each chapter after human review"
     },
     {
-      "label": "Map: Sarajevo old town",
+      "label": "Map. Sarajevo old town",
       "url": "https://www.openstreetmap.org/#map=16/43.859/18.431",
       "note": "Find Baščaršija before your next lesson"
     }
@@ -614,7 +614,7 @@
           "a vs e"
         ],
         "correctIndex": 1,
-        "explanation": "Č is harder; ć is softer. a classic beginner pair.",
+        "explanation": "Č is harder. Ć is softer. a classic beginner pair.",
         "skill": "grammar"
       }
     ]
@@ -738,7 +738,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Bascarsija.jpg",
       "author": "Kathleen Franklin",
       "license": "CC BY 2.0",
-      "credit": "Based on photo: Baščaršija, Sarajevo. Kathleen Franklin / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Based on the photo Baščaršija, Sarajevo. Kathleen Franklin / Wikimedia Commons (CC BY 2.0)"
     },
     {
       "id": "sebilj",
@@ -748,7 +748,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Sebilj,_Sarajevo.jpg",
       "author": "BloodSaric",
       "license": "CC BY-SA 2.5",
-      "credit": "Based on photo: Sebilj fountain, Sarajevo. BloodSaric / Wikimedia Commons (CC BY-SA 2.5)"
+      "credit": "Based on the photo Sebilj fountain, Sarajevo. BloodSaric / Wikimedia Commons (CC BY-SA 2.5)"
     },
     {
       "id": "gazi-mosque",
@@ -758,7 +758,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Gazi_Husrev-begova_medresa_2015.jpg",
       "author": "Mattan",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Gazi Husrev-beg complex, Sarajevo. Mattan / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Based on the photo Gazi Husrev-beg complex, Sarajevo. Mattan / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "civic-ohr",
@@ -768,7 +768,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Office_of_the_High_Representative_for_Bosnia_and_Herzegovina,_Sarajevo.jpg",
       "author": "Niegodzisie",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Office of the High Representative, Sarajevo. Niegodzisie / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Based on the photo Office of the High Representative, Sarajevo. Niegodzisie / Wikimedia Commons (CC BY-SA 4.0)"
     }
   ],
   "imagesNeeded": false,
@@ -778,12 +778,12 @@
     "body": "Bosnia and Herzegovina still has an internationally appointed High Representative with powers that can override local politics. The Office of the High Representative was created after the 1995 Dayton Peace Agreement to oversee civilian implementation of the deal. Under the Bonn Powers, that office can impose laws and remove public officials. In plain terms, final legal authority does not always rest with voters and elected institutions alone.",
     "imageId": "civic-ohr",
     "learnMore": {
-      "label": "Wikipedia: High Representative for Bosnia and Herzegovina",
+      "label": "Wikipedia. High Representative for Bosnia and Herzegovina",
       "url": "https://en.wikipedia.org/wiki/High_Representative_for_Bosnia_and_Herzegovina"
     }
   },
   "authenticListen": {
-    "title": "Čuj Bosnu: Bembaša sings Sarajevo",
+    "title": "Čuj Bosnu. Bembaša sings Sarajevo",
     "kind": "song",
     "hook": "Leave the studio voice for a classic Sarajevo sevdah. Himzo Polovina sings Kad ja pođoh na Bembašu.",
     "source": {

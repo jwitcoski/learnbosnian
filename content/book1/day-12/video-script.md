@@ -4,9 +4,9 @@
 **Status:** Export when the chapter is `published`.
 
 ## Thumbnail text
-- EN: Lesson 12: Let's go to the park
-- BS: Idemo u park
-- Background: Water and trees at Vrelo Bosne.
+- EN. Lesson 12. Let's go to the park
+- BS. Idemo u park
+- Background. Water and trees at Vrelo Bosne.
 
 ## Narration and on-screen cues
 
@@ -22,11 +22,11 @@
 **Narration:** Vrelo Bosne lies near Ilidža at the foot of Mount Igman. Clear springs gather here and begin the Bosna River.
 **On screen:** Vrelo Bosne | Ilidža | image credits
 
-### 3:00 Lesson A: Go for a walk
+### 3:00 Lesson A. Go for a walk
 **Narration:** Use idem for yourself, ideš for one person you address, and idemo for the group. Add u park when the park is your destination.
 **On screen:** Idem u park. | Ideš li? | Idemo.
 
-### 5:00 Lesson B: Invite and respond
+### 5:00 Lesson B. Invite and respond
 **Narration:** Say Hajde da idemo when you suggest going together. Ask Hoćeš li šetati? when you want to offer a walk.
 **On screen:** Hajde da idemo. | Hoćeš li šetati?
 
@@ -40,5 +40,5 @@
 
 ## End screen
 - Link to website `/learn/lesson/12`
-- Playlist: Learn Bosnian Book 1
+- Playlist. Learn Bosnian Book 1
 - Image credits appear in the description.

@@ -161,7 +161,7 @@
     },
     {
       "title": "Neuter weather descriptions",
-      "explanation": "Memorize the phrase shape; leave the full table for later. Bosnian often describes the weather with a neuter adjective followed by je. Say Hladno je, Toplo je, or Oblačno je. These short sentences do not need a separate word for it.",
+      "explanation": "Memorize the phrase shape. Leave the full table for later. Bosnian often describes the weather with a neuter adjective followed by je. Say Hladno je, Toplo je, or Oblačno je. These short sentences do not need a separate word for it.",
       "examples": [
         {
           "bosnian": "Hladno je.",
@@ -179,7 +179,7 @@
     },
     {
       "title": "Pada kiša and pada snijeg",
-      "explanation": "Take this as a speaking chunk, not a case chart. Use pada with rain or snow to describe what is falling. Say Pada kiša for rain and Pada snijeg for snow. Keep each pair together so you can report a sudden change quickly.",
+      "explanation": "Take this as a speaking chunk. Do not memorize a case chart yet. Use pada with rain or snow to describe what is falling. Say Pada kiša for rain and Pada snijeg for snow. Keep each pair together so you can report a sudden change quickly.",
       "examples": [
         {
           "bosnian": "Pada kiša.",
@@ -204,7 +204,7 @@
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A: Weather and season words",
+      "title": "Lesson A. Weather and season words",
       "body": "Start with vrijeme, sunce, kiša, snijeg, and vjetar. Then add the four seasons, which are proljeće, ljeto, jesen, and zima. Look at the Trebević view and describe what you can actually see. Say Sunčano je when the sky is bright, Oblačno je when clouds cover it, and Hladno je when the mountain air bites. Ana packs for warm autumn sun, but Emir notices the wind. Their different guesses turn the vocabulary into a real forecast. The mountain gives each term a visible reference. Repeat each weather sentence aloud, then choose one season and describe its usual conditions in two short Bosnian sentences.",
       "tips": [
         "Keep vrijeme and Kakvo je vrijeme? together as a useful question pattern.",
@@ -214,7 +214,7 @@
     },
     {
       "id": "b",
-      "title": "Lesson B: Report a changing forecast",
+      "title": "Lesson B. Report a changing forecast",
       "body": "Build a weather report from short, complete sentences. Ask Kakvo je vrijeme? and answer Toplo je, Hladno je, Sunčano je, or Oblačno je. When something begins to fall, switch to Pada kiša or Pada snijeg. Ana looks at one patch of blue sky and declares success, but the clouds cross Trebević before lunch. Emir hears the first drops and says Pada kiša. The picnic moves under shelter while Mrvica, safely at home, avoids the entire problem. A quick update keeps the group prepared. Practice changing your report from sun to cloud to rain so the phrases become quick enough for a real conversation.",
       "tips": [
         "Use a neuter adjective because vrijeme is a neuter noun.",
@@ -647,7 +647,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATrebevi%C4%87_Cable_Car_in_Sarajevo_01.jpg",
       "author": "Adam Harangozó",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on photo: Trebević Cable Car in Sarajevo 01.jpg. Adam Harangozó / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on the photo Trebević Cable Car in Sarajevo 01.jpg. Adam Harangozó / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "trebevic-view",
@@ -657,7 +657,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_from_the_cable_car.jpg",
       "author": "MarinaSimic",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on photo: Sarajevo from the cable car.jpg. MarinaSimic / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on the photo Sarajevo from the cable car.jpg. MarinaSimic / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "jahorina",
@@ -667,7 +667,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AJahorina_mountain_2018.jpg",
       "author": "EXIT Photo Team",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on photo: Jahorina mountain 2018.jpg. EXIT Photo Team / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Polygon painting based on the photo Jahorina mountain 2018.jpg. EXIT Photo Team / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "civic-sarajevo-bowl",
@@ -677,7 +677,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_%E2%80%93_Cable_Car_and_bypass.jpg",
       "author": "Julian Nyča",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on photo: Sarajevo Cable Car and bypass.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Polygon painting based on the photo Sarajevo Cable Car and bypass.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
     }
   ],
   "imagesNeeded": false,

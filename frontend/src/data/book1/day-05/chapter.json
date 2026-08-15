@@ -3,7 +3,7 @@
   "book": 1,
   "title": "Gdje je Mostar?",
   "titleEn": "Where is Mostar?",
-  "theme": "Map of Bosnia and Herzegovina; Mostar tease",
+  "theme": "Map of Bosnia and Herzegovina. Mostar tease",
   "status": "draft",
   "reviewedAt": null,
   "reviewerNotes": "Full draft to Lesson 1 exemplar bar. ready for human review before publish.",
@@ -128,7 +128,7 @@
   "grammar": [
     {
       "title": "Gdje je…?",
-      "explanation": "Learn this as a phrase, not a table. Gdje? means where. Pair it with je for a ready question. Ask Gdje je Mostar? Ask Gdje je mapa? Ask Gdje je Amira?",
+      "explanation": "Learn this as a full phrase. Do not treat it as a table. Gdje? means where. Pair it with je for a ready question. Ask Gdje je Mostar? Ask Gdje je mapa? Ask Gdje je Amira?",
       "examples": [
         {
           "bosnian": "Gdje je Mostar?",
@@ -164,7 +164,7 @@
     },
     {
       "title": "U / na / kod. say them as chunks",
-      "explanation": "Say the whole line together; skip the full chart for now. Memorize useful place lines before full case tables. U Sarajevu = in Sarajevo. Na mapi = on the map. Kod Amire = at Amira’s. Na jugu = in the south. Learn the whole chunk; morphology details come later.",
+      "explanation": "Say the whole line together. Skip the full chart for now. Memorize useful place lines before full case tables. U Sarajevu = in Sarajevo. Na mapi = on the map. Kod Amire = at Amira’s. Na jugu = in the south. Learn the whole chunk. Morphology details come later.",
       "examples": [
         {
           "bosnian": "U Sarajevu.",
@@ -189,7 +189,7 @@
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A: Gdje / ovdje / tamo",
+      "title": "Lesson A. Gdje / ovdje / tamo",
       "body": "Ask Gdje je…? about anything on the table, such as mapa, kahva, or Mrvica. Answer Ovdje! when it is near. Answer Tamo! when you point away. Add city names. Ask Gdje je Sarajevo? and answer Ovdje. Ask Gdje je Mostar? and answer Tamo. Drill ten times with a finger on an imaginary map. Emir makes Ana point south for Mostar every time she asks.",
       "tips": [
         "Ask with Gdje je plus a place.",
@@ -198,7 +198,7 @@
     },
     {
       "id": "b",
-      "title": "Lesson B: On the map of Bosnia and Herzegovina",
+      "title": "Lesson B. On the map of Bosnia and Herzegovina",
       "body": "Open the map. Say Na mapi. Find Sarajevo and say U Sarajevu. Add ovdje. Find Mostar and say Mostar je tamo, na jugu. Name the river and bridge as story bait. Say Neretva je rijeka. Say Stari most. Then place yourselves. Say Mi smo kod Amire, u Sarajevu. Emir grins and says Mostar? Uskoro. Ana writes Gdje je Mostar? in her notebook and draws a tiny bridge.",
       "tips": [
         "Keep u Sarajevu, na mapi, kod Amire, and na jugu ready.",
@@ -331,7 +331,7 @@
     },
     {
       "id": "pr4",
-      "prompt": "Type the question: Where is Mostar? (include ?)",
+      "prompt": "Type the question. Where is Mostar? (include ?)",
       "hint": "Gdje je…?",
       "answer": "Gdje je Mostar?"
     },
@@ -385,7 +385,7 @@
       "note": "Companion video for Lesson 5"
     },
     {
-      "label": "Next: Lesson 6: Koliko je sati?",
+      "label": "Next. Lesson 6. Koliko je sati?",
       "url": "/learn/lesson/6",
       "note": "Clock time and the city’s daily rhythm"
     },
@@ -422,7 +422,7 @@
           "Bridge"
         ],
         "correctIndex": 1,
-        "explanation": "Ovdje = here; tamo = there.",
+        "explanation": "Ovdje = here. Tamo = there.",
         "skill": "culture"
       },
       {
@@ -513,7 +513,7 @@
           "fildžan"
         ],
         "correctIndex": 1,
-        "explanation": "Grad = city; Sarajevo je grad.",
+        "explanation": "Grad = city. Sarajevo je grad.",
         "skill": "culture"
       }
     ]
@@ -613,7 +613,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnia_and_Herzegovina_location_map.svg",
       "author": "NordNordWest",
       "license": "CC BY-SA 3.0",
-      "credit": "Based on map: Bosnia and Herzegovina location map. NordNordWest / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Based on map. Bosnia and Herzegovina location map. NordNordWest / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "stari-most-tease",
@@ -623,7 +623,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Stari_Most_Mostar_Bosnia_and_Herzegovina.jpg",
       "author": "Djani Behram",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Stari Most, Mostar. Djani Behram / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Based on the photo Stari Most, Mostar. Djani Behram / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "neretva-valley",
@@ -633,7 +633,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Mostar_Old_Town_Panorama_2007.jpg",
       "author": "Ramirez",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Mostar Old Town panorama. Ramirez / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Based on the photo Mostar Old Town panorama. Ramirez / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "civic-mostar-gov",
@@ -643,7 +643,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Mostar_Old_Town_Panorama_2007.jpg",
       "author": "Ramirez",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Mostar Old Town panorama. Ramirez / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Based on the photo Mostar Old Town panorama. Ramirez / Wikimedia Commons (CC BY-SA 4.0)"
     }
   ],
   "imagesNeeded": false,
@@ -653,12 +653,12 @@
     "body": "Mostar is a map lesson and a civic warning at the same time. Disputes over ethnically engineered election rules left the city without local elections from 2008 to 2020. Ordinary municipal democracy froze while courts and politicians fought over power-sharing formulas. Asking where Mostar is on the map also means remembering that postwar rules can stop a city from voting for more than a decade.",
     "imageId": "civic-mostar-gov",
     "learnMore": {
-      "label": "Wikipedia: Mostar",
+      "label": "Wikipedia. Mostar",
       "url": "https://en.wikipedia.org/wiki/Mostar"
     }
   },
   "authenticListen": {
-    "title": "Čuj Bosnu: Mostar on camera",
+    "title": "Čuj Bosnu. Mostar on camera",
     "kind": "speaker",
     "hook": "Travel talk names places. Walk Mostar and Stari Most with a 4K tour and listen for place atmosphere.",
     "source": {

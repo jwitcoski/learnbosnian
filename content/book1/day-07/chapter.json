@@ -37,7 +37,7 @@
       "english": "photo (short / casual)",
       "pronunciation": "FO-to",
       "partOfSpeech": "noun",
-      "example": "Jedna foto: Sebilj."
+      "example": "Jedna foto. Sebilj."
     },
     {
       "bosnian": "priča",
@@ -99,7 +99,7 @@
   "grammar": [
     {
       "title": "Remember. biti and possessives",
-      "explanation": "Memorize the phrase shape; leave the full table for later. Core so far includes Ja sam Ana, Ti si Emir, and On je or Ona je. Pair those with possessives. Say Moj prijatelj. Say Moja prijateljica.",
+      "explanation": "Memorize the phrase shape. Leave the full table for later. Core so far includes Ja sam Ana, Ti si Emir, and On je or Ona je. Pair those with possessives. Say Moj prijatelj. Say Moja prijateljica.",
       "examples": [
         {
           "bosnian": "Ja sam Ana. Ti si Emir.",
@@ -111,13 +111,13 @@
         },
         {
           "bosnian": "Moja mačka: Mrvica!",
-          "english": "My cat: Mrvica!"
+          "english": "My cat. Mrvica!"
         }
       ]
     },
     {
       "title": "Remember. where and when",
-      "explanation": "Take this as a speaking chunk, not a case chart. For place, keep Gdje je…?, Ovdje, Tamo, U Sarajevu, and Kod Amire ready. For time, keep Koliko je sati?, danas, sutra, and a weekday ready. Put them in one diary line. Say Danas sam kod Amire.",
+      "explanation": "Take this as a speaking chunk. Do not memorize a case chart yet. For place, keep Gdje je…?, Ovdje, Tamo, U Sarajevu, and Kod Amire ready. For time, keep Koliko je sati?, danas, sutra, and a weekday ready. Put them in one diary line. Say Danas sam kod Amire.",
       "examples": [
         {
           "bosnian": "Gdje je Mostar? Tamo.",
@@ -136,13 +136,13 @@
   ],
   "culture": {
     "title": "A diary, then postcards from farther out",
-    "body": "Ana can caption Sebilj and kahva now. Emir refuses to let the review shrink Bosnia and Herzegovina to two postcard cities. He adds three images from across the country: the Pliva waterfall at Jajce, where a river falls through the town; the Blagaj tekija under a cliff at the Buna spring; and Počitelj’s stone houses stacked above the Neretva valley. Review the language first. Then aim your next sutra at a wider map. The café is home base. The classroom is the whole country.",
+    "body": "Ana can caption Sebilj and kahva now. Emir refuses to let the review shrink Bosnia and Herzegovina to two postcard cities. He adds three images from across the country. The Pliva waterfall at Jajce, where a river falls through the town. The Blagaj tekija under a cliff at the Buna spring. And Počitelj’s stone houses stacked above the Neretva valley. Review the language first. Then aim your next sutra at a wider map. The café is home base. The classroom is the whole country.",
     "imageId": "jajce-pliva"
   },
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A: Recycle the toolkit",
+      "title": "Lesson A. Recycle the toolkit",
       "body": "This review is a frame drill for Section 1. Run a rapid fire drill without notes. Say Zdravo! Say Ja sam… Say Drago mi je. Say Kahvu, molim. Ask Koliko? Say Moj brat. Say Moja sestra. Ask Gdje je mapa? Answer Ovdje. Answer Tamo. Ask Koliko je sati? Say Danas. Say Sutra. Emir times Ana for two minutes. Misses are fine. Laugh, repeat, and move on. Circle three weak words and write them once with the correct letters.",
       "tips": [
         "Speed first, then one careful rewrite.",
@@ -151,7 +151,7 @@
     },
     {
       "id": "b",
-      "title": "Lesson B: Photo diary captions",
+      "title": "Lesson B. Photo diary captions",
       "body": "Caption six lines for skills from Lessons 1 to 6. Then add three place lines Emir teaches as teases. Write Jajce, vodopad. Write Blagaj, Buna. Write Počitelj, stari grad. Glue them with Gdje je…? and Tamo. Share the diary at the table. Amira closes the lesson with Hvala, and sutra! Lesson 8 will bring burek and more of the map.",
       "tips": [
         "Lines from Lessons 1 to 6 come first, then three new place names.",
@@ -166,7 +166,7 @@
       {
         "speaker": "Ana",
         "bosnian": "Ovo je moja sedmica. Foto: kahva kod Amire!",
-        "english": "This is my week. Photo: coffee at Amira’s!"
+        "english": "This is my week. Photo. Coffee at Amira’s!"
       },
       {
         "speaker": "Emir",
@@ -272,7 +272,7 @@
     },
     {
       "id": "pr2",
-      "prompt": "Type: I am Ana.",
+      "prompt": "Type. I am Ana.",
       "hint": "Ja sam…",
       "answer": "Ja sam Ana"
     },
@@ -290,7 +290,7 @@
     },
     {
       "id": "pr5",
-      "prompt": "Type: Where is Mostar? (include ?)",
+      "prompt": "Type. Where is Mostar? (include ?)",
       "hint": "Gdje je…?",
       "answer": "Gdje je Mostar?"
     },
@@ -338,7 +338,7 @@
       "note": "Companion video for Lesson 7"
     },
     {
-      "label": "Next: Lesson 8: Volim burek",
+      "label": "Next. Lesson 8. Volim burek",
       "url": "/learn/lesson/8",
       "note": "Food begins with volim and ne volim"
     },
@@ -375,7 +375,7 @@
           "danas / sutra / petak"
         ],
         "correctIndex": 0,
-        "explanation": "Biti in : sam, si, je (Lesson 2).",
+        "explanation": "Biti in. Sam, si, je (Lesson 2).",
         "skill": "dialogue"
       },
       {
@@ -427,7 +427,7 @@
           "Thursday"
         ],
         "correctIndex": 1,
-        "explanation": "Ovdje = here; tamo = there (Lesson 5).",
+        "explanation": "Ovdje = here. Tamo = there (Lesson 5).",
         "skill": "vocabulary"
       },
       {
@@ -568,7 +568,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Pliva_Waterfall_in_Jajce_02.jpg",
       "author": "Adam Harangozó",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Pliva Waterfall in Jajce. Adam Harangozó / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Based on the photo Pliva Waterfall in Jajce. Adam Harangozó / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "blagaj-tekija",
@@ -578,7 +578,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Tekija_Blagaj_-_Vrelo_Bune.jpg",
       "author": "Yakamooda",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on photo: Tekija Blagaj at the Buna spring. Yakamooda / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Based on the photo Tekija Blagaj at the Buna spring. Yakamooda / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "pocitelj",
@@ -588,7 +588,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Po%C4%8Ditelj_-_pano.jpg",
       "author": "Pudelek (Marcin Szala)",
       "license": "CC BY-SA 3.0",
-      "credit": "Based on photo: Počitelj panorama. Pudelek (Marcin Szala) / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Based on the photo Počitelj panorama. Pudelek (Marcin Szala) / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "civic-dayton-map",
@@ -598,7 +598,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnia_and_Herzegovina_location_map.svg",
       "author": "NordNordWest",
       "license": "CC BY-SA 3.0",
-      "credit": "Based on map: Bosnia and Herzegovina location map. NordNordWest / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Based on map. Bosnia and Herzegovina location map. NordNordWest / Wikimedia Commons (CC BY-SA 3.0)"
     }
   ],
   "imagesNeeded": false,
@@ -608,12 +608,12 @@
     "body": "Bosnia and Herzegovina’s postwar constitution makes national decision-making easy to block. Dayton divided the country into two entities, the Federation of Bosnia and Herzegovina and Republika Srpska, and many state decisions require agreement across that structure. The design helped stop the war, but it also lets obstruction at entity level delay reforms needed for EU accession. Language practice can move every day, while the constitutional machine can still freeze the country in place.",
     "imageId": "civic-dayton-map",
     "learnMore": {
-      "label": "Wikipedia: Political divisions of Bosnia and Herzegovina",
+      "label": "Wikipedia. Political divisions of Bosnia and Herzegovina",
       "url": "https://en.wikipedia.org/wiki/Political_divisions_of_Bosnia_and_Herzegovina"
     }
   },
   "authenticListen": {
-    "title": "Čuj Bosnu: Bosno moja for section one",
+    "title": "Čuj Bosnu. Bosno moja for section one",
     "kind": "song",
     "hook": "Close the section with a classic love-of-Bosnia sevdah. Beba Selimović sings Bosno moja, divna, mila.",
     "source": {

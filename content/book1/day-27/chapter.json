@@ -3,27 +3,27 @@
   "book": 1,
   "title": "Posao i škola",
   "titleEn": "Work and school",
-  "theme": "Emir’s job; Ana’s study plan",
+  "theme": "Emir’s job. Ana’s study plan",
   "status": "outlined",
   "reviewedAt": null,
   "reviewerNotes": "",
   "estimatedMinutes": 60,
-  "storyBeat": "Emir’s guide job; Ana’s study plan",
+  "storyBeat": "Emir’s guide job. Ana’s study plan",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 27: Work/school, daily routine"
+      "Coming night 27. Work/school, daily routine"
     ],
     "grammar": [
       "To be filled on draft night"
     ],
     "culture": [
-      "Emir’s job; Ana’s study plan"
+      "Emir’s job. Ana’s study plan"
     ]
   },
   "vocabulary": [],
   "grammar": [],
   "culture": {
-    "title": "Emir’s job; Ana’s study plan",
+    "title": "Emir’s job. Ana’s study plan",
     "body": "Stub for Lesson 27. Full culture hook will be written on the draft night.",
     "imageId": null
   },
@@ -52,7 +52,7 @@
   "images": [],
   "imagesNeeded": true,
   "imageBriefs": [
-    "Photo related to: Emir’s job; Ana’s study plan"
+    "Photo related to. Emir’s job. Ana’s study plan"
   ],
   "section": 4
 }

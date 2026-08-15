@@ -199,16 +199,16 @@
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A: Food words on the tray",
+      "title": "Lesson A. Food words on the tray",
       "body": "Start with the classics on the tray. Burek is the meat pastry. Sirnica is the cheese pita. Zeljanica is the greens pita. Pita is the general word for a phyllo pie. Add hljeb, jogurt, meso, sir, voće, and povrće next. Say each word twice. Spell bread as hljeb, with lj, the way Bosnian usually writes it. Emir points at the tray and refuses the tourist trap sentence burek sa sirom. In Bosnian that fight is real. Burek comes with meat.",
       "tips": [
         "Burek is meat. Sirnica is cheese. Zeljanica is greens.",
-        "Type hljeb with lj, not a soft English h-leb guess"
+        "Type hljeb with lj rather than a soft English h-leb guess"
       ]
     },
     {
       "id": "b",
-      "title": "Lesson B: Volim / ne volim at the counter",
+      "title": "Lesson B. Volim / ne volim at the counter",
       "body": "Build your counter phrases as full sentences. Say Volim burek. Say Volim sirnicu. Say Ne volim luk. Ana says Ja sam gladna. Emir says Ja sam gladan. Finish with Ukusno! and Dobar tek! Ana tries a too-hot bite, drops flakes on Mrvica, and still finishes the sentence. Food disasters are allowed. Silent pointing is not the goal.",
       "tips": [
         "Keep the chunks Volim, Ne volim, and Dobar tek ready",
@@ -294,7 +294,7 @@
     {
       "id": "p2",
       "type": "truefalse",
-      "title": "True or false: food rules",
+      "title": "True or false. Food rules",
       "prompt": "Mark each sentence true or false for Bosnian usage in this lesson.",
       "items": [
         {
@@ -373,11 +373,11 @@
     },
     {
       "title": "Livanjski sir",
-      "body": "Livno is famous for highland cheese, not only for mountain views. Livanjski sir comes from western Bosnia pastures with a long dairy tradition. Emir’s postcard uses that fame to pull Ana’s food map outside one city street. When you learn food words today, remember that dairy pride across Bosnia and Herzegovina has regional addresses."
+      "body": "Livno is famous for highland cheese rather than only for mountain views. Livanjski sir comes from western Bosnia pastures with a long dairy tradition. Emir’s postcard uses that fame to pull Ana’s food map outside one city street. When you learn food words today, remember that dairy pride across Bosnia and Herzegovina has regional addresses."
     },
     {
       "title": "Jogurt is a partner",
-      "body": "Warm burek often arrives with jogurt on purpose. The cool yogurt balances the hot pastry and slows the first bite. People treat the pair as a small everyday ritual, not a random side. If you order burek, expect jogurt to feel like part of the meal."
+      "body": "Warm burek often arrives with jogurt on purpose. The cool yogurt balances the hot pastry and slows the first bite. People treat the pair as a small everyday ritual rather than a random side. If you order burek, expect jogurt to feel like part of the meal."
     },
     {
       "title": "Mrvica tax",
@@ -391,7 +391,7 @@
       "note": "Companion video for Lesson 8"
     },
     {
-      "label": "Next: Lesson 9: U prodavnici",
+      "label": "Next. Lesson 9. U prodavnici",
       "url": "/learn/lesson/9",
       "note": "Shopping phrases with Emir"
     },
@@ -663,7 +663,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALivno.jpg",
       "author": "Golden Bosnian Lily",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on photo: Livno.jpg. Golden Bosnian Lily / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on the photo Livno.jpg. Golden Bosnian Lily / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "burek-tray",
@@ -673,7 +673,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABurek_photo_Moma_SM.jpg",
       "author": "photo Moma SM",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on photo: Burek photo Moma SM.jpg. photo Moma SM / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on the photo Burek photo Moma SM.jpg. photo Moma SM / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "livno-sir",
@@ -683,7 +683,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALivanjski_Cheese_with_label.JPG",
       "author": "Uniquenick",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on photo: Livanjski Cheese with label.JPG. Uniquenick / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on the photo Livanjski Cheese with label.JPG. Uniquenick / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "civic-livno-valley",
@@ -693,7 +693,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALivno_%2838263993931%29.jpg",
       "author": "Brian Eager from Livno, Bosnia and Herzegovina",
       "license": "CC BY 2.0",
-      "credit": "Polygon painting based on photo: Livno (38263993931).jpg. Brian Eager from Livno, Bosnia and Herzegovina / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Polygon painting based on the photo Livno (38263993931).jpg. Brian Eager from Livno, Bosnia and Herzegovina / Wikimedia Commons (CC BY 2.0)"
     }
   ],
   "imagesNeeded": false,
@@ -703,12 +703,12 @@
     "body": "Bosnia and Herzegovina’s food culture is local, but many grocery staples still come from abroad. After the war, fragmented farmland and weak agricultural investment slowed the recovery of domestic production. Bakeries and shops often stock flour, oil, dairy, and other basics from imports even while street pita culture thrives. Loving burek is part of daily life, and that daily life still depends on a supply chain that is only partly grown at home.",
     "imageId": "civic-livno-valley",
     "learnMore": {
-      "label": "Wikipedia: Agriculture in Bosnia and Herzegovina",
+      "label": "Wikipedia. Agriculture in Bosnia and Herzegovina",
       "url": "https://en.wikipedia.org/wiki/Agriculture_in_Bosnia_and_Herzegovina"
     }
   },
   "authenticListen": {
-    "title": "Čuj Bosnu: Dino Merlin sings Burek",
+    "title": "Čuj Bosnu. Dino Merlin sings Burek",
     "kind": "song",
     "hook": "A famous pop anthem stacks Bosnian food words. Listen for burek, pita, and the kitchen pride in the chorus.",
     "source": {

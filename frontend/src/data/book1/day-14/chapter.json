@@ -21,7 +21,7 @@
     ],
     "culture": [
       "Visit Banja Luka through Kastel Fortress, the Vrbas River, and Ferhadija Mosque.",
-      "Treat review night as frame practice, not a new grammar system."
+      "Treat review night as frame practice rather than a new grammar system."
     ]
   },
   "vocabulary": [
@@ -99,7 +99,7 @@
   "grammar": [
     {
       "title": "Remember your useful first-person verbs",
-      "explanation": "Say the whole line together; skip the full chart for now. Volim, želim, imam, and govorim let you say a great deal about yourself. Follow each verb with a familiar object or language chunk. Use them during the game to express a preference, a wish, a possession, or a language ability.",
+      "explanation": "Say the whole line together. Skip the full chart for now. Volim, želim, imam, and govorim let you say a great deal about yourself. Follow each verb with a familiar object or language chunk. Use them during the game to express a preference, a wish, a possession, or a language ability.",
       "examples": [
         {
           "bosnian": "Volim ovu igru.",
@@ -117,7 +117,7 @@
     },
     {
       "title": "Remember questions and invitations",
-      "explanation": "Hold this as a spoken pattern, not a grammar grid. Use Kakvo je vrijeme? to ask about weather, Hoćeš li? to offer a choice, and Hajde da to suggest a shared action. These patterns turn separate vocabulary lists into conversation. Choose the pattern that matches whether you need information, an answer, or group action.",
+      "explanation": "Hold this as a spoken pattern. Do not treat it as a grammar grid. Use Kakvo je vrijeme? to ask about weather, Hoćeš li? to offer a choice, and Hajde da to suggest a shared action. These patterns turn separate vocabulary lists into conversation. Choose the pattern that matches whether you need information, an answer, or group action.",
       "examples": [
         {
           "bosnian": "Kakvo je vrijeme?",
@@ -142,8 +142,8 @@
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A: Drill the core frames",
-      "body": "This review is a frame drill. Stay with four first-person forms: Volim, Želim, Imam, and Govorim. Draw a card and finish a complete sentence before you move. Useful answers include Volim sirnicu, Želim vodu, Imam malu sobu, and Govorim malo bosanski. Amira accepts only a full sentence. Speed does not beat accuracy. If a line is weak, say it još jednom with one word changed. The goal is automatic present-tense speech, not a new table.",
+      "title": "Lesson A. Drill the core frames",
+      "body": "This review is a frame drill. Stay with four first-person forms. Volim, Želim, Imam, and Govorim. Draw a card and finish a complete sentence before you move. Useful answers include Volim sirnicu, Želim vodu, Imam malu sobu, and Govorim malo bosanski. Amira accepts only a full sentence. Speed does not beat accuracy. If a line is weak, say it još jednom with one word changed. The goal is automatic present-tense speech rather than a new table.",
       "tips": [
         "Pick the frame by meaning first, then add one familiar object.",
         "Say the whole sentence aloud before you move a game piece.",
@@ -152,7 +152,7 @@
     },
     {
       "id": "b",
-      "title": "Lesson B: Switch questions under pressure",
+      "title": "Lesson B. Switch questions under pressure",
       "body": "Now switch frames the way real conversation switches. Ask Koliko košta? at the shop, Kakvo je vrijeme? for Trebević, Hoćeš li šetati? for the park, and Odakle si? over kahva. A room square needs an imam sentence. A food square needs volim or želim. Answer every question with a complete present-tense sentence. When Mrvica knocks the cards over, mix two topics in one short exchange. The review works when you can change frames without English coaching.",
       "tips": [
         "Hear the question word before you choose your answer frame.",
@@ -569,7 +569,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATvr%C4%91ava_Kastel_Banja_Luka.jpg",
       "author": "Biljana Latinović2",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on photo: Tvrđava Kastel Banja Luka.jpg. Biljana Latinović2 / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on the photo Tvrđava Kastel Banja Luka.jpg. Biljana Latinović2 / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "ferhadija",
@@ -579,7 +579,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ANKD138_Ferhadija_Dzamija_1.jpg",
       "author": "Samirzahirovic",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on photo: NKD138 Ferhadija Dzamija 1.jpg. Samirzahirovic / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on the photo NKD138 Ferhadija Dzamija 1.jpg. Samirzahirovic / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "vrbas",
@@ -589,7 +589,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVrbas_from_Kastel_Banja_Luka_2019.jpg",
       "author": "130309p",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on photo: Vrbas from Kastel Banja Luka 2019.jpg. 130309p / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on the photo Vrbas from Kastel Banja Luka 2019.jpg. 130309p / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "civic-emigration",
@@ -599,7 +599,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_International_Airport_%28SJJ%29.jpg",
       "author": "BiHVolim",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on photo: Sarajevo International Airport (SJJ).jpg. BiHVolim / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on the photo Sarajevo International Airport (SJJ).jpg. BiHVolim / Wikimedia Commons (CC BY-SA 4.0)"
     }
   ],
   "imagesNeeded": false,
@@ -657,7 +657,7 @@
           "english": "The singer's name is Dino Merlin."
         }
       ],
-      "teacherNote": "Success means catching an anchor word in natural music, not decoding the whole song."
+      "teacherNote": "Success means catching an anchor word in natural music rather than decoding the whole song."
     }
   },
   "speakTargets": [

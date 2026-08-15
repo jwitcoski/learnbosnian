@@ -142,7 +142,7 @@
   "grammar": [
     {
       "title": "Želim + object",
-      "explanation": "Focus on the spoken chunk; postpone the full paradigm. Želim means I want. Use it at the counter. Say Želim jabuku. Say Želim hljeb. Say Želim vodu. Feminine -a nouns often take -u in this chunk. Keep the list short and sayable.",
+      "explanation": "Focus on the spoken chunk. Postpone the full paradigm. Želim means I want. Use it at the counter. Say Želim jabuku. Say Želim hljeb. Say Želim vodu. Feminine -a nouns often take -u in this chunk. Keep the list short and sayable.",
       "examples": [
         {
           "bosnian": "Želim jabuku.",
@@ -160,7 +160,7 @@
     },
     {
       "title": "Molim and hvala",
-      "explanation": "Learn this as a phrase, not a table. Molim softens a request (Hljeb, molim.) and can also answer thank you as you’re welcome. Hvala is thank you. Stack them as Hvala! and Molim!",
+      "explanation": "Learn this as a full phrase. Do not treat it as a table. Molim softens a request (Hljeb, molim.) and can also answer thank you as you’re welcome. Hvala is thank you. Stack them as Hvala! and Molim!",
       "examples": [
         {
           "bosnian": "Hljeb, molim.",
@@ -203,8 +203,8 @@
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A: Shop words that move",
-      "body": "Learn the places first. Prodavnica is a shop. Pijaca is a market. Add kesa for a bag and novac for money. Then stock the basket with jabuka, banana, voda, and mlijeko, plus hljeb from the last lesson. Practice pointing and naming before you speak full sentences. Emir makes Ana say mlijeko with lj, not a soft English milk guess.",
+      "title": "Lesson A. Shop words that move",
+      "body": "Learn the places first. Prodavnica is a shop. Pijaca is a market. Add kesa for a bag and novac for money. Then stock the basket with jabuka, banana, voda, and mlijeko, plus hljeb from the last lesson. Practice pointing and naming before you speak full sentences. Emir makes Ana say mlijeko with lj rather than a soft English milk guess.",
       "tips": [
         "Prodavnica is a shop. Pijaca is a market.",
         "Type mlijeko with lj"
@@ -212,7 +212,7 @@
     },
     {
       "id": "b",
-      "title": "Lesson B: Želim, molim, hvala",
+      "title": "Lesson B. Želim, molim, hvala",
       "body": "Run the counter script as full sentences. Say Želim jabuku, molim. Ask Koliko košta? Finish with Hvala! Grab a kesa. Decide whether the price is jeftino or skupo. Ana almost pays with the wrong coins, Emir laughs, and Mrvica somehow appears near the fruit crate as if she has a loyalty card.",
       "tips": [
         "Keep Želim, molim, Koliko košta, and Hvala ready",
@@ -391,7 +391,7 @@
       "note": "Companion video for Lesson 9"
     },
     {
-      "label": "Next: Lesson 10: Moja soba",
+      "label": "Next. Lesson 10. Moja soba",
       "url": "/learn/lesson/10",
       "note": "Home words above Amira’s café"
     },
@@ -663,7 +663,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3APublic_fountain%2C_Tuzla%2C_Bosnia.jpg",
       "author": "Little Green Dragon",
       "license": "CC BY 2.0",
-      "credit": "Polygon painting based on photo: Public fountain, Tuzla, Bosnia.jpg. Little Green Dragon / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Polygon painting based on the photo Public fountain, Tuzla, Bosnia.jpg. Little Green Dragon / Wikimedia Commons (CC BY 2.0)"
     },
     {
       "id": "tuzla-old-town",
@@ -673,7 +673,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWV_banner_NE_Bosnia_Tuzla_old_town.jpg",
       "author": "Deanza7",
       "license": "CC0",
-      "credit": "Polygon painting based on photo: WV banner NE Bosnia Tuzla old town.jpg. Deanza7 / Wikimedia Commons (CC0)"
+      "credit": "Polygon painting based on the photo WV banner NE Bosnia Tuzla old town.jpg. Deanza7 / Wikimedia Commons (CC0)"
     },
     {
       "id": "tuzla-shops",
@@ -683,7 +683,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATuzla_Street%2C_Bosnia.jpg",
       "author": "Little Green Dragon",
       "license": "CC BY 2.0",
-      "credit": "Polygon painting based on photo: Tuzla Street, Bosnia.jpg. Little Green Dragon / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Polygon painting based on the photo Tuzla Street, Bosnia.jpg. Little Green Dragon / Wikimedia Commons (CC BY 2.0)"
     },
     {
       "id": "civic-tuzla-museum",
@@ -693,7 +693,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMuseum_of_East_Bosnia%2C_Tuzla.jpg",
       "author": "Apokar",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on photo: Museum of East Bosnia, Tuzla.jpg. Apokar / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on the photo Museum of East Bosnia, Tuzla.jpg. Apokar / Wikimedia Commons (CC BY-SA 4.0)"
     }
   ],
   "imagesNeeded": false,
@@ -703,16 +703,16 @@
     "body": "Tuzla’s postwar story is one of industrial jobs disappearing faster than steady replacements arrived. The city was a major mining, chemical, and energy center that employed large parts of the region. After the war, many plants shrank or closed through damage, privatization, and market collapse, leaving long stretches of unemployment and insecure work. Markets and small shops kept daily shopping alive, but they did not replace the industrial wages that once supported whole neighborhoods.",
     "imageId": "civic-tuzla-museum",
     "learnMore": {
-      "label": "Wikipedia: Tuzla",
+      "label": "Wikipedia. Tuzla",
       "url": "https://en.wikipedia.org/wiki/Tuzla"
     }
   },
   "authenticListen": {
-    "title": "Čuj Bosnu: shopping phrases in lesson speech",
+    "title": "Čuj Bosnu. Shopping phrases in lesson speech",
     "kind": "speaker",
     "hook": "Hear how much is… and other everyday shopping phrases outside our studio cast.",
     "source": {
-      "title": "bs learn A1 Book 1 Ch.20: How much is ...? | everyday shopping phrases",
+      "title": "bs learn A1 Book 1 Ch.20. How much is .? | everyday shopping phrases",
       "artistOrSpeaker": "SynapseLingo",
       "regionOrScene": "Shop / prices",
       "license": "YouTube Terms of Service (embed)",
@@ -738,7 +738,7 @@
         "košta",
         "želim"
       ],
-      "noticePrompt": "Even if the teacher’s pace differs from Emir’s, hunt for the same kit: want, please, price."
+      "noticePrompt": "Even if the teacher’s pace differs from Emir’s, hunt for the same kit. Want, please, price."
     },
     "reveal": {
       "keyLines": [
