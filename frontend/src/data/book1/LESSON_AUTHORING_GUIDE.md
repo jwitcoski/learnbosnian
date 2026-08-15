@@ -189,7 +189,7 @@ Do **not** default every culture hook and image set to Sarajevo + Mostar.
 |------|--------|
 | New place fact | Each lesson’s culture body and/or fun facts must teach at least one concrete place, landscape, or tradition **not already the hero of the previous lesson** |
 | Image diversity | Prefer unused BiH locations; do not recycle the same café/Sebilj/Mostar bridge art across chapters |
-| Accuracy | Polygon art must match a real referenced photo (tower type, river, town). No generic “Ottoman skyline” stand-ins |
+| Accuracy | Polygon art must match a real referenced photo (tower type, river, town). No generic “Ottoman skyline” stand-ins. Generate from the Commons source photo as the primary reference so composition, landmarks, and layout stay recognizable. Do not invent a new scene and then attach an unrelated photo credit. |
 | Whole country | Over Book 1, rotate regions: central Bosnia, Herzegovina, Krajina/Una, Posavina/north, mountains, and the Neum coast — not only the two tourist capitals |
 | Story can stay | Ana/Emir/Amira may remain café-based; postcards, maps, and Emir’s stories carry the wider map |
 
