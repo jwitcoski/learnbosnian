@@ -20,6 +20,16 @@ const routes = [
     component: "Quiz",
   },
   {
+    path: "/test/section/:n",
+    exact: true,
+    component: "SectionTest",
+  },
+  {
+    path: "/test/final",
+    exact: true,
+    component: "FinalTest",
+  },
+  {
     path: "/dictionary",
     exact: true,
     component: "Dictionary",

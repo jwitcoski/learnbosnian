@@ -1,0 +1,323 @@
+{
+  "id": "final",
+  "book": 1,
+  "kind": "final",
+  "coversDays": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "title": "Book 1 final test",
+  "titleEn": "Book 1 final test",
+  "intro": "This final covers Lessons 1 to 30 across all four sections. Pass with 70% or higher.",
+  "passPercent": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which number is ‘dvadeset’?",
+      "options": [
+        "12",
+        "15",
+        "20",
+        "2"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dvadeset = twenty.",
+      "skill": "vocabulary",
+      "remediationDay": 3
+    },
+    {
+      "id": "q2",
+      "question": "A džezva is…",
+      "options": [
+        "A bridge",
+        "A small coffee pot",
+        "A greeting",
+        "A street cat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Džezva is the little pot used for Bosnian coffee.",
+      "skill": "culture",
+      "remediationDay": 1
+    },
+    {
+      "id": "q3",
+      "question": "The letter š sounds most like English…",
+      "options": [
+        "'s' in sun",
+        "'sh' in ship",
+        "'z' in zoo",
+        "'ch' in church"
+      ],
+      "correctIndex": 1,
+      "explanation": "Š is like sh in ship. as in Baščaršija.",
+      "skill": "listening",
+      "remediationDay": 1
+    },
+    {
+      "id": "q4",
+      "question": "Which possessive goes with ‘mačka’?",
+      "options": [
+        "moj",
+        "moja",
+        "tvoj only",
+        "on"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mačka is feminine → moja mačka.",
+      "skill": "grammar",
+      "remediationDay": 4
+    },
+    {
+      "id": "q5",
+      "question": "Which forms are ‘I am / you are / he is’?",
+      "options": [
+        "sam / si / je",
+        "moj / moja / tvoj",
+        "ovdje / tamo / gdje",
+        "danas / sutra / petak"
+      ],
+      "correctIndex": 0,
+      "explanation": "Biti in. Sam, si, je (Lesson 2).",
+      "skill": "dialogue",
+      "remediationDay": 7
+    },
+    {
+      "id": "q6",
+      "question": "What does vrijeme mean?",
+      "options": [
+        "Weather",
+        "Picnic",
+        "Mountain",
+        "Season"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vrijeme means weather.",
+      "skill": "vocabulary",
+      "remediationDay": 11
+    },
+    {
+      "id": "q7",
+      "question": "Which sentence means that it is cloudy?",
+      "options": [
+        "Sunčano je.",
+        "Toplo je.",
+        "Oblačno je.",
+        "Pada snijeg."
+      ],
+      "correctIndex": 2,
+      "explanation": "Oblačno je means that it is cloudy.",
+      "skill": "grammar",
+      "remediationDay": 11
+    },
+    {
+      "id": "q8",
+      "question": "Why can winter air pollution linger in Sarajevo?",
+      "options": [
+        "The cable car makes smoke.",
+        "The river stops all wind.",
+        "The mountains create summer heat.",
+        "An inversion can trap polluted air."
+      ],
+      "correctIndex": 3,
+      "explanation": "A winter inversion can trap polluted air in the Sarajevo basin.",
+      "skill": "culture",
+      "remediationDay": 11
+    },
+    {
+      "id": "q9",
+      "question": "What happens during Mrvica's park walk?",
+      "options": [
+        "She tangles the leash around a tree.",
+        "She sleeps beside the spring.",
+        "She waits quietly by Ana.",
+        "She rides in a carriage."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mrvica tangles the leash around a tree.",
+      "skill": "dialogue",
+      "remediationDay": 12
+    },
+    {
+      "id": "q10",
+      "question": "In the shopping listen clip, you mainly train…",
+      "options": [
+        "Silent reading only",
+        "Hearing price and want phrases in real teaching speech",
+        "Swimming verbs",
+        "Past tense only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Čuj Bosnu here targets shop phrases.",
+      "skill": "listening",
+      "remediationDay": 9
+    },
+    {
+      "id": "q11",
+      "question": "What does pravo mean in a direction?",
+      "options": [
+        "Straight ahead",
+        "Behind",
+        "Near",
+        "Right"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pravo means straight ahead in a direction.",
+      "skill": "vocabulary",
+      "remediationDay": 15
+    },
+    {
+      "id": "q12",
+      "question": "Which chunk means I need a ticket?",
+      "options": [
+        "Koliko košta karta?",
+        "Treba mi karta.",
+        "Odlazak je uskoro.",
+        "Imam sjedalo."
+      ],
+      "correctIndex": 1,
+      "explanation": "Treba mi karta means I need a ticket.",
+      "skill": "grammar",
+      "remediationDay": 16
+    },
+    {
+      "id": "q13",
+      "question": "What second landscape balances the football chat?",
+      "options": [
+        "A Una River waterfall walk",
+        "A desert dune",
+        "A desert stadium",
+        "A closed airport only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Štrbački buk on the Una balances the chat.",
+      "skill": "dialogue",
+      "remediationDay": 18
+    },
+    {
+      "id": "q14",
+      "question": "What religious change does the civic panel describe?",
+      "options": [
+        "Gulf-funded mosque reconstruction that also shifted teaching toward more conservative lines",
+        "Religion disappeared after Yugoslavia",
+        "Only one faith may use city streets",
+        "No foreign money rebuilt any mosque"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gulf donations rebuilt mosques such as the King Fahd Mosque and supported more conservative teaching streams.",
+      "skill": "culture",
+      "remediationDay": 19
+    },
+    {
+      "id": "q15",
+      "question": "Which sentence orders klepe politely?",
+      "options": [
+        "Hoću klepe, molim.",
+        "Klepe je račun.",
+        "Hoćeš li stanica?",
+        "Dobar tek je jelovnik."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hoću klepe, molim is a polite order.",
+      "skill": "listening",
+      "remediationDay": 17
+    },
+    {
+      "id": "q16",
+      "question": "What does torta mean?",
+      "options": [
+        "Cake",
+        "Glass",
+        "Letter",
+        "Bridge"
+      ],
+      "correctIndex": 0,
+      "explanation": "Torta means cake.",
+      "skill": "vocabulary",
+      "remediationDay": 30
+    },
+    {
+      "id": "q17",
+      "question": "Which line uses i correctly?",
+      "options": [
+        "Volim grad i učim bosanski.",
+        "Zato pišem ali marka.",
+        "Neću skočiti most.",
+        "Moraš platiti kiriju."
+      ],
+      "correctIndex": 0,
+      "explanation": "Volim grad i učim bosanski links two facts with i.",
+      "skill": "grammar",
+      "remediationDay": 29
+    },
+    {
+      "id": "q18",
+      "question": "What civic topic does this lesson highlight?",
+      "options": [
+        "Republika Srpska leaders challenge state judicial and police authority while floating secession",
+        "Entity leaders dissolved all schools",
+        "State courts control every local café menu",
+        "Police forces merged into one EU agency"
+      ],
+      "correctIndex": 0,
+      "explanation": "Secessionist rhetoric and resistance to state-level courts and police remain a documented structural pressure.",
+      "skill": "culture",
+      "remediationDay": 27
+    },
+    {
+      "id": "q19",
+      "question": "Who speaks as the landlord in the dialogue?",
+      "options": [
+        "Landlord",
+        "Mrvica",
+        "Clerk",
+        "Driver"
+      ],
+      "correctIndex": 0,
+      "explanation": "The landlord shows the kitchen and explains rent.",
+      "skill": "dialogue",
+      "remediationDay": 26
+    },
+    {
+      "id": "q20",
+      "question": "What does apoteka mean?",
+      "options": [
+        "pharmacy",
+        "mountain",
+        "river",
+        "weekend"
+      ],
+      "correctIndex": 0,
+      "explanation": "Apoteka means pharmacy.",
+      "skill": "vocabulary",
+      "remediationDay": 25
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "id": "section-1",
+  "book": 1,
+  "kind": "section",
+  "section": 1,
+  "coversDays": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "title": "Section 1 test",
+  "titleEn": "Section 1 test · Survive day one",
+  "intro": "This test covers Lessons 1 to 7. Greetings, identity, numbers, family, place, and time. Pass with 70% or higher.",
+  "passPercent": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "How do you say goodbye?",
+      "options": [
+        "Dobro jutro",
+        "Doviđenja",
+        "Da",
+        "Čaj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Doviđenja means goodbye. The letter đ Needs the letter đ.",
+      "skill": "vocabulary",
+      "remediationDay": 1
+    },
+    {
+      "id": "q2",
+      "question": "Which sentence means ‘I am from Sarajevo’?",
+      "options": [
+        "Ja sam iz Sarajeva.",
+        "Ti si iz Mostara.",
+        "On je Sebilj.",
+        "Zovem se Sarajevo."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ja sam iz + place expresses origin.",
+      "skill": "culture",
+      "remediationDay": 2
+    },
+    {
+      "id": "q3",
+      "question": "Best first move with a new Bosnian audio clip?",
+      "options": [
+        "Read the full English transcript first",
+        "Listen once for gist, then check a few anchors",
+        "Ignore audio and only study the quiz",
+        "Translate every word before pressing play"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gist first. Then hunt for a few known words. That is A1 listening.",
+      "skill": "listening",
+      "remediationDay": 3
+    },
+    {
+      "id": "q4",
+      "question": "Which pair shows a harder vs softer 'ch'-like sound?",
+      "options": [
+        "š vs ž",
+        "č vs ć",
+        "dž vs đ only as vowels",
+        "a vs e"
+      ],
+      "correctIndex": 1,
+      "explanation": "Č is harder. Ć is softer. a classic beginner pair.",
+      "skill": "grammar",
+      "remediationDay": 1
+    },
+    {
+      "id": "q5",
+      "question": "What does ‘Ja sam Ana’ mean?",
+      "options": [
+        "My name is written Ana",
+        "I am Ana",
+        "She is Ana",
+        "You are Ana"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ja sam = I am.",
+      "skill": "dialogue",
+      "remediationDay": 2
+    },
+    {
+      "id": "q6",
+      "question": "Mrvica is a…",
+      "options": [
+        "mačka",
+        "brat",
+        "djed",
+        "fildžan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mrvica je mačka. the café cat.",
+      "skill": "vocabulary",
+      "remediationDay": 4
+    },
+    {
+      "id": "q7",
+      "question": "Baščaršija is…",
+      "options": [
+        "A mountain near Mostar",
+        "Sarajevo’s old bazaar district",
+        "A type of bread",
+        "The Bosnian alphabet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Baščaršija is the historic market heart of Sarajevo.",
+      "skill": "culture",
+      "remediationDay": 1
+    },
+    {
+      "id": "q8",
+      "question": "The letter š sounds most like English…",
+      "options": [
+        "'s' in sun",
+        "'sh' in ship",
+        "'z' in zoo",
+        "'ch' in church"
+      ],
+      "correctIndex": 1,
+      "explanation": "Š is like sh in ship. as in Baščaršija.",
+      "skill": "listening",
+      "remediationDay": 1
+    },
+    {
+      "id": "q9",
+      "question": "‘Moj otac’ means…",
+      "options": [
+        "My mother",
+        "My father",
+        "Your father",
+        "Our family"
+      ],
+      "correctIndex": 1,
+      "explanation": "Moj = my (masculine). Otac = father.",
+      "skill": "grammar",
+      "remediationDay": 4
+    },
+    {
+      "id": "q10",
+      "question": "‘Danas je petak’ means…",
+      "options": [
+        "Tomorrow is Friday",
+        "Today is Friday",
+        "Today is Saturday",
+        "It is five o’clock"
+      ],
+      "correctIndex": 1,
+      "explanation": "Danas = today. Petak = Friday.",
+      "skill": "dialogue",
+      "remediationDay": 6
+    },
+    {
+      "id": "q11",
+      "question": "What does 'zdravo' mean?",
+      "options": [
+        "Hello (informal)",
+        "Goodbye",
+        "Please",
+        "Good evening"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zdravo is the friendly everyday hello.",
+      "skill": "vocabulary",
+      "remediationDay": 1
+    },
+    {
+      "id": "q12",
+      "question": "A džezva is…",
+      "options": [
+        "A bridge",
+        "A small coffee pot",
+        "A greeting",
+        "A street cat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Džezva is the little pot used for Bosnian coffee.",
+      "skill": "culture",
+      "remediationDay": 1
+    }
+  ]
+}

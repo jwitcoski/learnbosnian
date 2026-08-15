@@ -1,0 +1,10 @@
+{
+  "book": 1,
+  "sectionTests": [
+    "section-1",
+    "section-2",
+    "section-3",
+    "section-4"
+  ],
+  "finalTest": "final"
+}

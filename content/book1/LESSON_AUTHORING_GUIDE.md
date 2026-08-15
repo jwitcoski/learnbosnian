@@ -74,12 +74,26 @@ Fill `content/book1/day-XX/chapter.json` completely before marking `draft`.
 | **authenticListen** | **1** Čuj Bosnu block | Song or speaker; listen-first gist; 1–3 key lines; full attribution |
 | **civicContext** | **1** fact + image | Structural pressure on BiH, tied to lesson theme; full sentences; no opinion slogans |
 | **resources** | Channel/video + optional map + **next lesson** link | `/learn/lesson/N` |
-| **sectionQuiz** | **8–10** MCQs with `question` (not `prompt`), `passPercent: 70`, explanations + **`skill`** | Mix meaning, form, one culture |
+| **sectionQuiz** | **8–10** MCQs with `question` (not `prompt`), `passPercent: 70`, explanations + **`skill`** | Per-lesson quiz (UI label: Lesson quiz). Mix meaning, form, one culture |
 | **speakTargets** | Optional `number[]` | 0-based dialogue line indexes for AI speak-check (default: up to 3 learner lines) |
 | **canDoChecks** | Review lessons: **3–5** | Short self-check prompts (speak / listen / write) |
 | **dictionaryEntries** | Every teaching vocab item (+ full number set if taught) | `day: N` |
 | **images** | **3** polygon scenes | Hero = culture `imageId`; mid-lesson; place/object beat |
 | **video-script.md** | 8–10 min, Lesson N wording | Same A/B spine as blocks |
+
+### Section tests and Book 1 final
+
+Separate from per-lesson `sectionQuiz`. Canonical files live in `content/book1/assessments/`:
+
+| Assessment | File | Covers | Route |
+|------------|------|--------|-------|
+| Section 1 test | `section-1.json` | Lessons 1–7 | `/test/section/1` |
+| Section 2 test | `section-2.json` | Lessons 8–14 | `/test/section/2` |
+| Section 3 test | `section-3.json` | Lessons 15–21 | `/test/section/3` |
+| Section 4 test | `section-4.json` | Lessons 22–30 | `/test/section/4` |
+| Book 1 final | `final.json` | Lessons 1–30 | `/test/final` |
+
+Each assessment needs `id`, `kind`, `coversDays`, `title`, `intro`, `passPercent`, and `questions` (with optional `remediationDay`). Review lessons link to the matching section test. Lesson 30 also links to the final.
 
 ### Lesson block writing rules
 
