@@ -15,6 +15,7 @@
 - Spiral frames + **Say again** warm-up (4 recycled lines) every drafted lesson
 - Reviews 7 / 14 / 21 / 30 are frame drills
 - Grammar panels keep labels, but open with a chunks-first reminder (phrase bank in `LESSON_AUTHORING_GUIDE.md`; rotate wording so panels do not all sound the same)
+- Lesson 0 states that Book 1 teaches ready phrases and present-tense chunks, not full case tables; deeper grammar waits for Book 2
 - Public scenes include at least one polite exchange (`molim` / `hvala` / `molim vas`)
 - Studio-clean dialogue is OK; no reduced street variants in Book 1
 

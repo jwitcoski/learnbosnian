@@ -8,8 +8,10 @@
 4. **Neighbors**. Close to Croatian/Serbian, mutually intelligible standards; we teach Bosnian and stay Bosnian-focused after today.
 5. **Who speaks it**. BiH and diaspora.
 6. **Audience**. English-reading beginners; travelers, family, curiosity; Latin only.
-7. **Cast tease**. Ana, Emir, Amira, Mrvica.
-8. **CTA**. Continue to Lesson 1: `/learn/lesson/1` ## On-screen vocabulary
+7. **How we teach**. Bosnian grammar is complicated. Book 1 does not teach full case tables. You learn ready phrases and present-tense chunks. Deeper grammar waits for Book 2.
+8. **Cast tease**. Ana, Emir, Amira, Mrvica.
+9. **CTA**. Continue to Lesson 1: `/learn/lesson/1` ## On-screen vocabulary
 bosanski · jezik · Bosna i Hercegovina · BiH · dobrodošli · učiti ## Notes
 - No Cyrillic on screen.
 - Keep comparative section respectful and short; do not teach Croatian/Serbian forms.
+- Say the phrases-not-tables promise once, clearly; do not lecture on linguistics.

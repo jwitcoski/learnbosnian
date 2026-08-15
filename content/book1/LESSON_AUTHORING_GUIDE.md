@@ -35,7 +35,7 @@ Book 1 is an **A1 present-tense survival intro** for travelers, short-stay visit
 | Review = frame drill | Lessons **7, 14, 21, 30** drill the core frames hard. Prefer recycle cards and question switches over new systems. |
 | Public politeness | Any shop, café counter, bus, clinic, or stranger scene needs at least one polite exchange (`molim`, `hvala`, or `molim vas`). Keep ja/ti as the default social voice. |
 | Studio speech OK | Keep dialogue clean for recording. Do not add reduced “street” variants in Book 1. |
-| Audience copy | Lesson 0 and marketing must say short-stay social survival (tourist + early expat), Latin-only Bosnian, present tense. Do not promise A2. |
+| Audience copy | Lesson 0 and marketing must say short-stay social survival (tourist + early expat), Latin-only Bosnian, present tense. Lesson 0 must state that Book 1 teaches ready phrases and chunks, not full grammar tables. Do not promise A2. |
 
 ## 1. Product promises (every lesson)
 
