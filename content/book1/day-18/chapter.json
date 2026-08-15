@@ -487,7 +487,7 @@
         "id": "q8",
         "question": "What education problem does the civic panel highlight?",
         "options": [
-          "Cantonal and entity universities plus weak private degree mills",
+          "Cantonal and entity control plus weak private colleges that can act like degree mills",
           "One national university with identical quality everywhere",
           "No private colleges exist",
           "Diplomas never matter for work"
@@ -670,11 +670,11 @@
   "imagesNeeded": false,
   "imageBriefs": [],
   "civicContext": {
-    "title": "Cantonal universities and diploma mills hollow out youth plans",
-    "body": "Sport talk about weekends sits next to a broken education market. In the Federation, cantons fund and oversee public universities, Republika Srpska runs a separate system, and dozens of private colleges opened after 2000. Quality and recognition vary sharply across that patchwork. Weak oversight has allowed some private schools to operate more like degree mills that sell credentials than like serious classrooms. Young people who train, study, or look for work still confront a map where the canton or entity that stamps a diploma can matter as much as skill, which feeds emigration and distrust.",
+    "title": "Cantons and private colleges fracture higher education",
+    "body": "Weekend sport talk sits next to a broken education market for young adults. In the Federation, cantons fund and oversee public universities. Republika Srpska runs a separate system. Dozens of private colleges opened after 2000, and quality varies sharply across that patchwork. Weak oversight has allowed some private schools to sell credentials more than serious training. The canton or entity that stamps a diploma can matter as much as skill.",
     "imageId": "civic-emigration-airport",
     "learnMore": {
-      "label": "Wikipedia. Education in Bosnia and Herzegovina",
+      "label": "Wikipedia article on education in Bosnia and Herzegovina",
       "url": "https://en.wikipedia.org/wiki/Education_in_Bosnia_and_Herzegovina"
     }
   },

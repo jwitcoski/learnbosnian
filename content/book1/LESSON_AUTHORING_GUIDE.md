@@ -20,7 +20,7 @@ Use this guide for **Lessons 4–30**. Do not invent a new chapter shape. Copy L
 - Write full sentences in culture, civic, and fun-fact bodies.
 - Keep website UI tips (accent buttons) out of chapter JSON. Book export must stay book-safe.
 - Civic and fun-fact bodies use **Thesis then support then summary** (complete sentences, no colon-rant endings)
-- Every drafted lesson needs `civicContext` { title, body, imageId, learnMore: { label, url } } with a dedicated image: one documented structural pressure on BiH, thematically linked to the lesson. Body must be one paragraph. Include a Wikipedia or reputable news `learnMore` link.
+- Every drafted lesson needs `civicContext` { title, body, imageId, learnMore: { label, url } } with a dedicated image. Stay on **one** documented structural pressure. The body, title, image, quiz item, and `learnMore` link must all match that same topic. Do not switch mid-panel. Body must be one paragraph.
 - Every drafted lesson needs `authenticListen` (Čuj Bosnu): one song or non-course speaker clip with listen-first gist task. Rights-safe embed/`clipId` only. Not studio cast dialogue audio.
 - Every `sectionQuiz` question should set `skill` (`vocabulary` | `grammar` | `dialogue` | `culture` | `listening`) for remediation links.
 - **Civic backlog:** Brčko District (self-governing city-district under international supervision) is a third unit beside the two entities. Do not cram it into the Lesson 7 entities note. Draft it on Lesson 13 (identity / people of BiH) or another northern/administration lesson.

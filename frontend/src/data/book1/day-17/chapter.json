@@ -485,13 +485,13 @@
         "id": "q8",
         "question": "What unequal document reality does the civic panel describe?",
         "options": [
-          "Ethnic dual citizenship and minority exclusion from top offices",
+          "Neighbor-state dual citizenship can open EU mobility that residence alone often does not",
           "Everyone holds the same EU passport automatically",
           "Restaurants ban all greetings",
           "Only tourists may buy klepe"
         ],
         "correctIndex": 0,
-        "explanation": "Bosnian Serbs and Croats may hold neighbor-state passports, while Sejdić and Finci exclusion still bars some minorities from highest offices.",
+        "explanation": "Many Bosnian Croats and Bosnian Serbs can hold Croatian or Serbian citizenship and gain travel options that many Bosniak neighbors lack.",
         "skill": "culture"
       },
       {
@@ -668,12 +668,12 @@
   "imagesNeeded": false,
   "imageBriefs": [],
   "civicContext": {
-    "title": "Passports split mobility at the same table",
-    "body": "Shared food does not mean equal documents. Many Bosnian Serbs and Bosnian Croats can obtain Serbian or Croatian citizenship while still living in Bosnia and Herzegovina, which can open European Union travel and paperwork routes that many Bosniak neighbors cannot match through residence alone. Roma, Jewish, and other minority citizens already face constitutional barriers to the highest state offices under the Sejdić and Finci problem. A restaurant debate over klepe and japrak happens in a country where the passport in your pocket can depend on ethnic affiliation as much as on the address where you sleep.",
+    "title": "Neighbor passports split mobility at the same table",
+    "body": "Shared food does not mean equal travel papers. Many Bosnian Croats and Bosnian Serbs can hold Croatian or Serbian citizenship while they still live in Bosnia and Herzegovina. Those neighbor-state passports can open European Union travel and paperwork routes that many Bosniak neighbors cannot match through residence alone. A restaurant debate over klepe and japrak happens in a country where the document in your pocket can depend on ethnic affiliation as much as on the street where you sleep.",
     "imageId": "civic-food-economy",
     "learnMore": {
-      "label": "Wikipedia. Sejdić and Finci v. Bosnia and Herzegovina",
-      "url": "https://en.wikipedia.org/wiki/Sejdi%C4%87_and_Finci_v._Bosnia_and_Herzegovina"
+      "label": "Wikipedia article on Bosnia and Herzegovina and Croatia relations",
+      "url": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina%E2%80%93Croatia_relations"
     }
   },
   "authenticListen": {

@@ -491,15 +491,15 @@
       },
       {
         "id": "q8",
-        "question": "Which civic pressures sit behind urgent calls home?",
+        "question": "What civic pressure sits behind urgent calls home in this lesson?",
         "options": [
-          "Opaque Trump-linked gas deals and a euro currency board without normal monetary freedom",
+          "An opaque Trump-linked Southern Interconnection gas deal advanced without a normal tender",
           "Unlimited independent central-bank policy and cheap local wages for all",
           "No remittances ever arrive",
           "Gas arrives only from domestic wells"
         ],
         "correctIndex": 0,
-        "explanation": "The Southern Interconnection politics raised transparency alarms, and the Central Bank runs a currency board tied to the euro.",
+        "explanation": "The Federation designated a U.S. company linked to Trump-aligned investors for the Southern Interconnection without a normal open tender, drawing EU warnings.",
         "skill": "culture"
       },
       {
@@ -676,11 +676,11 @@
   "imagesNeeded": false,
   "imageBriefs": [],
   "civicContext": {
-    "title": "Opaque gas deals and a currency board without normal central-bank power",
-    "body": "An urgent phone call home travels through a state that still imports nearly all of its natural gas on a Russian-linked route through neighboring systems, while major new pipeline politics arrive with foreign patrons. In 2026 the Federation moved to designate a U.S. company linked to Trump-aligned investors as developer of the Southern Interconnection without a normal open tender, drawing European Union warnings about transparency and aid. The Central Bank of Bosnia and Herzegovina operates as a currency board tied to the euro, so the country does not run ordinary independent monetary policy. Families abroad send remittances because wages and institutions leave gaps. Energy contracts and limited monetary power shape the larger silence behind every call.",
+    "title": "An opaque U.S.-linked gas deal bypassed normal tender rules",
+    "body": "An urgent phone call home still travels through a country that depends on outside energy patrons. Bosnia and Herzegovina imports nearly all of its natural gas on a Russian-linked route through neighboring systems. In 2026 the Federation moved to designate a U.S. company linked to Trump-aligned investors as developer of the Southern Interconnection without a normal open tender. European Union officials warned that the special law could threaten transparency standards and aid. The pipeline fight shows how big contracts can arrive by political pressure rather than a clean public contest.",
     "imageId": "civic-diaspora-calls",
     "learnMore": {
-      "label": "RFE/RL. EU warns Bosnia over U.S. gas project and aid risk",
+      "label": "RFE/RL article on the EU warning over the U.S. gas project",
       "url": "https://www.rferl.org/a/eu-bosnia-gas-pipeline-us-investor-aid/33741747.html"
     }
   },

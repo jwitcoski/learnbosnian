@@ -496,13 +496,13 @@
         "id": "q9",
         "question": "What religious change does the civic panel describe?",
         "options": [
-          "Postwar religion as identity plus Gulf-funded conservative mosque reconstruction",
+          "Gulf-funded mosque reconstruction that also shifted teaching toward more conservative lines",
           "Religion disappeared after Yugoslavia",
           "Only one faith may use city streets",
           "No foreign money rebuilt any mosque"
         ],
         "correctIndex": 0,
-        "explanation": "After socialism, religion returned as public identity, and Gulf donations helped rebuild mosques with more conservative teaching streams.",
+        "explanation": "Gulf donations rebuilt mosques such as the King Fahd Mosque and supported more conservative teaching streams.",
         "skill": "culture"
       },
       {
@@ -679,11 +679,11 @@
   "imagesNeeded": false,
   "imageBriefs": [],
   "civicContext": {
-    "title": "Rebuilt mosques and religion as postwar identity",
-    "body": "Holiday greetings sound gentle, but the religious landscape hardened after socialism. Under Yugoslavia many people lived more secular lives and kept faith quieter. After the war, religion returned as a loud public identity marker for communities that had been targeted or displaced. Destroyed mosques were rebuilt with large Gulf donations, including Saudi-funded projects such as Sarajevo’s King Fahd Mosque, and some funding streams supported more conservative teaching than older Bosnian Islamic practice. Catholic and Orthodox markers remain strong elsewhere. Inclusive wishes on Ferhadija sit beside foreign-funded reconstruction that changed who teaches, and what identity means, in rebuilt prayer spaces.",
+    "title": "Gulf money rebuilt mosques and shifted teaching",
+    "body": "Holiday lights on Ferhadija look shared, yet some prayer spaces were rebuilt with foreign agendas. After the war, destroyed mosques rose again with large Gulf donations. Sarajevo’s King Fahd Mosque is a clear Saudi-funded example. Some of that funding also supported more conservative teaching than older Bosnian Islamic practice. Inclusive market greetings sit beside rebuilt pulpits where the money behind the walls changed who teaches and how.",
     "imageId": "civic-pluralism",
     "learnMore": {
-      "label": "Wikipedia. King Fahd Mosque (Sarajevo)",
+      "label": "Wikipedia article on the King Fahd Mosque in Sarajevo",
       "url": "https://en.wikipedia.org/wiki/King_Fahd_Mosque_(Sarajevo)"
     }
   },

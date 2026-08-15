@@ -485,15 +485,15 @@
       },
       {
         "id": "q8",
-        "question": "Which civic pressure fits this bus lesson?",
+        "question": "What civic pressure does this bus lesson highlight?",
         "options": [
-          "Unfinished Corridor Vc and dirty used cars on unequal routes",
-          "Perfect motorways in every canton already",
+          "Corridor Vc remains only partly built while other routes advance on different clocks",
+          "Perfect motorways already cover every canton",
           "No buses exist in Sarajevo",
           "Tickets are free nationwide"
         ],
         "correctIndex": 0,
-        "explanation": "Corridor Vc remains incomplete while used cars that fail stricter EU emission rules still arrive in the region.",
+        "explanation": "Corridor Vc is still incomplete after years of delays, while other motorway projects move under different political clocks.",
         "skill": "culture"
       },
       {
@@ -670,8 +670,8 @@
   "imagesNeeded": false,
   "imageBriefs": [],
   "civicContext": {
-    "title": "Motorways and dirty used cars follow unequal routes",
-    "body": "Getting around Bosnia and Herzegovina still exposes unequal infrastructure and weak environmental filters. The EU-backed Corridor Vc motorway remains only partly finished after years of loans and delays, while other corridors, including motorway links serving Banja Luka and southern border approaches toward Međugorje and Croatia, advance on different political clocks. Used vehicles that struggle to meet stricter EU emission standards are also widely sold across the Western Balkans, including here. A bus ticket can mean riding past unfinished national corridors and older exhaust that cleaner markets no longer want.",
+    "title": "Corridor Vc still leaves the country half connected",
+    "body": "Buying a bus ticket in Bosnia and Herzegovina means traveling on a map that is still unfinished. The EU-backed Corridor Vc motorway is meant to run north to south through the country, yet only part of it is open after years of loans, delays, and political fights over routes. Other motorway projects serving Banja Luka and southern border approaches toward Međugorje and Croatia have moved on different clocks. A coach toward the coast can still pass gaps where a modern national highway was promised and not delivered.",
     "imageId": "civic-a1-corridor",
     "learnMore": {
       "label": "Bankwatch report on Corridor Vc in Bosnia and Herzegovina",
