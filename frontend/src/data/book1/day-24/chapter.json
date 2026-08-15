@@ -4,55 +4,754 @@
   "title": "Planine i rijeke",
   "titleEn": "Mountains and rivers",
   "theme": "Una, Neretva, Bjelašnica",
-  "status": "outlined",
+  "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "",
+  "reviewerNotes": "This full draft is ready for human review before publication.",
   "estimatedMinutes": 60,
-  "storyBeat": "Nature day",
+  "storyBeat": "Ana and Emir name rivers and mountains across Bosnia and Herzegovina on a nature day.",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 24. Nature vocab, comparatives"
+      "Name planina, rijeka, jezero, šuma, and priroda in present lines.",
+      "Place Una, Neretva, Bjelašnica, and Jahorina on the nature map."
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Describe height with visoko and nisko as chunks.",
+      "Use veći and manji in light comparison phrases."
     ],
     "culture": [
-      "Una, Neretva, Bjelašnica"
+      "Connect emerald Una water and Neretva canyon stories.",
+      "Notice 1984 Olympic mountains Jahorina and Bjelašnica."
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "planina",
+      "english": "mountain",
+      "pronunciation": "plah-NEE-na",
+      "partOfSpeech": "noun",
+      "example": "Ovo je planina."
+    },
+    {
+      "bosnian": "rijeka",
+      "english": "river",
+      "pronunciation": "ree-YEH-ka",
+      "partOfSpeech": "noun",
+      "example": "Rijeka je hladna."
+    },
+    {
+      "bosnian": "jezero",
+      "english": "lake",
+      "pronunciation": "YEH-zeh-ro",
+      "partOfSpeech": "noun",
+      "example": "Jezero je mirno."
+    },
+    {
+      "bosnian": "šuma",
+      "english": "forest",
+      "pronunciation": "SHOO-ma",
+      "partOfSpeech": "noun",
+      "example": "Šuma je zelena."
+    },
+    {
+      "bosnian": "visoko",
+      "english": "high",
+      "pronunciation": "VEE-so-ko",
+      "partOfSpeech": "adverb",
+      "example": "Planina je visoko."
+    },
+    {
+      "bosnian": "nisko",
+      "english": "low",
+      "pronunciation": "NEES-ko",
+      "partOfSpeech": "adverb",
+      "example": "Rijeka teče nisko."
+    },
+    {
+      "bosnian": "veći",
+      "english": "bigger",
+      "pronunciation": "VEH-chee",
+      "partOfSpeech": "adjective",
+      "example": "Una je veća rijeka."
+    },
+    {
+      "bosnian": "manji",
+      "english": "smaller",
+      "pronunciation": "MAHN-yee",
+      "partOfSpeech": "adjective",
+      "example": "Potok je manji."
+    },
+    {
+      "bosnian": "Una",
+      "english": "Una River",
+      "pronunciation": "OO-na",
+      "partOfSpeech": "proper noun",
+      "example": "Una je lijepa rijeka."
+    },
+    {
+      "bosnian": "Neretva",
+      "english": "Neretva River",
+      "pronunciation": "neh-RET-va",
+      "partOfSpeech": "proper noun",
+      "example": "Neretva ide kroz kanjon."
+    },
+    {
+      "bosnian": "Bjelašnica",
+      "english": "Bjelašnica",
+      "pronunciation": "byeh-LASH-nee-tsa",
+      "partOfSpeech": "proper noun",
+      "example": "Bjelašnica je visoka."
+    },
+    {
+      "bosnian": "Jahorina",
+      "english": "Jahorina",
+      "pronunciation": "ya-hoh-REE-na",
+      "partOfSpeech": "proper noun",
+      "example": "Jahorina je ski centar."
+    },
+    {
+      "bosnian": "priroda",
+      "english": "nature",
+      "pronunciation": "pree-ROH-da",
+      "partOfSpeech": "noun",
+      "example": "Volim prirodu."
+    },
+    {
+      "bosnian": "voda",
+      "english": "water",
+      "pronunciation": "VOH-da",
+      "partOfSpeech": "noun",
+      "example": "Voda je čista."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Nature nouns in short present lines",
+      "explanation": "Practice the whole expression before you worry about paradigms. Planina, rijeka, jezero, and šuma name the landscape around you. Pair each noun with ovo je or vidim in a present-tense line.",
+      "examples": [
+        {
+          "bosnian": "Ovo je planina.",
+          "english": "This is a mountain."
+        },
+        {
+          "bosnian": "Vidim rijeku.",
+          "english": "I see a river."
+        },
+        {
+          "bosnian": "Šuma je zelena.",
+          "english": "The forest is green."
+        }
+      ]
+    },
+    {
+      "title": "Visoko and nisko as place chunks",
+      "explanation": "Build this as a ready-made line you can reuse. Visoko means high and nisko means low. Use them to describe mountains and river valleys without a full comparative chart.",
+      "examples": [
+        {
+          "bosnian": "Planina je visoko.",
+          "english": "The mountain is high."
+        },
+        {
+          "bosnian": "Rijeka teče nisko.",
+          "english": "The river runs low."
+        },
+        {
+          "bosnian": "Bjelašnica je visoka.",
+          "english": "Bjelašnica is high."
+        }
+      ]
+    },
+    {
+      "title": "Veći and manji as light comparison phrases",
+      "explanation": "Store this as a phrase you can pull out in conversation. Veći means bigger and manji means smaller. Use them as fixed chunks with rijeka or planina rather than opening a full adjective table.",
+      "examples": [
+        {
+          "bosnian": "Una je veća rijeka.",
+          "english": "Una is a bigger river."
+        },
+        {
+          "bosnian": "Potok je manji.",
+          "english": "The stream is smaller."
+        },
+        {
+          "bosnian": "Jezero je manje od mora.",
+          "english": "The lake is smaller than the sea."
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "Una, Neretva, Bjelašnica",
-    "body": "Stub for Lesson 24. Full culture hook will be written on the draft night.",
-    "imageId": null
+    "title": "Rivers and Olympic peaks across the map",
+    "body": "Bosnia and Herzegovina holds dramatic nature within a small map. The Una River runs emerald green through the northwest while the Neretva carves a deep canyon toward the south. Bjelašnica rises near Sarajevo with rocky ridges that hosted men's Olympic ski events in 1984. Jahorina in Republika Srpska remains a busy winter resort linked to women's Olympic skiing from the same Games. Ana spreads postcards of rivers and peaks across the café table. Nature vocabulary turns travel dreams into names learners can say today.",
+    "imageId": "una-river"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A. Name mountains and rivers",
+      "body": "Start with planina, rijeka, jezero, and šuma. Say Ovo je planina and Vidim rijeku while you look at a map or postcard. Add Una and Neretva as place names you can pronounce with confidence. Ana and Emir compare northwest rivers with southern canyons. Keep every description in the present tense. Nature talk works best when you name one feature per short line.",
+      "tips": [
+        "Point at a map while you say ovo je.",
+        "Keep one nature noun per short sentence.",
+        "Stay in present tense for every description."
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B. Compare height and size",
+      "body": "Add visoko, nisko, veći, and manji as comparison chunks. Say Bjelašnica je visoka and Una je veća rijeka without opening a full grammar grid. Mention Jahorina as a ski name learners hear in winter travel stories. Amira pours coffee while Mrvica bats at a pinecone near a nature photo. Mix priroda and voda when you describe why you like a walk. End with one line that names a place you want to visit this year.",
+      "tips": [
+        "Use veći and manji as fixed chunks with rijeka.",
+        "Say Bjelašnica and Jahorina aloud several times.",
+        "Add volim prirodu when you name a favorite place."
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Priroda na stolu",
+    "setting": "Ana and Emir spread nature postcards at the café while Amira listens and Mrvica plays with a pinecone.",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "bosnian": "Ovo je Una. Rijeka je veća i zelena.",
+        "english": "This is Una. The river is bigger and green."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Vidim Neretvu na karti. Kanjon je dubok.",
+        "english": "I see Neretva on the map. The canyon is deep."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Volim prirodu u Bosni i Hercegovini.",
+        "english": "I love nature in Bosnia and Herzegovina."
+      },
+      {
+        "speaker": "Mrvica",
+        "bosnian": "Mjau! Šuma je zanimljiva.",
+        "english": "Meow! The forest is interesting."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Bjelašnica je visoka planina.",
+        "english": "Bjelašnica is a high mountain."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Jahorina je poznata za skijanje.",
+        "english": "Jahorina is famous for skiing."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Jezero je manje od mora, ali mirno.",
+        "english": "The lake is smaller than the sea, but calm."
+      },
+      {
+        "speaker": "Mrvica",
+        "bosnian": "Mjau! Voda je hladna.",
+        "english": "Meow! The water is cold."
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match the nature words",
+      "prompt": "Match each Bosnian nature word with its English meaning.",
+      "items": [
+        {
+          "left": "planina",
+          "right": "mountain"
+        },
+        {
+          "left": "rijeka",
+          "right": "river"
+        },
+        {
+          "left": "jezero",
+          "right": "lake"
+        },
+        {
+          "left": "šuma",
+          "right": "forest"
+        },
+        {
+          "left": "voda",
+          "right": "water"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "truefalse",
+      "title": "True or false about nature day",
+      "prompt": "Decide whether each sentence matches the lesson.",
+      "items": [
+        {
+          "statement": "Una is a river in northwest Bosnia and Herzegovina.",
+          "answer": true
+        },
+        {
+          "statement": "Veći means smaller.",
+          "answer": false
+        },
+        {
+          "statement": "Jahorina hosted women's Olympic skiing in 1984.",
+          "answer": true
+        },
+        {
+          "statement": "Neretva is only a lake name.",
+          "answer": false
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Write the Bosnian for This is a mountain.",
+      "hint": "Use Ovo je planina.",
+      "answer": "Ovo je planina."
+    },
+    {
+      "id": "pr2",
+      "prompt": "Write the Bosnian for I see a river.",
+      "hint": "Begin with Vidim.",
+      "answer": "Vidim rijeku."
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write the Bosnian for The forest is green.",
+      "hint": "Use Šuma je zelena.",
+      "answer": "Šuma je zelena."
+    },
+    {
+      "id": "pr4",
+      "prompt": "Write the Bosnian for Bjelašnica is high.",
+      "hint": "Use Bjelašnica je visoka.",
+      "answer": "Bjelašnica je visoka."
+    },
+    {
+      "id": "pr5",
+      "prompt": "Write the Bosnian for Una is a bigger river.",
+      "hint": "Use Una je veća rijeka.",
+      "answer": "Una je veća rijeka."
+    },
+    {
+      "id": "pr6",
+      "prompt": "Write the Bosnian word for lake.",
+      "hint": "It begins with jez.",
+      "answer": "jezero"
+    },
+    {
+      "id": "pr7",
+      "prompt": "Write the Bosnian for I love nature.",
+      "hint": "Use Volim prirodu.",
+      "answer": "Volim prirodu."
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "Una runs emerald in the northwest",
+      "body": "The Una River is famous for green water and waterfalls near Bihać. Travelers name it early when they plan nature trips. Ana's postcard keeps the river on the lesson table."
+    },
+    {
+      "title": "Neretva cuts a southern canyon",
+      "body": "The Neretva flows through a dramatic canyon toward the Adriatic region. It connects mountain stories with southern travel dreams. River names widen the map beyond one city."
+    },
+    {
+      "title": "1984 Olympics left two ski stories",
+      "body": "Sarajevo hosted the 1984 Winter Olympics on nearby mountains. Jahorina and Bjelašnica still appear in winter travel talk today. Olympic names give learners cultural hooks for nature vocabulary."
+    },
+    {
+      "title": "Veći and manji stay light in Book 1",
+      "body": "Book 1 treats veći and manji as sayable comparison chunks rather than a full adjective system. Pair them with rijeka or jezero in one short line. Present-tense nature talk stays practical."
+    }
+  ],
   "resources": [
     {
-      "label": "How to speak Bosnian (YouTube)",
+      "label": "Beba Selimović - Bosno moja",
+      "url": "https://www.youtube.com/watch?v=OXul62dILOo",
+      "note": "A Bosnia song supports nature-day listening."
+    },
+    {
+      "label": "Next lesson",
+      "url": "/learn/lesson/25",
+      "note": "Lesson 25 visits the doctor after Mrvica and a pinecone."
+    },
+    {
+      "label": "How to speak Bosnian channel",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "note": "Browse more speaker models after nature vocabulary."
     }
   ],
   "sectionQuiz": {
     "title": "Lesson 24 section quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does planina mean?",
+        "options": [
+          "mountain",
+          "river",
+          "lake",
+          "forest"
+        ],
+        "correctIndex": 0,
+        "explanation": "Planina means mountain.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q2",
+        "question": "Which river is famous for green water in the northwest?",
+        "options": [
+          "Una",
+          "Neretva only in the sea",
+          "No rivers exist",
+          "Only the Adriatic"
+        ],
+        "correctIndex": 0,
+        "explanation": "Una is famous for green water in the northwest.",
+        "skill": "culture"
+      },
+      {
+        "id": "q3",
+        "question": "What does veći mean as a light comparison chunk?",
+        "options": [
+          "bigger",
+          "smaller",
+          "colder",
+          "faster"
+        ],
+        "correctIndex": 0,
+        "explanation": "Veći means bigger.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q4",
+        "question": "Which mountain hosted women's Olympic skiing in 1984?",
+        "options": [
+          "Jahorina",
+          "Only Bjelašnica for all events",
+          "Only Neum beach",
+          "Only Travnik tower"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jahorina hosted women's Olympic skiing in 1984.",
+        "skill": "culture"
+      },
+      {
+        "id": "q5",
+        "question": "What civic gap does the lesson describe?",
+        "options": [
+          "Jahorina booms while Bjelašnica and Igman look neglected",
+          "All ski lifts closed forever",
+          "Una stopped flowing",
+          "Neretva became a desert"
+        ],
+        "correctIndex": 0,
+        "explanation": "Investment diverged between Jahorina and Federation Olympic sites.",
+        "skill": "culture"
+      },
+      {
+        "id": "q6",
+        "question": "What does šuma mean?",
+        "options": [
+          "forest",
+          "ticket",
+          "bill",
+          "phone"
+        ],
+        "correctIndex": 0,
+        "explanation": "Šuma means forest.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q7",
+        "question": "Which line says I love nature?",
+        "options": [
+          "Volim prirodu.",
+          "Račun, molim.",
+          "Šta radiš?",
+          "Tamo je kula."
+        ],
+        "correctIndex": 0,
+        "explanation": "Volim prirodu means I love nature.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q8",
+        "question": "What does nisko mean?",
+        "options": [
+          "low",
+          "high",
+          "big",
+          "green"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nisko means low.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q9",
+        "question": "Which river appears with a deep canyon?",
+        "options": [
+          "Neretva",
+          "Una only as a lake",
+          "No southern rivers",
+          "Only the Una in the north"
+        ],
+        "correctIndex": 0,
+        "explanation": "Neretva appears with a deep canyon.",
+        "skill": "culture"
+      }
+    ]
   },
-  "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to. Una, Neretva, Bjelašnica"
+  "dictionaryEntries": [
+    {
+      "day": 24,
+      "bosnian": "planina",
+      "english": "mountain",
+      "pronunciation": "plah-NEE-na",
+      "partOfSpeech": "noun",
+      "example": "Ovo je planina."
+    },
+    {
+      "day": 24,
+      "bosnian": "rijeka",
+      "english": "river",
+      "pronunciation": "ree-YEH-ka",
+      "partOfSpeech": "noun",
+      "example": "Rijeka je hladna."
+    },
+    {
+      "day": 24,
+      "bosnian": "jezero",
+      "english": "lake",
+      "pronunciation": "YEH-zeh-ro",
+      "partOfSpeech": "noun",
+      "example": "Jezero je mirno."
+    },
+    {
+      "day": 24,
+      "bosnian": "šuma",
+      "english": "forest",
+      "pronunciation": "SHOO-ma",
+      "partOfSpeech": "noun",
+      "example": "Šuma je zelena."
+    },
+    {
+      "day": 24,
+      "bosnian": "visoko",
+      "english": "high",
+      "pronunciation": "VEE-so-ko",
+      "partOfSpeech": "adverb",
+      "example": "Planina je visoko."
+    },
+    {
+      "day": 24,
+      "bosnian": "nisko",
+      "english": "low",
+      "pronunciation": "NEES-ko",
+      "partOfSpeech": "adverb",
+      "example": "Rijeka teče nisko."
+    },
+    {
+      "day": 24,
+      "bosnian": "veći",
+      "english": "bigger",
+      "pronunciation": "VEH-chee",
+      "partOfSpeech": "adjective",
+      "example": "Una je veća rijeka."
+    },
+    {
+      "day": 24,
+      "bosnian": "manji",
+      "english": "smaller",
+      "pronunciation": "MAHN-yee",
+      "partOfSpeech": "adjective",
+      "example": "Potok je manji."
+    },
+    {
+      "day": 24,
+      "bosnian": "Una",
+      "english": "Una River",
+      "pronunciation": "OO-na",
+      "partOfSpeech": "proper noun",
+      "example": "Una je lijepa rijeka."
+    },
+    {
+      "day": 24,
+      "bosnian": "Neretva",
+      "english": "Neretva River",
+      "pronunciation": "neh-RET-va",
+      "partOfSpeech": "proper noun",
+      "example": "Neretva ide kroz kanjon."
+    },
+    {
+      "day": 24,
+      "bosnian": "Bjelašnica",
+      "english": "Bjelašnica",
+      "pronunciation": "byeh-LASH-nee-tsa",
+      "partOfSpeech": "proper noun",
+      "example": "Bjelašnica je visoka."
+    },
+    {
+      "day": 24,
+      "bosnian": "Jahorina",
+      "english": "Jahorina",
+      "pronunciation": "ya-hoh-REE-na",
+      "partOfSpeech": "proper noun",
+      "example": "Jahorina je ski centar."
+    },
+    {
+      "day": 24,
+      "bosnian": "priroda",
+      "english": "nature",
+      "pronunciation": "pree-ROH-da",
+      "partOfSpeech": "noun",
+      "example": "Volim prirodu."
+    },
+    {
+      "day": 24,
+      "bosnian": "voda",
+      "english": "water",
+      "pronunciation": "VOH-da",
+      "partOfSpeech": "noun",
+      "example": "Voda je čista."
+    }
   ],
-  "section": 4
+  "images": [
+    {
+      "id": "una-river",
+      "alt": "Polygon painting of the turquoise Una River canyon.",
+      "localPath": "/images/book1/day-24-una-river.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "bjelasnica-ridge",
+      "alt": "Polygon painting of a rocky Bjelašnica ridge.",
+      "localPath": "/images/book1/day-24-bjelasnica-ridge.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "jahorina-ski",
+      "alt": "Polygon painting of busy ski slopes on Jahorina.",
+      "localPath": "/images/book1/day-24-jahorina-ski.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "civic-olympic-ski-gap",
+      "alt": "Polygon painting contrasting lively Jahorina with neglected Olympic ski sites.",
+      "localPath": "/images/book1/day-24-civic-olympic-ski-gap.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [
+    "una-river: Emerald Una River water for culture hero",
+    "bjelasnica-ridge: Bjelašnica rocky ridge near Sarajevo for mid-lesson scene",
+    "jahorina-ski: Jahorina ski slopes for winter place beat",
+    "civic-olympic-ski-gap: Split image of busy Jahorina lift and quiet Bjelašnica slope for civic panel"
+  ],
+  "civicContext": {
+    "title": "Jahorina booms while Bjelašnica and Igman Olympic sites lag",
+    "body": "Jahorina in Republika Srpska grew into a major ski destination after the 1984 Winter Olympics women's events. Bjelašnica and Igman on the Federation side hosted men's Olympic skiing but often look neglected by comparison. Investment and maintenance diverged across entity lines after the Games. Ana reads about lift lines on Jahorina beside photos of quiet Bjelašnica slopes. Olympic heritage can boom in one place while a nearby host mountain fades.",
+    "imageId": "civic-olympic-ski-gap",
+    "learnMore": {
+      "label": "Wikipedia article about Jahorina",
+      "url": "https://en.wikipedia.org/wiki/Jahorina"
+    }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu with Bosno moja for nature feeling",
+    "kind": "song",
+    "hook": "A Bosnia song gives river-and-mountain day a listening anchor.",
+    "source": {
+      "title": "Beba Selimović - Bosno moja",
+      "artistOrSpeaker": "Beba Selimović",
+      "regionOrScene": "Bosnian landscape mood",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "Beba Selimović on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=OXul62dILOo",
+      "embedUrl": "https://www.youtube.com/watch?v=OXul62dILOo"
+    },
+    "durationHint": "45-90 seconds",
+    "listenTask": {
+      "prompt": "Listen for a landscape mood without translating every lyric.",
+      "gistQuestion": {
+        "prompt": "What kind of clip supports a nature day?",
+        "options": [
+          "A warm Bosnia song",
+          "A bus departure board",
+          "A restaurant bill lesson",
+          "A phone emergency call"
+        ],
+        "correctIndex": 0
+      },
+      "targetWords": [
+        "bosno",
+        "rijeka"
+      ],
+      "noticePrompt": "Catch one sound that fits rivers or mountains in your imagination."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Bosno moja",
+          "english": "My Bosnia"
+        },
+        {
+          "bosnian": "Volim prirodu.",
+          "english": "I love nature."
+        }
+      ],
+      "teacherNote": "After the clip, name one river and one mountain from the lesson aloud."
+    }
+  },
+  "speakTargets": [
+    0,
+    4,
+    5
+  ],
+  "section": 4,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Šta radiš danas?",
+        "english": "What do you do today?"
+      },
+      {
+        "bosnian": "Volim da šetam.",
+        "english": "I like to walk."
+      },
+      {
+        "bosnian": "Vidim džamiju.",
+        "english": "I see a mosque."
+      },
+      {
+        "bosnian": "Kakvo je vrijeme?",
+        "english": "How is the weather?"
+      }
+    ]
+  }
 }

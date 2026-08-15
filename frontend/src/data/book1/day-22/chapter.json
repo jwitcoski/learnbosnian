@@ -4,55 +4,754 @@
   "title": "Danas u Travniku",
   "titleEn": "Today in Travnik",
   "theme": "Day trip to Travnik in the present",
-  "status": "outlined",
+  "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "",
+  "reviewerNotes": "This full draft is ready for human review before publication.",
   "estimatedMinutes": 60,
-  "storyBeat": "Ana and Emir walk Travnik and name what they see",
+  "storyBeat": "Ana and Emir walk Travnik and name what they see while Amira calls from the café.",
   "learningGoals": {
     "vocabulary": [
-      "Coming. Place and sightseeing words for Travnik in the present"
+      "Name mosques, towers, streets, and views with vidim, ovo je, and tamo je.",
+      "Use šetamo and Travnik landmark words in present-tense sightseeing talk."
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Point and name with vidim and ovo je.",
+      "Place distant sights with tamo je and move with šetamo."
     ],
     "culture": [
-      "Day trip to Travnik"
+      "Visit Travnik as a historic vizier town with colorful Sulejmanija Mosque.",
+      "Walk the old town and describe what you see in short present lines."
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "vidim",
+      "english": "I see",
+      "pronunciation": "VEE-deem",
+      "partOfSpeech": "verb form",
+      "example": "Vidim džamiju."
+    },
+    {
+      "bosnian": "ovo je",
+      "english": "this is",
+      "pronunciation": "OH-vo yeh",
+      "partOfSpeech": "phrase",
+      "example": "Ovo je stari grad."
+    },
+    {
+      "bosnian": "tamo je",
+      "english": "there is or it is there",
+      "pronunciation": "TA-mo yeh",
+      "partOfSpeech": "phrase",
+      "example": "Tamo je kula."
+    },
+    {
+      "bosnian": "džamija",
+      "english": "mosque",
+      "pronunciation": "JAH-mee-ya",
+      "partOfSpeech": "noun",
+      "example": "Ovo je džamija."
+    },
+    {
+      "bosnian": "kula",
+      "english": "tower",
+      "pronunciation": "KOO-la",
+      "partOfSpeech": "noun",
+      "example": "Tamo je kula."
+    },
+    {
+      "bosnian": "šetamo",
+      "english": "we walk",
+      "pronunciation": "SHEH-ta-mo",
+      "partOfSpeech": "verb form",
+      "example": "Šetamo kroz grad."
+    },
+    {
+      "bosnian": "grad",
+      "english": "town or city",
+      "pronunciation": "grad",
+      "partOfSpeech": "noun",
+      "example": "Travnik je lijep grad."
+    },
+    {
+      "bosnian": "stari",
+      "english": "old",
+      "pronunciation": "STAH-ree",
+      "partOfSpeech": "adjective",
+      "example": "Stari grad je blizu."
+    },
+    {
+      "bosnian": "ulica",
+      "english": "street",
+      "pronunciation": "OO-lee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Ulica je uska."
+    },
+    {
+      "bosnian": "pogled",
+      "english": "view",
+      "pronunciation": "POH-gled",
+      "partOfSpeech": "noun",
+      "example": "Pogled je lijep."
+    },
+    {
+      "bosnian": "Sulejmanija",
+      "english": "Sulejmanija Mosque",
+      "pronunciation": "soo-leh-MAH-nee-ya",
+      "partOfSpeech": "proper noun",
+      "example": "Ovo je Sulejmanija."
+    },
+    {
+      "bosnian": "Travnik",
+      "english": "Travnik",
+      "pronunciation": "TRAV-neek",
+      "partOfSpeech": "proper noun",
+      "example": "Danas smo u Travniku."
+    },
+    {
+      "bosnian": "vizir",
+      "english": "vizier",
+      "pronunciation": "VEE-zeer",
+      "partOfSpeech": "noun",
+      "example": "Travnik je grad vizira."
+    },
+    {
+      "bosnian": "šetam",
+      "english": "I walk",
+      "pronunciation": "SHEH-tam",
+      "partOfSpeech": "verb form",
+      "example": "Šetam uz zid."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Vidim and ovo je for what you see",
+      "explanation": "Treat this as a ready chunk you can say today. Vidim means I see. Ovo je means this is. Point at a building and name it in one short present-tense line.",
+      "examples": [
+        {
+          "bosnian": "Vidim džamiju.",
+          "english": "I see a mosque."
+        },
+        {
+          "bosnian": "Ovo je Sulejmanija.",
+          "english": "This is Sulejmanija."
+        },
+        {
+          "bosnian": "Ovo je stari grad.",
+          "english": "This is the old town."
+        }
+      ]
+    },
+    {
+      "title": "Tamo je and šetamo for place talk",
+      "explanation": "Learn the usable chunk first. Full tables can wait. Tamo je points to something farther away. Šetamo means we walk. Use both chunks while you move through a town in the present.",
+      "examples": [
+        {
+          "bosnian": "Tamo je kula.",
+          "english": "There is a tower."
+        },
+        {
+          "bosnian": "Šetamo kroz grad.",
+          "english": "We walk through the town."
+        },
+        {
+          "bosnian": "Danas smo u Travniku.",
+          "english": "Today we are in Travnik."
+        }
+      ]
+    },
+    {
+      "title": "Naming landmarks in the present",
+      "explanation": "Take this as a speaking chunk. Do not memorize a case chart yet. Combine vidim, ovo je, and tamo je with džamija, kula, and grad. Keep every sightseeing line in the present tense.",
+      "examples": [
+        {
+          "bosnian": "Vidim kulu.",
+          "english": "I see a tower."
+        },
+        {
+          "bosnian": "Ovo je džamija.",
+          "english": "This is a mosque."
+        },
+        {
+          "bosnian": "Pogled je lijep.",
+          "english": "The view is beautiful."
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "Today in Travnik",
-    "body": "Stub for Lesson 22. Present-tense sightseeing draft comes later. Past tense belongs in Book 2.",
-    "imageId": null
+    "title": "Travnik as a vizier town with colorful mosque",
+    "body": "Travnik was once the seat of Ottoman viziers in central Bosnia and Herzegovina. The old town climbs a hillside above the Plava Voda spring and keeps narrow streets full of color. Sulejmanija Mosque stands with painted details that travelers photograph from every angle. Ana and Emir walk the stone lanes and name what they see in short present-tense lines. A vizier town feels like a living museum where every corner offers a new view. Travnik rewards slow walking and polite greetings with locals.",
+    "imageId": "travnik-mosque"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A. Point and name what you see",
+      "body": "Start with vidim and ovo je. Point at Sulejmanija and say Ovo je Sulejmanija. Add džamija, kula, and stari grad as landmark nouns you can name today. Practice Vidim džamiju and Ovo je stari grad while you stand on a real or imagined corner. Ana walks beside Emir and tests each chunk before she takes a photo. Keep every sentence in the present tense. Sightseeing works best when you say the whole line together rather than hunting for a case ending.",
+      "tips": [
+        "Point at a photo while you say ovo je.",
+        "Keep vidim and the landmark in one short line.",
+        "Stay in present tense for every sightseeing sentence."
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B. Walk the old town together",
+      "body": "Move with tamo je and šetamo. Say Tamo je kula when the tower sits uphill. Invite a friend with Hajde da šetamo kroz grad. Amira joins by phone and asks what Ana sees right now. A passerby in Travnik points toward the old walls with a short polite answer. Mix ulica and pogled when you describe the walk. End with one postcard line that names Travnik as a vizier town.",
+      "tips": [
+        "Use tamo je when the sight sits farther uphill.",
+        "Invite a friend with Hajde da šetamo.",
+        "Add molim or hvala when a passerby helps you."
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Šetnja kroz Travnik",
+    "setting": "Ana and Emir walk Travnik's old town while Amira listens on the phone and a passerby points the way.",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "bosnian": "Ovo je Sulejmanija. Vidim lijepu džamiju.",
+        "english": "This is Sulejmanija. I see a beautiful mosque."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Da. Tamo je kula iznad grada.",
+        "english": "Yes. There is a tower above the town."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Alo? Šta vidite sada?",
+        "english": "Hello? What do you see now?"
+      },
+      {
+        "speaker": "Passerby",
+        "bosnian": "Stari grad je blizu. Šetajte pravo.",
+        "english": "The old town is nearby. Walk straight."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Hvala! Šetamo kroz usku ulicu.",
+        "english": "Thank you! We walk through a narrow street."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Pogled je prekrasan. Ovo je grad vizira.",
+        "english": "The view is wonderful. This is a vizier town."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Pošaljite mi kartu iz Travnika.",
+        "english": "Send me a card from Travnik."
+      },
+      {
+        "speaker": "Passerby",
+        "bosnian": "Dobar dan. Uživajte u šetnji.",
+        "english": "Good day. Enjoy the walk."
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match the sightseeing chunks",
+      "prompt": "Match each Bosnian chunk with its English meaning.",
+      "items": [
+        {
+          "left": "vidim",
+          "right": "I see"
+        },
+        {
+          "left": "ovo je",
+          "right": "this is"
+        },
+        {
+          "left": "tamo je",
+          "right": "there is"
+        },
+        {
+          "left": "džamija",
+          "right": "mosque"
+        },
+        {
+          "left": "kula",
+          "right": "tower"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "truefalse",
+      "title": "True or false in Travnik",
+      "prompt": "Decide whether each sentence matches the lesson.",
+      "items": [
+        {
+          "statement": "Ovo je means this is.",
+          "answer": true
+        },
+        {
+          "statement": "Šetamo means we walk.",
+          "answer": true
+        },
+        {
+          "statement": "Travnik was never a vizier town.",
+          "answer": false
+        },
+        {
+          "statement": "Sulejmanija is a mosque in Travnik.",
+          "answer": true
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Write the Bosnian for I see a mosque.",
+      "hint": "Begin with Vidim.",
+      "answer": "Vidim džamiju."
+    },
+    {
+      "id": "pr2",
+      "prompt": "Write the Bosnian for This is Sulejmanija.",
+      "hint": "Use Ovo je.",
+      "answer": "Ovo je Sulejmanija."
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write the Bosnian for There is a tower.",
+      "hint": "Begin with Tamo je.",
+      "answer": "Tamo je kula."
+    },
+    {
+      "id": "pr4",
+      "prompt": "Write the Bosnian for We walk through the town.",
+      "hint": "Use Šetamo and kroz grad.",
+      "answer": "Šetamo kroz grad."
+    },
+    {
+      "id": "pr5",
+      "prompt": "Write the Bosnian for Today we are in Travnik.",
+      "hint": "Begin with Danas smo u.",
+      "answer": "Danas smo u Travniku."
+    },
+    {
+      "id": "pr6",
+      "prompt": "Write the Bosnian word for street.",
+      "hint": "It begins with uli.",
+      "answer": "ulica"
+    },
+    {
+      "id": "pr7",
+      "prompt": "Write the Bosnian for The view is beautiful.",
+      "hint": "Use Pogled je lijep.",
+      "answer": "Pogled je lijep."
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "Travnik was a vizier seat",
+      "body": "Ottoman viziers once governed from Travnik in central Bosnia and Herzegovina. The town keeps that history in its old walls and titles. Learners hear vizir as a cultural keyword rather than a grammar item."
+    },
+    {
+      "title": "Sulejmanija stands out for color",
+      "body": "Sulejmanija Mosque is famous for painted details that catch the eye on a hillside walk. Ana names it with ovo je before she takes a photo. Colorful mosques make present-tense sightseeing memorable."
+    },
+    {
+      "title": "Ovo je works like a pointing finger",
+      "body": "Ovo je plus a landmark is the fastest way to name what stands in front of you. You do not need a full case chart to start a Travnik walk. Point, name, and keep moving."
+    },
+    {
+      "title": "Mountain roads need careful driving",
+      "body": "Roads into towns like Travnik often wind through hills. Fast driving on curves raises accident risk across the country. Travelers notice guardrails and tight turns on the way in."
+    }
+  ],
   "resources": [
     {
-      "label": "How to speak Bosnian (YouTube)",
+      "label": "Bosnian Coffee with local guides",
+      "url": "https://www.youtube.com/watch?v=wFGbkVzNCFU",
+      "note": "Café hospitality speech supports polite town greetings."
+    },
+    {
+      "label": "Next lesson",
+      "url": "/learn/lesson/23",
+      "note": "Lesson 23 asks what people do today."
+    },
+    {
+      "label": "How to speak Bosnian channel",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "note": "Browse more speaker models after Travnik."
     }
   ],
   "sectionQuiz": {
     "title": "Lesson 22 section quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does vidim mean?",
+        "options": [
+          "I see",
+          "I walk",
+          "I want",
+          "I need"
+        ],
+        "correctIndex": 0,
+        "explanation": "Vidim means I see.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q2",
+        "question": "Which phrase means this is?",
+        "options": [
+          "tamo je",
+          "ovo je",
+          "šetamo",
+          "hvala"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ovo je means this is.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q3",
+        "question": "Which landmark is in Travnik?",
+        "options": [
+          "Sulejmanija Mosque",
+          "Stari Most in Mostar",
+          "Neum beach only",
+          "Bilino Polje stadium"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sulejmanija Mosque is in Travnik.",
+        "skill": "culture"
+      },
+      {
+        "id": "q4",
+        "question": "What does šetamo mean?",
+        "options": [
+          "we walk",
+          "I see",
+          "this is",
+          "goodbye"
+        ],
+        "correctIndex": 0,
+        "explanation": "Šetamo means we walk.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q5",
+        "question": "Why are traffic accident rates high on mountain roads?",
+        "options": [
+          "Winding roads and fast driving add risk",
+          "There are no cars in Bosnia and Herzegovina",
+          "All roads are straight highways",
+          "Buses never use mountain routes"
+        ],
+        "correctIndex": 0,
+        "explanation": "Winding roads and fast local driving raise accident risk.",
+        "skill": "culture"
+      },
+      {
+        "id": "q6",
+        "question": "Which line points to a distant tower?",
+        "options": [
+          "Tamo je kula.",
+          "Ovo je kula.",
+          "Račun, molim.",
+          "Koliko košta?"
+        ],
+        "correctIndex": 0,
+        "explanation": "Tamo je kula points to a distant tower.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q7",
+        "question": "What was Travnik known for historically?",
+        "options": [
+          "A vizier seat",
+          "A coastal port",
+          "An airport hub",
+          "A ski jump only"
+        ],
+        "correctIndex": 0,
+        "explanation": "Travnik was known as a vizier town.",
+        "skill": "culture"
+      },
+      {
+        "id": "q8",
+        "question": "Who asks what Ana and Emir see on the phone?",
+        "options": [
+          "Amira",
+          "Mrvica",
+          "A doctor",
+          "A bus clerk"
+        ],
+        "correctIndex": 0,
+        "explanation": "Amira asks what they see during the call.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q9",
+        "question": "What does džamija mean?",
+        "options": [
+          "mosque",
+          "tower",
+          "street",
+          "view"
+        ],
+        "correctIndex": 0,
+        "explanation": "Džamija means mosque.",
+        "skill": "vocabulary"
+      }
+    ]
   },
-  "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to. Day trip to Travnik"
+  "dictionaryEntries": [
+    {
+      "day": 22,
+      "bosnian": "vidim",
+      "english": "I see",
+      "pronunciation": "VEE-deem",
+      "partOfSpeech": "verb form",
+      "example": "Vidim džamiju."
+    },
+    {
+      "day": 22,
+      "bosnian": "ovo je",
+      "english": "this is",
+      "pronunciation": "OH-vo yeh",
+      "partOfSpeech": "phrase",
+      "example": "Ovo je stari grad."
+    },
+    {
+      "day": 22,
+      "bosnian": "tamo je",
+      "english": "there is or it is there",
+      "pronunciation": "TA-mo yeh",
+      "partOfSpeech": "phrase",
+      "example": "Tamo je kula."
+    },
+    {
+      "day": 22,
+      "bosnian": "džamija",
+      "english": "mosque",
+      "pronunciation": "JAH-mee-ya",
+      "partOfSpeech": "noun",
+      "example": "Ovo je džamija."
+    },
+    {
+      "day": 22,
+      "bosnian": "kula",
+      "english": "tower",
+      "pronunciation": "KOO-la",
+      "partOfSpeech": "noun",
+      "example": "Tamo je kula."
+    },
+    {
+      "day": 22,
+      "bosnian": "šetamo",
+      "english": "we walk",
+      "pronunciation": "SHEH-ta-mo",
+      "partOfSpeech": "verb form",
+      "example": "Šetamo kroz grad."
+    },
+    {
+      "day": 22,
+      "bosnian": "grad",
+      "english": "town or city",
+      "pronunciation": "grad",
+      "partOfSpeech": "noun",
+      "example": "Travnik je lijep grad."
+    },
+    {
+      "day": 22,
+      "bosnian": "stari",
+      "english": "old",
+      "pronunciation": "STAH-ree",
+      "partOfSpeech": "adjective",
+      "example": "Stari grad je blizu."
+    },
+    {
+      "day": 22,
+      "bosnian": "ulica",
+      "english": "street",
+      "pronunciation": "OO-lee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Ulica je uska."
+    },
+    {
+      "day": 22,
+      "bosnian": "pogled",
+      "english": "view",
+      "pronunciation": "POH-gled",
+      "partOfSpeech": "noun",
+      "example": "Pogled je lijep."
+    },
+    {
+      "day": 22,
+      "bosnian": "Sulejmanija",
+      "english": "Sulejmanija Mosque",
+      "pronunciation": "soo-leh-MAH-nee-ya",
+      "partOfSpeech": "proper noun",
+      "example": "Ovo je Sulejmanija."
+    },
+    {
+      "day": 22,
+      "bosnian": "Travnik",
+      "english": "Travnik",
+      "pronunciation": "TRAV-neek",
+      "partOfSpeech": "proper noun",
+      "example": "Danas smo u Travniku."
+    },
+    {
+      "day": 22,
+      "bosnian": "vizir",
+      "english": "vizier",
+      "pronunciation": "VEE-zeer",
+      "partOfSpeech": "noun",
+      "example": "Travnik je grad vizira."
+    },
+    {
+      "day": 22,
+      "bosnian": "šetam",
+      "english": "I walk",
+      "pronunciation": "SHEH-tam",
+      "partOfSpeech": "verb form",
+      "example": "Šetam uz zid."
+    }
   ],
-  "section": 4
+  "images": [
+    {
+      "id": "travnik-mosque",
+      "alt": "Polygon painting of a colorful mosque in Travnik old town.",
+      "localPath": "/images/book1/day-22-travnik-mosque.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "travnik-street",
+      "alt": "Polygon painting of a narrow Travnik street.",
+      "localPath": "/images/book1/day-22-travnik-street.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "travnik-tower",
+      "alt": "Polygon painting of the Travnik fortress tower on a hill.",
+      "localPath": "/images/book1/day-22-travnik-tower.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "civic-winding-road",
+      "alt": "Polygon painting of a winding mountain road with fast traffic risk.",
+      "localPath": "/images/book1/day-22-civic-winding-road.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [
+    "travnik-mosque: Sulejmanija Mosque with colorful details for culture hero",
+    "travnik-street: Narrow old-town street in Travnik for mid-lesson scene",
+    "travnik-tower: Hilltop tower above Travnik for place beat",
+    "civic-winding-road: Winding mountain road with guardrails for civic panel"
+  ],
+  "civicContext": {
+    "title": "Winding mountain roads and high traffic accident rates",
+    "body": "Winding mountain roads across Bosnia and Herzegovina combine sharp curves with fast local driving. Teenage drivers on rural routes add risk on roads that already climb steep hills. Traffic accident rates in the country remain among the highest in Europe. Ana notices guardrails and tight turns on the road into Travnik. Road safety is a daily civic pressure for anyone who travels by car or bus.",
+    "imageId": "civic-winding-road",
+    "learnMore": {
+      "label": "WHO road safety country profile for Bosnia and Herzegovina",
+      "url": "https://www.who.int/publications/m/item/road-safety-bih-2023-country-profile"
+    }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu with café greetings for town walks",
+    "kind": "speaker",
+    "hook": "Local guides model polite greetings you can reuse when a passerby helps you in Travnik.",
+    "source": {
+      "title": "Bosnian Coffee with Local Guides",
+      "artistOrSpeaker": "How to speak Bosnian",
+      "regionOrScene": "Café hospitality and greetings",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "How to speak Bosnian on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=wFGbkVzNCFU",
+      "embedUrl": "https://www.youtube.com/watch?v=wFGbkVzNCFU"
+    },
+    "durationHint": "45-90 seconds",
+    "listenTask": {
+      "prompt": "Listen for a greeting or thanks line you could say after a passerby helps you.",
+      "gistQuestion": {
+        "prompt": "What kind of speech does the clip mainly model?",
+        "options": [
+          "Café hospitality and greetings",
+          "Bus ticket prices only",
+          "Ski resort ads only",
+          "Hospital forms only"
+        ],
+        "correctIndex": 0
+      },
+      "targetWords": [
+        "hvala",
+        "dobar"
+      ],
+      "noticePrompt": "Catch one polite word you can reuse on a town walk."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Dobar dan.",
+          "english": "Good day."
+        },
+        {
+          "bosnian": "Hvala!",
+          "english": "Thank you!"
+        }
+      ],
+      "teacherNote": "After the clip, greet an imagined passerby and name one landmark with ovo je."
+    }
+  },
+  "speakTargets": [
+    0,
+    4,
+    5
+  ],
+  "section": 4,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Gdje je Mostar?",
+        "english": "Where is Mostar?"
+      },
+      {
+        "bosnian": "Hajde da idemo.",
+        "english": "Let us go."
+      },
+      {
+        "bosnian": "Kakvo je vrijeme?",
+        "english": "How is the weather?"
+      },
+      {
+        "bosnian": "Hvala!",
+        "english": "Thank you!"
+      }
+    ]
+  }
 }

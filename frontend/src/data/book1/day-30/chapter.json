@@ -3,56 +3,788 @@
   "book": 1,
   "title": "Završna proslava",
   "titleEn": "Graduation party",
-  "theme": "Party. Mrvica steals the cake",
-  "status": "outlined",
+  "theme": "Party vocab and Book 1 frame review",
+  "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "Book 1 pedagogy lock. Present tense only. Review is a frame drill.",
+  "reviewerNotes": "This full draft is ready for human review before publication.",
   "estimatedMinutes": 60,
-  "storyBeat": "Graduation party. Cake heist",
+  "storyBeat": "Friends toast Book 1 completion until Mrvica steals the cake from the party table.",
   "learningGoals": {
     "vocabulary": [
-      "Coming. Full A1 present-tense frame review and dictionary tour."
+      "Reuse party words torta, slavlje, čaša, and pjeva.",
+      "Drill core present frames from the whole book.",
+      "Celebrate with čestitam and hvala in polite party talk."
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Remember volim, želim, imam, and idemo as book-wide frames.",
+      "Switch among question chunks you met in travel, food, and home lessons.",
+      "Keep every review line in the present tense."
     ],
     "culture": [
-      "Party. Mrvica steals the cake"
+      "Picture a home party that marks Book 1 graduation.",
+      "Let Mrvica's cake heist add comic glue without new grammar systems.",
+      "Treat the scene as a speaking celebration rather than a test hall."
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "torta",
+      "english": "cake",
+      "pronunciation": "TOR-ta",
+      "partOfSpeech": "noun",
+      "example": "Torta je slatka."
+    },
+    {
+      "bosnian": "slavlje",
+      "english": "celebration",
+      "pronunciation": "SLAV-lyeh",
+      "partOfSpeech": "noun",
+      "example": "Slavlje je veselo."
+    },
+    {
+      "bosnian": "čaša",
+      "english": "glass",
+      "pronunciation": "CHAH-shah",
+      "partOfSpeech": "noun",
+      "example": "Čaša je puna."
+    },
+    {
+      "bosnian": "pjevati",
+      "english": "to sing",
+      "pronunciation": "PYEH-vah-tee",
+      "partOfSpeech": "verb",
+      "example": "Pjevamo zajedno."
+    },
+    {
+      "bosnian": "zabava",
+      "english": "party or fun",
+      "pronunciation": "zah-BAH-vah",
+      "partOfSpeech": "noun",
+      "example": "Zabava je kod Amire."
+    },
+    {
+      "bosnian": "čestitam",
+      "english": "congratulations",
+      "pronunciation": "ches-tee-TAHM",
+      "partOfSpeech": "phrase",
+      "example": "Čestitam!"
+    },
+    {
+      "bosnian": "prijatelj",
+      "english": "friend",
+      "pronunciation": "pree-yah-TEL",
+      "partOfSpeech": "noun",
+      "example": "Prijatelj je ovdje."
+    },
+    {
+      "bosnian": "sretan",
+      "english": "happy or merry",
+      "pronunciation": "SREH-tahn",
+      "partOfSpeech": "adjective",
+      "example": "Sretan sam danas."
+    },
+    {
+      "bosnian": "zajedno",
+      "english": "together",
+      "pronunciation": "zah-YED-noh",
+      "partOfSpeech": "adverb",
+      "example": "Pijemo zajedno."
+    },
+    {
+      "bosnian": "volim",
+      "english": "I like or I love",
+      "pronunciation": "VOH-leem",
+      "partOfSpeech": "verb form",
+      "example": "Volim ovu tortu."
+    },
+    {
+      "bosnian": "želim",
+      "english": "I want",
+      "pronunciation": "ZHEH-leem",
+      "partOfSpeech": "verb form",
+      "example": "Želim još torte."
+    },
+    {
+      "bosnian": "imam",
+      "english": "I have",
+      "pronunciation": "EE-mam",
+      "partOfSpeech": "verb form",
+      "example": "Imam čašu."
+    },
+    {
+      "bosnian": "idemo",
+      "english": "we are going",
+      "pronunciation": "EE-deh-moh",
+      "partOfSpeech": "phrase",
+      "example": "Idemo na zabavu."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Remember volim and želim",
+      "explanation": "Learn this as a full phrase. Do not treat it as a table. Volim and želim are book-wide want frames. Add torta, prijatelje, or bosanski after the verb. Keep the pair in the present for party toasts.",
+      "examples": [
+        {
+          "bosnian": "Volim ovu zabavu.",
+          "english": "I love this party."
+        },
+        {
+          "bosnian": "Želim još sok.",
+          "english": "I want more juice."
+        },
+        {
+          "bosnian": "Volim prijatelje ovdje.",
+          "english": "I love the friends here."
+        }
+      ]
+    },
+    {
+      "title": "Remember imam and idemo",
+      "explanation": "Hold this as a spoken pattern. Do not treat it as a grammar grid. Imam claims what is in your hand at the table. Idemo moves the group toward cake or music. Both frames built the book and still work tonight.",
+      "examples": [
+        {
+          "bosnian": "Imam čašu.",
+          "english": "I have a glass."
+        },
+        {
+          "bosnian": "Imam dobru ideju.",
+          "english": "I have a good idea."
+        },
+        {
+          "bosnian": "Idemo na slavlje.",
+          "english": "We are going to the celebration."
+        }
+      ]
+    },
+    {
+      "title": "Remember question switches",
+      "explanation": "Take this as a speaking chunk. Do not memorize a case chart yet. Rotate Koliko košta?, Gdje je?, Kakvo je vrijeme?, and Gdje radiš? as quick review switches. Answer with one present line each. No new charts tonight.",
+      "examples": [
+        {
+          "bosnian": "Koliko košta torta?",
+          "english": "How much does the cake cost?"
+        },
+        {
+          "bosnian": "Gdje je torta?",
+          "english": "Where is the cake?"
+        },
+        {
+          "bosnian": "Kakvo je vrijeme?",
+          "english": "How is the weather?"
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "Party. Mrvica steals the cake",
-    "body": "Stub for Lesson 30. Full culture hook will be written on the draft night.",
-    "imageId": null
+    "title": "A home graduation party in Sarajevo",
+    "body": "Amira clears the table for a small slavlje that marks the end of Book 1 rather than a formal school diploma. Friends bring šampanjac in čaše while someone starts a song on the phone speaker. Ana and Emir toast with čestitam and laugh about every lesson from café burek to cold Neretva water. Mrvica watches the torta with professional interest. The room mixes Bosnian frames with kitchen warmth. A graduation party here is present tense joy plus one mischievous cat rather than a grammar exam.",
+    "imageId": "party-table"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A. Party words and remember panels",
+      "body": "Open with torta, slavlje, and čaša so the table feels festive before the first toast. Review volim and želim with party nouns you already know from food and friend lessons. Say Čestitam! to Ana and Emir for finishing Book 1 together at Amira's table. Add pjevati and zajedno when the group sings one chorus from a phone speaker. Keep remember panels short. One frame, one example, one smile, then the next frame. Mrvica circles the torta while Amira warns Ne diraj! with a laugh in her voice. Say each toast line twice, then raise your čaša toward the open window together.",
+      "tips": [
+        "Reuse molim when you offer cake.",
+        "Keep volim and želim in present lines only.",
+        "Point at torta when you drill imam."
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B. Book-wide frame drill",
+      "body": "Move from party nouns to a fast frame drill around Amira's living room. Switch among Koliko košta?, Gdje je?, and Kakvo je vrijeme? as joke questions between friends. Answer with imam, idemo, or radim chunks from earlier lessons without opening any new charts. Emir says Idemo na balkon while Ana asks Gdje je torta and everyone smiles. Mrvica steals the cake and Amira shouts Mrvica, ne! across the table. Everyone laughs and keeps speaking Bosnian anyway because that is the real graduation test tonight. Practice a victory chain aloud. Toast, question switch, answer, cat shout, hvala, and vidimo se again.",
+      "tips": [
+        "Treat review as spoken frames rather than silent reading.",
+        "Use prijatelj when you thank the group.",
+        "End with hvala and vidimo se u Book 2 preview talk."
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Torta nestaje",
+    "setting": "Amira hosts a Book 1 graduation party until Mrvica grabs the cake from the table.",
+    "lines": [
+      {
+        "speaker": "Amira",
+        "bosnian": "Dobrodošli na slavlje. Torta je na stolu.",
+        "english": "Welcome to the celebration. The cake is on the table."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Čestitam svima. Volim ovu zabavu.",
+        "english": "Congratulations to everyone. I love this party."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Želim još sok. Imam čašu.",
+        "english": "I want more juice. I have a glass."
+      },
+      {
+        "speaker": "Mrvica",
+        "bosnian": "Mrvica gleda tortu.",
+        "english": "Mrvica watches the cake."
+      },
+      {
+        "speaker": "Mrvica",
+        "bosnian": "Mjau! Imam tortu.",
+        "english": "Meow! I have the cake."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Mrvica je brza! Nema torte!",
+        "english": "Mrvica is fast! There is no cake!"
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Mrvica, ne! Ali svi se smiju.",
+        "english": "Mrvica, no! But everyone laughs."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Hvala za sve. Idemo dalje zajedno.",
+        "english": "Thank you for everything. We go on together."
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match party words",
+      "prompt": "Match each Bosnian party word with its English meaning.",
+      "items": [
+        {
+          "left": "torta",
+          "right": "cake"
+        },
+        {
+          "left": "slavlje",
+          "right": "celebration"
+        },
+        {
+          "left": "čaša",
+          "right": "glass"
+        },
+        {
+          "left": "čestitam",
+          "right": "congratulations"
+        },
+        {
+          "left": "zajedno",
+          "right": "together"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "truefalse",
+      "title": "True or false review",
+      "prompt": "Decide whether each sentence matches the lesson.",
+      "items": [
+        {
+          "statement": "Volim ovu zabavu means I love this party.",
+          "answer": true
+        },
+        {
+          "statement": "Mrvica steals the cake.",
+          "answer": true
+        },
+        {
+          "statement": "Idemo means we are going.",
+          "answer": true
+        },
+        {
+          "statement": "Book 1 adds past tense storytelling.",
+          "answer": false
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Write the Bosnian for Congratulations!",
+      "hint": "One word.",
+      "answer": "Čestitam!"
+    },
+    {
+      "id": "pr2",
+      "prompt": "Write the Bosnian for I love this party.",
+      "hint": "Use Volim ovu zabavu.",
+      "answer": "Volim ovu zabavu."
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write the Bosnian for Where is the cake?",
+      "hint": "Use Gdje je torta?",
+      "answer": "Gdje je torta?"
+    },
+    {
+      "id": "pr4",
+      "prompt": "Write the Bosnian for I have a glass.",
+      "hint": "Use Imam čašu.",
+      "answer": "Imam čašu."
+    },
+    {
+      "id": "pr5",
+      "prompt": "Write the Bosnian for We go on together.",
+      "hint": "Use Idemo dalje zajedno.",
+      "answer": "Idemo dalje zajedno."
+    },
+    {
+      "id": "pr6",
+      "prompt": "Write the Bosnian word for celebration.",
+      "hint": "It begins with slav.",
+      "answer": "slavlje"
+    },
+    {
+      "id": "pr7",
+      "prompt": "Write the Bosnian for I want more juice.",
+      "hint": "Use Želim još sok.",
+      "answer": "Želim još sok."
+    },
+    {
+      "id": "pr8",
+      "prompt": "Write the Bosnian for The cake is sweet.",
+      "hint": "Use torta and slatka.",
+      "answer": "Torta je slatka."
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "Book 1 ends in the present",
+      "body": "Graduation night reviews frames without opening past tense storytelling. That matches the Book 1 pedagogy lock learners followed from Lesson 1."
+    },
+    {
+      "title": "Mrvica keeps comic glue",
+      "body": "The cake heist gives Mrvica a party job without new grammar. Cats and torta are memorable review anchors."
+    },
+    {
+      "title": "Čestitam fits any toast",
+      "body": "One cheerful čestitam line congratulates friends on language miles. Pair it with hvala for polite celebration."
+    },
+    {
+      "title": "Frames travel better than tables",
+      "body": "Volim, želim, imam, and idemo carried learners through cafés, buses, flats, and Mostar. Tonight they share one table."
+    }
+  ],
   "resources": [
     {
-      "label": "How to speak Bosnian (YouTube)",
+      "label": "Dino Merlin sings Sredinom",
+      "url": "https://www.youtube.com/watch?v=9NADgl_ukEE",
+      "note": "A familiar song closes Book 1 on a celebratory note."
+    },
+    {
+      "label": "Book 1 complete",
+      "url": "/learn",
+      "note": "Return to the course home and preview what comes next."
+    },
+    {
+      "label": "How to speak Bosnian channel",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "note": "Keep practicing with the channel after Book 1."
     }
   ],
   "sectionQuiz": {
     "title": "Lesson 30 section quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does torta mean?",
+        "options": [
+          "Cake",
+          "Glass",
+          "Letter",
+          "Bridge"
+        ],
+        "correctIndex": 0,
+        "explanation": "Torta means cake.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q2",
+        "question": "Who steals the cake?",
+        "options": [
+          "Mrvica",
+          "Landlord",
+          "Professor",
+          "Clerk"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mrvica steals the cake.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q3",
+        "question": "Which line means I love this party?",
+        "options": [
+          "Volim ovu zabavu.",
+          "Moraš platiti kiriju.",
+          "Neću skočiti!",
+          "Pišem pismo."
+        ],
+        "correctIndex": 0,
+        "explanation": "Volim ovu zabavu means I love this party.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q4",
+        "question": "What does čestitam mean?",
+        "options": [
+          "Congratulations",
+          "Goodbye",
+          "Rent",
+          "Jump"
+        ],
+        "correctIndex": 0,
+        "explanation": "Čestitam means congratulations.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q5",
+        "question": "Which question asks where the cake is?",
+        "options": [
+          "Gdje je torta?",
+          "Koliko je kirija?",
+          "Gdje radiš?",
+          "Kakvo je vrijeme?"
+        ],
+        "correctIndex": 0,
+        "explanation": "Gdje je torta? asks where the cake is.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q6",
+        "question": "What civic topic appears in this finale?",
+        "options": [
+          "Night Wolves motorcycle club parades in Republika Srpska",
+          "Free cake for all citizens",
+          "Mostar bans diving",
+          "Postcards are taxed"
+        ],
+        "correctIndex": 0,
+        "explanation": "The Kremlin-linked Night Wolves ride in Republika Srpska including entity day events.",
+        "skill": "culture"
+      },
+      {
+        "id": "q7",
+        "question": "What does idemo dalje zajedno mean?",
+        "options": [
+          "We go on together",
+          "I rent the flat",
+          "The river is cold",
+          "I send a postcard"
+        ],
+        "correctIndex": 0,
+        "explanation": "Idemo dalje zajedno means we go on together.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q8",
+        "question": "Which frame means I have?",
+        "options": [
+          "imam",
+          "idem",
+          "skočim",
+          "pišem"
+        ],
+        "correctIndex": 0,
+        "explanation": "Imam means I have.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q9",
+        "question": "What tense does Book 1 graduation review use?",
+        "options": [
+          "Present tense only",
+          "Past tense only",
+          "Future tense only",
+          "No verbs"
+        ],
+        "correctIndex": 0,
+        "explanation": "Book 1 stays in the present tense.",
+        "skill": "culture"
+      },
+      {
+        "id": "q10",
+        "question": "Where is the party hosted?",
+        "options": [
+          "At Amira's",
+          "On Stari Most",
+          "In the post office",
+          "On a bus"
+        ],
+        "correctIndex": 0,
+        "explanation": "Amira hosts the graduation party.",
+        "skill": "dialogue"
+      }
+    ]
   },
-  "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to. Party. Mrvica steals the cake"
+  "dictionaryEntries": [
+    {
+      "day": 30,
+      "bosnian": "torta",
+      "english": "cake",
+      "pronunciation": "TOR-ta",
+      "partOfSpeech": "noun",
+      "example": "Torta je slatka."
+    },
+    {
+      "day": 30,
+      "bosnian": "slavlje",
+      "english": "celebration",
+      "pronunciation": "SLAV-lyeh",
+      "partOfSpeech": "noun",
+      "example": "Slavlje je veselo."
+    },
+    {
+      "day": 30,
+      "bosnian": "čaša",
+      "english": "glass",
+      "pronunciation": "CHAH-shah",
+      "partOfSpeech": "noun",
+      "example": "Čaša je puna."
+    },
+    {
+      "day": 30,
+      "bosnian": "pjevati",
+      "english": "to sing",
+      "pronunciation": "PYEH-vah-tee",
+      "partOfSpeech": "verb",
+      "example": "Pjevamo zajedno."
+    },
+    {
+      "day": 30,
+      "bosnian": "zabava",
+      "english": "party or fun",
+      "pronunciation": "zah-BAH-vah",
+      "partOfSpeech": "noun",
+      "example": "Zabava je kod Amire."
+    },
+    {
+      "day": 30,
+      "bosnian": "čestitam",
+      "english": "congratulations",
+      "pronunciation": "ches-tee-TAHM",
+      "partOfSpeech": "phrase",
+      "example": "Čestitam!"
+    },
+    {
+      "day": 30,
+      "bosnian": "prijatelj",
+      "english": "friend",
+      "pronunciation": "pree-yah-TEL",
+      "partOfSpeech": "noun",
+      "example": "Prijatelj je ovdje."
+    },
+    {
+      "day": 30,
+      "bosnian": "sretan",
+      "english": "happy or merry",
+      "pronunciation": "SREH-tahn",
+      "partOfSpeech": "adjective",
+      "example": "Sretan sam danas."
+    },
+    {
+      "day": 30,
+      "bosnian": "zajedno",
+      "english": "together",
+      "pronunciation": "zah-YED-noh",
+      "partOfSpeech": "adverb",
+      "example": "Pijemo zajedno."
+    },
+    {
+      "day": 30,
+      "bosnian": "volim",
+      "english": "I like or I love",
+      "pronunciation": "VOH-leem",
+      "partOfSpeech": "verb form",
+      "example": "Volim ovu tortu."
+    },
+    {
+      "day": 30,
+      "bosnian": "želim",
+      "english": "I want",
+      "pronunciation": "ZHEH-leem",
+      "partOfSpeech": "verb form",
+      "example": "Želim još torte."
+    },
+    {
+      "day": 30,
+      "bosnian": "imam",
+      "english": "I have",
+      "pronunciation": "EE-mam",
+      "partOfSpeech": "verb form",
+      "example": "Imam čašu."
+    },
+    {
+      "day": 30,
+      "bosnian": "idemo",
+      "english": "we are going",
+      "pronunciation": "EE-deh-moh",
+      "partOfSpeech": "phrase",
+      "example": "Idemo na zabavu."
+    }
   ],
-  "section": 4
+  "images": [
+    {
+      "id": "party-table",
+      "alt": "Polygon painting of a graduation party table.",
+      "localPath": "/images/book1/day-30-party-table.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "cake-heist",
+      "alt": "Polygon painting of Mrvica stealing cake at the party.",
+      "localPath": "/images/book1/day-30-cake-heist.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "friends-toast",
+      "alt": "Polygon painting of friends toasting at the finale party.",
+      "localPath": "/images/book1/day-30-friends-toast.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "civic-night-wolves",
+      "alt": "Polygon painting of a motorcycle parade mood in Banja Luka.",
+      "localPath": "/images/book1/day-30-civic-night-wolves.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [
+    "Party table with čaše and torta for party-table.",
+    "Mrvica near a missing cake for cake-heist.",
+    "Friends raising glasses for friends-toast.",
+    "Night Wolves motorcycle parade still for civic-night-wolves."
+  ],
+  "civicContext": {
+    "title": "Night Wolves parades signal Kremlin-linked symbolism in Republika Srpska",
+    "body": "The Russian Night Wolves motorcycle club maintains close Kremlin ties and faces international sanctions yet still rides through Republika Srpska and Banja Luka, including entity day events with political backing. Their parades mix Orthodox imagery, nationalist flags, and pro-Russian messaging on streets where local politicians welcome the spectacle. For learners finishing Book 1, that guest presence shows how external authoritarian soft power lands inside one entity's public calendar long after the Dayton framework promised a single democratic state.",
+    "imageId": "civic-night-wolves",
+    "learnMore": {
+      "label": "RFE/RL report on Night Wolves in Republika Srpska",
+      "url": "https://www.rferl.org/a/russia-motorcycle-night-wolves-republika-srpska/32215945.html"
+    }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu with a celebration song",
+    "kind": "song",
+    "hook": "A familiar Bosnian song gives a musical ear stretch for graduation night.",
+    "source": {
+      "title": "Dino Merlin - Sredinom",
+      "artistOrSpeaker": "Dino Merlin",
+      "regionOrScene": "Celebration listening",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "Dino Merlin on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=9NADgl_ukEE",
+      "embedUrl": "https://www.youtube.com/watch?v=9NADgl_ukEE"
+    },
+    "durationHint": "45-90 seconds",
+    "listenTask": {
+      "prompt": "Listen for one word or mood you recognize from earlier lessons.",
+      "gistQuestion": {
+        "prompt": "What kind of clip is this?",
+        "options": [
+          "A Bosnian song for listening practice",
+          "A bus ticket tutorial",
+          "A rent contract reading",
+          "A grammar table lecture"
+        ],
+        "correctIndex": 0
+      },
+      "targetWords": [
+        "sredinom",
+        "bosno"
+      ],
+      "noticePrompt": "Catch an anchor word in music rather than every line."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Čestitam!",
+          "english": "Congratulations!"
+        },
+        {
+          "bosnian": "Volim prijatelje.",
+          "english": "I love friends."
+        }
+      ],
+      "teacherNote": "After the clip, say one party toast line aloud."
+    }
+  },
+  "speakTargets": [
+    1,
+    7
+  ],
+  "section": 4,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Volim burek.",
+        "english": "I love burek."
+      },
+      {
+        "bosnian": "Treba mi karta.",
+        "english": "I need a ticket."
+      },
+      {
+        "bosnian": "Idemo u Mostar.",
+        "english": "We are going to Mostar."
+      },
+      {
+        "bosnian": "Hvala za sve.",
+        "english": "Thank you for everything."
+      }
+    ]
+  },
+  "canDoChecks": [
+    {
+      "id": "cd1",
+      "kind": "speak",
+      "prompt": "I can say three Book 1 frames aloud with volim, želim, or imam."
+    },
+    {
+      "id": "cd2",
+      "kind": "speak",
+      "prompt": "I can ask one review question with Koliko košta?, Gdje je?, or Kakvo je vrijeme?"
+    },
+    {
+      "id": "cd3",
+      "kind": "listen",
+      "prompt": "I can catch one familiar word in the celebration listening clip."
+    },
+    {
+      "id": "cd4",
+      "kind": "write",
+      "prompt": "I can write a two-line party toast using lesson vocabulary."
+    },
+    {
+      "id": "cd5",
+      "kind": "speak",
+      "prompt": "I can tell the Mrvica cake story in two present tense sentences."
+    }
+  ]
 }

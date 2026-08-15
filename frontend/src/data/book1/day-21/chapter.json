@@ -4,55 +4,711 @@
   "title": "Ponavljanje",
   "titleEn": "Review",
   "theme": "Ana plans a solo weekend",
-  "status": "outlined",
+  "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "Book 1 pedagogy lock. Present tense only. Review is a frame drill.",
+  "reviewerNotes": "This full draft is ready for human review before publication.",
   "estimatedMinutes": 60,
-  "storyBeat": "Ana plans a weekend alone",
+  "storyBeat": "Ana plans a solo weekend and drills frames from Lessons 15 through 20 at Amira's café.",
   "learningGoals": {
     "vocabulary": [
-      "Coming. Frame drill review of lessons 15 to 20. Present tense only."
+      "Recycle idemo, karta, hoću, telefon, vikend, and plan for weekend talk.",
+      "Reuse često, autobus, račun, and još jednom in café and travel frames."
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Drill Treba mi and Hoću as present need and wish chunks.",
+      "Switch among Koliko košta?, Gdje je?, and Kakvo je vrijeme?"
     ],
     "culture": [
-      "Ana plans a solo weekend"
+      "Plan a solo weekend with postcards from Una, Bihać, or Jajce.",
+      "Treat review as frame practice rather than a new grammar system."
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "idemo",
+      "english": "let us go",
+      "pronunciation": "EE-deh-mo",
+      "partOfSpeech": "verb form",
+      "example": "Hajde da idemo."
+    },
+    {
+      "bosnian": "karta",
+      "english": "ticket or card",
+      "pronunciation": "KAR-ta",
+      "partOfSpeech": "noun",
+      "example": "Treba mi karta."
+    },
+    {
+      "bosnian": "hoću",
+      "english": "I want",
+      "pronunciation": "HO-choo",
+      "partOfSpeech": "verb form",
+      "example": "Hoću vikend samo."
+    },
+    {
+      "bosnian": "često",
+      "english": "often",
+      "pronunciation": "CHEH-sto",
+      "partOfSpeech": "adverb",
+      "example": "Često zovem Amiru."
+    },
+    {
+      "bosnian": "telefon",
+      "english": "telephone",
+      "pronunciation": "teh-leh-FON",
+      "partOfSpeech": "noun",
+      "example": "Gdje je telefon?"
+    },
+    {
+      "bosnian": "vikend",
+      "english": "weekend",
+      "pronunciation": "VEE-kend",
+      "partOfSpeech": "noun",
+      "example": "Planiram vikend."
+    },
+    {
+      "bosnian": "plan",
+      "english": "plan",
+      "pronunciation": "plan",
+      "partOfSpeech": "noun",
+      "example": "Imam plan za vikend."
+    },
+    {
+      "bosnian": "još jednom",
+      "english": "one more time",
+      "pronunciation": "yosh YED-nom",
+      "partOfSpeech": "phrase",
+      "example": "Reci još jednom."
+    },
+    {
+      "bosnian": "autobus",
+      "english": "bus",
+      "pronunciation": "OW-toh-boos",
+      "partOfSpeech": "noun",
+      "example": "Autobus ide u Bihać."
+    },
+    {
+      "bosnian": "račun",
+      "english": "bill",
+      "pronunciation": "RAH-choon",
+      "partOfSpeech": "noun",
+      "example": "Račun, molim."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Remember Treba mi and Hoću",
+      "explanation": "Learn this as a full phrase. Do not treat it as a table. Treba mi names a need right now. Hoću names a wish. Keep both chunks in the present and add one familiar object after each verb.",
+      "examples": [
+        {
+          "bosnian": "Treba mi karta.",
+          "english": "I need a ticket."
+        },
+        {
+          "bosnian": "Hoću vikend samo.",
+          "english": "I want a weekend alone."
+        },
+        {
+          "bosnian": "Treba mi telefon.",
+          "english": "I need a phone."
+        }
+      ]
+    },
+    {
+      "title": "Remember price, place, and weather questions",
+      "explanation": "Hold this as a spoken pattern. Do not treat it as a grammar grid. Koliko košta? asks about price. Gdje je? asks about place. Kakvo je vrijeme? asks about weather. Choose the question that matches your weekend plan.",
+      "examples": [
+        {
+          "bosnian": "Koliko košta karta?",
+          "english": "How much does the ticket cost?"
+        },
+        {
+          "bosnian": "Gdje je autobus?",
+          "english": "Where is the bus?"
+        },
+        {
+          "bosnian": "Kakvo je vrijeme?",
+          "english": "How is the weather?"
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "Ana plans a solo weekend",
-    "body": "Stub for Lesson 21. Full culture hook will be written on the draft night.",
-    "imageId": null
+    "title": "Weekend planning with northwest postcards",
+    "body": "Ana spreads a weekend map beside her coffee and a postcard from Una or Bihać. The river towns of northwest Bosnia and Herzegovina offer waterfalls, old bridges, and quiet walks that suit a solo traveler. Jajce appears on another card with its fortress above the Pliva waterfall. Ana checks the weather, counts her budget, and writes a short plan on a napkin. A weekend alone still needs polite questions at a café and a ticket counter. The postcard places turn review frames into a real trip idea beyond Sarajevo.",
+    "imageId": "una-postcard"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A. Drill need and wish frames",
+      "body": "This review drills frames from Lessons 15 through 20. Start with Treba mi and Hoću. Say Treba mi karta and Hoću vikend samo as full lines. Add telefon, plan, and vikend to your weekend story. Practice Koliko košta? before you buy a bus ticket. Ana sits at Amira's café with a map and a Una postcard. She names what she needs and what she wants without opening a new grammar chart. Repeat each frame još jednom until the need and wish sound automatic.",
+      "tips": [
+        "Keep Treba mi and Hoću with the object in one breath.",
+        "Say each frame još jednom before you switch to a question.",
+        "Stay in present tense for every weekend line."
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B. Switch travel questions at the café",
+      "body": "Now switch among three question frames. Ask Gdje je autobus? at the station. Ask Kakvo je vrijeme? before a mountain walk. Finish café talk with Račun, molim when you pay. Emir and Amira help Ana test her solo plan while Mrvica watches the sugar bowl. Mix idemo with a place name and često with a habit from earlier lessons. The review works when you can change frames without English coaching. Stay in the present tense for every answer.",
+      "tips": [
+        "Hear the question word before you choose your answer.",
+        "Add molim or hvala in every shop and café exchange.",
+        "Mix two old topics when one frame feels too easy."
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Plan za vikend",
+    "setting": "Ana, Emir, and Amira sit at a café table with a map, postcards, and one curious cat.",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "bosnian": "Imam plan za vikend. Hoću ići sama.",
+        "english": "I have a plan for the weekend. I want to go alone."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Treba ti karta i dobar telefon.",
+        "english": "You need a ticket and a good phone."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Pogledaj ovu kartu. Una je lijepa.",
+        "english": "Look at this card. Una is beautiful."
+      },
+      {
+        "speaker": "Mrvica",
+        "bosnian": "Mjau! Ja ostajem ovdje.",
+        "english": "Meow! I am staying here."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Kakvo je vrijeme za planinu?",
+        "english": "How is the weather for the mountains?"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Često je hladno. Gdje je autobus?",
+        "english": "It is often cold. Where is the bus?"
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Hajde da idemo sutra. Račun, molim?",
+        "english": "Let us go tomorrow. The bill, please?"
+      },
+      {
+        "speaker": "Mrvica",
+        "bosnian": "Mjau! Još jednom kahvu!",
+        "english": "Meow! Coffee one more time!"
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match the review frames",
+      "prompt": "Match each Bosnian chunk with its English meaning.",
+      "items": [
+        {
+          "left": "treba mi",
+          "right": "I need"
+        },
+        {
+          "left": "hoću",
+          "right": "I want"
+        },
+        {
+          "left": "koliko košta",
+          "right": "how much does it cost"
+        },
+        {
+          "left": "kakvo je vrijeme",
+          "right": "how is the weather"
+        },
+        {
+          "left": "još jednom",
+          "right": "one more time"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "truefalse",
+      "title": "True or false on the weekend review",
+      "prompt": "Decide whether each sentence correctly reviews Lessons 15 through 20.",
+      "items": [
+        {
+          "statement": "Treba mi karta means I need a ticket.",
+          "answer": true
+        },
+        {
+          "statement": "Kakvo je vrijeme? asks about price.",
+          "answer": false
+        },
+        {
+          "statement": "Gdje je autobus? asks about place.",
+          "answer": true
+        },
+        {
+          "statement": "Račun, molim asks for the bill.",
+          "answer": true
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Write the Bosnian chunk for I need a ticket.",
+      "hint": "Begin with Treba mi.",
+      "answer": "Treba mi karta."
+    },
+    {
+      "id": "pr2",
+      "prompt": "Write the Bosnian for I want a weekend alone.",
+      "hint": "Use Hoću and vikend.",
+      "answer": "Hoću vikend samo."
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write the polite price question for a ticket.",
+      "hint": "Begin with Koliko.",
+      "answer": "Koliko košta karta?"
+    },
+    {
+      "id": "pr4",
+      "prompt": "Write the Bosnian question that asks how the weather is.",
+      "hint": "Begin with Kakvo.",
+      "answer": "Kakvo je vrijeme?"
+    },
+    {
+      "id": "pr5",
+      "prompt": "Write the Bosnian for Where is the bus?",
+      "hint": "Begin with Gdje je.",
+      "answer": "Gdje je autobus?"
+    },
+    {
+      "id": "pr6",
+      "prompt": "Write the Bosnian invitation Let us go.",
+      "hint": "Begin with Hajde da.",
+      "answer": "Hajde da idemo."
+    },
+    {
+      "id": "pr7",
+      "prompt": "Write the Bosnian for The bill, please.",
+      "hint": "Use Račun and molim.",
+      "answer": "Račun, molim."
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "Una and Bihać suit a quiet weekend",
+      "body": "The Una River region in northwest Bosnia and Herzegovina offers green water and old towns like Bihać. A solo traveler can plan walks and river views without a big city crowd. Ana's postcard keeps the place visible while she reviews travel frames."
+    },
+    {
+      "title": "Jajce adds a waterfall stop",
+      "body": "Jajce sits above the Pliva waterfall and often appears on traveler postcards. The fortress and old town give Ana a second weekend option beyond the Una valley. Place names turn review vocabulary into real destinations."
+    },
+    {
+      "title": "Treba mi stays a survival chunk",
+      "body": "Treba mi plus a noun is one of the fastest ways to name a need at a counter. You do not need a full conjugation chart to buy a bus ticket. Pair the chunk with molim and you sound ready for travel talk."
+    },
+    {
+      "title": "Solo weekends still need polite frames",
+      "body": "Traveling alone does not mean traveling without manners. Račun, molim and hvala keep café and ticket talk friendly. Book 1 stays practical by mixing need, wish, and polite questions in one review night."
+    }
+  ],
   "resources": [
     {
-      "label": "How to speak Bosnian (YouTube)",
+      "label": "Learn Bosnian: Telling Time",
+      "url": "https://www.youtube.com/watch?v=0xiYbtHQaDc",
+      "note": "Clock phrases help you read weekend departure boards."
+    },
+    {
+      "label": "Next lesson",
+      "url": "/learn/lesson/22",
+      "note": "Lesson 22 walks Travnik with sightseeing chunks."
+    },
+    {
+      "label": "How to speak Bosnian channel",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "note": "Browse more speaker models after you finish the review."
     }
   ],
   "sectionQuiz": {
     "title": "Lesson 21 section quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does hoću express in weekend planning?",
+        "options": [
+          "I want",
+          "I need",
+          "I hear",
+          "I pay"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hoću means I want.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q2",
+        "question": "Which chunk means I need a ticket?",
+        "options": [
+          "Hoću vikend.",
+          "Treba mi karta.",
+          "Kakvo je vrijeme?",
+          "Račun, molim."
+        ],
+        "correctIndex": 1,
+        "explanation": "Treba mi karta means I need a ticket.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q3",
+        "question": "Which question asks about price?",
+        "options": [
+          "Gdje je autobus?",
+          "Koliko košta karta?",
+          "Kakvo je vrijeme?",
+          "Hajde da idemo."
+        ],
+        "correctIndex": 1,
+        "explanation": "Koliko košta karta? asks about price.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q4",
+        "question": "Which question asks about weather?",
+        "options": [
+          "Kakvo je vrijeme?",
+          "Koliko košta?",
+          "Gdje je telefon?",
+          "Još jednom."
+        ],
+        "correctIndex": 0,
+        "explanation": "Kakvo je vrijeme? asks about weather.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q5",
+        "question": "What does vikend mean?",
+        "options": [
+          "weekend",
+          "phone",
+          "bill",
+          "bus"
+        ],
+        "correctIndex": 0,
+        "explanation": "Vikend means weekend.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q6",
+        "question": "Which postcard region does Ana consider?",
+        "options": [
+          "Una or Bihać",
+          "Only Neum beach",
+          "Only Jahorina ski",
+          "Only Mostar bridge"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ana considers Una or Bihać for a solo trip.",
+        "skill": "culture"
+      },
+      {
+        "id": "q7",
+        "question": "What happens when private rural bus lines shut down?",
+        "options": [
+          "Villages can lose reliable transport",
+          "Tickets become free",
+          "All buses run faster",
+          "Phones stop working"
+        ],
+        "correctIndex": 0,
+        "explanation": "Canceled rural lines can strand villages without replacement service.",
+        "skill": "culture"
+      },
+      {
+        "id": "q8",
+        "question": "Which line asks for the bill?",
+        "options": [
+          "Račun, molim.",
+          "Treba mi karta.",
+          "Često zovem.",
+          "Imam plan."
+        ],
+        "correctIndex": 0,
+        "explanation": "Račun, molim asks for the bill.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q9",
+        "question": "What does još jednom mean?",
+        "options": [
+          "one more time",
+          "every day",
+          "never again",
+          "right now"
+        ],
+        "correctIndex": 0,
+        "explanation": "Još jednom means one more time.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q10",
+        "question": "Who stays at the café while Ana plans to travel?",
+        "options": [
+          "Mrvica",
+          "The bus driver",
+          "A doctor",
+          "A seller in Travnik"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mrvica stays at the café in the dialogue.",
+        "skill": "dialogue"
+      }
+    ]
   },
-  "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to. Ana plans a solo weekend"
+  "dictionaryEntries": [
+    {
+      "day": 21,
+      "bosnian": "idemo",
+      "english": "let us go",
+      "pronunciation": "EE-deh-mo",
+      "partOfSpeech": "verb form",
+      "example": "Hajde da idemo."
+    },
+    {
+      "day": 21,
+      "bosnian": "karta",
+      "english": "ticket or card",
+      "pronunciation": "KAR-ta",
+      "partOfSpeech": "noun",
+      "example": "Treba mi karta."
+    },
+    {
+      "day": 21,
+      "bosnian": "hoću",
+      "english": "I want",
+      "pronunciation": "HO-choo",
+      "partOfSpeech": "verb form",
+      "example": "Hoću vikend samo."
+    },
+    {
+      "day": 21,
+      "bosnian": "često",
+      "english": "often",
+      "pronunciation": "CHEH-sto",
+      "partOfSpeech": "adverb",
+      "example": "Često zovem Amiru."
+    },
+    {
+      "day": 21,
+      "bosnian": "telefon",
+      "english": "telephone",
+      "pronunciation": "teh-leh-FON",
+      "partOfSpeech": "noun",
+      "example": "Gdje je telefon?"
+    },
+    {
+      "day": 21,
+      "bosnian": "vikend",
+      "english": "weekend",
+      "pronunciation": "VEE-kend",
+      "partOfSpeech": "noun",
+      "example": "Planiram vikend."
+    },
+    {
+      "day": 21,
+      "bosnian": "plan",
+      "english": "plan",
+      "pronunciation": "plan",
+      "partOfSpeech": "noun",
+      "example": "Imam plan za vikend."
+    },
+    {
+      "day": 21,
+      "bosnian": "još jednom",
+      "english": "one more time",
+      "pronunciation": "yosh YED-nom",
+      "partOfSpeech": "phrase",
+      "example": "Reci još jednom."
+    },
+    {
+      "day": 21,
+      "bosnian": "autobus",
+      "english": "bus",
+      "pronunciation": "OW-toh-boos",
+      "partOfSpeech": "noun",
+      "example": "Autobus ide u Bihać."
+    },
+    {
+      "day": 21,
+      "bosnian": "račun",
+      "english": "bill",
+      "pronunciation": "RAH-choon",
+      "partOfSpeech": "noun",
+      "example": "Račun, molim."
+    }
   ],
-  "section": 3
+  "images": [
+    {
+      "id": "weekend-map",
+      "alt": "Polygon painting of a weekend map beside the Una River.",
+      "localPath": "/images/book1/day-21-weekend-map.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "una-postcard",
+      "alt": "Polygon painting of an Una River postcard view near Bihać.",
+      "localPath": "/images/book1/day-21-una-postcard.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "cafe-plan",
+      "alt": "Polygon painting of a café table used for weekend planning.",
+      "localPath": "/images/book1/day-21-cafe-plan.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "civic-rural-bus",
+      "alt": "Polygon painting of an empty rural bus stop in a Bosnian village.",
+      "localPath": "/images/book1/day-21-civic-rural-bus.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [
+    "weekend-map: Ana spreads a map for solo weekend planning",
+    "una-postcard: Postcard of Una River or Bihać for culture hero",
+    "cafe-plan: Café table with weekend plan notes and coffee",
+    "civic-rural-bus: Rural minibus on a mountain road for civic panel"
+  ],
+  "civicContext": {
+    "title": "Rural bus lines shut down as unprofitable routes",
+    "body": "Private rural bus lines across Bosnia and Herzegovina often shut down when routes stop paying. Villages that once relied on minibuses can lose reliable public transport without a replacement. Ana reads a news note about canceled mountain lines while she plans a weekend ticket. A solo trip still depends on roads and buses that do not reach every community. Transport gaps show how market pressure can leave rural residents stranded.",
+    "imageId": "civic-rural-bus",
+    "learnMore": {
+      "label": "Wikipedia article about transport in Bosnia and Herzegovina",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Bosnia_and_Herzegovina"
+    }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu with clock phrases for weekend departures",
+    "kind": "speaker",
+    "hook": "A teacher models time phrases you can reuse when you plan a bus trip.",
+    "source": {
+      "title": "Learn Bosnian: Telling Time (Sati i Minuti)",
+      "artistOrSpeaker": "Lingo Hero",
+      "regionOrScene": "Clock and schedule language",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "Lingo Hero on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=0xiYbtHQaDc",
+      "embedUrl": "https://www.youtube.com/watch?v=0xiYbtHQaDc"
+    },
+    "durationHint": "45-90 seconds",
+    "listenTask": {
+      "prompt": "Listen for a time phrase you could place beside a weekend departure.",
+      "gistQuestion": {
+        "prompt": "What is the speaker mainly teaching?",
+        "options": [
+          "Telling time and clock language",
+          "Football rules",
+          "Holiday greetings",
+          "Phone emergencies"
+        ],
+        "correctIndex": 0
+      },
+      "targetWords": [
+        "sati",
+        "koliko"
+      ],
+      "noticePrompt": "You do not need every number. Catch the question shape for time."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Koliko je sati?",
+          "english": "What time is it?"
+        },
+        {
+          "bosnian": "Hajde da idemo.",
+          "english": "Let us go."
+        }
+      ],
+      "teacherNote": "After the clip, say one weekend plan line with a time you know."
+    }
+  },
+  "speakTargets": [
+    0,
+    4,
+    6
+  ],
+  "section": 3,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Treba mi karta.",
+        "english": "I need a ticket."
+      },
+      {
+        "bosnian": "Koliko košta karta?",
+        "english": "How much does the ticket cost?"
+      },
+      {
+        "bosnian": "Kakvo je vrijeme?",
+        "english": "How is the weather?"
+      },
+      {
+        "bosnian": "Račun, molim.",
+        "english": "The bill, please."
+      }
+    ]
+  },
+  "canDoChecks": [
+    {
+      "id": "cd1",
+      "kind": "speak",
+      "prompt": "I can say Treba mi or Hoću with one familiar object."
+    },
+    {
+      "id": "cd2",
+      "kind": "speak",
+      "prompt": "I can ask Koliko košta?, Gdje je?, or Kakvo je vrijeme? aloud."
+    },
+    {
+      "id": "cd3",
+      "kind": "listen",
+      "prompt": "I can hear a time phrase in the Čuj Bosnu clip."
+    },
+    {
+      "id": "cd4",
+      "kind": "write",
+      "prompt": "I can write a complete weekend plan sentence in the present tense."
+    }
+  ]
 }

@@ -3,56 +3,763 @@
   "book": 1,
   "title": "Mostar napokon!",
   "titleEn": "Mostar at last!",
-  "theme": "Stari most dare",
-  "status": "outlined",
+  "theme": "Finally Mostar and the cold Neretva dare",
+  "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "",
+  "reviewerNotes": "This full draft is ready for human review before publication.",
   "estimatedMinutes": 60,
-  "storyBeat": "Finally Mostar. Cold Neretva dare",
+  "storyBeat": "The friends reach Mostar, walk the old town, and debate a jump from Stari Most while the green Neretva flows below.",
   "learningGoals": {
     "vocabulary": [
-      "Coming. Mostar landmarks with idemo and želim travel plans"
+      "Name Stari most, Neretva, and most as landmark words.",
+      "Use idemo and želim for present travel plans.",
+      "React to a skok dare with Neću and present fear lines."
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Use Idemo plus destination as a movement chunk.",
+      "Say Želim skočiti and Neću! as wanting and refusing lines.",
+      "Describe the bridge with je lijep and visok."
     ],
     "culture": [
-      "Stari most dare"
+      "Picture Stari Most diving tradition and old town stone streets.",
+      "Treat the Neretva color as a Herzegovina postcard.",
+      "Keep travel talk in the present without past hero stories."
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "Mostar",
+      "english": "Mostar",
+      "pronunciation": "MOH-star",
+      "partOfSpeech": "proper noun",
+      "example": "Mostar je lijep."
+    },
+    {
+      "bosnian": "Stari most",
+      "english": "Old Bridge",
+      "pronunciation": "STAH-ree most",
+      "partOfSpeech": "noun",
+      "example": "Stari most je visok."
+    },
+    {
+      "bosnian": "most",
+      "english": "bridge",
+      "pronunciation": "most",
+      "partOfSpeech": "noun",
+      "example": "Most je star."
+    },
+    {
+      "bosnian": "Neretva",
+      "english": "Neretva River",
+      "pronunciation": "neh-RET-vah",
+      "partOfSpeech": "proper noun",
+      "example": "Neretva je zelena."
+    },
+    {
+      "bosnian": "skok",
+      "english": "jump",
+      "pronunciation": "skok",
+      "partOfSpeech": "noun",
+      "example": "Skok je opasan."
+    },
+    {
+      "bosnian": "idemo",
+      "english": "we are going or let us go",
+      "pronunciation": "EE-deh-moh",
+      "partOfSpeech": "phrase",
+      "example": "Idemo u Mostar."
+    },
+    {
+      "bosnian": "želim",
+      "english": "I want",
+      "pronunciation": "ZHEH-leem",
+      "partOfSpeech": "verb form",
+      "example": "Želim vidjeti most."
+    },
+    {
+      "bosnian": "neću",
+      "english": "I do not want to",
+      "pronunciation": "NEH-choo",
+      "partOfSpeech": "verb form",
+      "example": "Neću skočiti!"
+    },
+    {
+      "bosnian": "stari grad",
+      "english": "old town",
+      "pronunciation": "STAH-ree grad",
+      "partOfSpeech": "noun",
+      "example": "Stari grad je pun turista."
+    },
+    {
+      "bosnian": "rijeka",
+      "english": "river",
+      "pronunciation": "RYE-ka",
+      "partOfSpeech": "noun",
+      "example": "Rijeka je hladna."
+    },
+    {
+      "bosnian": "visok",
+      "english": "high or tall",
+      "pronunciation": "VEE-sok",
+      "partOfSpeech": "adjective",
+      "example": "Most je visok."
+    },
+    {
+      "bosnian": "hladan",
+      "english": "cold",
+      "pronunciation": "HLA-dahn",
+      "partOfSpeech": "adjective",
+      "example": "Neretva je hladna."
+    },
+    {
+      "bosnian": "turista",
+      "english": "tourist",
+      "pronunciation": "too-REE-sta",
+      "partOfSpeech": "noun",
+      "example": "Turista slika most."
+    },
+    {
+      "bosnian": "opasan",
+      "english": "dangerous",
+      "pronunciation": "oh-PAH-sahn",
+      "partOfSpeech": "adjective",
+      "example": "Skok je opasan."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Idemo movement chunk",
+      "explanation": "Say the whole line together. Skip the full chart for now. Idemo opens a group move in the present. Add u Mostar or na most right after the chunk. Everyone can echo the line on the road south.",
+      "examples": [
+        {
+          "bosnian": "Idemo u Mostar.",
+          "english": "We are going to Mostar."
+        },
+        {
+          "bosnian": "Idemo na Stari most.",
+          "english": "We are going to the Old Bridge."
+        },
+        {
+          "bosnian": "Idemo polako.",
+          "english": "We are going slowly."
+        }
+      ]
+    },
+    {
+      "title": "Želim wanting lines",
+      "explanation": "Keep this as a sayable line rather than a paradigm list. Želim tells what you want now. Add vidjeti most or skočiti as a second verb chunk. Stay in the present so the dare stays playful rather than a saga.",
+      "examples": [
+        {
+          "bosnian": "Želim vidjeti Stari most.",
+          "english": "I want to see the Old Bridge."
+        },
+        {
+          "bosnian": "Želim skočiti.",
+          "english": "I want to jump."
+        },
+        {
+          "bosnian": "Želim fotografiju.",
+          "english": "I want a photo."
+        }
+      ]
+    },
+    {
+      "title": "Neću refusal chunk",
+      "explanation": "Practice the whole expression before you worry about paradigms. Neću refuses in one sharp present line. Add skočiti when the Neretva looks too cold. Pair it with opasan for a clear no.",
+      "examples": [
+        {
+          "bosnian": "Neću skočiti!",
+          "english": "I do not want to jump!"
+        },
+        {
+          "bosnian": "Neću! Voda je hladna.",
+          "english": "I do not want to! The water is cold."
+        },
+        {
+          "bosnian": "Neću. Skok je opasan.",
+          "english": "I do not want to. The jump is dangerous."
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "Stari most dare",
-    "body": "Stub for Lesson 28. Full culture hook will be written on the draft night.",
-    "imageId": null
+    "title": "Stari Most and the diving tradition",
+    "body": "Mostar's Stari Most arches over the green Neretva and anchors the old town skyline. Young divers train for summer leaps while tourists crowd the stone streets with cameras. The bridge is more than a photo stop. It is a living ritual that needs calm water and steady nerves. Ana wants the view while Emir jokes about a skok and Amira keeps both feet on the parapet. Cold spring water reminds you that courage and weather both matter. Present tense travel lines let you enjoy the scene without retelling every wartime chapter on the bridge.",
+    "imageId": "stari-most"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A. Arrival and landmark names",
+      "body": "Start with Mostar, Stari most, and Neretva so the map has names before the first photo. Practice Idemo u Mostar as the group steps off the bus near the old town gate. Describe visok most and zelena rijeka with short adjective lines you can say while walking. Point at turista with a camera and say Stari grad je pun ljudi on a sunny afternoon. Ana repeats želim vidjeti most while Emir looks at the cold water below the parapet. Keep landmark nouns in the present so the old town feels immediate rather than historical homework. Reuse molim when you buy water from a seller on the stone street. Say each place name twice, then add hvala and continue toward the bridge center.",
+      "tips": [
+        "Stress Stari most as two words learners recognize.",
+        "Pair rijeka with hladna when you touch the parapet.",
+        "Reuse idemo from earlier invitation lessons."
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B. The jump dare",
+      "body": "Move from sightseeing to the playful skok dare above the Neretva. Emir says Želim skočiti while tourists watch from the stone wall in the breeze. Ana answers Neću! Voda je hladna and Amira agrees skok je opasan for spring travelers. A passerby laughs and points at trained divers who wait for warmer summer water. Keep želim and neću as present lines without future or past storytelling on the parapet. Practice a short chain aloud. Movement chunk, want line, refuse line, cold water, danger word, thanks. Repeat the chain until you can enjoy the view without feeling pushed to jump today.",
+      "tips": [
+        "Say Neću! sharply when you refuse the dare.",
+        "Use opasan once so the refusal sounds serious.",
+        "Stay polite with molim when you talk to strangers."
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Hladna Neretva",
+    "setting": "Ana, Emir, and Amira stand on Stari Most while a passerby watches the cold Neretva below.",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "bosnian": "Konačno smo u Mostaru. Stari most je lijep.",
+        "english": "We are finally in Mostar. The Old Bridge is beautiful."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Idemo bliže. Želim vidjeti Neretvu.",
+        "english": "Let us go closer. I want to see the Neretva."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Rijeka je zelena i hladna danas.",
+        "english": "The river is green and cold today."
+      },
+      {
+        "speaker": "Passerby",
+        "bosnian": "Ljeto je za skok. Sada je opasno.",
+        "english": "Summer is for jumping. Now it is dangerous."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Želim skočiti. Samo malo!",
+        "english": "I want to jump. Just a little!"
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Neću skočiti! Voda je prehladna.",
+        "english": "I do not want to jump! The water is too cold."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Neću ni ja. Hajde slikati most.",
+        "english": "Me neither. Let us photograph the bridge."
+      },
+      {
+        "speaker": "Passerby",
+        "bosnian": "Dobar izbor. Most čeka sunce.",
+        "english": "Good choice. The bridge waits for sun."
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match Mostar words",
+      "prompt": "Match each Bosnian word with its English meaning.",
+      "items": [
+        {
+          "left": "most",
+          "right": "bridge"
+        },
+        {
+          "left": "rijeka",
+          "right": "river"
+        },
+        {
+          "left": "skok",
+          "right": "jump"
+        },
+        {
+          "left": "hladan",
+          "right": "cold"
+        },
+        {
+          "left": "idemo",
+          "right": "we are going"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "truefalse",
+      "title": "True or false in Mostar",
+      "prompt": "Decide whether each sentence matches the lesson.",
+      "items": [
+        {
+          "statement": "Neretva is the river below Stari Most.",
+          "answer": true
+        },
+        {
+          "statement": "Neću skočiti means I want to jump.",
+          "answer": false
+        },
+        {
+          "statement": "Idemo u Mostar means we are going to Mostar.",
+          "answer": true
+        },
+        {
+          "statement": "Skok is safe in cold spring water.",
+          "answer": false
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Write the Bosnian for We are going to Mostar.",
+      "hint": "Use Idemo u Mostar.",
+      "answer": "Idemo u Mostar."
+    },
+    {
+      "id": "pr2",
+      "prompt": "Write the Bosnian for I want to see the Old Bridge.",
+      "hint": "Use Želim vidjeti.",
+      "answer": "Želim vidjeti Stari most."
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write the Bosnian for I do not want to jump!",
+      "hint": "Use Neću skočiti.",
+      "answer": "Neću skočiti!"
+    },
+    {
+      "id": "pr4",
+      "prompt": "Write the Bosnian for The river is cold.",
+      "hint": "Use rijeka and hladna.",
+      "answer": "Rijeka je hladna."
+    },
+    {
+      "id": "pr5",
+      "prompt": "Write the Bosnian word for bridge.",
+      "hint": "One syllable.",
+      "answer": "most"
+    },
+    {
+      "id": "pr6",
+      "prompt": "Write the Bosnian for The jump is dangerous.",
+      "hint": "Use skok and opasan.",
+      "answer": "Skok je opasan."
+    },
+    {
+      "id": "pr7",
+      "prompt": "Write the Bosnian for The Old Bridge is high.",
+      "hint": "Use Stari most and visok.",
+      "answer": "Stari most je visok."
+    },
+    {
+      "id": "pr8",
+      "prompt": "Write the Bosnian for Let us go slowly.",
+      "hint": "Use Idemo polako.",
+      "answer": "Idemo polako."
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "Stari Most is a living symbol",
+      "body": "The Old Bridge in Mostar is a UNESCO landmark rebuilt after wartime destruction. Divers and tourists share the same stone view. Learners name it in the present as a place they can visit today."
+    },
+    {
+      "title": "Neretva color surprises newcomers",
+      "body": "The Neretva often looks emerald from the parapet. Cold spring water keeps dare jokes short. Hladna rijeka is a useful pair for travel talk."
+    },
+    {
+      "title": "Summer diving is seasonal",
+      "body": "Trained divers collect tips for summer leaps. Winter and spring jumps are unsafe for tourists. The passerby line keeps that tradition factual."
+    },
+    {
+      "title": "Idemo fits group travel",
+      "body": "Friends echo idemo when they move together through the old town. It reuses an invitation frame from earlier lessons with a new destination."
+    }
+  ],
   "resources": [
     {
-      "label": "How to speak Bosnian (YouTube)",
+      "label": "Mostar walking tour (YouTube)",
+      "url": "https://www.youtube.com/watch?v=vxdZQeN6c7A",
+      "note": "Place atmosphere for Stari Most and the old town."
+    },
+    {
+      "label": "Next lesson",
+      "url": "/learn/lesson/29",
+      "note": "Lesson 29 sends postcards from Bosnia and Herzegovina."
+    },
+    {
+      "label": "How to speak Bosnian channel",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "note": "Browse more speaker models after you finish the lesson."
     }
   ],
   "sectionQuiz": {
     "title": "Lesson 28 section quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What river flows under Stari Most?",
+        "options": [
+          "Neretva",
+          "Sava",
+          "Una",
+          "Drina"
+        ],
+        "correctIndex": 0,
+        "explanation": "The Neretva flows under Stari Most.",
+        "skill": "culture"
+      },
+      {
+        "id": "q2",
+        "question": "Which line means we are going to Mostar?",
+        "options": [
+          "Idemo u Mostar.",
+          "Neću skočiti!",
+          "Radim kao vodič.",
+          "Kirija je mjesečno."
+        ],
+        "correctIndex": 0,
+        "explanation": "Idemo u Mostar means we are going to Mostar.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q3",
+        "question": "What does Neću skočiti mean?",
+        "options": [
+          "I do not want to jump",
+          "I want to jump",
+          "I work today",
+          "The bridge is high"
+        ],
+        "correctIndex": 0,
+        "explanation": "Neću skočiti refuses the jump.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q4",
+        "question": "Which adjective means cold?",
+        "options": [
+          "hladan",
+          "visok",
+          "opasan",
+          "zelena"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hladan means cold.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q5",
+        "question": "Who warns that summer is for jumping?",
+        "options": [
+          "Passerby",
+          "Landlord",
+          "Clerk",
+          "Professor"
+        ],
+        "correctIndex": 0,
+        "explanation": "A passerby warns about seasonal diving.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q6",
+        "question": "What does želim vidjeti most mean?",
+        "options": [
+          "I want to see the bridge",
+          "I refuse to jump",
+          "I study Bosnian",
+          "I pay rent"
+        ],
+        "correctIndex": 0,
+        "explanation": "Želim vidjeti most means I want to see the bridge.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q7",
+        "question": "What civic topic ties to Herzegovina pilgrimage tourism?",
+        "options": [
+          "Međugorje Marian apparitions are not church-certified miracles",
+          "All bridges are closed",
+          "Mostar bans tourists",
+          "Neretva is dry year round"
+        ],
+        "correctIndex": 0,
+        "explanation": "Međugorje draws pilgrimage tourism while church authorities have not affirmed the apparitions as certified miracles.",
+        "skill": "culture"
+      },
+      {
+        "id": "q8",
+        "question": "What does skok mean?",
+        "options": [
+          "Jump",
+          "Bridge",
+          "River",
+          "Ticket"
+        ],
+        "correctIndex": 0,
+        "explanation": "Skok means jump.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q9",
+        "question": "How do Ana and Amira respond to Emir's dare?",
+        "options": [
+          "They refuse because the water is cold",
+          "They jump immediately",
+          "They rent a flat",
+          "They buy bus tickets"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ana and Amira refuse because the water is cold and dangerous.",
+        "skill": "dialogue"
+      }
+    ]
   },
-  "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to. Stari most dare"
+  "dictionaryEntries": [
+    {
+      "day": 28,
+      "bosnian": "Mostar",
+      "english": "Mostar",
+      "pronunciation": "MOH-star",
+      "partOfSpeech": "proper noun",
+      "example": "Mostar je lijep."
+    },
+    {
+      "day": 28,
+      "bosnian": "Stari most",
+      "english": "Old Bridge",
+      "pronunciation": "STAH-ree most",
+      "partOfSpeech": "noun",
+      "example": "Stari most je visok."
+    },
+    {
+      "day": 28,
+      "bosnian": "most",
+      "english": "bridge",
+      "pronunciation": "most",
+      "partOfSpeech": "noun",
+      "example": "Most je star."
+    },
+    {
+      "day": 28,
+      "bosnian": "Neretva",
+      "english": "Neretva River",
+      "pronunciation": "neh-RET-vah",
+      "partOfSpeech": "proper noun",
+      "example": "Neretva je zelena."
+    },
+    {
+      "day": 28,
+      "bosnian": "skok",
+      "english": "jump",
+      "pronunciation": "skok",
+      "partOfSpeech": "noun",
+      "example": "Skok je opasan."
+    },
+    {
+      "day": 28,
+      "bosnian": "idemo",
+      "english": "we are going or let us go",
+      "pronunciation": "EE-deh-moh",
+      "partOfSpeech": "phrase",
+      "example": "Idemo u Mostar."
+    },
+    {
+      "day": 28,
+      "bosnian": "želim",
+      "english": "I want",
+      "pronunciation": "ZHEH-leem",
+      "partOfSpeech": "verb form",
+      "example": "Želim vidjeti most."
+    },
+    {
+      "day": 28,
+      "bosnian": "neću",
+      "english": "I do not want to",
+      "pronunciation": "NEH-choo",
+      "partOfSpeech": "verb form",
+      "example": "Neću skočiti!"
+    },
+    {
+      "day": 28,
+      "bosnian": "stari grad",
+      "english": "old town",
+      "pronunciation": "STAH-ree grad",
+      "partOfSpeech": "noun",
+      "example": "Stari grad je pun turista."
+    },
+    {
+      "day": 28,
+      "bosnian": "rijeka",
+      "english": "river",
+      "pronunciation": "RYE-ka",
+      "partOfSpeech": "noun",
+      "example": "Rijeka je hladna."
+    },
+    {
+      "day": 28,
+      "bosnian": "visok",
+      "english": "high or tall",
+      "pronunciation": "VEE-sok",
+      "partOfSpeech": "adjective",
+      "example": "Most je visok."
+    },
+    {
+      "day": 28,
+      "bosnian": "hladan",
+      "english": "cold",
+      "pronunciation": "HLA-dahn",
+      "partOfSpeech": "adjective",
+      "example": "Neretva je hladna."
+    },
+    {
+      "day": 28,
+      "bosnian": "turista",
+      "english": "tourist",
+      "pronunciation": "too-REE-sta",
+      "partOfSpeech": "noun",
+      "example": "Turista slika most."
+    },
+    {
+      "day": 28,
+      "bosnian": "opasan",
+      "english": "dangerous",
+      "pronunciation": "oh-PAH-sahn",
+      "partOfSpeech": "adjective",
+      "example": "Skok je opasan."
+    }
   ],
-  "section": 4
+  "images": [
+    {
+      "id": "stari-most",
+      "alt": "Polygon painting of Stari Most over the Neretva in Mostar.",
+      "localPath": "/images/book1/day-28-stari-most.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "neretva-green",
+      "alt": "Polygon painting of green Neretva river water.",
+      "localPath": "/images/book1/day-28-neretva-green.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "mostar-old-town",
+      "alt": "Polygon painting of Mostar old-town roofs and alleys.",
+      "localPath": "/images/book1/day-28-mostar-old-town.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "civic-medjugorje",
+      "alt": "Polygon painting of a Međugorje hillside cross and pilgrimage path.",
+      "localPath": "/images/book1/day-28-civic-medjugorje.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [
+    "Stari Most arch over the Neretva for stari-most.",
+    "Green Neretva water from the parapet for neretva-green.",
+    "Cobblestone old town street for mostar-old-town.",
+    "Međugorje pilgrimage crowd scene for civic-medjugorje."
+  ],
+  "civicContext": {
+    "title": "Međugorje pilgrimage sits beside careful church judgment",
+    "body": "Međugorje in Herzegovina draws millions of Catholic pilgrims and shapes Croatian identity tourism across the region. Since the 1980s reports of Marian apparitions made the village a global faith destination with hotels and tour buses. The Catholic Church allows limited pastoral care and organized pilgrimages yet has not declared the apparitions authenticated miracles under its formal rules. Pilgrimage energy therefore runs ahead of official doctrine while local economies depend on visitors who mix prayer with nationalist symbolism.",
+    "imageId": "civic-medjugorje",
+    "learnMore": {
+      "label": "Wikipedia article on Međugorje",
+      "url": "https://en.wikipedia.org/wiki/Medjugorje"
+    }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu on the Mostar old bridge",
+    "kind": "speaker",
+    "hook": "A walking tour names Stari Most so your ear catches place words before you visit.",
+    "source": {
+      "title": "Mostar Bosnia 4K Walking Tour | Old Bridge Mostar",
+      "artistOrSpeaker": "Urban Walking Tour",
+      "regionOrScene": "Mostar / Stari Most",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "Urban Walking Tour on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=vxdZQeN6c7A",
+      "embedUrl": "https://www.youtube.com/watch?v=vxdZQeN6c7A"
+    },
+    "durationHint": "45-90 seconds",
+    "listenTask": {
+      "prompt": "Listen for a place name or bridge word you recognize.",
+      "gistQuestion": {
+        "prompt": "What place atmosphere does the clip mainly show?",
+        "options": [
+          "Mostar old town and Stari Most",
+          "A ski resort",
+          "A bus station only",
+          "An office hallway"
+        ],
+        "correctIndex": 0
+      },
+      "targetWords": [
+        "Mostar",
+        "most"
+      ],
+      "noticePrompt": "Catch one landmark word rather than every guide sentence."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Stari most je lijep.",
+          "english": "The Old Bridge is beautiful."
+        },
+        {
+          "bosnian": "Idemo u Mostar.",
+          "english": "We are going to Mostar."
+        }
+      ],
+      "teacherNote": "After the clip, say one travel line with Mostar or most."
+    }
+  },
+  "speakTargets": [
+    0,
+    5
+  ],
+  "section": 4,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Idemo u Mostar.",
+        "english": "We are going to Mostar."
+      },
+      {
+        "bosnian": "Želim vidjeti more.",
+        "english": "I want to see the sea."
+      },
+      {
+        "bosnian": "Hajde da idemo.",
+        "english": "Let us go."
+      },
+      {
+        "bosnian": "Kakvo je vrijeme?",
+        "english": "How is the weather?"
+      }
+    ]
+  }
 }

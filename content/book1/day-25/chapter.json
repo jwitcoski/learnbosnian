@@ -4,55 +4,760 @@
   "title": "Kod doktora",
   "titleEn": "At the doctor",
   "theme": "Mrvica vs pinecone (vet subplot)",
-  "status": "outlined",
+  "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "",
+  "reviewerNotes": "This full draft is ready for human review before publication.",
   "estimatedMinutes": 60,
-  "storyBeat": "Vet visit after pinecone incident",
+  "storyBeat": "Mrvica swallows part of a pinecone and Ana brings the cat to a vet clinic for help.",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 25. Body/health, boljeti"
+      "Name glava, stomak, temperatura, lijek, and doktor in health talk.",
+      "Use boli me and Treba mi lijek at a clinic or pharmacy."
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Describe pain with boli me plus a body part.",
+      "Ask for help politely with molim vas at a health visit."
     ],
     "culture": [
-      "Mrvica vs pinecone (vet subplot)"
+      "Practice polite pharmacy and clinic phrases in present tense.",
+      "Treat a vet visit with the same calm respect as human care."
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "glava",
+      "english": "head",
+      "pronunciation": "GLAH-va",
+      "partOfSpeech": "noun",
+      "example": "Boli me glava."
+    },
+    {
+      "bosnian": "stomak",
+      "english": "stomach",
+      "pronunciation": "STOH-mak",
+      "partOfSpeech": "noun",
+      "example": "Boli me stomak."
+    },
+    {
+      "bosnian": "temperatura",
+      "english": "temperature or fever",
+      "pronunciation": "tehm-peh-rah-TOO-ra",
+      "partOfSpeech": "noun",
+      "example": "Imam temperaturu."
+    },
+    {
+      "bosnian": "lijek",
+      "english": "medicine",
+      "pronunciation": "LYEH-yek",
+      "partOfSpeech": "noun",
+      "example": "Treba mi lijek."
+    },
+    {
+      "bosnian": "boli me",
+      "english": "it hurts me or I have pain in",
+      "pronunciation": "BOH-lee meh",
+      "partOfSpeech": "phrase",
+      "example": "Boli me glava."
+    },
+    {
+      "bosnian": "doktor",
+      "english": "doctor",
+      "pronunciation": "DOK-tor",
+      "partOfSpeech": "noun",
+      "example": "Gdje je doktor?"
+    },
+    {
+      "bosnian": "apoteka",
+      "english": "pharmacy",
+      "pronunciation": "ah-poh-TEH-ka",
+      "partOfSpeech": "noun",
+      "example": "Apoteka je blizu."
+    },
+    {
+      "bosnian": "boli",
+      "english": "hurts",
+      "pronunciation": "BOH-lee",
+      "partOfSpeech": "verb form",
+      "example": "Boli me noga."
+    },
+    {
+      "bosnian": "umoran",
+      "english": "tired (m.)",
+      "pronunciation": "oo-MOR-an",
+      "partOfSpeech": "adjective",
+      "example": "Mrvica je umorna."
+    },
+    {
+      "bosnian": "pomoć",
+      "english": "help",
+      "pronunciation": "POH-myoch",
+      "partOfSpeech": "noun",
+      "example": "Treba mi pomoć."
+    },
+    {
+      "bosnian": "zdravo",
+      "english": "healthy or hello",
+      "pronunciation": "ZDRAH-vo",
+      "partOfSpeech": "adjective",
+      "example": "Nadam se da si zdrav."
+    },
+    {
+      "bosnian": "šmrka",
+      "english": "pinecone",
+      "pronunciation": "SHMR-ka",
+      "partOfSpeech": "noun",
+      "example": "Mrvica jede šmrku."
+    },
+    {
+      "bosnian": "klinika",
+      "english": "clinic",
+      "pronunciation": "KLEE-nee-ka",
+      "partOfSpeech": "noun",
+      "example": "Klinika je otvorena."
+    },
+    {
+      "bosnian": "molim vas",
+      "english": "please (formal)",
+      "pronunciation": "MOH-leem vas",
+      "partOfSpeech": "phrase",
+      "example": "Pomoć, molim vas."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Boli me plus a body part",
+      "explanation": "Focus on the spoken chunk. Postpone the full paradigm. Boli me means something hurts me. Add glava, stomak, or another body word right after the chunk. Keep the line in the present when you describe pain today.",
+      "examples": [
+        {
+          "bosnian": "Boli me glava.",
+          "english": "My head hurts."
+        },
+        {
+          "bosnian": "Boli me stomak.",
+          "english": "My stomach hurts."
+        },
+        {
+          "bosnian": "Boli me noga.",
+          "english": "My leg hurts."
+        }
+      ]
+    },
+    {
+      "title": "Treba mi lijek and clinic phrases",
+      "explanation": "Learn this as a full phrase. Do not treat it as a table. Treba mi lijek names a need at a pharmacy or clinic. Add molim vas when you speak to a doctor or pharmacist.",
+      "examples": [
+        {
+          "bosnian": "Treba mi lijek.",
+          "english": "I need medicine."
+        },
+        {
+          "bosnian": "Gdje je doktor?",
+          "english": "Where is the doctor?"
+        },
+        {
+          "bosnian": "Pomoć, molim vas.",
+          "english": "Help, please."
+        }
+      ]
+    },
+    {
+      "title": "Polite health visit language",
+      "explanation": "Hold this as a spoken pattern. Do not treat it as a grammar grid. Use molim vas and hvala at a clinic or pharmacy counter. Name symptoms with boli me and stay calm in the present tense.",
+      "examples": [
+        {
+          "bosnian": "Imam temperaturu.",
+          "english": "I have a fever."
+        },
+        {
+          "bosnian": "Doktor, boli me stomak.",
+          "english": "Doctor, my stomach hurts."
+        },
+        {
+          "bosnian": "Hvala, doktore.",
+          "english": "Thank you, doctor."
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "Mrvica vs pinecone (vet subplot)",
-    "body": "Stub for Lesson 25. Full culture hook will be written on the draft night.",
-    "imageId": null
+    "title": "Polite words at the pharmacy and clinic",
+    "body": "A polite health visit in Bosnia and Herzegovina starts with a clear greeting and a calm symptom line. Patients say boli me plus the body part rather than a long medical lecture. Pharmacies and small clinics expect please and thank you at the counter. Ana brings Mrvica to a vet clinic after the cat swallows part of a pinecone on a nature walk. The staff treat the visit seriously even when the patient is small and furry. Clear present-tense phrases help both human and pet care sound respectful.",
+    "imageId": "clinic-door"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A. Name pain and symptoms",
+      "body": "Learn glava, stomak, temperatura, and lijek as health nouns you can say today. Practice Boli me glava and Imam temperaturu as full present-tense lines. Add doktor and apoteka when you ask where to get help. Ana carries Mrvica toward a clinic door after the pinecone incident. Keep symptoms short and clear. A vet visit uses the same polite frames as a human clinic in Book 1.",
+      "tips": [
+        "Keep boli me and the body part in one breath.",
+        "Stay calm and use present-tense symptom lines.",
+        "Add molim vas when you ask for help."
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B. Ask for medicine and thank the doctor",
+      "body": "Use Treba mi lijek and Pomoć, molim vas at the counter. The doctor asks what hurts and Ana answers with boli me lines for the cat. Emir waits outside while Amira brings water and calm words. Finish with Hvala, doktore when the visit ends. Health talk stays in the present tense without past storytelling. Repeat each symptom line još jednom until it sounds steady and polite.",
+      "tips": [
+        "Use Treba mi lijek at a pharmacy counter.",
+        "Say Hvala, doktore before you leave.",
+        "Repeat a symptom line još jednom if the room is noisy."
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Mrvica i šmrka",
+    "setting": "Ana brings Mrvica to a vet clinic while Emir and Amira wait nearby and the doctor examines the cat.",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "bosnian": "Doktore, Mrvica je bolesna. Boli je stomak.",
+        "english": "Doctor, Mrvica is sick. Her stomach hurts."
+      },
+      {
+        "speaker": "Doctor",
+        "bosnian": "Razumijem. Imam temperaturu kod nje?",
+        "english": "I understand. Does she have a fever?"
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Da. Treba nam pomoć sada.",
+        "english": "Yes. We need help now."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Ana, diži glavu. Diši polako.",
+        "english": "Ana, lift your head. Breathe slowly."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Mrvica ima šmrku u stomaku.",
+        "english": "Mrvica has a pinecone in her stomach."
+      },
+      {
+        "speaker": "Doctor",
+        "bosnian": "Treba lijek i odmor. Apoteka je pored klinike.",
+        "english": "She needs medicine and rest. The pharmacy is beside the clinic."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Hvala, doktore. Idemo u apoteku.",
+        "english": "Thank you, doctor. We are going to the pharmacy."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Sretno, Mrvico. Sada si mirnija.",
+        "english": "Good luck, Mrvica. You are calmer now."
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match the health words",
+      "prompt": "Match each Bosnian health word with its English meaning.",
+      "items": [
+        {
+          "left": "glava",
+          "right": "head"
+        },
+        {
+          "left": "stomak",
+          "right": "stomach"
+        },
+        {
+          "left": "lijek",
+          "right": "medicine"
+        },
+        {
+          "left": "doktor",
+          "right": "doctor"
+        },
+        {
+          "left": "boli me",
+          "right": "it hurts me"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "truefalse",
+      "title": "True or false at the clinic",
+      "prompt": "Decide whether each sentence matches the lesson.",
+      "items": [
+        {
+          "statement": "Boli me glava means my head hurts.",
+          "answer": true
+        },
+        {
+          "statement": "Apoteka means pharmacy.",
+          "answer": true
+        },
+        {
+          "statement": "Mrvica has a pinecone in her stomach.",
+          "answer": true
+        },
+        {
+          "statement": "The 2013 JMBG crisis helped newborns travel easily.",
+          "answer": false
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Write the Bosnian for My head hurts.",
+      "hint": "Use Boli me glava.",
+      "answer": "Boli me glava."
+    },
+    {
+      "id": "pr2",
+      "prompt": "Write the Bosnian for My stomach hurts.",
+      "hint": "Use Boli me stomak.",
+      "answer": "Boli me stomak."
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write the Bosnian for I need medicine.",
+      "hint": "Use Treba mi lijek.",
+      "answer": "Treba mi lijek."
+    },
+    {
+      "id": "pr4",
+      "prompt": "Write the Bosnian for Where is the doctor?",
+      "hint": "Begin with Gdje je.",
+      "answer": "Gdje je doktor?"
+    },
+    {
+      "id": "pr5",
+      "prompt": "Write the Bosnian for Help, please.",
+      "hint": "Use Pomoć, molim vas.",
+      "answer": "Pomoć, molim vas."
+    },
+    {
+      "id": "pr6",
+      "prompt": "Write the Bosnian for I have a fever.",
+      "hint": "Use Imam temperaturu.",
+      "answer": "Imam temperaturu."
+    },
+    {
+      "id": "pr7",
+      "prompt": "Write the Bosnian word for pharmacy.",
+      "hint": "It begins with apo.",
+      "answer": "apoteka"
+    },
+    {
+      "id": "pr8",
+      "prompt": "Write the Bosnian for Thank you, doctor.",
+      "hint": "Use Hvala, doktore.",
+      "answer": "Hvala, doktore."
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "Boli me is a fast symptom chunk",
+      "body": "Boli me plus a body part lets you name pain without a long grammar chart. Clinics and pharmacies hear this pattern often. Book 1 keeps health talk practical and present tense."
+    },
+    {
+      "title": "Vet clinics use the same polite frames",
+      "body": "Pet owners in Bosnia and Herzegovina bring cats and dogs to clinics with the same please-and-thank-you habits as human visits. Mrvica's pinecone plot keeps the scene light while the language stays serious."
+    },
+    {
+      "title": "Apoteka sits beside many clinics",
+      "body": "Learners often need medicine right after a short exam. Apoteka is a high-value word for travelers who get a simple prescription. Pair it with gdje je for a useful location question."
+    },
+    {
+      "title": "JMBG deadlock endangered infants in 2013",
+      "body": "Political gridlock once blocked newborns from receiving ID numbers needed for passports and care abroad. Protests called the Baby Revolution pushed leaders to face the harm. Identity rules can touch life-and-death travel for families."
+    }
+  ],
   "resources": [
     {
-      "label": "How to speak Bosnian (YouTube)",
+      "label": "Bosnian Grammar: How to Say I am",
+      "url": "https://www.youtube.com/watch?v=CUUGzc3C1G8",
+      "note": "Introduction chunks help you greet clinic staff calmly."
+    },
+    {
+      "label": "Next lesson",
+      "url": "/learn/lesson/26",
+      "note": "Lesson 26 looks at housing and longer stays."
+    },
+    {
+      "label": "How to speak Bosnian channel",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "note": "Browse more speaker models after health phrases."
     }
   ],
   "sectionQuiz": {
     "title": "Lesson 25 section quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does boli me glava mean?",
+        "options": [
+          "My head hurts",
+          "I need a ticket",
+          "I like to walk",
+          "This is a mosque"
+        ],
+        "correctIndex": 0,
+        "explanation": "Boli me glava means my head hurts.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q2",
+        "question": "Which word means medicine?",
+        "options": [
+          "lijek",
+          "karta",
+          "kula",
+          "šuma"
+        ],
+        "correctIndex": 0,
+        "explanation": "Lijek means medicine.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q3",
+        "question": "What happened to Mrvica?",
+        "options": [
+          "She has a pinecone in her stomach",
+          "She bought a bus ticket",
+          "She won a game",
+          "She called Eurovision"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mrvica has a pinecone in her stomach.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q4",
+        "question": "What does apoteka mean?",
+        "options": [
+          "pharmacy",
+          "mountain",
+          "river",
+          "weekend"
+        ],
+        "correctIndex": 0,
+        "explanation": "Apoteka means pharmacy.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q5",
+        "question": "What was the 2013 JMBG crisis about?",
+        "options": [
+          "Newborns lacked ID numbers for passports and care abroad",
+          "All pharmacies closed",
+          "Cats could not visit vets",
+          "Buses became free"
+        ],
+        "correctIndex": 0,
+        "explanation": "Deadlock blocked unique ID numbers for newborns.",
+        "skill": "culture"
+      },
+      {
+        "id": "q6",
+        "question": "Which line asks for help politely?",
+        "options": [
+          "Pomoć, molim vas.",
+          "Šta radiš?",
+          "Una je veća rijeka.",
+          "Hajde da idemo."
+        ],
+        "correctIndex": 0,
+        "explanation": "Pomoć, molim vas asks for help politely.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q7",
+        "question": "Who examines Mrvica?",
+        "options": [
+          "The doctor",
+          "A bus clerk",
+          "A market seller",
+          "A ski lift operator"
+        ],
+        "correctIndex": 0,
+        "explanation": "The doctor examines Mrvica at the clinic.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q8",
+        "question": "What does temperatura mean in this lesson?",
+        "options": [
+          "fever or temperature",
+          "ticket price",
+          "tower view",
+          "forest walk"
+        ],
+        "correctIndex": 0,
+        "explanation": "Temperatura means fever or temperature here.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q9",
+        "question": "Where is the pharmacy according to the doctor?",
+        "options": [
+          "Beside the clinic",
+          "On Jahorina ski slope",
+          "In the Una River",
+          "At the Eurovision stage"
+        ],
+        "correctIndex": 0,
+        "explanation": "The doctor says the pharmacy is beside the clinic.",
+        "skill": "dialogue"
+      }
+    ]
   },
-  "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to. Mrvica vs pinecone (vet subplot)"
+  "dictionaryEntries": [
+    {
+      "day": 25,
+      "bosnian": "glava",
+      "english": "head",
+      "pronunciation": "GLAH-va",
+      "partOfSpeech": "noun",
+      "example": "Boli me glava."
+    },
+    {
+      "day": 25,
+      "bosnian": "stomak",
+      "english": "stomach",
+      "pronunciation": "STOH-mak",
+      "partOfSpeech": "noun",
+      "example": "Boli me stomak."
+    },
+    {
+      "day": 25,
+      "bosnian": "temperatura",
+      "english": "temperature or fever",
+      "pronunciation": "tehm-peh-rah-TOO-ra",
+      "partOfSpeech": "noun",
+      "example": "Imam temperaturu."
+    },
+    {
+      "day": 25,
+      "bosnian": "lijek",
+      "english": "medicine",
+      "pronunciation": "LYEH-yek",
+      "partOfSpeech": "noun",
+      "example": "Treba mi lijek."
+    },
+    {
+      "day": 25,
+      "bosnian": "boli me",
+      "english": "it hurts me or I have pain in",
+      "pronunciation": "BOH-lee meh",
+      "partOfSpeech": "phrase",
+      "example": "Boli me glava."
+    },
+    {
+      "day": 25,
+      "bosnian": "doktor",
+      "english": "doctor",
+      "pronunciation": "DOK-tor",
+      "partOfSpeech": "noun",
+      "example": "Gdje je doktor?"
+    },
+    {
+      "day": 25,
+      "bosnian": "apoteka",
+      "english": "pharmacy",
+      "pronunciation": "ah-poh-TEH-ka",
+      "partOfSpeech": "noun",
+      "example": "Apoteka je blizu."
+    },
+    {
+      "day": 25,
+      "bosnian": "boli",
+      "english": "hurts",
+      "pronunciation": "BOH-lee",
+      "partOfSpeech": "verb form",
+      "example": "Boli me noga."
+    },
+    {
+      "day": 25,
+      "bosnian": "umoran",
+      "english": "tired (m.)",
+      "pronunciation": "oo-MOR-an",
+      "partOfSpeech": "adjective",
+      "example": "Mrvica je umorna."
+    },
+    {
+      "day": 25,
+      "bosnian": "pomoć",
+      "english": "help",
+      "pronunciation": "POH-myoch",
+      "partOfSpeech": "noun",
+      "example": "Treba mi pomoć."
+    },
+    {
+      "day": 25,
+      "bosnian": "zdravo",
+      "english": "healthy or hello",
+      "pronunciation": "ZDRAH-vo",
+      "partOfSpeech": "adjective",
+      "example": "Nadam se da si zdrav."
+    },
+    {
+      "day": 25,
+      "bosnian": "šmrka",
+      "english": "pinecone",
+      "pronunciation": "SHMR-ka",
+      "partOfSpeech": "noun",
+      "example": "Mrvica jede šmrku."
+    },
+    {
+      "day": 25,
+      "bosnian": "klinika",
+      "english": "clinic",
+      "pronunciation": "KLEE-nee-ka",
+      "partOfSpeech": "noun",
+      "example": "Klinika je otvorena."
+    },
+    {
+      "day": 25,
+      "bosnian": "molim vas",
+      "english": "please (formal)",
+      "pronunciation": "MOH-leem vas",
+      "partOfSpeech": "phrase",
+      "example": "Pomoć, molim vas."
+    }
   ],
-  "section": 4
+  "images": [
+    {
+      "id": "clinic-door",
+      "alt": "Polygon painting of a small clinic door on a Bosnian street.",
+      "localPath": "/images/book1/day-25-clinic-door.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "pharmacy-shelf",
+      "alt": "Polygon painting of a pharmacy shelf with medicine bottles.",
+      "localPath": "/images/book1/day-25-pharmacy-shelf.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "mrvica-vet",
+      "alt": "Polygon painting of Mrvica the cat at a vet exam table.",
+      "localPath": "/images/book1/day-25-mrvica-vet.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "civic-jmbg",
+      "alt": "Polygon painting of newborn paperwork and passport delay.",
+      "localPath": "/images/book1/day-25-civic-jmbg.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [
+    "clinic-door: Clinic entrance where Ana brings Mrvica for culture hero",
+    "pharmacy-shelf: Pharmacy shelf with medicine boxes for mid-lesson scene",
+    "mrvica-vet: Mrvica at the vet exam table for story beat",
+    "civic-jmbg: Protest or newborn identity documents theme for JMBG civic panel"
+  ],
+  "civicContext": {
+    "title": "2013 JMBG deadlock left newborns without ID numbers",
+    "body": "In 2013 political deadlock in Bosnia and Herzegovina left newborns without unique ID numbers called JMBG. Without those numbers infants could not receive passports or travel abroad for urgent medical care. The Belmina case drew protests known as the Baby Revolution when treatment abroad was blocked. Ana reads a short note about the crisis while she waits with Mrvica at the clinic. Identity paperwork can become a life-or-death barrier when institutions stop cooperating.",
+    "imageId": "civic-jmbg",
+    "learnMore": {
+      "label": "Al Jazeera opinion on Bosnia's babies in limbo",
+      "url": "https://www.aljazeera.com/opinions/2013/6/20/bosnias-babies-in-limbo"
+    }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu with Ja sam for calm clinic greetings",
+    "kind": "speaker",
+    "hook": "Self-introduction chunks help you greet clinic staff before you name a symptom.",
+    "source": {
+      "title": "Bosnian Grammar. How to Say I am (Ja sam) - Introducing Yourself",
+      "artistOrSpeaker": "Lingo Hero",
+      "regionOrScene": "Self-introduction for calm health visits",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "Lingo Hero on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=CUUGzc3C1G8",
+      "embedUrl": "https://www.youtube.com/watch?v=CUUGzc3C1G8"
+    },
+    "durationHint": "45-90 seconds",
+    "listenTask": {
+      "prompt": "Listen for Ja sam and imagine greeting clinic staff calmly.",
+      "gistQuestion": {
+        "prompt": "What is the speaker teaching?",
+        "options": [
+          "How to say I am and introduce yourself",
+          "How to ski Jahorina only",
+          "How to order klepe only",
+          "How to read bus boards only"
+        ],
+        "correctIndex": 0
+      },
+      "targetWords": [
+        "ja",
+        "sam"
+      ],
+      "noticePrompt": "A calm greeting comes before symptom lines at a clinic."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Ja sam Ana.",
+          "english": "I am Ana."
+        },
+        {
+          "bosnian": "Pomoć, molim vas.",
+          "english": "Help, please."
+        }
+      ],
+      "teacherNote": "After the clip, say Ja sam… then one boli me line for a symptom."
+    }
+  },
+  "speakTargets": [
+    0,
+    4,
+    6
+  ],
+  "section": 4,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Treba mi pomoć.",
+        "english": "I need help."
+      },
+      {
+        "bosnian": "Gdje je apoteka?",
+        "english": "Where is the pharmacy?"
+      },
+      {
+        "bosnian": "Volim prirodu.",
+        "english": "I love nature."
+      },
+      {
+        "bosnian": "Hvala!",
+        "english": "Thank you!"
+      }
+    ]
+  }
 }

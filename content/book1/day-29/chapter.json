@@ -4,55 +4,775 @@
   "title": "Pisma iz BiH",
   "titleEn": "Letters from Bosnia and Herzegovina",
   "theme": "Ana writes home",
-  "status": "outlined",
+  "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "",
+  "reviewerNotes": "This full draft is ready for human review before publication.",
   "estimatedMinutes": 60,
-  "storyBeat": "Ana writes home",
+  "storyBeat": "Ana sits in Sarajevo and writes a postcard home with i, ali, and zato linking her present thoughts.",
   "learningGoals": {
     "vocabulary": [
-      "Coming night 29. Postcard/email, i/ali/zato"
+      "Use pismo, razglednica, and pošta for mail chunks.",
+      "Link ideas with i, ali, and zato in short present lines.",
+      "Describe Sarajevo sights Ana shares with family abroad."
     ],
     "grammar": [
-      "To be filled on draft night"
+      "Build postcard lines with i for addition.",
+      "Contrast with ali in one calm present sentence.",
+      "Explain a reason with zato in the present."
     ],
     "culture": [
-      "Ana writes home"
+      "Picture diaspora mail and postcards from Sarajevo.",
+      "Mention a memorial visit lightly without owning civic denial content.",
+      "Treat letter writing as slow present-tense practice."
     ]
   },
-  "vocabulary": [],
-  "grammar": [],
+  "vocabulary": [
+    {
+      "bosnian": "pismo",
+      "english": "letter",
+      "pronunciation": "PEES-moh",
+      "partOfSpeech": "noun",
+      "example": "Pišem pismo."
+    },
+    {
+      "bosnian": "razglednica",
+      "english": "postcard",
+      "pronunciation": "raz-GLED-nee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Šaljem razglednicu."
+    },
+    {
+      "bosnian": "pošta",
+      "english": "post office or mail",
+      "pronunciation": "POSH-ta",
+      "partOfSpeech": "noun",
+      "example": "Pošta je blizu."
+    },
+    {
+      "bosnian": "marka",
+      "english": "stamp",
+      "pronunciation": "MAR-ka",
+      "partOfSpeech": "noun",
+      "example": "Treba mi marka."
+    },
+    {
+      "bosnian": "koverat",
+      "english": "envelope",
+      "pronunciation": "KOH-veh-raht",
+      "partOfSpeech": "noun",
+      "example": "Koverat je mali."
+    },
+    {
+      "bosnian": "adresa",
+      "english": "address",
+      "pronunciation": "ah-DREH-sa",
+      "partOfSpeech": "noun",
+      "example": "Ovo je adresa."
+    },
+    {
+      "bosnian": "poruka",
+      "english": "message",
+      "pronunciation": "poh-ROO-ka",
+      "partOfSpeech": "noun",
+      "example": "Poruka je kratka."
+    },
+    {
+      "bosnian": "i",
+      "english": "and",
+      "pronunciation": "ee",
+      "partOfSpeech": "conjunction",
+      "example": "Volim Sarajevo i Mostar."
+    },
+    {
+      "bosnian": "ali",
+      "english": "but",
+      "pronunciation": "AH-lee",
+      "partOfSpeech": "conjunction",
+      "example": "Hladno je, ali lijepo."
+    },
+    {
+      "bosnian": "zato",
+      "english": "therefore or so",
+      "pronunciation": "ZAH-toh",
+      "partOfSpeech": "conjunction",
+      "example": "Zato pišem pismo."
+    },
+    {
+      "bosnian": "pišem",
+      "english": "I write",
+      "pronunciation": "PEE-shem",
+      "partOfSpeech": "verb form",
+      "example": "Pišem pismo danas."
+    },
+    {
+      "bosnian": "šaljem",
+      "english": "I send",
+      "pronunciation": "SHAL-yem",
+      "partOfSpeech": "verb form",
+      "example": "Šaljem razglednicu."
+    },
+    {
+      "bosnian": "porodica",
+      "english": "family",
+      "pronunciation": "poh-ROH-dee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Porodica je daleko."
+    },
+    {
+      "bosnian": "sjećanje",
+      "english": "memory",
+      "pronunciation": "SYEH-chah-nyeh",
+      "partOfSpeech": "noun",
+      "example": "Imam lijepo sjećanje."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "I linking lines",
+      "explanation": "Build this as a ready-made line you can reuse. Use i to add one more fact in the same present mood. Keep both sides short so a postcard stays readable on a small card.",
+      "examples": [
+        {
+          "bosnian": "Volim kafu i burek.",
+          "english": "I like coffee and burek."
+        },
+        {
+          "bosnian": "Pišem pismo i šaljem razglednicu.",
+          "english": "I write a letter and send a postcard."
+        },
+        {
+          "bosnian": "Sarajevo je velik i lijep.",
+          "english": "Sarajevo is big and beautiful."
+        }
+      ]
+    },
+    {
+      "title": "Ali contrast chunk",
+      "explanation": "Memorize the phrase shape. Leave the full table for later. Ali introduces a contrast without a new tense. Place it between two present facts. The second half often carries the surprise.",
+      "examples": [
+        {
+          "bosnian": "Vrijeme je hladno, ali idem u grad.",
+          "english": "The weather is cold, but I go to the city."
+        },
+        {
+          "bosnian": "Želim skočiti, ali neću.",
+          "english": "I want to jump, but I do not want to."
+        },
+        {
+          "bosnian": "Grad je bučan, ali siguran.",
+          "english": "The city is loud, but safe."
+        }
+      ]
+    },
+    {
+      "title": "Zato reason line",
+      "explanation": "Focus on the spoken chunk. Postpone the full paradigm. Zato gives a simple reason in the present. Use it after a fact your family should understand. One reason per sentence keeps the postcard honest.",
+      "examples": [
+        {
+          "bosnian": "Volim Bosnu i Hercegovinu. Zato pišem.",
+          "english": "I love Bosnia and Herzegovina. That is why I write."
+        },
+        {
+          "bosnian": "Sjećanje je jako. Zato šaljem poruku.",
+          "english": "The memory is strong. That is why I send a message."
+        },
+        {
+          "bosnian": "Učim bosanski. Zato ostajem.",
+          "english": "I study Bosnian. That is why I stay."
+        }
+      ]
+    }
+  ],
   "culture": {
-    "title": "Ana writes home",
-    "body": "Stub for Lesson 29. Full culture hook will be written on the draft night.",
-    "imageId": null
+    "title": "Postcards and diaspora mail from Sarajevo",
+    "body": "Families abroad still light up when a razglednica arrives from Sarajevo with a familiar skyline and cramped handwriting. Ana writes at a small desk near Ferhadija while the tram bell drifts through the window. She mentions coffee, stone streets, and a quiet memorial memory she carries today rather than a history lecture. Diaspora relatives read slowly and answer with their own short lines. Mail is slower than a chat app yet carries tone in every i and ali. A present tense postcard keeps Ana connected without promising fluent novels overnight.",
+    "imageId": "postcard-desk"
   },
-  "lessonBlocks": [],
+  "lessonBlocks": [
+    {
+      "id": "a",
+      "title": "Lesson A. Postcard nouns and verbs",
+      "body": "Start with pismo, razglednica, and pošta so the desk has real mail nouns before you write. Practice Pišem pismo and Šaljem razglednicu as steady present lines at Ana's small table. Add marka and koverat when you walk to the post office window on Ferhadija. Ana copies adresa carefully for family abroad and checks the zip line twice. Name poruka when the card space runs out and you need a shorter thought. Keep pišem and šaljem as spoken verbs rather than a full conjugation grid at the counter. Say each mail line twice, then add molim when you buy a marka from the seller.",
+      "tips": [
+        "Spell adresa slowly at the post office.",
+        "Pair razglednica with šaljem in one breath.",
+        "Reuse molim when you buy a marka."
+      ]
+    },
+    {
+      "id": "b",
+      "title": "Lesson B. I, ali, and zato on the card",
+      "body": "Move from nouns to linked ideas on the postcard back in cramped handwriting. Write Sarajevo je hladno, ali lijep with ali between two present facts your parents understand. Add Volim grad i učim bosanski with i for a gentle list of good news. Close with Zato pišem pismo when you explain why the card exists in the mailbox today. Ana mentions porodica daleko and one calm sjećanje from a memorial she respects. Amira suggests a shorter poruka for the small space above the skyline photo. Practice a three-line postcard aloud. Greeting, linked fact, zato closing, then hvala at the post office door.",
+      "tips": [
+        "Keep ali contrasts short on a small card.",
+        "Use zato once so the ending feels clear.",
+        "Stay in the present even when memory is heavy."
+      ]
+    }
+  ],
   "conversation": {
-    "title": "",
-    "setting": "",
-    "lines": []
+    "title": "Razglednica za porodicu",
+    "setting": "Ana writes a postcard in Sarajevo while Emir and Amira buy stamps from a seller at the post office.",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "bosnian": "Pišem razglednicu za porodicu.",
+        "english": "I am writing a postcard for my family."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Šaljem i pismo sa markom.",
+        "english": "I am sending a letter with a stamp too."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Sarajevo je hladno, ali lijepo danas.",
+        "english": "Sarajevo is cold, but beautiful today."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Volim grad i učim bosanski.",
+        "english": "I love the city and I study Bosnian."
+      },
+      {
+        "speaker": "Seller",
+        "bosnian": "Treba vam marka? Molim.",
+        "english": "Do you need a stamp? Please."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Da, molim. Poruka mora biti kratka.",
+        "english": "Yes, please. The message must be short."
+      },
+      {
+        "speaker": "Seller",
+        "bosnian": "Evo marke. Sretan put poruci.",
+        "english": "Here is the stamp. Safe journey to the message."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Zato pišemo često. Hvala.",
+        "english": "That is why we write often. Thank you."
+      }
+    ]
   },
-  "puzzles": [],
-  "practice": [],
-  "funFacts": [],
+  "puzzles": [
+    {
+      "id": "p1",
+      "type": "match",
+      "title": "Match mail words",
+      "prompt": "Match each Bosnian mail word with its English meaning.",
+      "items": [
+        {
+          "left": "razglednica",
+          "right": "postcard"
+        },
+        {
+          "left": "marka",
+          "right": "stamp"
+        },
+        {
+          "left": "koverat",
+          "right": "envelope"
+        },
+        {
+          "left": "adresa",
+          "right": "address"
+        },
+        {
+          "left": "poruka",
+          "right": "message"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "type": "truefalse",
+      "title": "True or false on linking words",
+      "prompt": "Decide whether each sentence matches the lesson.",
+      "items": [
+        {
+          "statement": "Ali introduces a contrast.",
+          "answer": true
+        },
+        {
+          "statement": "Zato gives a simple reason.",
+          "answer": true
+        },
+        {
+          "statement": "Pišem means I send.",
+          "answer": false
+        },
+        {
+          "statement": "I means and.",
+          "answer": true
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "pr1",
+      "prompt": "Write the Bosnian for I write a letter.",
+      "hint": "Use Pišem pismo.",
+      "answer": "Pišem pismo."
+    },
+    {
+      "id": "pr2",
+      "prompt": "Write the Bosnian for I send a postcard.",
+      "hint": "Use Šaljem razglednicu.",
+      "answer": "Šaljem razglednicu."
+    },
+    {
+      "id": "pr3",
+      "prompt": "Write the Bosnian for The weather is cold, but beautiful.",
+      "hint": "Use ali.",
+      "answer": "Vrijeme je hladno, ali lijepo."
+    },
+    {
+      "id": "pr4",
+      "prompt": "Write the Bosnian for I love the city and I study Bosnian.",
+      "hint": "Use i twice.",
+      "answer": "Volim grad i učim bosanski."
+    },
+    {
+      "id": "pr5",
+      "prompt": "Write the Bosnian for That is why I write.",
+      "hint": "Begin with Zato.",
+      "answer": "Zato pišem."
+    },
+    {
+      "id": "pr6",
+      "prompt": "Write the Bosnian word for stamp.",
+      "hint": "It begins with mar.",
+      "answer": "marka"
+    },
+    {
+      "id": "pr7",
+      "prompt": "Write the Bosnian for I need a stamp.",
+      "hint": "Use Treba mi marka.",
+      "answer": "Treba mi marka."
+    },
+    {
+      "id": "pr8",
+      "prompt": "Write the Bosnian for The message is short.",
+      "hint": "Use poruka and kratka.",
+      "answer": "Poruka je kratka."
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "Ferhadija still frames mail walks",
+      "body": "Ana writes near Ferhadija where tram bells and shop fronts mix on one street. A postcard from that desk carries city rhythm in a few lines."
+    },
+    {
+      "title": "Razglednica beats a long email for tone",
+      "body": "A handwritten razglednica shows effort diaspora families notice. Short Bosnian lines with i and ali feel personal on a small card."
+    },
+    {
+      "title": "Zato closes a thought cleanly",
+      "body": "One zato sentence explains why Ana writes without a grammar lecture. Present reasons keep the postcard readable."
+    },
+    {
+      "title": "Memorial visits can stay quiet",
+      "body": "Ana mentions a memorial memory lightly in culture while civic content elsewhere covers denial politics. Letter tone stays respectful and brief."
+    }
+  ],
   "resources": [
     {
-      "label": "How to speak Bosnian (YouTube)",
+      "label": "Learn Bosnian greetings (YouTube)",
+      "url": "https://www.youtube.com/watch?v=QkvCVZqRYFY",
+      "note": "Opening lines help postcard greetings."
+    },
+    {
+      "label": "Next lesson",
+      "url": "/learn/lesson/30",
+      "note": "Lesson 30 is the Book 1 graduation party."
+    },
+    {
+      "label": "How to speak Bosnian channel",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion video after publish"
+      "note": "Browse more speaker models after you finish the lesson."
     }
   ],
   "sectionQuiz": {
     "title": "Lesson 29 section quiz",
     "passPercent": 70,
-    "questions": []
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does razglednica mean?",
+        "options": [
+          "Postcard",
+          "Stamp",
+          "Bridge",
+          "Rent"
+        ],
+        "correctIndex": 0,
+        "explanation": "Razglednica means postcard.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q2",
+        "question": "Which conjunction means but?",
+        "options": [
+          "i",
+          "ali",
+          "zato",
+          "molim"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ali means but.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q3",
+        "question": "What does zato pišem mean?",
+        "options": [
+          "That is why I write",
+          "I send a stamp",
+          "The river is cold",
+          "I work today"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zato pišem means that is why I write.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q4",
+        "question": "Where does Ana write?",
+        "options": [
+          "Sarajevo",
+          "Neum beach only",
+          "Berlin",
+          "Dublin"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ana writes in Sarajevo.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q5",
+        "question": "What does šaljem mean?",
+        "options": [
+          "I send",
+          "I jump",
+          "I rent",
+          "I refuse"
+        ],
+        "correctIndex": 0,
+        "explanation": "Šaljem means I send.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q6",
+        "question": "What civic pressure does this lesson highlight?",
+        "options": [
+          "Glorification of convicted war criminals and Srebrenica genocide denial among elites",
+          "All mail is free",
+          "Postcards are illegal",
+          "Sarajevo has no post office"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nationalist political elites still glorify convicted war criminals and deny the Srebrenica genocide.",
+        "skill": "culture"
+      },
+      {
+        "id": "q7",
+        "question": "Which line uses i correctly?",
+        "options": [
+          "Volim grad i učim bosanski.",
+          "Zato pišem ali marka.",
+          "Neću skočiti most.",
+          "Moraš platiti kiriju."
+        ],
+        "correctIndex": 0,
+        "explanation": "Volim grad i učim bosanski links two facts with i.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q8",
+        "question": "What does marka mean at the post office?",
+        "options": [
+          "Stamp",
+          "Bridge",
+          "Office",
+          "River"
+        ],
+        "correctIndex": 0,
+        "explanation": "Marka means stamp.",
+        "skill": "vocabulary"
+      },
+      {
+        "id": "q9",
+        "question": "Why does Amira warn Ana?",
+        "options": [
+          "The message must be short",
+          "The bridge is closed",
+          "Rent is due",
+          "The bus is late"
+        ],
+        "correctIndex": 0,
+        "explanation": "Amira says the poruka must be short for the card.",
+        "skill": "dialogue"
+      },
+      {
+        "id": "q10",
+        "question": "Who sells the stamp in the dialogue?",
+        "options": [
+          "Seller at the post office",
+          "Landlord",
+          "Passerby",
+          "Professor"
+        ],
+        "correctIndex": 0,
+        "explanation": "A seller helps with stamps at the post office.",
+        "skill": "dialogue"
+      }
+    ]
   },
-  "dictionaryEntries": [],
-  "images": [],
-  "imagesNeeded": true,
-  "imageBriefs": [
-    "Photo related to. Ana writes home"
+  "dictionaryEntries": [
+    {
+      "day": 29,
+      "bosnian": "pismo",
+      "english": "letter",
+      "pronunciation": "PEES-moh",
+      "partOfSpeech": "noun",
+      "example": "Pišem pismo."
+    },
+    {
+      "day": 29,
+      "bosnian": "razglednica",
+      "english": "postcard",
+      "pronunciation": "raz-GLED-nee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Šaljem razglednicu."
+    },
+    {
+      "day": 29,
+      "bosnian": "pošta",
+      "english": "post office or mail",
+      "pronunciation": "POSH-ta",
+      "partOfSpeech": "noun",
+      "example": "Pošta je blizu."
+    },
+    {
+      "day": 29,
+      "bosnian": "marka",
+      "english": "stamp",
+      "pronunciation": "MAR-ka",
+      "partOfSpeech": "noun",
+      "example": "Treba mi marka."
+    },
+    {
+      "day": 29,
+      "bosnian": "koverat",
+      "english": "envelope",
+      "pronunciation": "KOH-veh-raht",
+      "partOfSpeech": "noun",
+      "example": "Koverat je mali."
+    },
+    {
+      "day": 29,
+      "bosnian": "adresa",
+      "english": "address",
+      "pronunciation": "ah-DREH-sa",
+      "partOfSpeech": "noun",
+      "example": "Ovo je adresa."
+    },
+    {
+      "day": 29,
+      "bosnian": "poruka",
+      "english": "message",
+      "pronunciation": "poh-ROO-ka",
+      "partOfSpeech": "noun",
+      "example": "Poruka je kratka."
+    },
+    {
+      "day": 29,
+      "bosnian": "i",
+      "english": "and",
+      "pronunciation": "ee",
+      "partOfSpeech": "conjunction",
+      "example": "Volim Sarajevo i Mostar."
+    },
+    {
+      "day": 29,
+      "bosnian": "ali",
+      "english": "but",
+      "pronunciation": "AH-lee",
+      "partOfSpeech": "conjunction",
+      "example": "Hladno je, ali lijepo."
+    },
+    {
+      "day": 29,
+      "bosnian": "zato",
+      "english": "therefore or so",
+      "pronunciation": "ZAH-toh",
+      "partOfSpeech": "conjunction",
+      "example": "Zato pišem pismo."
+    },
+    {
+      "day": 29,
+      "bosnian": "pišem",
+      "english": "I write",
+      "pronunciation": "PEE-shem",
+      "partOfSpeech": "verb form",
+      "example": "Pišem pismo danas."
+    },
+    {
+      "day": 29,
+      "bosnian": "šaljem",
+      "english": "I send",
+      "pronunciation": "SHAL-yem",
+      "partOfSpeech": "verb form",
+      "example": "Šaljem razglednicu."
+    },
+    {
+      "day": 29,
+      "bosnian": "porodica",
+      "english": "family",
+      "pronunciation": "poh-ROH-dee-tsa",
+      "partOfSpeech": "noun",
+      "example": "Porodica je daleko."
+    },
+    {
+      "day": 29,
+      "bosnian": "sjećanje",
+      "english": "memory",
+      "pronunciation": "SYEH-chah-nyeh",
+      "partOfSpeech": "noun",
+      "example": "Imam lijepo sjećanje."
+    }
   ],
-  "section": 4
+  "images": [
+    {
+      "id": "postcard-desk",
+      "alt": "Polygon painting of a postcard writing desk.",
+      "localPath": "/images/book1/day-29-postcard-desk.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "stamp-envelope",
+      "alt": "Polygon painting of a stamped envelope on a table.",
+      "localPath": "/images/book1/day-29-stamp-envelope.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "ferhadija-letter",
+      "alt": "Polygon painting of letter writing near Ferhadija.",
+      "localPath": "/images/book1/day-29-ferhadija-letter.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    },
+    {
+      "id": "civic-genocide-denial",
+      "alt": "Polygon painting of the Srebrenica memorial cemetery in solemn light.",
+      "localPath": "/images/book1/day-29-civic-genocide-denial.png",
+      "sourceUrl": "",
+      "pageUrl": "",
+      "author": "Course polygon art",
+      "license": "Course original",
+      "credit": "Original polygon painting for Learn Bosnian Book 1."
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [
+    "Small desk with postcard and pen for postcard-desk.",
+    "Stamp on an envelope at the post office for stamp-envelope.",
+    "Ferhadija street mood for ferhadija-letter.",
+    "Documentary still on genocide denial rhetoric for civic-genocide-denial."
+  ],
+  "civicContext": {
+    "title": "Genocide denial still rewards nationalist elites",
+    "body": "Systematic glorification of convicted war criminals and denial of the Srebrenica genocide remain widespread among nationalist political elites in Bosnia and Herzegovina. Public murals, commemorative events, and campaign rhetoric still honor figures courts convicted for mass violence while minimizing or rejecting judicial findings about Srebrenica. That message reaches textbooks, media, and election rallies long after tribunal judgments. Families who lost relatives therefore read postcards home in a public culture that still debates their grief as politics.",
+    "imageId": "civic-genocide-denial",
+    "learnMore": {
+      "label": "Wikipedia article on Bosnian genocide denial",
+      "url": "https://en.wikipedia.org/wiki/Bosnian_genocide_denial"
+    }
+  },
+  "authenticListen": {
+    "title": "Čuj Bosnu with greeting lines for postcards",
+    "kind": "speaker",
+    "hook": "A short greeting lesson gives opening lines you can place on a postcard.",
+    "source": {
+      "title": "Learn Bosnian Greetings",
+      "artistOrSpeaker": "Learn Bosnian with Elma",
+      "regionOrScene": "Greeting phrases",
+      "license": "YouTube Terms of Service (embed)",
+      "credit": "Learn Bosnian with Elma on YouTube",
+      "pageUrl": "https://www.youtube.com/watch?v=QkvCVZqRYFY",
+      "embedUrl": "https://www.youtube.com/watch?v=QkvCVZqRYFY"
+    },
+    "durationHint": "45-90 seconds",
+    "listenTask": {
+      "prompt": "Listen for a greeting you could write at the top of a card.",
+      "gistQuestion": {
+        "prompt": "What kind of language is the speaker mainly teaching?",
+        "options": [
+          "Greetings and opening phrases",
+          "Bus tickets",
+          "Furniture names",
+          "Football rules"
+        ],
+        "correctIndex": 0
+      },
+      "targetWords": [
+        "zdravo",
+        "dobar"
+      ],
+      "noticePrompt": "Catch one greeting word rather than every phrase."
+    },
+    "reveal": {
+      "keyLines": [
+        {
+          "bosnian": "Dobar dan.",
+          "english": "Good day."
+        },
+        {
+          "bosnian": "Pišem pismo danas.",
+          "english": "I write a letter today."
+        }
+      ],
+      "teacherNote": "After the clip, write one postcard opening aloud."
+    }
+  },
+  "speakTargets": [
+    0,
+    6
+  ],
+  "section": 4,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Pišem pismo.",
+        "english": "I write a letter."
+      },
+      {
+        "bosnian": "Hvala, molim.",
+        "english": "Thank you, please."
+      },
+      {
+        "bosnian": "Volim ovu kafu.",
+        "english": "I love this coffee."
+      },
+      {
+        "bosnian": "Sarajevo je lijep.",
+        "english": "Sarajevo is beautiful."
+      }
+    ]
+  }
 }
