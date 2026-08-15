@@ -142,7 +142,7 @@
   "grammar": [
     {
       "title": "Numbers 1. 20",
-      "explanation": "Learn this as a phrase, not a table. Learn one through ten cold, then eleven through twenty as a chant. One is jedan. Two is dva. Three is tri. Four is četiri. Five is pet. Six is šest. Seven is sedam. Eight is osam. Nine is devet. Ten is deset. Then come jedanaest, dvanaest, trinaest, četrnaest, petnaest, šesnaest, sedamnaest, osamnaest, devetnaest, and dvadeset.",
+      "explanation": "Memorize the phrase shape; leave the full table for later. Learn one through ten cold, then eleven through twenty as a chant. One is jedan. Two is dva. Three is tri. Four is četiri. Five is pet. Six is šest. Seven is sedam. Eight is osam. Nine is devet. Ten is deset. Then come jedanaest, dvanaest, trinaest, četrnaest, petnaest, šesnaest, sedamnaest, osamnaest, devetnaest, and dvadeset.",
       "examples": [
         {
           "bosnian": "jedan, dva, tri, četiri, pet",
@@ -160,7 +160,7 @@
     },
     {
       "title": "Koliko?",
-      "explanation": "Learn this as a phrase, not a table. Koliko? asks how many or how much. At a café you will hear Koliko košta? for how much does it cost, and Koliko fildžana? for how many cups. Answer with a number. Say Dva.",
+      "explanation": "Take this as a speaking chunk, not a case chart. Koliko? asks how many or how much. At a café you will hear Koliko košta? for how much does it cost, and Koliko fildžana? for how many cups. Answer with a number. Say Dva.",
       "examples": [
         {
           "bosnian": "Koliko?",
@@ -178,7 +178,7 @@
     },
     {
       "title": "Ordering coffee. say it as a chunk",
-      "explanation": "Learn this as a phrase, not a table. For now, order with ready-made lines. Kahvu, molim means “Coffee, please” (kahvu is the form you hear when ordering). Jednu kahvu, molim = one coffee please. Dva fildžana, molim = two cups please. Do not worry about full case charts yet. memorize the café lines.",
+      "explanation": "Practice the whole expression before you worry about paradigms. For now, order with ready-made lines. Kahvu, molim means “Coffee, please” (kahvu is the form you hear when ordering). Jednu kahvu, molim = one coffee please. Dva fildžana, molim = two cups please. Do not worry about full case charts yet. memorize the café lines.",
       "examples": [
         {
           "bosnian": "Kahvu, molim.",

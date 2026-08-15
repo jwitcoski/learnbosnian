@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T23:14:06.133Z",
+  "generatedAt": "2026-08-15T01:30:02.673Z",
   "voiceProfiles": [
     {
       "id": "female-1",
@@ -2875,8 +2875,8 @@
       "day": 8,
       "type": "dialogue",
       "index": 5,
-      "bosnian": "Ja volim sirnicu. Ne volim luk.",
-      "english": "I love sirnica. I do not like onion.",
+      "bosnian": "Hvala! Ja volim sirnicu. Ne volim luk.",
+      "english": "Thank you! I love sirnica. I do not like onion.",
       "pronunciation": "",
       "preferredGender": "female",
       "assignedVoiceId": "female-1",

@@ -14,7 +14,7 @@
 - Present tense only (no perfekt / future paradigms)
 - Spiral frames + **Say again** warm-up (4 recycled lines) every drafted lesson
 - Reviews 7 / 14 / 21 / 30 are frame drills
-- Grammar panels keep labels, but open with “Learn this as a phrase, not a table.”
+- Grammar panels keep labels, but open with a chunks-first reminder (phrase bank in `LESSON_AUTHORING_GUIDE.md`; rotate wording so panels do not all sound the same)
 - Public scenes include at least one polite exchange (`molim` / `hvala` / `molim vas`)
 - Studio-clean dialogue is OK; no reduced street variants in Book 1
 
