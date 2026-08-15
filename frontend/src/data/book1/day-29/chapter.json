@@ -467,13 +467,13 @@
         "id": "q6",
         "question": "What civic pressure does this lesson highlight?",
         "options": [
-          "Glorification of convicted war criminals and Srebrenica genocide denial among elites",
-          "All mail is free",
-          "Postcards are illegal",
-          "Sarajevo has no post office"
+          "Nationalist elites still deny the Srebrenica genocide and glorify convicted war criminals",
+          "All parties accept tribunal judgments without debate",
+          "Memorial sites are closed to the public",
+          "War crimes trials never took place"
         ],
         "correctIndex": 0,
-        "explanation": "Nationalist political elites still glorify convicted war criminals and deny the Srebrenica genocide.",
+        "explanation": "Genocide denial and glorification of convicted war criminals remain widespread in nationalist elite politics.",
         "skill": "culture"
       },
       {
@@ -649,41 +649,41 @@
       "id": "postcard-desk",
       "alt": "Polygon painting of a postcard writing desk.",
       "localPath": "/images/book1/day-29-postcard-desk.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/George_Goodwin_Kilburne_-_Penning_A_LetterFXD.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGeorge_Goodwin_Kilburne_-_Penning_A_LetterFXD.jpg",
+      "author": "George Goodwin Kilburne",
+      "license": "Public domain",
+      "credit": "Polygon painting based on the photo George Goodwin Kilburne - Penning A LetterFXD.jpg. George Goodwin Kilburne / Wikimedia Commons (Public domain)"
     },
     {
       "id": "stamp-envelope",
       "alt": "Polygon painting of a stamped envelope on a table.",
       "localPath": "/images/book1/day-29-stamp-envelope.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Ministry_of_Railways._Postal_envelope._img_08.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMinistry_of_Railways._Postal_envelope._img_08.jpg",
+      "author": "Scanning Dmitry Makeev, scan date - 2020 year.",
+      "license": "Public domain",
+      "credit": "Polygon painting based on the photo Ministry of Railways. Scanning Dmitry Makeev, scan date - 2020 year. / Wikimedia Commons (Public domain)"
     },
     {
       "id": "ferhadija-letter",
       "alt": "Polygon painting of letter writing near Ferhadija.",
       "localPath": "/images/book1/day-29-ferhadija-letter.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ferhadija%2C_Sarajevo%2C_2023.01.22_2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFerhadija%2C_Sarajevo%2C_2023.01.22_2.jpg",
+      "author": "Niegodzisie",
+      "license": "CC BY-SA 4.0",
+      "credit": "Polygon painting based on the photo Ferhadija, Sarajevo, 2023.01.22 2.jpg. Niegodzisie / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "civic-genocide-denial",
       "alt": "Polygon painting of the Srebrenica memorial cemetery in solemn light.",
       "localPath": "/images/book1/day-29-civic-genocide-denial.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Srebrenica_massacre_memorial_gravestones_2009_3.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASrebrenica_massacre_memorial_gravestones_2009_3.jpg",
+      "author": "Michael Büker",
+      "license": "CC BY-SA 3.0",
+      "credit": "Polygon painting based on the photo Srebrenica massacre memorial gravestones 2009 3.jpg. Michael Büker / Wikimedia Commons (CC BY-SA 3.0)"
     }
   ],
   "imagesNeeded": false,
@@ -694,8 +694,8 @@
     "Documentary still on genocide denial rhetoric for civic-genocide-denial."
   ],
   "civicContext": {
-    "title": "Genocide denial still rewards nationalist elites",
-    "body": "Systematic glorification of convicted war criminals and denial of the Srebrenica genocide remain widespread among nationalist political elites in Bosnia and Herzegovina. Public murals, commemorative events, and campaign rhetoric still honor figures courts convicted for mass violence while minimizing or rejecting judicial findings about Srebrenica. That message reaches textbooks, media, and election rallies long after tribunal judgments. Families who lost relatives therefore read postcards home in a public culture that still debates their grief as politics.",
+    "title": "Genocide denial and war-criminal glorification remain elite politics",
+    "body": "Denial of the Srebrenica genocide remains common among nationalist political elites in Bosnia and Herzegovina. Convicted war criminals are still praised in murals, rallies, and campaign messaging. Tribunal judgments and memorial facts collide with public rhetoric that minimizes or rejects the genocide finding. Memory of the worst crime of the war therefore stays contested in everyday politics rather than settled history.",
     "imageId": "civic-genocide-denial",
     "learnMore": {
       "label": "Wikipedia article on Bosnian genocide denial",

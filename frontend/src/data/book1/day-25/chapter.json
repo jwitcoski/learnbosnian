@@ -451,13 +451,13 @@
         "id": "q5",
         "question": "What was the 2013 JMBG crisis about?",
         "options": [
-          "Newborns lacked ID numbers for passports and care abroad",
-          "All pharmacies closed",
-          "Cats could not visit vets",
-          "Buses became free"
+          "Political deadlock left newborns without ID numbers needed for passports and care abroad",
+          "A new tax on all baby names",
+          "A hospital strike over café hours",
+          "A ban on veterinary clinics"
         ],
         "correctIndex": 0,
-        "explanation": "Deadlock blocked unique ID numbers for newborns.",
+        "explanation": "Without JMBG numbers, newborns could not get passports or travel for urgent treatment until politicians settled the law.",
         "skill": "culture"
       },
       {
@@ -633,41 +633,41 @@
       "id": "clinic-door",
       "alt": "Polygon painting of a small clinic door on a Bosnian street.",
       "localPath": "/images/book1/day-25-clinic-door.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Dubrave_Gornje_-_Pharmacy_%282019%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADubrave_Gornje_-_Pharmacy_%282019%29.jpg",
+      "author": "Sebleouf",
+      "license": "CC BY-SA 4.0",
+      "credit": "Polygon painting based on the photo Dubrave Gornje - Pharmacy (2019).jpg. Sebleouf / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "pharmacy-shelf",
       "alt": "Polygon painting of a pharmacy shelf with medicine bottles.",
       "localPath": "/images/book1/day-25-pharmacy-shelf.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Dubrave_Gornje_-_Pharmacy_%282019%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ADubrave_Gornje_-_Pharmacy_%282019%29.jpg",
+      "author": "Sebleouf",
+      "license": "CC BY-SA 4.0",
+      "credit": "Polygon painting based on the photo Dubrave Gornje - Pharmacy (2019).jpg. Sebleouf / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "mrvica-vet",
       "alt": "Polygon painting of Mrvica the cat at a vet exam table.",
       "localPath": "/images/book1/day-25-mrvica-vet.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACat_November_2010-1a.jpg",
+      "author": "Alvesgaspar",
+      "license": "CC BY-SA 3.0",
+      "credit": "Polygon painting based on the photo Cat November 2010-1a.jpg. Alvesgaspar / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "civic-jmbg",
       "alt": "Polygon painting of newborn paperwork and passport delay.",
       "localPath": "/images/book1/day-25-civic-jmbg.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Sarajevo_parlament_2007.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_parlament_2007.jpg",
+      "author": "Dingoa",
+      "license": "CC BY-SA 3.0",
+      "credit": "Polygon painting based on the photo Sarajevo parlament 2007.jpg. Dingoa / Wikimedia Commons (CC BY-SA 3.0)"
     }
   ],
   "imagesNeeded": false,
@@ -678,8 +678,8 @@
     "civic-jmbg: Protest or newborn identity documents theme for JMBG civic panel"
   ],
   "civicContext": {
-    "title": "2013 JMBG deadlock left newborns without ID numbers",
-    "body": "In 2013 political deadlock in Bosnia and Herzegovina left newborns without unique ID numbers called JMBG. Without those numbers infants could not receive passports or travel abroad for urgent medical care. The Belmina case drew protests known as the Baby Revolution when treatment abroad was blocked. Ana reads a short note about the crisis while she waits with Mrvica at the clinic. Identity paperwork can become a life-or-death barrier when institutions stop cooperating.",
+    "title": "The 2013 JMBG deadlock blocked newborn passports and care abroad",
+    "body": "In 2013 a Constitutional Court ruling and a parliamentary fight over the unique citizen number (JMBG) froze new registrations in Bosnia and Herzegovina. Newborns without that number could not obtain passports or the papers needed for medical travel. Cases such as Belmina Ibrisević, who needed treatment abroad, turned the paperwork fight into a public emergency and sparked the Baby Revolution protests. Ethnic bargaining over ID rules therefore put infant health behind political deadlock.",
     "imageId": "civic-jmbg",
     "learnMore": {
       "label": "Al Jazeera opinion on Bosnia's babies in limbo",

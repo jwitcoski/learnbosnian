@@ -34,6 +34,10 @@
 **Narration:** Emir, Ana, and Amira compare work and study plans before coffee.
 **On screen:** Dialogue lines appear in Bosnian and English.
 
+### 7:40 Bosnia Today
+**Narration:** Republika Srpska leaders keep floating secession and challenging state-level courts and police authority.
+**On screen:** Bosnia Today
+
 ### 8:00 Practice prompt
 **Narration:** Pause and describe your own routine aloud. Continue with Lesson 28, Mostar napokon!
 **On screen:** Describe your routine | Next lesson is Mostar napokon!

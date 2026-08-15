@@ -34,6 +34,10 @@
 **Narration:** Ana, Emir, and Amira finish the card and walk to the post office.
 **On screen:** Dialogue lines appear in Bosnian and English.
 
+### 7:40 Bosnia Today
+**Narration:** Nationalist elites still deny the Srebrenica genocide and glorify convicted war criminals in public politics.
+**On screen:** Bosnia Today
+
 ### 8:00 Practice prompt
 **Narration:** Pause and write one postcard line aloud. Continue with Lesson 30, Završna proslava.
 **On screen:** Write one line | Next lesson is Završna proslava

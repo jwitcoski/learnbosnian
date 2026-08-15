@@ -34,6 +34,10 @@
 **Narration:** A passerby points toward the old town while Ana and Emir describe the view.
 **On screen:** Dialogue lines appear in Bosnian and English.
 
+### 7:40 Bosnia Today
+**Narration:** Winding mountain roads plus fast driving keep traffic deaths among the highest in Europe according to WHO profiles.
+**On screen:** Bosnia Today
+
 ### 8:00 Practice prompt
 **Narration:** Pause and name two landmarks with ovo je and tamo je. Continue with Lesson 23, Šta radiš?
 **On screen:** Name two sights | Next lesson is Šta radiš?

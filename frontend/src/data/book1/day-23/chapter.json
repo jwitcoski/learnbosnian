@@ -449,15 +449,15 @@
       },
       {
         "id": "q5",
-        "question": "Why is Bosnia and Herzegovina absent from Eurovision?",
+        "question": "Why does BHRT remain sanctioned and keep the country out of Eurovision?",
         "options": [
-          "BHRT remains sanctioned by the EBU over debt",
-          "The country has no musicians",
-          "Eurovision banned all Balkan states",
-          "BHRT never existed"
+          "Unpaid EBU debts tied to withheld RTRS licence-fee transfers",
+          "A permanent ban on Balkan music contests",
+          "A lack of singers in Sarajevo",
+          "A rule against public broadcasters"
         ],
         "correctIndex": 0,
-        "explanation": "BHRT sanctions over unpaid debt block Eurovision participation.",
+        "explanation": "EBU sanctions follow unpaid BHRT debts that grew as RTRS withheld licence-fee money owed to the state broadcaster.",
         "skill": "culture"
       },
       {
@@ -633,41 +633,41 @@
       "id": "daily-cafe",
       "alt": "Polygon painting of a busy café where people talk about daily plans.",
       "localPath": "/images/book1/day-23-daily-cafe.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Bosnian_coffee_%2813926468997%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABosnian_coffee_%2813926468997%29.jpg",
+      "author": "Michał Huniewicz",
+      "license": "CC BY 2.0",
+      "credit": "Polygon painting based on the photo Bosnian coffee (13926468997).jpg. Michał Huniewicz / Wikimedia Commons (CC BY 2.0)"
     },
     {
       "id": "zenica-postcard",
       "alt": "Polygon painting of a Zenica valley postcard.",
       "localPath": "/images/book1/day-23-zenica-postcard.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Theater_in_Zenica_from_side.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATheater_in_Zenica_from_side.jpg",
+      "author": "Emin Tarahija",
+      "license": "CC0",
+      "credit": "Polygon painting based on the photo Theater in Zenica from side.jpg. Emin Tarahija / Wikimedia Commons (CC0)"
     },
     {
       "id": "activity-cards",
       "alt": "Polygon painting of activity cards on a wooden table.",
       "localPath": "/images/book1/day-23-activity-cards.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Zenica_%28collage_image%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AZenica.jpg",
+      "author": "Multiple users. See History",
+      "license": "CC BY-SA 4.0",
+      "credit": "Polygon painting based on the photo Zenica.jpg. Multiple users. See History / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "civic-eurovision-debt",
       "alt": "Polygon painting of a dim stage standing for Eurovision absence and BHRT debt.",
       "localPath": "/images/book1/day-23-civic-eurovision-debt.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Vije%C4%87nica.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVije%C4%87nica.jpg",
+      "author": "Jovan Moravac",
+      "license": "CC BY-SA 4.0",
+      "credit": "Polygon painting based on the photo Vijećnica.jpg. Jovan Moravac / Wikimedia Commons (CC BY-SA 4.0)"
     }
   ],
   "imagesNeeded": false,
@@ -678,12 +678,12 @@
     "civic-eurovision-debt: Eurovision stage or BHRT broadcast theme for civic panel"
   ],
   "civicContext": {
-    "title": "BHRT stays sanctioned and Bosnia and Herzegovina misses Eurovision",
-    "body": "Bosnia and Herzegovina remains absent from the Eurovision Song Contest because BHRT stays sanctioned by the European Broadcasting Union. The public broadcaster carries unpaid debt that blocks full membership rights. Without a settled agreement, the country cannot return to the contest stage. Ana hears fans discuss the gap while she asks friends about weekend music habits. A cultural stage abroad can stay closed when institutional debt goes unresolved.",
+    "title": "BHRT debt and RTRS fee withholding keep Eurovision closed",
+    "body": "Bosnia and Herzegovina is absent from Eurovision because the European Broadcasting Union sanctioned the state broadcaster BHRT over unpaid membership debts. Those debts grew after Radio-Television of Republika Srpska (RTRS) withheld large shares of the television licence fee that law says should reach BHRT. Courts have ordered repayment, yet years of missing transfers left BHRT unable to clear what it owes the EBU. Until that funding fight is settled, the country stays locked out of the contest and other EBU services.",
     "imageId": "civic-eurovision-debt",
     "learnMore": {
-      "label": "Eurovoix article on BHRT EBU sanctions",
-      "url": "https://eurovoix.com/2023/11/13/bosnia-herzegovina-bhrt-remains-sanctioned-by-the-ebu/"
+      "label": "Eurovoix report on BHRT debts, RTRS fees, and EBU sanctions",
+      "url": "https://eurovoix.com/2026/02/27/bhrt-halts-most-programming-as-debts-grow/"
     }
   },
   "authenticListen": {

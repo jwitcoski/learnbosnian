@@ -474,13 +474,13 @@
         "id": "q7",
         "question": "What civic pressure does this housing lesson highlight?",
         "options": [
-          "Returnee Bosniaks in Republika Srpska face hostile community pressure",
-          "All rents are free nationwide",
-          "Only Sarajevo has apartments",
-          "Contracts are illegal"
+          "Returnee minorities in Republika Srpska still face hostile local conditions",
+          "Every returnee receives free luxury flats",
+          "Housing markets ignore wartime history",
+          "Entity borders ban all rentals"
         ],
         "correctIndex": 0,
-        "explanation": "Returnees especially Bosniaks in Republika Srpska can face hostile community environments.",
+        "explanation": "Bosniak and other minority returnees in Republika Srpska still report hostility, segregation, and local pressure around daily life.",
         "skill": "culture"
       },
       {
@@ -630,41 +630,41 @@
       "id": "flat-kitchen",
       "alt": "Polygon painting of a bright flat kitchen.",
       "localPath": "/images/book1/day-26-flat-kitchen.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/BiH_Svrzo_kitchen_vodnica.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABiH_Svrzo_kitchen_vodnica.jpg",
+      "author": "Whitepixels",
+      "license": "CC0",
+      "credit": "Polygon painting based on the photo BiH Svrzo kitchen vodnica.jpg. Whitepixels / Wikimedia Commons (CC0)"
     },
     {
       "id": "apartment-door",
       "alt": "Polygon painting of an apartment door and keys.",
       "localPath": "/images/book1/day-26-apartment-door.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Sarajevo_Hotel-Bristol_Revolving-Door_2011-10-25.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_Hotel-Bristol_Revolving-Door_2011-10-25.jpg",
+      "author": "Milan Suvajac",
+      "license": "CC BY-SA 4.0",
+      "credit": "Polygon painting based on the photo Sarajevo Hotel-Bristol Revolving-Door 2011-10-25.jpg. Milan Suvajac / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "furniture-corner",
       "alt": "Polygon painting of a furnished room corner.",
       "localPath": "/images/book1/day-26-furniture-corner.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/BiH_Svrzo_dining_room.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABiH_Svrzo_dining_room.jpg",
+      "author": "Whitepixels",
+      "license": "CC0",
+      "credit": "Polygon painting based on the photo BiH Svrzo dining room.jpg. Whitepixels / Wikimedia Commons (CC0)"
     },
     {
       "id": "civic-returnee-pressure",
       "alt": "Polygon painting of a quiet returnee house under local pressure.",
       "localPath": "/images/book1/day-26-civic-returnee-pressure.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Stari_grad_Stolac_%2817%29.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AStari_grad_Stolac_%2817%29.JPG",
+      "author": "Ma▀▄Ga",
+      "license": "CC BY 3.0",
+      "credit": "Polygon painting based on the photo Stari grad Stolac (17).JPG. Ma▀▄Ga / Wikimedia Commons (CC BY 3.0)"
     }
   ],
   "imagesNeeded": false,
@@ -675,8 +675,8 @@
     "Documentary still on returnee housing pressure for civic-returnee-pressure."
   ],
   "civicContext": {
-    "title": "Returnee housing still meets quiet hostility",
-    "body": "Thousands of Bosniaks who returned to homes in Republika Srpska after the war still meet cold stares, segregated schools, and political rhetoric that treats them as guests rather than citizens. International monitors document pressure on minority communities through blocked employment, disputed property cases, and symbols that celebrate wartime actors. Return is legal on paper, yet daily life can shrink to a few safe streets and family visits. Housing hunts in mixed towns therefore carry quiet fear beneath the rent question. Learners who rent a flat hear how peace agreements and neighborly politeness do not erase structural hostility overnight.",
+    "title": "Returnees in Republika Srpska still face hostile local pressure",
+    "body": "Minority return to Republika Srpska remains unfinished three decades after the war. Bosniak returnees often meet segregated schooling, job barriers, and political rhetoric that treats them as outsiders in their own towns. International monitors keep documenting property disputes and intimidation around returnee communities. Legal rights to reclaim a house therefore collide with daily pressure that shrinks who can safely stay.",
     "imageId": "civic-returnee-pressure",
     "learnMore": {
       "label": "Wikipedia article on return of refugees and IDPs in Bosnia and Herzegovina",

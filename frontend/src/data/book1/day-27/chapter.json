@@ -474,13 +474,13 @@
         "id": "q7",
         "question": "What civic topic does this lesson highlight?",
         "options": [
-          "Republika Srpska leaders push secessionist rhetoric against state authority",
-          "All schools are closed forever",
-          "Guides are illegal",
-          "Libraries ban Bosnian books"
+          "Republika Srpska leaders challenge state judicial and police authority while floating secession",
+          "Entity leaders dissolved all schools",
+          "State courts control every local café menu",
+          "Police forces merged into one EU agency"
         ],
         "correctIndex": 0,
-        "explanation": "Leaders in Republika Srpska continually challenge state-level judicial and police authority.",
+        "explanation": "Secessionist rhetoric and resistance to state-level courts and police remain a documented structural pressure.",
         "skill": "culture"
       },
       {
@@ -630,41 +630,41 @@
       "id": "guide-badge",
       "alt": "Polygon painting of a tour guide badge and map.",
       "localPath": "/images/book1/day-27-guide-badge.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Sarajevo_Bascarsija_2011-10-28_%282%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_Bascarsija_2011-10-28_%282%29.jpg",
+      "author": "Milan Suvajac",
+      "license": "CC BY-SA 4.0",
+      "credit": "Polygon painting based on the photo Sarajevo Bascarsija 2011-10-28 (2).jpg. Milan Suvajac / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "classroom-desk",
       "alt": "Polygon painting of a classroom desk and notebook.",
       "localPath": "/images/book1/day-27-classroom-desk.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Faculty_of_Islamic_Studies_in_Sarajevo_2023.01.22.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFaculty_of_Islamic_Studies_in_Sarajevo_2023.01.22.jpg",
+      "author": "Niegodzisie",
+      "license": "CC BY-SA 4.0",
+      "credit": "Polygon painting based on the photo Faculty of Islamic Studies in Sarajevo 2023.01.22.jpg. Niegodzisie / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "office-tram",
       "alt": "Polygon painting of a tram commute toward work.",
       "localPath": "/images/book1/day-27-office-tram.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Sarajevo_tram_706.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_tram_706.jpg",
+      "author": "xiquinhosilva",
+      "license": "CC BY 2.0",
+      "credit": "Polygon painting based on the photo Sarajevo tram 706.jpg. xiquinhosilva / Wikimedia Commons (CC BY 2.0)"
     },
     {
       "id": "civic-rs-secession",
       "alt": "Polygon painting of institutional tension around entity challenges to state authority.",
       "localPath": "/images/book1/day-27-civic-rs-secession.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Tvr%C4%91ava_Kastel_Banja_Luka.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATvr%C4%91ava_Kastel_Banja_Luka.jpg",
+      "author": "Biljana Latinović2",
+      "license": "CC BY-SA 4.0",
+      "credit": "Polygon painting based on the photo Tvrđava Kastel Banja Luka.jpg. Biljana Latinović2 / Wikimedia Commons (CC BY-SA 4.0)"
     }
   ],
   "imagesNeeded": false,
@@ -675,8 +675,8 @@
     "News still on Republika Srpska political rally for civic-rs-secession."
   ],
   "civicContext": {
-    "title": "Republika Srpska rhetoric keeps challenging state authority",
-    "body": "Political leaders in Republika Srpska repeatedly float secessionist language and resist rulings from state-level courts and police structures in Bosnia and Herzegovina. Entity institutions celebrate parallel holidays and symbols while ministers question binding decisions from Sarajevo. For young workers and students, that friction shows up as competing news headlines above the same tram line. A routine workday therefore sits inside a constitutional tug-of-war that is louder than a campus schedule yet just as daily.",
+    "title": "Republika Srpska leaders keep challenging state courts and police",
+    "body": "Leaders in Republika Srpska repeatedly push secessionist rhetoric against the shared state of Bosnia and Herzegovina. Entity officials have refused or delayed compliance with state-level court decisions and have built parallel political calendars. Challenges to joint police and judicial authority keep constitutional fights in the daily news. Work and school routines therefore run under a government layer that still contests the state's right to decide.",
     "imageId": "civic-rs-secession",
     "learnMore": {
       "label": "Wikipedia article on proposed secession of Republika Srpska",

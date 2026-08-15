@@ -34,6 +34,10 @@
 **Narration:** Ana refuses the jump while a passerby explains summer diving.
 **On screen:** Dialogue lines appear in Bosnian and English.
 
+### 7:40 Bosnia Today
+**Narration:** Međugorje draws huge Catholic pilgrimage and Croatian identity tourism while Rome allows pastoral care without a classic full miracle authentication.
+**On screen:** Bosnia Today
+
 ### 8:00 Practice prompt
 **Narration:** Pause and name one landmark aloud. Continue with Lesson 29, Pisma iz BiH.
 **On screen:** Name a landmark | Next lesson is Pisma iz BiH

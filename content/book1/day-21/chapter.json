@@ -410,15 +410,15 @@
       },
       {
         "id": "q6",
-        "question": "Which postcard region does Ana consider?",
+        "question": "What happens when private rural bus lines stop paying?",
         "options": [
-          "Una or Bihać",
-          "Only Neum beach",
-          "Only Jahorina ski",
-          "Only Mostar bridge"
+          "Operators often cancel the route with no public replacement",
+          "The state always adds a free replacement coach",
+          "Every village gains a new rail link",
+          "Ticket prices fall to zero by law"
         ],
         "correctIndex": 0,
-        "explanation": "Ana considers Una or Bihać for a solo trip.",
+        "explanation": "Unprofitable private rural lines are often canceled, leaving villages without reliable public transport.",
         "skill": "culture"
       },
       {
@@ -562,41 +562,41 @@
       "id": "weekend-map",
       "alt": "Polygon painting of a weekend map beside the Una River.",
       "localPath": "/images/book1/day-21-weekend-map.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Una_near_Biha%C4%87_2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AUna_near_Biha%C4%87_2.jpg",
+      "author": "This Photo was taken by Miha Peče",
+      "license": "CC BY-SA 4.0",
+      "credit": "Polygon painting based on the photo Una near Bihać 2.jpg. This Photo was taken by Miha Peče / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "una-postcard",
       "alt": "Polygon painting of an Una River postcard view near Bihać.",
       "localPath": "/images/book1/day-21-una-postcard.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Una_River_Bihac_2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AUna_River_Bihac_2.jpg",
+      "author": "Julian Nyča",
+      "license": "CC BY-SA 3.0",
+      "credit": "Polygon painting based on the photo Una River Bihac 2.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "cafe-plan",
       "alt": "Polygon painting of a café table used for weekend planning.",
       "localPath": "/images/book1/day-21-cafe-plan.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bosanska_Kahva_%282496827374%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABosanska_Kahva_%282496827374%29.jpg",
+      "author": "Brenda Annerl",
+      "license": "CC BY 2.0",
+      "credit": "Polygon painting based on the photo Bosanska Kahva (2496827374).jpg. Brenda Annerl / Wikimedia Commons (CC BY 2.0)"
     },
     {
       "id": "civic-rural-bus",
       "alt": "Polygon painting of an empty rural bus stop in a Bosnian village.",
       "localPath": "/images/book1/day-21-civic-rural-bus.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Sarajevo_bus_station_2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_bus_station_2.jpg",
+      "author": "Vano111ru",
+      "license": "CC BY-SA 4.0",
+      "credit": "Polygon painting based on the photo Sarajevo bus station 2.jpg. Vano111ru / Wikimedia Commons (CC BY-SA 4.0)"
     }
   ],
   "imagesNeeded": false,
@@ -607,8 +607,8 @@
     "civic-rural-bus: Rural minibus on a mountain road for civic panel"
   ],
   "civicContext": {
-    "title": "Rural bus lines shut down as unprofitable routes",
-    "body": "Private rural bus lines across Bosnia and Herzegovina often shut down when routes stop paying. Villages that once relied on minibuses can lose reliable public transport without a replacement. Ana reads a news note about canceled mountain lines while she plans a weekend ticket. A solo trip still depends on roads and buses that do not reach every community. Transport gaps show how market pressure can leave rural residents stranded.",
+    "title": "Private rural bus lines collapse when routes stop paying",
+    "body": "Rural public transport in Bosnia and Herzegovina still depends heavily on private operators rather than a stable statewide network. When a mountain or village route stops turning a profit, companies cancel the line instead of absorbing the loss. Many smaller places then lose daily service with no public replacement on the same timetable. The result is a patchwork map where market math decides who can still reach work, school, or a clinic by bus.",
     "imageId": "civic-rural-bus",
     "learnMore": {
       "label": "Wikipedia article about transport in Bosnia and Herzegovina",

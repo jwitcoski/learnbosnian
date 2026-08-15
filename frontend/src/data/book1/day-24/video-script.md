@@ -34,6 +34,10 @@
 **Narration:** Mrvica bats at a pinecone while the friends compare rivers, forests, and ski names.
 **On screen:** Dialogue lines appear in Bosnian and English.
 
+### 7:40 Bosnia Today
+**Narration:** Jahorina in Republika Srpska became a major ski resort after 1984, while Bjelašnica and Igman on the Federation side took heavier war damage and weaker recovery. Same Games, unequal afterlives.
+**On screen:** Bosnia Today
+
 ### 8:00 Practice prompt
 **Narration:** Pause and name one river and one mountain from the lesson. Continue with Lesson 25, Kod doktora.
 **On screen:** Name river and mountain | Next lesson is Kod doktora
