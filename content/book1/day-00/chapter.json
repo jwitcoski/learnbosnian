@@ -15,7 +15,7 @@
       "Meet the cast names Ana, Emir, Amira, and Mrvica"
     ],
     "grammar": [
-      "Skip conjugation for now. This lesson is about the language itself.",
+      "Know that Book 1 teaches ready phrases and present-tense chunks, not full case tables or conjugation charts.",
       "Use Latin script only from Lesson 1 onward. This course never teaches Cyrillic."
     ],
     "culture": [
@@ -113,6 +113,20 @@
       ]
     },
     {
+      "title": "Book 1 teaches phrases, not full grammar tables",
+      "explanation": "Bosnian grammar is real and complicated. Cases, endings, and long verb charts can overwhelm beginners. Book 1 does not teach that full system. You learn ready phrases and present-tense chunks you can say today: order coffee, ask the time, introduce yourself, stay polite. Grammar labels appear only to help you notice a useful pattern. Full paradigms and past-tense storytelling wait for Book 2.",
+      "examples": [
+        {
+          "bosnian": "Kahvu, molim.",
+          "english": "Coffee, please. (a ready chunk)"
+        },
+        {
+          "bosnian": "Ja sam Ana.",
+          "english": "I am Ana. (say the whole line)"
+        }
+      ]
+    },
+    {
       "title": "Close neighbors, separate standards",
       "explanation": "Bosnian, Croatian, and Serbian share a common South Slavic dialect base (Štokavian) and are largely mutually intelligible. They are separate standard languages with their own norms, preferred words, and cultural identities. This course teaches standard Bosnian as used in Bosnia and Herzegovina. After today, we will not add “also in Croatian…” sidebars. we stay in Bosnian.",
       "examples": [
@@ -154,9 +168,10 @@
     {
       "id": "c",
       "title": "Lesson C: Why learn Bosnian, and who these lessons are for",
-      "body": "Why Bosnian? Because you care about this place and these people. You may visit Bosnia and Herzegovina for a short stay, begin an expat year, have family or partners with roots here, reclaim a home language from diaspora, or refuse a vague Balkans label. Book 1 is a tourist and early-expat survival path: order food, find your way, talk about weather and rooms, meet people politely, and stay in the present tense. This course is for absolute beginners and false beginners who read English. It fits adults and older teens who can spend about an hour a day with Latin-script Bosnian only. It is not a linguistics degree, a three-language comparative grammar, a Cyrillic course, or an A2 storytelling course. Past-tense stories wait for Book 2. Lesson 0 is your map. Lesson 1 is your first step onto the stone streets of Baščaršija.",
+      "body": "Why Bosnian? Because you care about this place and these people. You may visit Bosnia and Herzegovina for a short stay, begin an expat year, have family or partners with roots here, reclaim a home language from diaspora, or refuse a vague Balkans label. Book 1 is a tourist and early-expat survival path: order food, find your way, talk about weather and rooms, meet people politely, and stay in the present tense. Bosnian grammar (cases, endings, long charts) is rich and complicated, so Book 1 does not teach that full system yet. You learn ready phrases and present-tense chunks you can use this week. This course is for absolute beginners and false beginners who read English. It fits adults and older teens who can spend about an hour a day with Latin-script Bosnian only. It is not a linguistics degree, a three-language comparative grammar, a Cyrillic course, or an A2 storytelling course. Past-tense stories and deeper grammar wait for Book 2. Lesson 0 is your map. Lesson 1 is your first step onto the stone streets of Baščaršija.",
       "tips": [
         "If you can read this page in English, you are in the right audience.",
+        "Expect phrases you can say, not case tables to memorize.",
         "Plan about 35 minutes today, then about 60 minutes from Lesson 1."
       ]
     }
@@ -247,6 +262,10 @@
         {
           "statement": "From Lesson 1 we will constantly compare three language columns side by side.",
           "answer": false
+        },
+        {
+          "statement": "Book 1 teaches full Bosnian case tables and conjugation charts from the start.",
+          "answer": false
         }
       ]
     }
@@ -311,6 +330,10 @@
     {
       "title": "Why we skip Cyrillic here",
       "body": "Less split attention. Master Latin Bosnian first; you can explore other scripts later if you want."
+    },
+    {
+      "title": "Why we skip the big grammar table",
+      "body": "Bosnian has cases and endings that can overwhelm beginners. Book 1 keeps you speaking with short, reusable lines. You will see grammar labels, but you learn phrases first. The big tables come later in Book 2."
     }
   ],
   "resources": [
@@ -396,7 +419,7 @@
           "Learners who refuse culture and want verb tables alone"
         ],
         "correctIndex": 0,
-        "explanation": "Book 1 is for English-reading beginners and false beginners who want clear, cultural, Latin-script Bosnian.",
+        "explanation": "Book 1 is for English-reading beginners and false beginners who want clear, cultural, Latin-script Bosnian through ready phrases, not verb tables alone.",
         "skill": "culture"
       },
       {
@@ -435,8 +458,21 @@
           "Skip culture and only teach flags"
         ],
         "correctIndex": 1,
-        "explanation": "Lesson 0 answers the map questions; Lessons 1. 30 teach Bosnian through story and practice.",
+        "explanation": "Lesson 0 answers the map questions; Lessons 1 to 30 teach Bosnian through story and practice.",
         "skill": "culture"
+      },
+      {
+        "id": "q9",
+        "question": "How does Book 1 handle Bosnian grammar?",
+        "options": [
+          "Full case tables and conjugation charts from Lesson 1",
+          "Ready phrases and present-tense chunks you can say today; deeper grammar waits for Book 2",
+          "Only linguistics theory with no speaking practice",
+          "Three parallel language columns every day"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bosnian grammar is complicated, so Book 1 teaches usable phrases first. Full paradigms and past tense wait for Book 2.",
+        "skill": "grammar"
       }
     ]
   },

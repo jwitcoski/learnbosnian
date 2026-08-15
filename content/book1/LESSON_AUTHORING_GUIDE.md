@@ -29,13 +29,13 @@ Book 1 is an **A1 present-tense survival intro** for travelers, short-stay visit
 | Lock | Rule |
 |------|------|
 | Present tense only | Teach usable present forms and polite imperatives. No past tense (perfekt), no future paradigms. Past storytelling moves to **Book 2**. |
-| Chunks over tables | Keep grammar panel titles if useful, but the **first sentence** of every grammar explanation must be: `Learn this as a phrase, not a table.` |
+| Chunks over tables | Keep grammar panel titles if useful. Open every grammar explanation with a **chunks-first** line (see phrase bank below). Do not repeat the same opener on every panel in a lesson. |
 | Spiral frames | Every new lesson after Lesson 1 must reuse **5 to 8** high-frequency frames from earlier lessons inside Say again, blocks, dialogue, or practice. |
 | Say again warm-up | Every normal lesson (and reviews) includes `sayAgain` with **exactly 4** recycled Bosnian/English lines before Lesson A. |
 | Review = frame drill | Lessons **7, 14, 21, 30** drill the core frames hard. Prefer recycle cards and question switches over new systems. |
 | Public politeness | Any shop, café counter, bus, clinic, or stranger scene needs at least one polite exchange (`molim`, `hvala`, or `molim vas`). Keep ja/ti as the default social voice. |
 | Studio speech OK | Keep dialogue clean for recording. Do not add reduced “street” variants in Book 1. |
-| Audience copy | Lesson 0 and marketing must say short-stay social survival (tourist + early expat), Latin-only Bosnian, present tense. Do not promise A2. |
+| Audience copy | Lesson 0 and marketing must say short-stay social survival (tourist + early expat), Latin-only Bosnian, present tense. Lesson 0 must state that Book 1 teaches ready phrases and chunks, not full grammar tables. Do not promise A2. |
 
 ## 1. Product promises (every lesson)
 
@@ -91,6 +91,22 @@ Fill `content/book1/day-XX/chapter.json` completely before marking `draft`.
 - Examples are **sayable** (`Ja sam Ana.`, `Kahvu, molim.`)
 - One panel may be “say it as a chunk” when morphology is early
 - Keep explanations plain English; no linguistics degree tone
+- **First sentence = chunks-first reminder.** Pick from the phrase bank; rotate so learners do not see the same line on every panel. Within one lesson, use different openers for panels A/B/C.
+
+**Chunks-first phrase bank** (same idea, varied wording):
+
+1. Learn this as a phrase, not a table.
+2. Treat this as a ready chunk you can say today.
+3. Say the whole line together; skip the full chart for now.
+4. Hold this as a spoken pattern, not a grammar grid.
+5. Learn the usable chunk first; full tables can wait.
+6. Keep this as a sayable line rather than a paradigm list.
+7. Memorize the phrase shape; leave the full table for later.
+8. Take this as a speaking chunk, not a case chart.
+9. Practice the whole expression before you worry about paradigms.
+10. Build this as a ready-made line you can reuse.
+11. Store this as a phrase you can pull out in conversation.
+12. Focus on the spoken chunk; postpone the full paradigm.
 
 ### Dialogue rules
 
