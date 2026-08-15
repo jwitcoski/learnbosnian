@@ -258,7 +258,28 @@ export default function SpeakPractice({
               {feedback.encourage}
             </p>
           )}
+          <p
+            style={{
+              marginTop: "0.5rem",
+              fontSize: "0.75rem",
+              color: "var(--color-muted)",
+            }}
+          >
+            Heard via Amazon Transcribe (bs-BA); coaching from Amazon Bedrock
+            (Nova).
+          </p>
         </div>
+      )}
+      {aiEnabled && !feedback && (
+        <p
+          style={{
+            marginTop: "0.5rem",
+            fontSize: "0.75rem",
+            color: "var(--color-muted)",
+          }}
+        >
+          AI check: your take → S3 → Amazon Transcribe → Amazon Bedrock.
+        </p>
       )}
     </div>
   );

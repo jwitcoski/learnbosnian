@@ -33,6 +33,7 @@ node scripts/export-youtube.cjs --day 1
 - Content: JSON under `content/` (source of truth)
 - Voice recorder: private Vite SPA (`recorder/`) → S3 uploads → lesson tap-to-play
 - Backend: AWS Lambda + DynamoDB (audio API + stubs)
+- **Speak Check:** learner mic → S3 → Amazon Transcribe (`bs-BA`) → Amazon Bedrock (Nova) “what to fix” coaching via API Gateway / Lambda (~$0.002–0.01 per attempt)
 
 ## Voice-overs
 
