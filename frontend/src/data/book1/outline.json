@@ -2,7 +2,7 @@
   "book": 1,
   "title": "Learn Bosnian in 30 Days",
   "titleBs": "Nauči bosanski za 30 dana",
-  "level": "A1–A2",
+  "level": "A1",
   "script": "latin",
   "cast": [
     "Ana",
@@ -205,26 +205,26 @@
       "title": "Ponavljanje",
       "titleEn": "Review",
       "theme": "Ana plans a solo weekend",
-      "languageFocus": "Review days 15–20",
+      "languageFocus": "Frame drill review of lessons 15 to 20",
       "storyBeat": "Ana plans a weekend alone",
       "section": 3
     },
     {
       "day": 22,
-      "title": "Jučer u Travniku",
-      "titleEn": "Yesterday in Travnik",
-      "theme": "Day trip to Travnik",
-      "languageFocus": "Past tense (perfekt) intro",
-      "storyBeat": "Travnik trip begins",
+      "title": "Danas u Travniku",
+      "titleEn": "Today in Travnik",
+      "theme": "Day trip to Travnik in the present",
+      "languageFocus": "Place talk in present tense; sightseeing chunks",
+      "storyBeat": "Ana and Emir walk Travnik and name what they see",
       "section": 4
     },
     {
       "day": 23,
-      "title": "Šta si radio/radila?",
-      "titleEn": "What did you do?",
-      "theme": "Retelling the mishap",
-      "languageFocus": "Past Q&A, gender in participles",
-      "storyBeat": "Retelling the Travnik mishap",
+      "title": "Šta radiš?",
+      "titleEn": "What do you do?",
+      "theme": "Daily activity questions after the trip",
+      "languageFocus": "Present activity questions; radim/radiš chunks",
+      "storyBeat": "Ana asks what people do today and what they like to do",
       "section": 4
     },
     {
@@ -268,16 +268,16 @@
       "title": "Mostar napokon!",
       "titleEn": "Mostar at last!",
       "theme": "Stari most dare",
-      "languageFocus": "Travel past + ići ću, landmarks",
+      "languageFocus": "Mostar landmarks; idemo and želim travel plans",
       "storyBeat": "Finally Mostar; cold Neretva dare",
       "section": 4
     },
     {
       "day": 29,
       "title": "Pisma iz BiH",
-      "titleEn": "Letters from BiH",
+      "titleEn": "Letters from Bosnia and Herzegovina",
       "theme": "Ana writes home",
-      "languageFocus": "Postcard/email, i/ali/zato",
+      "languageFocus": "Postcard and email chunks with i/ali/zato",
       "storyBeat": "Ana writes home",
       "section": 4
     },
@@ -286,7 +286,7 @@
       "title": "Završna proslava",
       "titleEn": "Graduation party",
       "theme": "Party; Mrvica steals the cake",
-      "languageFocus": "Full A1 review + dictionary tour",
+      "languageFocus": "Full A1 present-tense frame review and dictionary tour",
       "storyBeat": "Graduation party; cake heist",
       "section": 4
     }
@@ -314,8 +314,8 @@
     },
     {
       "section": 4,
-      "title": "Telling stories & travel",
-      "focus": "Past tense, nature, health, housing, work/school, Mostar, writing, finale"
+      "title": "Travel and longer stay",
+      "focus": "Travnik and Mostar in the present, nature, health, housing, work, writing, finale"
     }
   ]
 }

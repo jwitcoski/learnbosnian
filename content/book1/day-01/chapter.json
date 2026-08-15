@@ -142,7 +142,7 @@
   "grammar": [
     {
       "title": "The full Latin Bosnian alphabet",
-      "explanation": "Bosnian in this course uses the Latin script only. There is no Cyrillic here. There are 30 letters. Most match English shapes, and a few need extra care. Say the full order out loud. The letters are A B C Č Ć D Dž Đ E F G H I J K L Lj M N Nj O P R S Š T U V Z Ž.",
+      "explanation": "Learn this as a phrase, not a table. Bosnian in this course uses the Latin script only. There is no Cyrillic here. There are 30 letters. Most match English shapes, and a few need extra care. Say the full order out loud. The letters are A B C Č Ć D Dž Đ E F G H I J K L Lj M N Nj O P R S Š T U V Z Ž.",
       "examples": [
         {
           "bosnian": "A a",
@@ -268,7 +268,7 @@
     },
     {
       "title": "Writing č ć š ž đ",
-      "explanation": "Bosnian uses letters that many English keyboards do not show by default. You need č ć š ž đ, and the capitals Č Ć Š Ž Đ. You must write them correctly from the start.",
+      "explanation": "Learn this as a phrase, not a table. Bosnian uses letters that many English keyboards do not show by default. You need č ć š ž đ, and the capitals Č Ć Š Ž Đ. You must write them correctly from the start.",
       "examples": [
         {
           "bosnian": "čaj",
@@ -286,7 +286,7 @@
     },
     {
       "title": "Greeting exchanges",
-      "explanation": "Start simple. Say a greeting, hear one back, then add hvala or molim. Formal day greetings use dobar dan; friends often say zdravo.",
+      "explanation": "Learn this as a phrase, not a table. Start simple. Say a greeting, hear one back, then add hvala or molim. Formal day greetings use dobar dan; friends often say zdravo.",
       "examples": [
         {
           "bosnian": "Zdravo!",
@@ -832,5 +832,27 @@
     2,
     4
   ],
-  "section": 1
+  "section": 1,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Učim bosanski.",
+        "english": "I am learning Bosnian."
+      },
+      {
+        "bosnian": "Dobrodošli.",
+        "english": "Welcome."
+      },
+      {
+        "bosnian": "Bosanski jezik.",
+        "english": "Bosnian language."
+      },
+      {
+        "bosnian": "Zdravo!",
+        "english": "Hello!"
+      }
+    ]
+  }
 }

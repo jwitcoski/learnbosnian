@@ -18,7 +18,7 @@
     "grammar": [
       "Use Želim plus an object as one ready chunk",
       "Keep molim and hvala in the polite kit",
-      "Ask Koliko košta for the price"
+      "Reuse familiar present-tense frames from earlier lessons."
     ],
     "culture": [
       "Feel market energy in Tuzla, north of Sarajevo’s old bazaar",
@@ -142,7 +142,7 @@
   "grammar": [
     {
       "title": "Želim + object",
-      "explanation": "Želim means I want. Use it at the counter. Say Želim jabuku. Say Želim hljeb. Say Želim vodu. Feminine -a nouns often take -u in this chunk. Keep the list short and sayable.",
+      "explanation": "Learn this as a phrase, not a table. Želim means I want. Use it at the counter. Say Želim jabuku. Say Želim hljeb. Say Želim vodu. Feminine -a nouns often take -u in this chunk. Keep the list short and sayable.",
       "examples": [
         {
           "bosnian": "Želim jabuku.",
@@ -160,7 +160,7 @@
     },
     {
       "title": "Molim and hvala",
-      "explanation": "Molim softens a request (Hljeb, molim.) and can also answer thank you as you’re welcome. Hvala is thank you. Stack them as Hvala! and Molim!",
+      "explanation": "Learn this as a phrase, not a table. Molim softens a request (Hljeb, molim.) and can also answer thank you as you’re welcome. Hvala is thank you. Stack them as Hvala! and Molim!",
       "examples": [
         {
           "bosnian": "Hljeb, molim.",
@@ -178,7 +178,7 @@
     },
     {
       "title": "Koliko košta?",
-      "explanation": "Ask the price with Koliko košta? Answer with a number and KM if you know it, or just react. Say To je jeftino. Say To je skupo.",
+      "explanation": "Learn this as a phrase, not a table. Ask the price with Koliko košta? Answer with a number and KM if you know it, or just react. Say To je jeftino. Say To je skupo.",
       "examples": [
         {
           "bosnian": "Koliko košta?",
@@ -759,5 +759,27 @@
     3,
     5
   ],
-  "section": 2
+  "section": 2,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Volim burek.",
+        "english": "I love burek."
+      },
+      {
+        "bosnian": "Volim sirnicu.",
+        "english": "I love cheese pita."
+      },
+      {
+        "bosnian": "Ja sam gladna.",
+        "english": "I am hungry."
+      },
+      {
+        "bosnian": "Dobar tek!",
+        "english": "Enjoy your meal!"
+      }
+    ]
+  }
 }

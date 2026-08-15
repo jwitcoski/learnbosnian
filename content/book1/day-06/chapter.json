@@ -18,7 +18,7 @@
     "grammar": [
       "Ask and answer the hour with sat and sati",
       "Use danas and sutra for today and tomorrow",
-      "Learn weekday names as ready-made words"
+      "Reuse familiar present-tense frames from earlier lessons."
     ],
     "culture": [
       "See sahat-kule clock towers in towns across Bosnia and Herzegovina, not only Sarajevo",
@@ -142,7 +142,7 @@
   "grammar": [
     {
       "title": "Koliko je sati?",
-      "explanation": "Ask the time with Koliko je sati? Answer with a number from Lesson 3 plus sat or sati. Say Jedan je sat for one o’clock. For two through four you will often hear sati. Keep the chunk short and clear.",
+      "explanation": "Learn this as a phrase, not a table. Ask the time with Koliko je sati? Answer with a number from Lesson 3 plus sat or sati. Say Jedan je sat for one o’clock. For two through four you will often hear sati. Keep the chunk short and clear.",
       "examples": [
         {
           "bosnian": "Koliko je sati?",
@@ -160,7 +160,7 @@
     },
     {
       "title": "Danas and sutra",
-      "explanation": "Danas means today. Sutra means tomorrow. Pair them with a weekday. Say Danas je petak. Say Sutra je subota. You can also place plans with Sutra u deset sati.",
+      "explanation": "Learn this as a phrase, not a table. Danas means today. Sutra means tomorrow. Pair them with a weekday. Say Danas je petak. Say Sutra je subota. You can also place plans with Sutra u deset sati.",
       "examples": [
         {
           "bosnian": "Danas je petak.",
@@ -178,7 +178,7 @@
     },
     {
       "title": "Weekdays. chant the week",
-      "explanation": "Learn the seven days as a list. The words are ponedjeljak, utorak, srijeda, četvrtak, petak, subota, and nedjelja. Watch the special letters in srijeda and četvrtak.",
+      "explanation": "Learn this as a phrase, not a table. Learn the seven days as a list. The words are ponedjeljak, utorak, srijeda, četvrtak, petak, subota, and nedjelja. Watch the special letters in srijeda and četvrtak.",
       "examples": [
         {
           "bosnian": "ponedjeljak, utorak, srijeda",
@@ -734,5 +734,27 @@
     3,
     7
   ],
-  "section": 1
+  "section": 1,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Gdje je Mostar?",
+        "english": "Where is Mostar?"
+      },
+      {
+        "bosnian": "Ovdje smo.",
+        "english": "We are here."
+      },
+      {
+        "bosnian": "Mostar je tamo.",
+        "english": "Mostar is there."
+      },
+      {
+        "bosnian": "Kod Amire.",
+        "english": "At Amira’s."
+      }
+    ]
+  }
 }

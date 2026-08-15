@@ -128,6 +128,12 @@ export type Chapter = {
   };
   vocabulary: VocabEntry[];
   grammar: GrammarBite[];
+  /** Recycled frame warm-up before Lesson A */
+  sayAgain?: {
+    title: string;
+    intro?: string;
+    lines: { bosnian: string; english: string }[];
+  };
   culture?: {
     title: string;
     body: string;

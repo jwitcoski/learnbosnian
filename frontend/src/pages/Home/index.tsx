@@ -49,8 +49,9 @@ const Home = () => {
         <div className="hero-copy">
           <h1 className="brand">Learn Bosnian</h1>
           <p className="lede">
-            Real Bosnian in Latin script, culture from Sarajevo to Mostar, and a
-            silly story with Ana, Emir, Amira, and Mrvica the cat.
+            A1 present-tense Bosnian for short stays and early expat life: order
+            food, find your way, meet people, and stay in Latin script with Ana,
+            Emir, Amira, and Mrvica.
           </p>
           <div className="cta-row">
             <Cta type="button" onClick={() => history.push("/learn/lesson/0")}>
@@ -96,8 +97,9 @@ const Home = () => {
       <Section>
         <h2>Same lesson shape every time</h2>
         <p className="support">
-          Goals, culture, vocab, grammar, a puzzle, conversation, practice, fun
-          facts, another game, resources, then a section quiz.
+          Goals, culture, vocab, grammar, Say again warm-up, a puzzle,
+          conversation, practice, fun facts, another game, resources, then a
+          section quiz.
         </p>
         <Pillars>
           <article>
@@ -126,8 +128,8 @@ const Home = () => {
           <h2>Follow the story through Bosnia</h2>
           <p>
             Walk Baščaršija with Ana, drink kahva at Amira’s, get lost with Emir,
-            and let Mrvica steal the scene. Book 1 takes you from first greetings
-            to Mostar — and the culture of the whole country.
+            and let Mrvica steal the scene. Book 1 is tourist and early-expat
+            survival across Bosnia and Herzegovina, all in the present tense.
           </p>
           <SolidCta type="button" onClick={() => history.push("/books")}>
             Browse the book series

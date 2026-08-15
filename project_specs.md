@@ -2,11 +2,21 @@
 
 ## Goals
 
-- React website: Book 1 = Lesson 0 orientation + 30 one-hour lessons (A1 → early A2)
+- React website: Book 1 = Lesson 0 orientation + 30 one-hour **A1 present-tense** survival lessons (tourist / early expat)
+- Past-tense storytelling and heavier grammar wait for **Book 2**
 - Portable JSON → website, Scribus book pack, YouTube scripts, future Expo app
 - Nightly cadence: AI draft → human review → publish
 - Latin script only; Bosnian-focused; kilim-inspired theme
 - YouTube companions for [@HowtospeakBosnian](https://www.youtube.com/@HowtospeakBosnian)
+
+## Pedagogy locks (Book 1)
+
+- Present tense only (no perfekt / future paradigms)
+- Spiral frames + **Say again** warm-up (4 recycled lines) every drafted lesson
+- Reviews 7 / 14 / 21 / 30 are frame drills
+- Grammar panels keep labels, but open with “Learn this as a phrase, not a table.”
+- Public scenes include at least one polite exchange (`molim` / `hvala` / `molim vas`)
+- Studio-clean dialogue is OK; no reduced street variants in Book 1
 
 ## Lesson production plan
 
@@ -22,7 +32,7 @@
 | C | 8–10 | draft (same fashion) |
 | D | 11–15 | draft (weather, park, people, review, directions) |
 | E–F | 16–21 | Section 3 remainder + review |
-| G–H | 22–30 | Week 4 + finale |
+| G–H | 22–30 | Section 4 travel/longer stay (present only) + finale |
 
 ## Characters
 

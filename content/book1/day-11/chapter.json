@@ -18,7 +18,7 @@
     "grammar": [
       "Ask Kakvo je vrijeme? for a general weather report.",
       "Use neuter weather descriptions such as Hladno je and Oblačno je.",
-      "Say Pada kiša and Pada snijeg when rain or snow is falling."
+      "Reuse familiar present-tense frames from earlier lessons."
     ],
     "culture": [
       "Explore autumn weather on Trebević and the Sarajevo cable car.",
@@ -143,7 +143,7 @@
   "grammar": [
     {
       "title": "Kakvo je vrijeme?",
-      "explanation": "Ask Kakvo je vrijeme? when you want a general weather report. Kakvo agrees with the neuter noun vrijeme. The whole question is a useful chunk that works in every season.",
+      "explanation": "Learn this as a phrase, not a table. Ask Kakvo je vrijeme? when you want a general weather report. Kakvo agrees with the neuter noun vrijeme. The whole question is a useful chunk that works in every season.",
       "examples": [
         {
           "bosnian": "Kakvo je vrijeme?",
@@ -161,7 +161,7 @@
     },
     {
       "title": "Neuter weather descriptions",
-      "explanation": "Bosnian often describes the weather with a neuter adjective followed by je. Say Hladno je, Toplo je, or Oblačno je. These short sentences do not need a separate word for it.",
+      "explanation": "Learn this as a phrase, not a table. Bosnian often describes the weather with a neuter adjective followed by je. Say Hladno je, Toplo je, or Oblačno je. These short sentences do not need a separate word for it.",
       "examples": [
         {
           "bosnian": "Hladno je.",
@@ -179,7 +179,7 @@
     },
     {
       "title": "Pada kiša and pada snijeg",
-      "explanation": "Use pada with rain or snow to describe what is falling. Say Pada kiša for rain and Pada snijeg for snow. Keep each pair together so you can report a sudden change quickly.",
+      "explanation": "Learn this as a phrase, not a table. Use pada with rain or snow to describe what is falling. Say Pada kiša for rain and Pada snijeg for snow. Keep each pair together so you can report a sudden change quickly.",
       "examples": [
         {
           "bosnian": "Pada kiša.",
@@ -743,5 +743,27 @@
     3,
     5
   ],
-  "section": 2
+  "section": 2,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Imam sobu.",
+        "english": "I have a room."
+      },
+      {
+        "bosnian": "Moja soba je mala.",
+        "english": "My room is small."
+      },
+      {
+        "bosnian": "Želim kahvu, molim.",
+        "english": "I want coffee, please."
+      },
+      {
+        "bosnian": "Hvala!",
+        "english": "Thank you!"
+      }
+    ]
+  }
 }

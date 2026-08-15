@@ -18,7 +18,7 @@
     "grammar": [
       "Say Govorim bosanski or Govorim engleski.",
       "Ask Odakle si? and answer with Ja sam iz plus a place.",
-      "Use ko to ask who speaks a language or comes from a place."
+      "Reuse familiar present-tense frames from earlier lessons."
     ],
     "culture": [
       "Keep identity talk gentle by beginning with place and language.",
@@ -129,7 +129,7 @@
   "grammar": [
     {
       "title": "Govorim bosanski",
-      "explanation": "Use govorim to say which language you speak. Bosnian language names usually follow the verb without an article. Replace bosanski with engleski when you describe English.",
+      "explanation": "Learn this as a phrase, not a table. Use govorim to say which language you speak. Bosnian language names usually follow the verb without an article. Replace bosanski with engleski when you describe English.",
       "examples": [
         {
           "bosnian": "Govorim bosanski.",
@@ -147,7 +147,7 @@
     },
     {
       "title": "Odakle si?",
-      "explanation": "Ask Odakle si? when you want to know where someone is from. Answer with Ja sam iz followed by a place. A place answer shares useful information without forcing a larger identity label.",
+      "explanation": "Learn this as a phrase, not a table. Ask Odakle si? when you want to know where someone is from. Answer with Ja sam iz followed by a place. A place answer shares useful information without forcing a larger identity label.",
       "examples": [
         {
           "bosnian": "Odakle si?",
@@ -165,7 +165,7 @@
     },
     {
       "title": "Ko govori?",
-      "explanation": "Use ko when you ask who a person is or who does an action. Pair ko with govori to ask who speaks a language. Answer with a person's name and a complete sentence.",
+      "explanation": "Learn this as a phrase, not a table. Use ko when you ask who a person is or who does an action. Pair ko with govori to ask who speaks a language. Answer with a person's name and a complete sentence.",
       "examples": [
         {
           "bosnian": "Ko govori bosanski?",
@@ -713,5 +713,27 @@
     3,
     4
   ],
-  "section": 2
+  "section": 2,
+  "sayAgain": {
+    "title": "Say again",
+    "intro": "Warm up with four frames you already know.",
+    "lines": [
+      {
+        "bosnian": "Hajde da idemo u park.",
+        "english": "Let us go to the park."
+      },
+      {
+        "bosnian": "Hoćeš li šetati?",
+        "english": "Do you want to walk?"
+      },
+      {
+        "bosnian": "Čekaj!",
+        "english": "Wait!"
+      },
+      {
+        "bosnian": "Kakvo je vrijeme?",
+        "english": "How is the weather?"
+      }
+    ]
+  }
 }
