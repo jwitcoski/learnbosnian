@@ -48,7 +48,7 @@ export default function AssessmentQuiz({ assessment }: Props) {
       percent,
       passed,
       correctCount: correct,
-      missedDays: [...missedDays].sort((a, b) => a - b),
+      missedDays: Array.from(missedDays).sort((a, b) => a - b),
       missedSkills,
     });
   };
