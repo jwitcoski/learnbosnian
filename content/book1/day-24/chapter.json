@@ -430,15 +430,15 @@
       },
       {
         "id": "q4",
-        "question": "Which mountain hosted women's Olympic skiing in 1984?",
+        "question": "What civic gap does the Olympic ski comparison describe?",
         "options": [
-          "Jahorina",
-          "Only Bjelašnica for all events",
-          "Only Neum beach",
-          "Only Travnik tower"
+          "Jahorina grew into a major resort while Bjelašnica and Igman lagged after the war",
+          "All three mountains closed permanently in 1985",
+          "Only Igman hosts World Cup races every month",
+          "Ski tourism is banned in Republika Srpska"
         ],
         "correctIndex": 0,
-        "explanation": "Jahorina hosted women's Olympic skiing in 1984.",
+        "explanation": "Postwar investment favored Jahorina in Republika Srpska while Bjelašnica and Igman on the Federation side recovered more slowly.",
         "skill": "culture"
       },
       {
@@ -627,41 +627,41 @@
       "id": "una-river",
       "alt": "Polygon painting of the turquoise Una River canyon.",
       "localPath": "/images/book1/day-24-una-river.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/%C5%A0trba%C4%8Dki_buk.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3A%C5%A0trba%C4%8Dki_buk.jpg",
+      "author": "Igorbeslic",
+      "license": "CC BY-SA 4.0",
+      "credit": "Polygon painting based on the photo Štrbački buk.jpg. Igorbeslic / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "bjelasnica-ridge",
       "alt": "Polygon painting of a rocky Bjelašnica ridge.",
       "localPath": "/images/book1/day-24-bjelasnica-ridge.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bjela%C5%A1nica2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABjela%C5%A1nica2.jpg",
+      "author": "Xe0us at English Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "credit": "Polygon painting based on the photo Bjelašnica2.jpg. Xe0us at English Wikipedia / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "jahorina-ski",
       "alt": "Polygon painting of busy ski slopes on Jahorina.",
       "localPath": "/images/book1/day-24-jahorina-ski.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Jahorina_ski-lifts.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AJahorina_ski-lifts.jpg",
+      "author": "Vt211 at English Wikipedia",
+      "license": "Public domain",
+      "credit": "Polygon painting based on the photo Jahorina ski-lifts.jpg. Vt211 at English Wikipedia / Wikimedia Commons (Public domain)"
     },
     {
       "id": "civic-olympic-ski-gap",
       "alt": "Polygon painting contrasting lively Jahorina with neglected Olympic ski sites.",
       "localPath": "/images/book1/day-24-civic-olympic-ski-gap.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Jahorina_mountain_2017.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AJahorina_mountain_2017.jpg",
+      "author": "Micki",
+      "license": "CC BY-SA 4.0",
+      "credit": "Polygon painting based on the photo Jahorina mountain 2017.jpg. Micki / Wikimedia Commons (CC BY-SA 4.0)"
     }
   ],
   "imagesNeeded": false,
@@ -673,7 +673,7 @@
   ],
   "civicContext": {
     "title": "Jahorina booms while Bjelašnica and Igman Olympic sites lag",
-    "body": "Jahorina in Republika Srpska grew into a major ski destination after the 1984 Winter Olympics women's events. Bjelašnica and Igman on the Federation side hosted men's Olympic skiing but often look neglected by comparison. Investment and maintenance diverged across entity lines after the Games. Ana reads about lift lines on Jahorina beside photos of quiet Bjelašnica slopes. Olympic heritage can boom in one place while a nearby host mountain fades.",
+    "body": "The 1984 Winter Olympics left Bosnia and Herzegovina with ski venues that later split across entity lines. Jahorina hosted women's alpine events and now sits in Republika Srpska, where postwar investment rebuilt lifts, hotels, and a busy tourist season. Bjelašnica and Igman hosted men's events on what became Federation territory and took heavier wartime damage with weaker recovery spending. The same Games therefore left one Olympic mountain as a major ski destination while neighboring host slopes still look neglected.",
     "imageId": "civic-olympic-ski-gap",
     "learnMore": {
       "label": "Wikipedia article about Jahorina",

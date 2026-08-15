@@ -34,6 +34,10 @@
 **Narration:** Ana, Emir, and Amira tour the flat with the landlord and thank him before evening.
 **On screen:** Dialogue lines appear in Bosnian and English.
 
+### 7:40 Bosnia Today
+**Narration:** Bosniak returnees in Republika Srpska still face segregated schools, job barriers, and local hostility around reclaimed homes.
+**On screen:** Bosnia Today
+
 ### 8:00 Practice prompt
 **Narration:** Pause and ask about rent aloud. Continue with Lesson 27, Posao i škola.
 **On screen:** Ask about rent | Next lesson is Posao i škola

@@ -34,6 +34,10 @@
 **Narration:** Ana, Emir, Amira, and Mrvica plan the weekend over coffee and postcards.
 **On screen:** Dialogue lines appear in Bosnian and English.
 
+### 7:40 Bosnia Today
+**Narration:** Private rural bus operators cancel unprofitable village routes, and many places lose service with no public replacement.
+**On screen:** Bosnia Today
+
 ### 8:00 Practice prompt
 **Narration:** Pause and say one need line and one question line aloud. Continue with Lesson 22, Danas u Travniku.
 **On screen:** Drill two frames | Next lesson is Danas u Travniku

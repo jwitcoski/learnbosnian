@@ -460,13 +460,13 @@
         "id": "q6",
         "question": "What civic topic appears in this finale?",
         "options": [
-          "Night Wolves motorcycle club parades in Republika Srpska",
-          "Free cake for all citizens",
-          "Mostar bans diving",
-          "Postcards are taxed"
+          "Sanctioned Night Wolves still parade with political welcome in Republika Srpska",
+          "All motorcycle clubs are banned nationwide",
+          "Night Wolves only appear in Sarajevo cafés",
+          "EU sanctions dissolved the club worldwide"
         ],
         "correctIndex": 0,
-        "explanation": "The Kremlin-linked Night Wolves ride in Republika Srpska including entity day events.",
+        "explanation": "Despite international sanctions, Night Wolves members continue to appear at Republika Srpska political events.",
         "skill": "culture"
       },
       {
@@ -634,41 +634,41 @@
       "id": "party-table",
       "alt": "Polygon painting of a graduation party table.",
       "localPath": "/images/book1/day-30-party-table.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/A_birthday_cake_2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AA_birthday_cake_2.jpg",
+      "author": "SuperSwift",
+      "license": "CC BY-SA 4.0",
+      "credit": "Polygon painting based on the photo A birthday cake 2.jpg. SuperSwift / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "cake-heist",
       "alt": "Polygon painting of Mrvica stealing cake at the party.",
       "localPath": "/images/book1/day-30-cake-heist.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACat_November_2010-1a.jpg",
+      "author": "Alvesgaspar",
+      "license": "CC BY-SA 3.0",
+      "credit": "Polygon painting based on the photo Cat November 2010-1a.jpg. Alvesgaspar / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "friends-toast",
       "alt": "Polygon painting of friends toasting at the finale party.",
       "localPath": "/images/book1/day-30-friends-toast.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Wedding_Glasses_%284005789482%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWedding_Glasses_%284005789482%29.jpg",
+      "author": "Rennett Stowe from USA",
+      "license": "CC BY 2.0",
+      "credit": "Polygon painting based on the photo Wedding Glasses (4005789482).jpg. Rennett Stowe from USA / Wikimedia Commons (CC BY 2.0)"
     },
     {
       "id": "civic-night-wolves",
       "alt": "Polygon painting of a motorcycle parade mood in Banja Luka.",
       "localPath": "/images/book1/day-30-civic-night-wolves.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Tvr%C4%91ava_Kastel_Banja_Luka.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATvr%C4%91ava_Kastel_Banja_Luka.jpg",
+      "author": "Biljana Latinović2",
+      "license": "CC BY-SA 4.0",
+      "credit": "Polygon painting based on the photo Tvrđava Kastel Banja Luka.jpg. Biljana Latinović2 / Wikimedia Commons (CC BY-SA 4.0)"
     }
   ],
   "imagesNeeded": false,
@@ -679,8 +679,8 @@
     "Night Wolves motorcycle parade still for civic-night-wolves."
   ],
   "civicContext": {
-    "title": "Night Wolves parades signal Kremlin-linked symbolism in Republika Srpska",
-    "body": "The Russian Night Wolves motorcycle club maintains close Kremlin ties and faces international sanctions yet still rides through Republika Srpska and Banja Luka, including entity day events with political backing. Their parades mix Orthodox imagery, nationalist flags, and pro-Russian messaging on streets where local politicians welcome the spectacle. For learners finishing Book 1, that guest presence shows how external authoritarian soft power lands inside one entity's public calendar long after the Dayton framework promised a single democratic state.",
+    "title": "Sanctioned Night Wolves still parade through Republika Srpska",
+    "body": "The Russian Night Wolves motorcycle club is linked to the Kremlin and faces United States and European Union sanctions. Club members and a local branch still appear at Republika Srpska events in Banja Luka and related entity-day parades. Political hosts treat the rides as welcome spectacle even while state security concerns restrict some Russian leaders from entry. Authoritarian soft power therefore parks on entity streets inside a country that Dayton framed as one democratic state.",
     "imageId": "civic-night-wolves",
     "learnMore": {
       "label": "RFE/RL report on Night Wolves in Republika Srpska",

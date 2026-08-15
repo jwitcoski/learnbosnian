@@ -443,15 +443,15 @@
       },
       {
         "id": "q5",
-        "question": "Why are traffic accident rates high on mountain roads?",
+        "question": "Why do traffic death rates stay high on many Bosnian roads?",
         "options": [
-          "Winding roads and fast driving add risk",
-          "There are no cars in Bosnia and Herzegovina",
-          "All roads are straight highways",
-          "Buses never use mountain routes"
+          "Winding mountain routes combine with fast and risky driving",
+          "All highways are finished and fully lit",
+          "Cars are banned from mountain roads",
+          "Speed limits are enforced on every curve"
         ],
         "correctIndex": 0,
-        "explanation": "Winding roads and fast local driving raise accident risk.",
+        "explanation": "Sharp mountain roads plus fast driving help keep traffic deaths among the highest in Europe.",
         "skill": "culture"
       },
       {
@@ -627,41 +627,41 @@
       "id": "travnik-mosque",
       "alt": "Polygon painting of a colorful mosque in Travnik old town.",
       "localPath": "/images/book1/day-22-travnik-mosque.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Travnik_mosque_03.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATravnik_mosque_03.jpg",
+      "author": "Christian Bickel",
+      "license": "CC BY-SA 2.0 de",
+      "credit": "Polygon painting based on the photo Travnik mosque 03.jpg. Christian Bickel / Wikimedia Commons (CC BY-SA 2.0 de)"
     },
     {
       "id": "travnik-street",
       "alt": "Polygon painting of a narrow Travnik street.",
       "localPath": "/images/book1/day-22-travnik-street.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Travnik_Altstadt_3.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATravnik_Altstadt_3.JPG",
+      "author": "Julian Nyča",
+      "license": "CC BY-SA 3.0",
+      "credit": "Polygon painting based on the photo Travnik Altstadt 3.JPG. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "travnik-tower",
       "alt": "Polygon painting of the Travnik fortress tower on a hill.",
       "localPath": "/images/book1/day-22-travnik-tower.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Travnik_City_Centre_1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATravnik_City_Centre_1.jpg",
+      "author": "Julian Nyča",
+      "license": "CC BY-SA 3.0",
+      "credit": "Polygon painting based on the photo Travnik City Centre 1.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
       "id": "civic-winding-road",
       "alt": "Polygon painting of a winding mountain road with fast traffic risk.",
       "localPath": "/images/book1/day-22-civic-winding-road.png",
-      "sourceUrl": "",
-      "pageUrl": "",
-      "author": "Course polygon art",
-      "license": "Course original",
-      "credit": "Original polygon painting for Learn Bosnian Book 1."
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Highway_banja_luka_gradiska1.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AHighway_banja_luka_gradiska1.JPG",
+      "author": "Edin the",
+      "license": "CC BY-SA 3.0",
+      "credit": "Polygon painting based on the photo Highway banja luka gradiska1.JPG. Edin the / Wikimedia Commons (CC BY-SA 3.0)"
     }
   ],
   "imagesNeeded": false,
@@ -672,8 +672,8 @@
     "civic-winding-road: Winding mountain road with guardrails for civic panel"
   ],
   "civicContext": {
-    "title": "Winding mountain roads and high traffic accident rates",
-    "body": "Winding mountain roads across Bosnia and Herzegovina combine sharp curves with fast local driving. Teenage drivers on rural routes add risk on roads that already climb steep hills. Traffic accident rates in the country remain among the highest in Europe. Ana notices guardrails and tight turns on the road into Travnik. Road safety is a daily civic pressure for anyone who travels by car or bus.",
+    "title": "Winding roads and fast driving keep traffic deaths high",
+    "body": "Road travel in Bosnia and Herzegovina remains far more dangerous than the European average. Mountain corridors use tight curves, mixed truck traffic, and limited overtaking space. High speeds among young drivers on those routes raise crash risk further. WHO country profiles still place the national traffic death rate among the worst in Europe, so a day trip can sit on infrastructure that has not caught up with safety needs.",
     "imageId": "civic-winding-road",
     "learnMore": {
       "label": "WHO road safety country profile for Bosnia and Herzegovina",

@@ -34,6 +34,10 @@
 **Narration:** The doctor examines Mrvica while Emir and Amira stay calm outside the exam room.
 **On screen:** Dialogue lines appear in Bosnian and English.
 
+### 7:40 Bosnia Today
+**Narration:** In 2013 the JMBG deadlock left newborns without ID numbers needed for passports and medical travel abroad, and the Baby Revolution protests followed cases like Belmina Ibrisević.
+**On screen:** Bosnia Today
+
 ### 8:00 Practice prompt
 **Narration:** Pause and say one boli me line and one polite help line. Continue with Lesson 26, Stanovanje.
 **On screen:** Symptom and help lines | Next lesson is Stanovanje

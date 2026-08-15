@@ -34,6 +34,10 @@
 **Narration:** Emir, Amira, and a market seller compare schedules while Ana names her habits.
 **On screen:** Dialogue lines appear in Bosnian and English.
 
+### 7:40 Bosnia Today
+**Narration:** BHRT remains sanctioned by the EBU over unpaid debts that grew after RTRS withheld licence-fee money the law says should reach the state broadcaster. Until that funding fight is settled, Eurovision stays closed.
+**On screen:** Bosnia Today
+
 ### 8:00 Practice prompt
 **Narration:** Pause and answer šta radiš? with one radim line and one volim da line. Continue with Lesson 24, Planine i rijeke.
 **On screen:** Two activity lines | Next lesson is Planine i rijeke
