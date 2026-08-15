@@ -21,7 +21,6 @@ import ReviewDeck from "./ReviewDeck";
 import CanDoChecklist from "./CanDoChecklist";
 import { PrimaryButton } from "./styles";
 import {
-  Banner,
   Credit,
   Dialogue,
   GoalList,
@@ -116,13 +115,6 @@ export default function LessonShell({ chapter }: Props) {
 
   return (
     <LessonPage>
-      {chapter.status === "draft" && (
-        <Banner>
-          Preview: this chapter is a <strong>draft</strong> awaiting human review
-          before official publish.
-        </Banner>
-      )}
-
       <HeroBand>
         {hero?.localPath && (
           <div className="hero-media">
