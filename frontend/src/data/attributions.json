@@ -2,22 +2,22 @@
   "title": "Photo attributions",
   "intro": "Running register of every photo used on the site and in Book 1. Use this list when citing images for print, Scribus export, or YouTube descriptions. Chapter images are harvested automatically from each chapter.json; homepage and other site assets are listed here by hand.",
   "citationNote": "For Creative Commons works, credit the author, note the license, and link to the source page. For Pexels, credit the photographer and Pexels. Derivative treatments (polygon paint, background removal) still require attribution of the source photo.",
-  "generatedAt": "2026-08-15",
+  "generatedAt": "2026-08-16",
   "total": 127,
   "entries": [
     {
-      "id": "book1-day-00-civic-schools",
-      "title": "School building in Bosnia and Herzegovina representing divided education",
+      "id": "book1-day-00-civic-dayton-map",
+      "title": "Map-style view of Bosnia and Herzegovina used for the two Dayton entities civic note",
       "whereUsed": [
         "Book 1 · Lesson 0 — Why Bosnian?"
       ],
-      "author": "Jennifer Boyer",
+      "author": "NordNordWest",
       "source": "Wikimedia Commons",
-      "license": "CC BY 2.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:Gimnazija_Mostar.jpg",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gimnazija_Mostar.jpg",
-      "localPath": "/images/book1/day-00-civic-schools.png",
-      "credit": "Based on the photo Gimnazija Mostar. Jennifer Boyer / Wikimedia Commons (CC BY 2.0)",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnia_and_Herzegovina_location_map.svg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnia_and_Herzegovina_location_map.svg",
+      "localPath": "/images/book1/day-00-civic-entities.png",
+      "credit": "Based on map. Bosnia and Herzegovina location map. NordNordWest / Wikimedia Commons (CC BY-SA 3.0)",
       "notes": "",
       "book": 1,
       "day": 0
@@ -499,18 +499,18 @@
       "day": 7
     },
     {
-      "id": "book1-day-07-civic-dayton-map",
-      "title": "Map-style view of Bosnia and Herzegovina used for the two Dayton entities civic note",
+      "id": "book1-day-07-civic-schools",
+      "title": "School building in Bosnia and Herzegovina representing divided education",
       "whereUsed": [
         "Book 1 · Lesson 7 — Review"
       ],
-      "author": "NordNordWest",
+      "author": "Jennifer Boyer",
       "source": "Wikimedia Commons",
-      "license": "CC BY-SA 3.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnia_and_Herzegovina_location_map.svg",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnia_and_Herzegovina_location_map.svg",
-      "localPath": "/images/book1/day-07-civic-entities.png",
-      "credit": "Based on map. Bosnia and Herzegovina location map. NordNordWest / Wikimedia Commons (CC BY-SA 3.0)",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Gimnazija_Mostar.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gimnazija_Mostar.jpg",
+      "localPath": "/images/book1/day-07-civic-schools.png",
+      "credit": "Based on the photo Gimnazija Mostar. Jennifer Boyer / Wikimedia Commons (CC BY 2.0)",
       "notes": "",
       "book": 1,
       "day": 7

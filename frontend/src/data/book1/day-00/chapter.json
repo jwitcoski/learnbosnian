@@ -570,25 +570,25 @@
       "credit": "Based on the photo Mostar Old Town panorama. Ramirez / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
-      "id": "civic-schools",
-      "alt": "School building in Bosnia and Herzegovina representing divided education",
-      "localPath": "/images/book1/day-00-civic-schools.png",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gimnazija_Mostar.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:Gimnazija_Mostar.jpg",
-      "author": "Jennifer Boyer",
-      "license": "CC BY 2.0",
-      "credit": "Based on the photo Gimnazija Mostar. Jennifer Boyer / Wikimedia Commons (CC BY 2.0)"
+      "id": "civic-dayton-map",
+      "alt": "Map-style view of Bosnia and Herzegovina used for the two Dayton entities civic note",
+      "localPath": "/images/book1/day-00-civic-entities.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnia_and_Herzegovina_location_map.svg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnia_and_Herzegovina_location_map.svg",
+      "author": "NordNordWest",
+      "license": "CC BY-SA 3.0",
+      "credit": "Based on map. Bosnia and Herzegovina location map. NordNordWest / Wikimedia Commons (CC BY-SA 3.0)"
     }
   ],
   "imagesNeeded": false,
   "imageBriefs": [],
   "civicContext": {
-    "title": "Two schools under one roof",
-    "body": "In parts of Bosnia and Herzegovina, children from different ethnic communities still attend school under a segregated model often called two schools under one roof. Students may share one building while using separate entrances, teachers, classrooms, and history lessons. International monitors have documented the practice for years as everyday discrimination in education. The result is that children in the same town can grow up learning different versions of the past inside the same walls.",
-    "imageId": "civic-schools",
+    "title": "A state built so one entity can block the rest",
+    "body": "Bosnia and Herzegovina’s postwar constitution makes national decision-making easy to block. Dayton divided the country into two entities, the Federation of Bosnia and Herzegovina and Republika Srpska, and many state decisions require agreement across that structure. The design helped stop the war, but it also lets obstruction at entity level delay reforms needed for EU accession. Learning the language therefore starts inside a country whose basic map is still a postwar power-sharing machine.",
+    "imageId": "civic-dayton-map",
     "learnMore": {
-      "label": "Wikipedia. Two schools under one roof",
-      "url": "https://en.wikipedia.org/wiki/Two_schools_under_one_roof"
+      "label": "Wikipedia. Political divisions of Bosnia and Herzegovina",
+      "url": "https://en.wikipedia.org/wiki/Political_divisions_of_Bosnia_and_Herzegovina"
     }
   },
   "authenticListen": {

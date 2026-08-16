@@ -10,16 +10,16 @@ ROOT = Path(__file__).resolve().parents[1]
 # Bosnia today: thesis + 2-3 support + summary. No colon-rant endings.
 CIVIC = {
     0: {
-        "title": "Two schools under one roof",
+        "title": "A state built so one entity can block the rest",
         "body": (
-            "In parts of Bosnia and Herzegovina, children from different ethnic communities still attend school under a segregated model often called two schools under one roof. "
-            "Students may share one building while using separate entrances, teachers, classrooms, and history lessons. "
-            "International monitors have documented the practice for years as everyday discrimination in education. "
-            "The result is that children in the same town can grow up learning different versions of the past inside the same walls."
+            "Bosnia and Herzegovina’s postwar constitution makes national decision-making easy to block. "
+            "Dayton divided the country into two entities, the Federation of Bosnia and Herzegovina and Republika Srpska, and many state decisions require agreement across that structure. "
+            "The design helped stop the war, but it also lets obstruction at entity level delay reforms needed for EU accession. "
+            "Learning the language therefore starts inside a country whose basic map is still a postwar power-sharing machine."
         ),
         "learnMore": {
-            "label": "Wikipedia: Two schools under one roof",
-            "url": "https://en.wikipedia.org/wiki/Two_schools_under_one_roof",
+            "label": "Wikipedia: Political divisions of Bosnia and Herzegovina",
+            "url": "https://en.wikipedia.org/wiki/Political_divisions_of_Bosnia_and_Herzegovina",
         },
     },
     1: {
@@ -62,12 +62,12 @@ CIVIC = {
         },
     },
     4: {
-        "title": "Three presidents, and open talk of breaking the state",
+        "title": "Three presidents share one top office",
         "body": (
-            "Bosnia and Herzegovina’s top executive is split along ethnic lines, and some leaders still challenge the state’s survival. "
+            "Bosnia and Herzegovina’s top executive is split along ethnic lines by design. "
             "The Presidency has three members, one Bosniak, one Croat, and one Serb, under the Dayton settlement that ended the war. "
-            "In the years since, senior officials from Republika Srpska have repeatedly threatened to withdraw from state institutions and have promoted secessionist goals. "
-            "Family talk at a café table happens in a country where parts of the leadership still openly question whether the state should remain whole."
+            "That shared office is meant to keep each constituent people represented at the highest level of the state. "
+            "Family talk at a café table therefore happens in a country where even the top job is a three-person arrangement, not a single national president."
         ),
         "learnMore": {
             "label": "Wikipedia: Presidency of Bosnia and Herzegovina",
@@ -92,7 +92,7 @@ CIVIC = {
         "body": (
             "Bosnia and Herzegovina has almost no independent door to the sea. "
             "Its only coastline is the short stretch at Neum, and much Adriatic freight still depends on access through Croatia. "
-            "Croatia’s Pelješac Bridge, opened in 2022, connects Croatian territory around Neum, while BiH traders still face foreign customs regimes rather than a full national deep-water port system. "
+            "Croatia’s Pelješac Bridge, opened in 2022, connects Croatian territory around Neum, while traders in Bosnia and Herzegovina still face foreign customs regimes rather than a full national deep-water port system. "
             "A weekend plan for the coast therefore sits inside a larger dependence on a neighbor for much of the country’s maritime trade access."
         ),
         "learnMore": {
@@ -101,16 +101,16 @@ CIVIC = {
         },
     },
     7: {
-        "title": "A state built so one entity can block the rest",
+        "title": "Two schools under one roof",
         "body": (
-            "Bosnia and Herzegovina’s postwar constitution makes national decision-making easy to block. "
-            "Dayton divided the country into two entities, the Federation of BiH and Republika Srpska, and many state decisions require agreement across that structure. "
-            "The design helped stop the war, but it also lets obstruction at entity level delay reforms needed for EU accession. "
-            "Language practice can move every day, while the constitutional machine can still freeze the country in place."
+            "In parts of Bosnia and Herzegovina, children from different ethnic communities still attend school under a segregated model often called two schools under one roof. "
+            "Students may share one building while using separate entrances, teachers, classrooms, and history lessons. "
+            "International monitors have documented the practice for years as everyday discrimination in education. "
+            "The result is that children in the same town can grow up learning different versions of the past inside the same walls."
         ),
         "learnMore": {
-            "label": "Wikipedia: Dayton Agreement",
-            "url": "https://en.wikipedia.org/wiki/Dayton_Agreement",
+            "label": "Wikipedia: Two schools under one roof",
+            "url": "https://en.wikipedia.org/wiki/Two_schools_under_one_roof",
         },
     },
     8: {

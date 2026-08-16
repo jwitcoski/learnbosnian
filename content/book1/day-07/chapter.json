@@ -591,25 +591,25 @@
       "credit": "Based on the photo Počitelj panorama. Pudelek (Marcin Szala) / Wikimedia Commons (CC BY-SA 3.0)"
     },
     {
-      "id": "civic-dayton-map",
-      "alt": "Map-style view of Bosnia and Herzegovina used for the two Dayton entities civic note",
-      "localPath": "/images/book1/day-07-civic-entities.png",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnia_and_Herzegovina_location_map.svg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnia_and_Herzegovina_location_map.svg",
-      "author": "NordNordWest",
-      "license": "CC BY-SA 3.0",
-      "credit": "Based on map. Bosnia and Herzegovina location map. NordNordWest / Wikimedia Commons (CC BY-SA 3.0)"
+      "id": "civic-schools",
+      "alt": "School building in Bosnia and Herzegovina representing divided education",
+      "localPath": "/images/book1/day-07-civic-schools.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gimnazija_Mostar.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Gimnazija_Mostar.jpg",
+      "author": "Jennifer Boyer",
+      "license": "CC BY 2.0",
+      "credit": "Based on the photo Gimnazija Mostar. Jennifer Boyer / Wikimedia Commons (CC BY 2.0)"
     }
   ],
   "imagesNeeded": false,
   "imageBriefs": [],
   "civicContext": {
-    "title": "A state built so one entity can block the rest",
-    "body": "Bosnia and Herzegovina’s postwar constitution makes national decision-making easy to block. Dayton divided the country into two entities, the Federation of Bosnia and Herzegovina and Republika Srpska, and many state decisions require agreement across that structure. The design helped stop the war, but it also lets obstruction at entity level delay reforms needed for EU accession. Language practice can move every day, while the constitutional machine can still freeze the country in place.",
-    "imageId": "civic-dayton-map",
+    "title": "Two schools under one roof",
+    "body": "In parts of Bosnia and Herzegovina, children from different ethnic communities still attend school under a segregated model often called two schools under one roof. Students may share one building while using separate entrances, teachers, classrooms, and history lessons. International monitors have documented the practice for years as everyday discrimination in education. The result is that children in the same town can grow up learning different versions of the past inside the same walls.",
+    "imageId": "civic-schools",
     "learnMore": {
-      "label": "Wikipedia. Political divisions of Bosnia and Herzegovina",
-      "url": "https://en.wikipedia.org/wiki/Political_divisions_of_Bosnia_and_Herzegovina"
+      "label": "Wikipedia. Two schools under one roof",
+      "url": "https://en.wikipedia.org/wiki/Two_schools_under_one_roof"
     }
   },
   "authenticListen": {

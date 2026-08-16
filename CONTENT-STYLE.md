@@ -51,6 +51,18 @@ Every chapter JSON must include (even review lessons):
 Write complete thoughts. Do not rant in fragments, slogan stubs, or colon-led trailers.
 The same ban applies to `lessonBlocks[].body`: no note-taking shorthand, no `Label: item, item, item` dumps, and no trailer after a colon that should have been its own sentence.
 
+**Book 1 civic arc (general → specific):** Early `civicContext` notes teach the postwar state frame. Later notes get narrower (places, sectors, named crises). Do not open Lesson 0 with a niche case study, and do not save the Dayton entity map for a late review. Keep each note tied to the lesson theme, but choose topics so the sequence itself teaches from structure to consequence.
+
+Rough ladder for Book 1:
+
+1. **State frame** (Lessons 0–4): entities / Dayton, High Representative, who may hold top offices, currency board, tripartite Presidency
+2. **Place and access** (Lessons 5–6): local democracy freezes, sea access / Neum
+3. **Lived consequences** (Lessons 7–15): segregated schooling, food and work pressures, housing return, air and floods, Brčko’s special status, emigration, landmines
+4. **Systems and unequal mobility** (Lessons 16–21): roads and buses, neighbor passports, education markets, foreign-funded religion, energy deals, rural service loss
+5. **Named contemporary cases** (Lessons 22–30): traffic deaths, BHRT / Eurovision debt, Olympic ski inequality, JMBG crisis, returnee hostility, secession challenges, Međugorje tourism, genocide denial, sanctioned soft power
+
+Save open secession politics, genocide denial, and similar elite-conflict topics for the later band. Early Presidency notes stay structural.
+
 **Shape for every `civicContext.body` and every fun-fact `body`:**
 
 1. **Thesis** — one clear first sentence that states the point

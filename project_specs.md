@@ -45,14 +45,14 @@ Ana (learner), Emir (guide), Amira (café), Mrvica (cat)
 
 | Lesson | Title | Status | Reviewer notes | YouTube |
 |-----|-------|--------|----------------|---------|
-| 0 | Zašto bosanski? | published | Orientation live — why Bosnian, etymology, vs HR/SR, speakers, audience | |
+| 0 | Zašto bosanski? | published | Orientation live — why Bosnian, etymology, vs HR/SR, speakers, audience; civic Dayton entities (general frame) | |
 | 1 | Zdravo, Sarajevo! | draft | Exemplar — needs human review before publish | |
 | 2 | Ja sam Ana | draft | Full draft (biti, introductions, Sebilj) — needs human review | script ready |
 | 3 | Brojevi i kahva | draft | Full draft (1–20, kahva order, Amira’s) — needs human review | script ready |
-| 4 | Porodica Mrvice | draft | Full draft (family, moj/moja, café family) — needs human review | script ready |
+| 4 | Porodica Mrvice | draft | Full draft (family, moj/moja, café family); civic tripartite Presidency structure only — needs human review | script ready |
 | 5 | Gdje je Mostar? | draft | Full draft (gdje/ovdje/tamo, u/na/kod, Mostar tease) — needs human review | script ready |
 | 6 | Koliko je sati? | draft | Time + weekdays; culture widened to Travnik/Una/Neum (not Sarajevo-only) — needs human review | script ready |
-| 7 | Ponavljanje | draft | Review + Jajce/Blagaj/Počitelj postcards — needs human review | script ready |
+| 7 | Ponavljanje | draft | Review + Jajce/Blagaj/Počitelj postcards; civic two schools under one roof — needs human review | script ready |
 | 8 | Volim burek | draft | Full draft (food, volim/ne volim, Livno postcard) — needs human review | script ready |
 | 9 | U prodavnici | draft | Full draft (shopping, želim, Tuzla market) — needs human review | script ready |
 | 10 | Moja soba | draft | Full draft (home, imati, Stolac/Radimlja) — needs human review | script ready |
