@@ -1,0 +1,83 @@
+{
+  "day": 18,
+  "series": "vocab-supplement",
+  "title": "Sport i hobiji",
+  "titleEn": "Sports and hobbies",
+  "vocabulary": [
+    {
+      "bosnian": "sport",
+      "english": "sport",
+      "pronunciation": "sport"
+    },
+    {
+      "bosnian": "hobi",
+      "english": "hobby",
+      "pronunciation": "HO-bee"
+    },
+    {
+      "bosnian": "fudbal",
+      "english": "football",
+      "pronunciation": "FOOD-bal"
+    },
+    {
+      "bosnian": "igrati",
+      "english": "to play",
+      "pronunciation": "EE-gra-tee"
+    },
+    {
+      "bosnian": "igram",
+      "english": "I play",
+      "pronunciation": "EE-gram"
+    },
+    {
+      "bosnian": "gledati",
+      "english": "to watch",
+      "pronunciation": "GLEH-da-tee"
+    },
+    {
+      "bosnian": "gledam",
+      "english": "I watch",
+      "pronunciation": "GLEH-dam"
+    },
+    {
+      "bosnian": "utakmica",
+      "english": "match",
+      "pronunciation": "oo-TAK-mee-tsa"
+    },
+    {
+      "bosnian": "često",
+      "english": "often",
+      "pronunciation": "CHES-to"
+    },
+    {
+      "bosnian": "ponekad",
+      "english": "sometimes",
+      "pronunciation": "PO-ne-kad"
+    },
+    {
+      "bosnian": "rijeka",
+      "english": "river",
+      "pronunciation": "REE-ye-ka"
+    },
+    {
+      "bosnian": "šetnja",
+      "english": "walk",
+      "pronunciation": "SHET-nya"
+    },
+    {
+      "bosnian": "trčati",
+      "english": "to run",
+      "pronunciation": "TR-cha-tee"
+    },
+    {
+      "bosnian": "tim",
+      "english": "team",
+      "pronunciation": "teem"
+    }
+  ],
+  "grammarTitles": [
+    "Igram and gledam",
+    "Često and ponekad",
+    "Hobby lines with volim"
+  ]
+}

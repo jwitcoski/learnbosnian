@@ -1,0 +1,93 @@
+{
+  "day": 8,
+  "series": "vocab-supplement",
+  "title": "Volim burek",
+  "titleEn": "I love burek",
+  "vocabulary": [
+    {
+      "bosnian": "burek",
+      "english": "meat pastry (meat only in Bosnian)",
+      "pronunciation": "BOO-rek"
+    },
+    {
+      "bosnian": "sirnica",
+      "english": "cheese pita",
+      "pronunciation": "SEER-nee-tsa"
+    },
+    {
+      "bosnian": "zeljanica",
+      "english": "spinach/greens pita",
+      "pronunciation": "zel-YA-nee-tsa"
+    },
+    {
+      "bosnian": "hljeb",
+      "english": "bread",
+      "pronunciation": "hlyeb"
+    },
+    {
+      "bosnian": "jogurt",
+      "english": "yogurt",
+      "pronunciation": "YO-goort"
+    },
+    {
+      "bosnian": "meso",
+      "english": "meat",
+      "pronunciation": "MEH-so"
+    },
+    {
+      "bosnian": "sir",
+      "english": "cheese",
+      "pronunciation": "seer"
+    },
+    {
+      "bosnian": "voće",
+      "english": "fruit",
+      "pronunciation": "VO-che"
+    },
+    {
+      "bosnian": "povrće",
+      "english": "vegetables",
+      "pronunciation": "POV-rche"
+    },
+    {
+      "bosnian": "volim",
+      "english": "I love / I like",
+      "pronunciation": "VO-leem"
+    },
+    {
+      "bosnian": "ne volim",
+      "english": "I do not like",
+      "pronunciation": "neh VO-leem"
+    },
+    {
+      "bosnian": "ukusno",
+      "english": "tasty / delicious",
+      "pronunciation": "OO-koos-no"
+    },
+    {
+      "bosnian": "gladan",
+      "english": "hungry (m.)",
+      "pronunciation": "GLAH-dan"
+    },
+    {
+      "bosnian": "gladna",
+      "english": "hungry (f.)",
+      "pronunciation": "GLAHD-na"
+    },
+    {
+      "bosnian": "pita",
+      "english": "phyllo pie (general)",
+      "pronunciation": "PEE-ta"
+    },
+    {
+      "bosnian": "dobar tek",
+      "english": "enjoy your meal",
+      "pronunciation": "DOH-bar tek"
+    }
+  ],
+  "grammarTitles": [
+    "Volim + object",
+    "Ne volim",
+    "Gladan / gladna"
+  ]
+}

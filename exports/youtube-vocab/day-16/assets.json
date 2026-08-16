@@ -1,0 +1,83 @@
+{
+  "day": 16,
+  "series": "vocab-supplement",
+  "title": "Na autobus",
+  "titleEn": "On the bus",
+  "vocabulary": [
+    {
+      "bosnian": "autobus",
+      "english": "bus",
+      "pronunciation": "OW-toh-boos"
+    },
+    {
+      "bosnian": "karta",
+      "english": "ticket",
+      "pronunciation": "KAR-ta"
+    },
+    {
+      "bosnian": "stanica",
+      "english": "station",
+      "pronunciation": "STA-nee-tsa"
+    },
+    {
+      "bosnian": "vozač",
+      "english": "driver",
+      "pronunciation": "VO-zach"
+    },
+    {
+      "bosnian": "sjedalo",
+      "english": "seat",
+      "pronunciation": "SYEH-da-lo"
+    },
+    {
+      "bosnian": "prozor",
+      "english": "window",
+      "pronunciation": "PRO-zor"
+    },
+    {
+      "bosnian": "dolazak",
+      "english": "arrival",
+      "pronunciation": "DO-la-zak"
+    },
+    {
+      "bosnian": "odlazak",
+      "english": "departure",
+      "pronunciation": "OD-la-zak"
+    },
+    {
+      "bosnian": "treba mi",
+      "english": "I need",
+      "pronunciation": "TREH-ba mee"
+    },
+    {
+      "bosnian": "trebaš",
+      "english": "you need",
+      "pronunciation": "TREH-bash"
+    },
+    {
+      "bosnian": "koliko košta",
+      "english": "how much does it cost",
+      "pronunciation": "KO-lee-ko KOSH-ta"
+    },
+    {
+      "bosnian": "jednosmjerna",
+      "english": "one-way",
+      "pronunciation": "YED-no-smyeh-rna"
+    },
+    {
+      "bosnian": "povratna",
+      "english": "return",
+      "pronunciation": "POV-rat-na"
+    },
+    {
+      "bosnian": "more",
+      "english": "sea",
+      "pronunciation": "MO-reh"
+    }
+  ],
+  "grammarTitles": [
+    "Treba mi and trebaš",
+    "Ticket questions at the counter",
+    "Station timing chunks"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "day": 0,
+  "series": "vocab-supplement",
+  "title": "Zašto bosanski?",
+  "titleEn": "Why Bosnian?",
+  "vocabulary": [
+    {
+      "bosnian": "bosanski",
+      "english": "Bosnian (language / adjective)",
+      "pronunciation": "bo-SAHN-ski"
+    },
+    {
+      "bosnian": "jezik",
+      "english": "language / tongue",
+      "pronunciation": "YEH-zeek"
+    },
+    {
+      "bosnian": "Bosna i Hercegovina",
+      "english": "Bosnia and Herzegovina",
+      "pronunciation": "BOS-nah ee her-tseh-go-VEE-nah"
+    },
+    {
+      "bosnian": "BiH",
+      "english": "BiH (short for Bosnia and Herzegovina)",
+      "pronunciation": "beh-ee-hah"
+    },
+    {
+      "bosnian": "dobrodošli",
+      "english": "welcome (plural / formal)",
+      "pronunciation": "do-bro-DOSH-lee"
+    },
+    {
+      "bosnian": "učiti",
+      "english": "to learn / to study",
+      "pronunciation": "OO-chee-tee"
+    },
+    {
+      "bosnian": "Ana",
+      "english": "Ana (learner character)",
+      "pronunciation": "AH-nah"
+    },
+    {
+      "bosnian": "Emir",
+      "english": "Emir (guide character)",
+      "pronunciation": "eh-MEER"
+    },
+    {
+      "bosnian": "Amira",
+      "english": "Amira (café owner)",
+      "pronunciation": "ah-MEER-ah"
+    },
+    {
+      "bosnian": "Mrvica",
+      "english": "Mrvica (the cat)",
+      "pronunciation": "MR-vee-tsa"
+    }
+  ],
+  "grammarTitles": [
+    "This course teaches Bosnian. Latin script only",
+    "Book 1 teaches phrases rather than full grammar tables",
+    "Close neighbors, separate standards"
+  ]
+}

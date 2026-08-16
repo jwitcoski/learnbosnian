@@ -1,0 +1,93 @@
+{
+  "day": 1,
+  "series": "vocab-supplement",
+  "title": "Zdravo, Sarajevo!",
+  "titleEn": "Hello, Sarajevo!",
+  "vocabulary": [
+    {
+      "bosnian": "zdravo",
+      "english": "hello (informal)",
+      "pronunciation": "ZDRAH-voh"
+    },
+    {
+      "bosnian": "dobar dan",
+      "english": "good day / hello (polite)",
+      "pronunciation": "DOH-bar dahn"
+    },
+    {
+      "bosnian": "dobro jutro",
+      "english": "good morning",
+      "pronunciation": "DOH-bro YOO-tro"
+    },
+    {
+      "bosnian": "dobra večer",
+      "english": "good evening",
+      "pronunciation": "DOH-bra VEH-cher"
+    },
+    {
+      "bosnian": "hvala",
+      "english": "thank you",
+      "pronunciation": "HVAH-lah"
+    },
+    {
+      "bosnian": "molim",
+      "english": "please / you're welcome",
+      "pronunciation": "MOH-leem"
+    },
+    {
+      "bosnian": "doviđenja",
+      "english": "goodbye",
+      "pronunciation": "doh-vee-JEN-ya"
+    },
+    {
+      "bosnian": "da",
+      "english": "yes",
+      "pronunciation": "dah"
+    },
+    {
+      "bosnian": "ne",
+      "english": "no",
+      "pronunciation": "neh"
+    },
+    {
+      "bosnian": "Sarajevo",
+      "english": "Sarajevo",
+      "pronunciation": "sah-rah-YEH-voh"
+    },
+    {
+      "bosnian": "Baščaršija",
+      "english": "Baščaršija (old bazaar)",
+      "pronunciation": "bash-CHAR-shi-ya"
+    },
+    {
+      "bosnian": "ulica",
+      "english": "street",
+      "pronunciation": "OO-lee-tsa"
+    },
+    {
+      "bosnian": "čaj",
+      "english": "tea",
+      "pronunciation": "chigh"
+    },
+    {
+      "bosnian": "žena",
+      "english": "woman / wife",
+      "pronunciation": "ZHEH-nah"
+    },
+    {
+      "bosnian": "đak",
+      "english": "pupil / schoolchild",
+      "pronunciation": "jak"
+    },
+    {
+      "bosnian": "džezva",
+      "english": "coffee pot (cezve)",
+      "pronunciation": "JEZ-vah"
+    }
+  ],
+  "grammarTitles": [
+    "The full Latin Bosnian alphabet",
+    "Writing č ć š ž đ",
+    "Greeting exchanges"
+  ]
+}

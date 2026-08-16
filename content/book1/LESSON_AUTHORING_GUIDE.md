@@ -49,7 +49,8 @@ Book 1 is an **A1 present-tense survival intro** for travelers, short-stay visit
 | Bosnian-focused | No HR/SR comparison sidebars after Lesson 0 |
 | Cast | Ana, Emir, Amira, Mrvica appear when the story beat needs them |
 | Cadence | ~60 minutes study time (reviews may be lighter) |
-| Companion video | 8–10 min script mirrors Lesson A → B → dialogue |
+| Companion video | Optional 8–10 min `video-script.md` mirrors Lesson A → B → dialogue |
+| Vocab supplement video | 5–10 min `vocab-video-script.md` (intro → short grammar → vocab drill → ending). Supplement only, not a lesson reload. See `docs/YOUTUBE-VOCAB-SUPPLEMENT.md`. |
 | Naming | Always **Lesson N** (not Day N) in copy and video scripts |
 
 ---
@@ -80,7 +81,8 @@ Fill `content/book1/day-XX/chapter.json` completely before marking `draft`.
 | **canDoChecks** | Review lessons: **3–5** | Short self-check prompts (speak / listen / write) |
 | **dictionaryEntries** | Every teaching vocab item (+ full number set if taught) | `day: N` |
 | **images** | **3** polygon scenes | Hero = culture `imageId`; mid-lesson; place/object beat |
-| **video-script.md** | 8–10 min, Lesson N wording | Same A/B spine as blocks |
+| **video-script.md** | 8–10 min, Lesson N wording | Same A/B spine as blocks (optional full companion) |
+| **vocab-video-script.md** | 5–10 min vocab supplement | Regenerate with `node scripts/generate-vocab-video-scripts.cjs` |
 
 ### Section tests and Book 1 final
 
@@ -155,7 +157,24 @@ Mark 2–3 dialogue lines with `speakTargets` (indexes) when you want AI coachin
 
 ---
 
-## 3. Video companion (every lesson)
+## 3. Video companions (every lesson)
+
+### A. Vocab supplement (primary YouTube drill)
+
+File: `content/book1/day-XX/vocab-video-script.md`  
+Guide: `docs/YOUTUBE-VOCAB-SUPPLEMENT.md`
+
+| Beat | Content |
+|------|---------|
+| Intro | Fixed How to Speak Bosnian welcome. Lesson N title. |
+| Grammar | One short slide per grammar panel |
+| Vocab | Each word. Bosnian slowly twice. English definition twice. |
+| Ending | Site CTA + next lesson |
+| B-roll | Rights-safe BiH drone or street only |
+
+Regenerate from chapter JSON: `node scripts/generate-vocab-video-scripts.cjs`
+
+### B. Full lesson companion (optional)
 
 File: `content/book1/day-XX/video-script.md`
 
@@ -174,11 +193,12 @@ File: `content/book1/day-XX/video-script.md`
 
 ### Video rules
 
-- Runtime **8–10 minutes** (reviews may be 6–8)
+- Vocab supplements run **5–10 minutes**. Full companions run **8–10 minutes** (reviews may be 6–8).
 - **No Cyrillic** on screen
 - Say **Lesson N**, not Day N
-- Scenic stills from chapter images / BiH locations
+- Scenic stills or rights-safe BiH B-roll from chapter images / locations
 - Export / publish video only when chapter status is `published` (or batch-ready at launch)
+- Vocab videos are a **supplement**, not a full lesson reload
 
 ---
 

@@ -1,0 +1,83 @@
+{
+  "day": 28,
+  "series": "vocab-supplement",
+  "title": "Mostar napokon!",
+  "titleEn": "Mostar at last!",
+  "vocabulary": [
+    {
+      "bosnian": "Mostar",
+      "english": "Mostar",
+      "pronunciation": "MOH-star"
+    },
+    {
+      "bosnian": "Stari most",
+      "english": "Old Bridge",
+      "pronunciation": "STAH-ree most"
+    },
+    {
+      "bosnian": "most",
+      "english": "bridge",
+      "pronunciation": "most"
+    },
+    {
+      "bosnian": "Neretva",
+      "english": "Neretva River",
+      "pronunciation": "neh-RET-vah"
+    },
+    {
+      "bosnian": "skok",
+      "english": "jump",
+      "pronunciation": "skok"
+    },
+    {
+      "bosnian": "idemo",
+      "english": "we are going or let us go",
+      "pronunciation": "EE-deh-moh"
+    },
+    {
+      "bosnian": "želim",
+      "english": "I want",
+      "pronunciation": "ZHEH-leem"
+    },
+    {
+      "bosnian": "neću",
+      "english": "I do not want to",
+      "pronunciation": "NEH-choo"
+    },
+    {
+      "bosnian": "stari grad",
+      "english": "old town",
+      "pronunciation": "STAH-ree grad"
+    },
+    {
+      "bosnian": "rijeka",
+      "english": "river",
+      "pronunciation": "RYE-ka"
+    },
+    {
+      "bosnian": "visok",
+      "english": "high or tall",
+      "pronunciation": "VEE-sok"
+    },
+    {
+      "bosnian": "hladan",
+      "english": "cold",
+      "pronunciation": "HLA-dahn"
+    },
+    {
+      "bosnian": "turista",
+      "english": "tourist",
+      "pronunciation": "too-REE-sta"
+    },
+    {
+      "bosnian": "opasan",
+      "english": "dangerous",
+      "pronunciation": "oh-PAH-sahn"
+    }
+  ],
+  "grammarTitles": [
+    "Idemo movement chunk",
+    "Želim wanting lines",
+    "Neću refusal chunk"
+  ]
+}

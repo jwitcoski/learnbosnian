@@ -7,7 +7,7 @@
 - Portable JSON → website, Scribus book pack, YouTube scripts, future Expo app
 - Nightly cadence: AI draft → human review → publish
 - Latin script only; Bosnian-focused; kilim-inspired theme
-- YouTube companions for [@HowtospeakBosnian](https://www.youtube.com/@HowtospeakBosnian)
+- YouTube companions for [@HowtospeakBosnian](https://www.youtube.com/@HowtospeakBosnian): **vocab supplements** (5–10 min drill series) plus optional full lesson companions. See `docs/YOUTUBE-VOCAB-SUPPLEMENT.md`.
 
 ## Pedagogy locks (Book 1)
 

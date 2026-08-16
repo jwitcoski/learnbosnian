@@ -1,0 +1,83 @@
+{
+  "day": 26,
+  "series": "vocab-supplement",
+  "title": "Stanovanje",
+  "titleEn": "Housing",
+  "vocabulary": [
+    {
+      "bosnian": "stan",
+      "english": "apartment",
+      "pronunciation": "stahn"
+    },
+    {
+      "bosnian": "soba",
+      "english": "room",
+      "pronunciation": "SO-ba"
+    },
+    {
+      "bosnian": "kirija",
+      "english": "rent",
+      "pronunciation": "KEE-rya"
+    },
+    {
+      "bosnian": "namještaj",
+      "english": "furniture",
+      "pronunciation": "nah-MYEH-shtai"
+    },
+    {
+      "bosnian": "kuhinja",
+      "english": "kitchen",
+      "pronunciation": "koo-HEE-nya"
+    },
+    {
+      "bosnian": "kupatilo",
+      "english": "bathroom",
+      "pronunciation": "koo-pa-TEE-lo"
+    },
+    {
+      "bosnian": "ključ",
+      "english": "key",
+      "pronunciation": "klyooch"
+    },
+    {
+      "bosnian": "ugovor",
+      "english": "contract",
+      "pronunciation": "OO-goh-vor"
+    },
+    {
+      "bosnian": "može",
+      "english": "it is OK or allowed",
+      "pronunciation": "MO-zheh"
+    },
+    {
+      "bosnian": "moraš",
+      "english": "you must",
+      "pronunciation": "MO-rash"
+    },
+    {
+      "bosnian": "mjesečno",
+      "english": "monthly",
+      "pronunciation": "myeh-SEHCH-no"
+    },
+    {
+      "bosnian": "pogledati",
+      "english": "to look at",
+      "pronunciation": "poh-gleh-DA-tee"
+    },
+    {
+      "bosnian": "iznajmiti",
+      "english": "to rent",
+      "pronunciation": "eez-nai-MEE-tee"
+    },
+    {
+      "bosnian": "koliko je kirija",
+      "english": "how much is the rent",
+      "pronunciation": "KO-lee-ko yeh KEE-rya"
+    }
+  ],
+  "grammarTitles": [
+    "Može permission chunks",
+    "Moraš obligation lines",
+    "Rent question shape"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "day": 11,
+  "series": "vocab-supplement",
+  "title": "Kakvo je vrijeme?",
+  "titleEn": "How is the weather?",
+  "vocabulary": [
+    {
+      "bosnian": "vrijeme",
+      "english": "weather",
+      "pronunciation": "VRYE-meh"
+    },
+    {
+      "bosnian": "kakvo",
+      "english": "what kind of",
+      "pronunciation": "KAHK-vo"
+    },
+    {
+      "bosnian": "sunce",
+      "english": "sun",
+      "pronunciation": "SOON-tseh"
+    },
+    {
+      "bosnian": "kiša",
+      "english": "rain",
+      "pronunciation": "KEE-sha"
+    },
+    {
+      "bosnian": "snijeg",
+      "english": "snow",
+      "pronunciation": "SNYEH-g"
+    },
+    {
+      "bosnian": "oblačno",
+      "english": "cloudy",
+      "pronunciation": "OH-blach-no"
+    },
+    {
+      "bosnian": "hladno",
+      "english": "cold",
+      "pronunciation": "HLAHD-no"
+    },
+    {
+      "bosnian": "toplo",
+      "english": "warm",
+      "pronunciation": "TOH-plo"
+    },
+    {
+      "bosnian": "vruće",
+      "english": "hot",
+      "pronunciation": "VROO-cheh"
+    },
+    {
+      "bosnian": "vjetar",
+      "english": "wind",
+      "pronunciation": "VYEH-tar"
+    },
+    {
+      "bosnian": "jesen",
+      "english": "autumn",
+      "pronunciation": "YEH-sen"
+    },
+    {
+      "bosnian": "zima",
+      "english": "winter",
+      "pronunciation": "ZEE-ma"
+    },
+    {
+      "bosnian": "ljeto",
+      "english": "summer",
+      "pronunciation": "LYEH-to"
+    },
+    {
+      "bosnian": "proljeće",
+      "english": "spring",
+      "pronunciation": "PROH-lyeh-cheh"
+    },
+    {
+      "bosnian": "pada",
+      "english": "falls or is falling",
+      "pronunciation": "PAH-da"
+    },
+    {
+      "bosnian": "sunčano",
+      "english": "sunny",
+      "pronunciation": "SOON-cha-no"
+    }
+  ],
+  "grammarTitles": [
+    "Kakvo je vrijeme?",
+    "Neuter weather descriptions",
+    "Pada kiša and pada snijeg"
+  ]
+}

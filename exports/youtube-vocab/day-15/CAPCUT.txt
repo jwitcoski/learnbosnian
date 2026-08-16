@@ -1,0 +1,8 @@
+CapCut / DaVinci. Vocab supplement
+1. New 1920x1080 project. Target 5 to 10 minutes.
+2. Lay rights-safe BiH drone or street B-roll under the whole timeline.
+3. Gold or yellow title text (channel style). One composition per slide from cues.md.
+4. Paste narration from narration.md (record or TTS). Slow on Bosnian words.
+5. For each vocab card: Bosnian twice (slow), English twice, ~1s gap.
+6. End screen → learnbosnian.club/learn/lesson/15 + Vocab playlist.
+7. Export 1080p. Put B-roll credits in the description.

@@ -1,0 +1,78 @@
+{
+  "day": 30,
+  "series": "vocab-supplement",
+  "title": "Završna proslava",
+  "titleEn": "Graduation party",
+  "vocabulary": [
+    {
+      "bosnian": "torta",
+      "english": "cake",
+      "pronunciation": "TOR-ta"
+    },
+    {
+      "bosnian": "slavlje",
+      "english": "celebration",
+      "pronunciation": "SLAV-lyeh"
+    },
+    {
+      "bosnian": "čaša",
+      "english": "glass",
+      "pronunciation": "CHAH-shah"
+    },
+    {
+      "bosnian": "pjevati",
+      "english": "to sing",
+      "pronunciation": "PYEH-vah-tee"
+    },
+    {
+      "bosnian": "zabava",
+      "english": "party or fun",
+      "pronunciation": "zah-BAH-vah"
+    },
+    {
+      "bosnian": "čestitam",
+      "english": "congratulations",
+      "pronunciation": "ches-tee-TAHM"
+    },
+    {
+      "bosnian": "prijatelj",
+      "english": "friend",
+      "pronunciation": "pree-yah-TEL"
+    },
+    {
+      "bosnian": "sretan",
+      "english": "happy or merry",
+      "pronunciation": "SREH-tahn"
+    },
+    {
+      "bosnian": "zajedno",
+      "english": "together",
+      "pronunciation": "zah-YED-noh"
+    },
+    {
+      "bosnian": "volim",
+      "english": "I like or I love",
+      "pronunciation": "VOH-leem"
+    },
+    {
+      "bosnian": "želim",
+      "english": "I want",
+      "pronunciation": "ZHEH-leem"
+    },
+    {
+      "bosnian": "imam",
+      "english": "I have",
+      "pronunciation": "EE-mam"
+    },
+    {
+      "bosnian": "idemo",
+      "english": "we are going",
+      "pronunciation": "EE-deh-moh"
+    }
+  ],
+  "grammarTitles": [
+    "Remember volim and želim",
+    "Remember imam and idemo",
+    "Remember question switches"
+  ]
+}

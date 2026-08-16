@@ -1,0 +1,88 @@
+{
+  "day": 12,
+  "series": "vocab-supplement",
+  "title": "Idemo u park",
+  "titleEn": "Let's go to the park",
+  "vocabulary": [
+    {
+      "bosnian": "park",
+      "english": "park",
+      "pronunciation": "park"
+    },
+    {
+      "bosnian": "šetati",
+      "english": "to walk",
+      "pronunciation": "SHEH-ta-tee"
+    },
+    {
+      "bosnian": "ići",
+      "english": "to go",
+      "pronunciation": "EE-chee"
+    },
+    {
+      "bosnian": "idem",
+      "english": "I am going",
+      "pronunciation": "EE-dem"
+    },
+    {
+      "bosnian": "ideš",
+      "english": "you are going",
+      "pronunciation": "EE-desh"
+    },
+    {
+      "bosnian": "idemo",
+      "english": "we are going",
+      "pronunciation": "EE-deh-mo"
+    },
+    {
+      "bosnian": "hajde",
+      "english": "come on or let us",
+      "pronunciation": "HAI-deh"
+    },
+    {
+      "bosnian": "dođi",
+      "english": "come",
+      "pronunciation": "DOH-jee"
+    },
+    {
+      "bosnian": "hoćeš",
+      "english": "you want or will you",
+      "pronunciation": "HOH-chesh"
+    },
+    {
+      "bosnian": "trava",
+      "english": "grass",
+      "pronunciation": "TRAH-va"
+    },
+    {
+      "bosnian": "drvo",
+      "english": "tree",
+      "pronunciation": "DR-vo"
+    },
+    {
+      "bosnian": "povodac",
+      "english": "leash",
+      "pronunciation": "POH-vo-dats"
+    },
+    {
+      "bosnian": "polako",
+      "english": "slowly",
+      "pronunciation": "POH-lah-ko"
+    },
+    {
+      "bosnian": "brzo",
+      "english": "quickly",
+      "pronunciation": "BR-zoh"
+    },
+    {
+      "bosnian": "čekaj",
+      "english": "wait",
+      "pronunciation": "CHEH-kai"
+    }
+  ],
+  "grammarTitles": [
+    "Idem, ideš, and idemo",
+    "Hajde da idemo",
+    "Hoćeš li for invitations"
+  ]
+}

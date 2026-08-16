@@ -1,0 +1,83 @@
+{
+  "day": 22,
+  "series": "vocab-supplement",
+  "title": "Danas u Travniku",
+  "titleEn": "Today in Travnik",
+  "vocabulary": [
+    {
+      "bosnian": "vidim",
+      "english": "I see",
+      "pronunciation": "VEE-deem"
+    },
+    {
+      "bosnian": "ovo je",
+      "english": "this is",
+      "pronunciation": "OH-vo yeh"
+    },
+    {
+      "bosnian": "tamo je",
+      "english": "there is or it is there",
+      "pronunciation": "TA-mo yeh"
+    },
+    {
+      "bosnian": "džamija",
+      "english": "mosque",
+      "pronunciation": "JAH-mee-ya"
+    },
+    {
+      "bosnian": "kula",
+      "english": "tower",
+      "pronunciation": "KOO-la"
+    },
+    {
+      "bosnian": "šetamo",
+      "english": "we walk",
+      "pronunciation": "SHEH-ta-mo"
+    },
+    {
+      "bosnian": "grad",
+      "english": "town or city",
+      "pronunciation": "grad"
+    },
+    {
+      "bosnian": "stari",
+      "english": "old",
+      "pronunciation": "STAH-ree"
+    },
+    {
+      "bosnian": "ulica",
+      "english": "street",
+      "pronunciation": "OO-lee-tsa"
+    },
+    {
+      "bosnian": "pogled",
+      "english": "view",
+      "pronunciation": "POH-gled"
+    },
+    {
+      "bosnian": "Sulejmanija",
+      "english": "Sulejmanija Mosque",
+      "pronunciation": "soo-leh-MAH-nee-ya"
+    },
+    {
+      "bosnian": "Travnik",
+      "english": "Travnik",
+      "pronunciation": "TRAV-neek"
+    },
+    {
+      "bosnian": "vizir",
+      "english": "vizier",
+      "pronunciation": "VEE-zeer"
+    },
+    {
+      "bosnian": "šetam",
+      "english": "I walk",
+      "pronunciation": "SHEH-tam"
+    }
+  ],
+  "grammarTitles": [
+    "Vidim and ovo je for what you see",
+    "Tamo je and šetamo for place talk",
+    "Naming landmarks in the present"
+  ]
+}
