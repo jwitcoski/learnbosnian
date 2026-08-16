@@ -21,9 +21,10 @@ Use this guide for **Lessons 4–30**. Do not invent a new chapter shape. Copy L
 - Keep website UI tips (accent buttons) out of chapter JSON. Book export must stay book-safe.
 - Civic and fun-fact bodies use **Thesis then support then summary** (complete sentences, no colon-rant endings)
 - Every drafted lesson needs `civicContext` { title, body, imageId, learnMore: { label, url } } with a dedicated image. Stay on **one** documented structural pressure. The body, title, image, quiz item, and `learnMore` link must all match that same topic. Do not switch mid-panel. Body must be one paragraph.
+- **Bosnia today order:** Prefer general → specific across the book. Lessons 0–4 carry the state frame (Dayton entities, OHR, office eligibility, currency board, Presidency structure). Mid lessons carry lived consequences. Late lessons carry named contemporary cases. Do not put secession fights or genocide-denial politics in early Presidency notes.
 - Every drafted lesson needs `authenticListen` (Čuj Bosnu): one song or non-course speaker clip with listen-first gist task. Rights-safe embed/`clipId` only. Not studio cast dialogue audio.
 - Every `sectionQuiz` question should set `skill` (`vocabulary` | `grammar` | `dialogue` | `culture` | `listening`) for remediation links.
-- **Civic backlog:** Brčko District (self-governing city-district under international supervision) is a third unit beside the two entities. Do not cram it into the Lesson 7 entities note. Draft it on Lesson 13 (identity / people of BiH) or another northern/administration lesson.
+- **Civic backlog:** Brčko District (self-governing city-district under international supervision) is a third unit beside the two entities. Do not cram it into the Lesson 0 Dayton entities note. Keep it on Lesson 13 (identity / people of BiH) or another northern/administration lesson.
 
 ### Book 1 pedagogy lock (tourist / expat survival)
 
@@ -72,7 +73,7 @@ Fill `content/book1/day-XX/chapter.json` completely before marking `draft`.
 | **practice** | **6–8** typed items | Force accents (`čćšžđ`) when the lesson taught them |
 | **funFacts** | **3–4** | Mix: culture, language tip, story beat |
 | **authenticListen** | **1** Čuj Bosnu block | Song or speaker; listen-first gist; 1–3 key lines; full attribution |
-| **civicContext** | **1** fact + image | Structural pressure on BiH, tied to lesson theme; full sentences; no opinion slogans |
+| **civicContext** | **1** fact + image | Structural pressure on BiH, tied to lesson theme; full sentences; no opinion slogans; respect Book 1 general→specific civic arc (see CONTENT-STYLE.md) |
 | **resources** | Channel/video + optional map + **next lesson** link | `/learn/lesson/N` |
 | **sectionQuiz** | **8–10** MCQs with `question` (not `prompt`), `passPercent: 70`, explanations + **`skill`** | Per-lesson quiz (UI label: Lesson quiz). Mix meaning, form, one culture |
 | **speakTargets** | Optional `number[]` | 0-based dialogue line indexes for AI speak-check (default: up to 3 learner lines) |
