@@ -18,7 +18,7 @@
     "grammar": [
       "Choose idem, ideš, or idemo for who is going.",
       "Suggest a shared activity with Hajde da.",
-      "Reuse familiar present-tense frames from earlier lessons."
+      "Reuse present-tense patterns from earlier lessons."
     ],
     "culture": [
       "Visit Vrelo Bosne and the source of the Bosna River near Ilidža.",
@@ -136,7 +136,7 @@
   "grammar": [
     {
       "title": "Idem, ideš, and idemo",
-      "explanation": "Practice the whole expression before you worry about paradigms. The verb ići means to go. Use idem for I am going, ideš for you are going, and idemo for we are going. Add a destination such as u park to make each form useful.",
+      "explanation": "The verb ići means to go. Use idem for I am going, ideš for you are going, and idemo for we are going. Add a destination such as u park to make each form useful.",
       "examples": [
         {
           "bosnian": "Idem u park.",
@@ -154,7 +154,7 @@
     },
     {
       "title": "Hajde da idemo",
-      "explanation": "Build this as a ready-made line you can reuse. Use Hajde da followed by a present verb when you suggest doing something together. Hajde da idemo is a warm invitation to get moving. The pattern also works with šetamo when you suggest a walk.",
+      "explanation": "Use Hajde da followed by a present verb when you suggest doing something together. Hajde da idemo is a warm invitation to get moving. The pattern also works with šetamo when you suggest a walk.",
       "examples": [
         {
           "bosnian": "Hajde da idemo.",
@@ -172,7 +172,7 @@
     },
     {
       "title": "Hoćeš li for invitations",
-      "explanation": "Store this as a phrase you can pull out in conversation. Begin a yes or no invitation with Hoćeš li. Put an infinitive such as šetati or ići after it. Answer with Hoću when you accept or Neću when you decline.",
+      "explanation": "Begin a yes or no invitation with Hoćeš li. Put an infinitive such as šetati or ići after it. Answer with Hoću when you accept or Neću when you decline.",
       "examples": [
         {
           "bosnian": "Hoćeš li šetati?",
@@ -198,7 +198,7 @@
     {
       "id": "a",
       "title": "Lesson A. Go for a walk",
-      "body": "Begin with the movement verb ići and its useful forms. Say Idem u park when you are going, ask Ideš li sa mnom? when you want company, and say Idemo when the group is ready. Add šetati for walking and the destination u park. At Vrelo Bosne, Ana and Emir follow the water while Mrvica studies every patch of grass. Ana announces each plan before they move. Repeat the three forms with different speakers, then point toward a destination and say a complete sentence. The goal is to connect the person, the verb form, and the place without stopping to build a table.",
+      "body": "Begin with the movement verb ići and its useful forms. Say Idem u park when you are going, ask Ideš li sa mnom? when you want company, and say Idemo when the group is ready. Add šetati for walking and the destination u park. At Vrelo Bosne, Ana and Emir follow the water while Mrvica studies every patch of grass. Ana announces each plan before they move. Repeat the three forms with different speakers, then point toward a destination and say a complete sentence connecting the person, the verb form, and the place.",
       "tips": [
         "Use idem for yourself, ideš for one person you address, and idemo for the group.",
         "Add u park after the verb when the park is your destination.",
@@ -208,7 +208,7 @@
     {
       "id": "b",
       "title": "Lesson B. Invite and respond",
-      "body": "Turn movement into a social plan with Hajde da idemo or Hoćeš li šetati? The first phrase suggests an activity for the group, while the second asks whether another person wants to join. Ana uses both patterns before attaching Mrvica's leash. The cat responds by moving brzo rather than polako, and wraps the povodac around a drvo. Ana calls Dođi and Čekaj while Emir tries not to laugh. The park supplies every cue. Practice one invitation, one acceptance, and one command as a three-part exchange. Keep the tone friendly because these phrases are useful with friends during any walk rather than only with a determined cat.",
+      "body": "Turn movement into a social plan with Hajde da idemo or Hoćeš li šetati? The first phrase suggests an activity for the group, while the second asks whether another person wants to join. Ana uses both patterns before attaching Mrvica's leash. The cat responds by moving brzo instead of polako, and wraps the povodac around a drvo. Ana calls Dođi and Čekaj while Emir tries not to laugh. The park supplies every cue. Practice one invitation, one acceptance, and one command as a three-part exchange. Keep the tone friendly, since these phrases work just as well with friends on any walk.",
       "tips": [
         "Use Hajde da when you suggest an activity that includes you.",
         "Use Hoćeš li followed by an infinitive when you offer a choice.",
@@ -731,7 +731,7 @@
   "section": 2,
   "sayAgain": {
     "title": "Say again",
-    "intro": "Warm up with four frames you already know.",
+    "intro": "Warm up with four lines you already know.",
     "lines": [
       {
         "bosnian": "Kakvo je vrijeme?",

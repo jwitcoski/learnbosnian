@@ -18,7 +18,7 @@
     "grammar": [
       "Say Govorim bosanski or Govorim engleski.",
       "Ask Odakle si? and answer with Ja sam iz plus a place.",
-      "Reuse familiar present-tense frames from earlier lessons."
+      "Reuse present-tense patterns from earlier lessons."
     ],
     "culture": [
       "Keep identity talk gentle by beginning with place and language.",
@@ -129,7 +129,7 @@
   "grammar": [
     {
       "title": "Govorim bosanski",
-      "explanation": "Focus on the spoken chunk. Postpone the full paradigm. Use govorim to say which language you speak. Bosnian language names usually follow the verb without an article. Replace bosanski with engleski when you describe English.",
+      "explanation": "Use govorim to say which language you speak. Bosnian language names usually follow the verb without an article. Replace bosanski with engleski when you describe English.",
       "examples": [
         {
           "bosnian": "Govorim bosanski.",
@@ -147,7 +147,7 @@
     },
     {
       "title": "Odakle si?",
-      "explanation": "Learn this as a full phrase. Do not treat it as a table. Ask Odakle si? when you want to know where someone is from. Answer with Ja sam iz followed by a place. A place answer shares useful information without forcing a larger identity label.",
+      "explanation": "Ask Odakle si? when you want to know where someone is from. Answer with Ja sam iz followed by a place. A place answer shares useful information without forcing a larger identity label.",
       "examples": [
         {
           "bosnian": "Odakle si?",
@@ -165,7 +165,7 @@
     },
     {
       "title": "Ko govori?",
-      "explanation": "Treat this as a ready chunk you can say today. Use ko when you ask who a person is or who does an action. Pair ko with govori to ask who speaks a language. Answer with a person's name and a complete sentence.",
+      "explanation": "Use ko when you ask who a person is or who does an action. Pair ko with govori to ask who speaks a language. Answer with a person's name and a complete sentence.",
       "examples": [
         {
           "bosnian": "Ko govori bosanski?",
@@ -654,7 +654,7 @@
   "imageBriefs": [],
   "civicContext": {
     "title": "Brčko District has a distinct civic role",
-    "body": "Brčko District has a distinct place in the constitutional structure of Bosnia and Herzegovina. It is a self-governing district held in condominium by both entities rather than governed as an ordinary municipality within either one. An international supervisory system was created to support implementation of the postwar arbitration award and the district's multiethnic institutions. Local government in Brčko therefore operates alongside an unusual national and international framework. The district shows that the country's civic map includes more than the two entities alone.",
+    "body": "Brčko District has a distinct place in the constitutional structure of Bosnia and Herzegovina. It is a self-governing district held in condominium by both entities, rather than governed as an ordinary municipality within either one. An international supervisory system was created to support the postwar arbitration award and the district's multiethnic institutions. Local government in Brčko operates alongside this unusual national and international framework, a reminder that the country's civic map includes more than the two entities alone.",
     "imageId": "civic-brcko-map",
     "learnMore": {
       "label": "Wikipedia article about Brčko District",
@@ -716,7 +716,7 @@
   "section": 2,
   "sayAgain": {
     "title": "Say again",
-    "intro": "Warm up with four frames you already know.",
+    "intro": "Warm up with four lines you already know.",
     "lines": [
       {
         "bosnian": "Hajde da idemo u park.",

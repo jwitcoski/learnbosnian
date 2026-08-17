@@ -18,7 +18,7 @@
     "grammar": [
       "Use imam and imaš for have",
       "Match short adjectives to room words",
-      "Reuse familiar present-tense frames from earlier lessons."
+      "Reuse present-tense patterns from earlier lessons."
     ],
     "culture": [
       "Living above a café is a classic small-city arrangement",
@@ -142,7 +142,7 @@
   "grammar": [
     {
       "title": "Imam / imaš",
-      "explanation": "Say the whole line together. Skip the full chart for now. Imati means to have. Learn Imam for I have and imaš for you have. Say Imam sobu. Say Imam krevet. Ask Imaš lampu? Keep objects as chunks.",
+      "explanation": "Imati means to have. Learn imam for I have and imaš for you have. Say Imam sobu. Say Imam krevet. Ask Imaš lampu? Add the object right after the verb, no extra words needed.",
       "examples": [
         {
           "bosnian": "Imam sobu.",
@@ -160,7 +160,7 @@
     },
     {
       "title": "Moja soba",
-      "explanation": "Hold this as a spoken pattern. Do not treat it as a grammar grid. Soba is feminine, so moja soba is the natural chunk. Pair it with short descriptions. Say Moja soba je mala. Say Moja soba je lijepa.",
+      "explanation": "Soba is feminine, so moja soba is the natural pairing. Use it with short descriptions. Say Moja soba je mala. Say Moja soba je lijepa.",
       "examples": [
         {
           "bosnian": "Moja soba je mala.",
@@ -174,7 +174,7 @@
     },
     {
       "title": "Adjective agreement intro",
-      "explanation": "Learn the usable chunk first. Full tables can wait. Match the adjective shape to the noun you see. Feminine soba and kuća often take -a forms such as mala and lijepa. Masculine prozor and krevet take forms like velik and udoban. Learn the pairs by ear in this lesson.",
+      "explanation": "Match the adjective shape to the noun you see. Feminine soba and kuća often take -a forms such as mala and lijepa. Masculine prozor and krevet take forms like velik and udoban. Learn the pairs by ear for now, and save the full agreement rules for later.",
       "examples": [
         {
           "bosnian": "Prozor je velik.",
@@ -302,7 +302,7 @@
           "answer": true
         },
         {
-          "statement": "Moja soba is a natural feminine chunk.",
+          "statement": "Moja soba is a natural feminine pairing.",
           "answer": true
         },
         {
@@ -319,7 +319,7 @@
   "practice": [
     {
       "id": "pr1",
-      "prompt": "Write I have a room (object chunk).",
+      "prompt": "Write I have a room (object form).",
       "hint": "Imam sobu",
       "answer": "Imam sobu"
     },
@@ -447,7 +447,7 @@
         "correctIndex": 1,
         "explanation": "Moja soba.",
         "skill": "grammar",
-        "question": "Which chunk fits a feminine room?"
+        "question": "Which phrase fits a feminine room?"
       },
       {
         "id": "q4",
@@ -767,7 +767,7 @@
   "section": 2,
   "sayAgain": {
     "title": "Say again",
-    "intro": "Warm up with four frames you already know.",
+    "intro": "Warm up with four lines you already know.",
     "lines": [
       {
         "bosnian": "Želim jabuku, molim.",
