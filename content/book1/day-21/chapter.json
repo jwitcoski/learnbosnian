@@ -331,7 +331,7 @@
     {
       "label": "Next lesson",
       "url": "/learn/lesson/22",
-      "note": "Lesson 22 walks Travnik with sightseeing chunks."
+      "note": "Lesson 22 walks Travnik with sightseeing phrases."
     },
     {
       "label": "How to speak Bosnian channel",
@@ -358,7 +358,7 @@
       },
       {
         "id": "q2",
-        "question": "Which chunk means I need a ticket?",
+        "question": "Which phrase means I need a ticket?",
         "options": [
           "Hoću vikend.",
           "Treba mi karta.",

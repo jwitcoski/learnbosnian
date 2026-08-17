@@ -164,8 +164,8 @@
       ]
     },
     {
-      "title": "Station timing chunks",
-      "explanation": "Say the whole line together. Skip the full chart for now. Use odlazak for departure and dolazak for arrival. Pair each word with a clock time you already know. These present-tense lines help you read a board without learning a new tense.",
+      "title": "Station timing phrases",
+      "explanation": "Use odlazak for departure and dolazak for arrival. Pair each word with a clock time you already know. These present-tense lines help you read a board without learning a new tense.",
       "examples": [
         {
           "bosnian": "Odlazak je uskoro.",
@@ -312,7 +312,7 @@
   "practice": [
     {
       "id": "pr1",
-      "prompt": "Write the Bosnian chunk for I need a ticket.",
+      "prompt": "Write the Bosnian phrase for I need a ticket.",
       "hint": "Begin with Treba mi.",
       "answer": "Treba mi karta."
     },
@@ -407,7 +407,7 @@
       },
       {
         "id": "q2",
-        "question": "Which chunk means I need a ticket?",
+        "question": "Which phrase means I need a ticket?",
         "options": [
           "Koliko košta karta?",
           "Treba mi karta.",
