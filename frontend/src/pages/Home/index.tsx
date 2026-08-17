@@ -49,9 +49,9 @@ const Home = () => {
         <div className="hero-copy">
           <h1 className="brand">Learn Bosnian</h1>
           <p className="lede">
-            A1 present-tense Bosnian for short stays and early expat life: order
-            food, find your way, meet people, and stay in Latin script with Ana,
-            Emir, Amira, and Mrvica.
+            Present-tense A1 Bosnian for short stays and early life here. Order
+            food, ask directions, meet people. Latin script only. Ana, Emir,
+            Amira, and Mrvica walk you through it.
           </p>
           <div className="cta-row">
             <Cta type="button" onClick={() => history.push("/learn/lesson/0")}>
@@ -80,14 +80,14 @@ const Home = () => {
           </Link>
         </StyledPhoto>
         <div className="copy">
-          <h2>One clear path</h2>
+          <h2>One path, reviewed as it goes live</h2>
           <p>
-            Every chapter is drafted and reviewed before it goes live. Sit with a
-            džezva of kahva and follow the same lesson shape every time — goals,
-            culture, practice, and a quiz.
+            Each lesson is drafted and reviewed before it goes live. Same shape
+            every time: goals, culture, practice, and a quiz. Make a džezva of
+            kahva and settle in.
           </p>
           <SolidCta type="button" onClick={() => history.push("/learn")}>
-            Open the curriculum
+            Open curriculum
           </SolidCta>
         </div>
       </Illustrate>
@@ -95,32 +95,31 @@ const Home = () => {
       <KilimBand aria-hidden />
 
       <Section>
-        <h2>Same lesson shape every time</h2>
+        <h2>What you do in each lesson</h2>
         <p className="support">
-          Goals, culture, vocab, grammar, Say again warm-up, a puzzle,
-          conversation, practice, fun facts, another game, resources, then a
-          section quiz.
+          Goals, culture, words, grammar, a Say again warm-up, a puzzle,
+          conversation, practice, fun facts, a game, resources, then the lesson
+          quiz.
         </p>
         <Pillars>
           <article>
             <div className="label">Speak</div>
             <p>
-              Dialogues with recurring characters — then record yourself for AI
-              Speak Check (Amazon Transcribe + Bedrock coaching).
+              Dialogues with the same characters. Then record yourself for Speak
+              Check, which listens and coaches your pronunciation.
             </p>
           </article>
           <article>
             <div className="label">Play</div>
             <p>
-              Matching, unscramble, and quizzes for brains that tire of dry
+              Matching, unscramble, and quizzes when you want a break from
               drills.
             </p>
           </article>
           <article>
             <div className="label">Remember</div>
             <p>
-              A growing mini-dictionary of every word you learn, ready when you
-              need it.
+              A Dictionary that grows with each published lesson.
             </p>
           </article>
         </Pillars>
@@ -128,14 +127,14 @@ const Home = () => {
 
       <Illustrate>
         <div className="copy">
-          <h2>Follow the story through Bosnia</h2>
+          <h2>Follow the story across Bosnia and Herzegovina</h2>
           <p>
-            Walk Baščaršija with Ana, drink kahva at Amira’s, get lost with Emir,
-            and let Mrvica steal the scene. Book 1 is tourist and early-expat
-            survival across Bosnia and Herzegovina, all in the present tense.
+            Walk Baščaršija with Ana. Drink kahva at Amira’s. Get a little lost
+            with Emir. Let Mrvica steal the scene. Book 1 is survival Bosnian for
+            travelers and new arrivals, all in the present tense.
           </p>
           <SolidCta type="button" onClick={() => history.push("/books")}>
-            Browse the book series
+            See the book series
           </SolidCta>
         </div>
         <StyledPhoto>
@@ -149,11 +148,11 @@ const Home = () => {
       <YoutubeStrip>
         <img src="/img/svg/youtube.svg" alt="" width={56} height={56} />
         <div>
-          <h2>Watch along on YouTube</h2>
+          <h2>Watch on YouTube</h2>
           <p>
-            Join learners on How to speak Bosnian. Each Book 1 chapter has a
-            companion video with scenic stills, clear text, and optional
-            narration.
+            The channel is How to speak Bosnian. As each Book 1 lesson is written
+            and published, it gets a companion video with stills, on-screen text,
+            and optional narration.
           </p>
           <SolidCta
             type="button"
@@ -161,7 +160,7 @@ const Home = () => {
               window.open("https://www.youtube.com/@HowtospeakBosnian", "_blank")
             }
           >
-            Open YouTube channel
+            Open the channel
           </SolidCta>
         </div>
       </YoutubeStrip>
@@ -169,7 +168,7 @@ const Home = () => {
       <ContactWrap>
         <Contact
           title="Say zdravo"
-          content="Questions about the books, school use, or a chapter draft? Send a note."
+          content="Questions about the books, classroom use, or a lesson draft? Send a note."
           id="contact"
         />
       </ContactWrap>

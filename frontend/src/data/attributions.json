@@ -1,6 +1,6 @@
 {
   "title": "Photo attributions",
-  "intro": "Running register of every photo used on the site and in Book 1. Use this list when citing images for print, Scribus export, or YouTube descriptions. Chapter images are harvested automatically from each chapter.json; homepage and other site assets are listed here by hand.",
+  "intro": "Every photo used on the site and in Book 1, listed for citation. Use this when you credit images for print, Scribus export, or YouTube. Lesson images come from each lesson file; homepage photos are added by hand.",
   "citationNote": "For Creative Commons works, credit the author, note the license, and link to the source page. For Pexels, credit the photographer and Pexels. Derivative treatments (polygon paint, background removal) still require attribution of the source photo.",
   "generatedAt": "2026-08-16",
   "total": 127,
@@ -9,7 +9,7 @@
       "id": "book1-day-00-civic-dayton-map",
       "title": "Map-style view of Bosnia and Herzegovina used for the two Dayton entities civic note",
       "whereUsed": [
-        "Book 1 · Lesson 0 — Why Bosnian?"
+        "Book 1 · Lesson 0: Why Bosnian?"
       ],
       "author": "NordNordWest",
       "source": "Wikimedia Commons",
@@ -26,7 +26,7 @@
       "id": "book1-day-00-mostar-neretva",
       "title": "Polygon painting of Koski Mehmed Pasha Mosque above the Neretva in Mostar",
       "whereUsed": [
-        "Book 1 · Lesson 0 — Why Bosnian?"
+        "Book 1 · Lesson 0: Why Bosnian?"
       ],
       "author": "Borys Jarzcuk",
       "source": "Pexels",
@@ -43,7 +43,7 @@
       "id": "book1-day-00-mostar-panorama",
       "title": "Polygon painting of Mostar old town panorama with Stari Most",
       "whereUsed": [
-        "Book 1 · Lesson 0 — Why Bosnian?"
+        "Book 1 · Lesson 0: Why Bosnian?"
       ],
       "author": "Ramirez",
       "source": "Wikimedia Commons",
@@ -60,7 +60,7 @@
       "id": "book1-day-00-stari-most",
       "title": "Polygon painting of Stari Most, the Old Bridge in Mostar",
       "whereUsed": [
-        "Book 1 · Lesson 0 — Why Bosnian?"
+        "Book 1 · Lesson 0: Why Bosnian?"
       ],
       "author": "Djani Behram",
       "source": "Wikimedia Commons",
@@ -77,7 +77,7 @@
       "id": "book1-day-01-bascarsija",
       "title": "Polygon painting of Baščaršija streets in Sarajevo with Brusa Bezistan",
       "whereUsed": [
-        "Book 1 · Lesson 1 — Hello, Sarajevo!"
+        "Book 1 · Lesson 1: Hello, Sarajevo!"
       ],
       "author": "Kathleen Franklin",
       "source": "Wikimedia Commons",
@@ -94,7 +94,7 @@
       "id": "book1-day-01-civic-ohr",
       "title": "Office of the High Representative building in Sarajevo",
       "whereUsed": [
-        "Book 1 · Lesson 1 — Hello, Sarajevo!"
+        "Book 1 · Lesson 1: Hello, Sarajevo!"
       ],
       "author": "Niegodzisie",
       "source": "Wikimedia Commons",
@@ -111,7 +111,7 @@
       "id": "book1-day-01-gazi-mosque",
       "title": "Polygon painting of the Gazi Husrev-beg complex in Sarajevo",
       "whereUsed": [
-        "Book 1 · Lesson 1 — Hello, Sarajevo!"
+        "Book 1 · Lesson 1: Hello, Sarajevo!"
       ],
       "author": "Mattan",
       "source": "Wikimedia Commons",
@@ -128,7 +128,7 @@
       "id": "book1-day-01-sebilj",
       "title": "Polygon painting of the Sebilj fountain in Baščaršija, Sarajevo",
       "whereUsed": [
-        "Book 1 · Lesson 1 — Hello, Sarajevo!"
+        "Book 1 · Lesson 1: Hello, Sarajevo!"
       ],
       "author": "BloodSaric",
       "source": "Wikimedia Commons",
@@ -145,7 +145,7 @@
       "id": "book1-day-02-bascarsija-street",
       "title": "Polygon painting of a Baščaršija street in Sarajevo",
       "whereUsed": [
-        "Book 1 · Lesson 2 — I am Ana"
+        "Book 1 · Lesson 2: I am Ana"
       ],
       "author": "Stechshotme",
       "source": "Wikimedia Commons",
@@ -162,7 +162,7 @@
       "id": "book1-day-02-civic-presidency",
       "title": "Presidency building of Bosnia and Herzegovina in Sarajevo",
       "whereUsed": [
-        "Book 1 · Lesson 2 — I am Ana"
+        "Book 1 · Lesson 2: I am Ana"
       ],
       "author": "Niegodzisie",
       "source": "Wikimedia Commons",
@@ -179,7 +179,7 @@
       "id": "book1-day-02-sebilj-close",
       "title": "Polygon painting close-up of Sebilj fountain with pigeons",
       "whereUsed": [
-        "Book 1 · Lesson 2 — I am Ana"
+        "Book 1 · Lesson 2: I am Ana"
       ],
       "author": "JoJan",
       "source": "Wikimedia Commons",
@@ -196,7 +196,7 @@
       "id": "book1-day-02-sebilj-square",
       "title": "Polygon painting of Sebilj fountain in Baščaršija square, Sarajevo",
       "whereUsed": [
-        "Book 1 · Lesson 2 — I am Ana"
+        "Book 1 · Lesson 2: I am Ana"
       ],
       "author": "Daniel Wabyick",
       "source": "Wikimedia Commons",
@@ -213,7 +213,7 @@
       "id": "book1-day-03-civic-cbbh",
       "title": "Central Bank of Bosnia and Herzegovina building",
       "whereUsed": [
-        "Book 1 · Lesson 3 — Numbers and coffee"
+        "Book 1 · Lesson 3: Numbers and coffee"
       ],
       "author": "Anthony Joh",
       "source": "Wikimedia Commons",
@@ -230,7 +230,7 @@
       "id": "book1-day-03-coffee-set",
       "title": "Polygon painting of an engraved Bosnian coffee set with džezva and cups",
       "whereUsed": [
-        "Book 1 · Lesson 3 — Numbers and coffee"
+        "Book 1 · Lesson 3: Numbers and coffee"
       ],
       "author": "İhsan Işık",
       "source": "Wikimedia Commons",
@@ -247,7 +247,7 @@
       "id": "book1-day-03-kahva-amira",
       "title": "Polygon painting of Bosnian coffee with džezva and fildžan on a copper tray",
       "whereUsed": [
-        "Book 1 · Lesson 3 — Numbers and coffee"
+        "Book 1 · Lesson 3: Numbers and coffee"
       ],
       "author": "Michał Huniewicz",
       "source": "Wikimedia Commons",
@@ -264,7 +264,7 @@
       "id": "book1-day-03-lokum",
       "title": "Polygon painting of rahat lokum Turkish delight with coffee sweets",
       "whereUsed": [
-        "Book 1 · Lesson 3 — Numbers and coffee"
+        "Book 1 · Lesson 3: Numbers and coffee"
       ],
       "author": "Maksym Kozlenko",
       "source": "Wikimedia Commons",
@@ -281,7 +281,7 @@
       "id": "book1-day-04-cafe-family",
       "title": "Polygon painting of an open Sarajevo café terrace with tables for regulars",
       "whereUsed": [
-        "Book 1 · Lesson 4 — Mrvica’s family"
+        "Book 1 · Lesson 4: Mrvica’s family"
       ],
       "author": "Milan Suvajac",
       "source": "Wikimedia Commons",
@@ -298,7 +298,7 @@
       "id": "book1-day-04-civic-parliament",
       "title": "Parliamentary Assembly building in Sarajevo",
       "whereUsed": [
-        "Book 1 · Lesson 4 — Mrvica’s family"
+        "Book 1 · Lesson 4: Mrvica’s family"
       ],
       "author": "Dingoa",
       "source": "Wikimedia Commons",
@@ -315,7 +315,7 @@
       "id": "book1-day-04-family-table",
       "title": "Polygon painting of shared bread and coffee on a family-style café table",
       "whereUsed": [
-        "Book 1 · Lesson 4 — Mrvica’s family"
+        "Book 1 · Lesson 4: Mrvica’s family"
       ],
       "author": "Michał Huniewicz",
       "source": "Wikimedia Commons",
@@ -332,7 +332,7 @@
       "id": "book1-day-04-mrvica-cat",
       "title": "Polygon painting of a tabby cat sitting on an outdoor stone wall matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 4 — Mrvica’s family"
+        "Book 1 · Lesson 4: Mrvica’s family"
       ],
       "author": "Alvesgaspar",
       "source": "Wikimedia Commons",
@@ -349,7 +349,7 @@
       "id": "book1-day-05-bih-map",
       "title": "Polygon painting of a colorful map of Bosnia and Herzegovina with Sarajevo and Mostar marked",
       "whereUsed": [
-        "Book 1 · Lesson 5 — Where is Mostar?"
+        "Book 1 · Lesson 5: Where is Mostar?"
       ],
       "author": "NordNordWest",
       "source": "Wikimedia Commons",
@@ -366,7 +366,7 @@
       "id": "book1-day-05-civic-mostar-gov",
       "title": "Mostar skyline used for the civic note on stalled local elections",
       "whereUsed": [
-        "Book 1 · Lesson 5 — Where is Mostar?"
+        "Book 1 · Lesson 5: Where is Mostar?"
       ],
       "author": "Ramirez",
       "source": "Wikimedia Commons",
@@ -383,7 +383,7 @@
       "id": "book1-day-05-neretva-valley",
       "title": "Polygon painting of Mostar rooftops and the Neretva valley looking toward the Old Bridge",
       "whereUsed": [
-        "Book 1 · Lesson 5 — Where is Mostar?"
+        "Book 1 · Lesson 5: Where is Mostar?"
       ],
       "author": "Ramirez",
       "source": "Wikimedia Commons",
@@ -400,7 +400,7 @@
       "id": "book1-day-05-stari-most-tease",
       "title": "Polygon painting of Stari Most arching over the Neretva in Mostar",
       "whereUsed": [
-        "Book 1 · Lesson 5 — Where is Mostar?"
+        "Book 1 · Lesson 5: Where is Mostar?"
       ],
       "author": "Djani Behram",
       "source": "Wikimedia Commons",
@@ -417,7 +417,7 @@
       "id": "book1-day-06-civic-peljesac",
       "title": "Pelješac Bridge on the Adriatic near Bosnia’s Neum corridor",
       "whereUsed": [
-        "Book 1 · Lesson 6 — What time is it?"
+        "Book 1 · Lesson 6: What time is it?"
       ],
       "author": "kallerna",
       "source": "Wikimedia Commons",
@@ -434,7 +434,7 @@
       "id": "book1-day-06-neum-coast",
       "title": "Polygon painting of Neum on Bosnia and Herzegovina’s short Adriatic coast",
       "whereUsed": [
-        "Book 1 · Lesson 6 — What time is it?"
+        "Book 1 · Lesson 6: What time is it?"
       ],
       "author": "Pudelek (Marcin Szala)",
       "source": "Wikimedia Commons",
@@ -451,7 +451,7 @@
       "id": "book1-day-06-travnik-sahat",
       "title": "Polygon painting of Travnik’s sahat-kula clock tower beneath Mount Vlašić",
       "whereUsed": [
-        "Book 1 · Lesson 6 — What time is it?"
+        "Book 1 · Lesson 6: What time is it?"
       ],
       "author": "Meyavuz",
       "source": "Wikimedia Commons",
@@ -468,7 +468,7 @@
       "id": "book1-day-06-una-bihac",
       "title": "Polygon painting of the clear Una River near Bihać in northwest Bosnia",
       "whereUsed": [
-        "Book 1 · Lesson 6 — What time is it?"
+        "Book 1 · Lesson 6: What time is it?"
       ],
       "author": "Miha Peče",
       "source": "Wikimedia Commons",
@@ -485,7 +485,7 @@
       "id": "book1-day-07-blagaj-tekija",
       "title": "Polygon painting of the Blagaj Dervish tekija at the Buna river spring",
       "whereUsed": [
-        "Book 1 · Lesson 7 — Review"
+        "Book 1 · Lesson 7: Review"
       ],
       "author": "Yakamooda",
       "source": "Wikimedia Commons",
@@ -502,7 +502,7 @@
       "id": "book1-day-07-civic-schools",
       "title": "School building in Bosnia and Herzegovina representing divided education",
       "whereUsed": [
-        "Book 1 · Lesson 7 — Review"
+        "Book 1 · Lesson 7: Review"
       ],
       "author": "Jennifer Boyer",
       "source": "Wikimedia Commons",
@@ -519,7 +519,7 @@
       "id": "book1-day-07-jajce-pliva",
       "title": "Polygon painting of the Pliva waterfall at Jajce with old-town walls",
       "whereUsed": [
-        "Book 1 · Lesson 7 — Review"
+        "Book 1 · Lesson 7: Review"
       ],
       "author": "Adam Harangozó",
       "source": "Wikimedia Commons",
@@ -536,7 +536,7 @@
       "id": "book1-day-07-pocitelj",
       "title": "Polygon painting of Počitelj’s stone houses and fortress hill in Herzegovina",
       "whereUsed": [
-        "Book 1 · Lesson 7 — Review"
+        "Book 1 · Lesson 7: Review"
       ],
       "author": "Pudelek (Marcin Szala)",
       "source": "Wikimedia Commons",
@@ -553,7 +553,7 @@
       "id": "book1-day-08-burek-tray",
       "title": "Polygon painting of flaky meat burek on a tray",
       "whereUsed": [
-        "Book 1 · Lesson 8 — I love burek"
+        "Book 1 · Lesson 8: I love burek"
       ],
       "author": "photo Moma SM",
       "source": "Wikimedia Commons",
@@ -570,7 +570,7 @@
       "id": "book1-day-08-civic-livno-valley",
       "title": "Polygon painting of the Livno valley landscape",
       "whereUsed": [
-        "Book 1 · Lesson 8 — I love burek"
+        "Book 1 · Lesson 8: I love burek"
       ],
       "author": "Brian Eager from Livno, Bosnia and Herzegovina",
       "source": "Wikimedia Commons",
@@ -587,7 +587,7 @@
       "id": "book1-day-08-livno-sir",
       "title": "Polygon painting of Livanjski sir highland cheese from Livno",
       "whereUsed": [
-        "Book 1 · Lesson 8 — I love burek"
+        "Book 1 · Lesson 8: I love burek"
       ],
       "author": "Uniquenick",
       "source": "Wikimedia Commons",
@@ -604,7 +604,7 @@
       "id": "book1-day-08-livno-town",
       "title": "Polygon painting of Livno mosque and clock tower in western Bosnia",
       "whereUsed": [
-        "Book 1 · Lesson 8 — I love burek"
+        "Book 1 · Lesson 8: I love burek"
       ],
       "author": "Golden Bosnian Lily",
       "source": "Wikimedia Commons",
@@ -621,7 +621,7 @@
       "id": "book1-day-09-civic-tuzla-museum",
       "title": "Polygon painting of the Museum of East Bosnia in Tuzla",
       "whereUsed": [
-        "Book 1 · Lesson 9 — At the shop"
+        "Book 1 · Lesson 9: At the shop"
       ],
       "author": "Apokar",
       "source": "Wikimedia Commons",
@@ -638,7 +638,7 @@
       "id": "book1-day-09-tuzla-fountain",
       "title": "Polygon painting of a public fountain square in Tuzla",
       "whereUsed": [
-        "Book 1 · Lesson 9 — At the shop"
+        "Book 1 · Lesson 9: At the shop"
       ],
       "author": "Little Green Dragon",
       "source": "Wikimedia Commons",
@@ -655,7 +655,7 @@
       "id": "book1-day-09-tuzla-old-town",
       "title": "Polygon painting of a Tuzla old-town street",
       "whereUsed": [
-        "Book 1 · Lesson 9 — At the shop"
+        "Book 1 · Lesson 9: At the shop"
       ],
       "author": "Deanza7",
       "source": "Wikimedia Commons",
@@ -672,7 +672,7 @@
       "id": "book1-day-09-tuzla-shops",
       "title": "Polygon painting of a shopping street in Tuzla",
       "whereUsed": [
-        "Book 1 · Lesson 9 — At the shop"
+        "Book 1 · Lesson 9: At the shop"
       ],
       "author": "Little Green Dragon",
       "source": "Wikimedia Commons",
@@ -689,7 +689,7 @@
       "id": "book1-day-10-civic-stolac-houses",
       "title": "Polygon painting of traditional stone houses in Stolac",
       "whereUsed": [
-        "Book 1 · Lesson 10 — My room"
+        "Book 1 · Lesson 10: My room"
       ],
       "author": "Ma▀▄Ga",
       "source": "Wikimedia Commons",
@@ -706,7 +706,7 @@
       "id": "book1-day-10-radimlja-detail",
       "title": "Polygon painting of a carved stećak detail at Radimlja",
       "whereUsed": [
-        "Book 1 · Lesson 10 — My room"
+        "Book 1 · Lesson 10: My room"
       ],
       "author": "Original uploader was Prof saxx at hr.wikipedia",
       "source": "Wikimedia Commons",
@@ -723,7 +723,7 @@
       "id": "book1-day-10-stolac-old-town",
       "title": "Polygon painting of Stari grad Stolac stone fortress and houses",
       "whereUsed": [
-        "Book 1 · Lesson 10 — My room"
+        "Book 1 · Lesson 10: My room"
       ],
       "author": "Ma▀▄Ga",
       "source": "Wikimedia Commons",
@@ -740,7 +740,7 @@
       "id": "book1-day-10-stolac-radimlja",
       "title": "Polygon painting of the Radimlja stećci necropolis near Stolac",
       "whereUsed": [
-        "Book 1 · Lesson 10 — My room"
+        "Book 1 · Lesson 10: My room"
       ],
       "author": "Boris Maric",
       "source": "Wikimedia Commons",
@@ -757,7 +757,7 @@
       "id": "book1-day-11-civic-sarajevo-bowl",
       "title": "Polygon painting of the Sarajevo basin between surrounding mountains",
       "whereUsed": [
-        "Book 1 · Lesson 11 — How is the weather?"
+        "Book 1 · Lesson 11: How is the weather?"
       ],
       "author": "Julian Nyča",
       "source": "Wikimedia Commons",
@@ -774,7 +774,7 @@
       "id": "book1-day-11-jahorina",
       "title": "Polygon painting of Jahorina mountain under a broad sky",
       "whereUsed": [
-        "Book 1 · Lesson 11 — How is the weather?"
+        "Book 1 · Lesson 11: How is the weather?"
       ],
       "author": "EXIT Photo Team",
       "source": "Wikimedia Commons",
@@ -791,7 +791,7 @@
       "id": "book1-day-11-trebevic-cable",
       "title": "Polygon painting of a cable car climbing Trebević above Sarajevo",
       "whereUsed": [
-        "Book 1 · Lesson 11 — How is the weather?"
+        "Book 1 · Lesson 11: How is the weather?"
       ],
       "author": "Adam Harangozó",
       "source": "Wikimedia Commons",
@@ -808,7 +808,7 @@
       "id": "book1-day-11-trebevic-view",
       "title": "Polygon painting of Sarajevo seen from the Trebević cable car",
       "whereUsed": [
-        "Book 1 · Lesson 11 — How is the weather?"
+        "Book 1 · Lesson 11: How is the weather?"
       ],
       "author": "MarinaSimic",
       "source": "Wikimedia Commons",
@@ -825,7 +825,7 @@
       "id": "book1-day-12-bosna-river",
       "title": "Polygon painting of the Bosna River beginning among channels at Vrelo Bosne",
       "whereUsed": [
-        "Book 1 · Lesson 12 — Let's go to the park"
+        "Book 1 · Lesson 12: Let's go to the park"
       ],
       "author": "BiHVolim",
       "source": "Wikimedia Commons",
@@ -842,7 +842,7 @@
       "id": "book1-day-12-civic-floods",
       "title": "Polygon painting of floodwater covering a community during the 2014 floods",
       "whereUsed": [
-        "Book 1 · Lesson 12 — Let's go to the park"
+        "Book 1 · Lesson 12: Let's go to the park"
       ],
       "author": "Dalibor Platenik - Dali",
       "source": "Wikimedia Commons",
@@ -859,7 +859,7 @@
       "id": "book1-day-12-vrelo-bosne",
       "title": "Polygon painting of water flowing through the green springs at Vrelo Bosne",
       "whereUsed": [
-        "Book 1 · Lesson 12 — Let's go to the park"
+        "Book 1 · Lesson 12: Let's go to the park"
       ],
       "author": "Author's own photo",
       "source": "Wikimedia Commons",
@@ -876,7 +876,7 @@
       "id": "book1-day-12-vrelo-park",
       "title": "Polygon painting of a wooded path at Vrelo Bosne Park",
       "whereUsed": [
-        "Book 1 · Lesson 12 — Let's go to the park"
+        "Book 1 · Lesson 12: Let's go to the park"
       ],
       "author": "BiHVolim",
       "source": "Wikimedia Commons",
@@ -893,7 +893,7 @@
       "id": "book1-day-13-brcko-city",
       "title": "Polygon painting of lights across Brčko at night",
       "whereUsed": [
-        "Book 1 · Lesson 13 — People from Bosnia and Herzegovina"
+        "Book 1 · Lesson 13: People from Bosnia and Herzegovina"
       ],
       "author": "ChillZone420",
       "source": "Wikimedia Commons",
@@ -910,7 +910,7 @@
       "id": "book1-day-13-brcko-mosque",
       "title": "Polygon painting of the white mosque in Brčko",
       "whereUsed": [
-        "Book 1 · Lesson 13 — People from Bosnia and Herzegovina"
+        "Book 1 · Lesson 13: People from Bosnia and Herzegovina"
       ],
       "author": "Vrtleska225",
       "source": "Wikimedia Commons",
@@ -927,7 +927,7 @@
       "id": "book1-day-13-brcko-promenade",
       "title": "Polygon painting of people walking along the promenade in Brčko",
       "whereUsed": [
-        "Book 1 · Lesson 13 — People from Bosnia and Herzegovina"
+        "Book 1 · Lesson 13: People from Bosnia and Herzegovina"
       ],
       "author": "Vladanovski",
       "source": "Wikimedia Commons",
@@ -944,7 +944,7 @@
       "id": "book1-day-13-civic-brcko-map",
       "title": "Polygon painting of a map marking Brčko District within Bosnia and Herzegovina",
       "whereUsed": [
-        "Book 1 · Lesson 13 — People from Bosnia and Herzegovina"
+        "Book 1 · Lesson 13: People from Bosnia and Herzegovina"
       ],
       "author": "TUBS",
       "source": "Wikimedia Commons",
@@ -961,7 +961,7 @@
       "id": "book1-day-14-civic-emigration",
       "title": "Polygon painting of the Sarajevo International Airport apron and mountains matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 14 — Review"
+        "Book 1 · Lesson 14: Review"
       ],
       "author": "BiHVolim",
       "source": "Wikimedia Commons",
@@ -978,7 +978,7 @@
       "id": "book1-day-14-ferhadija",
       "title": "Polygon painting of Ferhadija Mosque in Banja Luka",
       "whereUsed": [
-        "Book 1 · Lesson 14 — Review"
+        "Book 1 · Lesson 14: Review"
       ],
       "author": "Samirzahirovic",
       "source": "Wikimedia Commons",
@@ -995,7 +995,7 @@
       "id": "book1-day-14-kastel",
       "title": "Polygon painting of Kastel Fortress beside the Vrbas in Banja Luka",
       "whereUsed": [
-        "Book 1 · Lesson 14 — Review"
+        "Book 1 · Lesson 14: Review"
       ],
       "author": "Biljana Latinović2",
       "source": "Wikimedia Commons",
@@ -1012,7 +1012,7 @@
       "id": "book1-day-14-vrbas",
       "title": "Polygon painting of the Vrbas River in Banja Luka",
       "whereUsed": [
-        "Book 1 · Lesson 14 — Review"
+        "Book 1 · Lesson 14: Review"
       ],
       "author": "130309p",
       "source": "Wikimedia Commons",
@@ -1029,7 +1029,7 @@
       "id": "book1-day-15-civic-mines",
       "title": "Polygon painting of a warning sign marking landmine danger",
       "whereUsed": [
-        "Book 1 · Lesson 15 — Right or left?"
+        "Book 1 · Lesson 15: Right or left?"
       ],
       "author": "Darij & Ana",
       "source": "Wikimedia Commons",
@@ -1046,7 +1046,7 @@
       "id": "book1-day-15-konjic-bridge",
       "title": "Polygon painting of the old stone bridge crossing the Neretva in Konjic",
       "whereUsed": [
-        "Book 1 · Lesson 15 — Right or left?"
+        "Book 1 · Lesson 15: Right or left?"
       ],
       "author": "Julian Nyča",
       "source": "Wikimedia Commons",
@@ -1063,7 +1063,7 @@
       "id": "book1-day-15-latin-bridge",
       "title": "Polygon painting of Latin Bridge crossing the Miljacka River in Sarajevo",
       "whereUsed": [
-        "Book 1 · Lesson 15 — Right or left?"
+        "Book 1 · Lesson 15: Right or left?"
       ],
       "author": "Tumi-1983",
       "source": "Wikimedia Commons",
@@ -1080,7 +1080,7 @@
       "id": "book1-day-15-latin-bridge-2",
       "title": "Polygon painting of the stone arches of Latin Bridge spanning the river",
       "whereUsed": [
-        "Book 1 · Lesson 15 — Right or left?"
+        "Book 1 · Lesson 15: Right or left?"
       ],
       "author": "CeeGee",
       "source": "Wikimedia Commons",
@@ -1097,7 +1097,7 @@
       "id": "book1-day-16-civic-a1-corridor",
       "title": "Polygon painting of a motorway section near Banja Luka",
       "whereUsed": [
-        "Book 1 · Lesson 16 — On the bus"
+        "Book 1 · Lesson 16: On the bus"
       ],
       "author": "Edin the",
       "source": "Wikimedia Commons",
@@ -1114,7 +1114,7 @@
       "id": "book1-day-16-jablanica-lake",
       "title": "Polygon painting of blue water fills Jablaničko Lake among the hills.",
       "whereUsed": [
-        "Book 1 · Lesson 16 — On the bus"
+        "Book 1 · Lesson 16: On the bus"
       ],
       "author": "Julian Nyča",
       "source": "Wikimedia Commons",
@@ -1131,7 +1131,7 @@
       "id": "book1-day-16-neum-coast",
       "title": "Polygon painting of a beach curves along the Adriatic at Neum.",
       "whereUsed": [
-        "Book 1 · Lesson 16 — On the bus"
+        "Book 1 · Lesson 16: On the bus"
       ],
       "author": "Bdx",
       "source": "Wikimedia Commons",
@@ -1148,7 +1148,7 @@
       "id": "book1-day-16-sarajevo-bus-station",
       "title": "Polygon painting of coaches wait outside the Sarajevo bus station.",
       "whereUsed": [
-        "Book 1 · Lesson 16 — On the bus"
+        "Book 1 · Lesson 16: On the bus"
       ],
       "author": "Vano111ru",
       "source": "Wikimedia Commons",
@@ -1165,7 +1165,7 @@
       "id": "book1-day-17-civic-food-economy",
       "title": "Polygon painting of a border crossing between Bosnia and Herzegovina and Croatia",
       "whereUsed": [
-        "Book 1 · Lesson 17 — Enjoy your meal!"
+        "Book 1 · Lesson 17: Enjoy your meal!"
       ],
       "author": "José Sáez",
       "source": "Wikimedia Commons",
@@ -1182,7 +1182,7 @@
       "id": "book1-day-17-japrak-dish",
       "title": "Polygon painting of stuffed vine leaves are arranged as japrak.",
       "whereUsed": [
-        "Book 1 · Lesson 17 — Enjoy your meal!"
+        "Book 1 · Lesson 17: Enjoy your meal!"
       ],
       "author": "Tizilohja25",
       "source": "Wikimedia Commons",
@@ -1199,7 +1199,7 @@
       "id": "book1-day-17-klepe-sarajevo",
       "title": "Polygon painting of a plate of klepe is served in Sarajevo.",
       "whereUsed": [
-        "Book 1 · Lesson 17 — Enjoy your meal!"
+        "Book 1 · Lesson 17: Enjoy your meal!"
       ],
       "author": "amanderson2",
       "source": "Wikimedia Commons",
@@ -1216,7 +1216,7 @@
       "id": "book1-day-17-visoko-postcard",
       "title": "Polygon painting of visoko spreads across hills below a wide sky.",
       "whereUsed": [
-        "Book 1 · Lesson 17 — Enjoy your meal!"
+        "Book 1 · Lesson 17: Enjoy your meal!"
       ],
       "author": "Wikimedia Commons",
       "source": "Wikimedia Commons",
@@ -1233,7 +1233,7 @@
       "id": "book1-day-18-bilino-polje",
       "title": "Polygon painting of bilino Polje stadium opens wide under a bright sky.",
       "whereUsed": [
-        "Book 1 · Lesson 18 — Sports and hobbies"
+        "Book 1 · Lesson 18: Sports and hobbies"
       ],
       "author": "BiHVolim",
       "source": "Wikimedia Commons",
@@ -1250,7 +1250,7 @@
       "id": "book1-day-18-bilino-polje-stands",
       "title": "Polygon painting of the stands of Bilino Polje face the green pitch.",
       "whereUsed": [
-        "Book 1 · Lesson 18 — Sports and hobbies"
+        "Book 1 · Lesson 18: Sports and hobbies"
       ],
       "author": "Emin Tarahija",
       "source": "Wikimedia Commons",
@@ -1267,7 +1267,7 @@
       "id": "book1-day-18-civic-emigration-airport",
       "title": "Polygon painting of a University of Sarajevo building",
       "whereUsed": [
-        "Book 1 · Lesson 18 — Sports and hobbies"
+        "Book 1 · Lesson 18: Sports and hobbies"
       ],
       "author": "Choinowski",
       "source": "Wikimedia Commons",
@@ -1284,7 +1284,7 @@
       "id": "book1-day-18-strbacki-buk",
       "title": "Polygon painting of white water pours over stone shelves at Štrbački buk.",
       "whereUsed": [
-        "Book 1 · Lesson 18 — Sports and hobbies"
+        "Book 1 · Lesson 18: Sports and hobbies"
       ],
       "author": "Julian Nyča",
       "source": "Wikimedia Commons",
@@ -1301,7 +1301,7 @@
       "id": "book1-day-19-civic-pluralism",
       "title": "Polygon painting of the Saudi-funded King Fahd Mosque in Sarajevo",
       "whereUsed": [
-        "Book 1 · Lesson 19 — Holidays"
+        "Book 1 · Lesson 19: Holidays"
       ],
       "author": "BiHVolim",
       "source": "Wikimedia Commons",
@@ -1318,7 +1318,7 @@
       "id": "book1-day-19-ferhadija-lights",
       "title": "Polygon painting of people walk Ferhadija Street in central Sarajevo.",
       "whereUsed": [
-        "Book 1 · Lesson 19 — Holidays"
+        "Book 1 · Lesson 19: Holidays"
       ],
       "author": "Niegodzisie",
       "source": "Wikimedia Commons",
@@ -1335,7 +1335,7 @@
       "id": "book1-day-19-gazi-husrev-beg",
       "title": "Polygon painting of gazi Husrev-beg's Mosque rises in Sarajevo.",
       "whereUsed": [
-        "Book 1 · Lesson 19 — Holidays"
+        "Book 1 · Lesson 19: Holidays"
       ],
       "author": "Aleksandra Đuričić",
       "source": "Wikimedia Commons",
@@ -1352,7 +1352,7 @@
       "id": "book1-day-19-sacred-heart",
       "title": "Polygon painting of sacred Heart Cathedral stands in Sarajevo.",
       "whereUsed": [
-        "Book 1 · Lesson 19 — Holidays"
+        "Book 1 · Lesson 19: Holidays"
       ],
       "author": "Bjoertvedt",
       "source": "Wikimedia Commons",
@@ -1369,7 +1369,7 @@
       "id": "book1-day-20-civic-diaspora-calls",
       "title": "Polygon painting of a highway corridor used as a stand-in for contested infrastructure deals",
       "whereUsed": [
-        "Book 1 · Lesson 20 — Phone call"
+        "Book 1 · Lesson 20: Phone call"
       ],
       "author": "Eao-be",
       "source": "Wikimedia Commons",
@@ -1386,7 +1386,7 @@
       "id": "book1-day-20-ferhadija-connection",
       "title": "Polygon painting of pedestrians move along Ferhadija while the city stays connected.",
       "whereUsed": [
-        "Book 1 · Lesson 20 — Phone call"
+        "Book 1 · Lesson 20: Phone call"
       ],
       "author": "Niegodzisie",
       "source": "Wikimedia Commons",
@@ -1403,7 +1403,7 @@
       "id": "book1-day-20-sarajevo-tram",
       "title": "Polygon painting of a blue Sarajevo tram travels along a city street.",
       "whereUsed": [
-        "Book 1 · Lesson 20 — Phone call"
+        "Book 1 · Lesson 20: Phone call"
       ],
       "author": "xiquinhosilva",
       "source": "Wikimedia Commons",
@@ -1420,7 +1420,7 @@
       "id": "book1-day-20-sarajevo-tram-city-hall",
       "title": "Polygon painting of a tram passes near Sarajevo City Hall.",
       "whereUsed": [
-        "Book 1 · Lesson 20 — Phone call"
+        "Book 1 · Lesson 20: Phone call"
       ],
       "author": "J. Studnička & Co., Sarajevo.",
       "source": "Wikimedia Commons",
@@ -1437,7 +1437,7 @@
       "id": "book1-day-21-cafe-plan",
       "title": "Polygon painting based on the credited Commons photo. A café table used for weekend planning.",
       "whereUsed": [
-        "Book 1 · Lesson 21 — Review"
+        "Book 1 · Lesson 21: Review"
       ],
       "author": "Brenda Annerl",
       "source": "Wikimedia Commons",
@@ -1454,7 +1454,7 @@
       "id": "book1-day-21-civic-rural-bus",
       "title": "Polygon painting of a rural bus stop matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 21 — Review"
+        "Book 1 · Lesson 21: Review"
       ],
       "author": "Jonatan Svensson Glad",
       "source": "Wikimedia Commons",
@@ -1471,7 +1471,7 @@
       "id": "book1-day-21-una-postcard",
       "title": "Polygon painting based on the credited Commons photo. An Una River postcard view near Bihać.",
       "whereUsed": [
-        "Book 1 · Lesson 21 — Review"
+        "Book 1 · Lesson 21: Review"
       ],
       "author": "Julian Nyča",
       "source": "Wikimedia Commons",
@@ -1488,7 +1488,7 @@
       "id": "book1-day-21-weekend-map",
       "title": "Polygon painting of a map for weekend planning matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 21 — Review"
+        "Book 1 · Lesson 21: Review"
       ],
       "author": "Marcin Mikita",
       "source": "Wikimedia Commons",
@@ -1505,7 +1505,7 @@
       "id": "book1-day-22-civic-winding-road",
       "title": "Polygon painting of a winding mountain road matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 22 — Today in Travnik"
+        "Book 1 · Lesson 22: Today in Travnik"
       ],
       "author": "Holger.Ellgaard",
       "source": "Wikimedia Commons",
@@ -1522,7 +1522,7 @@
       "id": "book1-day-22-travnik-mosque",
       "title": "Polygon painting based on the credited Commons photo. A colorful mosque in Travnik old town.",
       "whereUsed": [
-        "Book 1 · Lesson 22 — Today in Travnik"
+        "Book 1 · Lesson 22: Today in Travnik"
       ],
       "author": "Christian Bickel",
       "source": "Wikimedia Commons",
@@ -1539,7 +1539,7 @@
       "id": "book1-day-22-travnik-street",
       "title": "Polygon painting of a Travnik old-town street matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 22 — Today in Travnik"
+        "Book 1 · Lesson 22: Today in Travnik"
       ],
       "author": "Julian Nyča",
       "source": "Wikimedia Commons",
@@ -1556,7 +1556,7 @@
       "id": "book1-day-22-travnik-tower",
       "title": "Polygon painting of Travnik fortress on the hill matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 22 — Today in Travnik"
+        "Book 1 · Lesson 22: Today in Travnik"
       ],
       "author": "Julian Nyča",
       "source": "Wikimedia Commons",
@@ -1573,7 +1573,7 @@
       "id": "book1-day-23-activity-cards",
       "title": "Polygon painting of cards on a table matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 23 — What do you do?"
+        "Book 1 · Lesson 23: What do you do?"
       ],
       "author": "No machine-readable author provided. FvS~commonswiki assumed (based on copyright claims).",
       "source": "Wikimedia Commons",
@@ -1590,7 +1590,7 @@
       "id": "book1-day-23-civic-eurovision-debt",
       "title": "Polygon painting of Vijećnica matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 23 — What do you do?"
+        "Book 1 · Lesson 23: What do you do?"
       ],
       "author": "Jovan Moravac",
       "source": "Wikimedia Commons",
@@ -1607,7 +1607,7 @@
       "id": "book1-day-23-daily-cafe",
       "title": "Polygon painting based on the credited Commons photo. A busy café where people talk about daily plans.",
       "whereUsed": [
-        "Book 1 · Lesson 23 — What do you do?"
+        "Book 1 · Lesson 23: What do you do?"
       ],
       "author": "Michał Huniewicz",
       "source": "Wikimedia Commons",
@@ -1624,7 +1624,7 @@
       "id": "book1-day-23-zenica-postcard",
       "title": "Polygon painting of Zenica matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 23 — What do you do?"
+        "Book 1 · Lesson 23: What do you do?"
       ],
       "author": "Multiple users. See History",
       "source": "Wikimedia Commons",
@@ -1641,7 +1641,7 @@
       "id": "book1-day-24-bjelasnica-ridge",
       "title": "Polygon painting of snowy Bjelašnica with ski runs and summit tower, matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 24 — Mountains and rivers"
+        "Book 1 · Lesson 24: Mountains and rivers"
       ],
       "author": "Xe0us at English Wikipedia",
       "source": "Wikimedia Commons",
@@ -1658,7 +1658,7 @@
       "id": "book1-day-24-civic-olympic-ski-gap",
       "title": "Polygon painting of the Jahorina resort base with hotels, cars, and rime-covered forest, matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 24 — Mountains and rivers"
+        "Book 1 · Lesson 24: Mountains and rivers"
       ],
       "author": "Micki",
       "source": "Wikimedia Commons",
@@ -1675,7 +1675,7 @@
       "id": "book1-day-24-jahorina-ski",
       "title": "Polygon painting of a yellow chairlift ascending a snowy Jahorina slope, matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 24 — Mountains and rivers"
+        "Book 1 · Lesson 24: Mountains and rivers"
       ],
       "author": "Vt211 at English Wikipedia",
       "source": "Wikimedia Commons",
@@ -1692,7 +1692,7 @@
       "id": "book1-day-24-una-river",
       "title": "Polygon painting of Štrbački buk waterfall on the Una, matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 24 — Mountains and rivers"
+        "Book 1 · Lesson 24: Mountains and rivers"
       ],
       "author": "Igorbeslic",
       "source": "Wikimedia Commons",
@@ -1709,7 +1709,7 @@
       "id": "book1-day-25-civic-jmbg",
       "title": "Polygon painting of the Sarajevo Parliamentary Assembly matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 25 — At the doctor"
+        "Book 1 · Lesson 25: At the doctor"
       ],
       "author": "Milan Suvajac",
       "source": "Wikimedia Commons",
@@ -1726,7 +1726,7 @@
       "id": "book1-day-25-clinic-door",
       "title": "Polygon painting of a clinic hospital entrance matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 25 — At the doctor"
+        "Book 1 · Lesson 25: At the doctor"
       ],
       "author": "Dietmar Rabich",
       "source": "Wikimedia Commons",
@@ -1743,7 +1743,7 @@
       "id": "book1-day-25-mrvica-vet",
       "title": "Polygon painting of a cat on a counter matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 25 — At the doctor"
+        "Book 1 · Lesson 25: At the doctor"
       ],
       "author": "Andy Li",
       "source": "Wikimedia Commons",
@@ -1760,7 +1760,7 @@
       "id": "book1-day-25-pharmacy-shelf",
       "title": "Polygon painting of an interior pharmacy with medicine shelves matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 25 — At the doctor"
+        "Book 1 · Lesson 25: At the doctor"
       ],
       "author": "Helge Klaus Rieder",
       "source": "Wikimedia Commons",
@@ -1777,7 +1777,7 @@
       "id": "book1-day-26-apartment-door",
       "title": "Polygon painting of a residential wooden door matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 26 — Housing"
+        "Book 1 · Lesson 26: Housing"
       ],
       "author": "Rajani Gairshail",
       "source": "Wikimedia Commons",
@@ -1794,7 +1794,7 @@
       "id": "book1-day-26-civic-returnee-pressure",
       "title": "Polygon painting of a destroyed house matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 26 — Housing"
+        "Book 1 · Lesson 26: Housing"
       ],
       "author": "Tony Hisgett from Birmingham, UK",
       "source": "Wikimedia Commons",
@@ -1811,7 +1811,7 @@
       "id": "book1-day-26-flat-kitchen",
       "title": "Polygon painting of a bright modern apartment kitchen matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 26 — Housing"
+        "Book 1 · Lesson 26: Housing"
       ],
       "author": "Shixart1985",
       "source": "Wikimedia Commons",
@@ -1828,7 +1828,7 @@
       "id": "book1-day-26-furniture-corner",
       "title": "Polygon painting based on the credited Commons photo. A furnished room corner.",
       "whereUsed": [
-        "Book 1 · Lesson 26 — Housing"
+        "Book 1 · Lesson 26: Housing"
       ],
       "author": "Whitepixels",
       "source": "Wikimedia Commons",
@@ -1845,7 +1845,7 @@
       "id": "book1-day-27-civic-rs-secession",
       "title": "Polygon painting based on the credited Commons photo. Institutional tension around entity challenges to state authority.",
       "whereUsed": [
-        "Book 1 · Lesson 27 — Work and school"
+        "Book 1 · Lesson 27: Work and school"
       ],
       "author": "Biljana Latinović2",
       "source": "Wikimedia Commons",
@@ -1862,7 +1862,7 @@
       "id": "book1-day-27-classroom-desk",
       "title": "Polygon painting of an empty classroom with desks matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 27 — Work and school"
+        "Book 1 · Lesson 27: Work and school"
       ],
       "author": "Dobrislava",
       "source": "Wikimedia Commons",
@@ -1879,7 +1879,7 @@
       "id": "book1-day-27-guide-badge",
       "title": "Polygon painting of the Turistički Info Centar facade in Trebinje matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 27 — Work and school"
+        "Book 1 · Lesson 27: Work and school"
       ],
       "author": "Mister No",
       "source": "Wikimedia Commons",
@@ -1896,7 +1896,7 @@
       "id": "book1-day-27-office-tram",
       "title": "Polygon painting based on the credited Commons photo. A tram commute toward work.",
       "whereUsed": [
-        "Book 1 · Lesson 27 — Work and school"
+        "Book 1 · Lesson 27: Work and school"
       ],
       "author": "xiquinhosilva",
       "source": "Wikimedia Commons",
@@ -1913,7 +1913,7 @@
       "id": "book1-day-28-civic-medjugorje",
       "title": "Polygon painting based on the credited Commons photo. A Međugorje hillside cross and pilgrimage path.",
       "whereUsed": [
-        "Book 1 · Lesson 28 — Mostar at last!"
+        "Book 1 · Lesson 28: Mostar at last!"
       ],
       "author": "Mariusz Musiał",
       "source": "Wikimedia Commons",
@@ -1930,7 +1930,7 @@
       "id": "book1-day-28-mostar-old-town",
       "title": "Polygon painting based on the credited Commons photo. Mostar old-town roofs and alleys.",
       "whereUsed": [
-        "Book 1 · Lesson 28 — Mostar at last!"
+        "Book 1 · Lesson 28: Mostar at last!"
       ],
       "author": "Ramirez",
       "source": "Wikimedia Commons",
@@ -1947,7 +1947,7 @@
       "id": "book1-day-28-neretva-green",
       "title": "Polygon painting based on the credited Commons photo. Green Neretva river water.",
       "whereUsed": [
-        "Book 1 · Lesson 28 — Mostar at last!"
+        "Book 1 · Lesson 28: Mostar at last!"
       ],
       "author": "Berthold Werner",
       "source": "Wikimedia Commons",
@@ -1964,7 +1964,7 @@
       "id": "book1-day-28-stari-most",
       "title": "Polygon painting based on the credited Commons photo. Stari Most over the Neretva in Mostar.",
       "whereUsed": [
-        "Book 1 · Lesson 28 — Mostar at last!"
+        "Book 1 · Lesson 28: Mostar at last!"
       ],
       "author": "Djani Behram",
       "source": "Wikimedia Commons",
@@ -1981,7 +1981,7 @@
       "id": "book1-day-29-civic-genocide-denial",
       "title": "Polygon painting based on the credited Commons photo. The Srebrenica memorial cemetery in solemn light.",
       "whereUsed": [
-        "Book 1 · Lesson 29 — Letters from Bosnia and Herzegovina"
+        "Book 1 · Lesson 29: Letters from Bosnia and Herzegovina"
       ],
       "author": "Michael Büker",
       "source": "Wikimedia Commons",
@@ -1998,7 +1998,7 @@
       "id": "book1-day-29-ferhadija-letter",
       "title": "Polygon painting based on the credited Commons photo. Letter writing near Ferhadija.",
       "whereUsed": [
-        "Book 1 · Lesson 29 — Letters from Bosnia and Herzegovina"
+        "Book 1 · Lesson 29: Letters from Bosnia and Herzegovina"
       ],
       "author": "Niegodzisie",
       "source": "Wikimedia Commons",
@@ -2015,7 +2015,7 @@
       "id": "book1-day-29-postcard-desk",
       "title": "Polygon painting based on the credited Commons photo. A postcard writing desk.",
       "whereUsed": [
-        "Book 1 · Lesson 29 — Letters from Bosnia and Herzegovina"
+        "Book 1 · Lesson 29: Letters from Bosnia and Herzegovina"
       ],
       "author": "George Goodwin Kilburne",
       "source": "Wikimedia Commons",
@@ -2032,7 +2032,7 @@
       "id": "book1-day-29-stamp-envelope",
       "title": "Polygon painting of a letter and envelope matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 29 — Letters from Bosnia and Herzegovina"
+        "Book 1 · Lesson 29: Letters from Bosnia and Herzegovina"
       ],
       "author": "Ansel Adams",
       "source": "Wikimedia Commons",
@@ -2049,7 +2049,7 @@
       "id": "book1-day-30-cake-heist",
       "title": "Polygon painting of a cat with a cake matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 30 — Graduation party"
+        "Book 1 · Lesson 30: Graduation party"
       ],
       "author": "AKA MBG",
       "source": "Wikimedia Commons",
@@ -2066,7 +2066,7 @@
       "id": "book1-day-30-civic-night-wolves",
       "title": "Polygon painting of Night Wolves motorcycles matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 30 — Graduation party"
+        "Book 1 · Lesson 30: Graduation party"
       ],
       "author": "The Presidential Press and Information Office",
       "source": "Wikimedia Commons",
@@ -2083,7 +2083,7 @@
       "id": "book1-day-30-friends-toast",
       "title": "Polygon painting based on the credited Commons photo. Friends toasting at the finale party.",
       "whereUsed": [
-        "Book 1 · Lesson 30 — Graduation party"
+        "Book 1 · Lesson 30: Graduation party"
       ],
       "author": "Rennett Stowe from USA",
       "source": "Wikimedia Commons",
@@ -2100,7 +2100,7 @@
       "id": "book1-day-30-party-table",
       "title": "Polygon painting of a birthday cake matching the Commons source photo.",
       "whereUsed": [
-        "Book 1 · Lesson 30 — Graduation party"
+        "Book 1 · Lesson 30: Graduation party"
       ],
       "author": "SuperSwift",
       "source": "Wikimedia Commons",

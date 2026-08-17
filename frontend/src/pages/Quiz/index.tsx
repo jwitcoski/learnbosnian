@@ -15,7 +15,7 @@ const QuizPage = () => {
   if (!canViewChapter(chapter)) {
     return (
       <LessonPage>
-        <Banner>Quiz unlocks when Lesson {day} is available.</Banner>
+        <Banner>This quiz opens when Lesson {day} is live.</Banner>
         <Link to="/learn">← Curriculum</Link>
       </LessonPage>
     );
@@ -27,7 +27,7 @@ const QuizPage = () => {
         <Link to={`/learn/lesson/${day}`}>← Lesson {day}</Link>
       </p>
       <h1>
-        Lesson {day} quiz — {chapter.title}
+        Lesson {day} quiz: {chapter.title}
       </h1>
       <SectionQuiz chapter={chapter} />
     </LessonPage>

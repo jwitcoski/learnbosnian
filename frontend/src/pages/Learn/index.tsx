@@ -21,16 +21,16 @@ const Learn = () => {
     <LessonPage>
       <h1>Book 1 curriculum</h1>
       <p>
-        Start with Lesson 0 (why Bosnian?), then follow Ana, Emir, Amira, and
-        Mrvica through Bosnia and Herzegovina. New chapters publish after human
-        review.
+        Start with Lesson 0 (Why Bosnian?). Then follow Ana, Emir, Amira, and
+        Mrvica across Bosnia and Herzegovina. New lessons go live after review.
       </p>
       <p>
-        Each section ends with a <strong>section test</strong>. After Lesson 30,
-        take the <strong>Book 1 final test</strong>.
+        Book 1 has Lesson 0 plus Lessons 1 to 30 in four sections. Each section
+        ends with a <strong>section test</strong>. After Lesson 30, take the{" "}
+        <strong>Book 1 final test</strong>.
       </p>
       <p>
-        <Link to="/dictionary">Mini-dictionary</Link>
+        <Link to="/dictionary">Dictionary</Link>
         {" · "}
         <Link to="/books">Book series</Link>
         {" · "}
@@ -81,7 +81,7 @@ const Learn = () => {
                       </div>
                       <div className="title">{c.title}</div>
                       <div className="theme">
-                        {open ? c.theme : `Coming soon · Lesson ${c.day}`}
+                        {open ? c.theme : `Lesson ${c.day} · coming soon`}
                       </div>
                     </>
                   );

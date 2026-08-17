@@ -1,10 +1,10 @@
 {
   "book": 2,
-  "title": "Learn Bosnian — Book 2: Go Further",
-  "titleBs": "Nauči bosanski — Knjiga 2",
-  "level": "A2–B1",
+  "title": "Learn Bosnian: Book 2, Go Further",
+  "titleBs": "Nauči bosanski: Knjiga 2",
+  "level": "A2 to B1",
   "status": "outline",
-  "summary": "Past and future storytelling, deeper cases, aspect pairs, and richer regional travel with Ana, Emir, Amira, and Mrvica.",
+  "summary": "A future book: past and future storytelling, more cases, aspect pairs, and wider travel with Ana, Emir, Amira, and Mrvica.",
   "themes": [
     "Past tense storytelling (perfekt) for trips and mishaps",
     "Future plans and invitations beyond present chunks",
@@ -13,5 +13,5 @@
     "Regions: Herzegovina, Krajina, central Bosnia",
     "Food, festivals, and workplace Bosnian"
   ],
-  "note": "Book 2 owns past-tense storytelling after Book 1 stays present-tense only. Full chapter list lands after Book 1 is published night-by-night."
+  "note": "Not started. Book 2 would pick up past tense after Book 1 stays present-tense only."
 }

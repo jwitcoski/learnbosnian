@@ -56,12 +56,12 @@ export default function ReviewDeck({ day, lessonVocab }: Props) {
     <div>
       <h2>Quick review</h2>
       <p style={{ color: "var(--color-muted)", marginTop: 0 }}>
-        A few words from this lesson plus earlier misses. Flip, then mark how it
-        went.
+        A few words from this lesson, plus ones you missed before. Flip the
+        card, then mark how it went.
       </p>
       {done ? (
         <p style={{ fontWeight: 700, color: "var(--color-sage)" }}>
-          Review round complete. Come back next lesson for more.
+          Round done. Come back next lesson for more.
         </p>
       ) : (
         <>

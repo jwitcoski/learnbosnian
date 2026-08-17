@@ -44,7 +44,7 @@ export const useForm = (validate: { (values: IValues): IValues }) => {
           notification["error"]({
             message: "Error",
             description:
-              "There was an error sending your message, please try again later.",
+              "We couldn’t send your message. Wait a moment and try again.",
           });
         } else {
           event.target.reset();
@@ -55,14 +55,14 @@ export const useForm = (validate: { (values: IValues): IValues }) => {
 
           notification["success"]({
             message: "Success",
-            description: "Your message has been sent!",
+            description: "Message sent. Thanks.",
           });
         }
       }
     } catch (error) {
       notification["error"]({
         message: "Error",
-        description: "Failed to submit form. Please try again later.",
+        description: "Something went wrong on submit. Try again in a moment.",
       });
     }
   };

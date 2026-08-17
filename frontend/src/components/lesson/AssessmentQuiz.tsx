@@ -21,7 +21,7 @@ export default function AssessmentQuiz({ assessment }: Props) {
   } | null>(null);
 
   if (!questions.length) {
-    return <p>This test is not ready yet.</p>;
+    return <p>This test is not ready yet. Check back after the lessons it covers are live.</p>;
   }
 
   const submit = () => {
@@ -176,8 +176,8 @@ export default function AssessmentQuiz({ assessment }: Props) {
             {result.passed
               ? `. ${
                   assessment.kind === "final"
-                    ? "Book 1 final passed!"
-                    : "Section test passed!"
+                    ? "Book 1 final passed."
+                    : "Section test passed."
                 }`
               : `. Need ${assessment.passPercent}% to pass.`}
           </p>

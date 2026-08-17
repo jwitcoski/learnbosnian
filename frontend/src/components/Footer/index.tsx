@@ -43,19 +43,19 @@ const Footer = () => {
             <Col lg={10} md={10} sm={12} xs={24}>
               <Language>Learn Bosnian</Language>
               <Para>
-                Book 1 with human-reviewed chapters. Latin script only.
+                Book 1 lessons, reviewed before they go live. Latin script only.
                 Culture, puzzles, and a cat named Mrvica.
               </Para>
               <a href="mailto:info@learnbosnian.com">
-                <Chat>Contact Us</Chat>
+                <Chat>Contact</Chat>
               </a>
             </Col>
             <Col lg={8} md={8} sm={12} xs={12}>
               <Title>Study</Title>
               <Large to="/learn">Curriculum</Large>
-              <Large to="/dictionary">Mini-dictionary</Large>
+              <Large to="/dictionary">Dictionary</Large>
               <Large to="/books">Book series</Large>
-              <Large to="/learn/lesson/0">Lesson 0 orientation</Large>
+              <Large to="/learn/lesson/0">Lesson 0</Large>
               <Large to="/attributions">Photo attributions</Large>
             </Col>
             <Col lg={6} md={6} sm={12} xs={12}>
@@ -71,7 +71,7 @@ const Footer = () => {
                 <Para>Books 2 &amp; 3 (coming)</Para>
               </Link>
               <Link to="/attributions">
-                <Para>Cite photos for print</Para>
+                <Para>Photo credits</Para>
               </Link>
             </Col>
           </Row>

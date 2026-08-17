@@ -46,9 +46,8 @@ const Attributions = () => {
         <h2>How to cite for the book</h2>
         <p>{data.citationNote}</p>
         <p>
-          This page is the running total. When you export Scribus or YouTube
-          packs, pull credits from here or from each chapter’s{" "}
-          <code>images[]</code> block.
+          This page is the master list. For Scribus or YouTube packs, take
+          credits from here or from each lesson’s image list.
         </p>
       </CiteBox>
 

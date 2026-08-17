@@ -1,16 +1,16 @@
 {
   "book": 3,
-  "title": "Learn Bosnian — Book 3: Speak with Confidence",
-  "titleBs": "Nauči bosanski — Knjiga 3",
-  "level": "B1–B2",
+  "title": "Learn Bosnian: Book 3, Speak with Confidence",
+  "titleBs": "Nauči bosanski: Knjiga 3",
+  "level": "B1 to B2",
   "status": "outline",
-  "summary": "Advanced conversation, writing, and cultural nuance. Grammar handbook style chapters plus long-form dialogues.",
+  "summary": "A future book: longer conversation, writing, and cultural detail, with handbook-style grammar lessons and longer dialogues.",
   "themes": [
     "Nuanced register (formal vs informal)",
     "Media Bosnian: news, podcasts, songs",
     "Essay and email writing",
     "Debate and opinion language",
-    "Capstone project: Ana’s year in BiH"
+    "Capstone project: Ana’s year in Bosnia and Herzegovina"
   ],
-  "note": "Teaser only until Books 1–2 are complete."
+  "note": "Outline only. Book 1 comes first; Books 2 and 3 are plans for later."
 }

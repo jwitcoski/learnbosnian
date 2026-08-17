@@ -227,18 +227,18 @@ export default function AuthenticListenPanel({ block }: Props) {
       <div style={{ margin: "0.75rem 0" }}>
         <PrimaryButton type="button" onClick={markHeard}>
           {heard
-            ? "Gist unlocked"
+            ? "Gist ready"
             : playerStarted
-            ? "I listened. Unlock gist"
-            : "Start the video, then unlock gist"}
+            ? "I listened. Show gist"
+            : "Start the video, then show the gist"}
         </PrimaryButton>
       </div>
 
       <p style={{ fontWeight: 600 }}>{block.listenTask.prompt}</p>
       {!heard && (
         <p style={{ color: "var(--color-muted)", fontSize: "0.95rem" }}>
-          Press play on the video above. After you have listened, unlock the
-          gist question.
+          Press play on the video above. After you have listened, show the gist
+          question.
         </p>
       )}
 
@@ -288,7 +288,7 @@ export default function AuthenticListenPanel({ block }: Props) {
             >
               {correct
                 ? "Correct"
-                : `Not quite. Aim for: ${gist.options[gist.correctIndex]}`}
+                : `Not quite. The better answer is: ${gist.options[gist.correctIndex]}`}
             </p>
           )}
         </div>
