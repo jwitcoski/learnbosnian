@@ -8,7 +8,7 @@
   "reviewedAt": null,
   "reviewerNotes": "Full draft to Lesson 1 exemplar bar. ready for human review before publish.",
   "estimatedMinutes": 60,
-  "storyBeat": "Amira’s café becomes HQ. Ana learns numbers 1. 20 and orders kahva while Mrvica steals the scene.",
+  "storyBeat": "Amira’s café becomes HQ. Ana learns numbers 1 to 20 and orders kahva while Mrvica steals the scene.",
   "learningGoals": {
     "vocabulary": [
       "Count from one to twenty",
@@ -141,16 +141,16 @@
   ],
   "grammar": [
     {
-      "title": "Numbers 1. 20",
-      "explanation": "Memorize the phrase shape. Leave the full table for later. Learn one through ten cold, then eleven through twenty as a chant. One is jedan. Two is dva. Three is tri. Four is četiri. Five is pet. Six is šest. Seven is sedam. Eight is osam. Nine is devet. Ten is deset. Then come jedanaest, dvanaest, trinaest, četrnaest, petnaest, šesnaest, sedamnaest, osamnaest, devetnaest, and dvadeset.",
+      "title": "Numbers 1 to 20",
+      "explanation": "Learn one through ten cold, then eleven through twenty as a chant. One is jedan. Two is dva. Three is tri. Four is četiri. Five is pet. Six is šest. Seven is sedam. Eight is osam. Nine is devet. Ten is deset. Then come jedanaest, dvanaest, trinaest, četrnaest, petnaest, šesnaest, sedamnaest, osamnaest, devetnaest, and dvadeset.",
       "examples": [
         {
           "bosnian": "jedan, dva, tri, četiri, pet",
-          "english": "1. 5"
+          "english": "1 to 5"
         },
         {
           "bosnian": "šest, sedam, osam, devet, deset",
-          "english": "6. 10"
+          "english": "6 to 10"
         },
         {
           "bosnian": "petnaest, dvadeset",
@@ -160,7 +160,7 @@
     },
     {
       "title": "Koliko?",
-      "explanation": "Take this as a speaking chunk. Do not memorize a case chart yet. Koliko? asks how many or how much. At a café you will hear Koliko košta? for how much does it cost, and Koliko fildžana? for how many cups. Answer with a number. Say Dva.",
+      "explanation": "Koliko? asks how many or how much. At a café you will hear Koliko košta? for how much does it cost, and Koliko fildžana? for how many cups. Answer with a number. Say Dva.",
       "examples": [
         {
           "bosnian": "Koliko?",
@@ -177,8 +177,8 @@
       ]
     },
     {
-      "title": "Ordering coffee. say it as a chunk",
-      "explanation": "Practice the whole expression before you worry about paradigms. For now, order with ready-made lines. Kahvu, molim means “Coffee, please” (kahvu is the form you hear when ordering). Jednu kahvu, molim = one coffee please. Dva fildžana, molim = two cups please. Do not worry about full case charts yet. memorize the café lines.",
+      "title": "Ordering coffee as a ready line",
+      "explanation": "Order with ready-made lines rather than building the sentence word by word. Kahvu, molim means “Coffee, please” (kahvu is the form you hear when ordering). Jednu kahvu, molim = one coffee please. Dva fildžana, molim = two cups please.",
       "examples": [
         {
           "bosnian": "Kahvu, molim.",
@@ -196,7 +196,7 @@
     }
   ],
   "culture": {
-    "title": "Kahva at Amira’s. slow on purpose",
+    "title": "Kahva at Amira’s. Slow on purpose",
     "body": "Bosnian coffee arrives in a džezva on a copper tray, with a small fildžan and often lokum. You pour, wait a moment for the grounds to settle, and talk. Rushing the cup is missing the point. Amira’s café becomes Ana and Emir’s HQ. Mrvica patrols the chairs and occasionally steals the scene.",
     "imageId": "kahva-amira"
   },
@@ -334,13 +334,13 @@
     {
       "id": "pr2",
       "prompt": "Write the Bosnian word for 4 (needs č).",
-      "hint": "include the special letter for č",
+      "hint": "Include the special letter for č",
       "answer": "četiri"
     },
     {
       "id": "pr3",
       "prompt": "Write the Bosnian word for 6 (needs š).",
-      "hint": "include the special letter for š",
+      "hint": "Include the special letter for š",
       "answer": "šest"
     },
     {
@@ -352,7 +352,7 @@
     {
       "id": "pr5",
       "prompt": "How do you say ‘coffee’ in this course’s Bosnian form?",
-      "hint": "Not kafa. the form with h",
+      "hint": "Not kafa. The form with h",
       "answer": "kahva"
     },
     {
@@ -370,7 +370,7 @@
     {
       "id": "pr8",
       "prompt": "Write the small coffee cup word (needs dž).",
-      "hint": "fildžan. use dž if your keyboard needs help, or type fildzan carefully. Preferred. Fildžan",
+      "hint": "Needs dž",
       "answer": "fildžan"
     }
   ],
@@ -737,7 +737,7 @@
   "imageBriefs": [],
   "civicContext": {
     "title": "A currency without normal monetary freedom",
-    "body": "Daily life in Bosnia and Herzegovina runs on a currency system that limits national monetary freedom by design. The convertible mark is managed through a currency-board arrangement tied to the euro. That setup helps keep prices more stable, but it also means the state cannot run flexible monetary policy the way many countries do. Café prices and wages therefore sit inside a postwar economic structure that traded policy freedom for stability.",
+    "body": "Daily life in Bosnia and Herzegovina runs on a currency system that limits national monetary freedom. The convertible mark is managed through a currency-board arrangement tied to the euro. That setup helps keep prices more stable, but it also means the state cannot run flexible monetary policy the way many countries do. Café prices and wages therefore sit inside a postwar economic structure that traded policy freedom for stability.",
     "imageId": "civic-cbbh",
     "learnMore": {
       "label": "Wikipedia. Bosnia and Herzegovina convertible mark",
@@ -774,7 +774,7 @@
         "kahva",
         "molim"
       ],
-      "noticePrompt": "Orders stay short. molim softens the ask."
+      "noticePrompt": "Orders stay short. Molim softens the ask."
     },
     "reveal": {
       "keyLines": [
