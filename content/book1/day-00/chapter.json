@@ -3,10 +3,10 @@
   "book": 1,
   "title": "Zašto bosanski?",
   "titleEn": "Why Bosnian?",
-  "theme": "Orientation. what Bosnian is and who this course is for",
+  "theme": "Orientation. What Bosnian is and who this course is for",
   "status": "published",
   "reviewedAt": "2026-08-05",
-  "reviewerNotes": "Published for live preview. Orientation chapter. comparative notes intentional on Lesson 0 only.",
+  "reviewerNotes": "Published for live preview. Orientation chapter. Comparative notes intentional on Lesson 0 only.",
   "estimatedMinutes": 35,
   "storyBeat": "Before Ana lands in Sarajevo, we pause for a clear map. What Bosnian is, where the name comes from, how it relates to neighboring standards, who speaks it, and who these lessons are for.",
   "learningGoals": {
@@ -15,11 +15,11 @@
       "Meet the cast names Ana, Emir, Amira, and Mrvica"
     ],
     "grammar": [
-      "Know that Book 1 teaches ready phrases and present-tense chunks rather than full case tables or conjugation charts.",
+      "Know that Book 1 teaches ready phrases in the present tense rather than full case tables or conjugation charts.",
       "Use Latin script only from Lesson 1 onward. This course never teaches Cyrillic."
     ],
     "culture": [
-      "Understand why learn Bosnian specifically",
+      "Understand why this course teaches Bosnian specifically",
       "Learn the etymology and origin of the name bosanski",
       "See how Bosnian relates to Croatian and Serbian, then stay Bosnian-focused",
       "Know who speaks Bosnian, and who this course is written for"
@@ -114,11 +114,11 @@
     },
     {
       "title": "Book 1 teaches phrases rather than full grammar tables",
-      "explanation": "Bosnian grammar is real and complicated. Cases, endings, and long verb charts can overwhelm beginners. Book 1 does not teach that full system. You learn ready phrases and present-tense chunks you can say today. Order coffee, ask the time, introduce yourself, stay polite. Grammar labels appear only to help you notice a useful pattern. Full paradigms and past-tense storytelling wait for Book 2.",
+      "explanation": "Bosnian grammar is real and complicated. Cases, endings, and long verb charts can overwhelm beginners. Book 1 does not teach that full system. You learn ready phrases in the present tense that you can say today. Order coffee, ask the time, introduce yourself, stay polite. Grammar labels appear only to help you notice a useful pattern. Full case tables and past-tense storytelling wait for Book 2.",
       "examples": [
         {
           "bosnian": "Kahvu, molim.",
-          "english": "Coffee, please. (a ready chunk)"
+          "english": "Coffee, please. (a ready phrase)"
         },
         {
           "bosnian": "Ja sam Ana.",
@@ -128,7 +128,7 @@
     },
     {
       "title": "Close neighbors, separate standards",
-      "explanation": "Bosnian, Croatian, and Serbian share a common South Slavic dialect base (Štokavian) and are largely mutually intelligible. They are separate standard languages with their own norms, preferred words, and cultural identities. This course teaches standard Bosnian as used in Bosnia and Herzegovina. After today, we will not add “also in Croatian…” sidebars. we stay in Bosnian.",
+      "explanation": "Bosnian, Croatian, and Serbian share a common South Slavic dialect base (Štokavian) and are largely mutually intelligible. They are separate standard languages with their own norms, preferred words, and cultural identities. This course teaches standard Bosnian as used in Bosnia and Herzegovina. After today, we will not add “also in Croatian…” sidebars. We stay in Bosnian.",
       "examples": [
         {
           "bosnian": "kahva",
@@ -142,7 +142,7 @@
     }
   ],
   "culture": {
-    "title": "A language of a whole country. not only one city",
+    "title": "A language of a whole country. Not only one city",
     "body": "Bosnian (bosanski) is a South Slavic language and one of the official languages of Bosnia and Herzegovina (Bosna i Hercegovina / BiH). The name comes from the historic region of Bosnia. People have used forms of this name for the speech of the land for centuries. In the 1990s, after independence, Bosnian was codified as a modern standard with spelling and grammar guides, alongside Croatian and Serbian as official languages of Bosnia and Herzegovina. Speakers often understand one another across those standards, but names matter. Calling the language Bosnian honors the country’s identity and the forms you will hear from the mountains to the Neretva, in Mostar, Travnik, Banja Luka, Sarajevo, and beyond. Book 1 starts Ana’s story in Sarajevo, but Lesson 0 is about the whole map.",
     "imageId": "mostar-neretva"
   },
@@ -168,7 +168,7 @@
     {
       "id": "c",
       "title": "Lesson C. Why learn Bosnian, and who these lessons are for",
-      "body": "Why Bosnian? Because you care about this place and these people. You may visit Bosnia and Herzegovina for a short stay, begin an expat year, have family or partners with roots here, reclaim a home language from diaspora, or refuse a vague Balkans label. Book 1 is a tourist and early-expat survival path. Order food, find your way, talk about weather and rooms, meet people politely, and stay in the present tense. Bosnian grammar (cases, endings, long charts) is rich and complicated, so Book 1 does not teach that full system yet. You learn ready phrases and present-tense chunks you can use this week. This course is for absolute beginners and false beginners who read English. It fits adults and older teens who can spend about an hour a day with Latin-script Bosnian only. It is not a linguistics degree, a three-language comparative grammar, a Cyrillic course, or an A2 storytelling course. Past-tense stories and deeper grammar wait for Book 2. Lesson 0 is your map. Lesson 1 is your first step onto the stone streets of Baščaršija.",
+      "body": "Why Bosnian? Because you care about this place and these people. You may visit Bosnia and Herzegovina for a short stay, move here for work, have family or partners with roots in the country, reclaim a home language from diaspora, or simply refuse a vague Balkans label. Book 1 is a survival path for travelers and newcomers. You will order food, find your way, talk about weather and rooms, meet people politely, and stay in the present tense. Bosnian grammar (cases, endings, long charts) is rich and complicated, so Book 1 does not teach that full system yet. You learn ready phrases you can use this week. This course is for absolute beginners and false beginners who read English. It fits adults and older teens who can spend about an hour a day with Latin-script Bosnian only. It is not a linguistics degree, a three-language comparative grammar, a Cyrillic course, or an A2 storytelling course. Past-tense stories and deeper grammar wait for Book 2. Lesson 0 is your map. Lesson 1 is your first step onto the stone streets of Baščaršija.",
       "tips": [
         "If you can read this page in English, you are in the right audience.",
         "Expect phrases you can say rather than case tables to memorize.",
@@ -178,7 +178,7 @@
   ],
   "conversation": {
     "title": "A preview on the plane",
-    "setting": "Ana’s flight to Sarajevo. She reads a small orientation card. Emir will meet her tomorrow. for now, the narrator sets the frame.",
+    "setting": "Ana’s flight to Sarajevo. She reads a small orientation card while Emir waits to meet her tomorrow. For now, the narrator sets the scene.",
     "lines": [
       {
         "speaker": "Narrator",
@@ -298,7 +298,7 @@
     {
       "id": "pr5",
       "prompt": "Which script does this course teach. Latin or cyrillic?",
-      "hint": "One word. latin",
+      "hint": "One word. Latin",
       "answer": "latin"
     },
     {
@@ -329,7 +329,7 @@
     },
     {
       "title": "Why we skip Cyrillic here",
-      "body": "Less split attention. Master Latin Bosnian first. You can explore other scripts later if you want."
+      "body": "Official Bosnian can be written in Cyrillic as well as Latin, but this course teaches Latin only so you can focus your attention in one place. Master Latin Bosnian first. You can always explore Cyrillic later if you want."
     },
     {
       "title": "Why we skip the big grammar table",
@@ -340,7 +340,7 @@
     {
       "label": "How to speak Bosnian (YouTube)",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion videos after human review"
+      "note": "Companion video for this lesson"
     },
     {
       "label": "Lesson 1. Zdravo, Sarajevo!",
@@ -367,7 +367,7 @@
           "Cyrillic handwriting only"
         ],
         "correctIndex": 1,
-        "explanation": "Bosanski is Bosnian. the language (and adjective) this course teaches.",
+        "explanation": "Bosanski is Bosnian. The language (and adjective) this course teaches.",
         "skill": "culture"
       },
       {
@@ -389,7 +389,7 @@
         "options": [
           "Identical in every word, so labels do not matter",
           "Unrelated languages with zero overlap",
-          "Closely related, largely mutually intelligible standards. we teach Bosnian forms and stay Bosnian-focused after Lesson 0",
+          "Closely related, largely mutually intelligible standards. We teach Bosnian forms and stay Bosnian-focused after Lesson 0",
           "We will memorize three parallel columns every day"
         ],
         "correctIndex": 2,
@@ -403,7 +403,7 @@
           "Only characters in fiction",
           "People in and from Bosnia and Herzegovina (and diaspora communities), as an official language of Bosnia and Herzegovina",
           "Only medieval scribes",
-          "Nobody. it was replaced in 1990"
+          "Nobody. It was replaced in 1990"
         ],
         "correctIndex": 1,
         "explanation": "Bosnian is an official language of Bosnia and Herzegovina and is spoken in the country and in diaspora communities.",
@@ -432,7 +432,7 @@
           "Arabic script"
         ],
         "correctIndex": 1,
-        "explanation": "Latin script only. a deliberate choice to keep the path clear.",
+        "explanation": "Latin script only. A deliberate choice to keep the path clear.",
         "skill": "culture"
       },
       {
@@ -466,12 +466,12 @@
         "question": "How does Book 1 handle Bosnian grammar?",
         "options": [
           "Full case tables and conjugation charts from Lesson 1",
-          "Ready phrases and present-tense chunks you can say today. Deeper grammar waits for Book 2",
+          "Ready phrases you can say today. Deeper grammar waits for Book 2",
           "Only linguistics theory with no speaking practice",
           "Three parallel language columns every day"
         ],
         "correctIndex": 1,
-        "explanation": "Bosnian grammar is complicated, so Book 1 teaches usable phrases first. Full paradigms and past tense wait for Book 2.",
+        "explanation": "Bosnian grammar is complicated, so Book 1 teaches usable phrases first. Full case tables and past tense wait for Book 2.",
         "skill": "grammar"
       }
     ]

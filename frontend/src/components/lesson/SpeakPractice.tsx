@@ -71,7 +71,9 @@ export default function SpeakPractice({
     setBlob(null);
     try {
       if (!navigator.mediaDevices?.getUserMedia) {
-        throw new Error("Microphone not available in this browser.");
+        throw new Error(
+          "This browser can’t use your microphone. Try Chrome or Safari, or check site permissions."
+        );
       }
       const stream = await navigator.mediaDevices.getUserMedia({
         audio: {
@@ -149,7 +151,7 @@ export default function SpeakPractice({
       setError(
         err instanceof Error
           ? err.message
-          : "Speak check is unavailable right now. Compare with the teacher audio."
+          : "Speak Check is unavailable right now. Listen to the teacher audio and compare by ear."
       );
     } finally {
       setBusy(false);
@@ -225,8 +227,8 @@ export default function SpeakPractice({
             {busy
               ? "Checking…"
               : attemptsLeft > 0
-              ? `AI check (${attemptsLeft} left)`
-              : "AI checks used"}
+              ? `Speak Check (${attemptsLeft} left)`
+              : "Speak Check used up"}
           </PrimaryButton>
         )}
       </div>
@@ -258,16 +260,6 @@ export default function SpeakPractice({
               {feedback.encourage}
             </p>
           )}
-          <p
-            style={{
-              marginTop: "0.5rem",
-              fontSize: "0.75rem",
-              color: "var(--color-muted)",
-            }}
-          >
-            Heard via Amazon Transcribe (bs-BA); coaching from Amazon Bedrock
-            (Nova).
-          </p>
         </div>
       )}
       {aiEnabled && !feedback && (
@@ -278,7 +270,7 @@ export default function SpeakPractice({
             color: "var(--color-muted)",
           }}
         >
-          AI check: your take → S3 → Amazon Transcribe → Amazon Bedrock.
+          Speak Check listens to your recording and sends back short tips.
         </p>
       )}
     </div>

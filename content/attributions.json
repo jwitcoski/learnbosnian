@@ -1,6 +1,6 @@
 {
   "title": "Photo attributions",
-  "intro": "Running register of every photo used on the site and in Book 1. Use this list when citing images for print, Scribus export, or YouTube descriptions. Chapter images are harvested automatically from each chapter.json; homepage and other site assets are listed here by hand.",
+  "intro": "Every photo used on the site and in Book 1, listed for citation. Use this when you credit images for print, Scribus export, or YouTube. Lesson images come from each lesson file; homepage photos are added by hand.",
   "citationNote": "For Creative Commons works, credit the author, note the license, and link to the source page. For Pexels, credit the photographer and Pexels. Derivative treatments (polygon paint, background removal) still require attribution of the source photo.",
   "entries": [
     {
@@ -47,51 +47,63 @@
     },
     {
       "id": "book1-day-00-mostar-neretva",
-      "notes": "Lesson 0 full-bleed polygon paint treatment of the source photo."
+      "notes": "Lesson 0 full-bleed polygon paint treatment of the source photo.",
+      "whereUsed": []
     },
     {
       "id": "book1-day-01-bascarsija",
-      "notes": "Lesson 1 full-bleed polygon paint treatment of the source photo."
+      "notes": "Lesson 1 full-bleed polygon paint treatment of the source photo.",
+      "whereUsed": []
     },
     {
       "id": "book1-day-01-sebilj",
-      "notes": "Lesson 1 full-bleed polygon paint treatment of the source photo."
+      "notes": "Lesson 1 full-bleed polygon paint treatment of the source photo.",
+      "whereUsed": []
     },
     {
       "id": "book1-day-02-sebilj-square",
-      "notes": "Lesson 2 full-bleed polygon paint treatment of the source photo."
+      "notes": "Lesson 2 full-bleed polygon paint treatment of the source photo.",
+      "whereUsed": []
     },
     {
       "id": "book1-day-03-kahva-amira",
-      "notes": "Lesson 3 full-bleed polygon paint treatment of the source photo."
+      "notes": "Lesson 3 full-bleed polygon paint treatment of the source photo.",
+      "whereUsed": []
     },
     {
       "id": "book1-day-00-stari-most",
-      "notes": "Lesson 0 full-bleed polygon paint treatment of the source photo."
+      "notes": "Lesson 0 full-bleed polygon paint treatment of the source photo.",
+      "whereUsed": []
     },
     {
       "id": "book1-day-00-mostar-panorama",
-      "notes": "Lesson 0 full-bleed polygon paint treatment of the source photo."
+      "notes": "Lesson 0 full-bleed polygon paint treatment of the source photo.",
+      "whereUsed": []
     },
     {
       "id": "book1-day-01-gazi-mosque",
-      "notes": "Lesson 1 full-bleed polygon paint treatment of the source photo."
+      "notes": "Lesson 1 full-bleed polygon paint treatment of the source photo.",
+      "whereUsed": []
     },
     {
       "id": "book1-day-02-sebilj-close",
-      "notes": "Lesson 2 full-bleed polygon paint treatment of the source photo."
+      "notes": "Lesson 2 full-bleed polygon paint treatment of the source photo.",
+      "whereUsed": []
     },
     {
       "id": "book1-day-02-bascarsija-street",
-      "notes": "Lesson 2 full-bleed polygon paint treatment of the source photo."
+      "notes": "Lesson 2 full-bleed polygon paint treatment of the source photo.",
+      "whereUsed": []
     },
     {
       "id": "book1-day-03-coffee-set",
-      "notes": "Lesson 3 full-bleed polygon paint treatment of the source photo."
+      "notes": "Lesson 3 full-bleed polygon paint treatment of the source photo.",
+      "whereUsed": []
     },
     {
       "id": "book1-day-03-lokum",
-      "notes": "Lesson 3 full-bleed polygon paint treatment of the source photo."
+      "notes": "Lesson 3 full-bleed polygon paint treatment of the source photo.",
+      "whereUsed": []
     }
   ]
 }

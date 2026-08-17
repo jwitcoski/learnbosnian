@@ -46,7 +46,7 @@ export default function CanDoChecklist({ items }: Props) {
       </ul>
       {allDone ? (
         <p style={{ fontWeight: 700, color: "var(--color-sage)" }}>
-          Nice. You claimed this lesson’s can-dos.
+          Nice. You marked every can-do for this lesson.
         </p>
       ) : (
         <PrimaryButton

@@ -17,8 +17,8 @@ const DayPage = () => {
     return (
       <LessonPage>
         <Banner>
-          Lesson {chapter.day} — <strong>{chapter.title}</strong> is coming soon.
-          Status: {chapter.status}.
+          Lesson {chapter.day} (<strong>{chapter.title}</strong>) is not live
+          yet.
         </Banner>
         <p>{chapter.theme}</p>
         <p>{chapter.storyBeat}</p>

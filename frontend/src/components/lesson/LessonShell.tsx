@@ -167,8 +167,8 @@ export default function LessonShell({ chapter }: Props) {
           <SectionDivider />
           <h2>Watch the companion video</h2>
           <p style={{ color: "var(--color-muted)", marginTop: 0 }}>
-            Start here when you can. Then return for words, dialogue, and
-            practice on this page.
+            Watch when you can, then come back for words, dialogue, and practice
+            on this page.
           </p>
           <p>
             <a href={videoResource.url} target="_blank" rel="noreferrer">
@@ -196,7 +196,8 @@ export default function LessonShell({ chapter }: Props) {
       <Panel id="vocab">
         <h2>Lesson vocabulary</h2>
         <p style={{ color: "var(--color-muted)", marginTop: 0 }}>
-          Tap any word to hear it. Loop and slow speed help with shadowing.
+          Tap a word to hear it. Use Loop and slower speed when you want to
+          shadow.
         </p>
         <div
           style={{
@@ -324,8 +325,8 @@ export default function LessonShell({ chapter }: Props) {
             {chapter.conversation.setting}
           </p>
           <p style={{ color: "var(--color-muted)" }}>
-            Play the full scene once (cover the English with your hand if you
-            can), then tap individual lines. Use Speak on the highlighted lines.
+            Play the full scene once. Cover the English if you can. Then tap
+            lines one by one. Use Speak on the highlighted lines.
           </p>
           <div
             style={{
@@ -476,7 +477,7 @@ export default function LessonShell({ chapter }: Props) {
       {chapter.puzzles[1] && (
         <Panel id="game">
           <SectionDivider />
-          <h2>More practice: game</h2>
+          <h2>Practice game</h2>
           <PuzzleGame puzzle={chapter.puzzles[1]} />
         </Panel>
       )}
@@ -496,7 +497,7 @@ export default function LessonShell({ chapter }: Props) {
       {chapter.resources?.length > 0 && (
         <Panel id="resources">
           <SectionDivider />
-          <h2>Additional resources</h2>
+          <h2>More resources</h2>
           <GoalList>
             {chapter.resources.map((r) => (
               <li key={r.url}>
@@ -514,7 +515,7 @@ export default function LessonShell({ chapter }: Props) {
         <SectionDivider />
         <h2>Lesson quiz</h2>
         <p>
-          Or open the dedicated quiz page:{" "}
+          Or open the full-page quiz:{" "}
           <Link to={`/quiz/lesson/${chapter.day}`}>
             Lesson {chapter.day} quiz
           </Link>

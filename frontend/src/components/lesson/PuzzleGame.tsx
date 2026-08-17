@@ -21,7 +21,7 @@ function ItemFeedback({
         color: ok ? "var(--color-sage)" : "var(--color-crimson)",
       }}
     >
-      {ok ? "Correct" : correctLabel ? `Incorrect — ${correctLabel}` : "Incorrect"}
+      {ok ? "Correct" : correctLabel ? `Incorrect. ${correctLabel}` : "Incorrect"}
     </p>
   );
 }
@@ -82,7 +82,7 @@ export default function PuzzleGame({ puzzle }: Props) {
                     : undefined,
                 }}
               >
-                <option value="">— choose —</option>
+                <option value="">Choose…</option>
                 {rights.map((r) => (
                   <option key={r} value={r}>
                     {r}
@@ -212,7 +212,7 @@ export default function PuzzleGame({ puzzle }: Props) {
                     : undefined,
                 }}
               >
-                <option value="">— choose —</option>
+                <option value="">Choose…</option>
                 <option value="true">True</option>
                 <option value="false">False</option>
               </select>

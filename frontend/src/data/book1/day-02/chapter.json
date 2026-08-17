@@ -6,7 +6,7 @@
   "theme": "Meeting Emir at Sebilj",
   "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "Full draft to Lesson 1 exemplar bar. ready for human review before publish.",
+  "reviewerNotes": "Full draft to Lesson 1 exemplar bar. Ready for human review before publish.",
   "estimatedMinutes": 60,
   "storyBeat": "Ana meets Emir at the Sebilj fountain and learns to introduce herself.",
   "learningGoals": {
@@ -127,8 +127,8 @@
   ],
   "grammar": [
     {
-      "title": "biti. sam, si, je",
-      "explanation": "Hold this as a spoken pattern. Do not treat it as a grammar grid. The verb biti means to be. Beginners live on three short forms. Say ja sam for I am. Say ti si for you are. Say on je or ona je for he is or she is. Put the pronoun first when you want clarity. Say Ja sam Ana.",
+      "title": "biti. Sam, si, je",
+      "explanation": "The verb biti means to be. Beginners live on three short forms. Say ja sam for I am. Say ti si for you are. Say on je or ona je for he is or she is. Put the pronoun first when you want clarity, as in Ja sam Ana.",
       "examples": [
         {
           "bosnian": "Ja sam Ana.",
@@ -150,7 +150,7 @@
     },
     {
       "title": "Two ways to introduce yourself",
-      "explanation": "Learn the usable chunk first. Full tables can wait. Ja sam Ana states identity with biti. Zovem se Ana means “I am called Ana / my name is Ana.” Both are natural. For “nice to meet you,” say Drago mi je. literally “it is dear to me.”",
+      "explanation": "Ja sam Ana states identity with biti. Zovem se Ana means “I am called Ana” or “my name is Ana.” Both are natural. For “nice to meet you,” say Drago mi je, which literally means “it is dear to me.”",
       "examples": [
         {
           "bosnian": "Zovem se Ana.",
@@ -167,8 +167,8 @@
       ]
     },
     {
-      "title": "iz. saying where you are from",
-      "explanation": "Keep this as a sayable line rather than a paradigm list. Use iz plus a place for origin. Say Ja sam iz Amerike. Say Emir je iz Sarajeva. You do not need full case tables yet.",
+      "title": "iz. Saying where you are from",
+      "explanation": "Use iz plus a place for origin. Say Ja sam iz Amerike. Say Emir je iz Sarajeva.",
       "examples": [
         {
           "bosnian": "Ja sam iz Amerike.",
@@ -186,7 +186,7 @@
     }
   ],
   "culture": {
-    "title": "Sebilj. where people meet",
+    "title": "Sebilj. Where people meet",
     "body": "The Sebilj is a wooden fountain in the middle of Baščaršija’s main square. Locals and visitors use it as a landmark: “Kod Sebilja” means meet me at the fountain. Pigeons gather, photos happen, and first hellos often start here. Emir waits for Ana at Sebilj. A classic Sarajevo rendezvous.",
     "imageId": "sebilj-square"
   },
@@ -203,7 +203,7 @@
     {
       "id": "b",
       "title": "Lesson B. Meeting Emir",
-      "body": "At Sebilj, Ana needs a meeting script. Start with a greeting from Lesson 1, such as Zdravo! or Dobar dan! Then say Zovem se Ana. Or say Ja sam Ana. Add origin if you want with Ja sam iz Amerike. When Emir answers, reply Drago mi je! Listen for On je Emir, Ja sam Emir, or Zovem se Emir. All of those are fine. End with a smile and maybe Hvala when he offers help. Tomorrow you will drink kahva with Amira. In this lesson you only need to be Ana.",
+      "body": "At Sebilj, Ana needs a meeting script. Start with a greeting from Lesson 1, such as Zdravo! Or Dobar dan! Then say Zovem se Ana. Or say Ja sam Ana. Add origin if you want with Ja sam iz Amerike. When Emir answers, reply Drago mi je! Listen for On je Emir, Ja sam Emir, or Zovem se Emir. All of those are fine. End with a smile and maybe Hvala when he offers help. Tomorrow you will drink kahva with Amira. In this lesson you only need to be Ana.",
       "tips": [
         "Meeting order is Zdravo, then Ja sam or Zovem se, then Drago mi je.",
         "Reuse Lesson 1 greetings. Do not invent new ones yet."
@@ -289,7 +289,7 @@
       "id": "p2",
       "type": "scramble",
       "title": "Unscramble the introductions",
-      "prompt": "Unscramble to make today’s phrases (spaces ignored in checking. type the full phrase).",
+      "prompt": "Unscramble to make today’s phrases (spaces ignored in checking. Type the full phrase).",
       "items": [
         {
           "scrambled": "sam ja Ana",
@@ -357,11 +357,11 @@
     },
     {
       "title": "sam / si / je are clitics",
-      "body": "The short biti forms sam, si, and je behave like little grammar hitchhikers. In longer sentences they often like the second position. Beginners do not need the full theory on day one. For now, keep clear Ja sam patterns and let fluency grow later."
+      "body": "The short biti forms sam, si, and je act like little grammar hitchhikers. In longer sentences they usually land in second position, right after the first word. Beginners do not need the full theory on day one. For now, keep your Ja sam patterns clear and let the rest come with practice."
     },
     {
       "title": "Drago mi je is warm rather than stiff",
-      "body": "Drago mi je is the standard way to say nice to meet you. It sounds warm in cafés, offices, and first introductions. Ana and Emir use it because real meetings need more than a name. Learn it as a ready chunk, then say it like you mean the welcome."
+      "body": "Drago mi je is the standard way to say nice to meet you. It sounds warm in cafés, offices, and first introductions. Ana and Emir use it because real meetings need more than a name. Learn it as one ready phrase, then say it like you mean the welcome."
     },
     {
       "title": "Pigeons optional, rendezvous required",
@@ -662,7 +662,7 @@
     },
     "durationHint": "45–60 seconds",
     "listenTask": {
-      "prompt": "Listen for the chunk Ja sam…",
+      "prompt": "Listen for Ja sam…",
       "gistQuestion": {
         "prompt": "What is the speaker teaching?",
         "options": [
@@ -701,7 +701,7 @@
   "section": 1,
   "sayAgain": {
     "title": "Say again",
-    "intro": "Warm up with four frames you already know.",
+    "intro": "Warm up with four lines you already know.",
     "lines": [
       {
         "bosnian": "Dobar dan!",

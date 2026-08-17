@@ -13,10 +13,10 @@
     "vocabulary": [
       "Name stan, soba, kirija, and namještaj for a rental visit.",
       "Use može and moraš as present permission and obligation chunks.",
-      "Ask Koliko je kirija? and talk about a monthly stay."
+      "Ask Koliko je kirija? And talk about a monthly stay."
     ],
     "grammar": [
-      "Use Može? and Može. as quick permission lines.",
+      "Use Može? And Može. As quick permission lines.",
       "Say moraš with rent and contract nouns in the present.",
       "Describe a flat with ima and soba phrases."
     ],
@@ -129,7 +129,7 @@
   "grammar": [
     {
       "title": "Može permission chunks",
-      "explanation": "Learn this as a full phrase. Do not treat it as a table. Može? asks if something is allowed. Može. answers yes in one calm word. Ne može. refuses without a tense chart. Pair the chunk with ulazite or sjedite when you visit a flat.",
+      "explanation": "Može? Asks if something is allowed. Može. Answers yes in one calm word. Ne može. Refuses without a tense chart. Pair the chunk with ulazite or sjedite when you visit a flat.",
       "examples": [
         {
           "bosnian": "Može? Mogu pogledati stan?",
@@ -147,7 +147,7 @@
     },
     {
       "title": "Moraš obligation lines",
-      "explanation": "Hold this as a spoken pattern. Do not treat it as a grammar grid. Moraš tells one person what they must do now. Add platiti kiriju or imati ugovor right after the chunk. Stay in the present so the landlord talk stays practical.",
+      "explanation": "Moraš tells one person what they must do now. Add platiti kiriju or imati ugovor right after the chunk. Stay in the present so the landlord talk stays practical.",
       "examples": [
         {
           "bosnian": "Moraš platiti kiriju.",
@@ -165,7 +165,7 @@
     },
     {
       "title": "Rent question shape",
-      "explanation": "Take this as a speaking chunk. Do not memorize a case chart yet. Ask Koliko je kirija? when you stand in the hallway. Answer Kirija je mjesečno. Add a number later. The question shape matters more than every case ending today.",
+      "explanation": "Ask Koliko je kirija? When you stand in the hallway. Answer Kirija je mjesečno. Add a number later. The question shape matters more than every case ending today.",
       "examples": [
         {
           "bosnian": "Koliko je kirija?",
@@ -191,9 +191,9 @@
     {
       "id": "a",
       "title": "Lesson A. Permission and rent questions",
-      "body": "Start with stan, soba, and kirija so the hallway has real nouns before you step inside. Practice Može? Mogu pogledati stan? until the permission chunk sounds natural at a closed door. Ask Koliko je kirija? while you still wear your shoes in the corridor. Add kuhinja and kupatilo as you walk through each room. Ana repeats mjesečno with the landlord while Emir counts windows and checks the light. Keep može and moraš as spoken lines rather than a modal verb table. Point at namještaj in the corner and say ima mali sto. Reuse molim when you enter and hvala when you leave each room. Say each rent question twice, then thank the landlord with hvala before you step back into the stairwell.",
+      "body": "Start with stan, soba, and kirija so the hallway has real nouns before you step inside. Practice Može? Mogu pogledati stan? Until the permission chunk sounds natural at a closed door. Ask Koliko je kirija? While you still wear your shoes in the corridor. Add kuhinja and kupatilo as you walk through each room. Ana repeats mjesečno with the landlord while Emir counts windows and checks the light. Keep može and moraš as spoken lines rather than a modal verb table. Point at namještaj in the corner and say ima mali sto. Reuse molim when you enter and hvala when you leave each room. Say each rent question twice, then thank the landlord with hvala before you step back into the stairwell.",
       "tips": [
-        "Keep Može? and the follow-up question in one breath.",
+        "Keep Može? And the follow-up question in one breath.",
         "Pair kirija with mjesečno when you talk about monthly pay.",
         "Stay in the present even when you plan a longer stay."
       ]
@@ -201,7 +201,7 @@
     {
       "id": "b",
       "title": "Lesson B. Almost signing the lease",
-      "body": "Move from the tour to the table where an ugovor waits beside a pen. Say Moraš platiti kiriju when the landlord explains house rules in plain language. Describe namještaj with ima and lijep when you point at the sofa corner. Amira asks about ključ and Ana says Želim iznajmiti stan for three months. Emir checks that kuhinja i kupatilo su čisti before he nods toward the balcony. Reuse molim and hvala with the landlord so the scene stays polite end to end. Practice a short chain aloud. Permission, rent, room names, obligation, thanks, and one calm goodbye at the door. Repeat the chain until signing feels possible even if you still need one night to decide.",
+      "body": "Move from the tour to the table where an ugovor waits beside a pen. Say Moraš platiti kiriju when the landlord explains house rules in plain language. Describe namještaj with ima and lijep when you point at the sofa corner. Amira asks about ključ and Ana says Želim iznajmiti stan for three months. Emir checks that kuhinja i kupatilo su čisti before he nods toward the balcony. Reuse molim and hvala with the landlord so the scene stays polite end to end. Try saying the whole visit as one chain out loud. Ask permission, ask about rent, name a room, hear the obligation, say thanks, and give a calm goodbye at the door. Repeat it until signing feels possible, even if you still want one more night to decide.",
       "tips": [
         "Reuse Imam from earlier lessons when you claim a favorite room.",
         "Say namještaj slowly. It is a long but useful word.",
@@ -291,7 +291,7 @@
       "prompt": "Decide whether each sentence matches the lesson.",
       "items": [
         {
-          "statement": "Može. Ulazite. means yes, come in.",
+          "statement": "Može. Ulazite. Means yes, come in.",
           "answer": true
         },
         {
@@ -303,7 +303,7 @@
           "answer": false
         },
         {
-          "statement": "Koliko je kirija? asks about rent.",
+          "statement": "Koliko je kirija? Asks about rent.",
           "answer": true
         }
       ]
@@ -356,15 +356,15 @@
   "funFacts": [
     {
       "title": "Zenica mixes industry and student life",
-      "body": "Zenica sits in central Bosnia and Herzegovina with factories, university students, and tram lines that shape daily housing hunts. Flats near campus and the steelworks turn over quickly. Learners who visit a block staircase practice real city vocabulary rather than only café small talk."
+      "body": "Zenica sits in central Bosnia and Herzegovina with factories, university students, and tram lines that shape daily housing hunts. Flats near campus and the steelworks turn over quickly. Visiting a block staircase like this gives you real city vocabulary instead of just café small talk."
     },
     {
       "title": "Kirija is often monthly",
-      "body": "Rent talk in Bosnia and Herzegovina usually centers on a monthly kirija figure. Landlords may write the number on a note or say it in the hallway. Learning Koliko je kirija? prepares you for that first practical question."
+      "body": "Rent talk in Bosnia and Herzegovina usually centers on a monthly kirija figure. Landlords may write the number on a note or say it in the hallway. Learning Koliko je kirija? Prepares you for that first practical question."
     },
     {
       "title": "Može is a door opener",
-      "body": "Može? at a doorway is faster than a long grammar explanation. The answer Može. invites you inside with one calm word. Present permission chunks keep housing visits friendly."
+      "body": "Može? At a doorway is faster than a long grammar explanation. The answer Može. Invites you inside with one calm word. Present permission chunks keep housing visits friendly."
     },
     {
       "title": "Namještaj can be light",
@@ -415,7 +415,7 @@
           "Namještaj je star."
         ],
         "correctIndex": 1,
-        "explanation": "Može? Mogu pogledati stan? asks permission.",
+        "explanation": "Može? Mogu pogledati stan? Asks permission.",
         "skill": "grammar"
       },
       {
@@ -676,7 +676,7 @@
   ],
   "civicContext": {
     "title": "Returnees in Republika Srpska still face hostile local pressure",
-    "body": "Minority return to Republika Srpska remains unfinished three decades after the war. Bosniak returnees often meet segregated schooling, job barriers, and political rhetoric that treats them as outsiders in their own towns. International monitors keep documenting property disputes and intimidation around returnee communities. Legal rights to reclaim a house therefore collide with daily pressure that shrinks who can safely stay.",
+    "body": "Minority return to Republika Srpska remains unfinished three decades after the war. Bosniak returnees often face segregated schooling, job barriers, and political rhetoric that treats them as outsiders in their own towns. International monitors continue to document property disputes and intimidation around returnee communities. Having the legal right to reclaim a house is not the same as feeling safe enough to stay in it.",
     "imageId": "civic-returnee-pressure",
     "learnMore": {
       "label": "Wikipedia article on return of refugees and IDPs in Bosnia and Herzegovina",
@@ -736,7 +736,7 @@
   "section": 4,
   "sayAgain": {
     "title": "Say again",
-    "intro": "Warm up with four frames you already know.",
+    "intro": "Warm up with four lines you already know.",
     "lines": [
       {
         "bosnian": "Moja soba je mala.",

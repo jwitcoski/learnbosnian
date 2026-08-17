@@ -1,52 +1,38 @@
 import { Link } from "react-router-dom";
-import book2 from "../../data/book2/outline.json";
-import book3 from "../../data/book3/outline.json";
 import { book1Outline } from "../../data/loadChapters";
 import { LessonPage, SectionDivider } from "../../components/lesson/styles";
 
 const Books = () => {
   return (
     <LessonPage>
-      <h1>Three-book series</h1>
+      <h1>The book series</h1>
       <p>
-        A path from first greetings to confident conversation — website, print (Scribus),
-        and YouTube companions.
+        Book 1 is live and growing. Website lessons, print (Scribus), and YouTube
+        companions for each lesson as it is published.
       </p>
 
       <SectionDivider />
 
       <section style={{ marginBottom: "2rem" }}>
-        <h2>Book 1 — {book1Outline.title}</h2>
+        <h2>Book 1: {book1Outline.title}</h2>
         <p>
-          Level {book1Outline.level}. Thirty one-hour present-tense survival
-          chapters for travelers and early expats. Cast:{" "}
+          Level {book1Outline.level}. Thirty present-tense lessons (about an hour
+          each) for travelers and new arrivals. Cast:{" "}
           {book1Outline.cast?.join(", ")}.
         </p>
         <p>
-          <Link to="/learn">Start Book 1 →</Link>
+          <Link to="/learn">Start Book 1</Link>
         </p>
       </section>
 
       <section style={{ marginBottom: "2rem" }}>
-        <h2>{book2.title}</h2>
-        <p>{book2.summary}</p>
-        <ul>
-          {book2.themes.map((t: string) => (
-            <li key={t}>{t}</li>
-          ))}
-        </ul>
-        <p style={{ color: "var(--color-muted)" }}>{book2.note}</p>
+        <h2>Book 2</h2>
+        <p style={{ color: "var(--color-muted)" }}>Not started</p>
       </section>
 
       <section>
-        <h2>{book3.title}</h2>
-        <p>{book3.summary}</p>
-        <ul>
-          {book3.themes.map((t: string) => (
-            <li key={t}>{t}</li>
-          ))}
-        </ul>
-        <p style={{ color: "var(--color-muted)" }}>{book3.note}</p>
+        <h2>Book 3</h2>
+        <p style={{ color: "var(--color-muted)" }}>Not started</p>
       </section>
     </LessonPage>
   );

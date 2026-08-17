@@ -66,7 +66,7 @@ export default function SectionQuiz({ chapter, embedded }: Props) {
   } | null>(null);
 
   if (!questions.length) {
-    return <p>Quiz arrives when this chapter is fully drafted.</p>;
+    return <p>This quiz will appear when the lesson is fully drafted.</p>;
   }
 
   const submit = () => {
@@ -205,9 +205,9 @@ export default function SectionQuiz({ chapter, embedded }: Props) {
                 }}
               >
                 {isCorrect ? "Correct" : "Incorrect"}
-                {!hasAnswer ? " — no answer selected" : ""}
+                {!hasAnswer ? ". No answer selected" : ""}
                 {!isCorrect
-                  ? ` — right answer: ${q.options[q.correctIndex]}`
+                  ? `. Right answer: ${q.options[q.correctIndex]}`
                   : ""}
               </p>
             )}
@@ -235,12 +235,12 @@ export default function SectionQuiz({ chapter, embedded }: Props) {
             Score:{" "}
             <strong>
               {result.correctCount}/{questions.length} ({result.percent}%)
-            </strong>{" "}
-            — {result.passed ? "Lesson complete!" : null}
+            </strong>
+            {result.passed ? ". Lesson complete." : null}
           </p>
           {!result.passed && (
             <div>
-              <p>Review these sections, then submit again.</p>
+              <p>Review the linked parts, then submit again.</p>
               <div
                 style={{
                   display: "flex",

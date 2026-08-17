@@ -49,7 +49,7 @@ export default function PracticeList({ items }: Props) {
             />
             {revealed && (
               <p style={{ color: ok ? "var(--color-sage)" : "var(--color-crimson)", fontWeight: 700 }}>
-                {ok ? "Correct" : `Incorrect — answer: ${item.answer}`}
+                {ok ? "Correct" : `Incorrect. Answer: ${item.answer}`}
               </p>
             )}
           </div>

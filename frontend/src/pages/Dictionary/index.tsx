@@ -14,10 +14,10 @@ const Dictionary = () => {
 
   return (
     <LessonPage>
-      <h1>Mini-dictionary</h1>
+      <h1>Dictionary</h1>
       <p>
-        Words from published and previewable chapters. Grows each night as Book 1 is
-        reviewed. Latin script only.
+        Words from lessons you can open now. The list grows as Book 1 lessons are
+        reviewed and published. Latin script only.
       </p>
       <p>
         <Link to="/learn">← Curriculum</Link>
