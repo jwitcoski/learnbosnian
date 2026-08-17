@@ -128,7 +128,7 @@
   "grammar": [
     {
       "title": "Gdje je…?",
-      "explanation": "Learn this as a full phrase. Do not treat it as a table. Gdje? means where. Pair it with je for a ready question. Ask Gdje je Mostar? Ask Gdje je mapa? Ask Gdje je Amira?",
+      "explanation": "Gdje? means where. Pair it with je for a ready question. Ask Gdje je Mostar? Ask Gdje je mapa? Ask Gdje je Amira?",
       "examples": [
         {
           "bosnian": "Gdje je Mostar?",
@@ -146,7 +146,7 @@
     },
     {
       "title": "Ovdje and tamo",
-      "explanation": "Treat this as a ready chunk you can say today. Ovdje means here, near you. Tamo means there or over there, farther away. On a map Emir points and says Sarajevo je ovdje. He says Mostar je tamo. Practice with your finger on the page.",
+      "explanation": "Ovdje means here, near you. Tamo means there or over there, farther away. On a map Emir points and says Sarajevo je ovdje. He says Mostar je tamo. Practice with your finger on the page.",
       "examples": [
         {
           "bosnian": "Ovdje je Sarajevo.",
@@ -163,8 +163,8 @@
       ]
     },
     {
-      "title": "U / na / kod. say them as chunks",
-      "explanation": "Say the whole line together. Skip the full chart for now. Memorize useful place lines before full case tables. U Sarajevu = in Sarajevo. Na mapi = on the map. Kod Amire = at Amira’s. Na jugu = in the south. Learn the whole chunk. Morphology details come later.",
+      "title": "U / na / kod. Ready place lines",
+      "explanation": "Learn these place lines whole rather than building them word by word. U Sarajevu = in Sarajevo. Na mapi = on the map. Kod Amire = at Amira’s. Na jugu = in the south. The grammar behind each ending can wait.",
       "examples": [
         {
           "bosnian": "U Sarajevu.",
@@ -337,13 +337,13 @@
     },
     {
       "id": "pr5",
-      "prompt": "Write ‘on the map’ as a chunk (na + mapi).",
+      "prompt": "Write ‘on the map’ (na + mapi).",
       "hint": "Two words",
       "answer": "Na mapi"
     },
     {
       "id": "pr6",
-      "prompt": "Write ‘at Amira’s’ as a chunk (kod + Amire).",
+      "prompt": "Write ‘at Amira’s’ (kod + Amire).",
       "hint": "kod…",
       "answer": "Kod Amire"
     },
@@ -374,8 +374,8 @@
       "body": "Kod Amire is how you say you are at Amira’s place. Bosnian uses kod plus a person for homes, shops, and cafés all the time. It is shorter and more natural than building a full address every visit. Learn the pattern now, because you will reuse it for almost every friendly destination."
     },
     {
-      "title": "Spoiler, softly",
-      "body": "Book 1 saves the real Mostar trip for later on purpose. Lesson 5 only plants the map pin and the question Gdje je Mostar? Emir’s grin is the soft spoiler that the journey is coming. For today, find the city on the map and let the visit wait."
+      "title": "The Mostar trip can wait",
+      "body": "Book 1 saves the real Mostar trip for later on purpose. Lesson 5 only marks Mostar on the map and practices the question Gdje je Mostar? Emir’s grin hints that the trip is coming, but not yet. For today, find the city on the map and let the visit wait."
     }
   ],
   "resources": [
@@ -474,7 +474,7 @@
           "Family"
         ],
         "correctIndex": 1,
-        "explanation": "Most = bridge. think Stari Most.",
+        "explanation": "Most = bridge, as in Stari Most.",
         "skill": "culture"
       },
       {
@@ -487,7 +487,7 @@
           "not in Bosnia and Herzegovina"
         ],
         "correctIndex": 1,
-        "explanation": "Mostar is farther south. tamo, na jugu.",
+        "explanation": "Mostar is farther south, tamo na jugu.",
         "skill": "culture"
       },
       {
