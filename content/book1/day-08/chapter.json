@@ -6,9 +6,9 @@
   "theme": "Street food",
   "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "Full draft to Lesson 1 exemplar bar. ready for human review before publish.",
+  "reviewerNotes": "Full draft to Lesson 1 exemplar bar. Ready for human review before publish.",
   "estimatedMinutes": 60,
-  "storyBeat": "Ana’s food disasters begin with burek. Emir teaches likes and a gentle accusative chunk.",
+  "storyBeat": "Ana’s food disasters begin with burek. Emir teaches likes and dislikes with a gentle nudge toward the accusative.",
   "learningGoals": {
     "vocabulary": [
       "Name burek, sirnica, zeljanica, hljeb, and jogurt",
@@ -16,9 +16,9 @@
       "Say gladan or gladna, ukusno, and dobar tek"
     ],
     "grammar": [
-      "Use Volim plus a food object as one ready chunk",
+      "Use Volim with a food word to say what you like",
       "Use Ne volim for a polite dislike",
-      "Reuse familiar present-tense frames from earlier lessons."
+      "Reuse present-tense patterns from earlier lessons."
     ],
     "culture": [
       "In Bosnia and Herzegovina, burek means meat, and cheese pie is sirnica",
@@ -142,7 +142,7 @@
   "grammar": [
     {
       "title": "Volim + object",
-      "explanation": "Practice the whole expression before you worry about paradigms. Volim means I love or I like. Put the food after it as a ready chunk. Say Volim burek. Say Volim kahvu. For many feminine food nouns ending in -a, the spoken object often ends in -u. Say Volim sirnicu. Say Volim zeljanicu. Learn the pairs as phrases first. Do not memorize a full case table in this lesson.",
+      "explanation": "Volim means I love or I like. Put the food right after it. Say Volim burek. Say Volim kahvu. For many feminine food nouns ending in -a, the spoken object often ends in -u instead. Say Volim sirnicu. Say Volim zeljanicu. Learn the pairs as phrases for now, and worry about the full case table later.",
       "examples": [
         {
           "bosnian": "Volim burek.",
@@ -160,7 +160,7 @@
     },
     {
       "title": "Ne volim",
-      "explanation": "Build this as a ready-made line you can reuse. Add ne before volim to say you do not like something. Say Ne volim luk. Say Ne volim čaj. Keep it soft and clear. You can still be polite while you refuse a filling.",
+      "explanation": "Add ne before volim to say you do not like something. Say Ne volim luk. Say Ne volim čaj. Keep it soft and clear. You can still be polite while you turn down a filling.",
       "examples": [
         {
           "bosnian": "Ne volim luk.",
@@ -174,7 +174,7 @@
     },
     {
       "title": "Gladan / gladna",
-      "explanation": "Store this as a phrase you can pull out in conversation. Match the adjective to who is speaking. Emir says Ja sam gladan. Ana says Ja sam gladna. Then order food and finish with Dobar tek!",
+      "explanation": "Match the adjective to who is speaking. Emir says Ja sam gladan. Ana says Ja sam gladna. Then order food and finish with Dobar tek!",
       "examples": [
         {
           "bosnian": "Ja sam gladan.",
@@ -209,9 +209,9 @@
     {
       "id": "b",
       "title": "Lesson B. Volim / ne volim at the counter",
-      "body": "Build your counter phrases as full sentences. Say Volim burek. Say Volim sirnicu. Say Ne volim luk. Ana says Ja sam gladna. Emir says Ja sam gladan. Finish with Ukusno! and Dobar tek! Ana tries a too-hot bite, drops flakes on Mrvica, and still finishes the sentence. Food disasters are allowed. Silent pointing is not the goal.",
+      "body": "Build your counter phrases as full sentences. Say Volim burek. Say Volim sirnicu. Say Ne volim luk. Ana says Ja sam gladna. Emir says Ja sam gladan. Finish with Ukusno! And Dobar tek! Ana tries a too-hot bite, drops flakes on Mrvica, and still finishes the sentence. Food disasters are allowed. Silent pointing is not the goal.",
       "tips": [
-        "Keep the chunks Volim, Ne volim, and Dobar tek ready",
+        "Keep Volim, Ne volim, and Dobar tek ready to use",
         "Use gladna if you are Ana. Use gladan if you are Emir."
       ]
     }
@@ -373,7 +373,7 @@
     },
     {
       "title": "Livanjski sir",
-      "body": "Livno is famous for highland cheese rather than only for mountain views. Livanjski sir comes from western Bosnia pastures with a long dairy tradition. Emir’s postcard uses that fame to pull Ana’s food map outside one city street. When you learn food words today, remember that dairy pride across Bosnia and Herzegovina has regional addresses."
+      "body": "Livno is known for highland cheese, not just mountain views. Livanjski sir comes from western Bosnia pastures with a long dairy tradition. Emir’s postcard uses that fame to pull Ana’s food map outside one city street. When you learn food words today, remember that dairy pride across Bosnia and Herzegovina has regional addresses."
     },
     {
       "title": "Jogurt is a partner",
@@ -673,7 +673,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABurek_photo_Moma_SM.jpg",
       "author": "photo Moma SM",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on the photo Burek photo Moma SM.jpg. photo Moma SM / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Polygon painting based on the photo Burek photo Moma SM.jpg. Photo Moma SM / Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
       "id": "livno-sir",
@@ -762,7 +762,7 @@
   "section": 2,
   "sayAgain": {
     "title": "Say again",
-    "intro": "Warm up with four frames you already know.",
+    "intro": "Warm up with four lines you already know.",
     "lines": [
       {
         "bosnian": "Ja sam Ana.",

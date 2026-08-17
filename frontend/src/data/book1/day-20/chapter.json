@@ -16,13 +16,13 @@
       "Describe an urgent missing-pet problem."
     ],
     "grammar": [
-      "Use Alo? and Ko je tamo? as phone openers.",
+      "Use Alo? And Ko je tamo? As phone openers.",
       "Ask šta, kada, and zašto in the present.",
-      "Signal urgency with Hitno je! and polite help requests."
+      "Signal urgency with Hitno je! And polite help requests."
     ],
     "culture": [
       "Place phone talk beside Sarajevo tram streets.",
-      "Treat clear connection as part of city life.",
+      "See a clear connection as part of everyday city life.",
       "Link phone habits to diaspora care and remittance ties."
     ]
   },
@@ -129,7 +129,7 @@
   "grammar": [
     {
       "title": "Phone openers with Alo and Ko je tamo?",
-      "explanation": "Learn this as a full phrase. Do not treat it as a table. Start a call with Alo? then ask Ko je tamo? when you need the name. Keep both chunks short and clear. Present-tense phone talk is enough for an urgent cat emergency.",
+      "explanation": "Start a call with Alo? Then ask Ko je tamo? When you need a name. Keep both lines short and clear. Present-tense phone talk is enough, even for an urgent cat emergency.",
       "examples": [
         {
           "bosnian": "Alo?",
@@ -147,7 +147,7 @@
     },
     {
       "title": "Šta, kada, and zašto",
-      "explanation": "Hold this as a spoken pattern. Do not treat it as a grammar grid. Use šta for what, kada for when, and zašto for why. Pair each question word with a present verb you already know. The set helps you gather facts fast on a call.",
+      "explanation": "Use šta for what, kada for when, and zašto for why. Pair each question word with a present verb you already know. These three help you gather facts fast on a call.",
       "examples": [
         {
           "bosnian": "Šta se desi?",
@@ -164,8 +164,8 @@
       ]
     },
     {
-      "title": "Urgent present chunks",
-      "explanation": "Say the whole line together. Skip the full chart for now. Hitno je! flags urgency. Nestala describes a feminine missing subject such as Mrvica. Add Molim vas when you ask a stranger for help by phone or on the street.",
+      "title": "Urgent present lines",
+      "explanation": "Hitno je! Flags urgency. Nestala describes a feminine missing subject, such as Mrvica. Add Molim vas when you ask a stranger for help, by phone or on the street.",
       "examples": [
         {
           "bosnian": "Hitno je!",
@@ -184,16 +184,16 @@
   ],
   "culture": {
     "title": "Calls beside the tram",
-    "body": "Sarajevo trams slide past cafés where people still step outside to finish a call in clearer air. Ana phones Emir when Mrvica disappears near the tracks, and every question word suddenly matters. Ko, šta, kada, and zašto turn panic into a usable checklist she can repeat under stress. Mobile connection is ordinary now, yet the voice on the line still carries care across a noisy street. A clear Alo? can start both small talks and true emergencies before anyone explains the problem. Phone survival phrases belong beside tram noise rather than only beside a quiet classroom desk. ",
+    "body": "Sarajevo trams slide past cafés where people still step outside to take a call in clearer air. Ana phones Emir when Mrvica disappears near the tracks, and suddenly every question word matters. Ko, šta, kada, and zašto turn her panic into a checklist she can repeat under stress. Mobile connection is ordinary now, yet the voice on the line still carries real care across a noisy street. A simple Alo? Can open both small talk and a true emergency, before anyone even explains the problem. Phone phrases like these belong on a noisy street, not just in a quiet classroom.",
     "imageId": "sarajevo-tram"
   },
   "lessonBlocks": [
     {
       "id": "a",
       "title": "Lesson A. Phone questions that gather facts",
-      "body": "Lock the phone kit. Telefon, poziv, alo, broj, and veza before the emergency story begins. Practice Alo? and Ko je tamo? until both openers sound natural on the first try. Then drill šta, kada, and zašto with short present answers so facts arrive in order. Ana calls from near a tram stop while Emir asks for details without wasting time. Keep the lines sharp. A missing cat does not wait for a full grammar chart. Record yourself asking all four question words, then answer each one in one calm present sentence. Keep the checklist order steady under pressure. Say the lines out loud twice before you move on. ",
+      "body": "Start with the phone words: telefon, poziv, alo, broj, and veza, before the emergency story begins. Practice Alo? And Ko je tamo? Until both openers sound natural on the first try. Then drill šta, kada, and zašto with short present-tense answers so the facts come out in order. Ana calls from near a tram stop while Emir asks for details without wasting time. Keep the lines sharp. A missing cat won't wait for a grammar lesson. Try asking all four question words out loud, then answer each one in one calm present-tense sentence. Keep that checklist order steady even under pressure.",
       "tips": [
-        "Start with Alo? before you ask anything else.",
+        "Start with Alo? Before you ask anything else.",
         "Use one question word at a time.",
         "Answer with a short present-tense sentence."
       ]
@@ -201,9 +201,9 @@
     {
       "id": "b",
       "title": "Lesson B. The Mrvica emergency call",
-      "body": "Build the emergency call as a sequence you can run even when you feel rushed. Say Hitno je! then Mrvica je nestala! then ask for help with molim vas in a clear voice. Reuse Čujem te dobro when the connection is clear and you need to slow the other person down. Amira joins the search on another line, and the tram keeps moving beside the café windows. Close the call with a plan in the present. Idemo sad. Practice until the question words feel like a calm checklist rather than a scramble of panic. Repeat the full call once without looking at notes. ",
+      "body": "Build the emergency call as a sequence you can run even when you feel rushed. Say Hitno je! Then Mrvica je nestala! Then ask for help with molim vas in a clear voice. Use Čujem te dobro when the connection is good and you want to slow the other person down. Amira joins the search on another line, and the tram keeps moving beside the café windows. Close the call with a plan, still in the present: Idemo sad. Practice until the question words feel like a calm checklist instead of a scramble of panic. Try running through the full call once without looking at your notes.",
       "tips": [
-        "Say Hitno je! early if the problem is urgent.",
+        "Say Hitno je! Early if the problem is urgent.",
         "Add molim vas when you ask for help.",
         "Confirm the connection with Čujem te dobro."
       ]
@@ -291,7 +291,7 @@
       "prompt": "Decide whether each sentence matches the lesson.",
       "items": [
         {
-          "statement": "Alo? is a common phone opener.",
+          "statement": "Alo? Is a common phone opener.",
           "answer": true
         },
         {
@@ -303,7 +303,7 @@
           "answer": true
         },
         {
-          "statement": "Hitno je! signals urgency.",
+          "statement": "Hitno je! Signals urgency.",
           "answer": true
         }
       ]
@@ -318,37 +318,37 @@
     },
     {
       "id": "pr2",
-      "prompt": "Write Who is there? in Bosnian.",
+      "prompt": "Write Who is there? In Bosnian.",
       "hint": "Begin with Ko.",
       "answer": "Ko je tamo?"
     },
     {
       "id": "pr3",
-      "prompt": "Write Why are you calling? in Bosnian.",
+      "prompt": "Write Why are you calling? In Bosnian.",
       "hint": "Begin with Zašto.",
       "answer": "Zašto zoveš?"
     },
     {
       "id": "pr4",
-      "prompt": "Write It is urgent! in Bosnian.",
+      "prompt": "Write It is urgent! In Bosnian.",
       "hint": "Use hitno.",
       "answer": "Hitno je!"
     },
     {
       "id": "pr5",
-      "prompt": "Write Mrvica is missing! in Bosnian.",
+      "prompt": "Write Mrvica is missing! In Bosnian.",
       "hint": "Use nestala.",
       "answer": "Mrvica je nestala!"
     },
     {
       "id": "pr6",
-      "prompt": "Write I hear you well. in Bosnian.",
+      "prompt": "Write I hear you well. In Bosnian.",
       "hint": "Begin with Čujem.",
       "answer": "Čujem te dobro."
     },
     {
       "id": "pr7",
-      "prompt": "Write Help, please! in Bosnian (polite).",
+      "prompt": "Write Help, please! In Bosnian (polite).",
       "hint": "Use molim vas.",
       "answer": "Pomozite, molim vas!"
     },
@@ -362,26 +362,26 @@
   "funFacts": [
     {
       "title": "Alo is the phone hello",
-      "body": "Bosnian phone calls often open with Alo? rather than a street greeting. The short sound checks the line and invites the other person to speak. Learners should keep it separate from Zdravo. The channel of speech changes the first word."
+      "body": "Bosnian phone calls often open with Alo? Rather than a street greeting. The short sound checks the line and invites the other person to speak. Keep it separate from Zdravo. The medium changes the first word."
     },
     {
       "title": "Trams frame everyday calls",
-      "body": "Sarajevo trams run through central corridors where people move between errands and cafés. Taking a call beside the tracks is a normal city picture. The tram image keeps the emergency story local and mobile. Noise on the line becomes part of the listening task."
+      "body": "Sarajevo trams run through central corridors where people move between errands and cafés. Taking a call beside the tracks is a normal city scene. The tram keeps this emergency story local and on the move. Background noise on the line becomes part of the listening practice."
     },
     {
       "title": "Question words form a checklist",
-      "body": "Ko, šta, kada, and zašto help a panicked speaker slow down. Each word requests one kind of fact. Used together, they organize an urgent conversation. Book 1 teaches them as present-tense tools rather than as abstract grammar labels."
+      "body": "Ko, šta, kada, and zašto help a panicked speaker slow down. Each word asks for one kind of fact. Used together, they organize an urgent conversation. Book 1 teaches them as present-tense tools you can use right away, not as abstract grammar labels."
     },
     {
-      "title": "Mrvica keeps stakes personal",
-      "body": "A missing cat is a comic emergency with real feeling. The cast cares, so learners care enough to repeat the lines. Personal stakes make phone phrases stick. Humor and urgency can share the same call."
+      "title": "Mrvica keeps the stakes personal",
+      "body": "A missing cat is a comic emergency with real feeling behind it. The cast cares, so you care enough to repeat the lines. That personal stake is what makes phone phrases stick. Humor and urgency can share the same call."
     }
   ],
   "resources": [
     {
       "label": "Bosnian Grammar. How to Say I am",
       "url": "https://www.youtube.com/watch?v=CUUGzc3C1G8",
-      "note": "Self-introduction chunks help you answer Ko je tamo?"
+      "note": "Self-introduction lines help you answer Ko je tamo?"
     },
     {
       "label": "Next lesson",
@@ -391,7 +391,7 @@
     {
       "label": "How to speak Bosnian channel",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Keep a speaker playlist ready after the phone emergency."
+      "note": "Keep a playlist of real speakers ready after the phone emergency."
     }
   ],
   "sectionQuiz": {
@@ -400,7 +400,7 @@
     "questions": [
       {
         "id": "q1",
-        "question": "What does Alo? mean on the phone?",
+        "question": "What does Alo? Mean on the phone?",
         "options": [
           "Hello?",
           "Ticket please",
@@ -408,7 +408,7 @@
           "Turn left"
         ],
         "correctIndex": 0,
-        "explanation": "Alo? is the phone hello.",
+        "explanation": "Alo? Is the phone hello.",
         "skill": "vocabulary"
       },
       {
@@ -460,7 +460,7 @@
           "Povratna karta."
         ],
         "correctIndex": 0,
-        "explanation": "Hitno je! flags urgency.",
+        "explanation": "Hitno je! Flags urgency.",
         "skill": "grammar"
       },
       {
@@ -499,7 +499,7 @@
           "Gas arrives only from domestic wells"
         ],
         "correctIndex": 0,
-        "explanation": "The Federation designated a U.S. company linked to Trump-aligned investors for the Southern Interconnection without a normal open tender, drawing EU warnings.",
+        "explanation": "The Federation designated a U.S. Company linked to Trump-aligned investors for the Southern Interconnection without a normal open tender, drawing EU warnings.",
         "skill": "culture"
       },
       {
@@ -512,7 +512,7 @@
           "Jednosmjerna karta."
         ],
         "correctIndex": 0,
-        "explanation": "Pomozite, molim vas! is a polite urgent ask.",
+        "explanation": "Pomozite, molim vas! Is a polite urgent ask.",
         "skill": "listening"
       }
     ]
@@ -640,7 +640,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_tram_706.jpg",
       "author": "xiquinhosilva",
       "license": "CC BY 2.0",
-      "credit": "Polygon painting based on the photo Sarajevo tram 706.jpg. xiquinhosilva / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Polygon painting based on the photo Sarajevo tram 706.jpg. Xiquinhosilva / Wikimedia Commons (CC BY 2.0)"
     },
     {
       "id": "sarajevo-tram-city-hall",
@@ -677,15 +677,15 @@
   "imageBriefs": [],
   "civicContext": {
     "title": "An opaque U.S.-linked gas deal bypassed normal tender rules",
-    "body": "An urgent phone call home still travels through a country that depends on outside energy patrons. Bosnia and Herzegovina imports nearly all of its natural gas on a Russian-linked route through neighboring systems. In 2026 the Federation moved to designate a U.S. company linked to Trump-aligned investors as developer of the Southern Interconnection without a normal open tender. European Union officials warned that the special law could threaten transparency standards and aid. The pipeline fight shows how big contracts can arrive by political pressure rather than a clean public contest.",
+    "body": "An urgent phone call home still travels through a country that depends on outside energy patrons. Bosnia and Herzegovina imports nearly all of its natural gas along a Russian-linked route through neighboring systems. In 2026 the Federation moved to name a U.S. Company linked to Trump-aligned investors as developer of the Southern Interconnection, without a normal open tender. European Union officials warned that the special law could threaten transparency standards and aid. The pipeline fight shows how big contracts can be decided by political pressure rather than a fair, open contest.",
     "imageId": "civic-diaspora-calls",
     "learnMore": {
-      "label": "RFE/RL article on the EU warning over the U.S. gas project",
+      "label": "RFE/RL article on the EU warning over the U.S. Gas project",
       "url": "https://www.rferl.org/a/eu-bosnia-gas-pipeline-us-investor-aid/33741747.html"
     }
   },
   "authenticListen": {
-    "title": "Čuj Bosnu with introduction chunks for callers",
+    "title": "Čuj Bosnu with introduction lines for callers",
     "kind": "speaker",
     "hook": "A teacher models Ja sam lines you can reuse when someone asks who is calling.",
     "source": {
@@ -714,7 +714,7 @@
         "ja",
         "sam"
       ],
-      "noticePrompt": "On a phone call, Ja sam plus your name answers Ko je tamo?"
+      "noticePrompt": "On a phone call, Ja sam plus your name answers the question Ko je tamo?"
     },
     "reveal": {
       "keyLines": [
@@ -727,7 +727,7 @@
           "english": "Who is there?"
         }
       ],
-      "teacherNote": "After the clip, rehearse Alo? then Ja sam… then your urgent line."
+      "teacherNote": "After the clip, rehearse Alo? Then Ja sam… then your urgent line."
     }
   },
   "speakTargets": [
@@ -737,7 +737,7 @@
   "section": 3,
   "sayAgain": {
     "title": "Say again",
-    "intro": "Warm up with four frames you already know.",
+    "intro": "Warm up with four lines you already know.",
     "lines": [
       {
         "bosnian": "Sretan Bajram!",

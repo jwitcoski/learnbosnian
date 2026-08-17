@@ -2,7 +2,7 @@
   "title": "Photo attributions",
   "intro": "Every photo used on the site and in Book 1, listed for citation. Use this when you credit images for print, Scribus export, or YouTube. Lesson images come from each lesson file; homepage photos are added by hand.",
   "citationNote": "For Creative Commons works, credit the author, note the license, and link to the source page. For Pexels, credit the photographer and Pexels. Derivative treatments (polygon paint, background removal) still require attribution of the source photo.",
-  "generatedAt": "2026-08-16",
+  "generatedAt": "2026-08-17",
   "total": 127,
   "entries": [
     {
@@ -425,7 +425,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Pelje%C5%A1ac_Bridge_3.jpg",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pelje%C5%A1ac_Bridge_3.jpg",
       "localPath": "/images/book1/day-06-civic-peljesac.png",
-      "credit": "Based on the photo Pelješac Bridge. kallerna / Wikimedia Commons (CC BY-SA 4.0)",
+      "credit": "Based on the photo Pelješac Bridge. Kallerna / Wikimedia Commons (CC BY-SA 4.0)",
       "notes": "",
       "book": 1,
       "day": 6
@@ -561,7 +561,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABurek_photo_Moma_SM.jpg",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Burek_photo_Moma_SM.jpg",
       "localPath": "/images/book1/day-08-burek.png",
-      "credit": "Polygon painting based on the photo Burek photo Moma SM.jpg. photo Moma SM / Wikimedia Commons (CC BY-SA 4.0)",
+      "credit": "Polygon painting based on the photo Burek photo Moma SM.jpg. Photo Moma SM / Wikimedia Commons (CC BY-SA 4.0)",
       "notes": "",
       "book": 1,
       "day": 8
@@ -1207,7 +1207,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKlepe_Sarajevo_Bosnia_%2810675888145%29.jpg",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Klepe_Sarajevo_Bosnia_%2810675888145%29.jpg",
       "localPath": "/images/book1/day-17-klepe-sarajevo.png",
-      "credit": "Polygon painting based on the photo Klepe Sarajevo Bosnia (10675888145).jpg. amanderson2 / Wikimedia Commons (CC BY 2.0)",
+      "credit": "Polygon painting based on the photo Klepe Sarajevo Bosnia (10675888145).jpg. Amanderson2 / Wikimedia Commons (CC BY 2.0)",
       "notes": "",
       "book": 1,
       "day": 17
@@ -1411,7 +1411,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_tram_706.jpg",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Sarajevo_tram_706.jpg",
       "localPath": "/images/book1/day-20-sarajevo-tram.png",
-      "credit": "Polygon painting based on the photo Sarajevo tram 706.jpg. xiquinhosilva / Wikimedia Commons (CC BY 2.0)",
+      "credit": "Polygon painting based on the photo Sarajevo tram 706.jpg. Xiquinhosilva / Wikimedia Commons (CC BY 2.0)",
       "notes": "",
       "book": 1,
       "day": 20
@@ -1904,7 +1904,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_tram_706.jpg",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Sarajevo_tram_706.jpg",
       "localPath": "/images/book1/day-27-office-tram.png",
-      "credit": "Polygon painting based on the photo Sarajevo tram 706.jpg. xiquinhosilva / Wikimedia Commons (CC BY 2.0)",
+      "credit": "Polygon painting based on the photo Sarajevo tram 706.jpg. Xiquinhosilva / Wikimedia Commons (CC BY 2.0)",
       "notes": "",
       "book": 1,
       "day": 27

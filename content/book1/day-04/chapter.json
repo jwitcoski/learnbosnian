@@ -6,7 +6,7 @@
   "theme": "Café “family” + the cat",
   "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "Full draft to Lesson 1 exemplar bar. ready for human review before publish.",
+  "reviewerNotes": "Full draft to Lesson 1 exemplar bar. Ready for human review before publish.",
   "estimatedMinutes": 60,
   "storyBeat": "Mrvica adopts Ana. Amira’s café regulars start to feel like family.",
   "learningGoals": {
@@ -141,8 +141,8 @@
   ],
   "grammar": [
     {
-      "title": "Gender intro. he or she words",
-      "explanation": "Build this as a ready-made line you can reuse. Many Bosnian nouns feel masculine or feminine. A quick beginner tip helps. Words ending in -a are often feminine, such as majka, sestra, mačka, and porodica. Short words without that ending are often masculine in this lesson, such as otac, brat, and djed.",
+      "title": "Gender intro. He or she words",
+      "explanation": "Many Bosnian nouns feel masculine or feminine. A quick beginner tip helps. Words ending in -a are often feminine, such as majka, sestra, mačka, and porodica. Short words without that ending are often masculine in this lesson, such as otac, brat, and djed.",
       "examples": [
         {
           "bosnian": "sestra, majka, mačka",
@@ -160,7 +160,7 @@
     },
     {
       "title": "Moj / moja and tvoj / tvoja",
-      "explanation": "Store this as a phrase you can pull out in conversation. Moj means my before a masculine noun. Moja means my before a feminine noun. The same split holds for informal your with tvoj and tvoja. Say Moj brat and Moja sestra. Do not mix them yet.",
+      "explanation": "Moj means my before a masculine noun. Moja means my before a feminine noun. The same split holds for informal your with tvoj and tvoja. Say Moj brat and Moja sestra. Do not mix them yet.",
       "examples": [
         {
           "bosnian": "Moj otac. Moja majka.",
@@ -178,7 +178,7 @@
     },
     {
       "title": "Who is who. On je / Ona je",
-      "explanation": "Focus on the spoken chunk. Postpone the full paradigm. Reuse biti from Lesson 2. On je moj prijatelj. Ona je moja prijateljica. Ona je Mrvica. mačka! Point and name people (and one bossy cat) with short lines.",
+      "explanation": "Reuse biti from Lesson 2 to point and name people. Say On je moj prijatelj. Say Ona je moja prijateljica. Say Ona je Mrvica, mačka! The same short pattern works for one bossy cat too.",
       "examples": [
         {
           "bosnian": "On je moj brat.",
@@ -358,7 +358,7 @@
     {
       "id": "pr6",
       "prompt": "Write the word for cat (needs č).",
-      "hint": "include the special letter for č",
+      "hint": "Include the special letter for č",
       "answer": "mačka"
     },
     {
@@ -389,7 +389,7 @@
     },
     {
       "title": "Chosen family at the table",
-      "body": "Calling café regulars porodica is half joke and half truth. People share news, chairs, and kahva until the table feels like home. Warmth is part of the language lesson rather than a extra decoration. When Ana uses family words at Amira’s, she is naming both blood relatives and chosen company."
+      "body": "Calling café regulars porodica is half joke and half truth. People share news, chairs, and kahva until the table feels like home. Warmth is part of the language lesson, not an extra decoration. When Ana uses family words at Amira’s, she is naming both blood relatives and chosen company."
     }
   ],
   "resources": [
@@ -475,7 +475,7 @@
           "fildžan"
         ],
         "correctIndex": 0,
-        "explanation": "Mrvica je mačka. the café cat.",
+        "explanation": "Mrvica je mačka, the café cat.",
         "skill": "vocabulary"
       },
       {
@@ -527,7 +527,7 @@
           "Bridge"
         ],
         "correctIndex": 1,
-        "explanation": "Porodica = family. blood family or café family.",
+        "explanation": "Porodica = family, whether blood family or café family.",
         "skill": "culture"
       }
     ]
@@ -676,7 +676,7 @@
   "imageBriefs": [],
   "civicContext": {
     "title": "Three presidents share one top office",
-    "body": "Bosnia and Herzegovina’s top executive is split along ethnic lines by design. The Presidency has three members, one Bosniak, one Croat, and one Serb, under the Dayton settlement that ended the war. That shared office is meant to keep each constituent people represented at the highest level of the state. Family talk at a café table therefore happens in a country where even the top job is a three-person arrangement, not a single national president.",
+    "body": "Bosnia and Herzegovina’s top executive is split along ethnic lines deliberately. The Presidency has three members, one Bosniak, one Croat, and one Serb, under the Dayton settlement that ended the war. That shared office is meant to keep each constituent people represented at the highest level of the state. Family talk at a café table therefore happens in a country where even the top job is a three-person arrangement, not a single national president.",
     "imageId": "civic-parliament",
     "learnMore": {
       "label": "Wikipedia. Presidency of Bosnia and Herzegovina",
@@ -737,7 +737,7 @@
   "section": 1,
   "sayAgain": {
     "title": "Say again",
-    "intro": "Warm up with four frames you already know.",
+    "intro": "Warm up with four lines you already know.",
     "lines": [
       {
         "bosnian": "Jednu kahvu, molim.",

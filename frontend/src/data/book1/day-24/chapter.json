@@ -126,7 +126,7 @@
   "grammar": [
     {
       "title": "Nature nouns in short present lines",
-      "explanation": "Practice the whole expression before you worry about paradigms. Planina, rijeka, jezero, and šuma name the landscape around you. Pair each noun with ovo je or vidim in a present-tense line.",
+      "explanation": "Planina, rijeka, jezero, and šuma name the landscape around you. Pair each noun with ovo je or vidim in a present-tense line.",
       "examples": [
         {
           "bosnian": "Ovo je planina.",
@@ -143,8 +143,8 @@
       ]
     },
     {
-      "title": "Visoko and nisko as place chunks",
-      "explanation": "Build this as a ready-made line you can reuse. Visoko means high and nisko means low. Use them to describe mountains and river valleys without a full comparative chart.",
+      "title": "Visoko and nisko as place lines",
+      "explanation": "Visoko means high and nisko means low. Use them to describe mountains and river valleys without a full comparative chart.",
       "examples": [
         {
           "bosnian": "Planina je visoko.",
@@ -162,7 +162,7 @@
     },
     {
       "title": "Veći and manji as light comparison phrases",
-      "explanation": "Store this as a phrase you can pull out in conversation. Veći means bigger and manji means smaller. Use them as fixed chunks with rijeka or planina rather than opening a full adjective table.",
+      "explanation": "Veći means bigger and manji means smaller. Use them as fixed chunks with rijeka or planina rather than opening a full adjective table.",
       "examples": [
         {
           "bosnian": "Una je veća rijeka.",
@@ -181,14 +181,14 @@
   ],
   "culture": {
     "title": "Rivers and Olympic peaks across the map",
-    "body": "Bosnia and Herzegovina holds dramatic nature within a small map. The Una River runs emerald green through the northwest while the Neretva carves a deep canyon toward the south. Bjelašnica rises near Sarajevo with rocky ridges that hosted men's Olympic ski events in 1984. Jahorina in Republika Srpska remains a busy winter resort linked to women's Olympic skiing from the same Games. Ana spreads postcards of rivers and peaks across the café table. Nature vocabulary turns travel dreams into names learners can say today.",
+    "body": "Bosnia and Herzegovina packs a lot of dramatic scenery into a small map. The Una River runs emerald green through the northwest, while the Neretva carves a deep canyon farther south. Bjelašnica rises near Sarajevo with rocky ridges that hosted the men's Olympic ski events in 1984. Jahorina, over in Republika Srpska, is still a busy winter resort and hosted the women's Olympic skiing that same year. Ana spreads postcards of rivers and peaks across the café table, and you can use them to practice naming what you see.",
     "imageId": "una-river"
   },
   "lessonBlocks": [
     {
       "id": "a",
       "title": "Lesson A. Name mountains and rivers",
-      "body": "Start with planina, rijeka, jezero, and šuma. Say Ovo je planina and Vidim rijeku while you look at a map or postcard. Add Una and Neretva as place names you can pronounce with confidence. Ana and Emir compare northwest rivers with southern canyons. Keep every description in the present tense. Nature talk works best when you name one feature per short line.",
+      "body": "Start with planina, rijeka, jezero, and šuma. Say Ovo je planina and Vidim rijeku while you look at a map or postcard. Add Una and Neretva as place names you can pronounce with confidence. Ana and Emir compare northwest rivers with southern canyons. Keep every description in the present tense, and stick to one feature per short line so it stays easy to say.",
       "tips": [
         "Point at a map while you say ovo je.",
         "Keep one nature noun per short sentence.",
@@ -198,7 +198,7 @@
     {
       "id": "b",
       "title": "Lesson B. Compare height and size",
-      "body": "Add visoko, nisko, veći, and manji as comparison chunks. Say Bjelašnica je visoka and Una je veća rijeka without opening a full grammar grid. Mention Jahorina as a ski name learners hear in winter travel stories. Amira pours coffee while Mrvica bats at a pinecone near a nature photo. Mix priroda and voda when you describe why you like a walk. End with one line that names a place you want to visit this year.",
+      "body": "Add visoko, nisko, veći, and manji as comparison chunks. Say Bjelašnica je visoka and Una je veća rijeka without opening a full grammar grid. Mention Jahorina, a ski name you will hear often in winter travel stories. Amira pours coffee while Mrvica bats at a pinecone near a nature photo. Mix priroda and voda when you describe why you like a walk. End with one line that names a place you want to visit this year.",
       "tips": [
         "Use veći and manji as fixed chunks with rijeka.",
         "Say Bjelašnica and Jahorina aloud several times.",
@@ -353,26 +353,26 @@
   "funFacts": [
     {
       "title": "Una runs emerald in the northwest",
-      "body": "The Una River is famous for green water and waterfalls near Bihać. Travelers name it early when they plan nature trips. Ana's postcard keeps the river on the lesson table."
+      "body": "The Una River is famous for green water and waterfalls near Bihać. It is often the first river name travelers learn when they plan a nature trip in Bosnia. Ana's postcard keeps the river on the lesson table."
     },
     {
       "title": "Neretva cuts a southern canyon",
-      "body": "The Neretva flows through a dramatic canyon toward the Adriatic region. It connects mountain stories with southern travel dreams. River names widen the map beyond one city."
+      "body": "The Neretva flows through a dramatic canyon toward the Adriatic region. It connects mountain stories with southern travel dreams. Learning its name helps you talk about more of the map than just Sarajevo or Mostar."
     },
     {
       "title": "1984 Olympics left two ski stories",
-      "body": "Sarajevo hosted the 1984 Winter Olympics on nearby mountains. Jahorina and Bjelašnica still appear in winter travel talk today. Olympic names give learners cultural hooks for nature vocabulary."
+      "body": "Sarajevo hosted the 1984 Winter Olympics on nearby mountains. Jahorina and Bjelašnica still appear in winter travel talk today. Knowing both names gives you an easy way to talk about the mountains and that Olympic history at once."
     },
     {
       "title": "Veći and manji stay light in Book 1",
-      "body": "Book 1 treats veći and manji as sayable comparison chunks rather than a full adjective system. Pair them with rijeka or jezero in one short line. Present-tense nature talk stays practical."
+      "body": "Book 1 treats veći and manji as sayable comparison chunks rather than a full adjective system. Pair them with rijeka or jezero in one short line, and you are ready to compare things without a grammar chart."
     }
   ],
   "resources": [
     {
       "label": "Beba Selimović - Bosno moja",
       "url": "https://www.youtube.com/watch?v=OXul62dILOo",
-      "note": "A Bosnia song supports nature-day listening."
+      "note": "A Bosnian song supports today's nature-themed listening."
     },
     {
       "label": "Next lesson",
@@ -673,7 +673,7 @@
   ],
   "civicContext": {
     "title": "Jahorina booms while Bjelašnica and Igman Olympic sites lag",
-    "body": "The 1984 Winter Olympics left Bosnia and Herzegovina with ski venues that later split across entity lines. Jahorina hosted women's alpine events and now sits in Republika Srpska, where postwar investment rebuilt lifts, hotels, and a busy tourist season. Bjelašnica and Igman hosted men's events on what became Federation territory and took heavier wartime damage with weaker recovery spending. The same Games therefore left one Olympic mountain as a major ski destination while neighboring host slopes still look neglected.",
+    "body": "The 1984 Winter Olympics left Bosnia and Herzegovina with ski venues that later fell on different sides of the postwar entity line. Jahorina hosted the women's alpine events and now sits in Republika Srpska, where investment rebuilt its lifts, hotels, and winter season. Bjelašnica and Igman hosted the men's events on what became Federation territory, and both took heavier wartime damage along with slower recovery funding. Three decades later, one Olympic mountain draws steady ski tourism while its neighboring host slopes still wait for the same kind of investment.",
     "imageId": "civic-olympic-ski-gap",
     "learnMore": {
       "label": "Wikipedia article about Jahorina",
@@ -683,7 +683,7 @@
   "authenticListen": {
     "title": "Čuj Bosnu with Bosno moja for nature feeling",
     "kind": "song",
-    "hook": "A Bosnia song gives river-and-mountain day a listening anchor.",
+    "hook": "A Bosnian song gives you a listening anchor for today's river and mountain talk.",
     "source": {
       "title": "Beba Selimović - Bosno moja",
       "artistOrSpeaker": "Beba Selimović",
@@ -697,9 +697,9 @@
     "listenTask": {
       "prompt": "Listen for a landscape mood without translating every lyric.",
       "gistQuestion": {
-        "prompt": "What kind of clip supports a nature day?",
+        "prompt": "What kind of clip fits a lesson about nature?",
         "options": [
-          "A warm Bosnia song",
+          "A warm Bosnian song",
           "A bus departure board",
           "A restaurant bill lesson",
           "A phone emergency call"
@@ -734,7 +734,7 @@
   "section": 4,
   "sayAgain": {
     "title": "Say again",
-    "intro": "Warm up with four frames you already know.",
+    "intro": "Warm up with four lines you already know.",
     "lines": [
       {
         "bosnian": "Šta radiš danas?",

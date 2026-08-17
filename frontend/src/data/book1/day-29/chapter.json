@@ -129,7 +129,7 @@
   "grammar": [
     {
       "title": "I linking lines",
-      "explanation": "Build this as a ready-made line you can reuse. Use i to add one more fact in the same present mood. Keep both sides short so a postcard stays readable on a small card.",
+      "explanation": "Use i to add one more fact in the same present mood. Keep both sides short so a postcard stays readable on a small card.",
       "examples": [
         {
           "bosnian": "Volim kafu i burek.",
@@ -147,7 +147,7 @@
     },
     {
       "title": "Ali contrast chunk",
-      "explanation": "Memorize the phrase shape. Leave the full table for later. Ali introduces a contrast without a new tense. Place it between two present facts. The second half often carries the surprise.",
+      "explanation": "Ali introduces a contrast without a new tense. Place it between two present facts. The second half often carries the surprise.",
       "examples": [
         {
           "bosnian": "Vrijeme je hladno, ali idem u grad.",
@@ -165,7 +165,7 @@
     },
     {
       "title": "Zato reason line",
-      "explanation": "Focus on the spoken chunk. Postpone the full paradigm. Zato gives a simple reason in the present. Use it after a fact your family should understand. One reason per sentence keeps the postcard honest.",
+      "explanation": "Zato gives a simple reason in the present. Use it after a fact your family should understand. One reason per sentence keeps the postcard honest.",
       "examples": [
         {
           "bosnian": "Volim Bosnu i Hercegovinu. Zato pišem.",
@@ -184,7 +184,7 @@
   ],
   "culture": {
     "title": "Postcards and diaspora mail from Sarajevo",
-    "body": "Families abroad still light up when a razglednica arrives from Sarajevo with a familiar skyline and cramped handwriting. Ana writes at a small desk near Ferhadija while the tram bell drifts through the window. She mentions coffee, stone streets, and a quiet memorial memory she carries today rather than a history lecture. Diaspora relatives read slowly and answer with their own short lines. Mail is slower than a chat app yet carries tone in every i and ali. A present tense postcard keeps Ana connected without promising fluent novels overnight.",
+    "body": "Families abroad still light up when a razglednica arrives from Sarajevo with a familiar skyline and cramped handwriting. Ana writes at a small desk near Ferhadija while the tram bell drifts through the window. She mentions coffee, stone streets, and a quiet memorial memory she carries today rather than a history lecture. Diaspora relatives read slowly and answer with their own short lines. Mail is slower than a chat app yet carries tone in every i and ali. A few present tense sentences are enough to keep Ana connected today, long before she can write anything close to a novel in Bosnian.",
     "imageId": "postcard-desk"
   },
   "lessonBlocks": [
@@ -201,7 +201,7 @@
     {
       "id": "b",
       "title": "Lesson B. I, ali, and zato on the card",
-      "body": "Move from nouns to linked ideas on the postcard back in cramped handwriting. Write Sarajevo je hladno, ali lijep with ali between two present facts your parents understand. Add Volim grad i učim bosanski with i for a gentle list of good news. Close with Zato pišem pismo when you explain why the card exists in the mailbox today. Ana mentions porodica daleko and one calm sjećanje from a memorial she respects. Amira suggests a shorter poruka for the small space above the skyline photo. Practice a three-line postcard aloud. Greeting, linked fact, zato closing, then hvala at the post office door.",
+      "body": "Move from nouns to linked ideas on the postcard back in cramped handwriting. Write Sarajevo je hladno, ali lijep with ali between two present facts your parents understand. Add Volim grad i učim bosanski with i for a gentle list of good news. Close with Zato pišem pismo when you explain why the card exists in the mailbox today. Ana mentions porodica daleko and one calm sjećanje from a memorial she respects. Amira suggests a shorter poruka for the small space above the skyline photo. Try writing and saying a three-line postcard out loud. A greeting, one linked fact, and a zato closing, then hvala at the post office door.",
       "tips": [
         "Keep ali contrasts short on a small card.",
         "Use zato once so the ending feels clear.",
@@ -374,7 +374,7 @@
     },
     {
       "title": "Memorial visits can stay quiet",
-      "body": "Ana mentions a memorial memory lightly in culture while civic content elsewhere covers denial politics. Letter tone stays respectful and brief."
+      "body": "Ana mentions a memorial memory lightly, without turning the postcard into a history lecture. Letter tone stays respectful and brief, the way real families write home."
     }
   ],
   "resources": [
@@ -695,7 +695,7 @@
   ],
   "civicContext": {
     "title": "Genocide denial and war-criminal glorification remain elite politics",
-    "body": "Denial of the Srebrenica genocide remains common among nationalist political elites in Bosnia and Herzegovina. Convicted war criminals are still praised in murals, rallies, and campaign messaging. Tribunal judgments and memorial facts collide with public rhetoric that minimizes or rejects the genocide finding. Memory of the worst crime of the war therefore stays contested in everyday politics rather than settled history.",
+    "body": "Denial of the Srebrenica genocide remains common among nationalist political elites in Bosnia and Herzegovina. Convicted war criminals are still praised in murals, rallies, and campaign messaging. Tribunal rulings and memorial records sit alongside public rhetoric that minimizes or rejects the genocide finding. Memory of the worst crime of the war stays a live political argument here, not settled history.",
     "imageId": "civic-genocide-denial",
     "learnMore": {
       "label": "Wikipedia article on Bosnian genocide denial",
@@ -755,7 +755,7 @@
   "section": 4,
   "sayAgain": {
     "title": "Say again",
-    "intro": "Warm up with four frames you already know.",
+    "intro": "Warm up with four lines you already know.",
     "lines": [
       {
         "bosnian": "Pišem pismo.",

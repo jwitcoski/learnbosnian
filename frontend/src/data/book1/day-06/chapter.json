@@ -6,7 +6,7 @@
   "theme": "Clocks and daily rhythm across Bosnia and Herzegovina",
   "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "Revised for BiH geographic diversity (Travnik, Una/Bihać, Neum) and accurate Travnik sahat-kula art. ready for human review.",
+  "reviewerNotes": "Revised for BiH geographic diversity (Travnik, Una/Bihać, Neum) and accurate Travnik sahat-kula art. Ready for human review.",
   "estimatedMinutes": 60,
   "storyBeat": "Emir teaches Ana the time, then shows that Bosnia’s rhythm is bigger than one city. Travnik’s sahat-kula, Una mornings near Bihać, and weekend dreams of Neum.",
   "learningGoals": {
@@ -101,7 +101,7 @@
       "english": "Wednesday",
       "pronunciation": "SREE-yeh-dah",
       "partOfSpeech": "noun",
-      "example": "U srijedu. kahva."
+      "example": "U srijedu. Kahva."
     },
     {
       "bosnian": "četvrtak",
@@ -129,7 +129,7 @@
       "english": "Sunday",
       "pronunciation": "NED-yel-yah",
       "partOfSpeech": "noun",
-      "example": "Nedjelja. spor dan."
+      "example": "Nedjelja. Spor dan."
     },
     {
       "bosnian": "kasno",
@@ -142,7 +142,7 @@
   "grammar": [
     {
       "title": "Koliko je sati?",
-      "explanation": "Hold this as a spoken pattern. Do not treat it as a grammar grid. Ask the time with Koliko je sati? Answer with a number from Lesson 3 plus sat or sati. Say Jedan je sat for one o’clock. For two through four you will often hear sati. Keep the chunk short and clear.",
+      "explanation": "Ask the time with Koliko je sati? Answer with a number from Lesson 3 plus sat or sati. Say Jedan je sat for one o’clock. For two through four you will often hear sati.",
       "examples": [
         {
           "bosnian": "Koliko je sati?",
@@ -160,7 +160,7 @@
     },
     {
       "title": "Danas and sutra",
-      "explanation": "Learn the usable chunk first. Full tables can wait. Danas means today. Sutra means tomorrow. Pair them with a weekday. Say Danas je petak. Say Sutra je subota. You can also place plans with Sutra u deset sati.",
+      "explanation": "Danas means today. Sutra means tomorrow. Pair them with a weekday. Say Danas je petak. Say Sutra je subota. You can also place plans with Sutra u deset sati.",
       "examples": [
         {
           "bosnian": "Danas je petak.",
@@ -177,8 +177,8 @@
       ]
     },
     {
-      "title": "Weekdays. chant the week",
-      "explanation": "Keep this as a sayable line rather than a paradigm list. Learn the seven days as a list. The words are ponedjeljak, utorak, srijeda, četvrtak, petak, subota, and nedjelja. Watch the special letters in srijeda and četvrtak.",
+      "title": "Weekdays. Chant the week",
+      "explanation": "Learn the seven days as a list. The words are ponedjeljak, utorak, srijeda, četvrtak, petak, subota, and nedjelja. Watch the special letters in srijeda and četvrtak.",
       "examples": [
         {
           "bosnian": "ponedjeljak, utorak, srijeda",
@@ -204,7 +204,7 @@
     {
       "id": "a",
       "title": "Lesson A. Ask the time",
-      "body": "Drill Koliko je sati? Then answer with Lesson 3 numbers. Say Pet je sati. Say Osam je sati. Say Deset je sati. Say Jedan je sat. Add place chunks such as U osam sati kod Amire and U dvanaest sati for podne. Emir flips a postcard of Travnik’s sahat-kula while Ana practices. The same question works in every Bosnian town. Ana still says Kasno je! when she is late for kahva.",
+      "body": "Drill Koliko je sati? Then answer with Lesson 3 numbers. Say Pet je sati. Say Osam je sati. Say Deset je sati. Say Jedan je sat. Add a place line such as U osam sati kod Amire and U dvanaest sati for podne. Emir flips a postcard of Travnik’s sahat-kula while Ana practices. The same question works in every Bosnian town. Ana still says Kasno je! When she is late for kahva.",
       "tips": [
         "Ask with Koliko je sati?",
         "Reuse numbers one through twelve from Lesson 3."
@@ -514,7 +514,7 @@
           "Igman"
         ],
         "correctIndex": 1,
-        "explanation": "Travnik’s clock tower stands with Mount Vlašić behind it. central Bosnia rather than Sarajevo.",
+        "explanation": "Travnik’s clock tower stands with Mount Vlašić behind it, central Bosnia rather than Sarajevo.",
         "skill": "vocabulary"
       },
       {
@@ -669,7 +669,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Pelje%C5%A1ac_Bridge_3.jpg",
       "author": "kallerna",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on the photo Pelješac Bridge. kallerna / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Based on the photo Pelješac Bridge. Kallerna / Wikimedia Commons (CC BY-SA 4.0)"
     }
   ],
   "imagesNeeded": false,
@@ -713,7 +713,7 @@
         "sati",
         "jutro"
       ],
-      "noticePrompt": "Time phrases are chunks. Koliko je sati?"
+      "noticePrompt": "Time phrases are short and fixed. Listen for Koliko je sati?"
     },
     "reveal": {
       "keyLines": [
@@ -737,7 +737,7 @@
   "section": 1,
   "sayAgain": {
     "title": "Say again",
-    "intro": "Warm up with four frames you already know.",
+    "intro": "Warm up with four lines you already know.",
     "lines": [
       {
         "bosnian": "Gdje je Mostar?",

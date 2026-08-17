@@ -68,7 +68,7 @@ const Footer = () => {
                 <Para>YouTube channel</Para>
               </a>
               <Link to="/books">
-                <Para>Books 2 &amp; 3 (coming)</Para>
+                <Para>Books 2 &amp; 3 (not started)</Para>
               </Link>
               <Link to="/attributions">
                 <Para>Photo credits</Para>

@@ -1,20 +1,17 @@
-# Copy audit — Learn Bosnian (English chrome)
+# Copy audit — Learn Bosnian (English chrome + pedagogy)
 
-**Status:** High-impact chrome edits applied on branch `cursor/copy-audit-5ae2`. Remaining items wait on clarified decisions below.
+**Status:** Applied on `cursor/copy-audit-5ae2`.
 
-**Decisions locked in:**
-- House term: **Dictionary** (not Mini-dictionary)
-- Learner UI: **lesson** (Lesson 0 + Lessons 1–30 in four **sections**)
-- YouTube: companion video planned per lesson as lessons are written/published
-- Hide Transcribe / Bedrock / S3 from lesson UI: **yes**
-- Contact form label bug: **fixed**
-- Books 2 & 3: framed as future plans; Book 3 title kept for now
-- Dictionary “grows each night”: removed (that was internal publishing talk, not a learner promise)
+## Decisions
+- Dictionary (house term)
+- Learner UI: lesson + four sections
+- YouTube: companion per lesson as published
+- Hide Speak Check AWS jargon
+- Contact labels fixed; Landy dead keys deleted
+- Books 2 and 3: **Not started** labels only
+- Hero secondary CTA: **See curriculum**
+- Pedagogical English in Book 1 chapter JSON: rewritten (boilerplate stripped + prose pass)
 
-**Still waiting on your call:**
-- Hero secondary CTA wording (kept **See curriculum** for now)
-- Whether to tone-edit pedagogical lesson English later
-- Whether to delete leftover Landy template translation strings
-- Book 3 title rename (optional; currently kept)
-
-Application is the source of truth: see the git diff on this branch.
+## Out of scope leftovers
+- Photo credit strings that must match upstream attribution format
+- Internal `reviewerNotes` / image briefs

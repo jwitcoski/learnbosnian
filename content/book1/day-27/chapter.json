@@ -17,7 +17,7 @@
     ],
     "grammar": [
       "Use radim and učim as steady present routine verbs.",
-      "Ask Gdje radiš? and answer with a workplace chunk.",
+      "Ask Gdje radiš? And answer with a workplace chunk.",
       "Link škola plans with želim and danas."
     ],
     "culture": [
@@ -129,7 +129,7 @@
   "grammar": [
     {
       "title": "Radim routine lines",
-      "explanation": "Treat this as a ready chunk you can say today. Radim tells what you do for work in the present. Add svaki dan or danas after the verb. Keep the line short so guide shifts and office talk stay sayable.",
+      "explanation": "Radim tells what you do for work in the present. Add svaki dan or danas after the verb. Keep the line short so guide shifts and office talk stay sayable.",
       "examples": [
         {
           "bosnian": "Radim kao vodič.",
@@ -147,7 +147,7 @@
     },
     {
       "title": "Učim study chunks",
-      "explanation": "Learn the usable chunk first. Full tables can wait. Učim names what you study now. Pair it with bosanski, u biblioteci, or sa kolegom. Present study plans need no past tense storytelling.",
+      "explanation": "Učim names what you study now. Pair it with bosanski, u biblioteci, or sa kolegom. Present study plans need no past tense storytelling.",
       "examples": [
         {
           "bosnian": "Učim bosanski.",
@@ -165,7 +165,7 @@
     },
     {
       "title": "Workplace question shape",
-      "explanation": "Store this as a phrase you can pull out in conversation. Ask Gdje radiš? to learn where someone works. Answer with u plus a place chunk. The question shape opens polite small talk on a tram or campus path.",
+      "explanation": "Ask Gdje radiš? To learn where someone works. Answer with u plus a place chunk. The question shape opens polite small talk on a tram or campus path.",
       "examples": [
         {
           "bosnian": "Gdje radiš?",
@@ -184,14 +184,14 @@
   ],
   "culture": {
     "title": "Campus and office postcard from Banja Luka",
-    "body": "Banja Luka mixes tram lines, café breaks, and a university campus where students carry notebooks beside the Vrbas River. Emir wears a guide badge for morning groups while Ana borrows a desk in the library for Bosnian homework. Office workers share quick coffee with kolega before the next meeting. Students compare raspored notes in the hallway and say učim prije ispita. A mid-size city workday feels calmer than capital rush yet still full of schedules. Present tense lines about radim and učim let you join that routine without a career memoir.",
+    "body": "Banja Luka mixes tram lines, café breaks, and a university campus where students carry notebooks beside the Vrbas River. Emir wears a guide badge for morning groups while Ana borrows a desk in the library for Bosnian homework. Office workers share quick coffee with kolega before the next meeting. Students compare raspored notes in the hallway and say učim prije ispita. A mid-size city workday feels calmer than capital rush yet still full of schedules. Present tense lines with radim and učim are all you need to talk about your own routine here.",
     "imageId": "guide-badge"
   },
   "lessonBlocks": [
     {
       "id": "a",
       "title": "Lesson A. Work and study verbs",
-      "body": "Open with posao and škola so work and campus share one lesson frame. Practice Radim kao vodič until Emir's guide shift sounds natural on a busy morning. Add učim bosanski for Ana's study plan at the biblioteka after lunch. Name kolega and student when you point at people in the hallway between classes. Ask Gdje radiš? on the tram and answer with a place chunk that names your office or campus building. Keep radim and učim as present lines rather than a full conjugation chart on the wall. Say danas and svaki dan to anchor time without opening future tables. Say each routine sentence twice, then add hvala when a colleague opens the door for you.",
+      "body": "Open with posao and škola so work and campus share one lesson frame. Practice Radim kao vodič until Emir's guide shift sounds natural on a busy morning. Add učim bosanski for Ana's study plan at the biblioteka after lunch. Name kolega and student when you point at people in the hallway between classes. Ask Gdje radiš? On the tram and answer with a place chunk that names your office or campus building. Keep radim and učim as present lines rather than a full conjugation chart on the wall. Say danas and svaki dan to anchor time without opening future tables. Say each routine sentence twice, then add hvala when a colleague opens the door for you.",
       "tips": [
         "Pair radim with a place chunk u plus location.",
         "Say učim with the subject you study today.",
@@ -201,7 +201,7 @@
     {
       "id": "b",
       "title": "Lesson B. Schedules on a busy day",
-      "body": "Move from verbs to a full weekday raspored on paper beside your coffee cup. Say Imam pauzu u podne when Emir rests between tour groups in the old town. Ana tells Amira Želim učiti u biblioteci danas while notebooks stack on the desk. Emir meets a kolega near the kancelarija and shares a quick plan for the afternoon shift. Students pass with knjige while a tram bell rings outside the faculty window. Reuse hvala and vidimo se when the shift ends and the library lamps glow. Practice a short chain aloud. Work verb, study verb, schedule noun, break phrase, thanks, and one calm goodbye. Repeat the chain until your own weekday story feels sayable in Bosnian.",
+      "body": "Move from verbs to a full weekday raspored on paper beside your coffee cup. Say Imam pauzu u podne when Emir rests between tour groups in the old town. Ana tells Amira Želim učiti u biblioteci danas while notebooks stack on the desk. Emir meets a kolega near the kancelarija and shares a quick plan for the afternoon shift. Students pass with knjige while a tram bell rings outside the faculty window. Reuse hvala and vidimo se when the shift ends and the library lamps glow. Try chaining it together out loud. A work verb, a study verb, a schedule word, a break phrase, thanks, and one calm goodbye. Repeat it until your own weekday story feels sayable in Bosnian.",
       "tips": [
         "Point at a clock when you say danas or u podne.",
         "Keep answers in the present even for future plans.",
@@ -299,7 +299,7 @@
           "answer": false
         },
         {
-          "statement": "Gdje radiš? asks where someone works.",
+          "statement": "Gdje radiš? Asks where someone works.",
           "answer": true
         },
         {
@@ -368,7 +368,7 @@
     },
     {
       "title": "Kolega opens office small talk",
-      "body": "Naming a kolega humanizes workplace scenes. One polite question about posao can start a friendly break. Keep the tone present and practical."
+      "body": "Naming a kolega makes workplace scenes feel more real. One polite question about posao can start a friendly break. Keep the tone present and practical."
     }
   ],
   "resources": [
@@ -454,7 +454,7 @@
           "Kakvo je vrijeme?"
         ],
         "correctIndex": 0,
-        "explanation": "Gdje radiš? asks where you work.",
+        "explanation": "Gdje radiš? Asks where you work.",
         "skill": "grammar"
       },
       {
@@ -654,7 +654,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_tram_706.jpg",
       "author": "xiquinhosilva",
       "license": "CC BY 2.0",
-      "credit": "Polygon painting based on the photo Sarajevo tram 706.jpg. xiquinhosilva / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Polygon painting based on the photo Sarajevo tram 706.jpg. Xiquinhosilva / Wikimedia Commons (CC BY 2.0)"
     },
     {
       "id": "civic-rs-secession",
@@ -676,7 +676,7 @@
   ],
   "civicContext": {
     "title": "Republika Srpska leaders keep challenging state courts and police",
-    "body": "Leaders in Republika Srpska repeatedly push secessionist rhetoric against the shared state of Bosnia and Herzegovina. Entity officials have refused or delayed compliance with state-level court decisions and have built parallel political calendars. Challenges to joint police and judicial authority keep constitutional fights in the daily news. Work and school routines therefore run under a government layer that still contests the state's right to decide.",
+    "body": "Leaders in Republika Srpska repeatedly push secessionist rhetoric against the shared state of Bosnia and Herzegovina. Entity officials have refused or delayed compliance with state-level court rulings and have built their own parallel political calendar. Disputes over joint police and judicial authority stay in the daily news rather than getting resolved. Ordinary work and school routines carry on underneath a government layer that still argues over the state's basic right to decide.",
     "imageId": "civic-rs-secession",
     "learnMore": {
       "label": "Wikipedia article on proposed secession of Republika Srpska",
@@ -736,7 +736,7 @@
   "section": 4,
   "sayAgain": {
     "title": "Say again",
-    "intro": "Warm up with four frames you already know.",
+    "intro": "Warm up with four lines you already know.",
     "lines": [
       {
         "bosnian": "Danas radim.",

@@ -16,7 +16,7 @@
     ],
     "grammar": [
       "Remember sam, si, je and moj, moja",
-      "Remember Gdje je…? and Koliko je sati?",
+      "Remember Gdje je…? And Koliko je sati?",
       "Reuse familiar present-tense frames from earlier lessons."
     ],
     "culture": [
@@ -98,8 +98,8 @@
   ],
   "grammar": [
     {
-      "title": "Remember. biti and possessives",
-      "explanation": "Memorize the phrase shape. Leave the full table for later. Core so far includes Ja sam Ana, Ti si Emir, and On je or Ona je. Pair those with possessives. Say Moj prijatelj. Say Moja prijateljica.",
+      "title": "Remember. Biti and possessives",
+      "explanation": "So far the core lines are Ja sam Ana, Ti si Emir, and On je or Ona je. Pair those with possessives. Say Moj prijatelj. Say Moja prijateljica.",
       "examples": [
         {
           "bosnian": "Ja sam Ana. Ti si Emir.",
@@ -116,8 +116,8 @@
       ]
     },
     {
-      "title": "Remember. where and when",
-      "explanation": "Take this as a speaking chunk. Do not memorize a case chart yet. For place, keep Gdje je…?, Ovdje, Tamo, U Sarajevu, and Kod Amire ready. For time, keep Koliko je sati?, danas, sutra, and a weekday ready. Put them in one diary line. Say Danas sam kod Amire.",
+      "title": "Remember. Where and when",
+      "explanation": "For place, keep Gdje je…?, Ovdje, Tamo, U Sarajevu, and Kod Amire ready. For time, keep Koliko je sati?, danas, sutra, and a weekday ready. Put them in one diary line. Say Danas sam kod Amire.",
       "examples": [
         {
           "bosnian": "Gdje je Mostar? Tamo.",
@@ -143,7 +143,7 @@
     {
       "id": "a",
       "title": "Lesson A. Recycle the toolkit",
-      "body": "This review is a frame drill for Section 1. Run a rapid fire drill without notes. Say Zdravo! Say Ja sam… Say Drago mi je. Say Kahvu, molim. Ask Koliko? Say Moj brat. Say Moja sestra. Ask Gdje je mapa? Answer Ovdje. Answer Tamo. Ask Koliko je sati? Say Danas. Say Sutra. Emir times Ana for two minutes. Misses are fine. Laugh, repeat, and move on. Circle three weak words and write them once with the correct letters.",
+      "body": "This review moves fast, without notes. Say Zdravo! Say Ja sam… Say Drago mi je. Say Kahvu, molim. Ask Koliko? Say Moj brat. Say Moja sestra. Ask Gdje je mapa? Answer Ovdje. Answer Tamo. Ask Koliko je sati? Say Danas. Say Sutra. Emir times Ana for two minutes. Misses are fine. Laugh, repeat, and move on. Circle three weak words and write them once with the correct letters.",
       "tips": [
         "Speed first, then one careful rewrite.",
         "Revisit č ć š ž đ from Lesson 1 if your spelling slips."
@@ -152,10 +152,10 @@
     {
       "id": "b",
       "title": "Lesson B. Photo diary captions",
-      "body": "Caption six lines for skills from Lessons 1 to 6. Then add three place lines Emir teaches as teases. Write Jajce, vodopad. Write Blagaj, Buna. Write Počitelj, stari grad. Glue them with Gdje je…? and Tamo. Share the diary at the table. Amira closes the lesson with Hvala, and sutra! Lesson 8 will bring burek and more of the map.",
+      "body": "Caption six lines for skills from Lessons 1 to 6. Then add three place lines Emir teaches as teases. Write Jajce, vodopad. Write Blagaj, Buna. Write Počitelj, stari grad. Glue them with Gdje je…? And Tamo. Share the diary at the table. Amira closes the lesson with Hvala, and sutra! Lesson 8 will bring burek and more of the map.",
       "tips": [
         "Lines from Lessons 1 to 6 come first, then three new place names.",
-        "Reuse Gdje je…? and Tamo for the postcard stack."
+        "Reuse Gdje je…? And Tamo for the postcard stack."
       ]
     }
   ],
@@ -210,7 +210,7 @@
       "id": "p1",
       "type": "match",
       "title": "Lessons 1 to 6 rapid match",
-      "prompt": "Match Bosnian from Lessons 1. 6 to English.",
+      "prompt": "Match Bosnian from Lessons 1 to 6 to English.",
       "items": [
         {
           "left": "zdravo",
@@ -388,7 +388,7 @@
           "Name your sister"
         ],
         "correctIndex": 1,
-        "explanation": "Café order chunk from Lesson 3.",
+        "explanation": "Café order line from Lesson 3.",
         "skill": "vocabulary"
       },
       {
@@ -466,7 +466,7 @@
           "Who is Emir?"
         ],
         "correctIndex": 1,
-        "explanation": "Time question from Lesson 6 (koliko košta? Was price in Lesson 3).",
+        "explanation": "Time question from Lesson 6. Koliko košta? Asked price back in Lesson 3.",
         "skill": "dialogue"
       },
       {
@@ -693,7 +693,7 @@
   "section": 1,
   "sayAgain": {
     "title": "Say again",
-    "intro": "Warm up with four frames you already know.",
+    "intro": "Warm up with four lines you already know.",
     "lines": [
       {
         "bosnian": "Koliko je sati?",

@@ -126,7 +126,7 @@
   "grammar": [
     {
       "title": "Vidim and ovo je for what you see",
-      "explanation": "Treat this as a ready chunk you can say today. Vidim means I see. Ovo je means this is. Point at a building and name it in one short present-tense line.",
+      "explanation": "Vidim means I see. Ovo je means this is. Point at a building and name it in one short present-tense line.",
       "examples": [
         {
           "bosnian": "Vidim džamiju.",
@@ -144,7 +144,7 @@
     },
     {
       "title": "Tamo je and šetamo for place talk",
-      "explanation": "Learn the usable chunk first. Full tables can wait. Tamo je points to something farther away. Šetamo means we walk. Use both chunks while you move through a town in the present.",
+      "explanation": "Tamo je points to something farther away. Šetamo means we walk. Use both while you move through a town, all in the present tense.",
       "examples": [
         {
           "bosnian": "Tamo je kula.",
@@ -162,7 +162,7 @@
     },
     {
       "title": "Naming landmarks in the present",
-      "explanation": "Take this as a speaking chunk. Do not memorize a case chart yet. Combine vidim, ovo je, and tamo je with džamija, kula, and grad. Keep every sightseeing line in the present tense.",
+      "explanation": "Combine vidim, ovo je, and tamo je with džamija, kula, and grad. Keep every sightseeing line in the present tense.",
       "examples": [
         {
           "bosnian": "Vidim kulu.",
@@ -181,14 +181,14 @@
   ],
   "culture": {
     "title": "Travnik as a vizier town with colorful mosque",
-    "body": "Travnik was once the seat of Ottoman viziers in central Bosnia and Herzegovina. The old town climbs a hillside above the Plava Voda spring and keeps narrow streets full of color. Sulejmanija Mosque stands with painted details that travelers photograph from every angle. Ana and Emir walk the stone lanes and name what they see in short present-tense lines. A vizier town feels like a living museum where every corner offers a new view. Travnik rewards slow walking and polite greetings with locals.",
+    "body": "Travnik was once the seat of Ottoman viziers in central Bosnia and Herzegovina. The old town climbs a hillside above the Plava Voda spring, and its narrow streets are still full of color. Sulejmanija Mosque stands with painted details that travelers photograph from every angle. Ana and Emir walk the stone lanes and name what they see in short present-tense lines. A vizier town feels like a living museum, where every corner offers a new view. Travnik rewards slow walking and a friendly greeting to the locals you pass.",
     "imageId": "travnik-mosque"
   },
   "lessonBlocks": [
     {
       "id": "a",
       "title": "Lesson A. Point and name what you see",
-      "body": "Start with vidim and ovo je. Point at Sulejmanija and say Ovo je Sulejmanija. Add džamija, kula, and stari grad as landmark nouns you can name today. Practice Vidim džamiju and Ovo je stari grad while you stand on a real or imagined corner. Ana walks beside Emir and tests each chunk before she takes a photo. Keep every sentence in the present tense. Sightseeing works best when you say the whole line together rather than hunting for a case ending.",
+      "body": "Start with vidim and ovo je. Point at Sulejmanija and say Ovo je Sulejmanija. Add džamija, kula, and stari grad as landmark nouns you can name today. Practice Vidim džamiju and Ovo je stari grad while you stand on a real or imagined corner. Ana walks beside Emir and tries out each line before she takes a photo. Keep every sentence in the present tense. Sightseeing works best when you say the whole line at once, rather than pausing to work out a case ending.",
       "tips": [
         "Point at a photo while you say ovo je.",
         "Keep vidim and the landmark in one short line.",
@@ -198,7 +198,7 @@
     {
       "id": "b",
       "title": "Lesson B. Walk the old town together",
-      "body": "Move with tamo je and šetamo. Say Tamo je kula when the tower sits uphill. Invite a friend with Hajde da šetamo kroz grad. Amira joins by phone and asks what Ana sees right now. A passerby in Travnik points toward the old walls with a short polite answer. Mix ulica and pogled when you describe the walk. End with one postcard line that names Travnik as a vizier town.",
+      "body": "Move on to tamo je and šetamo. Say Tamo je kula when the tower sits uphill. Invite a friend with Hajde da šetamo kroz grad. Amira joins by phone and asks what Ana sees right now. A passerby in Travnik points toward the old walls with a short, polite answer. Mix in ulica and pogled when you describe the walk. End with one postcard line that names Travnik as a vizier town.",
       "tips": [
         "Use tamo je when the sight sits farther uphill.",
         "Invite a friend with Hajde da šetamo.",
@@ -256,8 +256,8 @@
     {
       "id": "p1",
       "type": "match",
-      "title": "Match the sightseeing chunks",
-      "prompt": "Match each Bosnian chunk with its English meaning.",
+      "title": "Match the sightseeing phrases",
+      "prompt": "Match each Bosnian phrase with its English meaning.",
       "items": [
         {
           "left": "vidim",
@@ -353,19 +353,19 @@
   "funFacts": [
     {
       "title": "Travnik was a vizier seat",
-      "body": "Ottoman viziers once governed from Travnik in central Bosnia and Herzegovina. The town keeps that history in its old walls and titles. Learners hear vizir as a cultural keyword rather than a grammar item."
+      "body": "Ottoman viziers once governed from Travnik in central Bosnia and Herzegovina. The town keeps that history alive in its old walls and titles. Vizir is worth learning as a piece of local history, not just another vocabulary word."
     },
     {
       "title": "Sulejmanija stands out for color",
-      "body": "Sulejmanija Mosque is famous for painted details that catch the eye on a hillside walk. Ana names it with ovo je before she takes a photo. Colorful mosques make present-tense sightseeing memorable."
+      "body": "Sulejmanija Mosque is famous for painted details that catch the eye on a hillside walk. Ana names it with ovo je before she takes a photo. Colorful mosques make present-tense sightseeing easy to remember."
     },
     {
       "title": "Ovo je works like a pointing finger",
-      "body": "Ovo je plus a landmark is the fastest way to name what stands in front of you. You do not need a full case chart to start a Travnik walk. Point, name, and keep moving."
+      "body": "Ovo je plus a landmark is the fastest way to name what stands in front of you. You don't need any case endings to start a Travnik walk. Point, name it, and keep moving."
     },
     {
       "title": "Mountain roads need careful driving",
-      "body": "Roads into towns like Travnik often wind through hills. Fast driving on curves raises accident risk across the country. Travelers notice guardrails and tight turns on the way in."
+      "body": "Roads into towns like Travnik often wind through hills. Fast driving on tight curves raises accident risk across the country. Travelers notice the guardrails and sharp turns on the way in."
     }
   ],
   "resources": [
@@ -382,7 +382,7 @@
     {
       "label": "How to speak Bosnian channel",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Browse more speaker models after Travnik."
+      "note": "Browse more real speaker clips after Travnik."
     }
   ],
   "sectionQuiz": {
@@ -673,7 +673,7 @@
   ],
   "civicContext": {
     "title": "Winding roads and fast driving keep traffic deaths high",
-    "body": "Road travel in Bosnia and Herzegovina remains far more dangerous than the European average. Mountain corridors use tight curves, mixed truck traffic, and limited overtaking space. High speeds among young drivers on those routes raise crash risk further. WHO country profiles still place the national traffic death rate among the worst in Europe, so a day trip can sit on infrastructure that has not caught up with safety needs.",
+    "body": "Road travel in Bosnia and Herzegovina remains far more dangerous than the European average. Mountain corridors bring tight curves, mixed truck traffic, and little room to overtake. High speeds among young drivers on those routes raise the risk further. WHO country profiles still place the national traffic death rate among the worst in Europe, so a simple day trip can run along infrastructure that hasn't caught up with safety needs.",
     "imageId": "civic-winding-road",
     "learnMore": {
       "label": "WHO road safety country profile for Bosnia and Herzegovina",
@@ -710,7 +710,7 @@
         "hvala",
         "dobar"
       ],
-      "noticePrompt": "Catch one polite word you can reuse on a town walk."
+      "noticePrompt": "Catch one polite word you could reuse on a town walk."
     },
     "reveal": {
       "keyLines": [
@@ -734,7 +734,7 @@
   "section": 4,
   "sayAgain": {
     "title": "Say again",
-    "intro": "Warm up with four frames you already know.",
+    "intro": "Warm up with four lines you already know.",
     "lines": [
       {
         "bosnian": "Gdje je Mostar?",

@@ -6,7 +6,7 @@
   "theme": "First walk through Baščaršija",
   "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "Exemplar chapter. ready for human review before publish.",
+  "reviewerNotes": "Exemplar chapter. Ready for human review before publish.",
   "estimatedMinutes": 60,
   "storyBeat": "Ana lands in Sarajevo and takes her first walk through Baščaršija, practicing greetings and new letter sounds.",
   "learningGoals": {
@@ -142,7 +142,7 @@
   "grammar": [
     {
       "title": "The full Latin Bosnian alphabet",
-      "explanation": "Learn this as a full phrase. Do not treat it as a table. Bosnian in this course uses the Latin script only. There is no Cyrillic here. There are 30 letters. Most match English shapes, and a few need extra care. Say the full order out loud. The letters are A B C Č Ć D Dž Đ E F G H I J K L Lj M N Nj O P R S Š T U V Z Ž.",
+      "explanation": "Bosnian in this course uses the Latin script only. There is no Cyrillic here. There are 30 letters. Most match English shapes, and a few need extra care. Say the full order out loud. The letters are A B C Č Ć D Dž Đ E F G H I J K L Lj M N Nj O P R S Š T U V Z Ž.",
       "examples": [
         {
           "bosnian": "A a",
@@ -268,7 +268,7 @@
     },
     {
       "title": "Writing č ć š ž đ",
-      "explanation": "Treat this as a ready chunk you can say today. Bosnian uses letters that many English keyboards do not show by default. You need č ć š ž đ, and the capitals Č Ć Š Ž Đ. You must write them correctly from the start.",
+      "explanation": "Bosnian uses letters that many English keyboards do not show by default. You need č ć š ž đ, and the capitals Č Ć Š Ž Đ. Write them correctly from the start.",
       "examples": [
         {
           "bosnian": "čaj",
@@ -286,7 +286,7 @@
     },
     {
       "title": "Greeting exchanges",
-      "explanation": "Say the whole line together. Skip the full chart for now. Start simple. Say a greeting, hear one back, then add hvala or molim. Formal day greetings use dobar dan. Friends often say zdravo.",
+      "explanation": "Start simple. Say a greeting, hear one back, then add hvala or molim. Formal day greetings use dobar dan. Friends often say zdravo.",
       "examples": [
         {
           "bosnian": "Zdravo!",
@@ -325,7 +325,7 @@
       "body": "Memorize this mini set as full words. Zdravo means hi. Dobar dan means good day. Dobro jutro means good morning. Dobra večer means good evening. Hvala means thanks. Molim means please or you are welcome. Doviđenja means goodbye. Da means yes. Ne means no. Use Dobar dan with people you do not know well. Use Zdravo with friends, or with Emir once you meet him tomorrow. Notice that doviđenja needs đ and večer needs č. Write the special letters carefully when you practice.",
       "tips": [
         "A smile helps more than perfect pronunciation.",
-        "Learn each greeting as a ready chunk. Do not treat it as a grammar puzzle.",
+        "Learn each greeting as a whole phrase, not word by word.",
         "If you forget, Hvala still works almost everywhere."
       ]
     }
@@ -454,13 +454,13 @@
     {
       "id": "pr5",
       "prompt": "Name Sarajevo’s old bazaar.",
-      "hint": "Has š and č. include the special letter",
+      "hint": "Has š and č. Include the special letters",
       "answer": "Baščaršija"
     },
     {
       "id": "pr6",
       "prompt": "Type goodbye in Bosnian (needs đ).",
-      "hint": "doviđenja. tap đ on the accent bar",
+      "hint": "doviđenja. Needs đ",
       "answer": "doviđenja"
     },
     {
@@ -488,7 +488,7 @@
     {
       "label": "How to speak Bosnian (YouTube)",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Companion videos for each chapter after human review"
+      "note": "Companion video for this lesson"
     },
     {
       "label": "Map. Sarajevo old town",
@@ -562,7 +562,7 @@
           "'ch' in church"
         ],
         "correctIndex": 1,
-        "explanation": "Š is like sh in ship. as in Baščaršija.",
+        "explanation": "Š is like sh in ship, as in Baščaršija.",
         "skill": "listening"
       },
       {
@@ -588,7 +588,7 @@
           "Čaj"
         ],
         "correctIndex": 1,
-        "explanation": "Doviđenja means goodbye. The letter đ Needs the letter đ.",
+        "explanation": "Doviđenja means goodbye, and it needs the letter đ.",
         "skill": "vocabulary"
       },
       {
@@ -614,7 +614,7 @@
           "a vs e"
         ],
         "correctIndex": 1,
-        "explanation": "Č is harder. Ć is softer. a classic beginner pair.",
+        "explanation": "Č is harder. Ć is softer. A classic beginner pair.",
         "skill": "grammar"
       }
     ]
@@ -836,7 +836,7 @@
   "section": 1,
   "sayAgain": {
     "title": "Say again",
-    "intro": "Warm up with four frames you already know.",
+    "intro": "Warm up with four lines you already know.",
     "lines": [
       {
         "bosnian": "Učim bosanski.",

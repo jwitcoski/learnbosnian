@@ -18,7 +18,7 @@
     "grammar": [
       "Use skreni for an informal singular direction.",
       "Use idite and other polite forms with a stranger or group.",
-      "Reuse familiar present-tense frames from earlier lessons."
+      "Reuse present-tense patterns from earlier lessons."
     ],
     "culture": [
       "Navigate near Latin Bridge in Sarajevo.",
@@ -115,7 +115,7 @@
   "grammar": [
     {
       "title": "Skreni and idite",
-      "explanation": "Learn the usable chunk first. Full tables can wait. Use skreni when you tell one familiar person to turn. Use idite when you address a stranger politely or speak to more than one person. Add a direction word to make the instruction complete.",
+      "explanation": "Use skreni when you tell one familiar person to turn. Use idite when you address a stranger politely or speak to more than one person. Add a direction word to make the instruction complete.",
       "examples": [
         {
           "bosnian": "Skreni lijevo.",
@@ -133,7 +133,7 @@
     },
     {
       "title": "Polite directions with molim vas",
-      "explanation": "Keep this as a sayable line rather than a paradigm list. Molim vas adds please when you speak politely to a stranger or a group. Pair it with the polite imperative idite. A calm tone and the polite form make a direction sound helpful rather than abrupt.",
+      "explanation": "Molim vas adds please when you speak politely to a stranger or a group. Pair it with the polite imperative idite. A calm tone and the polite form make a direction sound helpful rather than abrupt.",
       "examples": [
         {
           "bosnian": "Idite pravo, molim vas.",
@@ -151,7 +151,7 @@
     },
     {
       "title": "Locate a landmark",
-      "explanation": "Memorize the phrase shape. Leave the full table for later. Use blizu and daleko to describe distance. Use ispred for in front of and iza for behind. Connect these words to a visible landmark such as a bridge, street, café, or museum.",
+      "explanation": "Use blizu and daleko to describe distance. Use ispred for in front of and iza for behind. Connect these words to a visible landmark such as a bridge, street, café, or museum.",
       "examples": [
         {
           "bosnian": "Most je blizu.",
@@ -624,7 +624,7 @@
   "imageBriefs": [],
   "civicContext": {
     "title": "Landmines still restrict safe movement",
-    "body": "Landmines and other unexploded ordnance still restrict movement in parts of Bosnia and Herzegovina. Mines were placed around former front lines, roads, fields, and settlements during the war, and floods or erosion can shift dangerous devices from recorded locations. Clearance teams have removed many hazards, but the work is slow, technical, and expensive. Residents and hikers must obey warning signs, stay on known routes, and never enter a marked area. A direction is therefore a safety instruction when contaminated land remains nearby.",
+    "body": "Landmines and other unexploded ordnance still restrict movement in parts of Bosnia and Herzegovina. Mines were placed around former front lines, roads, fields, and settlements during the war, and floods or erosion can shift dangerous devices from recorded locations. Clearance teams have removed many hazards, but the work is slow, technical, and expensive. Residents and hikers must obey warning signs, stay on known routes, and never enter a marked area. Near contaminated land, a direction is not just polite guidance. It is a safety instruction.",
     "imageId": "civic-mines",
     "learnMore": {
       "label": "Wikipedia article about landmines in Bosnia and Herzegovina",
@@ -686,7 +686,7 @@
   "section": 3,
   "sayAgain": {
     "title": "Say again",
-    "intro": "Warm up with four frames you already know.",
+    "intro": "Warm up with four lines you already know.",
     "lines": [
       {
         "bosnian": "Odakle si?",

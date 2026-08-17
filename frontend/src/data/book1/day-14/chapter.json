@@ -3,25 +3,25 @@
   "book": 1,
   "title": "Ponavljanje",
   "titleEn": "Review",
-  "theme": "Frame-drill board game at Amira’s",
+  "theme": "Game night at Amira’s",
   "status": "draft",
   "reviewedAt": null,
   "reviewerNotes": "This full draft is ready for human review before publication.",
   "estimatedMinutes": 60,
-  "storyBeat": "A board game makes Ana reuse core present-tense frames from Lessons 8 through 13.",
+  "storyBeat": "A board game makes Ana reuse core present-tense patterns from Lessons 8 through 13.",
   "learningGoals": {
     "vocabulary": [
-      "Reuse high-value frames from food, shopping, home, weather, park, and identity lessons.",
+      "Reuse key phrases from food, shopping, home, weather, park, and identity lessons.",
       "Add igra, karta, pobjeda, and još jednom for game-night drill."
     ],
     "grammar": [
       "Drill volim, želim, imam, and govorim as complete sentences.",
       "Switch among Koliko košta?, Kakvo je vrijeme?, Hoćeš li…?, and Odakle si?",
-      "Reuse familiar present-tense frames from earlier lessons."
+      "Reuse present-tense patterns from earlier lessons."
     ],
     "culture": [
       "Visit Banja Luka through Kastel Fortress, the Vrbas River, and Ferhadija Mosque.",
-      "Treat review night as frame practice rather than a new grammar system."
+      "Treat review night as practice, not a new grammar system."
     ]
   },
   "vocabulary": [
@@ -99,7 +99,7 @@
   "grammar": [
     {
       "title": "Remember your useful first-person verbs",
-      "explanation": "Say the whole line together. Skip the full chart for now. Volim, želim, imam, and govorim let you say a great deal about yourself. Follow each verb with a familiar object or language chunk. Use them during the game to express a preference, a wish, a possession, or a language ability.",
+      "explanation": "Volim, želim, imam, and govorim let you say a great deal about yourself. Follow each verb with a familiar object or language word. Use them during the game to express a preference, a wish, a possession, or a language ability.",
       "examples": [
         {
           "bosnian": "Volim ovu igru.",
@@ -117,7 +117,7 @@
     },
     {
       "title": "Remember questions and invitations",
-      "explanation": "Hold this as a spoken pattern. Do not treat it as a grammar grid. Use Kakvo je vrijeme? to ask about weather, Hoćeš li? to offer a choice, and Hajde da to suggest a shared action. These patterns turn separate vocabulary lists into conversation. Choose the pattern that matches whether you need information, an answer, or group action.",
+      "explanation": "Use Kakvo je vrijeme? To ask about weather, Hoćeš li? To offer a choice, and Hajde da to suggest a shared action. These patterns turn separate vocabulary lists into conversation. Choose the one that matches whether you need information, an answer, or group action.",
       "examples": [
         {
           "bosnian": "Kakvo je vrijeme?",
@@ -142,20 +142,20 @@
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A. Drill the core frames",
-      "body": "This review is a frame drill. Stay with four first-person forms. Volim, Želim, Imam, and Govorim. Draw a card and finish a complete sentence before you move. Useful answers include Volim sirnicu, Želim vodu, Imam malu sobu, and Govorim malo bosanski. Amira accepts only a full sentence. Speed does not beat accuracy. If a line is weak, say it još jednom with one word changed. The goal is automatic present-tense speech rather than a new table.",
+      "title": "Lesson A. Practice your everyday verbs",
+      "body": "This review sticks to four first-person forms: Volim, Želim, Imam, and Govorim. Draw a card and finish a complete sentence before you move. Useful answers include Volim sirnicu, Želim vodu, Imam malu sobu, and Govorim malo bosanski. Amira accepts only a full sentence, since speed does not beat accuracy. If a line is weak, say it još jednom with one word changed. You are aiming for present-tense speech that comes out automatically, not a new grammar table.",
       "tips": [
-        "Pick the frame by meaning first, then add one familiar object.",
+        "Pick the verb by meaning first, then add one familiar object.",
         "Say the whole sentence aloud before you move a game piece.",
-        "Repeat a weak frame još jednom with one changed word."
+        "Repeat a weak line još jednom with one changed word."
       ]
     },
     {
       "id": "b",
       "title": "Lesson B. Switch questions under pressure",
-      "body": "Now switch frames the way real conversation switches. Ask Koliko košta? at the shop, Kakvo je vrijeme? for Trebević, Hoćeš li šetati? for the park, and Odakle si? over kahva. A room square needs an imam sentence. A food square needs volim or želim. Answer every question with a complete present-tense sentence. When Mrvica knocks the cards over, mix two topics in one short exchange. The review works when you can change frames without English coaching.",
+      "body": "Now switch topics the way real conversation does. Ask Koliko košta? At the shop, Kakvo je vrijeme? For Trebević, Hoćeš li šetati? For the park, and Odakle si? Over kahva. A room square needs an imam sentence. A food square needs volim or želim. Answer every question with a complete present-tense sentence. When Mrvica knocks the cards over, mix two topics in one short exchange. The review works once you can switch topics without reaching for English.",
       "tips": [
-        "Hear the question word before you choose your answer frame.",
+        "Hear the question word before you choose your answer.",
         "Keep ja/ti as the default, and add molim or hvala in shop talk.",
         "Mix two old topics when one topic feels too easy."
       ]
@@ -243,7 +243,7 @@
       "prompt": "Decide whether each sentence correctly reviews Lessons 8 through 13.",
       "items": [
         {
-          "statement": "Koliko košta? asks about price.",
+          "statement": "Koliko košta? Asks about price.",
           "answer": true
         },
         {
@@ -255,7 +255,7 @@
           "answer": true
         },
         {
-          "statement": "Odakle si? asks what someone wants to buy.",
+          "statement": "Odakle si? Asks what someone wants to buy.",
           "answer": false
         }
       ]
@@ -368,7 +368,7 @@
           "Odakle si?"
         ],
         "correctIndex": 1,
-        "explanation": "Koliko košta? asks how much something costs.",
+        "explanation": "Koliko košta? Asks how much something costs.",
         "skill": "vocabulary",
         "question": "Which phrase asks the price?"
       },
@@ -420,7 +420,7 @@
           "Hoćeš li igrati?"
         ],
         "correctIndex": 1,
-        "explanation": "Odakle si? asks where someone is from.",
+        "explanation": "Odakle si? Asks where someone is from.",
         "skill": "grammar",
         "question": "Which question asks where someone is from?"
       },
@@ -606,7 +606,7 @@
   "imageBriefs": [],
   "civicContext": {
     "title": "Emigration is reshaping the population",
-    "body": "Sustained emigration is reshaping communities across Bosnia and Herzegovina. Many younger adults leave for education, higher wages, or more predictable careers elsewhere in Europe and beyond. Low birth rates and an aging population deepen the decline, while official statistics struggle to measure everyone who has moved. Families maintain strong ties across borders, but schools, workplaces, and smaller towns can lose people faster than they replace them. Demographic decline is therefore not an abstract number because it changes who remains to build local institutions and community life.",
+    "body": "Sustained emigration is reshaping communities across Bosnia and Herzegovina. Many younger adults leave for education, higher wages, or more predictable careers elsewhere in Europe and beyond. Low birth rates and an aging population deepen the decline, while official statistics struggle to measure everyone who has moved. Families maintain strong ties across borders, but schools, workplaces, and smaller towns can lose people faster than they replace them. Demographic decline is not an abstract number, because it changes who remains to build local institutions and community life.",
     "imageId": "civic-emigration",
     "learnMore": {
       "label": "Wikipedia article about demographics in Bosnia and Herzegovina",
@@ -694,7 +694,7 @@
   "section": 2,
   "sayAgain": {
     "title": "Say again",
-    "intro": "Warm up with four frames you already know.",
+    "intro": "Warm up with four lines you already know.",
     "lines": [
       {
         "bosnian": "Volim burek.",
