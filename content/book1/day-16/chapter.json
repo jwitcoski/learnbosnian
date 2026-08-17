@@ -16,8 +16,8 @@
       "Talk about a coast trip toward Neum."
     ],
     "grammar": [
-      "Use Treba mi and trebaš as present need chunks.",
-      "Ask Koliko košta karta? and choose jednosmjerna or povratna.",
+      "Use Treba mi and trebaš to say what you need.",
+      "Ask Koliko košta karta? then choose jednosmjerna or povratna.",
       "Read odlazak and dolazak on a station board."
     ],
     "culture": [
@@ -129,7 +129,7 @@
   "grammar": [
     {
       "title": "Treba mi and trebaš",
-      "explanation": "Learn this as a full phrase. Do not treat it as a table. Treba mi means I need and takes the thing you need right after it. Trebaš means you need when you speak to one familiar person. Keep the chunk together and stay in the present.",
+      "explanation": "Treba mi means I need, and the thing you need comes right after it. Trebaš means you need, for one person you know well. Keep the phrase together and stay in the present tense.",
       "examples": [
         {
           "bosnian": "Treba mi karta.",
@@ -147,7 +147,7 @@
     },
     {
       "title": "Ticket questions at the counter",
-      "explanation": "Treat this as a ready chunk you can say today. Ask Koliko košta karta? for the price. Add jednosmjerna or povratna before karta to choose one-way or return. Finish with molim when you speak to the clerk.",
+      "explanation": "Ask Koliko košta karta? to find the price. Add jednosmjerna or povratna before karta to choose one-way or return. Finish with molim when you speak to the clerk.",
       "examples": [
         {
           "bosnian": "Koliko košta karta?",
@@ -184,16 +184,16 @@
   ],
   "culture": {
     "title": "From the station toward lake and coast",
-    "body": "Sarajevo's main bus station sends coaches and minibuses toward lakes and the coast. Ana buys a ticket while Emir points to a postcard of Jablaničko Lake, the blue water that often appears on the road south. Their bigger dream is Neum, the short Adriatic stretch that gives Bosnia and Herzegovina a seaside town. From the window seat they imagine salt air after mountain tunnels and lake curves. Station boards list odlazak times while travelers clutch coffee and bags. A clear ticket phrase turns a coast dream into a real departure from the crowded hall. ",
+    "body": "Sarajevo's main bus station sends coaches and minibuses toward the lakes and the coast. Ana buys a ticket while Emir shows her a postcard of Jablaničko Lake, the blue water you pass on the road south. What they really want is Neum, the short stretch of Adriatic coast that gives Bosnia and Herzegovina a seaside town. From a window seat, they picture the sea air waiting after the mountain tunnels. The departure board lists odlazak times while travelers wait nearby with coffee and bags. A few ticket phrases turn a daydream about the coast into an actual trip.",
     "imageId": "sarajevo-bus-station"
   },
   "lessonBlocks": [
     {
       "id": "a",
       "title": "Lesson A. Ticket counter phrases",
-      "body": "Start with autobus, karta, and stanica so the station feels familiar before the doors open. Add vozač, sjedalo, and prozor so the ride has concrete nouns you can point to. Practice Treba mi karta until the need chunk sounds automatic at a busy counter. Then ask Koliko košta karta? and choose jednosmjerna or povratna before you pay. Ana stands at the Sarajevo counter with Emir and imagines the lake stop near Jablanica. The coast dream needs a ticket first rather than a full travel grammar chart for every case. Say each counter line twice, then point to the board and name odlazak or dolazak in a full sentence. ",
+      "body": "Start with autobus, karta, and stanica so the station feels familiar before you even reach the doors. Add vozač, sjedalo, and prozor for concrete nouns you can point to on the ride. Practice Treba mi karta until it sounds automatic at a busy counter, then ask Koliko košta karta? and choose jednosmjerna or povratna before you pay. Ana stands at the Sarajevo counter with Emir, already picturing the lake stop near Jablanica. You don't need every case ending to buy a ticket, just these few working lines. Try each counter line a couple of times, then look at the board and name odlazak or dolazak in a full sentence.",
       "tips": [
-        "Keep Treba mi and the noun together as one chunk.",
+        "Keep Treba mi and the noun together as one phrase.",
         "Add molim when you speak to the ticket clerk.",
         "Choose jednosmjerna or povratna before you pay."
       ]
@@ -201,7 +201,7 @@
     {
       "id": "b",
       "title": "Lesson B. Board and dream of Neum",
-      "body": "Move from the counter to the seat once the ticket is in your hand. Say Imam sjedalo uz prozor when you claim a window and want the lake view later. Reuse Molim and Hvala with the clerk, then tell a friend Trebaš kartu before the doors close. Ana wants Neum, Emir wants the lake view, and Mrvica stays home with Amira for the day. Keep every sentence in the present so you can buy and board today without past or future charts. Practice a short chain aloud. Need, price, ticket type, seat, thank you, and one calm boarding sentence. Repeat the chain until boarding feels easy. ",
+      "body": "Move from the counter to your seat once the ticket is in your hand. Say Imam sjedalo uz prozor when you claim a window seat for the lake view later. Reuse Molim and Hvala with the clerk, then tell a friend Trebaš kartu before the doors close. Ana wants Neum, Emir wants the lake view, and Mrvica stays home with Amira for the day. Stay in the present tense. You can buy and board today without touching past or future forms. Chain the pieces together out loud: need, price, ticket type, seat, thank you, and one calm boarding line. Run through the chain a few times until boarding feels easy.",
       "tips": [
         "Reuse Hvala after you receive the ticket.",
         "Practice sjedalo uz prozor before you sit.",
@@ -356,19 +356,19 @@
   "funFacts": [
     {
       "title": "Neum is the short coast",
-      "body": "Neum is the Adriatic town that gives Bosnia and Herzegovina a coastline. The stretch is short compared with neighboring countries, yet it still offers beaches and seafood. Travelers often reach it by road from inland cities. The coast dream in this lesson is therefore a real destination rather than only a postcard fantasy."
+      "body": "Neum is the Adriatic town that gives Bosnia and Herzegovina a coastline. The stretch is short compared with neighboring countries, but it still has beaches and good seafood. Most travelers reach it by road from inland cities. The coast dream in this lesson is a real destination, not just a postcard fantasy."
     },
     {
       "title": "Jablanica sits on the lake road",
-      "body": "Jablaničko Lake appears on many southbound routes from Sarajevo. The water sits in a mountain corridor and often becomes a rest stop in travelers' stories. Emir's postcard keeps the lake visible while Ana buys tickets. The stop reminds learners that the coast journey includes inland beauty."
+      "body": "Jablaničko Lake appears on many southbound routes from Sarajevo. The water sits in a mountain corridor and often becomes a rest stop in travelers' stories. Emir's postcard keeps the lake in view while Ana buys tickets. It's a reminder that the trip to the coast includes some inland beauty too."
     },
     {
-      "title": "Treba mi is a survival chunk",
-      "body": "Treba mi plus a noun is one of the fastest ways to name a need at a counter. You do not need a full conjugation chart to buy a ticket. Pair the chunk with molim and you sound ready for a clerk. Present-tense survival phrases keep Book 1 practical."
+      "title": "Treba mi is a survival phrase",
+      "body": "Treba mi plus a noun is one of the fastest ways to name what you need at a counter. You don't need a full conjugation table to buy a ticket. Pair it with molim and you'll sound ready for any clerk. Simple present-tense phrases like this keep Book 1 practical."
     },
     {
       "title": "Window seats teach prozor",
-      "body": "Sjedalo uz prozor turns furniture words into travel comfort. Learners already know short location phrases, and the window seat makes them memorable. Ana chooses the view toward lake and coast. The ride becomes vocabulary practice with a real landscape."
+      "body": "Sjedalo uz prozor turns furniture words into travel comfort. You already know a few short location phrases, and a window seat makes them stick. Ana picks hers for the view toward the lake and coast. Suddenly vocabulary practice comes with real scenery."
     }
   ],
   "resources": [
@@ -385,7 +385,7 @@
     {
       "label": "How to speak Bosnian channel",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Browse more speaker models after you finish the lesson."
+      "note": "Browse more real speaker clips after you finish the lesson."
     }
   ],
   "sectionQuiz": {
@@ -487,13 +487,13 @@
         "id": "q8",
         "question": "What civic pressure does this bus lesson highlight?",
         "options": [
-          "Corridor Vc remains only partly built while other routes advance on different clocks",
+          "Corridor Vc remains only partly built while other routes move on separate timelines",
           "Perfect motorways already cover every canton",
           "No buses exist in Sarajevo",
           "Tickets are free nationwide"
         ],
         "correctIndex": 0,
-        "explanation": "Corridor Vc is still incomplete after years of delays, while other motorway projects move under different political clocks.",
+        "explanation": "Corridor Vc is still incomplete after years of delays, and other motorway projects move forward on their own separate timelines.",
         "skill": "culture"
       },
       {
@@ -671,7 +671,7 @@
   "imageBriefs": [],
   "civicContext": {
     "title": "Corridor Vc still leaves the country half connected",
-    "body": "Buying a bus ticket in Bosnia and Herzegovina means traveling on a map that is still unfinished. The EU-backed Corridor Vc motorway is meant to run north to south through the country, yet only part of it is open after years of loans, delays, and political fights over routes. Other motorway projects serving Banja Luka and southern border approaches toward Međugorje and Croatia have moved on different clocks. A coach toward the coast can still pass gaps where a modern national highway was promised and not delivered.",
+    "body": "Buying a bus ticket in Bosnia and Herzegovina means traveling on a map that is still unfinished. The EU-backed Corridor Vc motorway is meant to run north to south through the country, yet only part of it is open after years of loans, delays, and political fights over routes. Other motorway projects, serving Banja Luka and the southern border approaches toward Međugorje and Croatia, have moved forward on their own separate timelines. A coach toward the coast can still pass long gaps where a modern national highway was promised and never delivered.",
     "imageId": "civic-a1-corridor",
     "learnMore": {
       "label": "Bankwatch report on Corridor Vc in Bosnia and Herzegovina",
@@ -708,7 +708,7 @@
         "sati",
         "koliko"
       ],
-      "noticePrompt": "You do not need every number. Catch the question shape for time."
+      "noticePrompt": "You don't need every number. Just catch the shape of a time question."
     },
     "reveal": {
       "keyLines": [
