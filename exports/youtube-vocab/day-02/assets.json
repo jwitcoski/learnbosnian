@@ -1,0 +1,83 @@
+{
+  "day": 2,
+  "series": "vocab-supplement",
+  "title": "Ja sam Ana",
+  "titleEn": "I am Ana",
+  "vocabulary": [
+    {
+      "bosnian": "ja",
+      "english": "I",
+      "pronunciation": "yah"
+    },
+    {
+      "bosnian": "ti",
+      "english": "you (informal singular)",
+      "pronunciation": "tee"
+    },
+    {
+      "bosnian": "on",
+      "english": "he",
+      "pronunciation": "ohn"
+    },
+    {
+      "bosnian": "ona",
+      "english": "she",
+      "pronunciation": "OH-nah"
+    },
+    {
+      "bosnian": "sam",
+      "english": "am (I am)",
+      "pronunciation": "sahm"
+    },
+    {
+      "bosnian": "si",
+      "english": "are (you are)",
+      "pronunciation": "see"
+    },
+    {
+      "bosnian": "je",
+      "english": "is (he/she/it is)",
+      "pronunciation": "yeh"
+    },
+    {
+      "bosnian": "zovem se",
+      "english": "my name is / I am called",
+      "pronunciation": "ZOH-vem seh"
+    },
+    {
+      "bosnian": "ime",
+      "english": "name",
+      "pronunciation": "EE-meh"
+    },
+    {
+      "bosnian": "iz",
+      "english": "from",
+      "pronunciation": "eez"
+    },
+    {
+      "bosnian": "drago mi je",
+      "english": "nice to meet you",
+      "pronunciation": "DRAH-go mee yeh"
+    },
+    {
+      "bosnian": "Sebilj",
+      "english": "Sebilj (wooden fountain in Baščaršija)",
+      "pronunciation": "seh-BEEL"
+    },
+    {
+      "bosnian": "vodič",
+      "english": "guide",
+      "pronunciation": "VOH-dich"
+    },
+    {
+      "bosnian": "prijatelj",
+      "english": "friend (male)",
+      "pronunciation": "pree-YAH-telj"
+    }
+  ],
+  "grammarTitles": [
+    "biti. sam, si, je",
+    "Two ways to introduce yourself",
+    "iz. saying where you are from"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "day": 10,
+  "series": "vocab-supplement",
+  "title": "Moja soba",
+  "titleEn": "My room",
+  "vocabulary": [
+    {
+      "bosnian": "soba",
+      "english": "room",
+      "pronunciation": "SO-ba"
+    },
+    {
+      "bosnian": "kuća",
+      "english": "house",
+      "pronunciation": "KOO-cha"
+    },
+    {
+      "bosnian": "stan",
+      "english": "apartment",
+      "pronunciation": "stahn"
+    },
+    {
+      "bosnian": "vrata",
+      "english": "door",
+      "pronunciation": "VRAH-ta"
+    },
+    {
+      "bosnian": "prozor",
+      "english": "window",
+      "pronunciation": "PRO-zor"
+    },
+    {
+      "bosnian": "krevet",
+      "english": "bed",
+      "pronunciation": "KREH-vet"
+    },
+    {
+      "bosnian": "sto",
+      "english": "table",
+      "pronunciation": "stoh"
+    },
+    {
+      "bosnian": "stolica",
+      "english": "chair",
+      "pronunciation": "STO-lee-tsa"
+    },
+    {
+      "bosnian": "lampa",
+      "english": "lamp",
+      "pronunciation": "LAHM-pa"
+    },
+    {
+      "bosnian": "imati",
+      "english": "to have",
+      "pronunciation": "EE-ma-tee"
+    },
+    {
+      "bosnian": "imam",
+      "english": "I have",
+      "pronunciation": "EE-mam"
+    },
+    {
+      "bosnian": "imaš",
+      "english": "you have",
+      "pronunciation": "EE-mash"
+    },
+    {
+      "bosnian": "velik",
+      "english": "big (m.)",
+      "pronunciation": "VEH-lik"
+    },
+    {
+      "bosnian": "mala",
+      "english": "small (f.)",
+      "pronunciation": "MAH-la"
+    },
+    {
+      "bosnian": "lijepa",
+      "english": "beautiful (f.)",
+      "pronunciation": "LYE-pa"
+    },
+    {
+      "bosnian": "udoban",
+      "english": "comfortable (m.)",
+      "pronunciation": "OO-do-ban"
+    }
+  ],
+  "grammarTitles": [
+    "Imam / imaš",
+    "Moja soba",
+    "Adjective agreement intro"
+  ]
+}

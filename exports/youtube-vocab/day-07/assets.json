@@ -1,0 +1,62 @@
+{
+  "day": 7,
+  "series": "vocab-supplement",
+  "title": "Ponavljanje",
+  "titleEn": "Review",
+  "vocabulary": [
+    {
+      "bosnian": "sedmica",
+      "english": "week",
+      "pronunciation": "SED-mee-tsa"
+    },
+    {
+      "bosnian": "foto",
+      "english": "photo (short / casual)",
+      "pronunciation": "FO-to"
+    },
+    {
+      "bosnian": "priča",
+      "english": "story",
+      "pronunciation": "PREE-cha"
+    },
+    {
+      "bosnian": "zdravo",
+      "english": "hi / hello",
+      "pronunciation": "ZDRAH-vo"
+    },
+    {
+      "bosnian": "hvala",
+      "english": "thank you",
+      "pronunciation": "HVAH-lah"
+    },
+    {
+      "bosnian": "kahva",
+      "english": "coffee",
+      "pronunciation": "KAH-vah"
+    },
+    {
+      "bosnian": "porodica",
+      "english": "family",
+      "pronunciation": "po-RO-dee-tsa"
+    },
+    {
+      "bosnian": "mačka",
+      "english": "cat",
+      "pronunciation": "MACH-kah"
+    },
+    {
+      "bosnian": "mapa",
+      "english": "map",
+      "pronunciation": "MAH-pah"
+    },
+    {
+      "bosnian": "Mostar",
+      "english": "Mostar",
+      "pronunciation": "MOS-tar"
+    }
+  ],
+  "grammarTitles": [
+    "Remember. biti and possessives",
+    "Remember. where and when"
+  ]
+}

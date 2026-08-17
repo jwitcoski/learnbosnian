@@ -1,0 +1,62 @@
+{
+  "day": 21,
+  "series": "vocab-supplement",
+  "title": "Ponavljanje",
+  "titleEn": "Review",
+  "vocabulary": [
+    {
+      "bosnian": "idemo",
+      "english": "let us go",
+      "pronunciation": "EE-deh-mo"
+    },
+    {
+      "bosnian": "karta",
+      "english": "ticket or card",
+      "pronunciation": "KAR-ta"
+    },
+    {
+      "bosnian": "hoću",
+      "english": "I want",
+      "pronunciation": "HO-choo"
+    },
+    {
+      "bosnian": "često",
+      "english": "often",
+      "pronunciation": "CHEH-sto"
+    },
+    {
+      "bosnian": "telefon",
+      "english": "telephone",
+      "pronunciation": "teh-leh-FON"
+    },
+    {
+      "bosnian": "vikend",
+      "english": "weekend",
+      "pronunciation": "VEE-kend"
+    },
+    {
+      "bosnian": "plan",
+      "english": "plan",
+      "pronunciation": "plan"
+    },
+    {
+      "bosnian": "još jednom",
+      "english": "one more time",
+      "pronunciation": "yosh YED-nom"
+    },
+    {
+      "bosnian": "autobus",
+      "english": "bus",
+      "pronunciation": "OW-toh-boos"
+    },
+    {
+      "bosnian": "račun",
+      "english": "bill",
+      "pronunciation": "RAH-choon"
+    }
+  ],
+  "grammarTitles": [
+    "Remember Treba mi and Hoću",
+    "Remember price, place, and weather questions"
+  ]
+}

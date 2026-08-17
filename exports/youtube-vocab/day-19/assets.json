@@ -1,0 +1,83 @@
+{
+  "day": 19,
+  "series": "vocab-supplement",
+  "title": "Praznici",
+  "titleEn": "Holidays",
+  "vocabulary": [
+    {
+      "bosnian": "praznik",
+      "english": "holiday",
+      "pronunciation": "PRAZ-neek"
+    },
+    {
+      "bosnian": "Bajram",
+      "english": "Eid",
+      "pronunciation": "BAI-ram"
+    },
+    {
+      "bosnian": "Božić",
+      "english": "Christmas",
+      "pronunciation": "BO-zheech"
+    },
+    {
+      "bosnian": "Nova godina",
+      "english": "New Year",
+      "pronunciation": "NO-va go-DEE-na"
+    },
+    {
+      "bosnian": "sretan",
+      "english": "happy (m.)",
+      "pronunciation": "SREH-tan"
+    },
+    {
+      "bosnian": "sretna",
+      "english": "happy (f.)",
+      "pronunciation": "SREH-tna"
+    },
+    {
+      "bosnian": "čestitka",
+      "english": "greeting card",
+      "pronunciation": "ches-TEET-ka"
+    },
+    {
+      "bosnian": "svijeća",
+      "english": "candle",
+      "pronunciation": "SVYE-cha"
+    },
+    {
+      "bosnian": "svjetla",
+      "english": "lights",
+      "pronunciation": "SVYET-la"
+    },
+    {
+      "bosnian": "tržnica",
+      "english": "market",
+      "pronunciation": "TRZH-nee-tsa"
+    },
+    {
+      "bosnian": "dar",
+      "english": "gift",
+      "pronunciation": "dar"
+    },
+    {
+      "bosnian": "porodica",
+      "english": "family",
+      "pronunciation": "po-RO-dee-tsa"
+    },
+    {
+      "bosnian": "zajedno",
+      "english": "together",
+      "pronunciation": "za-YED-no"
+    },
+    {
+      "bosnian": "čestitam",
+      "english": "I congratulate / I greet",
+      "pronunciation": "ches-TEE-tam"
+    }
+  ],
+  "grammarTitles": [
+    "Sretan and sretna greetings",
+    "Čestitam plus the holiday",
+    "Inclusive holiday talk"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "day": 6,
+  "series": "vocab-supplement",
+  "title": "Koliko je sati?",
+  "titleEn": "What time is it?",
+  "vocabulary": [
+    {
+      "bosnian": "sat",
+      "english": "hour / clock (singular)",
+      "pronunciation": "saht"
+    },
+    {
+      "bosnian": "sati",
+      "english": "hours (plural form in time answers)",
+      "pronunciation": "SAH-tee"
+    },
+    {
+      "bosnian": "jutro",
+      "english": "morning",
+      "pronunciation": "YOO-tro"
+    },
+    {
+      "bosnian": "podne",
+      "english": "noon / midday",
+      "pronunciation": "POD-neh"
+    },
+    {
+      "bosnian": "popodne",
+      "english": "afternoon",
+      "pronunciation": "po-POD-neh"
+    },
+    {
+      "bosnian": "večer",
+      "english": "evening",
+      "pronunciation": "VEH-cher"
+    },
+    {
+      "bosnian": "danas",
+      "english": "today",
+      "pronunciation": "DAH-nas"
+    },
+    {
+      "bosnian": "sutra",
+      "english": "tomorrow",
+      "pronunciation": "SOO-trah"
+    },
+    {
+      "bosnian": "ponedjeljak",
+      "english": "Monday",
+      "pronunciation": "po-NED-yel-yak"
+    },
+    {
+      "bosnian": "utorak",
+      "english": "Tuesday",
+      "pronunciation": "OO-to-rak"
+    },
+    {
+      "bosnian": "srijeda",
+      "english": "Wednesday",
+      "pronunciation": "SREE-yeh-dah"
+    },
+    {
+      "bosnian": "četvrtak",
+      "english": "Thursday",
+      "pronunciation": "CHET-vr-tak"
+    },
+    {
+      "bosnian": "petak",
+      "english": "Friday",
+      "pronunciation": "PEH-tak"
+    },
+    {
+      "bosnian": "subota",
+      "english": "Saturday",
+      "pronunciation": "SOO-bo-tah"
+    },
+    {
+      "bosnian": "nedjelja",
+      "english": "Sunday",
+      "pronunciation": "NED-yel-yah"
+    },
+    {
+      "bosnian": "kasno",
+      "english": "late",
+      "pronunciation": "KAS-no"
+    }
+  ],
+  "grammarTitles": [
+    "Koliko je sati?",
+    "Danas and sutra",
+    "Weekdays. chant the week"
+  ]
+}

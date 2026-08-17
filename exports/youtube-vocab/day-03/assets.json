@@ -1,0 +1,93 @@
+{
+  "day": 3,
+  "series": "vocab-supplement",
+  "title": "Brojevi i kahva",
+  "titleEn": "Numbers and coffee",
+  "vocabulary": [
+    {
+      "bosnian": "jedan",
+      "english": "one",
+      "pronunciation": "YEH-dan"
+    },
+    {
+      "bosnian": "dva",
+      "english": "two",
+      "pronunciation": "dvah"
+    },
+    {
+      "bosnian": "tri",
+      "english": "three",
+      "pronunciation": "tree"
+    },
+    {
+      "bosnian": "četiri",
+      "english": "four",
+      "pronunciation": "CHE-tee-ree"
+    },
+    {
+      "bosnian": "pet",
+      "english": "five",
+      "pronunciation": "pet"
+    },
+    {
+      "bosnian": "šest",
+      "english": "six",
+      "pronunciation": "shest"
+    },
+    {
+      "bosnian": "sedam",
+      "english": "seven",
+      "pronunciation": "SEH-dam"
+    },
+    {
+      "bosnian": "osam",
+      "english": "eight",
+      "pronunciation": "OH-sam"
+    },
+    {
+      "bosnian": "devet",
+      "english": "nine",
+      "pronunciation": "DEH-vet"
+    },
+    {
+      "bosnian": "deset",
+      "english": "ten",
+      "pronunciation": "DEH-set"
+    },
+    {
+      "bosnian": "petnaest",
+      "english": "fifteen",
+      "pronunciation": "pet-NAH-est"
+    },
+    {
+      "bosnian": "dvadeset",
+      "english": "twenty",
+      "pronunciation": "DVAH-deh-set"
+    },
+    {
+      "bosnian": "koliko",
+      "english": "how many / how much",
+      "pronunciation": "KOH-lee-koh"
+    },
+    {
+      "bosnian": "kahva",
+      "english": "coffee (Bosnian form)",
+      "pronunciation": "KAH-vah"
+    },
+    {
+      "bosnian": "fildžan",
+      "english": "small coffee cup",
+      "pronunciation": "FIL-jan"
+    },
+    {
+      "bosnian": "lokum",
+      "english": "Turkish delight / rahat lokum",
+      "pronunciation": "LOH-koom"
+    }
+  ],
+  "grammarTitles": [
+    "Numbers 1. 20",
+    "Koliko?",
+    "Ordering coffee. say it as a chunk"
+  ]
+}

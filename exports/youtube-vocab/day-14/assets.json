@@ -1,0 +1,62 @@
+{
+  "day": 14,
+  "series": "vocab-supplement",
+  "title": "Ponavljanje",
+  "titleEn": "Review",
+  "vocabulary": [
+    {
+      "bosnian": "volim",
+      "english": "I like or I love",
+      "pronunciation": "VOH-leem"
+    },
+    {
+      "bosnian": "želim",
+      "english": "I want",
+      "pronunciation": "ZHEH-leem"
+    },
+    {
+      "bosnian": "imam",
+      "english": "I have",
+      "pronunciation": "EE-mam"
+    },
+    {
+      "bosnian": "vrijeme",
+      "english": "weather",
+      "pronunciation": "VRYE-meh"
+    },
+    {
+      "bosnian": "hajde",
+      "english": "come on or let us",
+      "pronunciation": "HAI-deh"
+    },
+    {
+      "bosnian": "govorim",
+      "english": "I speak",
+      "pronunciation": "goh-VOH-reem"
+    },
+    {
+      "bosnian": "igra",
+      "english": "game",
+      "pronunciation": "EE-gra"
+    },
+    {
+      "bosnian": "karta",
+      "english": "card",
+      "pronunciation": "KAR-ta"
+    },
+    {
+      "bosnian": "pobjeda",
+      "english": "victory",
+      "pronunciation": "POH-byeh-da"
+    },
+    {
+      "bosnian": "još jednom",
+      "english": "one more time",
+      "pronunciation": "yosh YED-nom"
+    }
+  ],
+  "grammarTitles": [
+    "Remember your useful first-person verbs",
+    "Remember questions and invitations"
+  ]
+}

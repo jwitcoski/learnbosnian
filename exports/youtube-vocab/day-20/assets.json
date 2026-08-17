@@ -1,0 +1,83 @@
+{
+  "day": 20,
+  "series": "vocab-supplement",
+  "title": "Telefonski poziv",
+  "titleEn": "Phone call",
+  "vocabulary": [
+    {
+      "bosnian": "telefon",
+      "english": "telephone",
+      "pronunciation": "teh-leh-FON"
+    },
+    {
+      "bosnian": "poziv",
+      "english": "call",
+      "pronunciation": "PO-zeev"
+    },
+    {
+      "bosnian": "alo",
+      "english": "hello (on phone)",
+      "pronunciation": "AH-lo"
+    },
+    {
+      "bosnian": "ko",
+      "english": "who",
+      "pronunciation": "ko"
+    },
+    {
+      "bosnian": "šta",
+      "english": "what",
+      "pronunciation": "shta"
+    },
+    {
+      "bosnian": "kada",
+      "english": "when",
+      "pronunciation": "KA-da"
+    },
+    {
+      "bosnian": "zašto",
+      "english": "why",
+      "pronunciation": "ZA-shto"
+    },
+    {
+      "bosnian": "broj",
+      "english": "number",
+      "pronunciation": "broi"
+    },
+    {
+      "bosnian": "javiti se",
+      "english": "to answer or get in touch",
+      "pronunciation": "YA-vee-tee se"
+    },
+    {
+      "bosnian": "čujem",
+      "english": "I hear",
+      "pronunciation": "CHOO-yem"
+    },
+    {
+      "bosnian": "hitno",
+      "english": "urgent",
+      "pronunciation": "HEEL-no"
+    },
+    {
+      "bosnian": "nestala",
+      "english": "missing (f.)",
+      "pronunciation": "neh-STA-la"
+    },
+    {
+      "bosnian": "tramvaj",
+      "english": "tram",
+      "pronunciation": "TRAM-vai"
+    },
+    {
+      "bosnian": "veza",
+      "english": "connection",
+      "pronunciation": "VEH-za"
+    }
+  ],
+  "grammarTitles": [
+    "Phone openers with Alo and Ko je tamo?",
+    "Šta, kada, and zašto",
+    "Urgent present chunks"
+  ]
+}

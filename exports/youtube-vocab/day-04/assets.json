@@ -1,0 +1,93 @@
+{
+  "day": 4,
+  "series": "vocab-supplement",
+  "title": "Porodica Mrvice",
+  "titleEn": "Mrvica’s family",
+  "vocabulary": [
+    {
+      "bosnian": "porodica",
+      "english": "family",
+      "pronunciation": "po-RO-dee-tsa"
+    },
+    {
+      "bosnian": "majka",
+      "english": "mother",
+      "pronunciation": "MY-kah"
+    },
+    {
+      "bosnian": "otac",
+      "english": "father",
+      "pronunciation": "OH-tats"
+    },
+    {
+      "bosnian": "sestra",
+      "english": "sister",
+      "pronunciation": "SES-trah"
+    },
+    {
+      "bosnian": "brat",
+      "english": "brother",
+      "pronunciation": "braht"
+    },
+    {
+      "bosnian": "baba",
+      "english": "grandmother",
+      "pronunciation": "BAH-bah"
+    },
+    {
+      "bosnian": "djed",
+      "english": "grandfather",
+      "pronunciation": "dyed"
+    },
+    {
+      "bosnian": "sin",
+      "english": "son",
+      "pronunciation": "seen"
+    },
+    {
+      "bosnian": "kći",
+      "english": "daughter",
+      "pronunciation": "kchee"
+    },
+    {
+      "bosnian": "mačka",
+      "english": "cat (female / general)",
+      "pronunciation": "MACH-kah"
+    },
+    {
+      "bosnian": "prijatelj",
+      "english": "friend (male)",
+      "pronunciation": "pree-YA-telj"
+    },
+    {
+      "bosnian": "prijateljica",
+      "english": "friend (female)",
+      "pronunciation": "pree-ya-TEL-yee-tsa"
+    },
+    {
+      "bosnian": "moj",
+      "english": "my (masculine)",
+      "pronunciation": "moy"
+    },
+    {
+      "bosnian": "moja",
+      "english": "my (feminine)",
+      "pronunciation": "MOY-ah"
+    },
+    {
+      "bosnian": "tvoj",
+      "english": "your (masculine, informal)",
+      "pronunciation": "tvoy"
+    },
+    {
+      "bosnian": "tvoja",
+      "english": "your (feminine, informal)",
+      "pronunciation": "TVOY-ah"
+    }
+  ],
+  "grammarTitles": [
+    "Gender intro. he or she words",
+    "Moj / moja and tvoj / tvoja",
+    "Who is who. On je / Ona je"
+  ]
+}

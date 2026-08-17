@@ -1,0 +1,83 @@
+{
+  "day": 5,
+  "series": "vocab-supplement",
+  "title": "Gdje je Mostar?",
+  "titleEn": "Where is Mostar?",
+  "vocabulary": [
+    {
+      "bosnian": "gdje",
+      "english": "where",
+      "pronunciation": "g-dyeh"
+    },
+    {
+      "bosnian": "ovdje",
+      "english": "here",
+      "pronunciation": "OV-dyeh"
+    },
+    {
+      "bosnian": "tamo",
+      "english": "there / over there",
+      "pronunciation": "TAH-mo"
+    },
+    {
+      "bosnian": "u",
+      "english": "in / into",
+      "pronunciation": "oo"
+    },
+    {
+      "bosnian": "na",
+      "english": "on / at",
+      "pronunciation": "nah"
+    },
+    {
+      "bosnian": "kod",
+      "english": "at (someone’s place) / by",
+      "pronunciation": "kod"
+    },
+    {
+      "bosnian": "grad",
+      "english": "city / town",
+      "pronunciation": "grahd"
+    },
+    {
+      "bosnian": "most",
+      "english": "bridge",
+      "pronunciation": "most"
+    },
+    {
+      "bosnian": "rijeka",
+      "english": "river",
+      "pronunciation": "ree-YEH-kah"
+    },
+    {
+      "bosnian": "mapa",
+      "english": "map",
+      "pronunciation": "MAH-pah"
+    },
+    {
+      "bosnian": "Mostar",
+      "english": "Mostar (city)",
+      "pronunciation": "MOS-tar"
+    },
+    {
+      "bosnian": "Sarajevo",
+      "english": "Sarajevo",
+      "pronunciation": "sa-ra-YEH-vo"
+    },
+    {
+      "bosnian": "Bosna i Hercegovina",
+      "english": "Bosnia and Herzegovina",
+      "pronunciation": "BOS-nah ee her-tseh-go-VEE-nah"
+    },
+    {
+      "bosnian": "jug",
+      "english": "south",
+      "pronunciation": "yoog"
+    }
+  ],
+  "grammarTitles": [
+    "Gdje je…?",
+    "Ovdje and tamo",
+    "U / na / kod. say them as chunks"
+  ]
+}

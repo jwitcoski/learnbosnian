@@ -1,0 +1,83 @@
+{
+  "day": 23,
+  "series": "vocab-supplement",
+  "title": "Šta radiš?",
+  "titleEn": "What do you do?",
+  "vocabulary": [
+    {
+      "bosnian": "radim",
+      "english": "I work or I do",
+      "pronunciation": "RAH-deem"
+    },
+    {
+      "bosnian": "radiš",
+      "english": "you work or you do",
+      "pronunciation": "RAH-deesh"
+    },
+    {
+      "bosnian": "radi",
+      "english": "he or she works",
+      "pronunciation": "RAH-dee"
+    },
+    {
+      "bosnian": "šta radiš",
+      "english": "what do you do",
+      "pronunciation": "shta RAH-deesh"
+    },
+    {
+      "bosnian": "volim da",
+      "english": "I like to",
+      "pronunciation": "VOH-leem da"
+    },
+    {
+      "bosnian": "danas",
+      "english": "today",
+      "pronunciation": "DAH-nas"
+    },
+    {
+      "bosnian": "sada",
+      "english": "now",
+      "pronunciation": "SAH-da"
+    },
+    {
+      "bosnian": "posao",
+      "english": "work or job",
+      "pronunciation": "POH-sa-oh"
+    },
+    {
+      "bosnian": "škola",
+      "english": "school",
+      "pronunciation": "SHKOH-la"
+    },
+    {
+      "bosnian": "kuhati",
+      "english": "to cook",
+      "pronunciation": "koo-HAH-tee"
+    },
+    {
+      "bosnian": "čitati",
+      "english": "to read",
+      "pronunciation": "chee-TAH-tee"
+    },
+    {
+      "bosnian": "odmor",
+      "english": "rest or break",
+      "pronunciation": "OD-mor"
+    },
+    {
+      "bosnian": "ritam",
+      "english": "rhythm",
+      "pronunciation": "REE-tam"
+    },
+    {
+      "bosnian": "Zenica",
+      "english": "Zenica",
+      "pronunciation": "ZEH-nee-tsa"
+    }
+  ],
+  "grammarTitles": [
+    "Radim, radiš, and radi in the present",
+    "Šta radiš? as a daily question",
+    "Volim da plus a light verb"
+  ]
+}

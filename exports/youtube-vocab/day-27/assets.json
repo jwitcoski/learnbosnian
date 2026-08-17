@@ -1,0 +1,83 @@
+{
+  "day": 27,
+  "series": "vocab-supplement",
+  "title": "Posao i škola",
+  "titleEn": "Work and school",
+  "vocabulary": [
+    {
+      "bosnian": "posao",
+      "english": "job or work",
+      "pronunciation": "PO-sao"
+    },
+    {
+      "bosnian": "škola",
+      "english": "school",
+      "pronunciation": "SHKOH-la"
+    },
+    {
+      "bosnian": "radim",
+      "english": "I work",
+      "pronunciation": "RA-deem"
+    },
+    {
+      "bosnian": "učim",
+      "english": "I study",
+      "pronunciation": "OO-cheem"
+    },
+    {
+      "bosnian": "kolega",
+      "english": "colleague",
+      "pronunciation": "koh-LEH-ga"
+    },
+    {
+      "bosnian": "student",
+      "english": "student",
+      "pronunciation": "stoo-DENT"
+    },
+    {
+      "bosnian": "profesor",
+      "english": "professor",
+      "pronunciation": "proh-feh-SOR"
+    },
+    {
+      "bosnian": "kancelarija",
+      "english": "office",
+      "pronunciation": "kan-tseh-LA-rya"
+    },
+    {
+      "bosnian": "biblioteka",
+      "english": "library",
+      "pronunciation": "bee-blee-oh-TEH-ka"
+    },
+    {
+      "bosnian": "raspored",
+      "english": "schedule",
+      "pronunciation": "rahs-POR-ed"
+    },
+    {
+      "bosnian": "danas",
+      "english": "today",
+      "pronunciation": "DA-nahs"
+    },
+    {
+      "bosnian": "svaki dan",
+      "english": "every day",
+      "pronunciation": "SVA-kee dahn"
+    },
+    {
+      "bosnian": "gdje radiš",
+      "english": "where do you work",
+      "pronunciation": "gdyeh RAH-deesh"
+    },
+    {
+      "bosnian": "imam pauzu",
+      "english": "I have a break",
+      "pronunciation": "EE-mam POW-zoo"
+    }
+  ],
+  "grammarTitles": [
+    "Radim routine lines",
+    "Učim study chunks",
+    "Workplace question shape"
+  ]
+}

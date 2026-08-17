@@ -1,0 +1,83 @@
+{
+  "day": 17,
+  "series": "vocab-supplement",
+  "title": "Dobar tek!",
+  "titleEn": "Enjoy your meal!",
+  "vocabulary": [
+    {
+      "bosnian": "restoran",
+      "english": "restaurant",
+      "pronunciation": "reh-sto-RAN"
+    },
+    {
+      "bosnian": "jelovnik",
+      "english": "menu",
+      "pronunciation": "yeh-LOV-neek"
+    },
+    {
+      "bosnian": "konobar",
+      "english": "waiter",
+      "pronunciation": "ko-NO-bar"
+    },
+    {
+      "bosnian": "klepe",
+      "english": "Bosnian dumplings",
+      "pronunciation": "KLEH-peh"
+    },
+    {
+      "bosnian": "japrak",
+      "english": "stuffed vine leaves",
+      "pronunciation": "YAH-prak"
+    },
+    {
+      "bosnian": "narudžba",
+      "english": "order",
+      "pronunciation": "nah-ROOJ-ba"
+    },
+    {
+      "bosnian": "račun",
+      "english": "bill",
+      "pronunciation": "RAH-choon"
+    },
+    {
+      "bosnian": "hoću",
+      "english": "I want",
+      "pronunciation": "HO-choo"
+    },
+    {
+      "bosnian": "hoćeš",
+      "english": "you want",
+      "pronunciation": "HO-chesh"
+    },
+    {
+      "bosnian": "hoćemo",
+      "english": "we want",
+      "pronunciation": "HO-cheh-mo"
+    },
+    {
+      "bosnian": "ukusan",
+      "english": "tasty (m.)",
+      "pronunciation": "OO-koo-san"
+    },
+    {
+      "bosnian": "ukusna",
+      "english": "tasty (f.)",
+      "pronunciation": "OO-koos-na"
+    },
+    {
+      "bosnian": "dobar tek",
+      "english": "enjoy your meal",
+      "pronunciation": "DO-bar tek"
+    },
+    {
+      "bosnian": "još",
+      "english": "more or another",
+      "pronunciation": "yosh"
+    }
+  ],
+  "grammarTitles": [
+    "Hoću, hoćeš, hoćemo",
+    "Ordering with molim and račun",
+    "Dobar tek at the table"
+  ]
+}

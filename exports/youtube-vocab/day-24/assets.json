@@ -1,0 +1,83 @@
+{
+  "day": 24,
+  "series": "vocab-supplement",
+  "title": "Planine i rijeke",
+  "titleEn": "Mountains and rivers",
+  "vocabulary": [
+    {
+      "bosnian": "planina",
+      "english": "mountain",
+      "pronunciation": "plah-NEE-na"
+    },
+    {
+      "bosnian": "rijeka",
+      "english": "river",
+      "pronunciation": "ree-YEH-ka"
+    },
+    {
+      "bosnian": "jezero",
+      "english": "lake",
+      "pronunciation": "YEH-zeh-ro"
+    },
+    {
+      "bosnian": "šuma",
+      "english": "forest",
+      "pronunciation": "SHOO-ma"
+    },
+    {
+      "bosnian": "visoko",
+      "english": "high",
+      "pronunciation": "VEE-so-ko"
+    },
+    {
+      "bosnian": "nisko",
+      "english": "low",
+      "pronunciation": "NEES-ko"
+    },
+    {
+      "bosnian": "veći",
+      "english": "bigger",
+      "pronunciation": "VEH-chee"
+    },
+    {
+      "bosnian": "manji",
+      "english": "smaller",
+      "pronunciation": "MAHN-yee"
+    },
+    {
+      "bosnian": "Una",
+      "english": "Una River",
+      "pronunciation": "OO-na"
+    },
+    {
+      "bosnian": "Neretva",
+      "english": "Neretva River",
+      "pronunciation": "neh-RET-va"
+    },
+    {
+      "bosnian": "Bjelašnica",
+      "english": "Bjelašnica",
+      "pronunciation": "byeh-LASH-nee-tsa"
+    },
+    {
+      "bosnian": "Jahorina",
+      "english": "Jahorina",
+      "pronunciation": "ya-hoh-REE-na"
+    },
+    {
+      "bosnian": "priroda",
+      "english": "nature",
+      "pronunciation": "pree-ROH-da"
+    },
+    {
+      "bosnian": "voda",
+      "english": "water",
+      "pronunciation": "VOH-da"
+    }
+  ],
+  "grammarTitles": [
+    "Nature nouns in short present lines",
+    "Visoko and nisko as place chunks",
+    "Veći and manji as light comparison phrases"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "day": 15,
+  "series": "vocab-supplement",
+  "title": "Desna ili lijeva?",
+  "titleEn": "Right or left?",
+  "vocabulary": [
+    {
+      "bosnian": "desna",
+      "english": "right",
+      "pronunciation": "DEHS-na"
+    },
+    {
+      "bosnian": "lijeva",
+      "english": "left",
+      "pronunciation": "LYEH-va"
+    },
+    {
+      "bosnian": "pravo",
+      "english": "straight ahead",
+      "pronunciation": "PRAH-vo"
+    },
+    {
+      "bosnian": "skreni",
+      "english": "turn",
+      "pronunciation": "SKREH-nee"
+    },
+    {
+      "bosnian": "ulica",
+      "english": "street",
+      "pronunciation": "OO-lee-tsa"
+    },
+    {
+      "bosnian": "most",
+      "english": "bridge",
+      "pronunciation": "mohst"
+    },
+    {
+      "bosnian": "blizu",
+      "english": "near",
+      "pronunciation": "BLEE-zoo"
+    },
+    {
+      "bosnian": "daleko",
+      "english": "far",
+      "pronunciation": "DAH-leh-ko"
+    },
+    {
+      "bosnian": "ispred",
+      "english": "in front of",
+      "pronunciation": "EES-pred"
+    },
+    {
+      "bosnian": "iza",
+      "english": "behind",
+      "pronunciation": "EE-za"
+    },
+    {
+      "bosnian": "idite",
+      "english": "go",
+      "pronunciation": "EE-dee-teh"
+    },
+    {
+      "bosnian": "molim vas",
+      "english": "please",
+      "pronunciation": "MOH-leem vahs"
+    }
+  ],
+  "grammarTitles": [
+    "Skreni and idite",
+    "Polite directions with molim vas",
+    "Locate a landmark"
+  ]
+}

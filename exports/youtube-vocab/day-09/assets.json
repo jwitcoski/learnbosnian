@@ -1,0 +1,93 @@
+{
+  "day": 9,
+  "series": "vocab-supplement",
+  "title": "U prodavnici",
+  "titleEn": "At the shop",
+  "vocabulary": [
+    {
+      "bosnian": "prodavnica",
+      "english": "shop / store",
+      "pronunciation": "pro-DAV-nee-tsa"
+    },
+    {
+      "bosnian": "pijaca",
+      "english": "market",
+      "pronunciation": "pee-YA-tsa"
+    },
+    {
+      "bosnian": "željeti",
+      "english": "to want",
+      "pronunciation": "ZHE-lye-tee"
+    },
+    {
+      "bosnian": "želim",
+      "english": "I want",
+      "pronunciation": "ZHE-leem"
+    },
+    {
+      "bosnian": "molim",
+      "english": "please / you’re welcome",
+      "pronunciation": "MO-leem"
+    },
+    {
+      "bosnian": "hvala",
+      "english": "thank you",
+      "pronunciation": "HVAH-la"
+    },
+    {
+      "bosnian": "koliko košta",
+      "english": "how much does it cost",
+      "pronunciation": "KOH-lee-koh KOSH-ta"
+    },
+    {
+      "bosnian": "kilogram",
+      "english": "kilogram",
+      "pronunciation": "KEE-lo-gram"
+    },
+    {
+      "bosnian": "jabuka",
+      "english": "apple",
+      "pronunciation": "YA-boo-ka"
+    },
+    {
+      "bosnian": "banana",
+      "english": "banana",
+      "pronunciation": "ba-NA-na"
+    },
+    {
+      "bosnian": "voda",
+      "english": "water",
+      "pronunciation": "VO-da"
+    },
+    {
+      "bosnian": "mlijeko",
+      "english": "milk",
+      "pronunciation": "MLYE-ko"
+    },
+    {
+      "bosnian": "novac",
+      "english": "money",
+      "pronunciation": "NO-vats"
+    },
+    {
+      "bosnian": "jeftino",
+      "english": "cheap",
+      "pronunciation": "YEF-tee-no"
+    },
+    {
+      "bosnian": "skupo",
+      "english": "expensive",
+      "pronunciation": "SKOO-po"
+    },
+    {
+      "bosnian": "kesa",
+      "english": "bag",
+      "pronunciation": "KEH-sa"
+    }
+  ],
+  "grammarTitles": [
+    "Želim + object",
+    "Molim and hvala",
+    "Koliko košta?"
+  ]
+}

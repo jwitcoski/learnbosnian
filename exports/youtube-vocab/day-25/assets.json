@@ -1,0 +1,83 @@
+{
+  "day": 25,
+  "series": "vocab-supplement",
+  "title": "Kod doktora",
+  "titleEn": "At the doctor",
+  "vocabulary": [
+    {
+      "bosnian": "glava",
+      "english": "head",
+      "pronunciation": "GLAH-va"
+    },
+    {
+      "bosnian": "stomak",
+      "english": "stomach",
+      "pronunciation": "STOH-mak"
+    },
+    {
+      "bosnian": "temperatura",
+      "english": "temperature or fever",
+      "pronunciation": "tehm-peh-rah-TOO-ra"
+    },
+    {
+      "bosnian": "lijek",
+      "english": "medicine",
+      "pronunciation": "LYEH-yek"
+    },
+    {
+      "bosnian": "boli me",
+      "english": "it hurts me or I have pain in",
+      "pronunciation": "BOH-lee meh"
+    },
+    {
+      "bosnian": "doktor",
+      "english": "doctor",
+      "pronunciation": "DOK-tor"
+    },
+    {
+      "bosnian": "apoteka",
+      "english": "pharmacy",
+      "pronunciation": "ah-poh-TEH-ka"
+    },
+    {
+      "bosnian": "boli",
+      "english": "hurts",
+      "pronunciation": "BOH-lee"
+    },
+    {
+      "bosnian": "umoran",
+      "english": "tired (m.)",
+      "pronunciation": "oo-MOR-an"
+    },
+    {
+      "bosnian": "pomoć",
+      "english": "help",
+      "pronunciation": "POH-myoch"
+    },
+    {
+      "bosnian": "zdravo",
+      "english": "healthy or hello",
+      "pronunciation": "ZDRAH-vo"
+    },
+    {
+      "bosnian": "šmrka",
+      "english": "pinecone",
+      "pronunciation": "SHMR-ka"
+    },
+    {
+      "bosnian": "klinika",
+      "english": "clinic",
+      "pronunciation": "KLEE-nee-ka"
+    },
+    {
+      "bosnian": "molim vas",
+      "english": "please (formal)",
+      "pronunciation": "MOH-leem vas"
+    }
+  ],
+  "grammarTitles": [
+    "Boli me plus a body part",
+    "Treba mi lijek and clinic phrases",
+    "Polite health visit language"
+  ]
+}

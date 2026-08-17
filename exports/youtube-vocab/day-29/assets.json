@@ -1,0 +1,83 @@
+{
+  "day": 29,
+  "series": "vocab-supplement",
+  "title": "Pisma iz BiH",
+  "titleEn": "Letters from Bosnia and Herzegovina",
+  "vocabulary": [
+    {
+      "bosnian": "pismo",
+      "english": "letter",
+      "pronunciation": "PEES-moh"
+    },
+    {
+      "bosnian": "razglednica",
+      "english": "postcard",
+      "pronunciation": "raz-GLED-nee-tsa"
+    },
+    {
+      "bosnian": "pošta",
+      "english": "post office or mail",
+      "pronunciation": "POSH-ta"
+    },
+    {
+      "bosnian": "marka",
+      "english": "stamp",
+      "pronunciation": "MAR-ka"
+    },
+    {
+      "bosnian": "koverat",
+      "english": "envelope",
+      "pronunciation": "KOH-veh-raht"
+    },
+    {
+      "bosnian": "adresa",
+      "english": "address",
+      "pronunciation": "ah-DREH-sa"
+    },
+    {
+      "bosnian": "poruka",
+      "english": "message",
+      "pronunciation": "poh-ROO-ka"
+    },
+    {
+      "bosnian": "i",
+      "english": "and",
+      "pronunciation": "ee"
+    },
+    {
+      "bosnian": "ali",
+      "english": "but",
+      "pronunciation": "AH-lee"
+    },
+    {
+      "bosnian": "zato",
+      "english": "therefore or so",
+      "pronunciation": "ZAH-toh"
+    },
+    {
+      "bosnian": "pišem",
+      "english": "I write",
+      "pronunciation": "PEE-shem"
+    },
+    {
+      "bosnian": "šaljem",
+      "english": "I send",
+      "pronunciation": "SHAL-yem"
+    },
+    {
+      "bosnian": "porodica",
+      "english": "family",
+      "pronunciation": "poh-ROH-dee-tsa"
+    },
+    {
+      "bosnian": "sjećanje",
+      "english": "memory",
+      "pronunciation": "SYEH-chah-nyeh"
+    }
+  ],
+  "grammarTitles": [
+    "I linking lines",
+    "Ali contrast chunk",
+    "Zato reason line"
+  ]
+}

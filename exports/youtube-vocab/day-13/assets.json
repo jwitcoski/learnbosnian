@@ -1,0 +1,83 @@
+{
+  "day": 13,
+  "series": "vocab-supplement",
+  "title": "Ljudi iz BiH",
+  "titleEn": "People from Bosnia and Herzegovina",
+  "vocabulary": [
+    {
+      "bosnian": "ljudi",
+      "english": "people",
+      "pronunciation": "LYOO-dee"
+    },
+    {
+      "bosnian": "zemlja",
+      "english": "country or land",
+      "pronunciation": "ZEHM-lya"
+    },
+    {
+      "bosnian": "govoriti",
+      "english": "to speak",
+      "pronunciation": "goh-VOH-ree-tee"
+    },
+    {
+      "bosnian": "govorim",
+      "english": "I speak",
+      "pronunciation": "goh-VOH-reem"
+    },
+    {
+      "bosnian": "govoriš",
+      "english": "you speak",
+      "pronunciation": "goh-VOH-reesh"
+    },
+    {
+      "bosnian": "bosanski",
+      "english": "Bosnian",
+      "pronunciation": "boh-SAHN-skee"
+    },
+    {
+      "bosnian": "engleski",
+      "english": "English",
+      "pronunciation": "EHN-gleh-skee"
+    },
+    {
+      "bosnian": "Amerikanka",
+      "english": "American woman",
+      "pronunciation": "ah-meh-ree-KAHN-ka"
+    },
+    {
+      "bosnian": "Bosanac",
+      "english": "Bosnian man",
+      "pronunciation": "boh-SAH-nats"
+    },
+    {
+      "bosnian": "Bosanka",
+      "english": "Bosnian woman",
+      "pronunciation": "boh-SAHN-ka"
+    },
+    {
+      "bosnian": "odakle",
+      "english": "from where",
+      "pronunciation": "OH-dah-kleh"
+    },
+    {
+      "bosnian": "jezik",
+      "english": "language",
+      "pronunciation": "YEH-zeek"
+    },
+    {
+      "bosnian": "narod",
+      "english": "people or nation",
+      "pronunciation": "NAH-rod"
+    },
+    {
+      "bosnian": "ko",
+      "english": "who",
+      "pronunciation": "koh"
+    }
+  ],
+  "grammarTitles": [
+    "Govorim bosanski",
+    "Odakle si?",
+    "Ko govori?"
+  ]
+}
