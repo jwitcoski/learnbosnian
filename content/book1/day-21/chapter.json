@@ -15,12 +15,12 @@
       "Reuse često, autobus, račun, and još jednom in café and travel frames."
     ],
     "grammar": [
-      "Drill Treba mi and Hoću as present need and wish chunks.",
+      "Practice Treba mi and Hoću for naming what you need and want.",
       "Switch among Koliko košta?, Gdje je?, and Kakvo je vrijeme?"
     ],
     "culture": [
       "Plan a solo weekend with postcards from Una, Bihać, or Jajce.",
-      "Treat review as frame practice rather than a new grammar system."
+      "Treat this review as practice, not a new grammar system."
     ]
   },
   "vocabulary": [
@@ -98,7 +98,7 @@
   "grammar": [
     {
       "title": "Remember Treba mi and Hoću",
-      "explanation": "Learn this as a full phrase. Do not treat it as a table. Treba mi names a need right now. Hoću names a wish. Keep both chunks in the present and add one familiar object after each verb.",
+      "explanation": "Treba mi names a need right now. Hoću names a wish. Keep both in the present tense, and add one familiar object after each verb.",
       "examples": [
         {
           "bosnian": "Treba mi karta.",
@@ -116,7 +116,7 @@
     },
     {
       "title": "Remember price, place, and weather questions",
-      "explanation": "Hold this as a spoken pattern. Do not treat it as a grammar grid. Koliko košta? asks about price. Gdje je? asks about place. Kakvo je vrijeme? asks about weather. Choose the question that matches your weekend plan.",
+      "explanation": "Koliko košta? asks about price. Gdje je? asks about place. Kakvo je vrijeme? asks about weather. Choose the question that matches your weekend plan.",
       "examples": [
         {
           "bosnian": "Koliko košta karta?",
@@ -135,14 +135,14 @@
   ],
   "culture": {
     "title": "Weekend planning with northwest postcards",
-    "body": "Ana spreads a weekend map beside her coffee and a postcard from Una or Bihać. The river towns of northwest Bosnia and Herzegovina offer waterfalls, old bridges, and quiet walks that suit a solo traveler. Jajce appears on another card with its fortress above the Pliva waterfall. Ana checks the weather, counts her budget, and writes a short plan on a napkin. A weekend alone still needs polite questions at a café and a ticket counter. The postcard places turn review frames into a real trip idea beyond Sarajevo.",
+    "body": "Ana spreads a weekend map beside her coffee and a postcard from Una or Bihać. The river towns of northwest Bosnia and Herzegovina offer waterfalls, old bridges, and quiet walks that suit a solo traveler well. Jajce appears on another card, with its fortress above the Pliva waterfall. Ana checks the weather, counts her budget, and writes a short plan on a napkin. Even a weekend alone still needs polite questions at a café and a ticket counter. These postcard places turn review lines into a real trip idea beyond Sarajevo.",
     "imageId": "una-postcard"
   },
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A. Drill need and wish frames",
-      "body": "This review drills frames from Lessons 15 through 20. Start with Treba mi and Hoću. Say Treba mi karta and Hoću vikend samo as full lines. Add telefon, plan, and vikend to your weekend story. Practice Koliko košta? before you buy a bus ticket. Ana sits at Amira's café with a map and a Una postcard. She names what she needs and what she wants without opening a new grammar chart. Repeat each frame još jednom until the need and wish sound automatic.",
+      "title": "Lesson A. Practice need and wish frames",
+      "body": "This review revisits frames from Lessons 15 through 20. Start with Treba mi and Hoću. Say Treba mi karta and Hoću vikend samo as full lines. Add telefon, plan, and vikend to your weekend story. Practice Koliko košta? before you buy a bus ticket. Ana sits at Amira's café with a map and a Una postcard, naming what she needs and what she wants without any new grammar to learn. Repeat each frame još jednom until the need and the wish sound automatic.",
       "tips": [
         "Keep Treba mi and Hoću with the object in one breath.",
         "Say each frame još jednom before you switch to a question.",
@@ -152,7 +152,7 @@
     {
       "id": "b",
       "title": "Lesson B. Switch travel questions at the café",
-      "body": "Now switch among three question frames. Ask Gdje je autobus? at the station. Ask Kakvo je vrijeme? before a mountain walk. Finish café talk with Račun, molim when you pay. Emir and Amira help Ana test her solo plan while Mrvica watches the sugar bowl. Mix idemo with a place name and često with a habit from earlier lessons. The review works when you can change frames without English coaching. Stay in the present tense for every answer.",
+      "body": "Now switch among three question frames. Ask Gdje je autobus? at the station. Ask Kakvo je vrijeme? before a mountain walk. Finish café talk with Račun, molim when you pay. Emir and Amira help Ana test her solo plan while Mrvica watches the sugar bowl. Mix idemo with a place name and često with a habit from earlier lessons. You'll know the review is working when you can switch frames without translating in your head first. Stay in the present tense for every answer.",
       "tips": [
         "Hear the question word before you choose your answer.",
         "Add molim or hvala in every shop and café exchange.",
@@ -211,7 +211,7 @@
       "id": "p1",
       "type": "match",
       "title": "Match the review frames",
-      "prompt": "Match each Bosnian chunk with its English meaning.",
+      "prompt": "Match each Bosnian phrase with its English meaning.",
       "items": [
         {
           "left": "treba mi",
@@ -263,7 +263,7 @@
   "practice": [
     {
       "id": "pr1",
-      "prompt": "Write the Bosnian chunk for I need a ticket.",
+      "prompt": "Write the Bosnian phrase for I need a ticket.",
       "hint": "Begin with Treba mi.",
       "answer": "Treba mi karta."
     },
@@ -307,19 +307,19 @@
   "funFacts": [
     {
       "title": "Una and Bihać suit a quiet weekend",
-      "body": "The Una River region in northwest Bosnia and Herzegovina offers green water and old towns like Bihać. A solo traveler can plan walks and river views without a big city crowd. Ana's postcard keeps the place visible while she reviews travel frames."
+      "body": "The Una River region in northwest Bosnia and Herzegovina offers green water and old towns like Bihać. A solo traveler can plan walks and river views without a big city crowd. Ana's postcard keeps the place in view while she reviews her travel lines."
     },
     {
       "title": "Jajce adds a waterfall stop",
-      "body": "Jajce sits above the Pliva waterfall and often appears on traveler postcards. The fortress and old town give Ana a second weekend option beyond the Una valley. Place names turn review vocabulary into real destinations."
+      "body": "Jajce sits above the Pliva waterfall and often shows up on traveler postcards. The fortress and old town give Ana a second weekend option beyond the Una valley. Real place names turn review vocabulary into real destinations."
     },
     {
-      "title": "Treba mi stays a survival chunk",
-      "body": "Treba mi plus a noun is one of the fastest ways to name a need at a counter. You do not need a full conjugation chart to buy a bus ticket. Pair the chunk with molim and you sound ready for travel talk."
+      "title": "Treba mi stays a survival phrase",
+      "body": "Treba mi plus a noun is one of the fastest ways to name a need at a counter. You don't need a full conjugation table to buy a bus ticket. Pair it with molim and you'll sound ready for travel talk."
     },
     {
-      "title": "Solo weekends still need polite frames",
-      "body": "Traveling alone does not mean traveling without manners. Račun, molim and hvala keep café and ticket talk friendly. Book 1 stays practical by mixing need, wish, and polite questions in one review night."
+      "title": "Solo weekends still need polite lines",
+      "body": "Traveling alone doesn't mean traveling without manners. Račun, molim and hvala keep café and ticket talk friendly. Book 1 stays practical by mixing need, wish, and polite questions into one review session."
     }
   ],
   "resources": [
@@ -336,7 +336,7 @@
     {
       "label": "How to speak Bosnian channel",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Browse more speaker models after you finish the review."
+      "note": "Browse more real speaker clips after you finish the review."
     }
   ],
   "sectionQuiz": {
@@ -608,7 +608,7 @@
   ],
   "civicContext": {
     "title": "Private rural bus lines collapse when routes stop paying",
-    "body": "Rural public transport in Bosnia and Herzegovina still depends heavily on private operators rather than a stable statewide network. When a mountain or village route stops turning a profit, companies cancel the line instead of absorbing the loss. Many smaller places then lose daily service with no public replacement on the same timetable. The result is a patchwork map where market math decides who can still reach work, school, or a clinic by bus.",
+    "body": "Rural public transport in Bosnia and Herzegovina still depends heavily on private operators rather than a stable statewide network. When a mountain or village route stops turning a profit, companies cancel the line instead of absorbing the loss. Smaller places often lose daily service with no public replacement on the same timetable. The result is a patchwork map where a company's bottom line decides who can still reach work, school, or a clinic by bus.",
     "imageId": "civic-rural-bus",
     "learnMore": {
       "label": "Wikipedia article about transport in Bosnia and Herzegovina",
@@ -645,7 +645,7 @@
         "sati",
         "koliko"
       ],
-      "noticePrompt": "You do not need every number. Catch the question shape for time."
+      "noticePrompt": "You don't need every number. Just catch the shape of a time question."
     },
     "reveal": {
       "keyLines": [
