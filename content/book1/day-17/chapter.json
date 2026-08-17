@@ -16,7 +16,7 @@
       "Describe food as ukusan or ukusna."
     ],
     "grammar": [
-      "Use hoću, hoćeš, and hoćemo as present wanting chunks.",
+      "Use hoću, hoćeš, and hoćemo to say what you want.",
       "Order with molim and ask for račun politely.",
       "Say Dobar tek when the food arrives."
     ],
@@ -129,7 +129,7 @@
   "grammar": [
     {
       "title": "Hoću, hoćeš, hoćemo",
-      "explanation": "Hold this as a spoken pattern. Do not treat it as a grammar grid. Hoću means I want, hoćeš asks or states what you want, and hoćemo covers we want. Keep these present forms as restaurant chunks. Do not expand into past or future paradigms yet.",
+      "explanation": "Hoću means I want, hoćeš asks or states what you want, and hoćemo covers we want. Keep all three in the present for now. You can learn past and future forms later.",
       "examples": [
         {
           "bosnian": "Hoću klepe.",
@@ -147,7 +147,7 @@
     },
     {
       "title": "Ordering with molim and račun",
-      "explanation": "Learn the usable chunk first. Full tables can wait. Place the food word first, then molim. When you finish, say Račun, molim for the bill. Politeness keeps a public restaurant scene smooth.",
+      "explanation": "Place the food word first, then molim. When you finish, say Račun, molim for the bill. A little politeness keeps any restaurant scene smooth.",
       "examples": [
         {
           "bosnian": "Klepe, molim.",
@@ -165,7 +165,7 @@
     },
     {
       "title": "Dobar tek at the table",
-      "explanation": "Keep this as a sayable line rather than a paradigm list. Dobar tek wishes someone an enjoyable meal. Say it when food arrives, then answer with Hvala. The phrase works among friends and with restaurant staff.",
+      "explanation": "Dobar tek wishes someone an enjoyable meal. Say it when the food arrives, then answer with Hvala. The phrase works among friends and with restaurant staff alike.",
       "examples": [
         {
           "bosnian": "Dobar tek!",
@@ -184,14 +184,14 @@
   ],
   "culture": {
     "title": "Klepe, japrak, and a full table",
-    "body": "Sarajevo restaurants still argue gently about favorite trays when friends share a table. Klepe are soft dumplings often served with sauce and garlic yogurt energy on a busy night. Japrak wraps rice and meat in vine leaves and arrives as neat rolls that invite a slow bite. Ana and Emir open a jelovnik and turn the debate into practice with hoću and hoćeš. A Visoko postcard on the table reminds them that food stories travel beyond one city street. Saying Dobar tek seals the meal as a shared social moment before anyone reaches for the bill. ",
+    "body": "Sarajevo restaurants still see friendly arguments over favorite dishes when friends share a table. Klepe are soft dumplings often served with sauce and a garlic yogurt topping. Japrak wraps rice and meat in vine leaves and arrives as neat rolls that invite a slow bite. Ana and Emir open a jelovnik and turn their debate into practice with hoću and hoćeš. A Visoko postcard on the table reminds them that Bosnian food stories reach well beyond one city street. Saying Dobar tek marks the meal as a shared moment before anyone reaches for the bill.",
     "imageId": "klepe-sarajevo"
   },
   "lessonBlocks": [
     {
       "id": "a",
-      "title": "Lesson A. Wanting food with htjeti chunks",
-      "body": "Learn restoran, jelovnik, konobar, klepe, and japrak first so the room has clear names. Then lock the present chunks Hoću, Hoćeš li, and Hoćemo as ready wanting lines. Ana wants klepe. Emir wants japrak. Their friendly disagreement is the lesson engine. Point at the menu and say the food word with molim instead of inventing long sentences. Stay in the present so the order is ready for a real waiter tonight without extra paradigms. Repeat each dish name twice, then switch roles so both of you can ask and answer with hoćeš. Keep the wanting chunks short and reusable at the table. ",
+      "title": "Lesson A. Wanting food with htjeti",
+      "body": "Learn restoran, jelovnik, konobar, klepe, and japrak first so the room has clear names. Then practice Hoću, Hoćeš li, and Hoćemo as ready lines for saying what you want. Ana wants klepe, Emir wants japrak, and their friendly disagreement carries the lesson. Point at the menu and say the food word with molim instead of building a long sentence. Stay in the present, and your order is ready for a real waiter tonight. Practice each dish name a couple of times, then switch roles so both of you can ask and answer with hoćeš. Keep these lines short and ready to reuse at any table.",
       "tips": [
         "Say Hoću plus the dish as one ready line.",
         "Use Hoćeš li for a friendly question.",
@@ -201,7 +201,7 @@
     {
       "id": "b",
       "title": "Lesson B. From order to račun",
-      "body": "Build the full table flow from greeting to goodbye in short present lines. Greet, order with hoću, wish Dobar tek, ask for još if you need bread, then call for račun. Reuse Hvala after every helpful move from the konobar so politeness stays audible. Amira may appear with an opinion, and Mrvica watches for crumbs under the table as always. The Visoko postcard keeps the meal tied to a wider map of Bosnian kitchens beyond Sarajevo. Practice the debate until both dishes feel easy to pronounce and easy to defend with a smile. End by asking for the bill with a calm polite voice. ",
+      "body": "Build the full table flow from greeting to goodbye, all in short present-tense lines. Greet, order with hoću, wish Dobar tek, ask for još if you need more bread, then call for račun. Say Hvala after every helpful move from the konobar so your politeness stays audible. Amira may show up with an opinion, and Mrvica watches for crumbs under the table as always. The Visoko postcard keeps the meal tied to a wider map of Bosnian kitchens beyond Sarajevo. Practice the debate until both dishes feel easy to say and easy to defend with a smile. Finish by asking for the bill in a calm, polite voice.",
       "tips": [
         "Add molim to every order and to Račun, molim.",
         "Answer Dobar tek with Hvala.",
@@ -357,16 +357,16 @@
   ],
   "funFacts": [
     {
-      "title": "Klepe invite sauce and garlic",
-      "body": "Klepe are boiled dumplings that often arrive with a savory sauce. Many diners add garlic yogurt flavor at the table. The dish feels homey even in a busy restaurant. Ana's order makes the soft dumpling a speaking target."
+      "title": "Klepe come with sauce and garlic",
+      "body": "Klepe are boiled dumplings that often arrive with a savory sauce. Many diners add a garlic yogurt topping at the table. The dish feels homey even in a busy restaurant. Ana's order makes this soft dumpling worth learning by heart."
     },
     {
       "title": "Japrak wraps the vine leaf",
-      "body": "Japrak uses vine leaves around a rice and meat filling. The rolls cook slowly and taste bright with lemon or sauce. Emir defends japrak as the wiser tray. The debate keeps both food names active."
+      "body": "Japrak uses vine leaves wrapped around a rice and meat filling. The rolls cook slowly and taste bright with lemon or sauce. Emir defends japrak as the better choice. The debate keeps both food names in active use."
     },
     {
       "title": "Visoko sits on the food map",
-      "body": "A postcard from Visoko reminds diners that Bosnian kitchens are not only Sarajevo scenes. Towns across the country share related stuffed and dough dishes with local twists. The card widens the meal without leaving the table. Geography becomes part of the restaurant chat."
+      "body": "A postcard from Visoko reminds diners that Bosnian kitchens are not only a Sarajevo story. Towns across the country share related stuffed and dough dishes, each with its own local twist. The card widens the meal without leaving the table, and geography becomes part of the restaurant chat."
     }
   ],
   "resources": [
@@ -383,7 +383,7 @@
     {
       "label": "How to speak Bosnian channel",
       "url": "https://www.youtube.com/@HowtospeakBosnian",
-      "note": "Find more everyday speaker models on the channel."
+      "note": "Find more everyday speaker clips on the channel."
     }
   ],
   "sectionQuiz": {
@@ -669,7 +669,7 @@
   "imageBriefs": [],
   "civicContext": {
     "title": "Neighbor passports split mobility at the same table",
-    "body": "Shared food does not mean equal travel papers. Many Bosnian Croats and Bosnian Serbs can hold Croatian or Serbian citizenship while they still live in Bosnia and Herzegovina. Those neighbor-state passports can open European Union travel and paperwork routes that many Bosniak neighbors cannot match through residence alone. A restaurant debate over klepe and japrak happens in a country where the document in your pocket can depend on ethnic affiliation as much as on the street where you sleep.",
+    "body": "Shared food does not mean equal travel papers. Many Bosnian Croats and Bosnian Serbs can hold Croatian or Serbian citizenship while still living in Bosnia and Herzegovina. Those neighbor-state passports can open European Union travel and paperwork routes that many Bosniak neighbors cannot match through residence alone. A restaurant debate over klepe and japrak happens in a country where the document in your pocket can depend on ethnic background as much as the street where you sleep.",
     "imageId": "civic-food-economy",
     "learnMore": {
       "label": "Wikipedia article on Bosnia and Herzegovina and Croatia relations",
@@ -679,7 +679,7 @@
   "authenticListen": {
     "title": "Čuj Bosnu in café hospitality speech",
     "kind": "speaker",
-    "hook": "A Sarajevo guide talks through coffee hospitality, a close cousin of restaurant politeness.",
+    "hook": "A Sarajevo guide talks through coffee hospitality, a close cousin of restaurant manners.",
     "source": {
       "title": "Bosnian Coffee - Explore Sarajevo with Local Guides",
       "artistOrSpeaker": "Meet Bosnia Tours (Edin)",
@@ -706,7 +706,7 @@
         "kahva",
         "molim"
       ],
-      "noticePrompt": "Catch the polite hosting mood even if some talk is bilingual."
+      "noticePrompt": "Catch the polite, welcoming mood even if some of the talk is bilingual."
     },
     "reveal": {
       "keyLines": [
@@ -729,7 +729,7 @@
   "section": 3,
   "sayAgain": {
     "title": "Say again",
-    "intro": "Warm up with four frames you already know.",
+    "intro": "Warm up with four lines you already know.",
     "lines": [
       {
         "bosnian": "Treba mi karta.",
