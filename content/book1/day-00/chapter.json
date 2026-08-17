@@ -15,7 +15,7 @@
       "Meet the cast names Ana, Emir, Amira, and Mrvica"
     ],
     "grammar": [
-      "Know that Book 1 teaches ready phrases and present-tense chunks rather than full case tables or conjugation charts.",
+      "Know that Book 1 teaches ready phrases in the present tense rather than full case tables or conjugation charts.",
       "Use Latin script only from Lesson 1 onward. This course never teaches Cyrillic."
     ],
     "culture": [
@@ -114,11 +114,11 @@
     },
     {
       "title": "Book 1 teaches phrases rather than full grammar tables",
-      "explanation": "Bosnian grammar is real and complicated. Cases, endings, and long verb charts can overwhelm beginners. Book 1 does not teach that full system. You learn ready phrases and present-tense chunks you can say today. Order coffee, ask the time, introduce yourself, stay polite. Grammar labels appear only to help you notice a useful pattern. Full paradigms and past-tense storytelling wait for Book 2.",
+      "explanation": "Bosnian grammar is real and complicated. Cases, endings, and long verb charts can overwhelm beginners. Book 1 does not teach that full system. You learn ready phrases in the present tense that you can say today. Order coffee, ask the time, introduce yourself, stay polite. Grammar labels appear only to help you notice a useful pattern. Full case tables and past-tense storytelling wait for Book 2.",
       "examples": [
         {
           "bosnian": "Kahvu, molim.",
-          "english": "Coffee, please. (a ready chunk)"
+          "english": "Coffee, please. (a ready phrase)"
         },
         {
           "bosnian": "Ja sam Ana.",
@@ -466,12 +466,12 @@
         "question": "How does Book 1 handle Bosnian grammar?",
         "options": [
           "Full case tables and conjugation charts from Lesson 1",
-          "Ready phrases and present-tense chunks you can say today. Deeper grammar waits for Book 2",
+          "Ready phrases you can say today. Deeper grammar waits for Book 2",
           "Only linguistics theory with no speaking practice",
           "Three parallel language columns every day"
         ],
         "correctIndex": 1,
-        "explanation": "Bosnian grammar is complicated, so Book 1 teaches usable phrases first. Full paradigms and past tense wait for Book 2.",
+        "explanation": "Bosnian grammar is complicated, so Book 1 teaches usable phrases first. Full case tables and past tense wait for Book 2.",
         "skill": "grammar"
       }
     ]
