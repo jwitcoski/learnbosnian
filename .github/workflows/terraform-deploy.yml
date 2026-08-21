@@ -100,6 +100,32 @@ jobs:
           terraform import -var="stage=${STAGE}" aws_s3_bucket.frontend "${S3_BUCKET}"
           terraform import -var="stage=${STAGE}" aws_dynamodb_table.main "learnbosnian-table-${STAGE}"
           terraform import -var="stage=${STAGE}" aws_cloudfront_distribution.frontend "${CLOUDFRONT_DISTRIBUTION_ID}"
+
+          SITE_ZONE_ID=$(aws route53 list-hosted-zones-by-name --dns-name howtospeakbosnian.com. \
+            --query "HostedZones[?Name=='howtospeakbosnian.com.'].Id | [0]" --output text | sed 's|/hostedzone/||')
+          CERT_ARN=$(aws acm list-certificates --region us-east-1 \
+            --query "CertificateSummaryList[?DomainName=='howtospeakbosnian.com'].CertificateArn | [0]" \
+            --output text)
+          if [ -n "$CERT_ARN" ] && [ "$CERT_ARN" != "None" ]; then
+            terraform import -var="stage=${STAGE}" aws_acm_certificate.frontend "$CERT_ARN"
+          fi
+          if [ -n "$SITE_ZONE_ID" ] && [ "$SITE_ZONE_ID" != "None" ]; then
+            terraform import -var="stage=${STAGE}" aws_route53_record.site_a "${SITE_ZONE_ID}_howtospeakbosnian.com_A"
+            terraform import -var="stage=${STAGE}" aws_route53_record.site_aaaa "${SITE_ZONE_ID}_howtospeakbosnian.com_AAAA"
+            terraform import -var="stage=${STAGE}" aws_route53_record.www_a "${SITE_ZONE_ID}_www.howtospeakbosnian.com_A"
+            terraform import -var="stage=${STAGE}" aws_route53_record.www_aaaa "${SITE_ZONE_ID}_www.howtospeakbosnian.com_AAAA"
+            if [ -n "$CERT_ARN" ] && [ "$CERT_ARN" != "None" ]; then
+              aws acm describe-certificate --certificate-arn "$CERT_ARN" \
+                --query "Certificate.DomainValidationOptions[].ResourceRecord.{Name:Name,Type:Type}" \
+                --output text | while read -r REC_NAME REC_TYPE; do
+                  [ -z "$REC_NAME" ] && continue
+                  KEY="${REC_NAME%.}"
+                  terraform import -var="stage=${STAGE}" \
+                    "aws_route53_record.cert_validation[\"${KEY}\"]" \
+                    "${SITE_ZONE_ID}_${KEY}_${REC_TYPE}"
+                done
+            fi
+          fi
           OAC_ID=$(aws cloudfront list-origin-access-controls \
             --query "OriginAccessControlList.Items[?Name=='learnbosnian-frontend-oac-${STAGE}'].Id | [0]" \
             --output text)
@@ -224,7 +250,8 @@ jobs:
 
       - name: Site URLs
         run: |
-          echo "Lesson site: https://dz4szsos3tpia.cloudfront.net"
+          echo "Lesson site: https://howtospeakbosnian.com"
+          echo "CloudFront: https://dz4szsos3tpia.cloudfront.net"
           echo "Audio CDN: ${{ steps.out.outputs.audio_base }}"
           echo "Recorder: ${{ steps.out.outputs.recorder_url }}"
           echo "Recorder API: ${{ steps.out.outputs.audio_api }}"

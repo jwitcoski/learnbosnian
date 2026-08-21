@@ -19,6 +19,12 @@ variable "stage" {
   default     = "dev"
 }
 
+variable "site_domain" {
+  description = "Public site domain attached to the lesson CloudFront distribution"
+  type        = string
+  default     = "howtospeakbosnian.com"
+}
+
 provider "aws" {
   region = "us-east-1"
 }
@@ -52,9 +58,10 @@ resource "aws_cloudfront_origin_access_control" "frontend" {
 resource "aws_cloudfront_distribution" "frontend" {
   enabled             = true
   is_ipv6_enabled     = true
-  comment             = "Learn Bosnian in 30 Days (${var.stage})"
+  comment             = "How to Speak Bosnian (${var.stage})"
   default_root_object = "index.html"
   price_class         = "PriceClass_100"
+  aliases             = [var.site_domain, "www.${var.site_domain}"]
 
   origin {
     domain_name              = aws_s3_bucket.frontend.bucket_regional_domain_name
@@ -100,7 +107,9 @@ resource "aws_cloudfront_distribution" "frontend" {
   }
 
   viewer_certificate {
-    cloudfront_default_certificate = true
+    acm_certificate_arn      = aws_acm_certificate_validation.frontend.certificate_arn
+    ssl_support_method       = "sni-only"
+    minimum_protocol_version = "TLSv1.2_2021"
   }
 
   tags = {

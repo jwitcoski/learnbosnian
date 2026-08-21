@@ -9,8 +9,13 @@ output "cloudfront_domain_name" {
 }
 
 output "cloudfront_url" {
-  description = "HTTPS URL for the Learn Bosnian site"
+  description = "CloudFront domain URL (still valid; prefer site_url)"
   value       = "https://${aws_cloudfront_distribution.frontend.domain_name}"
+}
+
+output "site_url" {
+  description = "Public HTTPS URL for the lesson site"
+  value       = "https://${var.site_domain}"
 }
 
 output "cloudfront_distribution_id" {
