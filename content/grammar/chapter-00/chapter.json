@@ -1,0 +1,273 @@
+{
+  "chapter": 0,
+  "kind": "grammar",
+  "title": "Zašto je teško?",
+  "titleEn": "Why this feels hard",
+  "theme": "English keeps the word still. Bosnian dresses it again.",
+  "status": "draft",
+  "reviewedAt": null,
+  "reviewerNotes": "Shorter orientation chapter. Prose uses thesis, support, summary. Spoken lines have cast speakers.",
+  "estimatedMinutes": 20,
+  "whyHere": {
+    "heading": "Why you are here",
+    "body": "This chapter explains why Bosnian words keep changing their last letters when English words stay still. You may already know Ana’s Book 1 line Želim kahvu, which means I want coffee. That line is the same drink as kahva, with a different ending because the job in the sentence changed. When you close the laptop you should know where the work lives. English hides grammar in little words, and Bosnian hides it on the end of the noun."
+  },
+  "englishLies": {
+    "heading": "Why English lies",
+    "body": "English lies because it keeps the word coffee the same in every job. You can say this is coffee and I want coffee without touching a single letter. Bosnian does not allow that trick. The list word kahva becomes kahvu when Ana wants the drink, because the grammar sits on the end of the word instead of in little words like the and to."
+  },
+  "knownLine": {
+    "heading": "A line you already say",
+    "body": "Book 1 already gave you a line you can say without a chart, and this book is the chart behind it. Ana wants coffee, so she says Želim kahvu instead of repeating the list word kahva. Today you only need the shock that the word changed. Tomorrow you will learn the piles that pick the new ending.",
+    "speaker": "Ana",
+    "bosnian": "Želim kahvu.",
+    "english": "I want coffee."
+  },
+  "pattern": {
+    "heading": "The pattern",
+    "body": "A vocab list shows only one outfit for each noun, and that outfit is the dictionary form. Kahva, most, and kuća are the forms you will see in a list. Real sentences dress those words again when the job changes, so kahva can become kahvu. English never asked you to watch the end of coffee, and that is why the moving letter feels unfair until you expect it.",
+    "table": {
+      "headers": ["English", "Bosnian"],
+      "rows": [
+        ["This is coffee.", "To je kahva."],
+        ["I want coffee.", "Želim kahvu."]
+      ]
+    }
+  },
+  "howYouGuess": {
+    "heading": "How to use this book",
+    "body": "Use this book one system at a time, with a small chart, a few tries, and a check. The same coffee, bridge, house, Ana, and Emir come back in every chapter so you are not memorizing a new grocery list. You can start here without finishing Book 1, and the sentences will still make sense. If you already walked Book 1, you get a bonus because you have already said the line."
+  },
+  "trick": {
+    "heading": "What we skip",
+    "body": "This book skips the tourist walk on purpose so the notebook can stay on the endings. There are no civic notes and no cat plot here, because Book 1 already owns that walk through town. We will name a case when a chapter needs a handle, such as nominative or accusative, and we will say the Bosnian name once. Then we move on with the same small set of words."
+  },
+  "nerd": {
+    "heading": "Why it's like this",
+    "body": "English used to hang grammar on the end of the noun too, back in Old English. Those endings wore off, and word order plus little words like the took the job. Bosnian never fired the endings. Linguists call English analytic now and Bosnian synthetic, but you only need the habit. English moved the work off the noun, and Bosnian left it on."
+  },
+  "vocabulary": [
+    {
+      "bosnian": "kahva",
+      "english": "coffee",
+      "pronunciation": "KAH-hvah",
+      "partOfSpeech": "noun",
+      "example": "To je kahva."
+    },
+    {
+      "bosnian": "most",
+      "english": "bridge",
+      "pronunciation": "most",
+      "partOfSpeech": "noun",
+      "example": "To je most."
+    },
+    {
+      "bosnian": "kuća",
+      "english": "house",
+      "pronunciation": "KOO-cha",
+      "partOfSpeech": "noun",
+      "example": "To je kuća."
+    }
+  ],
+  "speakTargets": ["kahva", "most"],
+  "look": {
+    "heading": "Look at these",
+    "items": [
+      {
+        "speaker": "Ana",
+        "bosnian": "To je kahva.",
+        "english": "That is coffee, still in the list form."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Želim kahvu.",
+        "english": "I want coffee, and the last letter has already moved."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "To je most.",
+        "english": "That is a bridge, still in the list form."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "To je kuća.",
+        "english": "That is a house, and this word will move later too."
+      }
+    ]
+  },
+  "try": {
+    "heading": "Try these",
+    "items": [
+      {
+        "id": "t1",
+        "prompt": "In English, does coffee change when you want it?",
+        "options": ["Yes", "No"],
+        "correctIndex": 1,
+        "explanation": "I want coffee uses the same word as this is coffee."
+      },
+      {
+        "id": "t2",
+        "prompt": "In Želim kahvu, did kahva stay kahva?",
+        "options": ["Yes", "No"],
+        "correctIndex": 1,
+        "explanation": "It became kahvu because the job in the sentence changed."
+      },
+      {
+        "id": "t3",
+        "prompt": "Where does Bosnian put the grammar?",
+        "options": [
+          "In little words in front",
+          "On the end of the word",
+          "In the word order only"
+        ],
+        "correctIndex": 1,
+        "explanation": "The last letters move. English put the work in words like the and to."
+      },
+      {
+        "id": "t4",
+        "prompt": "The vocab list shows kahva. Is that the only form?",
+        "options": [
+          "Yes. Lists never lie.",
+          "No. That is one outfit."
+        ],
+        "correctIndex": 1,
+        "explanation": "Želim kahvu is the same drink in a different outfit."
+      },
+      {
+        "id": "t5",
+        "prompt": "This book is…",
+        "options": [
+          "The walk through town",
+          "The notebook next to Book 1",
+          "Book 2, the sequel"
+        ],
+        "correctIndex": 1,
+        "explanation": "Book 1 stays the story. Book 2 stays the later sequel. This is grammar."
+      }
+    ]
+  },
+  "quiz": {
+    "title": "Quick check",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Why does Bosnian feel harder than English at first?",
+        "options": [
+          "The alphabet has no vowels",
+          "Grammar sits on the end of the word",
+          "Every sentence needs a new vocab list",
+          "You must learn three languages at once"
+        ],
+        "correctIndex": 1,
+        "explanation": "English hid the work in little words. Bosnian left it on the noun."
+      },
+      {
+        "id": "q2",
+        "question": "What is kahva in a vocab list?",
+        "options": [
+          "The only form you will ever say",
+          "One outfit, the dictionary form",
+          "A greeting",
+          "The past tense of coffee"
+        ],
+        "correctIndex": 1,
+        "explanation": "Želim kahvu is the same word doing a different job."
+      },
+      {
+        "id": "q3",
+        "question": "In English, I want coffee uses the same coffee as this is coffee. What did Bosnian do?",
+        "options": [
+          "It added the in front",
+          "It changed the last letter",
+          "It switched to a new drink",
+          "It moved the verb to the end"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kahva became kahvu. Chapter 1 is why that ending was the she-pile one."
+      },
+      {
+        "id": "q4",
+        "question": "What does this book skip on purpose?",
+        "options": [
+          "Tables of any kind",
+          "The walk through town, civic notes, and the cat plot",
+          "The word kahva",
+          "Latin script"
+        ],
+        "correctIndex": 1,
+        "explanation": "Book 1 keeps the walk. This book keeps the notebook."
+      },
+      {
+        "id": "q5",
+        "question": "English used to put grammar on the end too. What happened?",
+        "options": [
+          "Nothing. English still does.",
+          "The endings wore off. Word order and the took the job.",
+          "English borrowed Bosnian endings.",
+          "Coffee became a verb."
+        ],
+        "correctIndex": 1,
+        "explanation": "Bosnian kept the endings. That is the whole headache, and the whole system."
+      },
+      {
+        "id": "q6",
+        "question": "What comes next?",
+        "options": [
+          "Seven cases on one page",
+          "Why coffee is a she",
+          "Past tense",
+          "A café scene with Mrvica"
+        ],
+        "correctIndex": 1,
+        "explanation": "You file the word first. Then the ending can be right."
+      }
+    ]
+  },
+  "next": {
+    "body": "You now know that the word will change when the job changes. Chapter 1 files coffee into a pile so the later ending can be the right one. That pile is why kahva is a she.",
+    "chapter": 1
+  },
+  "imageSlots": {
+    "hero": "kahva",
+    "afterPattern": "kuca",
+    "afterNerd": "most"
+  },
+  "images": [
+    {
+      "id": "kahva",
+      "alt": "Polygon painting of Bosnian coffee with džezva and fildžan on a copper tray",
+      "localPath": "/images/book1/day-03-kahva.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_coffee_(13926468997).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_coffee_(13926468997).jpg",
+      "author": "Michał Huniewicz",
+      "license": "CC BY 2.0",
+      "credit": "Bosnian coffee",
+      "grammarCaption": "Kahva is the drink English would never change, and Bosnian will."
+    },
+    {
+      "id": "kuca",
+      "alt": "Polygon painting of Počitelj’s stone houses and fortress hill in Herzegovina",
+      "localPath": "/images/book1/day-07-pocitelj.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Po%C4%8Ditelj_-_pano.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Po%C4%8Ditelj_-_pano.jpg",
+      "author": "Pudelek (Marcin Szala)",
+      "license": "CC BY-SA 3.0",
+      "credit": "Počitelj panorama",
+      "grammarCaption": "Kuća is a house, and this word has more than one outfit too."
+    },
+    {
+      "id": "most",
+      "alt": "Polygon painting of the old stone bridge crossing the Neretva in Konjic",
+      "localPath": "/images/book1/day-15-konjic-bridge.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Konjic_Stari_most_7.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKonjic_Stari_most_7.jpg",
+      "author": "Julian Nyča",
+      "license": "CC BY-SA 3.0",
+      "credit": "Old Bridge, Konjic",
+      "grammarCaption": "Most is a bridge, and the list word is only the first outfit."
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": []
+}

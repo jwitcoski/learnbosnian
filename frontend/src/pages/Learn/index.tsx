@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { book1Outline } from "../../data/loadChapters";
+import { grammarOutline } from "../../data/loadGrammar";
 import book2Outline from "../../data/book2/outline.json";
 import book3Outline from "../../data/book3/outline.json";
 import {
@@ -14,8 +15,9 @@ const Learn = () => {
     <LessonPage>
       <h1>Learn</h1>
       <p>
-        Pick a book. Book 1 is live and growing. Website lessons, print, and
-        YouTube companions for each lesson as it is published.
+        Pick a book. Book 1 is the walk through town. Grammar is the notebook
+        beside it. Website lessons, print, and YouTube companions for Book 1 as
+        lessons are published.
       </p>
       <p>
         <Link to="/dictionary">Dictionary</Link>
@@ -38,6 +40,14 @@ const Learn = () => {
           <div className="theme">
             Level {book1Outline.level}. Lesson 0 plus thirty present-tense
             lessons. Cast: {book1Outline.cast?.join(", ")}.
+          </div>
+        </DayTile>
+        <DayTile as={Link} to="/learn/grammar" $open $done={false}>
+          <div className="daynum">Grammar</div>
+          <div className="title">{grammarOutline.title}</div>
+          <div className="theme">
+            {grammarOutline.level}. Chapters 0 and 1 are up for a look. Cases,
+            then verbs, then how a sentence actually runs.
           </div>
         </DayTile>
         <DayTile as="div" $open={false} $done={false}>

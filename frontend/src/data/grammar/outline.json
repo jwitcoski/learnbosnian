@@ -1,0 +1,137 @@
+{
+  "kind": "grammar",
+  "title": "How to Speak Bosnian: Grammar",
+  "titleBs": "Kako govoriti bosanski: Gramatika",
+  "level": "Companion to Book 1",
+  "status": "draft",
+  "summary": "A parallel handbook. Not Book 2. English hangs meaning on little words and word order. Bosnian hangs it on the end of the word. Same small word set as Book 1.",
+  "pedagogy": "One system per chapter. English contrast first. Small tables. No civic notes. No cat plot. No Lesson A and Lesson B.",
+  "mold": "content/grammar/GRAMMAR_AUTHORING_GUIDE.md",
+  "exemplar": "content/grammar/chapter-01/chapter.json",
+  "parts": [
+    {
+      "part": 1,
+      "title": "Endings, not word order",
+      "focus": "Gender, then the cases, then the preposition map.",
+      "chapters": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "part": 2,
+      "title": "What has to match",
+      "focus": "Adjectives and pronouns take the same ride as the noun.",
+      "chapters": [6, 7]
+    },
+    {
+      "part": 3,
+      "title": "The verb machine",
+      "focus": "Present, aspect, past, future, and commands.",
+      "chapters": [8, 9, 10, 11]
+    },
+    {
+      "part": 4,
+      "title": "How a Bosnian sentence actually runs",
+      "focus": "Clitics in second place, then the English-shaped mistakes.",
+      "chapters": [12, 13]
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 0,
+      "title": "Zašto je teško?",
+      "titleEn": "Why this feels hard",
+      "theme": "English keeps the word still. Bosnian dresses it again.",
+      "status": "draft"
+    },
+    {
+      "chapter": 1,
+      "title": "Zašto je kahva ona?",
+      "titleEn": "Why coffee is a she",
+      "theme": "Last letter. Three piles. Then the endings can be right.",
+      "status": "draft"
+    },
+    {
+      "chapter": 2,
+      "title": "Nominativ i akuzativ",
+      "titleEn": "Subject and the thing you want",
+      "theme": "Želim kahvu. Who does it vs who gets it.",
+      "status": "outlined"
+    },
+    {
+      "chapter": 3,
+      "title": "Genitiv",
+      "titleEn": "Of, from, none",
+      "theme": "Nema kahve. English of is a separate word here.",
+      "status": "outlined"
+    },
+    {
+      "chapter": 4,
+      "title": "Dativ i lokativ",
+      "titleEn": "To, at, about",
+      "theme": "Giving, liking, and in vs into.",
+      "status": "outlined"
+    },
+    {
+      "chapter": 5,
+      "title": "Instrumental, vokativ, mapa",
+      "titleEn": "With, calling, the map",
+      "theme": "S kahvom. Emire. One preposition map.",
+      "status": "outlined"
+    },
+    {
+      "chapter": 6,
+      "title": "Pridjevi",
+      "titleEn": "Adjectives and possessives",
+      "theme": "Moja kahva vs moju kahvu.",
+      "status": "outlined"
+    },
+    {
+      "chapter": 7,
+      "title": "Zamjenice",
+      "titleEn": "Full pronouns vs short ones",
+      "theme": "Mene vs me. After a preposition you need the long one.",
+      "status": "outlined"
+    },
+    {
+      "chapter": 8,
+      "title": "Prezent",
+      "titleEn": "Present tense for real",
+      "theme": "Book 1 chunks become a full map.",
+      "status": "outlined"
+    },
+    {
+      "chapter": 9,
+      "title": "Vid",
+      "titleEn": "Aspect",
+      "theme": "Eat vs eat up. Two Bosnian verbs for one English verb.",
+      "status": "outlined"
+    },
+    {
+      "chapter": 10,
+      "title": "Prošlost",
+      "titleEn": "Past",
+      "theme": "Sam plus -o, -la, -lo. Gender in the past.",
+      "status": "outlined"
+    },
+    {
+      "chapter": 11,
+      "title": "Budućnost i naredbe",
+      "titleEn": "Future, want, must, do it",
+      "theme": "Ću. Polite vs blunt. Moći, morati, trebati, htjeti.",
+      "status": "outlined"
+    },
+    {
+      "chapter": 12,
+      "title": "Enklitike",
+      "titleEn": "Clitics and second place",
+      "theme": "Ja se zovem works. Se zovem does not.",
+      "status": "outlined"
+    },
+    {
+      "chapter": 13,
+      "title": "Šta Englezi krivo kažu",
+      "titleEn": "Patterns English speakers get wrong",
+      "theme": "Mixed review. The whole-book map.",
+      "status": "outlined"
+    }
+  ]
+}

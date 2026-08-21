@@ -81,6 +81,16 @@ Ana (learner), Emir (guide), Amira (café), Mrvica (cat)
 
 Teaser outlines only — see `content/book2/outline.json` and `content/book3/outline.json`.
 
+## Grammar handbook
+
+Parallel notebook, not Book 2. Title: *How to Speak Bosnian: Grammar*. Lives at `/learn/grammar`. Authoring guide: [`content/grammar/GRAMMAR_AUTHORING_GUIDE.md`](content/grammar/GRAMMAR_AUTHORING_GUIDE.md). Exemplar: Chapter 1.
+
+| Chapter | Title | Status |
+|---------|-------|--------|
+| 0 | Zašto je teško? / Why this feels hard | draft (on site) |
+| 1 | Zašto je kahva ona? / Why coffee is a she | draft (on site, copy this) |
+| 2–13 | Rest of the outline | outlined |
+
 ## Completed platform work
 
 - [x] Chapter schema + outline

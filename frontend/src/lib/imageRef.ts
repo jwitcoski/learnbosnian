@@ -1,4 +1,5 @@
 import type { Chapter, ChapterImage } from "../types/chapter";
+import type { GrammarChapter, GrammarImage } from "../types/grammar";
 
 /** Photos in the order they appear on a lesson page: hero, then the rest, civic last. */
 export function orderedChapterImages(chapter: Chapter): ChapterImage[] {
@@ -18,12 +19,28 @@ export function orderedChapterImages(chapter: Chapter): ChapterImage[] {
   );
 }
 
+export function orderedGrammarImages(chapter: GrammarChapter): GrammarImage[] {
+  const images = chapter.images || [];
+  if (!images.length) return [];
+  const ids = [
+    chapter.imageSlots?.hero,
+    chapter.imageSlots?.afterPattern,
+    chapter.imageSlots?.afterNerd,
+  ].filter((id): id is string => Boolean(id));
+  const found = ids
+    .map((id) => images.find((i) => i.id === id))
+    .filter((img): img is GrammarImage => Boolean(img));
+  const rest = images.filter((i) => !ids.includes(i.id));
+  return [...found, ...rest];
+}
+
 export function imageRefCode(
-  book: number,
+  book: number | string,
   day: number,
   index: number
 ): string {
-  return `${book}.${day}${String.fromCharCode(97 + index)}`;
+  const bookPart = book === "grammar" || book === "G" ? "G" : String(book);
+  return `${bookPart}.${day}${String.fromCharCode(97 + index)}`;
 }
 
 export function imageRefFor(
@@ -35,6 +52,17 @@ export function imageRefFor(
   );
   if (index < 0) return "";
   return imageRefCode(chapter.book || 1, chapter.day, index);
+}
+
+export function grammarImageRefFor(
+  chapter: GrammarChapter,
+  imageId: string
+): string {
+  const index = orderedGrammarImages(chapter).findIndex(
+    (i) => i.id === imageId
+  );
+  if (index < 0) return "";
+  return imageRefCode("G", chapter.chapter, index);
 }
 
 export function photoCaption(chapter: Chapter, image: ChapterImage): string {

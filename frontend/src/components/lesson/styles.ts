@@ -437,3 +437,101 @@ export const DayTile = styled.div<{ $open?: boolean; $done?: boolean }>`
     color: var(--color-muted);
   }
 `;
+
+export const NerdBox = styled.aside`
+  margin: 0.5rem 0 1.25rem;
+  padding: 1rem 1.15rem 1.1rem;
+  background: rgba(212, 160, 23, 0.12);
+  border-left: 4px solid var(--color-gold);
+
+  h2 {
+    margin-top: 0;
+    font-size: 1.15rem;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+`;
+
+export const GrammarTable = styled.table`
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0 0.25rem;
+  font-size: 0.98rem;
+
+  th,
+  td {
+    text-align: left;
+    padding: 0.55rem 0.7rem;
+    border-bottom: 1px solid rgba(93, 64, 55, 0.15);
+    vertical-align: top;
+  }
+
+  th {
+    font-size: 0.8rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--color-muted);
+    font-weight: 700;
+  }
+
+  td:first-child {
+    font-weight: 700;
+    color: var(--color-brown);
+    white-space: nowrap;
+  }
+`;
+
+export const ChoiceRow = styled.div`
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.35rem 0 0.5rem;
+`;
+
+export const ChoiceButton = styled.button<{
+  $state?: "idle" | "correct" | "wrong" | "missed";
+}>`
+  background: ${(p) =>
+    p.$state === "correct"
+      ? "var(--color-sage)"
+      : p.$state === "wrong"
+      ? "var(--color-crimson)"
+      : "transparent"};
+  color: ${(p) =>
+    p.$state === "correct" || p.$state === "wrong"
+      ? "#fff"
+      : "var(--color-brown)"};
+  border: 2px solid
+    ${(p) =>
+      p.$state === "missed"
+        ? "var(--color-sage)"
+        : p.$state === "correct" || p.$state === "wrong"
+        ? "transparent"
+        : "var(--color-brown)"};
+  padding: 0.45rem 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  font-size: 0.95rem;
+  font: inherit;
+
+  &:hover {
+    background: ${(p) =>
+      p.$state === "idle" || !p.$state
+        ? "rgba(93, 64, 55, 0.08)"
+        : p.$state === "correct"
+        ? "var(--color-sage)"
+        : p.$state === "wrong"
+        ? "var(--color-crimson)"
+        : "transparent"};
+  }
+`;
+
+export const GrammarCaption = styled.p`
+  font-size: 1rem !important;
+  font-weight: 600;
+  color: var(--color-brown) !important;
+  margin: 0.65rem 0 0.15rem;
+`;
+

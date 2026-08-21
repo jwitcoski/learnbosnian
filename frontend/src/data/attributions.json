@@ -1,9 +1,9 @@
 {
   "title": "Photo attributions",
-  "intro": "Every photo used on the site and in Book 1, listed for citation. Use this when you credit images for print, Scribus export, or YouTube. Lesson images come from each lesson file; homepage photos are added by hand.",
+  "intro": "Every photo used on the site, in Book 1, and in the Grammar handbook, listed for citation. Use this when you credit images for print, Scribus export, or YouTube. Lesson images come from each lesson file; grammar images come from each grammar chapter; homepage photos are added by hand.",
   "citationNote": "For Creative Commons works, credit the author, note the license, and link to the source page. For Pexels, credit the photographer and Pexels. Derivative treatments (polygon paint, background removal) still require attribution of the source photo.",
   "generatedAt": "2026-08-21",
-  "total": 127,
+  "total": 133,
   "entries": [
     {
       "id": "book1-day-00-mostar-neretva",
@@ -2278,6 +2278,114 @@
       "sourceUrl": "https://www.pexels.com/photo/view-of-the-stari-most-in-mostar-in-bosnia-and-herzegovina-18037876/",
       "localPath": "/images/home/mostar-bridge.png",
       "notes": "Polygon paint treatment of the source photo; background removed for the site."
+    },
+    {
+      "id": "grammar-ch-00-kahva",
+      "ref": "G.0a",
+      "title": "Bosnian coffee",
+      "whereUsed": [
+        "Grammar · Chapter 0 — Why this feels hard"
+      ],
+      "author": "Michał Huniewicz",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_coffee_(13926468997).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_coffee_(13926468997).jpg",
+      "localPath": "/images/book1/day-03-kahva.png",
+      "credit": "Michał Huniewicz / Wikimedia Commons (CC BY 2.0)",
+      "notes": "Kahva is the drink English would never change, and Bosnian will.",
+      "book": "G",
+      "day": 0
+    },
+    {
+      "id": "grammar-ch-00-kuca",
+      "ref": "G.0b",
+      "title": "Počitelj panorama",
+      "whereUsed": [
+        "Grammar · Chapter 0 — Why this feels hard"
+      ],
+      "author": "Pudelek (Marcin Szala)",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Po%C4%8Ditelj_-_pano.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Po%C4%8Ditelj_-_pano.jpg",
+      "localPath": "/images/book1/day-07-pocitelj.png",
+      "credit": "Pudelek (Marcin Szala) / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "Kuća is a house, and this word has more than one outfit too.",
+      "book": "G",
+      "day": 0
+    },
+    {
+      "id": "grammar-ch-00-most",
+      "ref": "G.0c",
+      "title": "Old Bridge, Konjic",
+      "whereUsed": [
+        "Grammar · Chapter 0 — Why this feels hard"
+      ],
+      "author": "Julian Nyča",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKonjic_Stari_most_7.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Konjic_Stari_most_7.jpg",
+      "localPath": "/images/book1/day-15-konjic-bridge.png",
+      "credit": "Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "Most is a bridge, and the list word is only the first outfit.",
+      "book": "G",
+      "day": 0
+    },
+    {
+      "id": "grammar-ch-01-kahva",
+      "ref": "G.1a",
+      "title": "Bosnian coffee set, Baščaršija",
+      "whereUsed": [
+        "Grammar · Chapter 1 — Why coffee is a she"
+      ],
+      "author": "İhsan Işık",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "localPath": "/images/book1/day-03-coffee-set.png",
+      "credit": "İhsan Işık / Wikimedia Commons (CC BY 3.0)",
+      "notes": "Kahva ends in a, so it belongs in the she pile.",
+      "book": "G",
+      "day": 1
+    },
+    {
+      "id": "grammar-ch-01-most",
+      "ref": "G.1b",
+      "title": "Old Bridge, Konjic",
+      "whereUsed": [
+        "Grammar · Chapter 1 — Why coffee is a she"
+      ],
+      "author": "Julian Nyča",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKonjic_Stari_most_7.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Konjic_Stari_most_7.jpg",
+      "localPath": "/images/book1/day-15-konjic-bridge.png",
+      "credit": "Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "Most ends in t, so it belongs in the he pile.",
+      "book": "G",
+      "day": 1
+    },
+    {
+      "id": "grammar-ch-01-more",
+      "ref": "G.1c",
+      "title": "Zenit Beach, Neum",
+      "whereUsed": [
+        "Grammar · Chapter 1 — Why coffee is a she"
+      ],
+      "author": "Bdx",
+      "source": "Wikimedia Commons",
+      "license": "CC0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AZenit_Beach_in_Neum%2C_2024_1.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Zenit_Beach_in_Neum%2C_2024_1.jpg",
+      "localPath": "/images/book1/day-16-neum-coast.png",
+      "credit": "Bdx / Wikimedia Commons (CC0)",
+      "notes": "More ends in e, so it belongs in the leftover pile with pivo.",
+      "book": "G",
+      "day": 1
     }
   ]
 }

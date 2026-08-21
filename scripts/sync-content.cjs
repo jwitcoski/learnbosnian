@@ -57,6 +57,33 @@ export default chapters;
   console.log("Regenerated book1/chapters.ts");
 }
 
+const grammarFrom = path.join(src, "grammar");
+const grammarTo = path.join(dest, "grammar");
+if (fs.existsSync(grammarFrom)) {
+  fs.rmSync(grammarTo, { recursive: true, force: true });
+  copyDir(grammarFrom, grammarTo);
+  const dirs = fs
+    .readdirSync(grammarTo)
+    .filter((d) => d.startsWith("chapter-"))
+    .sort();
+  const imports = dirs
+    .map((d) => {
+      const n = d.replace("chapter-", "");
+      return `import chapter${n} from "./${d}/chapter.json";`;
+    })
+    .join("\n");
+  const arr = dirs.map((d) => `chapter${d.replace("chapter-", "")}`).join(", ");
+  const index = `${imports}
+import type { GrammarChapter } from "../../types/grammar";
+
+const chapters: GrammarChapter[] = [${arr}] as GrammarChapter[];
+
+export default chapters;
+`;
+  fs.writeFileSync(path.join(grammarTo, "chapters.ts"), index);
+  console.log("Synced grammar → frontend/src/data/grammar");
+}
+
 /** Build running photo attribution register for the site + book cites */
 function harvestChapterImages() {
   const entries = [];
@@ -103,6 +130,51 @@ function harvestChapterImages() {
           notes: "",
           book: chapter.book,
           day: chapter.day,
+        });
+      });
+    }
+  }
+  const grammarDir = path.join(src, "grammar");
+  if (fs.existsSync(grammarDir)) {
+    for (const dir of fs.readdirSync(grammarDir).sort()) {
+      const chapterPath = path.join(grammarDir, dir, "chapter.json");
+      if (!fs.existsSync(chapterPath)) continue;
+      const chapter = JSON.parse(fs.readFileSync(chapterPath, "utf8"));
+      const ordered = orderedChapterImages(chapter);
+      ordered.forEach((img, index) => {
+        const source =
+          img.pageUrl?.includes("wikimedia")
+            ? "Wikimedia Commons"
+            : img.pageUrl?.includes("pexels")
+            ? "Pexels"
+            : img.pageUrl?.includes("unsplash")
+            ? "Unsplash"
+            : "Other";
+        const creditParts = [img.author, source !== "Other" ? source : ""]
+          .filter(Boolean)
+          .join(" / ");
+        const credit = img.license
+          ? `${creditParts} (${img.license})`.trim()
+          : creditParts;
+        const n = chapter.chapter;
+        const ref = imageRefCode("G", n, index);
+        entries.push({
+          id: `grammar-ch-${String(n).padStart(2, "0")}-${img.id}`,
+          ref,
+          title: img.credit || img.alt || img.id,
+          whereUsed: [
+            `Grammar · Chapter ${n} — ${chapter.titleEn || chapter.title}`,
+          ],
+          author: img.author || "",
+          source,
+          license: img.license || "",
+          pageUrl: img.pageUrl || img.sourceUrl || "",
+          sourceUrl: img.sourceUrl || img.pageUrl || "",
+          localPath: img.localPath || "",
+          credit,
+          notes: img.grammarCaption || "",
+          book: "G",
+          day: n,
         });
       });
     }

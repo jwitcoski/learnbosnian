@@ -10,6 +10,16 @@ const routes = [
     component: "Learn",
   },
   {
+    path: "/learn/grammar",
+    exact: true,
+    component: "Grammar",
+  },
+  {
+    path: "/learn/grammar/:n",
+    exact: true,
+    component: "GrammarChapter",
+  },
+  {
     path: "/learn/book/:book",
     exact: true,
     component: "Book",

@@ -80,11 +80,12 @@ const Home = () => {
           </Link>
         </StyledPhoto>
         <div className="copy">
-          <h2>One path, reviewed as it goes live</h2>
+          <h2>Sit down with kahva</h2>
           <p>
-            Each lesson is drafted and reviewed before it goes live. Same shape
-            every time: goals, culture, practice, and a quiz. Make a džezva of
-            kahva and settle in.
+            Bosnian coffee comes in a džezva, the little copper pot, and nobody
+            rushes the cup. Book 1 works at that pace. You learn a few lines you
+            can actually say at the table, then you stay for the next round with
+            Ana, Emir, Amira, and Mrvica.
           </p>
           <SolidCta type="button" onClick={() => history.push("/learn")}>
             Open curriculum
@@ -95,11 +96,12 @@ const Home = () => {
       <KilimBand aria-hidden />
 
       <Section>
-        <h2>What you do in each lesson</h2>
+        <h2>What you do in a lesson</h2>
         <p className="support">
-          Goals, culture, words, grammar, a Say again warm-up, a puzzle,
-          conversation, practice, fun facts, a game, resources, then the lesson
-          quiz.
+          You land in a real place, pick up words you can use that day, and hear
+          Ana and Emir talk. Then you try the lines yourself, play a short game
+          when your brain wants a break, and look the words up later in the
+          dictionary.
         </p>
         <Pillars>
           <article>
@@ -119,7 +121,7 @@ const Home = () => {
           <article>
             <div className="label">Remember</div>
             <p>
-              A Dictionary that grows with each published lesson.
+              A Dictionary that grows with the words you meet.
             </p>
           </article>
         </Pillars>
@@ -150,8 +152,9 @@ const Home = () => {
         <div>
           <h2>Watch on YouTube</h2>
           <p>
-            Companion videos go up on YouTube as each Book 1 lesson is written
-            and published, with stills, on-screen text, and optional narration.
+            Companion videos sit on YouTube with stills, on-screen text, and
+            optional narration, so you can hear the lesson when you are away
+            from the page.
           </p>
           <SolidCta
             type="button"
@@ -167,7 +170,7 @@ const Home = () => {
       <ContactWrap>
         <Contact
           title="Say zdravo"
-          content="Questions about the books, classroom use, or a lesson draft? Send a note."
+          content="Questions about the books, classroom use, or how to start? Send a note."
           id="contact"
         />
       </ContactWrap>

@@ -29,6 +29,36 @@ export function dialogueClipId(book: number, day: number, lineIndex: number) {
   return `b${book}-d${dayPad(day)}-dialogue-${String(lineIndex).padStart(2, "0")}`;
 }
 
+export function grammarVocabClipId(chapter: number, bosnian: string) {
+  return `g-c${dayPad(chapter)}-vocab-${slugify(bosnian)}`;
+}
+
+export function grammarDialogueClipId(chapter: number, lineIndex: number) {
+  return `g-c${dayPad(chapter)}-dialogue-${String(lineIndex).padStart(2, "0")}`;
+}
+
+export function collectGrammarSpokenLines(chapter: {
+  knownLine?: { speaker?: string; bosnian?: string; english?: string };
+  look?: { items?: { speaker?: string; bosnian: string; english?: string }[] };
+}): { speaker: string; bosnian: string; english: string }[] {
+  const lines: { speaker: string; bosnian: string; english: string }[] = [];
+  const seen = new Set<string>();
+  const add = (line?: { speaker?: string; bosnian?: string; english?: string }) => {
+    if (!line?.bosnian) return;
+    const key = line.bosnian.trim().toLowerCase();
+    if (!key || seen.has(key)) return;
+    seen.add(key);
+    lines.push({
+      speaker: line.speaker || "Ana",
+      bosnian: line.bosnian,
+      english: line.english || "",
+    });
+  };
+  add(chapter.knownLine);
+  (chapter.look?.items || []).forEach(add);
+  return lines;
+}
+
 export function audioPublicBase() {
   return (
     process.env.REACT_APP_AUDIO_BASE_URL ||

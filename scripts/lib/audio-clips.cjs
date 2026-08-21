@@ -31,6 +31,33 @@ function dialogueClipId(book, day, lineIndex) {
   return `b${book}-d${dayPad(day)}-dialogue-${String(lineIndex).padStart(2, "0")}`;
 }
 
+function grammarVocabClipId(chapter, bosnian) {
+  return `g-c${dayPad(chapter)}-vocab-${slugify(bosnian)}`;
+}
+
+function grammarDialogueClipId(chapter, lineIndex) {
+  return `g-c${dayPad(chapter)}-dialogue-${String(lineIndex).padStart(2, "0")}`;
+}
+
+function collectGrammarSpokenLines(chapter) {
+  const lines = [];
+  const seen = new Set();
+  const add = (line) => {
+    if (!line || !line.bosnian) return;
+    const key = String(line.bosnian).trim().toLowerCase();
+    if (!key || seen.has(key)) return;
+    seen.add(key);
+    lines.push({
+      speaker: line.speaker || "Ana",
+      bosnian: line.bosnian,
+      english: line.english || "",
+    });
+  };
+  add(chapter.knownLine);
+  (chapter.look && chapter.look.items ? chapter.look.items : []).forEach(add);
+  return lines;
+}
+
 function s3KeyForClip(clipId) {
   return `clips/${clipId}`;
 }
@@ -134,6 +161,61 @@ function buildClipsCatalog(rootDir) {
     }
   }
 
+  const grammarDir = path.join(contentDir, "grammar");
+  if (fs.existsSync(grammarDir)) {
+    for (const entry of fs.readdirSync(grammarDir).sort()) {
+      if (!entry.startsWith("chapter-")) continue;
+      const chapterPath = path.join(grammarDir, entry, "chapter.json");
+      if (!fs.existsSync(chapterPath)) continue;
+      const chapter = JSON.parse(fs.readFileSync(chapterPath, "utf8"));
+      const chNum = chapter.chapter;
+      const recorderDay = 80 + chNum;
+
+      (chapter.vocabulary || []).forEach((v, index) => {
+        const id = grammarVocabClipId(chNum, v.bosnian);
+        clips.push({
+          id,
+          book: 0,
+          day: recorderDay,
+          type: "vocab",
+          index,
+          bosnian: v.bosnian,
+          english: v.english,
+          pronunciation: v.pronunciation || "",
+          preferredGender: vocabGender,
+          assignedVoiceId: vocabVoiceId,
+          speaker: null,
+          track: "grammar",
+          grammarChapter: chNum,
+          s3Key: s3KeyForClip(id),
+        });
+      });
+
+      const lines = collectGrammarSpokenLines(chapter);
+      lines.forEach((line, index) => {
+        const id = grammarDialogueClipId(chNum, index);
+        const assignment = resolveSpeakerAssignment(genders, line.speaker);
+        clips.push({
+          id,
+          book: 0,
+          day: recorderDay,
+          type: "dialogue",
+          index,
+          bosnian: line.bosnian,
+          english: line.english,
+          pronunciation: "",
+          preferredGender: assignment.gender,
+          assignedVoiceId: assignment.voiceId,
+          speaker: line.speaker,
+          conversationTitle: `Grammar chapter ${chNum}`,
+          track: "grammar",
+          grammarChapter: chNum,
+          s3Key: s3KeyForClip(id),
+        });
+      });
+    }
+  }
+
   const speakerVoices = {};
   for (const [name, raw] of Object.entries(genders.speakers || {})) {
     speakerVoices[name] = resolveSpeakerAssignment(genders, name);
@@ -157,6 +239,9 @@ module.exports = {
   dayPad,
   vocabClipId,
   dialogueClipId,
+  grammarVocabClipId,
+  grammarDialogueClipId,
+  collectGrammarSpokenLines,
   s3KeyForClip,
   buildClipsCatalog,
   resolveSpeakerAssignment,

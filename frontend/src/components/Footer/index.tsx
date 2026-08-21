@@ -43,8 +43,8 @@ const Footer = () => {
             <Col lg={10} md={10} sm={12} xs={24}>
               <Language>How to Speak Bosnian</Language>
               <Para>
-                Book 1 lessons, reviewed before they go live. Latin script only.
-                Culture, puzzles, and a cat named Mrvica.
+                Book 1 is beginner Bosnian in Latin script. Culture, puzzles,
+                and a cat named Mrvica.
               </Para>
               <a href="mailto:info@howtospeakbosnian.com">
                 <Chat>Contact</Chat>
@@ -56,6 +56,7 @@ const Footer = () => {
               <Large to="/dictionary">Dictionary</Large>
               <Large to="/learn">Book series</Large>
               <Large to="/learn/book/1">Book 1</Large>
+              <Large to="/learn/grammar">Grammar</Large>
               <Large to="/attributions">Photo attributions</Large>
             </Col>
             <Col lg={6} md={6} sm={12} xs={12}>

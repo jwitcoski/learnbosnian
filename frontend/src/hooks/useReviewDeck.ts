@@ -72,7 +72,7 @@ export function recordReviewResult(card: ReviewCard, ok: boolean) {
 
 const SPEAK_KEY = "learnbosnian-speak-attempts-v1";
 
-export function getSpeakAttempts(day: number): number {
+export function getSpeakAttempts(day: number | string): number {
   try {
     const raw = localStorage.getItem(SPEAK_KEY);
     if (!raw) return 0;
@@ -83,7 +83,7 @@ export function getSpeakAttempts(day: number): number {
   }
 }
 
-export function incrementSpeakAttempts(day: number): number {
+export function incrementSpeakAttempts(day: number | string): number {
   let map: Record<string, number> = {};
   try {
     const raw = localStorage.getItem(SPEAK_KEY);

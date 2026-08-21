@@ -29,7 +29,7 @@ type AttrEntry = {
   localPath?: string;
   credit?: string;
   notes?: string;
-  book?: number;
+  book?: number | string;
   day?: number;
 };
 
@@ -51,7 +51,9 @@ const Attributions = () => {
         <p>
           This page is the master list. Lesson photos are numbered{" "}
           <strong>book.lesson + letter</strong>: 1.1a is Book 1, Lesson 1,
-          first photo. Captions on each lesson use the same codes.
+          first photo. Grammar photos use <strong>G.chapter + letter</strong>:
+          G.1a is Grammar, Chapter 1, first photo. Captions on each page use
+          the same codes.
         </p>
       </CiteBox>
 

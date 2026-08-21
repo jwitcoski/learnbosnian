@@ -1,0 +1,365 @@
+{
+  "chapter": 1,
+  "kind": "grammar",
+  "title": "Zašto je kahva ona?",
+  "titleEn": "Why coffee is a she",
+  "theme": "Last letter. Three piles. Then the endings can be right.",
+  "status": "draft",
+  "reviewedAt": null,
+  "reviewerNotes": "Exemplar chapter. Copy this shape. Prose uses thesis, support, summary. Spoken lines have cast speakers.",
+  "estimatedMinutes": 40,
+  "whyHere": {
+    "heading": "Why you are here",
+    "body": "Today you learn how to file a new word into a pile before you change any endings. The piles are on for he, ona for she, and ono for the leftover pile. People follow the person, so Emir is on and Ana is ona without a spelling trick. Things follow the last letter, and that filing is the whole job for this chapter."
+  },
+  "englishLies": {
+    "heading": "Why English lies",
+    "body": "English lies because it uses he and she for people and it for almost every thing. Your husband is he, your wife is she, and coffee, a bridge, and a city are all it. Bosnian still uses on, ona, and ono for people, and it uses those same words for things. Coffee landed in the she pile, a bridge landed in the he pile, and beer landed in the leftover pile. The Bosnian word for this is rod, which means gender, and you can forget the school label as long as you remember the piles."
+  },
+  "knownLine": {
+    "heading": "A line you already say",
+    "body": "Book 1 already gave you Ana’s line Želim kahvu, which means I want coffee. The list word is kahva, and here the last letter has already moved. English would never do that, because I want coffee and this is coffee keep the same word. Bosnian changed the ending because the coffee is the thing Ana wants, not the name of the drink sitting on the table. That change belongs to the next chapter. Today you only need to know that kahva lives in the she pile, because she-pile words take she-pile endings later, and if you file coffee as English it you will pick the wrong ending forever.",
+    "speaker": "Ana",
+    "bosnian": "Želim kahvu.",
+    "english": "I want coffee."
+  },
+  "pattern": {
+    "heading": "The pattern",
+    "body": "You guess the pile from the last letter of the dictionary form, which is the boring form sitting in a vocab list. A word that ends in a usually belongs to the she pile, such as kahva, kuća, and ulica. A word that ends in a consonant usually belongs to the he pile, such as most, dan, and hljeb. A word that ends in o or e usually belongs to the leftover pile, such as pivo, more, and Sarajevo. People skip that cheat sheet because Emir is a man and Ana is a woman, so keep the sheet for coffee.",
+    "table": {
+      "headers": ["Last letter", "Pile", "Examples"],
+      "rows": [
+        ["a", "she (ona)", "kahva, kuća, ulica, Ana"],
+        ["a consonant", "he (on)", "most, dan, hljeb, Emir"],
+        ["o or e", "leftover (ono)", "pivo, more, ime, Sarajevo"]
+      ]
+    }
+  },
+  "howYouGuess": {
+    "heading": "The pests",
+    "body": "Two words refuse the cheat sheet, and you should memorize them today. Tata means dad and ends in a, but it is still he. Auto means car and ends in o, but it is still he. Do not argue with them. More pests will show up later, and these two are enough for this chapter."
+  },
+  "trick": {
+    "heading": "The bit that tricks you",
+    "body": "The trap is to keep saying it in your head for the coffee, and then to copy English by never changing kahva. That copy is the fail, because kahva is she. Next chapter she becomes kahvu when Ana wants her. He-pile most will get a different change, leftover-pile pivo will get a different change again, and the wrong pile gives the wrong ending."
+  },
+  "nerd": {
+    "heading": "Why it's like this",
+    "body": "English used to have the same three piles, back in Old English, when stone was a he. The endings wore down, and English switched to the plus word order. Bosnian kept the endings. Coffee is not a she because coffee is girly. Kahva ends in a, so it got stuffed into the old a club with kuća, and loanwords join by shape. That is why looking at the last letter actually works. Linguists call the piles noun class, and we can keep saying he, she, and leftover."
+  },
+  "vocabulary": [
+    {
+      "bosnian": "kahva",
+      "english": "coffee",
+      "pronunciation": "KAH-hvah",
+      "partOfSpeech": "noun",
+      "example": "To je kahva."
+    },
+    {
+      "bosnian": "most",
+      "english": "bridge",
+      "pronunciation": "most",
+      "partOfSpeech": "noun",
+      "example": "To je most."
+    },
+    {
+      "bosnian": "pivo",
+      "english": "beer",
+      "pronunciation": "PEE-vo",
+      "partOfSpeech": "noun",
+      "example": "To je pivo."
+    },
+    {
+      "bosnian": "more",
+      "english": "sea",
+      "pronunciation": "MOH-reh",
+      "partOfSpeech": "noun",
+      "example": "To je more."
+    },
+    {
+      "bosnian": "tata",
+      "english": "dad",
+      "pronunciation": "TAH-tah",
+      "partOfSpeech": "noun",
+      "example": "Tata je ovdje."
+    },
+    {
+      "bosnian": "auto",
+      "english": "car",
+      "pronunciation": "OW-toh",
+      "partOfSpeech": "noun",
+      "example": "To je auto."
+    }
+  ],
+  "speakTargets": ["kahva", "most", "pivo"],
+  "look": {
+    "heading": "Look at these",
+    "items": [
+      {
+        "speaker": "Amira",
+        "bosnian": "To je kahva.",
+        "english": "That is coffee, and the last letter a puts it in the she pile."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "To je most.",
+        "english": "That is a bridge, and the last letter t puts it in the he pile."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "To je pivo.",
+        "english": "That is beer, and the last letter o puts it in the leftover pile."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "To je kuća.",
+        "english": "That is a house, and the last letter a puts it in the she pile."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "To je ulica.",
+        "english": "That is a street, and the last letter a puts it in the she pile."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "To je dan.",
+        "english": "That is a day, and the last letter n puts it in the he pile."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "To je hljeb.",
+        "english": "That is bread, and the last letter b puts it in the he pile."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "To je more.",
+        "english": "That is the sea, and the last letter e puts it in the leftover pile."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "To je ime.",
+        "english": "That is a name, and the last letter e puts it in the leftover pile."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "To je Sarajevo.",
+        "english": "That is Sarajevo, and the last letter o puts it in the leftover pile."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Emir je ovdje.",
+        "english": "Emir is here. He is a man, so he pile, and you do not use the last letter for people."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Želim kahvu.",
+        "english": "I want coffee. This is the same she-word, and the ending already moved."
+      }
+    ]
+  },
+  "try": {
+    "heading": "Try these",
+    "items": [
+      {
+        "id": "t1",
+        "prompt": "kahva",
+        "options": ["he (on)", "she (ona)", "leftover (ono)"],
+        "correctIndex": 1,
+        "explanation": "The last letter is a, so she pile."
+      },
+      {
+        "id": "t2",
+        "prompt": "most",
+        "options": ["he (on)", "she (ona)", "leftover (ono)"],
+        "correctIndex": 0,
+        "explanation": "The last letter is t, a consonant, so he pile."
+      },
+      {
+        "id": "t3",
+        "prompt": "pivo",
+        "options": ["he (on)", "she (ona)", "leftover (ono)"],
+        "correctIndex": 2,
+        "explanation": "The last letter is o, so leftover pile."
+      },
+      {
+        "id": "t4",
+        "prompt": "ulica. Last letter is a. Which pile?",
+        "options": ["he (on)", "she (ona)", "leftover (ono)"],
+        "correctIndex": 1,
+        "explanation": "A means she, unless the word is a pest."
+      },
+      {
+        "id": "t5",
+        "prompt": "tata. Last letter is a. Which pile?",
+        "options": ["he (on)", "she (ona)", "leftover (ono)"],
+        "correctIndex": 0,
+        "explanation": "Pest. Dad is he."
+      },
+      {
+        "id": "t6",
+        "prompt": "auto. Last letter is o. Which pile?",
+        "options": ["he (on)", "she (ona)", "leftover (ono)"],
+        "correctIndex": 0,
+        "explanation": "Pest. The car is he even though it ends in o."
+      },
+      {
+        "id": "t7",
+        "prompt": "more",
+        "options": ["he (on)", "she (ona)", "leftover (ono)"],
+        "correctIndex": 2,
+        "explanation": "The last letter is e, so leftover pile, the same pile as pivo."
+      },
+      {
+        "id": "t8",
+        "prompt": "Sarajevo",
+        "options": ["he (on)", "she (ona)", "leftover (ono)"],
+        "correctIndex": 2,
+        "explanation": "The last letter is o, so leftover pile. This one is not a pest."
+      },
+      {
+        "id": "t9",
+        "prompt": "Ana",
+        "options": ["he (on)", "she (ona)", "leftover (ono)"],
+        "correctIndex": 1,
+        "explanation": "Ana is a woman, so she pile. People follow the person, not the letter."
+      },
+      {
+        "id": "t10",
+        "prompt": "Why did kahva become kahvu in Želim kahvu?",
+        "options": [
+          "Coffee is girly",
+          "The job in the sentence changed",
+          "Bosnian spelling is random"
+        ],
+        "correctIndex": 1,
+        "explanation": "Grammar is on the end. The wrong pile would get a different ending. Details belong in Chapter 2."
+      }
+    ]
+  },
+  "quiz": {
+    "title": "Quick check",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How do you know which pile a thing-word belongs to?",
+        "options": [
+          "Guess from the English meaning",
+          "Look at the last letter",
+          "Ask whether you like it",
+          "Use it and wait for a native speaker"
+        ],
+        "correctIndex": 1,
+        "explanation": "Look at the last letter. A means she. A consonant means he. O or E means leftover. People follow the person."
+      },
+      {
+        "id": "q2",
+        "question": "Last letter a usually means which pile?",
+        "options": [
+          "he (on)",
+          "she (ona)",
+          "leftover (ono)",
+          "none. A is only for people."
+        ],
+        "correctIndex": 1,
+        "explanation": "Kahva, kuća, and ulica follow that rule. Tata is the pest you memorized."
+      },
+      {
+        "id": "q3",
+        "question": "Coffee is she. Why do we care today?",
+        "options": [
+          "So we can insult the coffee",
+          "Her endings later depend on the pile",
+          "Because Ana drinks it",
+          "So we can skip Chapter 2"
+        ],
+        "correctIndex": 1,
+        "explanation": "The wrong pile gives the wrong ending. Želim kahvu is a she-pile change."
+      },
+      {
+        "id": "q4",
+        "question": "Why is tata a pest?",
+        "options": [
+          "It is a loanword from English",
+          "It ends in a but it is still he",
+          "It has no last letter",
+          "It belongs in the leftover pile"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dad is he. Auto is the other pest today. It ends in o and is still he."
+      },
+      {
+        "id": "q5",
+        "question": "Želim kahvu vs kahva. Same word. Why did the last letter move?",
+        "options": [
+          "The job in the sentence changed. Grammar is on the end.",
+          "Kahvu is a different drink.",
+          "Bosnian adds u for politeness.",
+          "The speaker was in a hurry."
+        ],
+        "correctIndex": 0,
+        "explanation": "English would keep coffee. Bosnian moved the ending. Chapter 2 is subject vs the thing you want."
+      },
+      {
+        "id": "q6",
+        "question": "most ends in t. Which pile?",
+        "options": [
+          "she (ona)",
+          "he (on)",
+          "leftover (ono)",
+          "pest, like tata"
+        ],
+        "correctIndex": 1,
+        "explanation": "T is a consonant, so he pile. This one is regular, not a pest."
+      }
+    ]
+  },
+  "next": {
+    "body": "You now know the pile for coffee, the bridge, and beer. Chapter 2 is why Želim kahvu is not Želim kahva, which is the subject versus the thing you want. You still will not get a seven-case chart.",
+    "chapter": 2
+  },
+  "imageSlots": {
+    "hero": "kahva",
+    "afterPattern": "most",
+    "afterNerd": "more"
+  },
+  "images": [
+    {
+      "id": "kahva",
+      "alt": "Polygon painting of an engraved Bosnian coffee set with džezva and cups",
+      "localPath": "/images/book1/day-03-coffee-set.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "author": "İhsan Işık",
+      "license": "CC BY 3.0",
+      "credit": "Bosnian coffee set, Baščaršija",
+      "grammarCaption": "Kahva ends in a, so it belongs in the she pile."
+    },
+    {
+      "id": "most",
+      "alt": "Polygon painting of the old stone bridge crossing the Neretva in Konjic",
+      "localPath": "/images/book1/day-15-konjic-bridge.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Konjic_Stari_most_7.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKonjic_Stari_most_7.jpg",
+      "author": "Julian Nyča",
+      "license": "CC BY-SA 3.0",
+      "credit": "Old Bridge, Konjic",
+      "grammarCaption": "Most ends in t, so it belongs in the he pile."
+    },
+    {
+      "id": "more",
+      "alt": "Polygon painting of a beach curves along the Adriatic at Neum.",
+      "localPath": "/images/book1/day-16-neum-coast.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Zenit_Beach_in_Neum%2C_2024_1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AZenit_Beach_in_Neum%2C_2024_1.jpg",
+      "author": "Bdx",
+      "license": "CC0",
+      "credit": "Zenit Beach, Neum",
+      "grammarCaption": "More ends in e, so it belongs in the leftover pile with pivo."
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [
+    "A dedicated pivo glass would be better than the sea for the leftover pile. More still teaches o or e. Paint a Sarajevsko or a pint when we have one."
+  ]
+}

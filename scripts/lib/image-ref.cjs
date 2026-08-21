@@ -2,6 +2,18 @@
 function orderedChapterImages(chapter) {
   const images = chapter.images || [];
   if (!images.length) return [];
+  if (chapter.kind === "grammar" && chapter.imageSlots) {
+    const ids = [
+      chapter.imageSlots.hero,
+      chapter.imageSlots.afterPattern,
+      chapter.imageSlots.afterNerd,
+    ].filter(Boolean);
+    const found = ids
+      .map((id) => images.find((i) => i.id === id))
+      .filter(Boolean);
+    const rest = images.filter((i) => !ids.includes(i.id));
+    return [...found, ...rest];
+  }
   const civicId = chapter.civicContext?.imageId || null;
   const hero =
     images.find((i) => i.id === chapter.culture?.imageId) || images[0];
@@ -15,7 +27,8 @@ function orderedChapterImages(chapter) {
 }
 
 function imageRefCode(book, day, index) {
-  return `${book}.${day}${String.fromCharCode(97 + index)}`;
+  const bookPart = book === "grammar" || book === "G" ? "G" : String(book);
+  return `${bookPart}.${day}${String.fromCharCode(97 + index)}`;
 }
 
 function imageRefFor(chapter, imageId) {
