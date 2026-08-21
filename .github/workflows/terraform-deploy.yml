@@ -116,12 +116,12 @@ jobs:
             terraform import -var="stage=${STAGE}" aws_route53_record.www_aaaa "${SITE_ZONE_ID}_www.howtospeakbosnian.com_AAAA"
             if [ -n "$CERT_ARN" ] && [ "$CERT_ARN" != "None" ]; then
               aws acm describe-certificate --certificate-arn "$CERT_ARN" \
-                --query "Certificate.DomainValidationOptions[].ResourceRecord.{Name:Name,Type:Type}" \
-                --output text | while read -r REC_NAME REC_TYPE; do
-                  [ -z "$REC_NAME" ] && continue
+                --query "Certificate.DomainValidationOptions[].[DomainName,ResourceRecord.Name,ResourceRecord.Type]" \
+                --output text | while read -r DOMAIN REC_NAME REC_TYPE; do
+                  [ -z "$DOMAIN" ] && continue
                   KEY="${REC_NAME%.}"
                   terraform import -var="stage=${STAGE}" \
-                    "aws_route53_record.cert_validation[\"${KEY}\"]" \
+                    "aws_route53_record.cert_validation[\"${DOMAIN}\"]" \
                     "${SITE_ZONE_ID}_${KEY}_${REC_TYPE}"
                 done
             fi
@@ -197,13 +197,19 @@ jobs:
       - name: Read infra outputs
         id: out
         run: |
-          AUDIO_BASE=$(terraform output -raw audio_cloudfront_url 2>/dev/null || true)
-          AUDIO_API=$(terraform output -raw audio_api_url 2>/dev/null || true)
-          RECORDER_BUCKET_OUT=$(terraform output -raw recorder_bucket_name 2>/dev/null || true)
-          RECORDER_CF=$(terraform output -raw recorder_cloudfront_distribution_id 2>/dev/null || true)
-          RECORDER_URL=$(terraform output -raw recorder_cloudfront_url 2>/dev/null || true)
+          set +e
+          AUDIO_BASE=$(terraform output -raw audio_cloudfront_url 2>/dev/null)
+          AUDIO_API=$(terraform output -raw audio_api_url 2>/dev/null)
+          RECORDER_BUCKET_OUT=$(terraform output -raw recorder_bucket_name 2>/dev/null)
+          RECORDER_CF=$(terraform output -raw recorder_cloudfront_distribution_id 2>/dev/null)
+          RECORDER_URL=$(terraform output -raw recorder_cloudfront_url 2>/dev/null)
 
-          # Fall back to known prod IDs when local TF state is incomplete
+          case "$AUDIO_BASE" in https://*) ;; *) AUDIO_BASE="" ;; esac
+          case "$AUDIO_API" in https://*) ;; *) AUDIO_API="" ;; esac
+          case "$RECORDER_URL" in https://*) ;; *) RECORDER_URL="" ;; esac
+          case "$RECORDER_BUCKET_OUT" in learn-bosnian-*) ;; *) RECORDER_BUCKET_OUT="" ;; esac
+          case "$RECORDER_CF" in E*) ;; *) RECORDER_CF="" ;; esac
+
           echo "audio_base=${AUDIO_BASE:-$AUDIO_CLOUDFRONT_URL}" >> "$GITHUB_OUTPUT"
           echo "audio_api=${AUDIO_API:-$AUDIO_API_URL}" >> "$GITHUB_OUTPUT"
           echo "recorder_bucket=${RECORDER_BUCKET_OUT:-$RECORDER_BUCKET}" >> "$GITHUB_OUTPUT"

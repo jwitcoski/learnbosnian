@@ -19,20 +19,25 @@ resource "aws_acm_certificate" "frontend" {
 }
 
 resource "aws_route53_record" "cert_validation" {
-  for_each = {
-    for dvo in aws_acm_certificate.frontend.domain_validation_options : trimsuffix(dvo.resource_record_name, ".") => {
-      name   = dvo.resource_record_name
-      record = dvo.resource_record_value
-      type   = dvo.resource_record_type
-    }...
-  }
+  for_each = toset([var.site_domain, "www.${var.site_domain}"])
 
   allow_overwrite = true
   zone_id         = data.aws_route53_zone.site.zone_id
-  name            = each.value.name
-  type            = each.value.type
-  ttl             = 60
-  records         = [each.value.record]
+  name = one([
+    for dvo in aws_acm_certificate.frontend.domain_validation_options : dvo.resource_record_name
+    if dvo.domain_name == each.value
+  ])
+  type = one([
+    for dvo in aws_acm_certificate.frontend.domain_validation_options : dvo.resource_record_type
+    if dvo.domain_name == each.value
+  ])
+  ttl = 60
+  records = [
+    one([
+      for dvo in aws_acm_certificate.frontend.domain_validation_options : dvo.resource_record_value
+      if dvo.domain_name == each.value
+    ])
+  ]
 }
 
 resource "aws_acm_certificate_validation" "frontend" {
