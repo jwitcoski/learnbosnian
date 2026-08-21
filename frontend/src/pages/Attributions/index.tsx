@@ -6,6 +6,8 @@ import {
   AttrMeta,
   AttrList,
   AttrCard,
+  AttrThumb,
+  AttrBody,
   AttrTitle,
   AttrWhere,
   AttrDl,
@@ -16,6 +18,7 @@ import {
 
 type AttrEntry = {
   id: string;
+  ref?: string;
   title: string;
   whereUsed?: string[];
   author?: string;
@@ -46,8 +49,9 @@ const Attributions = () => {
         <h2>How to cite for the book</h2>
         <p>{data.citationNote}</p>
         <p>
-          This page is the master list. For Scribus or YouTube packs, take
-          credits from here or from each lesson’s image list.
+          This page is the master list. Lesson photos are numbered{" "}
+          <strong>book.lesson + letter</strong>: 1.1a is Book 1, Lesson 1,
+          first photo. Captions on each lesson use the same codes.
         </p>
       </CiteBox>
 
@@ -57,8 +61,20 @@ const Attributions = () => {
         {entries.map((e) => {
           const href = e.pageUrl || e.sourceUrl;
           return (
-            <AttrCard key={e.id} id={e.id}>
-              <AttrTitle>{e.title}</AttrTitle>
+            <AttrCard key={e.id} id={e.ref || e.id}>
+              {e.localPath ? (
+                <AttrThumb>
+                  <img src={e.localPath} alt="" />
+                </AttrThumb>
+              ) : (
+                <AttrThumb aria-hidden />
+              )}
+              <AttrBody>
+              {e.ref ? <span id={e.id} hidden /> : null}
+              <AttrTitle>
+                {e.ref ? <span className="ref">{e.ref}</span> : null}
+                {e.title}
+              </AttrTitle>
               {e.whereUsed?.length ? (
                 <AttrWhere>
                   {e.whereUsed.map((w) => (
@@ -106,6 +122,7 @@ const Attributions = () => {
                 </AttrLink>
               ) : null}
               {e.notes ? <AttrNotes>{e.notes}</AttrNotes> : null}
+              </AttrBody>
             </AttrCard>
           );
         })}
@@ -116,7 +133,7 @@ const Attributions = () => {
       <p>
         <Link to="/">← Home</Link>
         {" · "}
-        <Link to="/learn">Curriculum</Link>
+        <Link to="/learn/book/1">Curriculum</Link>
       </p>
     </LessonPage>
   );

@@ -613,7 +613,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnia_and_Herzegovina_location_map.svg",
       "author": "NordNordWest",
       "license": "CC BY-SA 3.0",
-      "credit": "Based on map. Bosnia and Herzegovina location map. NordNordWest / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Map of Bosnia and Herzegovina"
     },
     {
       "id": "stari-most-tease",
@@ -623,7 +623,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Stari_Most_Mostar_Bosnia_and_Herzegovina.jpg",
       "author": "Djani Behram",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on the photo Stari Most, Mostar. Djani Behram / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Stari Most, Mostar"
     },
     {
       "id": "neretva-valley",
@@ -633,7 +633,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Mostar_Old_Town_Panorama_2007.jpg",
       "author": "Ramirez",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on the photo Mostar Old Town panorama. Ramirez / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Mostar Old Town panorama"
     },
     {
       "id": "civic-mostar-gov",
@@ -643,7 +643,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Mostar_Old_Town_Panorama_2007.jpg",
       "author": "Ramirez",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on the photo Mostar Old Town panorama. Ramirez / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Mostar Old Town panorama"
     }
   ],
   "imagesNeeded": false,

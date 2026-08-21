@@ -22,19 +22,19 @@ const PHOTOS = {
     src: "/images/home/mostar-bridge.png",
     alt: "Flat polygon painting of Stari Most, the Old Bridge in Mostar",
     credit:
-      "Based on photo: Stari Most, Mostar — Hatice Baran / Pexels",
+      "Stari Most, Mostar",
   },
   coffee: {
     src: "/images/home/bosnian-coffee.png",
     alt: "Flat polygon painting of a traditional Bosnian coffee set",
     credit:
-      "Based on photo: Bosnian coffee, Baščaršija — İhsan Işık / Wikimedia Commons (CC BY 3.0)",
+      "Bosnian coffee, Baščaršija",
   },
   costume: {
     src: "/images/home/traditional-costume.png",
     alt: "Flat polygon painting of women in traditional Bosnian folk dress",
     credit:
-      "Based on photo: Traditional Bosnian costume — Historym1468 / Wikimedia Commons (CC BY 4.0)",
+      "Traditional Bosnian costume",
   },
 };
 
@@ -47,15 +47,15 @@ const Home = () => {
 
       <Hero>
         <div className="hero-copy">
-          <h1 className="brand">Learn Bosnian</h1>
+          <h1 className="brand">How to Speak Bosnian</h1>
           <p className="lede">
-            Present-tense A1 Bosnian for short stays and early life here. Order
-            food, ask directions, meet people. Latin script only. Ana, Emir,
-            Amira, and Mrvica walk you through it.
+            Beginner Bosnian for short stays and early life here. Order food,
+            ask directions, meet people. Present tense only. Latin script only.
+            Ana, Emir, Amira, and Mrvica walk you through it.
           </p>
           <div className="cta-row">
-            <Cta type="button" onClick={() => history.push("/learn/lesson/0")}>
-              Start Lesson 0
+            <Cta type="button" onClick={() => history.push("/learn/book/1")}>
+              Start Book 1
             </Cta>
             <Cta $ghost type="button" onClick={() => history.push("/learn")}>
               See curriculum
@@ -133,8 +133,8 @@ const Home = () => {
             with Emir. Let Mrvica steal the scene. Book 1 is survival Bosnian for
             travelers and new arrivals, all in the present tense.
           </p>
-          <SolidCta type="button" onClick={() => history.push("/books")}>
-            See the book series
+          <SolidCta type="button" onClick={() => history.push("/learn")}>
+            See the books
           </SolidCta>
         </div>
         <StyledPhoto>
@@ -150,9 +150,8 @@ const Home = () => {
         <div>
           <h2>Watch on YouTube</h2>
           <p>
-            The channel is How to speak Bosnian. As each Book 1 lesson is written
-            and published, it gets a companion video with stills, on-screen text,
-            and optional narration.
+            Companion videos go up on YouTube as each Book 1 lesson is written
+            and published, with stills, on-screen text, and optional narration.
           </p>
           <SolidCta
             type="button"

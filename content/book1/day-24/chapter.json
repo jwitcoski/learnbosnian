@@ -631,7 +631,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3A%C5%A0trba%C4%8Dki_buk.jpg",
       "author": "Igorbeslic",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on the photo Štrbački buk.jpg. Igorbeslic / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Štrbački buk"
     },
     {
       "id": "bjelasnica-ridge",
@@ -641,7 +641,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABjela%C5%A1nica2.jpg",
       "author": "Xe0us at English Wikipedia",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on the photo Bjelašnica2.jpg. Xe0us at English Wikipedia / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Bjelašnica"
     },
     {
       "id": "jahorina-ski",
@@ -651,7 +651,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AJahorina_ski-lifts.jpg",
       "author": "Vt211 at English Wikipedia",
       "license": "Public domain",
-      "credit": "Polygon painting based on the photo Jahorina ski-lifts.jpg. Vt211 at English Wikipedia / Wikimedia Commons (Public domain)"
+      "credit": "Jahorina ski lifts"
     },
     {
       "id": "civic-olympic-ski-gap",
@@ -661,7 +661,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AJahorina_mountain_2017.jpg",
       "author": "Micki",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on the photo Jahorina mountain 2017.jpg. Micki / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Jahorina mountain"
     }
   ],
   "imagesNeeded": false,

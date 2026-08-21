@@ -14,6 +14,6 @@
 **Narration:** Ana and Emir order at Amira’s. Pause and repeat. When Mrvica appears, Ana already knows zdravo.
 **On screen:** Dialogue lines from chapter (BS + EN) ### 8:00 Practice prompt
 **Narration:** Pause and match numbers and café words. Next. Lesson 4. Porodica Mrvice, when the café starts to feel like family.
-**On screen:** Practice · Next. Porodica Mrvice | Subscribe · learnbosnian site ## End screen - Link to website `/learn/lesson/3`
-- Playlist. Learn Bosnian. Book 1
+**On screen:** Practice · Next. Porodica Mrvice | Subscribe · howtospeakbosnian.com ## End screen - Link to website `/learn/lesson/3`
+- Playlist. How to Speak Bosnian. Book 1
 - Image credits in description

@@ -568,7 +568,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Pliva_Waterfall_in_Jajce_02.jpg",
       "author": "Adam Harangozó",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on the photo Pliva Waterfall in Jajce. Adam Harangozó / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Pliva Waterfall in Jajce"
     },
     {
       "id": "blagaj-tekija",
@@ -578,7 +578,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Tekija_Blagaj_-_Vrelo_Bune.jpg",
       "author": "Yakamooda",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on the photo Tekija Blagaj at the Buna spring. Yakamooda / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Tekija Blagaj at the Buna spring"
     },
     {
       "id": "pocitelj",
@@ -588,7 +588,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Po%C4%8Ditelj_-_pano.jpg",
       "author": "Pudelek (Marcin Szala)",
       "license": "CC BY-SA 3.0",
-      "credit": "Based on the photo Počitelj panorama. Pudelek (Marcin Szala) / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Počitelj panorama"
     },
     {
       "id": "civic-schools",
@@ -598,7 +598,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Gimnazija_Mostar.jpg",
       "author": "Jennifer Boyer",
       "license": "CC BY 2.0",
-      "credit": "Based on the photo Gimnazija Mostar. Jennifer Boyer / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Gimnazija Mostar"
     }
   ],
   "imagesNeeded": false,

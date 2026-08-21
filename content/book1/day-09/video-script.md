@@ -36,9 +36,9 @@
 
 ### 8:00 Practice prompt
 **Narration:** Unscramble the requests. Next. Lesson 10. Moja soba.
-**On screen:** Practice · Next. Moja soba | Subscribe · learnbosnian site
+**On screen:** Practice · Next. Moja soba | Subscribe · howtospeakbosnian.com
 
 ## End screen
 - Link to website `/learn/lesson/9`
-- Playlist. Learn Bosnian. Book 1
+- Playlist. How to Speak Bosnian. Book 1
 - Image credits in description

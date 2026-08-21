@@ -668,7 +668,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ARadimlja_necropolis_near_Stolac.JPG",
       "author": "Boris Maric",
       "license": "CC0",
-      "credit": "Polygon painting based on the photo Radimlja necropolis near Stolac.JPG. Boris Maric / Wikimedia Commons (CC0)"
+      "credit": "Radimlja necropolis near Stolac"
     },
     {
       "id": "radimlja-detail",
@@ -678,7 +678,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3A13st_Radimlja.jpg",
       "author": "Original uploader was Prof saxx at hr.wikipedia",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on the photo 13st Radimlja.jpg. Original uploader was Prof saxx at hr.wikipedia / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Stećak at Radimlja"
     },
     {
       "id": "stolac-old-town",
@@ -686,9 +686,9 @@
       "localPath": "/images/book1/day-10-stolac-old-town.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Stari_grad_Stolac_%2801%29.JPG",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AStari_grad_Stolac_%2801%29.JPG",
-      "author": "Ma▀▄Ga",
+      "author": "MaGa",
       "license": "CC BY 3.0",
-      "credit": "Polygon painting based on the photo Stari grad Stolac (01).JPG. Ma▀▄Ga / Wikimedia Commons (CC BY 3.0)"
+      "credit": "Stari grad Stolac"
     },
     {
       "id": "civic-stolac-houses",
@@ -696,9 +696,9 @@
       "localPath": "/images/book1/day-10-stolac-houses.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Stari_grad_Stolac_%2817%29.JPG",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AStari_grad_Stolac_%2817%29.JPG",
-      "author": "Ma▀▄Ga",
+      "author": "MaGa",
       "license": "CC BY 3.0",
-      "credit": "Polygon painting based on the photo Stari grad Stolac (17).JPG. Ma▀▄Ga / Wikimedia Commons (CC BY 3.0)"
+      "credit": "Stari grad Stolac"
     }
   ],
   "imagesNeeded": false,

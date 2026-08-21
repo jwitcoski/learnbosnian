@@ -1,4 +1,4 @@
-# Learn Bosnian in 30 Days
+# How to Speak Bosnian in 30 Days
 
 React website + portable Book 1 content for Scribus print and YouTube companions.
 

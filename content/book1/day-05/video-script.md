@@ -14,6 +14,6 @@
 **Narration:** Ana and Emir read the map at Amira’s. Pause and repeat each line. Listen for the grin when Emir says Mostar je tamo.
 **On screen:** Dialogue lines from chapter (BS + EN) ### 8:00 Practice prompt
 **Narration:** Pause for the site puzzles. Next. Lesson 6. Koliko je sati? Time and the city’s daily rhythm.
-**On screen:** Practice · Next. Koliko je sati? | Subscribe · learnbosnian site ## End screen - Link to website `/learn/lesson/5`
-- Playlist. Learn Bosnian. Book 1
+**On screen:** Practice · Next. Koliko je sati? | Subscribe · howtospeakbosnian.com ## End screen - Link to website `/learn/lesson/5`
+- Playlist. How to Speak Bosnian. Book 1
 - Image credits in description

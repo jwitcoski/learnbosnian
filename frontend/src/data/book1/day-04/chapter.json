@@ -639,7 +639,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_Ferhadija_2007-08-16.jpg",
       "author": "Milan Suvajac",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on the photo Open café on Ferhadija, Sarajevo. Milan Suvajac / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Open café on Ferhadija, Sarajevo"
     },
     {
       "id": "mrvica-cat",
@@ -649,7 +649,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Cat_November_2010-1a.jpg",
       "author": "Alvesgaspar",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on the photo Cat November 2010-1a.jpg. Alvesgaspar / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Cat"
     },
     {
       "id": "family-table",
@@ -659,7 +659,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_coffee_(13926468997).jpg",
       "author": "Michał Huniewicz",
       "license": "CC BY 2.0",
-      "credit": "Based on the photo Bosnian coffee gathering mood. Michał Huniewicz / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Bosnian coffee gathering"
     },
     {
       "id": "civic-parliament",
@@ -669,7 +669,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_parlament_2007.jpg",
       "author": "Dingoa",
       "license": "CC BY-SA 3.0",
-      "credit": "Based on the photo Sarajevo parliament. Dingoa / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Sarajevo parliament"
     }
   ],
   "imagesNeeded": false,

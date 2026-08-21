@@ -9,7 +9,7 @@ module.exports.hello = async (event) => {
     },
     body: JSON.stringify(
       {
-        message: 'Hello from Learn Bosnian API!',
+        message: 'Hello from How to Speak Bosnian API!',
         input: event,
       },
       null,

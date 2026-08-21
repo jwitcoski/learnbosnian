@@ -1,4 +1,4 @@
-# Copy audit — Learn Bosnian (English chrome + pedagogy)
+# Copy audit — How to Speak Bosnian (English chrome + pedagogy)
 
 **Status:** Applied on `cursor/copy-audit-5ae2`.
 

@@ -663,7 +663,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3APublic_fountain%2C_Tuzla%2C_Bosnia.jpg",
       "author": "Little Green Dragon",
       "license": "CC BY 2.0",
-      "credit": "Polygon painting based on the photo Public fountain, Tuzla, Bosnia.jpg. Little Green Dragon / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Public fountain, Tuzla"
     },
     {
       "id": "tuzla-old-town",
@@ -673,7 +673,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWV_banner_NE_Bosnia_Tuzla_old_town.jpg",
       "author": "Deanza7",
       "license": "CC0",
-      "credit": "Polygon painting based on the photo WV banner NE Bosnia Tuzla old town.jpg. Deanza7 / Wikimedia Commons (CC0)"
+      "credit": "Tuzla old town"
     },
     {
       "id": "tuzla-shops",
@@ -683,7 +683,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATuzla_Street%2C_Bosnia.jpg",
       "author": "Little Green Dragon",
       "license": "CC BY 2.0",
-      "credit": "Polygon painting based on the photo Tuzla Street, Bosnia.jpg. Little Green Dragon / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Tuzla street"
     },
     {
       "id": "civic-tuzla-museum",
@@ -693,7 +693,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMuseum_of_East_Bosnia%2C_Tuzla.jpg",
       "author": "Apokar",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on the photo Museum of East Bosnia, Tuzla.jpg. Apokar / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Museum of East Bosnia, Tuzla"
     }
   ],
   "imagesNeeded": false,

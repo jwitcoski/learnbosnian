@@ -639,7 +639,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Sahat_Kule_01.JPG",
       "author": "Meyavuz",
       "license": "CC BY-SA 2.5",
-      "credit": "Based on the photo Sahat-kula, Travnik. Meyavuz / Wikimedia Commons (CC BY-SA 2.5)"
+      "credit": "Sahat-kula, Travnik"
     },
     {
       "id": "una-bihac",
@@ -649,7 +649,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Una_near_Biha%C4%87_2.jpg",
       "author": "Miha Peče",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on the photo Una near Bihać. Miha Peče / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Una near Bihać"
     },
     {
       "id": "neum-coast",
@@ -659,7 +659,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Neum_(BiH)_-_general_view.jpg",
       "author": "Pudelek (Marcin Szala)",
       "license": "CC BY-SA 3.0",
-      "credit": "Based on the photo Neum, BiH. Pudelek (Marcin Szala) / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Neum, BiH"
     },
     {
       "id": "civic-peljesac",
@@ -669,7 +669,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Pelje%C5%A1ac_Bridge_3.jpg",
       "author": "kallerna",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on the photo Pelješac Bridge. Kallerna / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Pelješac Bridge"
     }
   ],
   "imagesNeeded": false,

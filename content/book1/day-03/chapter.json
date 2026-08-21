@@ -700,7 +700,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_coffee_(13926468997).jpg",
       "author": "Michał Huniewicz",
       "license": "CC BY 2.0",
-      "credit": "Based on the photo Bosnian coffee. Michał Huniewicz / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Bosnian coffee"
     },
     {
       "id": "coffee-set",
@@ -710,7 +710,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
       "author": "İhsan Işık",
       "license": "CC BY 3.0",
-      "credit": "Based on the photo Bosnian coffee set, Baščaršija. İhsan Işık / Wikimedia Commons (CC BY 3.0)"
+      "credit": "Bosnian coffee set, Baščaršija"
     },
     {
       "id": "lokum",
@@ -720,7 +720,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Turkish_delight.jpg",
       "author": "Maksym Kozlenko",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on the photo Turkish delight / rahat lokum. Maksym Kozlenko / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Turkish delight / rahat lokum"
     },
     {
       "id": "civic-cbbh",
@@ -730,7 +730,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Bosnia_and_Herzegovina.jpg",
       "author": "Anthony Joh",
       "license": "CC BY 2.0",
-      "credit": "Based on the photo Central Bank of Bosnia and Herzegovina. Anthony Joh / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Central Bank of Bosnia and Herzegovina"
     }
   ],
   "imagesNeeded": false,

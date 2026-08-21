@@ -13,7 +13,7 @@
 ## Narration + on-screen cues
 
 ### 0:00 Cold open
-**Narration:** Welcome to Learn Bosnian in 30 Days — Book One. I’m glad you’re here. Today is Day One: Zdravo, Sarajevo!
+**Narration:** Welcome to How to Speak Bosnian in 30 Days — Book One. I’m glad you’re here. Today is Day One: Zdravo, Sarajevo!
 **On screen:** Zdravo, Sarajevo! | Day 1
 
 ### 0:40 Goals
@@ -38,10 +38,10 @@
 
 ### 8:00 Practice prompt
 **Narration:** Pause the video. Match five greetings. Come back tomorrow for Day Two: Ja sam Ana — when Ana meets Emir at the Sebilj fountain.
-**On screen:** Practice · Tomorrow: Ja sam Ana | Subscribe · learnbosnian.club
+**On screen:** Practice · Tomorrow: Ja sam Ana | Subscribe · howtospeakbosnian.com
 
 ## End screen
 
 - Link to website `/learn/day/1`
-- Playlist: Learn Bosnian in 30 Days — Book 1
+- Playlist: How to Speak Bosnian in 30 Days — Book 1
 - Image credits in description

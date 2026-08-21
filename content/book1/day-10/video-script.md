@@ -36,9 +36,9 @@
 
 ### 8:00 Practice prompt
 **Narration:** Match home words. Next. Lesson 11. Kakvo je vrijeme?
-**On screen:** Practice · Next. Kakvo je vrijeme? | Subscribe · learnbosnian site
+**On screen:** Practice · Next. Kakvo je vrijeme? | Subscribe · howtospeakbosnian.com
 
 ## End screen
 - Link to website `/learn/lesson/10`
-- Playlist. Learn Bosnian. Book 1
+- Playlist. How to Speak Bosnian. Book 1
 - Image credits in description

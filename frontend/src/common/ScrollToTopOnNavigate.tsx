@@ -1,13 +1,30 @@
 import { useEffect } from "react";
 import { useLocation } from "react-router-dom";
 
-/** Reset window scroll on every route change (including day → day). */
+function scrollToHash(hash: string) {
+  const id = decodeURIComponent(hash.replace(/^#/, ""));
+  if (!id) return false;
+  const el = document.getElementById(id);
+  if (!el) return false;
+  el.scrollIntoView({ block: "start" });
+  return true;
+}
+
+/** Reset window scroll on route change. If the URL has a hash, jump to that id. */
 const ScrollToTopOnNavigate = () => {
-  const { pathname } = useLocation();
+  const { pathname, hash } = useLocation();
 
   useEffect(() => {
-    window.scrollTo(0, 0);
-  }, [pathname]);
+    if (!hash) {
+      window.scrollTo(0, 0);
+      return;
+    }
+    if (scrollToHash(hash)) return;
+    const times = [0, 80, 250, 500].map((ms) =>
+      window.setTimeout(() => scrollToHash(hash), ms)
+    );
+    return () => times.forEach((id) => window.clearTimeout(id));
+  }, [pathname, hash]);
 
   return null;
 };

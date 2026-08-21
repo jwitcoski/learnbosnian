@@ -637,7 +637,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABosnian_coffee_%2813926468997%29.jpg",
       "author": "Michał Huniewicz",
       "license": "CC BY 2.0",
-      "credit": "Polygon painting based on the photo Bosnian coffee (13926468997).jpg. Michał Huniewicz / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Bosnian coffee"
     },
     {
       "id": "zenica-postcard",
@@ -647,7 +647,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AZenica.jpg",
       "author": "Multiple users. See History",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on the photo Zenica.jpg. Multiple users. See History / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Zenica"
     },
     {
       "id": "activity-cards",
@@ -657,7 +657,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3APlaying_cards.jpg",
       "author": "No machine-readable author provided. FvS~commonswiki assumed (based on copyright claims).",
       "license": "Public domain",
-      "credit": "Polygon painting based on the photo Playing cards.jpg. No machine-readable author provided. FvS~commonswiki assumed (based on copyright claims). / Wikimedia Commons (Public domain)"
+      "credit": "Playing cards"
     },
     {
       "id": "civic-eurovision-debt",
@@ -667,7 +667,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVije%C4%87nica.jpg",
       "author": "Jovan Moravac",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on the photo Vijećnica.jpg. Jovan Moravac / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Vijećnica"
     }
   ],
   "imagesNeeded": false,

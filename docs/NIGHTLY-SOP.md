@@ -7,7 +7,7 @@ One chapter per night. Same rhythm as the SAA “Night N” study plan.
 1. **Draft (AI)** — Write `content/book1/day-NN/chapter.json` from [outline.json](../content/book1/outline.json) and [CONTENT-STYLE.md](../CONTENT-STYLE.md). Add `video-script.md` and cited images. Set `status: "draft"`.
 2. **Human review** — Use the checklist below. Either approve or request fixes.
 3. **Publish** — Set `status: "published"`, update [project_specs.md](../project_specs.md), commit, deploy. Site shows the day as open.
-4. **YouTube (optional same night)** — Run `node scripts/export-youtube.cjs --day N`, assemble in CapCut, upload to playlist *Learn Bosnian in 30 Days — Book 1*.
+4. **YouTube (optional same night)** — Run `node scripts/export-youtube.cjs --day N`, assemble in CapCut, upload to playlist *How to Speak Bosnian in 30 Days — Book 1*.
 
 ## Human review checklist
 

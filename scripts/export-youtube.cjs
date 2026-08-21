@@ -3,6 +3,7 @@
  * Export YouTube pack for a chapter (run after human approve / publish).
  * Usage: node scripts/export-youtube.cjs --day 1
  */
+const { orderedChapterImages, imageRefFor } = require("./lib/image-ref.cjs");
 const fs = require("fs");
 const path = require("path");
 
@@ -72,12 +73,27 @@ const cues = [
   `- BS: ${chapter.title}`,
   "",
   "## Description blurb",
-  `Learn Bosnian in 30 Days — Lesson ${day}: ${chapter.title}.`,
+  `How to Speak Bosnian in 30 Days. Lesson ${day}: ${chapter.title}.`,
   `Lesson on the site: /learn/lesson/${day}`,
   `Channel: https://www.youtube.com/@HowtospeakBosnian`,
   "",
   "## Image credits",
-  ...(chapter.images || []).map((i) => `- ${i.credit} (${i.pageUrl || i.sourceUrl})`),
+  ...orderedChapterImages(chapter).map((i) => {
+    const source = i.pageUrl?.includes("wikimedia")
+      ? "Wikimedia Commons"
+      : i.pageUrl?.includes("pexels")
+      ? "Pexels"
+      : i.pageUrl?.includes("unsplash")
+      ? "Unsplash"
+      : "";
+    const who = [i.author, source].filter(Boolean).join(" / ");
+    const license = i.license ? ` (${i.license})` : "";
+    const url = i.pageUrl || i.sourceUrl || "";
+    const ref = imageRefFor(chapter, i.id);
+    return `- ${ref ? `${ref} ` : ""}${i.credit}${
+      who ? `. ${who}` : ""
+    }${license}${url ? `. ${url}` : ""}`;
+  }),
 ].join("\n");
 
 fs.writeFileSync(path.join(outDir, "cues.md"), cues + "\n");

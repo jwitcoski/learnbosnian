@@ -663,7 +663,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALivno.jpg",
       "author": "Golden Bosnian Lily",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on the photo Livno.jpg. Golden Bosnian Lily / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Livno"
     },
     {
       "id": "burek-tray",
@@ -673,7 +673,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABurek_photo_Moma_SM.jpg",
       "author": "photo Moma SM",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on the photo Burek photo Moma SM.jpg. Photo Moma SM / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Burek"
     },
     {
       "id": "livno-sir",
@@ -683,7 +683,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALivanjski_Cheese_with_label.JPG",
       "author": "Uniquenick",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on the photo Livanjski Cheese with label.JPG. Uniquenick / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Livanjski cheese"
     },
     {
       "id": "civic-livno-valley",
@@ -693,7 +693,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALivno_%2838263993931%29.jpg",
       "author": "Brian Eager from Livno, Bosnia and Herzegovina",
       "license": "CC BY 2.0",
-      "credit": "Polygon painting based on the photo Livno (38263993931).jpg. Brian Eager from Livno, Bosnia and Herzegovina / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Livno valley"
     }
   ],
   "imagesNeeded": false,

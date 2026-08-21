@@ -9,14 +9,14 @@ const QuizPage = () => {
   const chapter = getChapter(day);
 
   if (!chapter || Number.isNaN(day)) {
-    return <Redirect to="/learn" />;
+    return <Redirect to="/learn/book/1" />;
   }
 
   if (!canViewChapter(chapter)) {
     return (
       <LessonPage>
         <Banner>This quiz opens when Lesson {day} is live.</Banner>
-        <Link to="/learn">← Curriculum</Link>
+        <Link to="/learn/book/1">← Curriculum</Link>
       </LessonPage>
     );
   }

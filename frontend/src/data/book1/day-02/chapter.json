@@ -603,7 +603,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Day_in_Sarajevo.jpg",
       "author": "Daniel Wabyick",
       "license": "CC BY 2.0",
-      "credit": "Based on the photo Sebilj, Baščaršija. Daniel Wabyick / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Sebilj, Baščaršija"
     },
     {
       "id": "sebilj-close",
@@ -613,7 +613,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_-_Sebilj_fountain.jpg",
       "author": "JoJan",
       "license": "CC BY 3.0",
-      "credit": "Based on the photo Sebilj fountain. JoJan / Wikimedia Commons (CC BY 3.0)"
+      "credit": "Sebilj fountain"
     },
     {
       "id": "bascarsija-street",
@@ -623,7 +623,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Ba%C5%A1%C4%8Dar%C5%A1ija_Sarajevo.jpg",
       "author": "Stechshotme",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on the photo Baščaršija street. Stechshotme / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Baščaršija street"
     },
     {
       "id": "civic-presidency",
@@ -633,7 +633,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Presidency_of_BiH_in_Sarajevo_2023.01.29_1.jpg",
       "author": "Niegodzisie",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on the photo Presidency of BiH, Sarajevo. Niegodzisie / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Presidency of BiH, Sarajevo"
     }
   ],
   "imagesNeeded": false,

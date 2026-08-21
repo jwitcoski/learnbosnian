@@ -566,7 +566,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AOrienteering_map.jpg",
       "author": "Marcin Mikita",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on the photo Orienteering map.jpg. Marcin Mikita / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Weekend map"
     },
     {
       "id": "una-postcard",
@@ -576,7 +576,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AUna_River_Bihac_2.jpg",
       "author": "Julian Nyča",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on the photo Una River Bihac 2.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Una River, Bihać"
     },
     {
       "id": "cafe-plan",
@@ -586,7 +586,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABosanska_Kahva_%282496827374%29.jpg",
       "author": "Brenda Annerl",
       "license": "CC BY 2.0",
-      "credit": "Polygon painting based on the photo Bosanska Kahva (2496827374).jpg. Brenda Annerl / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Bosanska Kahva"
     },
     {
       "id": "civic-rural-bus",
@@ -596,7 +596,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABus_stop.jpg",
       "author": "Jonatan Svensson Glad",
       "license": "Public domain",
-      "credit": "Polygon painting based on the photo Bus stop.jpg. Jonatan Svensson Glad / Wikimedia Commons (Public domain)"
+      "credit": "Bus stop"
     }
   ],
   "imagesNeeded": false,

@@ -297,7 +297,7 @@ export default function SectionQuiz({ chapter, embedded }: Props) {
           )}
           {result.passed && !embedded && (
             <p>
-              <Link to="/learn">Back to curriculum</Link>
+              <Link to="/learn/book/1">Back to curriculum</Link>
             </p>
           )}
         </div>

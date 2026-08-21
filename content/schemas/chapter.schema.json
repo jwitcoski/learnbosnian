@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://learnbosnian.club/schemas/chapter.schema.json",
+  "$id": "https://howtospeakbosnian.com/schemas/chapter.schema.json",
   "title": "LearnBosnianChapter",
   "description": "Portable chapter schema for website, Scribus, YouTube, and future app",
   "type": "object",

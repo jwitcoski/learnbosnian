@@ -90,6 +90,12 @@ export const Credit = styled.p`
       text-decoration: underline;
     }
   }
+
+  .ref {
+    font-weight: 700;
+    color: var(--color-crimson);
+    margin-right: 0.4rem;
+  }
 `;
 
 export const LessonFigure = styled.figure`
@@ -176,13 +182,58 @@ export const VocabCard = styled.button`
   }
 `;
 
+export const DictRow = styled.button`
+  display: grid;
+  grid-template-columns: 1fr 1fr auto;
+  gap: 0.5rem;
+  align-items: baseline;
+  width: 100%;
+  text-align: left;
+  padding: 0.55rem 0.35rem;
+  margin: 0;
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid rgba(93, 64, 55, 0.15);
+  cursor: pointer;
+  font: inherit;
+  color: inherit;
+
+  &:hover:not([data-missing="true"]) {
+    background: rgba(196, 30, 58, 0.06);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--color-crimson);
+    outline-offset: 2px;
+  }
+
+  &[data-playing="true"] {
+    background: rgba(196, 30, 58, 0.1);
+  }
+
+  &[data-missing="true"] {
+    cursor: default;
+    opacity: 0.85;
+  }
+
+  .listen {
+    grid-column: 1 / -1;
+    margin-top: -0.15rem;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--color-crimson);
+  }
+`;
+
 export const Dialogue = styled.div`
   display: flex;
   flex-direction: column;
   gap: 0.75rem;
 `;
 
-export const Line = styled.button<{ $speaker: string }>`
+export const Line = styled.div<{ $speaker: string }>`
   display: block;
   width: 100%;
   text-align: left;
@@ -197,18 +248,29 @@ export const Line = styled.button<{ $speaker: string }>`
       : "rgba(93, 64, 55, 0.08)"};
   border: none;
   border-left: 3px solid var(--color-brown);
-  cursor: pointer;
-  font: inherit;
   color: inherit;
   transition: box-shadow 0.2s ease;
 
-  &:focus-visible {
-    outline: 2px solid var(--color-crimson);
-    outline-offset: 2px;
-  }
-
   &[data-playing="true"] {
     box-shadow: inset 0 0 0 1px var(--color-crimson);
+  }
+
+  button.play {
+    display: block;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: none;
+    background: transparent;
+    text-align: left;
+    font: inherit;
+    color: inherit;
+    cursor: pointer;
+
+    &:focus-visible {
+      outline: 2px solid var(--color-crimson);
+      outline-offset: 2px;
+    }
   }
 
   .speaker {

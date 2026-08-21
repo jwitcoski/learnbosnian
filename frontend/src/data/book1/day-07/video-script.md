@@ -39,5 +39,5 @@
 ## End screen
 
 - Link to website `/learn/lesson/7`
-- Playlist. Learn Bosnian, Book 1
+- Playlist. How to Speak Bosnian, Book 1
 - Image credits in description

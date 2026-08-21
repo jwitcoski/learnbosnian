@@ -1,4 +1,4 @@
-# Learn Bosnian in 30 Days — Book 1
+# How to Speak Bosnian in 30 Days — Book 1
 
 Export generated 2026-08-05T04:59:27.031Z
 

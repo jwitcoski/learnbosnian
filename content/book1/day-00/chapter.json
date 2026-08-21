@@ -424,7 +424,7 @@
       },
       {
         "id": "q6",
-        "question": "Which script does Learn Bosnian teach?",
+        "question": "Which script does How to Speak Bosnian teach?",
         "options": [
           "Cyrillic only",
           "Latin only",
@@ -547,7 +547,7 @@
       "pageUrl": "https://www.pexels.com/photo/the-koski-mehmed-pasha-mosque-mostar-bosnia-and-herzegovina-24244453/",
       "author": "Borys Jarzcuk",
       "license": "Pexels License",
-      "credit": "Based on the photo Mostar and the Neretva. Borys Jarzcuk / Pexels"
+      "credit": "Mostar and the Neretva"
     },
     {
       "id": "stari-most",
@@ -557,7 +557,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Stari_Most_Mostar_Bosnia_and_Herzegovina.jpg",
       "author": "Djani Behram",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on the photo Stari Most, Mostar. Djani Behram / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Stari Most, Mostar"
     },
     {
       "id": "mostar-panorama",
@@ -567,7 +567,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Mostar_Old_Town_Panorama_2007.jpg",
       "author": "Ramirez",
       "license": "CC BY-SA 4.0",
-      "credit": "Based on the photo Mostar Old Town panorama. Ramirez / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Mostar Old Town panorama"
     },
     {
       "id": "civic-dayton-map",
@@ -577,7 +577,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnia_and_Herzegovina_location_map.svg",
       "author": "NordNordWest",
       "license": "CC BY-SA 3.0",
-      "credit": "Based on map. Bosnia and Herzegovina location map. NordNordWest / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Map of Bosnia and Herzegovina"
     }
   ],
   "imagesNeeded": false,

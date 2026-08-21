@@ -285,7 +285,7 @@ export default function App() {
           <p className="eyebrow">Private</p>
           <h1>Voice Recorder</h1>
           <p className="lede">
-            Record Bosnian vocab and dialogue takes for Learn Bosnian. iPhone:
+            Record Bosnian vocab and dialogue takes for How to Speak Bosnian. iPhone:
             use Safari and allow the microphone.
           </p>
         </header>
@@ -348,7 +348,7 @@ export default function App() {
     <div className="shell">
       <header className="top row">
         <div>
-          <p className="eyebrow">Learn Bosnian</p>
+          <p className="eyebrow">How to Speak Bosnian</p>
           <h1>Voice studio</h1>
         </div>
         <button type="button" className="ghost" onClick={logout}>

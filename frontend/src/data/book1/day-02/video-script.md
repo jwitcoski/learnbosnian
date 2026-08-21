@@ -1,7 +1,7 @@
 # Lesson 2 video script. Ja sam Ana **Length target:** 8. 10 minutes **Style:** Scenic Bosnian stills + yellow/gold on-screen text (channel style) **Status:** Export when chapter is `published` ## Thumbnail text - EN. Lesson 2. I am Ana
 - BS. Ja sam Ana
 - Background. Sebilj fountain ## Narration + on-screen cues ### 0:00 Cold open
-**Narration:** Welcome back to Learn Bosnian. Book One. Lesson 2. Ja sam Ana. Ana meets Emir at the Sebilj fountain.
+**Narration:** Welcome back to How to Speak Bosnian. Book One. Lesson 2. Ja sam Ana. Ana meets Emir at the Sebilj fountain.
 **On screen:** Ja sam Ana | Lesson 2 ### 0:40 Goals
 **Narration:** Today you learn pronouns, the verb biti (sam, si, je) and how to introduce yourself.
 **On screen:** Goals · ja/ti/on/ona · sam/si/je · zovem se · drago mi je ### 1:30 Culture hook
@@ -14,6 +14,6 @@
 **Narration:** Listen to Ana and Emir at Sebilj. then pause and repeat each line.
 **On screen:** Dialogue lines from chapter (BS + EN) ### 8:00 Practice prompt
 **Narration:** Pause the video. Match ja sam, ti si, zovem se, and drago mi je. Next up. Lesson 3. Brojevi i kahva, coffee at Amira’s.
-**On screen:** Practice · Next. Brojevi i kahva | Subscribe · learnbosnian site ## End screen - Link to website `/learn/lesson/2`
-- Playlist. Learn Bosnian. Book 1
+**On screen:** Practice · Next. Brojevi i kahva | Subscribe · howtospeakbosnian.com ## End screen - Link to website `/learn/lesson/2`
+- Playlist. How to Speak Bosnian. Book 1
 - Image credits in description

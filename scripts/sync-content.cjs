@@ -4,6 +4,7 @@
  */
 const fs = require("fs");
 const path = require("path");
+const { orderedChapterImages, imageRefCode } = require("./lib/image-ref.cjs");
 const { buildClipsCatalog } = require("./lib/audio-clips.cjs");
 
 const root = path.join(__dirname, "..");
@@ -66,33 +67,44 @@ function harvestChapterImages() {
       const chapterPath = path.join(bookDir, day, "chapter.json");
       if (!fs.existsSync(chapterPath)) continue;
       const chapter = JSON.parse(fs.readFileSync(chapterPath, "utf8"));
-      for (const img of chapter.images || []) {
+      const ordered = orderedChapterImages(chapter);
+      ordered.forEach((img, index) => {
+        const source =
+          img.pageUrl?.includes("wikimedia")
+            ? "Wikimedia Commons"
+            : img.pageUrl?.includes("pexels")
+            ? "Pexels"
+            : img.pageUrl?.includes("unsplash")
+            ? "Unsplash"
+            : "Other";
+        const creditParts = [img.author, source !== "Other" ? source : ""]
+          .filter(Boolean)
+          .join(" / ");
+        const credit = img.license
+          ? `${creditParts} (${img.license})`.trim()
+          : creditParts;
+        const ref = imageRefCode(chapter.book || 1, chapter.day, index);
         entries.push({
           id: `${book}-day-${String(chapter.day).padStart(2, "0")}-${img.id}`,
-          title: img.alt || img.id,
+          ref,
+          title: img.credit || img.alt || img.id,
           whereUsed: [
             `Book ${chapter.book} · Lesson ${chapter.day} — ${
               chapter.titleEn || chapter.title
             }`,
           ],
           author: img.author || "",
-          source: img.pageUrl?.includes("wikimedia")
-            ? "Wikimedia Commons"
-            : img.pageUrl?.includes("pexels")
-            ? "Pexels"
-            : img.pageUrl?.includes("unsplash")
-            ? "Unsplash"
-            : "Other",
+          source,
           license: img.license || "",
           pageUrl: img.pageUrl || img.sourceUrl || "",
           sourceUrl: img.sourceUrl || img.pageUrl || "",
           localPath: img.localPath || "",
-          credit: img.credit || "",
+          credit,
           notes: "",
           book: chapter.book,
           day: chapter.day,
         });
-      }
+      });
     }
   }
   return entries;
@@ -131,6 +143,9 @@ const merged = {
     const dayA = a.day ?? 999;
     const dayB = b.day ?? 999;
     if (dayA !== dayB) return dayA - dayB;
+    const refA = a.ref || "";
+    const refB = b.ref || "";
+    if (refA && refB && refA !== refB) return refA.localeCompare(refB, undefined, { numeric: true });
     return String(a.id).localeCompare(String(b.id));
   }),
 };

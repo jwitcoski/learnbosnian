@@ -39,7 +39,7 @@ Theme: First walk through Baščaršija
 - BS: Zdravo, Sarajevo!
 
 ## Description blurb
-Learn Bosnian in 30 Days — Day 1: Zdravo, Sarajevo!.
+How to Speak Bosnian in 30 Days — Day 1: Zdravo, Sarajevo!.
 Lesson on the site: /learn/day/1
 Channel: https://www.youtube.com/@HowtospeakBosnian
 

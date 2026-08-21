@@ -2,7 +2,6 @@ import { useState } from "react";
 import { Row, Col, Drawer } from "antd";
 import { Link } from "react-router-dom";
 import Container from "../../common/Container";
-import { Button } from "../../common/Button";
 import {
   HeaderSection,
   LogoContainer,
@@ -36,11 +35,6 @@ const Header = () => {
           </Link>
         </CustomNavLinkSmall>
         <CustomNavLinkSmall>
-          <Link to="/books">
-            <Span>Books</Span>
-          </Link>
-        </CustomNavLinkSmall>
-        <CustomNavLinkSmall>
           <a
             href="https://www.youtube.com/@HowtospeakBosnian"
             target="_blank"
@@ -48,13 +42,6 @@ const Header = () => {
           >
             <Span>YouTube</Span>
           </a>
-        </CustomNavLinkSmall>
-        <CustomNavLinkSmall style={{ width: "180px" }}>
-          <Link to="/learn/lesson/0">
-            <Span>
-              <Button>Start Lesson 0</Button>
-            </Span>
-          </Link>
         </CustomNavLinkSmall>
       </>
     );
@@ -64,17 +51,19 @@ const Header = () => {
     <HeaderSection>
       <Container>
         <Row justify="space-between">
-          <LogoContainer to="/" aria-label="homepage">
+          <LogoContainer to="/" aria-label="How to Speak Bosnian home">
             <div
               style={{
-                fontSize: "18px",
+                fontSize: "16px",
                 fontWeight: "bold",
                 color: "#5D4037",
                 fontFamily: "var(--font-display)",
                 lineHeight: 1.15,
+                textAlign: "left",
               }}
             >
-              <div>Learn Bosnian</div>
+              <div>How to Speak</div>
+              <div>Bosnian</div>
             </div>
           </LogoContainer>
           <NotHidden>

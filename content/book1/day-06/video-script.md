@@ -43,5 +43,5 @@
 ## End screen
 
 - Link to website `/learn/lesson/6`
-- Playlist. Learn Bosnian, Book 1
+- Playlist. How to Speak Bosnian, Book 1
 - Image credits in description

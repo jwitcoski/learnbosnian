@@ -10,7 +10,7 @@ const DayPage = () => {
   const chapter = getChapter(day);
 
   if (!chapter || Number.isNaN(day)) {
-    return <Redirect to="/learn" />;
+    return <Redirect to="/learn/book/1" />;
   }
 
   if (!canViewChapter(chapter)) {
@@ -22,7 +22,7 @@ const DayPage = () => {
         </Banner>
         <p>{chapter.theme}</p>
         <p>{chapter.storyBeat}</p>
-        <Link to="/learn">← Back to curriculum</Link>
+        <Link to="/learn/book/1">← Back to curriculum</Link>
       </LessonPage>
     );
   }

@@ -36,9 +36,9 @@
 
 ### 8:00 Practice prompt
 **Narration:** Pause and match food words. Next. Lesson 9. U prodavnici. Shopping with Emir.
-**On screen:** Practice · Next. U prodavnici | Subscribe · learnbosnian site
+**On screen:** Practice · Next. U prodavnici | Subscribe · howtospeakbosnian.com
 
 ## End screen
 - Link to website `/learn/lesson/8`
-- Playlist. Learn Bosnian. Book 1
+- Playlist. How to Speak Bosnian. Book 1
 - Image credits in description

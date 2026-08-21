@@ -7,13 +7,13 @@ const FinalTestPage = () => {
   const assessment = getFinalTest();
 
   if (!assessment) {
-    return <Redirect to="/learn" />;
+    return <Redirect to="/learn/book/1" />;
   }
 
   return (
     <LessonPage>
       <p>
-        <Link to="/learn">← Curriculum</Link>
+        <Link to="/learn/book/1">← Curriculum</Link>
       </p>
       <h1>{assessment.titleEn || assessment.title}</h1>
       <AssessmentQuiz assessment={assessment} />

@@ -1,7 +1,7 @@
 {
   "name": "learnbosnian-backend",
   "version": "1.0.0",
-  "description": "Backend for Learn Bosnian application",
+  "description": "Backend for How to Speak Bosnian application",
   "main": "handler.js",
   "scripts": {
     "dev": "serverless offline",

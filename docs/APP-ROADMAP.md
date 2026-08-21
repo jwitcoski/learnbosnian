@@ -1,4 +1,4 @@
-# App roadmap — Learn Bosnian (Expo)
+# App roadmap — How to Speak Bosnian (Expo)
 
 ## Why Expo
 

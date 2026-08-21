@@ -2,6 +2,7 @@ import { useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import type { Chapter, ChapterImage } from "../../types/chapter";
 import { getChapter, canViewChapter } from "../../data/loadChapters";
+import { imageRefFor } from "../../lib/imageRef";
 import { useClipAudio } from "../../hooks/useClipAudio";
 import {
   dialogueClipId,
@@ -38,25 +39,29 @@ import {
 
 type Props = { chapter: Chapter };
 
-function attrHash(day: number, id: string) {
-  return `/attributions#book1-day-${String(day).padStart(2, "0")}-${id}`;
+function attrHash(ref: string, day: number, id: string) {
+  return `/attributions#${ref || `book1-day-${String(day).padStart(2, "0")}-${id}`}`;
 }
 
 function ChapterImageFigure({
-  day,
+  chapter,
   image,
 }: {
-  day: number;
+  chapter: Chapter;
   image: ChapterImage;
 }) {
   if (!image?.localPath) return null;
+  const ref = imageRefFor(chapter, image.id);
   return (
     <LessonFigure>
       <div className="frame">
         <img src={image.localPath} alt={image.alt || image.id} />
       </div>
       <Credit as="figcaption">
-        <Link to={attrHash(day, image.id)}>{image.credit}</Link>
+        <Link to={attrHash(ref, chapter.day, image.id)}>
+          {ref ? <span className="ref">{ref}</span> : null}
+          {image.credit}
+        </Link>
       </Credit>
     </LessonFigure>
   );
@@ -112,6 +117,7 @@ export default function LessonShell({ chapter }: Props) {
       /youtube|video|watch/i.test(r.label) ||
       /youtu\.be|youtube\.com/.test(r.url)
   );
+  const heroRef = hero ? imageRefFor(chapter, hero.id) : "";
 
   return (
     <LessonPage>
@@ -136,7 +142,10 @@ export default function LessonShell({ chapter }: Props) {
       </HeroBand>
       {hero && (
         <Credit>
-          <Link to={attrHash(chapter.day, hero.id)}>{hero.credit}</Link>
+          <Link to={attrHash(heroRef, chapter.day, hero.id)}>
+            {heroRef ? <span className="ref">{heroRef}</span> : null}
+            {hero.credit}
+          </Link>
         </Credit>
       )}
 
@@ -186,7 +195,7 @@ export default function LessonShell({ chapter }: Props) {
           <h2>{chapter.culture.title}</h2>
           <p>{chapter.culture.body}</p>
           {cultureImage && (
-            <ChapterImageFigure day={chapter.day} image={cultureImage} />
+            <ChapterImageFigure chapter={chapter} image={cultureImage} />
           )}
         </Panel>
       )}
@@ -254,7 +263,7 @@ export default function LessonShell({ chapter }: Props) {
             );
           })}
         </VocabGrid>
-        {midImage && <ChapterImageFigure day={chapter.day} image={midImage} />}
+        {midImage && <ChapterImageFigure chapter={chapter} image={midImage} />}
       </Panel>
 
       <Panel id="grammar">
@@ -325,8 +334,8 @@ export default function LessonShell({ chapter }: Props) {
             {chapter.conversation.setting}
           </p>
           <p style={{ color: "var(--color-muted)" }}>
-            Play the full scene once. Cover the English if you can. Then tap
-            lines one by one. Use Speak on the highlighted lines.
+            Play the full scene once. Then tap a line to hear it. On some
+            lines you can record yourself for a short Speak Check.
           </p>
           <div
             style={{
@@ -365,13 +374,16 @@ export default function LessonShell({ chapter }: Props) {
               const isMissing = Boolean(missing[clipId]);
               const isSpeak = speakTargets.includes(i);
               return (
-                <div key={`${line.speaker}-${i}`}>
-                  <Line
+                <Line
+                  key={`${line.speaker}-${i}`}
+                  $speaker={line.speaker}
+                  data-playing={isPlaying ? "true" : "false"}
+                  data-missing={isMissing ? "true" : "false"}
+                >
+                  <button
                     type="button"
-                    $speaker={line.speaker}
+                    className="play"
                     onClick={() => playClip(clipId, { loop, rate })}
-                    data-playing={isPlaying ? "true" : "false"}
-                    data-missing={isMissing ? "true" : "false"}
                     aria-label={`Play dialogue line by ${line.speaker}`}
                   >
                     <div className="speaker">{line.speaker}</div>
@@ -384,7 +396,7 @@ export default function LessonShell({ chapter }: Props) {
                         ? "Audio soon"
                         : "Tap to hear"}
                     </div>
-                  </Line>
+                  </button>
                   {isSpeak && (
                     <SpeakPractice
                       day={chapter.day}
@@ -392,15 +404,13 @@ export default function LessonShell({ chapter }: Props) {
                       bosnian={line.bosnian}
                       english={line.english}
                       vocabulary={chapter.vocabulary.map((v) => v.bosnian)}
-                      teacherPlay={() => playClip(clipId, { loop: false, rate })}
-                      teacherPlaying={isPlaying}
                       attemptsLeft={attemptsLeft}
                       onAiAttempt={() =>
                         setAttemptsUsed(incrementSpeakAttempts(chapter.day))
                       }
                     />
                   )}
-                </div>
+                </Line>
               );
             })}
           </Dialogue>
@@ -412,7 +422,7 @@ export default function LessonShell({ chapter }: Props) {
           <SectionDivider />
           <h2>More scenes</h2>
           {moreImages.map((img) => (
-            <ChapterImageFigure key={img.id} day={chapter.day} image={img} />
+            <ChapterImageFigure key={img.id} chapter={chapter} image={img} />
           ))}
         </Panel>
       )}
@@ -468,7 +478,7 @@ export default function LessonShell({ chapter }: Props) {
               (i) => i.id === chapter.civicContext?.imageId
             );
             return civicImg ? (
-              <ChapterImageFigure day={chapter.day} image={civicImg} />
+              <ChapterImageFigure chapter={chapter} image={civicImg} />
             ) : null;
           })()}
         </Panel>
@@ -571,7 +581,7 @@ export default function LessonShell({ chapter }: Props) {
               <span className="soon">← Lesson {prev.day} · soon</span>
             )
           ) : (
-            <Link to="/learn">← All lessons</Link>
+            <Link to="/learn/book/1">← All lessons</Link>
           )}
           {next ? (
             nextOpen ? (
@@ -584,7 +594,7 @@ export default function LessonShell({ chapter }: Props) {
               </span>
             )
           ) : (
-            <Link to="/learn">Curriculum →</Link>
+            <Link to="/learn/book/1">Curriculum →</Link>
           )}
         </DayNav>
       </Panel>

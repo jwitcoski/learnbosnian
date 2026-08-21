@@ -1,4 +1,4 @@
-# Content style guide — Learn Bosnian in 30 Days (Book 1)
+# Content style guide — How to Speak Bosnian in 30 Days (Book 1)
 
 ## Language rules
 

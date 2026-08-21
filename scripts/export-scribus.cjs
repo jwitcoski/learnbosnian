@@ -29,7 +29,7 @@ const chapters = loadChapters().filter((c) =>
     : c.status === "published" || c.status === "draft"
 );
 
-let markdown = `# Learn Bosnian, Book 1\n\nExport generated ${new Date().toISOString()}\n\n`;
+let markdown = `# How to Speak Bosnian, Book 1\n\nExport generated ${new Date().toISOString()}\n\n`;
 const dict = [];
 const imageManifest = [];
 

@@ -36,10 +36,10 @@ export function buildDictionary(onlyOpen = true): DictionaryEntry[] {
   listChapters().forEach((ch) => {
     if (onlyOpen && !canViewChapter(ch)) return;
     ch.dictionaryEntries.forEach((e) => {
-      const key = e.bosnian.toLowerCase();
+      const key = `${ch.book}:${e.bosnian.toLowerCase()}`;
       if (seen.has(key)) return;
       seen.add(key);
-      entries.push({ ...e, day: e.day || ch.day });
+      entries.push({ ...e, day: e.day || ch.day, book: ch.book });
     });
   });
   return entries.sort((a, b) =>

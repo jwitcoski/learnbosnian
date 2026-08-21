@@ -10,6 +10,11 @@ const routes = [
     component: "Learn",
   },
   {
+    path: "/learn/book/:book",
+    exact: true,
+    component: "Book",
+  },
+  {
     path: "/learn/lesson/:n",
     exact: true,
     component: "Day",

@@ -106,6 +106,7 @@ export type DictionaryEntry = {
   english: string;
   partOfSpeech?: string;
   day?: number;
+  book?: number;
 };
 
 export type Chapter = {

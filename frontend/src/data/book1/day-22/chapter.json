@@ -631,7 +631,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATravnik_mosque_03.jpg",
       "author": "Christian Bickel",
       "license": "CC BY-SA 2.0 de",
-      "credit": "Polygon painting based on the photo Travnik mosque 03.jpg. Christian Bickel / Wikimedia Commons (CC BY-SA 2.0 de)"
+      "credit": "Travnik mosque"
     },
     {
       "id": "travnik-street",
@@ -641,7 +641,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATravnik_Altstadt_1.JPG",
       "author": "Julian Nyča",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on the photo Travnik Altstadt 1.JPG. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Travnik old town"
     },
     {
       "id": "travnik-tower",
@@ -651,7 +651,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATravnik_Festung_1.JPG",
       "author": "Julian Nyča",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on the photo Travnik Festung 1.JPG. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Travnik fortress"
     },
     {
       "id": "civic-winding-road",
@@ -661,7 +661,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AGrossglockner_road_1997b.jpg",
       "author": "Holger.Ellgaard",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on the photo Grossglockner road 1997b.jpg. Holger.Ellgaard / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Winding mountain road"
     }
   ],
   "imagesNeeded": false,

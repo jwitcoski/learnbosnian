@@ -632,7 +632,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKlepe_Sarajevo_Bosnia_%2810675888145%29.jpg",
       "author": "amanderson2",
       "license": "CC BY 2.0",
-      "credit": "Polygon painting based on the photo Klepe Sarajevo Bosnia (10675888145).jpg. Amanderson2 / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Klepe, Sarajevo"
     },
     {
       "id": "japrak-dish",
@@ -642,7 +642,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AJaprak_1.jpg",
       "author": "Tizilohja25",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on the photo Japrak 1.jpg. Tizilohja25 / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Japrak"
     },
     {
       "id": "visoko-postcard",
@@ -652,7 +652,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AVisoko.jpg",
       "author": "Wikimedia Commons",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on the photo Visoko.jpg. Wikimedia Commons / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Visoko"
     },
     {
       "id": "civic-food-economy",
@@ -662,7 +662,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACroatia_Bosnia_Border_%28129455903%29.jpeg",
       "author": "José Sáez",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on the photo Croatia Bosnia Border (129455903).jpeg. José Sáez / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Bosnia–Croatia border"
     }
   ],
   "imagesNeeded": false,

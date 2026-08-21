@@ -43,8 +43,36 @@ export const AttrList = styled.div`
 `;
 
 export const AttrCard = styled.article`
+  display: grid;
+  grid-template-columns: 8.5rem minmax(0, 1fr);
+  gap: 0.85rem 1.15rem;
+  align-items: start;
   padding-bottom: 1.5rem;
   border-bottom: 1px solid rgba(93, 64, 55, 0.15);
+  scroll-margin-top: 5.5rem;
+
+  @media (max-width: 560px) {
+    grid-template-columns: 7rem minmax(0, 1fr);
+    gap: 0.65rem 0.85rem;
+  }
+`;
+
+export const AttrThumb = styled.div`
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  background: #efe6d8;
+
+  img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+`;
+
+export const AttrBody = styled.div`
+  min-width: 0;
 `;
 
 export const AttrTitle = styled.h2`
@@ -52,6 +80,15 @@ export const AttrTitle = styled.h2`
   font-family: var(--font-display);
   font-size: 1.35rem;
   color: var(--color-brown);
+
+  .ref {
+    display: inline-block;
+    margin-right: 0.55rem;
+    font-family: var(--font-sans, inherit);
+    font-size: 0.95em;
+    font-weight: 700;
+    color: var(--color-crimson);
+  }
 `;
 
 export const AttrWhere = styled.ul`

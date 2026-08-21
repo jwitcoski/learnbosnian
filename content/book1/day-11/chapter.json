@@ -647,7 +647,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATrebevi%C4%87_Cable_Car_in_Sarajevo_01.jpg",
       "author": "Adam Harangozó",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on the photo Trebević Cable Car in Sarajevo 01.jpg. Adam Harangozó / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Trebević Cable Car in Sarajevo"
     },
     {
       "id": "trebevic-view",
@@ -657,7 +657,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_from_the_cable_car.jpg",
       "author": "MarinaSimic",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on the photo Sarajevo from the cable car.jpg. MarinaSimic / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Sarajevo from the cable car"
     },
     {
       "id": "jahorina",
@@ -667,7 +667,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AJahorina_mountain_2018.jpg",
       "author": "EXIT Photo Team",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on the photo Jahorina mountain 2018.jpg. EXIT Photo Team / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Jahorina mountain"
     },
     {
       "id": "civic-sarajevo-bowl",
@@ -677,7 +677,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_%E2%80%93_Cable_Car_and_bypass.jpg",
       "author": "Julian Nyča",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on the photo Sarajevo Cable Car and bypass.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Sarajevo from above"
     }
   ],
   "imagesNeeded": false,

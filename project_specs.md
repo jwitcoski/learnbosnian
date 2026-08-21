@@ -1,4 +1,4 @@
-# Project specs — Learn Bosnian in 30 Days
+# Project specs — How to Speak Bosnian in 30 Days
 
 ## Goals
 

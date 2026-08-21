@@ -587,7 +587,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALatin_Bridge_in_Sarajevo.jpg",
       "author": "Tumi-1983",
       "license": "CC0",
-      "credit": "Polygon painting based on the photo Latin Bridge in Sarajevo.jpg. Tumi-1983 / Wikimedia Commons (CC0)"
+      "credit": "Latin Bridge in Sarajevo"
     },
     {
       "id": "latin-bridge-2",
@@ -597,7 +597,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALatinBridgeSarajevo.JPG",
       "author": "CeeGee",
       "license": "CC BY-SA 4.0",
-      "credit": "Polygon painting based on the photo LatinBridgeSarajevo.JPG. CeeGee / Wikimedia Commons (CC BY-SA 4.0)"
+      "credit": "Latin Bridge, Sarajevo"
     },
     {
       "id": "konjic-bridge",
@@ -607,7 +607,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKonjic_Stari_most_7.jpg",
       "author": "Julian Nyča",
       "license": "CC BY-SA 3.0",
-      "credit": "Polygon painting based on the photo Konjic Stari most 7.jpg. Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)"
+      "credit": "Old Bridge, Konjic"
     },
     {
       "id": "civic-mines",
@@ -617,7 +617,7 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALandmine_warning_sign_in_BiH.jpg",
       "author": "Darij & Ana",
       "license": "CC BY 2.0",
-      "credit": "Polygon painting based on the photo Landmine warning sign in BiH.jpg. Darij & Ana / Wikimedia Commons (CC BY 2.0)"
+      "credit": "Landmine warning sign in BiH"
     }
   ],
   "imagesNeeded": false,

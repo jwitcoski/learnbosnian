@@ -69,7 +69,7 @@ export const Hero = styled.section`
 
   .brand {
     font-family: var(--font-display);
-    font-size: clamp(2.6rem, 7vw, 4.5rem);
+    font-size: clamp(2.2rem, 5.5vw, 3.75rem);
     font-weight: 700;
     line-height: 1.05;
     margin: 0 0 0.75rem;

@@ -214,7 +214,7 @@ export default function AssessmentQuiz({ assessment }: Props) {
           )}
           {result.passed && (
             <p>
-              <Link to="/learn">Back to curriculum</Link>
+              <Link to="/learn/book/1">Back to curriculum</Link>
               {assessment.kind === "section" && assessment.section && assessment.section < 4 ? (
                 <>
                   {" · "}

@@ -12,10 +12,7 @@ export type SpeakPracticeProps = {
   lineIndex: number;
   bosnian: string;
   english: string;
-  pronunciationHint?: string;
   vocabulary?: string[];
-  teacherPlay: () => void;
-  teacherPlaying?: boolean;
   aiEnabled?: boolean;
   attemptsLeft: number;
   onAiAttempt: () => void;
@@ -26,10 +23,7 @@ export default function SpeakPractice({
   lineIndex,
   bosnian,
   english,
-  pronunciationHint,
   vocabulary = [],
-  teacherPlay,
-  teacherPlaying,
   aiEnabled = true,
   attemptsLeft,
   onAiAttempt,
@@ -40,7 +34,6 @@ export default function SpeakPractice({
   const [error, setError] = useState<string | null>(null);
   const [busy, setBusy] = useState(false);
   const [feedback, setFeedback] = useState<SpeakCheckResult | null>(null);
-  const [hideGloss, setHideGloss] = useState(false);
 
   const mediaRecorderRef = useRef<MediaRecorder | null>(null);
   const chunksRef = useRef<BlobPart[]>([]);
@@ -159,45 +152,14 @@ export default function SpeakPractice({
   };
 
   return (
-    <div
-      style={{
-        marginTop: "0.75rem",
-        padding: "0.75rem 1rem",
-        borderLeft: "3px solid var(--color-crimson, #c62828)",
-        background: "rgba(0,0,0,0.03)",
-      }}
-    >
-      <div style={{ fontSize: "0.85rem", fontWeight: 700, marginBottom: "0.35rem" }}>
-        Speak this line
-      </div>
-      <div style={{ fontSize: "1.1rem", fontWeight: 700 }}>{bosnian}</div>
-      {!hideGloss && (
-        <div style={{ color: "var(--color-muted)", fontSize: "0.95rem" }}>
-          {english}
-        </div>
-      )}
-      {pronunciationHint && (
-        <div style={{ color: "var(--color-muted)", fontSize: "0.85rem" }}>
-          {pronunciationHint}
-        </div>
-      )}
+    <div style={{ marginTop: "0.65rem" }}>
       <div
         style={{
           display: "flex",
           flexWrap: "wrap",
           gap: "0.5rem",
-          marginTop: "0.65rem",
         }}
       >
-        <PrimaryButton type="button" onClick={teacherPlay}>
-          {teacherPlaying ? "Playing teacher…" : "Hear teacher"}
-        </PrimaryButton>
-        <PrimaryButton
-          type="button"
-          onClick={() => setHideGloss((v) => !v)}
-        >
-          {hideGloss ? "Show English" : "Hide English"}
-        </PrimaryButton>
         {!recording ? (
           <PrimaryButton type="button" onClick={() => void start()}>
             Record yourself
