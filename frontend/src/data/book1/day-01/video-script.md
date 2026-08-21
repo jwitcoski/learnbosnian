@@ -7,8 +7,8 @@
 **On screen:** Goals · Greetings · Letters č ć š ž đ dž · Baščaršija ### 1:30 Culture hook
 **Narration:** Baščaršija is full of shops, cafés, and friendly hellos. Ana, our traveler, has just arrived. A cat watches her. That cat will matter later.
 **On screen:** Baščaršija · Ana arrives · (credit image) ### 3:00 Lesson A. Letters
-**Narration:** Six letters to love. Č like church… ć a softer cousin… š like ship… ž like measure… đ like a soft juice… and dž like jam. as in džezva, the coffee pot.
-**On screen (cards):** čaj | ćup | šuma | žena | đak | džezva ### 5:00 Lesson B. Greetings
+**Narration:** Hard sounds wear a little hat. Č, š, ž. Soft sounds wear a tail. Ć and đ. Drill with a vowel. Ča če či. Then switch. Ča then ća. Dža then đa. Practice čaj, džezva, đak, and žena.
+**On screen (cards):** hats č š ž | tails ć đ | ča ća | čaj | džezva ### 5:00 Lesson B. Greetings
 **Narration:** Say zdravo with friends. Say dobar dan with people you don’t know well. Add hvala and molim. End with doviđenja.
 **On screen:** zdravo · dobar dan · hvala · molim · doviđenja ### 6:30 Mini dialogue
 **Narration:** Listen to Ana’s first hello in a shop. then pause and repeat.

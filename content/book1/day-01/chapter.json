@@ -267,20 +267,24 @@
       ]
     },
     {
-      "title": "Writing č ć š ž đ",
-      "explanation": "Bosnian uses letters that many English keyboards do not show by default. You need č ć š ž đ, and the capitals Č Ć Š Ž Đ. Write them correctly from the start.",
+      "title": "Hats, tails, and two-letter letters",
+      "explanation": "Hold this as a spoken pattern. Do not treat it as a grammar grid. Hard sounds wear a little hat. Those letters are č, š, and ž. Soft sounds wear a little tail. Those letters are ć and đ. Dž, lj, and nj look like two characters, and they still count as one letter. Drill by pairing each special letter with a vowel. Say ča če či. Then switch close pairs. Say ča then ća. Say dža then đa. Say sa then ša. Say za then ža. Write the hat or the tail. Do not fall back to plain c, s, z, or d.",
       "examples": [
         {
-          "bosnian": "čaj",
-          "english": "needs č"
+          "bosnian": "ča then ća",
+          "english": "hard ch, then softer ch"
         },
         {
-          "bosnian": "Baščaršija",
-          "english": "needs š and č"
+          "bosnian": "dža then đa",
+          "english": "jam sound, then softer j"
         },
         {
-          "bosnian": "doviđenja",
-          "english": "needs đ"
+          "bosnian": "sa then ša",
+          "english": "sun s, then ship sh"
+        },
+        {
+          "bosnian": "za then ža",
+          "english": "zoo z, then measure zh"
         }
       ]
     },
@@ -312,11 +316,11 @@
     {
       "id": "a",
       "title": "Lesson A. Walk the full alphabet",
-      "body": "Say the whole Latin Bosnian alphabet out loud once. The letters are A B C Č Ć D Dž Đ E F G H I J K L Lj M N Nj O P R S Š T U V Z Ž. That is thirty letters. Digraphs Dž, Lj, and Nj are single alphabet letters even though they look like two characters. Now zoom in on the ones English does not have. Practice Č č like church, Ć ć a bit softer and shorter, Dž dž like jam, Đ đ a softer j, Š š like ship, and Ž ž like the s in measure, plus Lj lj and Nj nj. Practice the words čaj, ćup, džezva, đak, šuma, žena, ljubav for love, and njega for care. Ana drills them on the plane, then spots Baščaršija on a sign and finally hears the letters in a real street name.",
+      "body": "Say the whole Latin Bosnian alphabet out loud once. The letters are A B C Č Ć D Dž Đ E F G H I J K L Lj M N Nj O P R S Š T U V Z Ž. That is thirty letters. Dž, Lj, and Nj count as one letter each. Next, drill the sounds English does not have. Hard sounds wear a little hat. Those letters are č, š, and ž. Soft sounds wear a little tail. Those letters are ć and đ. Say each special letter plus a vowel. Try ča če či čo ču, then ća će ći. Switch pairs. Say ča then ća. Say dža then đa. Say sa then ša. Say za then ža. Practice čaj, džezva, đak, and žena. Ana drills them on the plane, then reads Baščaršija on a street sign.",
       "tips": [
-        "Do not skip the boring letters. C sounds like ts, and J sounds like English Y.",
-        "Č is harder. Ć is softer and shorter.",
-        "Write č ć š ž đ correctly. Do not replace them with plain c s z d."
+        "Hats mark č, š, and ž. Tails mark ć and đ.",
+        "Dž, lj, and nj are one letter each. Never split them when you count letters.",
+        "C sounds like ts. J sounds like English y."
       ]
     },
     {
@@ -407,21 +411,29 @@
     },
     {
       "id": "p2",
-      "type": "scramble",
-      "title": "Unscramble the letters",
-      "prompt": "Unscramble to make today’s words.",
+      "type": "match",
+      "title": "Match the special letters",
+      "prompt": "Match each letter to the closest English sound.",
       "items": [
         {
-          "scrambled": "lavah",
-          "answer": "hvala"
+          "left": "č",
+          "right": "harder ch, as in church"
         },
         {
-          "scrambled": "avozrd",
-          "answer": "zdravo"
+          "left": "ć",
+          "right": "softer, shorter ch"
         },
         {
-          "scrambled": "jac",
-          "answer": "čaj"
+          "left": "š",
+          "right": "sh, as in ship"
+        },
+        {
+          "left": "ž",
+          "right": "s in measure"
+        },
+        {
+          "left": "dž",
+          "right": "j, as in jam (one letter)"
         }
       ]
     }
@@ -441,33 +453,39 @@
     },
     {
       "id": "pr3",
-      "prompt": "Which letter sound is in čaj. č or ć?",
-      "hint": "Harder 'ch'",
-      "answer": "č"
+      "prompt": "Type tea in Bosnian. Use the hat letter.",
+      "hint": "Harder ch",
+      "answer": "čaj"
     },
     {
       "id": "pr4",
-      "prompt": "Translate. Thank you!",
-      "hint": "One word",
-      "answer": "hvala"
+      "prompt": "Which letter is in čaj. č or ć?",
+      "hint": "Hats are the harder ch",
+      "answer": "č"
     },
     {
       "id": "pr5",
-      "prompt": "Name Sarajevo’s old bazaar.",
-      "hint": "Has š and č. Include the special letters",
-      "answer": "Baščaršija"
+      "prompt": "Type the coffee-pot word. It starts with dž.",
+      "hint": "One letter, even though it looks like two",
+      "answer": "džezva"
     },
     {
       "id": "pr6",
-      "prompt": "Type goodbye in Bosnian (needs đ).",
-      "hint": "doviđenja. Needs đ",
-      "answer": "doviđenja"
+      "prompt": "Does žena start with z or ž?",
+      "hint": "Like s in measure",
+      "answer": "ž"
     },
     {
       "id": "pr7",
-      "prompt": "How many letters are in the Latin Bosnian alphabet?",
-      "hint": "Includes Dž, Lj, Nj as single letters",
-      "answer": "30"
+      "prompt": "Type goodbye in Bosnian. It needs a tail letter.",
+      "hint": "doviđenja",
+      "answer": "doviđenja"
+    },
+    {
+      "id": "pr8",
+      "prompt": "Name Sarajevo’s old bazaar. Keep š and č.",
+      "hint": "The old market district",
+      "answer": "Baščaršija"
     }
   ],
   "funFacts": [
@@ -477,7 +495,7 @@
     },
     {
       "title": "One letter, one sound",
-      "body": "Bosnian spelling is mostly phonetic, which helps beginners a lot. What you see is usually what you say once the special letters click. Letters like č, ć, š, ž, and đ each carry one clear sound. That predictability is why Lesson 1 spends real time on the alphabet before long conversations."
+      "body": "Bosnian spelling is mostly phonetic, which helps beginners a lot. What you see is usually what you say once the special letters click. Hard sounds wear a hat (č, š, ž). Soft sounds wear a tail (ć, đ). Dž, lj, and nj count as one letter each. That predictability is why Lesson 1 drills the alphabet before long conversations."
     },
     {
       "title": "Cats of the čaršija",
@@ -614,7 +632,20 @@
           "a vs e"
         ],
         "correctIndex": 1,
-        "explanation": "Č is harder. Ć is softer. A classic beginner pair.",
+        "explanation": "Č is harder. Ć is softer. Hats mark the harder ch. Tails mark the softer one.",
+        "skill": "grammar"
+      },
+      {
+        "id": "q10",
+        "question": "Which letters wear a little hat?",
+        "options": [
+          "ć and đ",
+          "č, š, and ž",
+          "dž, lj, and nj only",
+          "a, e, and i"
+        ],
+        "correctIndex": 1,
+        "explanation": "Hard sounds wear a hat. Those letters are č, š, and ž. Soft sounds wear a tail (ć, đ).",
         "skill": "grammar"
       }
     ]
