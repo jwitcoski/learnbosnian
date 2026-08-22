@@ -145,6 +145,62 @@ export const Section = styled.section`
   }
 `;
 
+export const BookGrid = styled.div`
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.25rem;
+  margin: 1.5rem 0 0.75rem;
+
+  @media (max-width: 700px) {
+    grid-template-columns: 1fr;
+  }
+
+  a,
+  .soon {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    border-top: 4px solid var(--color-crimson);
+    padding: 0.85rem 0 0.35rem;
+  }
+
+  .soon {
+    border-top-color: var(--color-sage);
+    opacity: 0.88;
+  }
+
+  .kicker {
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--color-crimson);
+    margin-bottom: 0.25rem;
+  }
+
+  .soon .kicker {
+    color: var(--color-muted);
+  }
+
+  a:hover h3 {
+    color: var(--color-crimson);
+  }
+
+  h3 {
+    font-family: var(--font-display);
+    color: var(--color-brown);
+    font-size: 1.35rem;
+    margin: 0 0 0.4rem;
+  }
+
+  p {
+    margin: 0;
+    color: var(--color-text);
+    font-size: 1.02rem;
+    line-height: 1.5;
+  }
+`;
+
 export const Pillars = styled.div`
   display: grid;
   grid-template-columns: repeat(3, 1fr);

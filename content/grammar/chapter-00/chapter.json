@@ -69,7 +69,7 @@
       "example": "To je kuća."
     }
   ],
-  "speakTargets": ["kahva", "most"],
+  "speakTargets": [0, 1],
   "look": {
     "heading": "Look at these",
     "items": [

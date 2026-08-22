@@ -48,7 +48,8 @@ export type GrammarChapter = {
   trick?: GrammarSlot;
   nerd: GrammarSlot;
   vocabulary?: VocabEntry[];
-  speakTargets?: string[];
+  /** 0-based indexes into look.items for Speak Check. Default: first few spoken lines. */
+  speakTargets?: number[];
   look?: {
     heading: string;
     items: GrammarLookItem[];

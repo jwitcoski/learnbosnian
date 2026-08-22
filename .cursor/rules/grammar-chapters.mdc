@@ -1,0 +1,19 @@
+---
+description: Locks for How to Speak Bosnian grammar handbook chapters
+globs: content/grammar/**,frontend/src/data/grammar/**,frontend/src/components/grammar/**
+alwaysApply: false
+---
+
+# Grammar chapters
+
+Authoring source of truth: `content/grammar/GRAMMAR_AUTHORING_GUIDE.md`. Exemplar: Chapter 1.
+
+When drafting or editing a grammar chapter:
+
+- One system per chapter. English contrast first. Piles (he / she / leftover) and last letter before school labels.
+- Every teaching block is thesis, two or three full support sentences, then a close. No phrase fragments as sentences.
+- Every Bosnian line has a speaker (Ana, Emir, Amira) on `knownLine` and `look.items`.
+- `speakTargets` are 0-based indexes into `look.items` (two or three lines). Record yourself sits on that dialogue card. Not on vocab cards. Not AWS jargon in learner copy.
+- Vocab is 4–6 tap-to-hear words only.
+- Photos: `G.Na` refs, complete-sentence caption, credit links to `/attributions`.
+- Parallel handbook. Not Book 2. No civic, cat plot, Lesson A/B, authentic listen, or Cyrillic.

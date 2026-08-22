@@ -10,6 +10,20 @@ This book is a notebook. Book 1 is the walk through town. One weird English habi
 
 About 40 minutes. Keep the same words. Kahva. Most. Kuća. Ana. Emir. Pivo. Sarajevo. Auto. More. Do not invent a new grocery list every chapter.
 
+**Audience.** Everyday English speakers. Write for a tired spouse who does not study this. Not for classroom linguists. The nerd box is the one treat for people who like the history.
+
+## Locks (do not skip)
+
+These are the chapter rules. Follow them without being asked again.
+
+- **One system per chapter.** Gender is not case. Case is not aspect. Name the pile in English first (he, she, leftover). Then the last-letter cheat sheet. Then the Bosnian or school word once, glossed. Do not open with feminine / masculine / neuter.
+- **Thesis, then two or three full support sentences, then a close.** Every teaching block. Why you are here, English lies, known line, pattern, pests, trick, nerd, next, and image captions. No phrase fragments punctuated as sentences.
+- **Every Bosnian line has a speaker.** Ana, Emir, or Amira on `knownLine` and on every `look.items` line. The site plays that line like Book 1 dialogue.
+- **Record yourself lives on the dialogue, not the word cards.** `speakTargets` is two or three 0-based indexes into `look.items`. The button sits on that same spoken line. Do not duplicate the Bosnian under the card. Do not put Speak Check on `vocabulary`. Do not put it on every line. Do not mention AWS or Transcribe in learner copy.
+- **Sample words are tap-to-hear only.** Four to six cards. Not a 15-word dump.
+- **Photos teach the grammar and use Grammar refs.** `G.0a`, `G.1b`. Caption is one complete sentence. Credit line with the ref links to `/attributions`. Full license stays on that page. Reuse a Book 1 photo when it is already that object.
+- **Parallel handbook.** Not Book 2. No civic notes. No cat plot. No Lesson A and Lesson B. No culture postcard. No authentic listen. Latin script only.
+
 ## Voice
 
 Write like you are explaining coffee to a tired spouse. If a sentence could sit on a startup landing page, cut it.
@@ -21,6 +35,7 @@ Write like you are explaining coffee to a tired spouse. If a sentence could sit 
 - Robust, leverage, framework, mental model, the machine, the wall
 - Stacked “Do not X. Do not Y. Do not Z.”
 - Three parallel slogans in a row
+- Phrase fragments punctuated as sentences. Bad. “Open the dictionary form. The boring form. The one in the vocab list.”
 - Em dashes. Colon dumps. Semicolons
 - Colons inside learner-facing sentences
 - “English speakers often struggle with…”
@@ -28,17 +43,25 @@ Write like you are explaining coffee to a tired spouse. If a sentence could sit 
 
 **Do this instead**
 
-- Talk. Short sentences. One idea each.
-- Name a real thing. Coffee. A bridge. Tata.
-- One joke, maybe. Then stop.
-- Gloss the Bosnian word once, in the sentence. Rod means gender. Then move.
-- If Book 1 already used the word, say so in one line.
-- Tables are allowed. Keep them small. Three piles. Not seven cases.
-- If an English speaker has to ask how they know, the last letter is the answer.
+Every teaching block uses the same shape as Book 1 civic notes and fun facts.
+
+1. **Thesis.** One first sentence that states the point.
+2. **Support.** Two or three complete sentences with a real thing in them. Coffee. A bridge. Tata.
+3. **Summary.** One closing sentence that lands the idea.
+
+Name a Bosnian word inside a sentence and gloss it there. Rod means gender. Then move. If Book 1 already used the word, say so in a full sentence. Tables are allowed. Keep them small.
+
+## Spoken lines and sample words
+
+Every Bosnian line on the page needs a speaker from the Book 1 cast. Ana. Emir. Amira. Put `speaker` on `knownLine` and on every `look.items` line. The site plays the line like Book 1 dialogue.
+
+Keep a short `vocabulary` list. Four to six sample words is enough. Not a 15-word dump. Those cards get tap-to-hear only. No Record yourself on the cards.
+
+`speakTargets` is `[0, 1]` or `[0, 1, 2]` into `look.items`. That is the dialogue between characters. Record yourself sits on those same lines. Never a second copy of the Bosnian. Never AWS jargon on the page.
 
 ## The nerd box
 
-Every chapter gets **Why it's like this**. One short paragraph. A real linguistics fact, told like a person who read one good book. The husband can skip it. A linguist should grin.
+Every chapter gets **Why it's like this**. One short paragraph in the same thesis, support, summary shape. A real linguistics fact, told like a person who read one good book. The husband can skip it. A linguist should grin.
 
 - One fact. Not a history of Slavic.
 - Name the thing in English first. Then the fancy word once if you must. Gloss it.
@@ -54,24 +77,24 @@ Every chapter gets **Why it's like this**. One short paragraph. A real linguisti
 5. How you guess (then the pests)
 6. The bit that tricks you
 7. Why it's like this
-8. Look at these (8 to 12 short lines)
+8. Look at these (8 to 12 spoken lines, each with a speaker)
 9. Try these (8 to 10)
 10. Quick check (6 multiple choice)
-11. Next (one sentence)
+11. Next (a short thesis paragraph, not a slogan)
 
-Chapter 0 may drop guess, pests, and a full drill set. It still needs English lies, a Book 1 line, the nerd box, a few tries, and a check.
+Chapter 0 may drop a full drill set. It still needs English lies, a Book 1 line with a speaker, the nerd box, a few tries, and a check.
 
 **Never put in a grammar chapter.** Civic notes. Authentic listen. Cat-and-bazaar fun facts. Culture postcard. A 15-word vocab list. Say again. Lesson A and Lesson B.
 
 ## Images
 
-Three pictures per chapter. Same polygon-paint treatment as Book 1. Credit the photographer. Reuse a Book 1 photo when it is already that object.
+Three pictures per chapter. Same polygon-paint treatment as Book 1. Credit the photographer with the same ref codes the site already uses. Grammar photos are `G.0a`, `G.1b`, and so on, and they link to `/attributions`. Reuse a Book 1 photo when it is already that object, and still give it a Grammar ref.
 
 1. Hero. The chapter’s main object.
 2. After the pattern.
 3. After the nerd box, before the drills.
 
-The picture has to teach the grammar. Caption is one grammar line, then the place credit. If you can swap the photo into another chapter and the caption still works, pick a different photo.
+The picture has to teach the grammar. Caption is one complete sentence, then the Book 1-style credit line. If you can swap the photo into another chapter and the caption still works, pick a different photo.
 
 No civic buildings. No pink and blue gender clipart. No whiteboard stock.
 
@@ -79,4 +102,4 @@ Until a new file exists, reuse a Book 1 `localPath` and keep the original author
 
 ## JSON fields
 
-See Chapter 1. Required on a normal chapter: `chapter`, `kind`, `title`, `titleEn`, `theme`, `status`, `estimatedMinutes`, the slot objects, `quiz`, `next`, `images`, `imageSlots`.
+See Chapter 1. Required on a normal chapter: `chapter`, `kind`, `title`, `titleEn`, `theme`, `status`, `estimatedMinutes`, the slot objects, `vocabulary`, `speakTargets`, `quiz`, `next`, `images`, `imageSlots`.

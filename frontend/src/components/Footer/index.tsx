@@ -43,8 +43,8 @@ const Footer = () => {
             <Col lg={10} md={10} sm={12} xs={24}>
               <Language>How to Speak Bosnian</Language>
               <Para>
-                Book 1 is beginner Bosnian in Latin script. Culture, puzzles,
-                and a cat named Mrvica.
+                Book 1, Grammar, and later books live on the Learn page. Latin
+                script. A cat named Mrvica.
               </Para>
               <a href="mailto:info@howtospeakbosnian.com">
                 <Chat>Contact</Chat>

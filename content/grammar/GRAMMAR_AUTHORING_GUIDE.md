@@ -10,6 +10,20 @@ This book is a notebook. Book 1 is the walk through town. One weird English habi
 
 About 40 minutes. Keep the same words. Kahva. Most. Kuća. Ana. Emir. Pivo. Sarajevo. Auto. More. Do not invent a new grocery list every chapter.
 
+**Audience.** Everyday English speakers. Write for a tired spouse who does not study this. Not for classroom linguists. The nerd box is the one treat for people who like the history.
+
+## Locks (do not skip)
+
+These are the chapter rules. Follow them without being asked again.
+
+- **One system per chapter.** Gender is not case. Case is not aspect. Name the pile in English first (he, she, leftover). Then the last-letter cheat sheet. Then the Bosnian or school word once, glossed. Do not open with feminine / masculine / neuter.
+- **Thesis, then two or three full support sentences, then a close.** Every teaching block. Why you are here, English lies, known line, pattern, pests, trick, nerd, next, and image captions. No phrase fragments punctuated as sentences.
+- **Every Bosnian line has a speaker.** Ana, Emir, or Amira on `knownLine` and on every `look.items` line. The site plays that line like Book 1 dialogue.
+- **Record yourself lives on the dialogue, not the word cards.** `speakTargets` is two or three 0-based indexes into `look.items`. The button sits on that same spoken line. Do not duplicate the Bosnian under the card. Do not put Speak Check on `vocabulary`. Do not put it on every line. Do not mention AWS or Transcribe in learner copy.
+- **Sample words are tap-to-hear only.** Four to six cards. Not a 15-word dump.
+- **Photos teach the grammar and use Grammar refs.** `G.0a`, `G.1b`. Caption is one complete sentence. Credit line with the ref links to `/attributions`. Full license stays on that page. Reuse a Book 1 photo when it is already that object.
+- **Parallel handbook.** Not Book 2. No civic notes. No cat plot. No Lesson A and Lesson B. No culture postcard. No authentic listen. Latin script only.
+
 ## Voice
 
 Write like you are explaining coffee to a tired spouse. If a sentence could sit on a startup landing page, cut it.
@@ -41,9 +55,9 @@ Name a Bosnian word inside a sentence and gloss it there. Rod means gender. Then
 
 Every Bosnian line on the page needs a speaker from the Book 1 cast. Ana. Emir. Amira. Put `speaker` on `knownLine` and on every `look.items` line. The site plays the line like Book 1 dialogue.
 
-Keep a short `vocabulary` list. Four to six sample words is enough. Not a 15-word dump. Those cards get tap-to-hear.
+Keep a short `vocabulary` list. Four to six sample words is enough. Not a 15-word dump. Those cards get tap-to-hear only. No Record yourself on the cards.
 
-Put two or three of those words in `speakTargets` for Speak Check. AWS Transcribe scores the recording. Do not put Speak Check on every line.
+`speakTargets` is `[0, 1]` or `[0, 1, 2]` into `look.items`. That is the dialogue between characters. Record yourself sits on those same lines. Never a second copy of the Bosnian. Never AWS jargon on the page.
 
 ## The nerd box
 

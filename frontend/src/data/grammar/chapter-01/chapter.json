@@ -91,7 +91,7 @@
       "example": "To je auto."
     }
   ],
-  "speakTargets": ["kahva", "most", "pivo"],
+  "speakTargets": [0, 1, 2],
   "look": {
     "heading": "Look at these",
     "items": [

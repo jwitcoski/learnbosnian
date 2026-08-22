@@ -41,7 +41,20 @@ import {
   VocabGrid,
 } from "../lesson/styles";
 
-type Props = { chapter: GrammarChapter };
+function pickGrammarSpeakTargets(chapter: GrammarChapter): number[] {
+  const lines = chapter.look?.items || [];
+  const listed = (chapter.speakTargets || []).filter(
+    (i) => Number.isInteger(i) && i >= 0 && i < lines.length
+  );
+  if (listed.length) return listed.slice(0, 3);
+  const idxs: number[] = [];
+  for (let i = 0; i < lines.length && idxs.length < 3; i += 1) {
+    const sp = (lines[i].speaker || "").toLowerCase();
+    if (sp === "narrator" || sp === "mrvica") continue;
+    idxs.push(i);
+  }
+  return idxs;
+}
 
 function findImage(chapter: GrammarChapter, id?: string): GrammarImage | null {
   if (!id) return null;
@@ -269,6 +282,8 @@ function QuickCheck({ chapter }: { chapter: GrammarChapter }) {
   );
 }
 
+type Props = { chapter: GrammarChapter };
+
 export default function GrammarShell({ chapter }: Props) {
   const hero = findImage(chapter, chapter.imageSlots.hero);
   const afterPattern = findImage(chapter, chapter.imageSlots.afterPattern);
@@ -283,7 +298,10 @@ export default function GrammarShell({ chapter }: Props) {
     [chapter]
   );
   const vocab = chapter.vocabulary || [];
-  const speakWords = chapter.speakTargets || [];
+  const speakTargets = useMemo(
+    () => pickGrammarSpeakTargets(chapter),
+    [chapter]
+  );
   const attemptKey = `grammar-${chapter.chapter}`;
   const [attemptsUsed, setAttemptsUsed] = useState(() =>
     getSpeakAttempts(attemptKey)
@@ -402,8 +420,52 @@ export default function GrammarShell({ chapter }: Props) {
           <Panel id="words">
             <h2>Sample words</h2>
             <p style={{ color: "var(--color-muted)", marginTop: 0 }}>
-              Tap a word to hear it. A few of these also have Speak Check, which
-              uses AWS Transcribe to score what you said.
+              Tap a word to hear it.
+            </p>
+            <VocabGrid>
+              {vocab.map((v) => {
+                const clipId = grammarVocabClipId(chapter.chapter, v.bosnian);
+                const isPlaying = playingId === clipId;
+                const isMissing = Boolean(missing[clipId]);
+                return (
+                  <VocabCard
+                    key={v.bosnian}
+                    type="button"
+                    onClick={() => {
+                      if (!isMissing) playClip(clipId, { loop, rate });
+                    }}
+                    data-playing={isPlaying ? "true" : "false"}
+                    data-missing={isMissing ? "true" : "false"}
+                    aria-label={`Play pronunciation for ${v.bosnian}`}
+                  >
+                    <div className="bs">{v.bosnian}</div>
+                    <div className="en">{v.english}</div>
+                    {v.pronunciation ? (
+                      <div className="pron">{v.pronunciation}</div>
+                    ) : null}
+                    <div className="listen">
+                      {isPlaying
+                        ? "Playing…"
+                        : isMissing
+                        ? "Audio soon"
+                        : "Tap to hear"}
+                    </div>
+                  </VocabCard>
+                );
+              })}
+            </VocabGrid>
+          </Panel>
+        </>
+      ) : null}
+
+      {chapter.look?.items?.length ? (
+        <>
+          <SectionDivider />
+          <Panel>
+            <h2>{chapter.look.heading}</h2>
+            <p style={{ color: "var(--color-muted)", marginTop: 0 }}>
+              Each line has a speaker. Tap the line to hear it. On some lines
+              you can record yourself for a short Speak Check.
             </p>
             <div
               style={{
@@ -423,65 +485,6 @@ export default function GrammarShell({ chapter }: Props) {
                 Speed: {rate === 1 ? "1×" : "0.75×"}
               </PrimaryButton>
             </div>
-            <VocabGrid>
-              {vocab.map((v, i) => {
-                const clipId = grammarVocabClipId(chapter.chapter, v.bosnian);
-                const isPlaying = playingId === clipId;
-                const isMissing = Boolean(missing[clipId]);
-                const isSpeak = speakWords.includes(v.bosnian);
-                return (
-                  <div key={v.bosnian}>
-                    <VocabCard
-                      type="button"
-                      onClick={() => {
-                        if (!isMissing) playClip(clipId, { loop, rate });
-                      }}
-                      data-playing={isPlaying ? "true" : "false"}
-                      data-missing={isMissing ? "true" : "false"}
-                      aria-label={`Play pronunciation for ${v.bosnian}`}
-                    >
-                      <div className="bs">{v.bosnian}</div>
-                      <div className="en">{v.english}</div>
-                      {v.pronunciation ? (
-                        <div className="pron">{v.pronunciation}</div>
-                      ) : null}
-                      <div className="listen">
-                        {isPlaying
-                          ? "Playing…"
-                          : isMissing
-                          ? "Audio soon"
-                          : "Tap to hear"}
-                      </div>
-                    </VocabCard>
-                    {isSpeak ? (
-                      <SpeakPractice
-                        day={chapter.chapter}
-                        lineIndex={i}
-                        bosnian={v.bosnian}
-                        english={v.english}
-                        vocabulary={vocab.map((word) => word.bosnian)}
-                        attemptsLeft={attemptsLeft}
-                        onAiAttempt={() =>
-                          setAttemptsUsed(incrementSpeakAttempts(attemptKey))
-                        }
-                      />
-                    ) : null}
-                  </div>
-                );
-              })}
-            </VocabGrid>
-          </Panel>
-        </>
-      ) : null}
-
-      {chapter.look?.items?.length ? (
-        <>
-          <SectionDivider />
-          <Panel>
-            <h2>{chapter.look.heading}</h2>
-            <p style={{ color: "var(--color-muted)", marginTop: 0 }}>
-              Each line has a speaker. Tap the line to hear it.
-            </p>
             <Dialogue>
               {chapter.look.items.map((item, i) => {
                 const index = spokenLines.findIndex(
@@ -503,7 +506,21 @@ export default function GrammarShell({ chapter }: Props) {
                     playingId={playingId}
                     missing={missing}
                     onPlay={() => playSpoken(item.bosnian)}
-                  />
+                  >
+                    {speakTargets.includes(i) ? (
+                      <SpeakPractice
+                        day={chapter.chapter}
+                        lineIndex={i}
+                        bosnian={item.bosnian}
+                        english={item.english}
+                        vocabulary={vocab.map((word) => word.bosnian)}
+                        attemptsLeft={attemptsLeft}
+                        onAiAttempt={() =>
+                          setAttemptsUsed(incrementSpeakAttempts(attemptKey))
+                        }
+                      />
+                    ) : null}
+                  </SpokenLine>
                 );
               })}
             </Dialogue>
@@ -558,6 +575,7 @@ function SpokenLine({
   playingId,
   missing,
   onPlay,
+  children,
 }: {
   speaker: string;
   bosnian: string;
@@ -566,6 +584,7 @@ function SpokenLine({
   playingId: string | null;
   missing: Record<string, true>;
   onPlay: () => void;
+  children?: ReactNode;
 }) {
   const isPlaying = playingId === clipId;
   const isMissing = Boolean(missing[clipId]);
@@ -589,6 +608,7 @@ function SpokenLine({
           {isPlaying ? "Playing…" : isMissing ? "Audio soon" : "Tap to hear"}
         </div>
       </button>
+      {children}
     </Line>
   );
 }
