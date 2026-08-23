@@ -108,7 +108,6 @@ Parallel notebook, not Book 2. Title: *How to Speak Bosnian: Grammar*. Lives at 
 - [x] Lessons 11–15 full drafts (weather, park, people, review, directions)
 - [x] Lessons 16–20 full drafts (bus, restaurant, hobbies, holidays, phone)
 - [x] Lessons 21–30 full drafts (review through finale)
-- [x] Homepage series shelf adapted from ThreeUI Complete Shelf (Book 1 / Grammar / shelf volumes)
 
 ## Voice recording
 
