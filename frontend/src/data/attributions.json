@@ -1,9 +1,9 @@
 {
   "title": "Photo attributions",
-  "intro": "Every photo used on the site, in Book 1, and in the Grammar handbook, listed for citation. Use this when you credit images for print, Scribus export, or YouTube. Lesson images come from each lesson file; grammar images come from each grammar chapter; homepage photos are added by hand.",
-  "citationNote": "For Creative Commons works, credit the author, note the license, and link to the source page. For Pexels, credit the photographer and Pexels. Derivative treatments (polygon paint, background removal) still require attribution of the source photo.",
-  "generatedAt": "2026-08-21",
-  "total": 133,
+  "intro": "Every photo used on the site, in Book 1, and in the Grammar handbook, listed for citation. Use this when you credit images for print, Scribus export, or YouTube. Lesson images come from each lesson file; grammar images come from each grammar chapter; homepage photos and the interactive series shelf are listed here too.",
+  "citationNote": "For Creative Commons works, credit the author, note the license, and link to the source page. For Pexels, credit the photographer and Pexels. Derivative treatments (polygon paint, background removal) still require attribution of the source photo. The homepage shelf adapts ThreeUI Complete Shelf under MIT.",
+  "generatedAt": "2026-08-23",
+  "total": 134,
   "entries": [
     {
       "id": "book1-day-00-mostar-neretva",
@@ -2269,7 +2269,7 @@
       "id": "home-mostar",
       "title": "Stari Most, Mostar",
       "whereUsed": [
-        "Homepage hero (polygon paint treatment)"
+        "Homepage archive art (polygon paint treatment)"
       ],
       "author": "Hatice Baran",
       "source": "Pexels",
@@ -2278,6 +2278,21 @@
       "sourceUrl": "https://www.pexels.com/photo/view-of-the-stari-most-in-mostar-in-bosnia-and-herzegovina-18037876/",
       "localPath": "/images/home/mostar-bridge.png",
       "notes": "Polygon paint treatment of the source photo; background removed for the site."
+    },
+    {
+      "id": "home-complete-shelf",
+      "title": "ThreeUI Complete Shelf",
+      "whereUsed": [
+        "Homepage interactive series shelf"
+      ],
+      "author": "Meng To / Design+Code",
+      "source": "ThreeUI Community",
+      "license": "MIT",
+      "pageUrl": "https://github.com/MengTo/threeui",
+      "sourceUrl": "https://github.com/MengTo/threeui/blob/main/public/landing-pages/complete-shelf-v2.html",
+      "localPath": "/shelf/complete-shelf.html",
+      "credit": "Adapted from ThreeUI Complete Shelf (MIT)",
+      "notes": "Interactive Three.js shelf rebranded for How to Speak Bosnian volumes; procedural covers and series copy replace the original Working Volumes catalog."
     },
     {
       "id": "grammar-ch-00-kahva",
