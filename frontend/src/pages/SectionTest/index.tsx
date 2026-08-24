@@ -1,7 +1,10 @@
 import { Link, Redirect, useParams } from "react-router-dom";
-import { getSectionTest } from "../../data/loadAssessments";
+import {
+  canViewAssessments,
+  getSectionTest,
+} from "../../data/loadAssessments";
 import AssessmentQuiz from "../../components/lesson/AssessmentQuiz";
-import { LessonPage } from "../../components/lesson/styles";
+import { LessonPage, Banner } from "../../components/lesson/styles";
 
 const SectionTestPage = () => {
   const { n } = useParams<{ n: string }>();
@@ -10,6 +13,17 @@ const SectionTestPage = () => {
 
   if (!assessment || Number.isNaN(section)) {
     return <Redirect to="/learn/book/1" />;
+  }
+
+  if (!canViewAssessments()) {
+    return (
+      <LessonPage>
+        <Banner>Section tests are not public yet.</Banner>
+        <p>
+          <Link to="/learn/book/1">← Curriculum</Link>
+        </p>
+      </LessonPage>
+    );
   }
 
   return (

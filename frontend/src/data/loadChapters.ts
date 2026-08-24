@@ -1,6 +1,7 @@
 import outline from "../data/book1/outline.json";
 import chapters from "../data/book1/chapters";
 import type { BookOutline, Chapter, DictionaryEntry } from "../types/chapter";
+import { isReviewUnlocked } from "../hooks/useReviewUnlock";
 
 const chaptersByDay: Record<number, Chapter> = {};
 chapters.forEach((chapter) => {
@@ -21,9 +22,14 @@ export function isChapterOpen(chapter: Chapter): boolean {
   return chapter.status === "published";
 }
 
-/** Draft chapters are previewable so Night 1 exemplar can be reviewed on the site. */
+/**
+ * Public visitors: published only.
+ * Reviewers who unlocked via /review: published + draft.
+ */
 export function canViewChapter(chapter: Chapter): boolean {
-  return chapter.status === "published" || chapter.status === "draft";
+  if (chapter.status === "published") return true;
+  if (chapter.status === "draft" && isReviewUnlocked()) return true;
+  return false;
 }
 
 export function listOpenChapters(): Chapter[] {

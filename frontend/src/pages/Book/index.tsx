@@ -1,6 +1,10 @@
 import { Link, Redirect, useParams } from "react-router-dom";
 import { listChapters, book1Outline, canViewChapter } from "../../data/loadChapters";
-import { getFinalTest, getSectionTest } from "../../data/loadAssessments";
+import {
+  canViewAssessments,
+  getFinalTest,
+  getSectionTest,
+} from "../../data/loadAssessments";
 import {
   getProgress,
   isAssessmentPassed,
@@ -53,8 +57,12 @@ const Book = () => {
       </p>
       <p>
         <Link to="/dictionary">Dictionary</Link>
-        {" · "}
-        <Link to="/test/final">Final test</Link>
+        {canViewAssessments() && (
+          <>
+            {" · "}
+            <Link to="/test/final">Final test</Link>
+          </>
+        )}
         {" · "}
         <a
           href="https://www.youtube.com/@HowtospeakBosnian"
@@ -99,9 +107,13 @@ const Book = () => {
                         Lesson {c.day}
                         {done ? " · done" : open ? "" : " · soon"}
                       </div>
-                      <div className="title">{c.title}</div>
+                      <div className="title">
+                        {open ? c.title : "Coming soon"}
+                      </div>
                       <div className="theme">
-                        {open ? c.theme : `Lesson ${c.day} · coming soon`}
+                        {open
+                          ? c.theme
+                          : `Lesson ${c.day} unlocks after review`}
                       </div>
                     </>
                   );
@@ -124,7 +136,7 @@ const Book = () => {
                     </DayTile>
                   );
                 })}
-              {sectionTest && (
+              {sectionTest && canViewAssessments() && (
                 <DayTile
                   as={Link}
                   to={`/test/section/${sec.section}`}
@@ -152,7 +164,7 @@ const Book = () => {
         );
       })}
 
-      {finalTest && (
+      {finalTest && canViewAssessments() && (
         <section style={{ marginBottom: "2rem" }}>
           <h2>Book 1 final test</h2>
           <p style={{ color: "var(--color-muted)" }}>{finalTest.intro}</p>

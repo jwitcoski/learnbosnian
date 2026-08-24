@@ -5,6 +5,7 @@ import section2 from "./book1/assessments/section-2.json";
 import section3 from "./book1/assessments/section-3.json";
 import section4 from "./book1/assessments/section-4.json";
 import finalTest from "./book1/assessments/final.json";
+import { isReviewUnlocked } from "../hooks/useReviewUnlock";
 
 const byId: Record<string, Assessment> = {
   "section-1": section1 as Assessment,
@@ -13,6 +14,11 @@ const byId: Record<string, Assessment> = {
   "section-4": section4 as Assessment,
   final: finalTest as Assessment,
 };
+
+/** Section / final tests stay private until review unlock. */
+export function canViewAssessments(): boolean {
+  return isReviewUnlocked();
+}
 
 export function getAssessmentIndex(): AssessmentIndex {
   return assessmentIndex as AssessmentIndex;
