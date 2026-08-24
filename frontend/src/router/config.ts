@@ -45,11 +45,6 @@ const routes = [
     component: "FinalTest",
   },
   {
-    path: "/review",
-    exact: true,
-    component: "Review",
-  },
-  {
     path: "/dictionary",
     exact: true,
     component: "Dictionary",

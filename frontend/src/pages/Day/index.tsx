@@ -16,8 +16,12 @@ const DayPage = () => {
   if (!canViewChapter(chapter)) {
     return (
       <LessonPage>
-        <Banner>Lesson {chapter.day} is coming soon.</Banner>
-        <p>This chapter is not public yet.</p>
+        <Banner>
+          Lesson {chapter.day} (<strong>{chapter.title}</strong>) is not live
+          yet.
+        </Banner>
+        <p>{chapter.theme}</p>
+        <p>{chapter.storyBeat}</p>
         <Link to="/learn/book/1">← Back to curriculum</Link>
       </LessonPage>
     );

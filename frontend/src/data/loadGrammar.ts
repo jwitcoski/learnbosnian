@@ -1,7 +1,6 @@
 import outline from "./grammar/outline.json";
 import chapters from "./grammar/chapters";
 import type { GrammarChapter, GrammarOutline } from "../types/grammar";
-import { isReviewUnlocked } from "../hooks/useReviewUnlock";
 
 const byChapter: Record<number, GrammarChapter> = {};
 chapters.forEach((chapter) => {
@@ -21,7 +20,5 @@ export function getGrammarChapter(n: number): GrammarChapter | null {
 export function canViewGrammarChapter(
   chapter: GrammarChapter | GrammarOutline["chapters"][number]
 ): boolean {
-  if (chapter.status === "published") return true;
-  if (chapter.status === "draft" && isReviewUnlocked()) return true;
-  return false;
+  return chapter.status === "published" || chapter.status === "draft";
 }
