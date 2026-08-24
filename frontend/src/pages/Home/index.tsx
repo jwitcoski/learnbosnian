@@ -11,7 +11,6 @@ import {
   KilimBand,
   Section,
   BookGrid,
-  Pillars,
   Illustrate,
   SolidCta,
   YoutubeStrip,
@@ -54,11 +53,12 @@ const Home = () => {
         <div className="hero-copy">
           <h1 className="brand">How to Speak Bosnian</h1>
           <p className="lede">
-            Bosnian is the language of Bosnia and Herzegovina. This site is a
-            small series that teaches you to speak it, whether you already know
-            the country or you are meeting it through the words. Start Book 1
-            for lines you can say this week, or open the books to pick your
-            path.
+            Bosnian is the language of Bosnia and Herzegovina. People speak it
+            at home, in schools and cafés, and in families living far from the
+            country. You learn it because you are visiting, moving, marrying
+            in, reclaiming a family language, or you already care about this
+            place and want the real name for what you hear. This site teaches
+            that named language, not a vague mix of the region.
           </p>
           <div className="cta-row">
             <Cta type="button" onClick={() => history.push("/learn/book/1")}>
@@ -107,10 +107,10 @@ const Home = () => {
       <Section>
         <h2>The books</h2>
         <p className="support">
-          The Learn page holds the books. Book 1 and Grammar are open now.
-          Books 2 and 3 are named so you can see where the series is going. The
-          dictionary and YouTube sit in the header when you want a word or a
-          video.
+          The Learn page holds the books. Book 1 is the walk through town in
+          the present tense. Grammar is the notebook for endings. Books 2 and 3
+          pick up past stories and longer talk. The dictionary and YouTube sit
+          in the header when you want a word or a video.
         </p>
         <BookGrid>
           <Link to="/learn/book/1">
@@ -126,9 +126,11 @@ const Home = () => {
             <div className="kicker">Open now</div>
             <h3>Grammar</h3>
             <p>
-              {grammarOutline.title}. Why kahva becomes kahvu. Chapters 0 and 1
-              are up. Later chapters take cases, then verbs, then how a
-              sentence actually runs.
+              {grammarOutline.title}. English keeps coffee still in every job.
+              Bosnian changes kahva to kahvu when you want the drink, because
+              the work sits on the end of the word. This notebook covers
+              gender, cases, verbs, and how a sentence actually runs, with the
+              same small words you meet in Book 1.
             </p>
           </Link>
           <div className="soon">
@@ -151,38 +153,6 @@ const Home = () => {
       </Section>
 
       <KilimBand aria-hidden />
-
-      <Section>
-        <h2>What you do here</h2>
-        <p className="support">
-          A Book 1 lesson and a Grammar chapter both ask you to hear a line,
-          say it back, and check that it stuck. The dictionary keeps the words.
-          YouTube keeps the videos.
-        </p>
-        <Pillars>
-          <article>
-            <div className="label">Speak</div>
-            <p>
-              The same cast talks on the page. Tap a line to hear it. On some
-              lines you can record yourself for a short Speak Check.
-            </p>
-          </article>
-          <article>
-            <div className="label">Try</div>
-            <p>
-              Book 1 has games and a lesson quiz. Grammar has a few tries and a
-              quick check. Neither one is a wall of charts.
-            </p>
-          </article>
-          <article>
-            <div className="label">Look up</div>
-            <p>
-              The dictionary grows with the words you meet. Open it from the
-              header whenever you forget a line.
-            </p>
-          </article>
-        </Pillars>
-      </Section>
 
       <Illustrate>
         <div className="copy">

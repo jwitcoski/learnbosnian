@@ -201,35 +201,6 @@ export const BookGrid = styled.div`
   }
 `;
 
-export const Pillars = styled.div`
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1.5rem;
-
-  @media (max-width: 768px) {
-    grid-template-columns: 1fr;
-  }
-
-  article {
-    border-top: 4px solid var(--color-crimson);
-    padding-top: 0.85rem;
-  }
-
-  .label {
-    font-family: var(--font-display);
-    font-weight: 700;
-    color: var(--color-crimson);
-    font-size: 1.15rem;
-    margin-bottom: 0.35rem;
-  }
-
-  p {
-    margin: 0;
-    color: var(--color-text);
-    font-size: 1.05rem;
-  }
-`;
-
 export const Illustrate = styled.section<{ $flip?: boolean }>`
   display: grid;
   grid-template-columns: 1fr 1fr;
