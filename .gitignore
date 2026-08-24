@@ -105,5 +105,14 @@ temp/
 ehthumbs.db
 Thumbs.db
 
+# Large draft print PDF (hosted on S3 at /reviewbook/; too big for git)
+frontend/public/reviewbook/*.pdf
+
+# Print / KDP heavy artifacts (regenerate with npm run export:print-pdfs)
+exports/scribus/**/pdf/
+exports/scribus/**/_render/
+exports/scribus/**/_preview/
+exports/scribus/**/images/
+
 # Serverless Framework
 .serverless/ 

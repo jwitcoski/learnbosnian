@@ -227,7 +227,10 @@ jobs:
           CI=false npm run build
 
       - name: Deploy frontend to S3
-        run: aws s3 sync frontend/build/ "s3://${S3_BUCKET}" --delete
+        run: |
+          # Keep the large draft PDF under /reviewbook/ (uploaded separately; not in git)
+          aws s3 sync frontend/build/ "s3://${S3_BUCKET}" --delete \
+            --exclude "reviewbook/*"
 
       - name: Invalidate lesson CloudFront cache
         run: |
