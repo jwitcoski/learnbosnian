@@ -77,7 +77,7 @@
       "question": "Idi _____, pa lijevo.",
       "options": ["pravo", "račun", "hobi", "ko"],
       "correctIndex": 0,
-      "explanation": "Idi pravo, pa lijevo means go straight, then left."
+      "explanation": "Idi pravo, pa lijevo means go straight, then left.",
       "skill": "grammar",
       "remediationDay": 15
     },
