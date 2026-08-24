@@ -3,186 +3,177 @@
   "book": 1,
   "kind": "section",
   "section": 2,
-  "coversDays": [
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14
-  ],
+  "coversDays": [8, 9, 10, 11, 12, 13, 14],
   "title": "Section 2 test",
   "titleEn": "Section 2 test · Daily life",
-  "intro": "This test covers Lessons 8 to 14. Food, shopping, home, weather, invitations, and identity. Pass with 70% or higher.",
+  "intro": "Lessons 8 to 14. Three short parts: match words, fill a gap, then finish a conversation. Pass with 70% or higher.",
   "passPercent": 70,
+  "parts": [
+    {
+      "id": "match",
+      "title": "Part 1 · Match the words",
+      "intro": "Choose the English meaning."
+    },
+    {
+      "id": "gap",
+      "title": "Part 2 · Missing word",
+      "intro": "Complete the Bosnian sentence."
+    },
+    {
+      "id": "talk",
+      "title": "Part 3 · Conversation",
+      "intro": "Pick the line that fits the scene."
+    }
+  ],
   "questions": [
     {
       "id": "q1",
-      "question": "What does ljudi mean?",
-      "options": [
-        "People",
-        "Language",
-        "Country",
-        "Coffee"
-      ],
+      "part": "match",
+      "question": "burek",
+      "options": ["meat pie", "tea", "onion", "window"],
       "correctIndex": 0,
-      "explanation": "Ljudi means people.",
+      "explanation": "Burek is the meat-filled pastry Emir loves.",
+      "skill": "vocabulary",
+      "remediationDay": 8
+    },
+    {
+      "id": "q2",
+      "part": "match",
+      "question": "Koliko košta?",
+      "options": [
+        "Where is it?",
+        "How much does it cost?",
+        "What is the weather like?",
+        "Where are you from?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Koliko košta? is the price question at a shop or café.",
+      "skill": "vocabulary",
+      "remediationDay": 9
+    },
+    {
+      "id": "q3",
+      "part": "match",
+      "question": "imam",
+      "options": ["I want", "I have", "I go", "I like"],
+      "correctIndex": 1,
+      "explanation": "Imam means I have. Želim means I want.",
+      "skill": "vocabulary",
+      "remediationDay": 10
+    },
+    {
+      "id": "q4",
+      "part": "match",
+      "question": "Odakle si?",
+      "options": [
+        "What language do you speak?",
+        "Do you want coffee?",
+        "Where are you from?",
+        "Shall we go?"
+      ],
+      "correctIndex": 2,
+      "explanation": "Odakle si? asks where someone is from.",
       "skill": "vocabulary",
       "remediationDay": 13
     },
     {
-      "id": "q2",
-      "question": "Which phrase suggests going together?",
-      "options": [
-        "Hajde da idemo.",
-        "Ja sam iz parka.",
-        "Govorim polako.",
-        "Imam povodac."
-      ],
-      "correctIndex": 0,
-      "explanation": "Hajde da idemo suggests that the group should go.",
-      "skill": "grammar",
-      "remediationDay": 14
-    },
-    {
-      "id": "q3",
-      "question": "What made the 2014 floods especially destructive?",
-      "options": [
-        "A winter inversion",
-        "A cable car failure",
-        "A dry summer",
-        "Extreme rain and swollen rivers"
-      ],
-      "correctIndex": 3,
-      "explanation": "Extreme rain and swollen rivers drove the destructive 2014 floods.",
-      "skill": "culture",
-      "remediationDay": 12
-    },
-    {
-      "id": "q4",
-      "question": "Emir says burek is…",
-      "options": [
-        "sa sirom",
-        "s mesom",
-        "sa voćem",
-        "sa čajem"
-      ],
-      "correctIndex": 1,
-      "explanation": "Burek is with meat.",
-      "skill": "dialogue",
-      "remediationDay": 8
-    },
-    {
       "id": "q5",
-      "question": "In Dino Merlin’s Burek, food names show up as…",
-      "options": [
-        "Airport codes only",
-        "Proud everyday Bosnian kitchen words",
-        "Silent captions only",
-        "English menus only"
-      ],
-      "correctIndex": 1,
-      "explanation": "Listen for food vocabulary riding a pop hook.",
-      "skill": "listening",
+      "part": "gap",
+      "question": "Ne _____ luk.",
+      "options": ["volim", "imam", "košta", "idemo"],
+      "correctIndex": 0,
+      "explanation": "Ne volim means I do not like. Ne volim luk is I do not like onion.",
+      "skill": "grammar",
       "remediationDay": 8
     },
     {
       "id": "q6",
-      "question": "What does Ne volim luk mean?",
-      "options": [
-        "I love onion.",
-        "I do not like onion.",
-        "Onion is bread.",
-        "Bring yogurt."
-      ],
+      "part": "gap",
+      "question": "_____ krevet.",
+      "options": ["Želim li", "Imam", "Oblačno", "Odakle"],
       "correctIndex": 1,
-      "explanation": "Ne volim = I do not like.",
-      "skill": "vocabulary",
-      "remediationDay": 8
-    },
-    {
-      "id": "q7",
-      "question": "Imam krevet means…",
-      "options": [
-        "I want a bed.",
-        "I have a bed.",
-        "The bed is big.",
-        "Open the door."
-      ],
-      "correctIndex": 1,
-      "explanation": "Imam = I have.",
+      "explanation": "Imam krevet means I have a bed.",
       "skill": "grammar",
       "remediationDay": 10
     },
     {
-      "id": "q8",
-      "question": "Livno is famous in this lesson’s postcard for…",
-      "options": [
-        "A sea bridge",
-        "Highland cheese country",
-        "Only coffee cups",
-        "Airport gates"
-      ],
+      "id": "q7",
+      "part": "gap",
+      "question": "_____ je vrijeme?",
+      "options": ["Koliko", "Kakvo", "Odakle", "Ko"],
       "correctIndex": 1,
-      "explanation": "Livanjski sir and highland pastures widen the food map.",
-      "skill": "culture",
-      "remediationDay": 8
-    },
-    {
-      "id": "q9",
-      "question": "What ruined Ana and Emir's picnic?",
-      "options": [
-        "Rain reached the blanket.",
-        "Snow blocked the cable car.",
-        "Heat melted the food.",
-        "Wind took the postcard."
-      ],
-      "correctIndex": 0,
-      "explanation": "Rain reaches the blanket and ruins the picnic.",
-      "skill": "dialogue",
+      "explanation": "Kakvo je vrijeme? asks what the weather is like.",
+      "skill": "grammar",
       "remediationDay": 11
     },
     {
-      "id": "q10",
-      "question": "In the shopping listen clip, you mainly train…",
+      "id": "q8",
+      "part": "gap",
+      "question": "Hajde da _____.",
+      "options": ["idemo", "košta", "vrijeme", "ljudi"],
+      "correctIndex": 0,
+      "explanation": "Hajde da idemo is a friendly let's go.",
+      "skill": "grammar",
+      "remediationDay": 12
+    },
+    {
+      "id": "q9",
+      "part": "talk",
+      "question": "Amira: Burek ili sirnica? Emir: _____.",
       "options": [
-        "Silent reading only",
-        "Hearing price and want phrases in real teaching speech",
-        "Swimming verbs",
-        "Past tense only"
+        "Burek, molim. S mesom.",
+        "Pada kiša u krevetu.",
+        "Odakle si, luk?",
+        "Imam park."
+      ],
+      "correctIndex": 0,
+      "explanation": "Emir orders burek with meat. S mesom means with meat.",
+      "skill": "dialogue",
+      "remediationDay": 8
+    },
+    {
+      "id": "q10",
+      "part": "talk",
+      "question": "Seller: Izvoli. Ana: _____.",
+      "options": [
+        "Oblačno je majka.",
+        "Koliko košta?",
+        "Govorim krevet.",
+        "Hajde da kiša."
       ],
       "correctIndex": 1,
-      "explanation": "Čuj Bosnu here targets shop phrases.",
-      "skill": "listening",
+      "explanation": "At the counter you ask Koliko košta? before you pay.",
+      "skill": "dialogue",
       "remediationDay": 9
     },
     {
       "id": "q11",
-      "question": "Which phrase asks the price?",
+      "part": "talk",
+      "question": "Ana: Kakvo je vrijeme? Emir: _____. Idemo kući.",
       "options": [
-        "Dobar tek.",
-        "Koliko košta?",
-        "Kakvo je vrijeme?",
-        "Odakle si?"
+        "Pada kiša.",
+        "Imam burek.",
+        "Odakle si?",
+        "Želim krevet."
       ],
-      "correctIndex": 1,
-      "explanation": "Koliko košta? asks how much something costs.",
-      "skill": "vocabulary",
-      "remediationDay": 14
+      "correctIndex": 0,
+      "explanation": "Pada kiša means it is raining. That is why they head home.",
+      "skill": "dialogue",
+      "remediationDay": 11
     },
     {
       "id": "q12",
-      "question": "Which question asks where someone is from?",
+      "part": "talk",
+      "question": "New friend: Odakle si? Ana: _____.",
       "options": [
-        "Ko govori?",
-        "Govoriš li?",
-        "Odakle si?",
-        "Koji jezik?"
+        "Ne volim vrijeme.",
+        "Koliko košta park?",
+        "Ja sam iz Amerike.",
+        "Hajde da burek."
       ],
       "correctIndex": 2,
-      "explanation": "Odakle si? asks where someone is from.",
-      "skill": "grammar",
+      "explanation": "Odakle si? wants an origin. Ja sam iz Amerike answers it.",
+      "skill": "dialogue",
       "remediationDay": 13
     }
   ]

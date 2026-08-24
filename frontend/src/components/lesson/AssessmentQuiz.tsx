@@ -67,10 +67,29 @@ export default function AssessmentQuiz({ assessment }: Props) {
         const hasAnswer = selected !== undefined;
         const isCorrect = hasAnswer && selected === q.correctIndex;
         const showFeedback = Boolean(result);
+        const partMeta = assessment.parts?.find((p) => p.id === q.part);
+        const prevPart = qi > 0 ? questions[qi - 1].part : undefined;
+        const showPartHeader = Boolean(q.part && q.part !== prevPart);
 
         return (
+          <div key={q.id}>
+            {showPartHeader && partMeta ? (
+              <div style={{ margin: "1.75rem 0 0.85rem" }}>
+                <h4 style={{ margin: "0 0 0.35rem" }}>{partMeta.title}</h4>
+                {partMeta.intro ? (
+                  <p
+                    style={{
+                      color: "var(--color-muted)",
+                      margin: 0,
+                      fontSize: "0.95rem",
+                    }}
+                  >
+                    {partMeta.intro}
+                  </p>
+                ) : null}
+              </div>
+            ) : null}
           <div
-            key={q.id}
             style={{
               marginBottom: "1.25rem",
               padding: showFeedback ? "0.85rem 1rem" : undefined,
@@ -160,6 +179,7 @@ export default function AssessmentQuiz({ assessment }: Props) {
                 {q.explanation}
               </p>
             )}
+          </div>
           </div>
         );
       })}

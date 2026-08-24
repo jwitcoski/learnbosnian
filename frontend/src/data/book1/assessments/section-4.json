@@ -3,101 +3,84 @@
   "book": 1,
   "kind": "section",
   "section": 4,
-  "coversDays": [
-    22,
-    23,
-    24,
-    25,
-    26,
-    27,
-    28,
-    29,
-    30
-  ],
+  "coversDays": [22, 23, 24, 25, 26, 27, 28, 29, 30],
   "title": "Section 4 test",
   "titleEn": "Section 4 test · Travel and longer stay",
-  "intro": "This test covers Lessons 22 to 30. Travnik, routines, nature, health, housing, work, Mostar, writing, and finale. Pass with 70% or higher.",
+  "intro": "Lessons 22 to 30. Three short parts: match words, fill a gap, then finish a conversation. Pass with 70% or higher.",
   "passPercent": 70,
+  "parts": [
+    {
+      "id": "match",
+      "title": "Part 1 · Match the words",
+      "intro": "Choose the English meaning."
+    },
+    {
+      "id": "gap",
+      "title": "Part 2 · Missing word",
+      "intro": "Complete the Bosnian sentence."
+    },
+    {
+      "id": "talk",
+      "title": "Part 3 · Conversation",
+      "intro": "Pick the line that fits the scene."
+    }
+  ],
   "questions": [
     {
       "id": "q1",
-      "question": "What does šetamo mean?",
-      "options": [
-        "we walk",
-        "I see",
-        "this is",
-        "goodbye"
-      ],
+      "part": "match",
+      "question": "šetamo",
+      "options": ["we walk", "I send", "you work", "it hurts"],
       "correctIndex": 0,
-      "explanation": "Šetamo means we walk.",
+      "explanation": "Šetamo means we walk. You hear it on a town stroll.",
       "skill": "vocabulary",
       "remediationDay": 22
     },
     {
       "id": "q2",
-      "question": "Which conjunction means but?",
-      "options": [
-        "i",
-        "ali",
-        "zato",
-        "molim"
-      ],
+      "part": "match",
+      "question": "radim",
+      "options": ["you work", "I work", "he walks", "we rent"],
       "correctIndex": 1,
-      "explanation": "Ali means but.",
-      "skill": "grammar",
-      "remediationDay": 29
-    },
-    {
-      "id": "q3",
-      "question": "What river flows under Stari Most?",
-      "options": [
-        "Neretva",
-        "Sava",
-        "Una",
-        "Drina"
-      ],
-      "correctIndex": 0,
-      "explanation": "The Neretva flows under Stari Most.",
-      "skill": "culture",
-      "remediationDay": 28
-    },
-    {
-      "id": "q4",
-      "question": "What does the seller do at the market?",
-      "options": [
-        "Sells fruit",
-        "Drives a bus",
-        "Treats patients",
-        "Skis on Jahorina"
-      ],
-      "correctIndex": 0,
-      "explanation": "The seller says he sells fruit at the market.",
-      "skill": "dialogue",
+      "explanation": "Radim means I work or I do.",
+      "skill": "vocabulary",
       "remediationDay": 23
     },
     {
-      "id": "q5",
-      "question": "What does šaljem mean?",
-      "options": [
-        "I send",
-        "I jump",
-        "I rent",
-        "I refuse"
-      ],
+      "id": "q3",
+      "part": "match",
+      "question": "apoteka",
+      "options": ["pharmacy", "mountain", "rent", "letter"],
       "correctIndex": 0,
-      "explanation": "Šaljem means I send.",
+      "explanation": "Apoteka is a pharmacy. You go there after the doctor.",
+      "skill": "vocabulary",
+      "remediationDay": 25
+    },
+    {
+      "id": "q4",
+      "part": "match",
+      "question": "šaljem",
+      "options": ["I jump", "I rent", "I send", "I refuse"],
+      "correctIndex": 2,
+      "explanation": "Šaljem means I send. Useful when you write a letter or a postcard.",
       "skill": "vocabulary",
       "remediationDay": 29
     },
     {
+      "id": "q5",
+      "part": "gap",
+      "question": "Šta _____?",
+      "options": ["radiš", "most", "kirija", "torta"],
+      "correctIndex": 0,
+      "explanation": "Šta radiš? asks what you are doing or what you do for work.",
+      "skill": "grammar",
+      "remediationDay": 23
+    },
+    {
       "id": "q6",
-      "question": "What does moraš platiti kiriju mean?",
-      "options": [
-        "You must pay the rent.",
-        "The rent is monthly.",
-        "The key is here.",
-        "Come in."
-      ],
+      "part": "gap",
+      "question": "Moraš platiti _____.",
+      "options": ["kiriju", "Neretvu", "planinu", "torta"],
       "correctIndex": 0,
       "explanation": "Moraš platiti kiriju means you must pay the rent.",
       "skill": "grammar",
@@ -105,87 +88,83 @@
     },
     {
       "id": "q7",
-      "question": "What civic gap does the lesson describe?",
-      "options": [
-        "Jahorina booms while Bjelašnica and Igman look neglected",
-        "All ski lifts closed forever",
-        "Una stopped flowing",
-        "Neretva became a desert"
-      ],
-      "correctIndex": 0,
-      "explanation": "Investment diverged between Jahorina and Federation Olympic sites.",
-      "skill": "culture",
-      "remediationDay": 24
+      "part": "gap",
+      "question": "Volim Mostar _____ učim bosanski.",
+      "options": ["ali", "i", "neću", "kod"],
+      "correctIndex": 1,
+      "explanation": "I links two facts. Ali would mean but.",
+      "skill": "grammar",
+      "remediationDay": 29
     },
     {
       "id": "q8",
-      "question": "Who asks what Ana and Emir see on the phone?",
-      "options": [
-        "Amira",
-        "Mrvica",
-        "A doctor",
-        "A bus clerk"
-      ],
+      "part": "gap",
+      "question": "Rijeka _____ je hladna.",
+      "options": ["Neretva", "apoteka", "kirija", "škola"],
       "correctIndex": 0,
-      "explanation": "Amira asks what they see during the call.",
-      "skill": "dialogue",
-      "remediationDay": 22
-    },
-    {
-      "id": "q9",
-      "question": "Which adjective means cold?",
-      "options": [
-        "hladan",
-        "visok",
-        "opasan",
-        "zelena"
-      ],
-      "correctIndex": 0,
-      "explanation": "Hladan means cold.",
-      "skill": "vocabulary",
+      "explanation": "The Neretva is the river under Stari Most in Mostar.",
+      "skill": "grammar",
       "remediationDay": 28
     },
     {
-      "id": "q10",
-      "question": "Which form means I work or I do?",
+      "id": "q9",
+      "part": "talk",
+      "question": "Emir: Šta radiš? Market seller: _____.",
       "options": [
-        "radim",
-        "radiš",
-        "radi",
-        "volim"
+        "Prodajem voće na pijaci.",
+        "Šaljem kiriju.",
+        "Idemo na doktor.",
+        "Torta je Neretva."
       ],
       "correctIndex": 0,
-      "explanation": "Radim means I work or I do.",
-      "skill": "grammar",
+      "explanation": "Šta radiš? about a job. Prodajem voće na pijaci means I sell fruit at the market.",
+      "skill": "dialogue",
       "remediationDay": 23
     },
     {
-      "id": "q11",
-      "question": "Which river is famous for green water in the northwest?",
+      "id": "q10",
+      "part": "talk",
+      "question": "Doctor: Šta je problem? Ana: _____.",
       "options": [
-        "Una",
-        "Neretva only in the sea",
-        "No rivers exist",
-        "Only the Adriatic"
+        "Boli me glava.",
+        "Šetamo kiriju.",
+        "Radim Stari Most.",
+        "Šaljem planinu."
       ],
       "correctIndex": 0,
-      "explanation": "Una is famous for green water in the northwest.",
-      "skill": "culture",
-      "remediationDay": 24
+      "explanation": "Boli me glava means my head hurts. That is a clinic complaint.",
+      "skill": "dialogue",
+      "remediationDay": 25
+    },
+    {
+      "id": "q11",
+      "part": "talk",
+      "question": "Landlord: Izvoli. Ovo je kuhinja. Ana: _____.",
+      "options": [
+        "Koliko je kirija?",
+        "Boli me Neretva.",
+        "Šetamo glavu.",
+        "Prodajem školu."
+      ],
+      "correctIndex": 0,
+      "explanation": "After a flat tour, Koliko je kirija? asks how much the rent is.",
+      "skill": "dialogue",
+      "remediationDay": 26
     },
     {
       "id": "q12",
-      "question": "Where does Emir work as a guide?",
+      "part": "talk",
+      "question": "Amira: Živjeli! Ana: _____.",
       "options": [
-        "Banja Luka",
-        "Neum only",
-        "Berlin",
-        "Dublin"
+        "Živjeli! Hvala na torti.",
+        "Boli me pijaca.",
+        "Moraš platiti Mostar.",
+        "Šaljem apoteku."
       ],
       "correctIndex": 0,
-      "explanation": "Emir guides in Banja Luka.",
+      "explanation": "Živjeli is a toast. You toast back, then thank her for the cake.",
       "skill": "dialogue",
-      "remediationDay": 27
+      "remediationDay": 30
     }
   ]
 }

@@ -3,186 +3,172 @@
   "book": 1,
   "kind": "section",
   "section": 3,
-  "coversDays": [
-    15,
-    16,
-    17,
-    18,
-    19,
-    20,
-    21
-  ],
+  "coversDays": [15, 16, 17, 18, 19, 20, 21],
   "title": "Section 3 test",
   "titleEn": "Section 3 test · Getting around",
-  "intro": "This test covers Lessons 15 to 21. Directions, bus, restaurant, hobbies, holidays, and phone. Pass with 70% or higher.",
+  "intro": "Lessons 15 to 21. Three short parts: match words, fill a gap, then finish a conversation. Pass with 70% or higher.",
   "passPercent": 70,
+  "parts": [
+    {
+      "id": "match",
+      "title": "Part 1 · Match the words",
+      "intro": "Choose the English meaning."
+    },
+    {
+      "id": "gap",
+      "title": "Part 2 · Missing word",
+      "intro": "Complete the Bosnian sentence."
+    },
+    {
+      "id": "talk",
+      "title": "Part 3 · Conversation",
+      "intro": "Pick the line that fits the scene."
+    }
+  ],
   "questions": [
     {
       "id": "q1",
-      "question": "What does Dobar tek mean?",
-      "options": [
-        "Where is the station?",
-        "Enjoy your meal!",
-        "I need a ticket.",
-        "Who is calling?"
-      ],
-      "correctIndex": 1,
-      "explanation": "Dobar tek means enjoy your meal.",
-      "skill": "vocabulary",
-      "remediationDay": 17
-    },
-    {
-      "id": "q2",
-      "question": "Which sentence means I play football?",
-      "options": [
-        "Gledam fudbal.",
-        "Igram fudbal.",
-        "Rijeka je hobi.",
-        "Ponekad je tim."
-      ],
-      "correctIndex": 1,
-      "explanation": "Igram fudbal means I play football.",
-      "skill": "grammar",
-      "remediationDay": 18
-    },
-    {
-      "id": "q3",
-      "question": "Which line asks for the bill?",
-      "options": [
-        "Račun, molim.",
-        "Treba mi karta.",
-        "Često zovem.",
-        "Imam plan."
-      ],
-      "correctIndex": 0,
-      "explanation": "Račun, molim asks for the bill.",
-      "skill": "dialogue",
-      "remediationDay": 21
-    },
-    {
-      "id": "q4",
-      "question": "Which town appears on the postcard?",
-      "options": [
-        "Visoko",
-        "Neum",
-        "Zenica",
-        "Brčko"
-      ],
-      "correctIndex": 0,
-      "explanation": "Visoko appears on the postcard.",
-      "skill": "culture",
-      "remediationDay": 17
-    },
-    {
-      "id": "q5",
-      "question": "Which line is a New Year wish?",
-      "options": [
-        "Sretna Nova godina!",
-        "Sretan Bajram!",
-        "Jednosmjerna karta.",
-        "Ko je tamo?"
-      ],
-      "correctIndex": 0,
-      "explanation": "Sretna Nova godina is the New Year wish.",
-      "skill": "listening",
-      "remediationDay": 19
-    },
-    {
-      "id": "q6",
-      "question": "Which phrase means behind?",
-      "options": [
-        "desna",
-        "blizu",
-        "ispred",
-        "iza"
-      ],
-      "correctIndex": 3,
-      "explanation": "Iza means behind.",
+      "part": "match",
+      "question": "pravo",
+      "options": ["behind", "near", "straight ahead", "left"],
+      "correctIndex": 2,
+      "explanation": "In directions, pravo means straight ahead.",
       "skill": "vocabulary",
       "remediationDay": 15
     },
     {
-      "id": "q7",
-      "question": "Which sentence flags urgency?",
+      "id": "q2",
+      "part": "match",
+      "question": "Dobar tek!",
       "options": [
-        "Hitno je!",
-        "Sretan Bajram!",
-        "Ponekad gledam.",
-        "Povratna karta."
+        "Enjoy your meal!",
+        "I need a ticket.",
+        "Who is calling?",
+        "Turn left."
       ],
       "correctIndex": 0,
-      "explanation": "Hitno je! flags urgency.",
-      "skill": "grammar",
-      "remediationDay": 20
+      "explanation": "Dobar tek is what you say when food arrives.",
+      "skill": "vocabulary",
+      "remediationDay": 17
     },
     {
-      "id": "q8",
-      "question": "What coast town do Ana and Emir dream about?",
-      "options": [
-        "Neum",
-        "Brčko",
-        "Zenica",
-        "Livno"
-      ],
-      "correctIndex": 0,
-      "explanation": "They dream about Neum on the Adriatic coast.",
-      "skill": "dialogue",
-      "remediationDay": 16
-    },
-    {
-      "id": "q9",
-      "question": "Which street hosts the holiday walk in this lesson?",
-      "options": [
-        "Ferhadija",
-        "Only a highway shoulder",
-        "Only an airport runway",
-        "Only a ski slope"
-      ],
-      "correctIndex": 0,
-      "explanation": "Ferhadija hosts the holiday walk.",
-      "skill": "culture",
-      "remediationDay": 19
-    },
-    {
-      "id": "q10",
-      "question": "Which line names a walking hobby?",
-      "options": [
-        "Moj hobi je šetnja.",
-        "Račun, molim.",
-        "Jednosmjerna karta.",
-        "Ko je tamo?"
-      ],
-      "correctIndex": 0,
-      "explanation": "Moj hobi je šetnja names walking as a hobby.",
-      "skill": "listening",
+      "id": "q3",
+      "part": "match",
+      "question": "igram",
+      "options": ["I watch", "I play", "I hear", "I order"],
+      "correctIndex": 1,
+      "explanation": "Igram means I play. Gledam means I watch.",
+      "skill": "vocabulary",
       "remediationDay": 18
     },
     {
-      "id": "q11",
-      "question": "What does čujem mean?",
-      "options": [
-        "I hear",
-        "I play",
-        "I order",
-        "I depart"
-      ],
-      "correctIndex": 0,
-      "explanation": "Čujem means I hear.",
+      "id": "q4",
+      "part": "match",
+      "question": "ko",
+      "options": ["what", "when", "who", "why"],
+      "correctIndex": 2,
+      "explanation": "Ko asks who. Šta asks what.",
       "skill": "vocabulary",
       "remediationDay": 20
     },
     {
-      "id": "q12",
-      "question": "Which word asks who?",
-      "options": [
-        "šta",
-        "kada",
-        "ko",
-        "zašto"
-      ],
-      "correctIndex": 2,
-      "explanation": "Ko asks who.",
+      "id": "q5",
+      "part": "gap",
+      "question": "Idi _____, pa lijevo.",
+      "options": ["pravo", "račun", "hobi", "ko"],
+      "correctIndex": 0,
+      "explanation": "Idi pravo, pa lijevo means go straight, then left."
       "skill": "grammar",
+      "remediationDay": 15
+    },
+    {
+      "id": "q6",
+      "part": "gap",
+      "question": "Treba mi _____.",
+      "options": ["karta", "Dobar tek", "fudbal", "Bajram"],
+      "correctIndex": 0,
+      "explanation": "Treba mi karta means I need a ticket.",
+      "skill": "grammar",
+      "remediationDay": 16
+    },
+    {
+      "id": "q7",
+      "part": "gap",
+      "question": "_____, molim.",
+      "options": ["Račun", "Igram", "Čujem", "Praznik"],
+      "correctIndex": 0,
+      "explanation": "Račun, molim asks for the bill at a restaurant.",
+      "skill": "grammar",
+      "remediationDay": 17
+    },
+    {
+      "id": "q8",
+      "part": "gap",
+      "question": "Moj hobi je _____.",
+      "options": ["šetnja", "karta", "račun", "poziv"],
+      "correctIndex": 0,
+      "explanation": "Moj hobi je šetnja names walking as a hobby.",
+      "skill": "grammar",
+      "remediationDay": 18
+    },
+    {
+      "id": "q9",
+      "part": "talk",
+      "question": "Ana: Gdje je most? Emir: _____.",
+      "options": [
+        "Idi pravo, pa lijevo.",
+        "Dobar tek, karta.",
+        "Igram račun.",
+        "Ko je šetnja?"
+      ],
+      "correctIndex": 0,
+      "explanation": "A where-question wants a direction. Idi pravo, pa lijevo is go straight, then left.",
+      "skill": "dialogue",
+      "remediationDay": 15
+    },
+    {
+      "id": "q10",
+      "part": "talk",
+      "question": "Clerk: Jednosmjerna ili povratna? Ana: _____.",
+      "options": [
+        "Sretna Nova godina!",
+        "Jednosmjerna karta, molim.",
+        "Igram fudbal.",
+        "Ko je tamo?"
+      ],
+      "correctIndex": 1,
+      "explanation": "The clerk asks one-way or return. Jednosmjerna karta, molim buys a one-way ticket.",
+      "skill": "dialogue",
+      "remediationDay": 16
+    },
+    {
+      "id": "q11",
+      "part": "talk",
+      "question": "Waiter: Izvoli. Emir: _____.",
+      "options": [
+        "Dobar tek!",
+        "Treba mi autobus.",
+        "Desna ili lijeva?",
+        "Hitno je praznik."
+      ],
+      "correctIndex": 0,
+      "explanation": "When the food arrives, Dobar tek! is the right toast.",
+      "skill": "dialogue",
+      "remediationDay": 17
+    },
+    {
+      "id": "q12",
+      "part": "talk",
+      "question": "Phone: Ko je tamo? Ana: _____.",
+      "options": [
+        "Račun, molim.",
+        "Ovdje Ana. Ćao, Emir!",
+        "Idi pravo na klepe.",
+        "Povratna karta je hobi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ko je tamo? asks who is calling. You answer with your name.",
+      "skill": "dialogue",
       "remediationDay": 20
     }
   ]

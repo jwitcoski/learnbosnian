@@ -94,7 +94,13 @@ Separate from per-lesson `sectionQuiz`. Canonical files live in `content/book1/a
 | Section 4 test | `section-4.json` | Lessons 22–30 | `/test/section/4` |
 | Book 1 final | `final.json` | Lessons 1–30 | `/test/final` |
 
-Each assessment needs `id`, `kind`, `coversDays`, `title`, `intro`, `passPercent`, and `questions` (with optional `remediationDay`). Review lessons link to the matching section test. Lesson 30 also links to the final.
+Each assessment needs `id`, `kind`, `coversDays`, `title`, `intro`, `passPercent`, `parts`, and `questions` (with `part` plus optional `remediationDay`). Do not harvest random items from lesson quizzes. Write a three-part language test:
+
+1. **Match the words** (4 items): Bosnian cue, four English glosses.
+2. **Missing word** (4 items): one blank in a present-tense chunk from this section.
+3. **Conversation** (4 items): a two-line scene; choose the line that fits.
+
+The Book 1 final uses the same three parts, with items drawn on purpose from all four sections. Review lessons link to the matching section test. Lesson 30 also links to the final.
 
 ### Lesson block writing rules
 
