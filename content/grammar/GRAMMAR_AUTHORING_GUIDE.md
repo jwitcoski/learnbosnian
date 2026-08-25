@@ -16,7 +16,7 @@ About 40 minutes. Keep the same words. Kahva. Most. Kuća. Ana. Emir. Pivo. Sara
 
 These are the chapter rules. Follow them without being asked again.
 
-- **One system per chapter.** Gender is not case. Case is not aspect. Name the pile in English first (he, she, leftover). Then the last-letter cheat sheet. Then the Bosnian or school word once, glossed. Do not open with feminine / masculine / neuter.
+- **One system per chapter.** Gender is not case. Case is not aspect. Name the pile in English first (he, she, leftover). Then the last-letter cheat sheet. Then the Bosnian or school word once, glossed. Do not open with feminine / masculine / neuter. Never imply kahvu is he. The u is a job mark on the same she-word.
 - **Thesis, then two or three full support sentences, then a close.** Every teaching block. Why you are here, English lies, known line, pattern, pests, trick, nerd, next, and image captions. No phrase fragments punctuated as sentences.
 - **Every Bosnian line has a speaker.** Ana, Emir, or Amira on `knownLine` and on every `look.items` line. The site plays that line like Book 1 dialogue.
 - **Record yourself lives on the dialogue, not the word cards.** `speakTargets` is two or three 0-based indexes into `look.items`. The button sits on that same spoken line. Do not duplicate the Bosnian under the card. Do not put Speak Check on `vocabulary`. Do not put it on every line. Do not mention AWS or Transcribe in learner copy.
@@ -61,12 +61,14 @@ Keep a short `vocabulary` list. Four to six sample words is enough. Not a 15-wor
 
 ## The nerd box
 
-Every chapter gets **Why it's like this**. One short paragraph in the same thesis, support, summary shape. A real linguistics fact, told like a person who read one good book. The husband can skip it. A linguist should grin.
+Every chapter gets **Why it's like this**. Same thesis, support, summary shape. A real linguistics fact, told like a person who read one good book. Write for someone who has not sat in an English class in twenty years. The husband can skip it. A linguist should still grin.
 
 - One fact. Not a history of Slavic.
 - Name the thing in English first. Then the fancy word once if you must. Gloss it.
+- If you mention Old English, say who spoke it, about when, and why the reader speaks a later English. Do not assume they know the name.
 - Tie it to today’s pattern.
 - No “Interestingly.” No “scholars note.” No “it is believed.”
+- No school labels without a plain-English job first. Do not dump noun, case, nominative, analytic, or synthetic on a tired reader.
 
 ## Chapter bits, in this order
 

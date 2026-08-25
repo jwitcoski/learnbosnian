@@ -18,14 +18,14 @@
   },
   "knownLine": {
     "heading": "A line you already say",
-    "body": "Book 1 already gave you Ana’s line Želim kahvu, which means I want coffee. The list word is kahva, and here the last letter has already moved. English would never do that, because I want coffee and this is coffee keep the same word. Bosnian changed the ending because the coffee is the thing Ana wants, not the name of the drink sitting on the table. That change belongs to the next chapter. Today you only need to know that kahva lives in the she pile, because she-pile words take she-pile endings later, and if you file coffee as English it you will pick the wrong ending forever.",
+    "body": "Book 1 already gave you Ana’s line Želim kahvu, which means I want coffee. Ignore the moved letter for one more chapter. The list word is kahva, and that last a is the pile stamp. Kahvu is still coffee in the she pile. Chapter 2 will explain the job that changed the ending. Today you only file kahva as she, because she-pile words take she-pile endings later.",
     "speaker": "Ana",
     "bosnian": "Želim kahvu.",
     "english": "I want coffee."
   },
   "pattern": {
     "heading": "The pattern",
-    "body": "You guess the pile from the last letter of the dictionary form, which is the boring form sitting in a vocab list. A word that ends in a usually belongs to the she pile, such as kahva, kuća, and ulica. A word that ends in a consonant usually belongs to the he pile, such as most, dan, and hljeb. A word that ends in o or e usually belongs to the leftover pile, such as pivo, more, and Sarajevo. People skip that cheat sheet because Emir is a man and Ana is a woman, so keep the sheet for coffee.",
+    "body": "You guess the pile from the last letter of the list word, which is the boring form sitting in a vocab list. A word that ends in a usually belongs to the she pile, such as kahva, kuća, and ulica. A word that ends in a consonant usually belongs to the he pile, such as most, dan, and hljeb. A word that ends in o or e usually belongs to the leftover pile, such as pivo, more, and Sarajevo. People skip that cheat sheet because Emir is a man and Ana is a woman, so keep the sheet for coffee.",
     "table": {
       "headers": ["Last letter", "Pile", "Examples"],
       "rows": [
@@ -41,11 +41,18 @@
   },
   "trick": {
     "heading": "The bit that tricks you",
-    "body": "The trap is to keep saying it in your head for the coffee, and then to copy English by never changing kahva. That copy is the fail, because kahva is she. Next chapter she becomes kahvu when Ana wants her. He-pile most will get a different change, leftover-pile pivo will get a different change again, and the wrong pile gives the wrong ending."
+    "body": "The trap is to hear kahvu and think the coffee switched piles to he. It did not. Kahva and kahvu are the same she. The a is the pile stamp on the list word. The u is a later job mark for the thing Ana wants. He-pile most will get a different mark in that same job, and leftover-pile pivo will get a different mark again. If you file coffee as he because you heard a u, you will pick the wrong ending forever.",
+    "table": {
+      "headers": ["Job", "Form", "Pile"],
+      "rows": [
+        ["This is coffee.", "kahva", "she (ona)"],
+        ["I want coffee.", "kahvu", "still she"]
+      ]
+    }
   },
   "nerd": {
     "heading": "Why it's like this",
-    "body": "English used to have the same three piles, back in Old English, when stone was a he. The endings wore down, and English switched to the plus word order. Bosnian kept the endings. Coffee is not a she because coffee is girly. Kahva ends in a, so it got stuffed into the old a club with kuća, and loanwords join by shape. That is why looking at the last letter actually works. Linguists call the piles noun class, and we can keep saying he, she, and leftover."
+    "body": "Old English is the English of England about a thousand years ago, not a grammar test. Those speakers filed things into three piles the way Bosnian still does. Stone sat in the he pile, sun sat in the she pile, and even wife sat in the leftover pile, which proves the pile was a filing club, not a vibe. That system wore off in English. You speak the later version. Bosnian kept the piles. Coffee is not a she because coffee is girly. Kahva ends in a, so it got stuffed into the old a club with kuća."
   },
   "vocabulary": [
     {
@@ -153,7 +160,7 @@
       {
         "speaker": "Ana",
         "bosnian": "Želim kahvu.",
-        "english": "I want coffee. This is the same she-word, and the ending already moved."
+        "english": "I want coffee. Same she-word. The u is a job mark, not a new pile."
       }
     ]
   },
@@ -225,14 +232,14 @@
       },
       {
         "id": "t10",
-        "prompt": "Why did kahva become kahvu in Želim kahvu?",
+        "prompt": "Ana says Želim kahvu. Did coffee switch to the he pile?",
         "options": [
-          "Coffee is girly",
-          "The job in the sentence changed",
-          "Bosnian spelling is random"
+          "Yes. The u means he.",
+          "No. It is still she. The job changed.",
+          "Yes. Wanting something makes it male."
         ],
         "correctIndex": 1,
-        "explanation": "Grammar is on the end. The wrong pile would get a different ending. Details belong in Chapter 2."
+        "explanation": "Kahvu is still she. The u marks the thing she wants. Chapter 2 is that job. The pile never flipped."
       }
     ]
   },
@@ -290,15 +297,15 @@
       },
       {
         "id": "q5",
-        "question": "Želim kahvu vs kahva. Same word. Why did the last letter move?",
+        "question": "Želim kahvu vs kahva. Same drink. What happened?",
         "options": [
-          "The job in the sentence changed. Grammar is on the end.",
+          "The job changed. Kahvu is still she.",
+          "Coffee switched to the he pile.",
           "Kahvu is a different drink.",
-          "Bosnian adds u for politeness.",
-          "The speaker was in a hurry."
+          "Bosnian adds u for politeness."
         ],
         "correctIndex": 0,
-        "explanation": "English would keep coffee. Bosnian moved the ending. Chapter 2 is subject vs the thing you want."
+        "explanation": "The pile stays she. Chapter 2 is subject versus the thing you want."
       },
       {
         "id": "q6",
@@ -315,7 +322,7 @@
     ]
   },
   "next": {
-    "body": "You now know the pile for coffee, the bridge, and beer. Chapter 2 is why Želim kahvu is not Želim kahva, which is the subject versus the thing you want. You still will not get a seven-case chart.",
+    "body": "You now know the pile for coffee, the bridge, and beer. Kahvu did not make coffee a he. Chapter 2 is why Želim kahvu is not Želim kahva, which is the subject versus the thing you want. You still will not get a seven-case chart.",
     "chapter": 2
   },
   "imageSlots": {

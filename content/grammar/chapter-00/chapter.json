@@ -10,11 +10,11 @@
   "estimatedMinutes": 20,
   "whyHere": {
     "heading": "Why you are here",
-    "body": "This chapter explains why Bosnian words keep changing their last letters when English words stay still. You may already know Ana’s Book 1 line Želim kahvu, which means I want coffee. That line is the same drink as kahva, with a different ending because the job in the sentence changed. When you close the laptop you should know where the work lives. English hides grammar in little words, and Bosnian hides it on the end of the noun."
+    "body": "This chapter explains why Bosnian words keep changing their last letters when English words stay still. You may already know Ana’s Book 1 line Želim kahvu, which means I want coffee. That line is the same drink as kahva, with a different ending because the job in the sentence changed. When you close the laptop you should know where the work lives. English hides the work in little words like the and to. Bosnian hides it on the end of words like coffee."
   },
   "englishLies": {
     "heading": "Why English lies",
-    "body": "English lies because it keeps the word coffee the same in every job. You can say this is coffee and I want coffee without touching a single letter. Bosnian does not allow that trick. The list word kahva becomes kahvu when Ana wants the drink, because the grammar sits on the end of the word instead of in little words like the and to."
+    "body": "English lies because it keeps the word coffee the same in every job. You can say this is coffee and I want coffee without touching a single letter. You already do a tiny version of the Bosnian trick with people. You say I when you do the thing, and me when the thing happens to you. Coffee in English does not bother. Bosnian coffee does, so the list word kahva becomes kahvu when Ana wants the drink."
   },
   "knownLine": {
     "heading": "A line you already say",
@@ -25,7 +25,7 @@
   },
   "pattern": {
     "heading": "The pattern",
-    "body": "A vocab list shows only one outfit for each noun, and that outfit is the dictionary form. Kahva, most, and kuća are the forms you will see in a list. Real sentences dress those words again when the job changes, so kahva can become kahvu. English never asked you to watch the end of coffee, and that is why the moving letter feels unfair until you expect it.",
+    "body": "A vocab list shows only one outfit for each thing-word. Kahva, most, and kuća are the forms you will see in a list. Real sentences dress those words again when the job changes, so kahva can become kahvu. English never asked you to watch the end of coffee, and that is why the moving letter feels unfair until you expect it.",
     "table": {
       "headers": ["English", "Bosnian"],
       "rows": [
@@ -40,11 +40,11 @@
   },
   "trick": {
     "heading": "What we skip",
-    "body": "This book skips the tourist walk on purpose so the notebook can stay on the endings. There are no civic notes and no cat plot here, because Book 1 already owns that walk through town. We will name a case when a chapter needs a handle, such as nominative or accusative, and we will say the Bosnian name once. Then we move on with the same small set of words."
+    "body": "This book skips the tourist walk on purpose so the notebook can stay on the endings. There are no civic notes and no cat plot here, because Book 1 already owns that walk through town. When a chapter needs a handle for a job, we name that job in plain English first, like naming the coffee versus wanting the coffee. Then we give the school word once and move on with the same small set of words."
   },
   "nerd": {
     "heading": "Why it's like this",
-    "body": "English used to hang grammar on the end of the noun too, back in Old English. Those endings wore off, and word order plus little words like the took the job. Bosnian never fired the endings. Linguists call English analytic now and Bosnian synthetic, but you only need the habit. English moved the work off the noun, and Bosnian left it on."
+    "body": "Old English is not a class you missed. It is the English people actually spoke in England about a thousand years ago. Farmers, priests, and kings around Winchester used it. You do not speak it because languages keep changing. Parents slur, kids copy the slur, and after enough centuries the extra endings fall off. A later mix with French in England sped that wearing-down up, so the English in your mouth is the later, simpler version that won.\n\nThat older English hung extra letters on the end of a thing-word to show the job, the same habit Bosnian still has. You can still see a scrap of it when you say I if you do the thing and me if the thing happens to you. Coffee lost those outfits, so this is coffee and I want coffee stay the same. Bosnian never fired the endings on kahva. English moved the work off the word. Bosnian left it on."
   },
   "vocabulary": [
     {
@@ -167,7 +167,7 @@
         "question": "What is kahva in a vocab list?",
         "options": [
           "The only form you will ever say",
-          "One outfit, the dictionary form",
+          "One outfit, the list form",
           "A greeting",
           "The past tense of coffee"
         ],
@@ -200,15 +200,15 @@
       },
       {
         "id": "q5",
-        "question": "English used to put grammar on the end too. What happened?",
+        "question": "Old English is the English of England about a thousand years ago. Why don’t you speak it?",
         "options": [
-          "Nothing. English still does.",
-          "The endings wore off. Word order and the took the job.",
-          "English borrowed Bosnian endings.",
+          "Schools banned it last century.",
+          "It slowly wore down into the English you speak now.",
+          "Bosnian replaced it.",
           "Coffee became a verb."
         ],
         "correctIndex": 1,
-        "explanation": "Bosnian kept the endings. That is the whole headache, and the whole system."
+        "explanation": "That older English put extra letters on thing-words. Yours mostly dropped them. Bosnian kept them."
       },
       {
         "id": "q6",
