@@ -2,7 +2,7 @@
 
 **Book title:** How to Speak Bosnian: Grammar  
 **Exemplar:** Chapter 1 (`content/grammar/chapter-01/chapter.json`)  
-**Shorter exception:** Chapter 0. Same voice. Fewer slots. It only answers why this feels hard.
+**Shorter exception:** Chapter 0. Same voice. It is the map of later systems. It is not a full grammar lesson and not a seven-job chart.
 
 Copy Chapter 1. Do not invent a new shape. Headings on the page sound like talk. Call them Chapter 1, Chapter 2. Not Lesson. Not Day.
 
@@ -84,7 +84,7 @@ Every chapter gets **Why it's like this**. Same thesis, support, summary shape. 
 10. Quick check (6 multiple choice)
 11. Next (a short thesis paragraph, not a slogan)
 
-Chapter 0 may drop a full drill set. It still needs English lies, a Book 1 line with a speaker, the nerd box, a few tries, and a check.
+Chapter 0 is the map. It still needs English lies, a Book 1 line with a speaker, the nerd box, a few tries, and a check. Do not dump piles, jobs, matching, and doing-words as working charts. Name them. Point to later chapters. Stop.
 
 **Never put in a grammar chapter.** Civic notes. Authentic listen. Cat-and-bazaar fun facts. Culture postcard. A 15-word vocab list. Say again. Lesson A and Lesson B.
 

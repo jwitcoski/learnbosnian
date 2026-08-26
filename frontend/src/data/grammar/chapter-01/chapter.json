@@ -3,18 +3,18 @@
   "kind": "grammar",
   "title": "Zašto je kahva ona?",
   "titleEn": "Why coffee is a she",
-  "theme": "Last letter. Three piles. Then the endings can be right.",
+  "theme": "Coffee is she because of the last letter, not because the drink is girly.",
   "status": "draft",
   "reviewedAt": null,
-  "reviewerNotes": "Exemplar chapter. Copy this shape. Prose uses thesis, support, summary. Spoken lines have cast speakers.",
-  "estimatedMinutes": 40,
+  "reviewerNotes": "Exemplar. Fatter why-she history. Still no job chart. Copy this shape.",
+  "estimatedMinutes": 45,
   "whyHere": {
     "heading": "Why you are here",
-    "body": "Today you learn how to file a new word into a pile before you change any endings. The piles are on for he, ona for she, and ono for the leftover pile. People follow the person, so Emir is on and Ana is ona without a spelling trick. Things follow the last letter, and that filing is the whole job for this chapter."
+    "body": "Today you learn why kahva lives in the she pile, and how to file the next word the same way. The piles are on for he, ona for she, and ono for the leftover pile. People follow the person, so Emir is on and Ana is ona without a spelling trick. Things follow the last letter of the list word. Filing is the whole job for this chapter. Later jobs will copy whatever pile you pick today, so a wrong pile today wrecks the endings tomorrow."
   },
   "englishLies": {
     "heading": "Why English lies",
-    "body": "English lies because it uses he and she for people and it for almost every thing. Your husband is he, your wife is she, and coffee, a bridge, and a city are all it. Bosnian still uses on, ona, and ono for people, and it uses those same words for things. Coffee landed in the she pile, a bridge landed in the he pile, and beer landed in the leftover pile. The Bosnian word for this is rod, which means gender, and you can forget the school label as long as you remember the piles."
+    "body": "English lies because it uses he and she for people and it for almost every thing. Your husband is he, your wife is she, and coffee, a bridge, and a city are all it. Bosnian still uses on, ona, and ono for people, and it uses those same words for things. Coffee landed in the she pile, a bridge landed in the he pile, and beer landed in the leftover pile. The drink did not become a woman. The last letter a stuffed kahva into an old club with kuća. The Bosnian word for this is rod, which means gender, and you can forget the school label as long as you remember the piles."
   },
   "knownLine": {
     "heading": "A line you already say",
@@ -25,7 +25,7 @@
   },
   "pattern": {
     "heading": "The pattern",
-    "body": "You guess the pile from the last letter of the list word, which is the boring form sitting in a vocab list. A word that ends in a usually belongs to the she pile, such as kahva, kuća, and ulica. A word that ends in a consonant usually belongs to the he pile, such as most, dan, and hljeb. A word that ends in o or e usually belongs to the leftover pile, such as pivo, more, and Sarajevo. People skip that cheat sheet because Emir is a man and Ana is a woman, so keep the sheet for coffee.",
+    "body": "You guess the pile from the last letter of the list word, which is the boring form sitting in a vocab list. A word that ends in a usually belongs to the she pile, such as kahva, kuća, and ulica, because those words joined an old a club. A word that ends in a consonant usually belongs to the he pile, such as most, dan, and hljeb. A word that ends in o or e usually belongs to the leftover pile, such as pivo, more, and Sarajevo. People skip that cheat sheet because Emir is a man and Ana is a woman. Keep the sheet for coffee, and remember the pile is a filing club, not a vibe.",
     "table": {
       "headers": ["Last letter", "Pile", "Examples"],
       "rows": [
@@ -37,7 +37,7 @@
   },
   "howYouGuess": {
     "heading": "The pests",
-    "body": "Two words refuse the cheat sheet, and you should memorize them today. Tata means dad and ends in a, but it is still he. Auto means car and ends in o, but it is still he. Do not argue with them. More pests will show up later, and these two are enough for this chapter."
+    "body": "Two words refuse the cheat sheet, and you should memorize them today because they prove the last letter is a guess, not a law. Tata means dad and ends in a, but it is still he, because dad is a man. Auto means car and ends in o, but it is still he, because this loanword joined the he club anyway. Do not argue with them. More pests will show up later, and these two are enough for this chapter."
   },
   "trick": {
     "heading": "The bit that tricks you",
@@ -52,7 +52,7 @@
   },
   "nerd": {
     "heading": "Why it's like this",
-    "body": "Old English is the English of England about a thousand years ago, not a grammar test. Those speakers filed things into three piles the way Bosnian still does. Stone sat in the he pile, sun sat in the she pile, and even wife sat in the leftover pile, which proves the pile was a filing club, not a vibe. That system wore off in English. You speak the later version. Bosnian kept the piles. Coffee is not a she because coffee is girly. Kahva ends in a, so it got stuffed into the old a club with kuća."
+    "body": "Old English is the English of England about a thousand years ago, not a class you missed. Farmers and priests around Winchester filed things into three piles the way Bosnian still does. Stone sat in the he pile even though a stone is not a man. Sun sat in the she pile. Wife sat in the leftover pile, which is the proof that the pile was a filing club, not a personality. That system wore off in English. You speak the later version. Bosnian kept the three piles.\n\nCoffee is she because kahva ends in a. That a is an old club stamp. Houses and streets already lived in the a club, so a drink whose list word ended in a joined them. The drink is not girly. The last letter did the filing. Later jobs will copy that pile, which is why getting the pile wrong today wrecks the endings tomorrow."
   },
   "vocabulary": [
     {
@@ -105,7 +105,7 @@
       {
         "speaker": "Amira",
         "bosnian": "To je kahva.",
-        "english": "That is coffee, and the last letter a puts it in the she pile."
+        "english": "That is coffee, and the last letter a puts it in the she pile, not because the drink is girly."
       },
       {
         "speaker": "Emir",
@@ -218,10 +218,14 @@
       },
       {
         "id": "t8",
-        "prompt": "Sarajevo",
-        "options": ["he (on)", "she (ona)", "leftover (ono)"],
-        "correctIndex": 2,
-        "explanation": "The last letter is o, so leftover pile. This one is not a pest."
+        "prompt": "Ana says Želim kahvu. Did coffee switch to the he pile?",
+        "options": [
+          "Yes. The u means he.",
+          "No. It is still she. The job changed.",
+          "Yes. Wanting something makes it male."
+        ],
+        "correctIndex": 1,
+        "explanation": "Kahvu is still she. The u marks the thing she wants. Chapter 2 is that job."
       },
       {
         "id": "t9",
@@ -232,14 +236,14 @@
       },
       {
         "id": "t10",
-        "prompt": "Ana says Želim kahvu. Did coffee switch to the he pile?",
+        "prompt": "Why is kahva a she?",
         "options": [
-          "Yes. The u means he.",
-          "No. It is still she. The job changed.",
-          "Yes. Wanting something makes it male."
+          "Because coffee is girly",
+          "Because the list word ends in a",
+          "Because Ana wants it"
         ],
         "correctIndex": 1,
-        "explanation": "Kahvu is still she. The u marks the thing she wants. Chapter 2 is that job. The pile never flipped."
+        "explanation": "The a club. Kahvu is a later job on the same she-word."
       }
     ]
   },
@@ -273,15 +277,15 @@
       },
       {
         "id": "q3",
-        "question": "Coffee is she. Why do we care today?",
+        "question": "Why is coffee a she?",
         "options": [
-          "So we can insult the coffee",
-          "Her endings later depend on the pile",
+          "Because coffee is girly",
+          "Because kahva ends in a, an old club stamp",
           "Because Ana drinks it",
-          "So we can skip Chapter 2"
+          "Because wanting it makes it female"
         ],
         "correctIndex": 1,
-        "explanation": "The wrong pile gives the wrong ending. Želim kahvu is a she-pile change."
+        "explanation": "Stone was a he in older English and wife was leftover. The pile is a club, not a vibe. Later jobs copy that pile."
       },
       {
         "id": "q4",
@@ -322,7 +326,7 @@
     ]
   },
   "next": {
-    "body": "You now know the pile for coffee, the bridge, and beer. Kahvu did not make coffee a he. Chapter 2 is why Želim kahvu is not Želim kahva, which is the subject versus the thing you want. You still will not get a seven-case chart.",
+    "body": "You now know why coffee, the bridge, and beer live in different piles, and that the pile is a filing club. Kahvu did not make coffee a he. Chapter 2 is why Želim kahvu is not Želim kahva, which is naming the coffee versus wanting it. You still will not get a seven-job chart.",
     "chapter": 2
   },
   "imageSlots": {
@@ -340,7 +344,7 @@
       "author": "İhsan Işık",
       "license": "CC BY 3.0",
       "credit": "Bosnian coffee set, Baščaršija",
-      "grammarCaption": "Kahva ends in a, so it belongs in the she pile."
+      "grammarCaption": "Kahva ends in a, so it belongs in the she pile, not because coffee is girly."
     },
     {
       "id": "most",

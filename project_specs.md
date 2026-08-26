@@ -87,8 +87,8 @@ Parallel notebook, not Book 2. Title: *How to Speak Bosnian: Grammar*. Lives at 
 
 | Chapter | Title | Status |
 |---------|-------|--------|
-| 0 | Zašto je teško? / Why this feels hard | draft (on site). Old English explained from zero |
-| 1 | Zašto je kahva ona? / Why coffee is a she | draft (on site, copy this). Clarified kahvu is still she |
+| 0 | Zašto je teško? / Why this feels hard | draft (on site). Fatter map of piles, jobs, matching, doing-words |
+| 1 | Zašto je kahva ona? / Why coffee is a she | draft (on site, copy this). Fatter why-she. No job chart |
 | 2–13 | Rest of the outline | outlined |
 
 ## Completed platform work
