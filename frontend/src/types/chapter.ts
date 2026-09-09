@@ -99,6 +99,8 @@ export type ChapterImage = {
   author?: string;
   license: string;
   credit: string;
+  /** CSS object-position when cropping to 16:9 (e.g. "center 70%") */
+  objectPosition?: string;
 };
 
 export type DictionaryEntry = {
@@ -161,13 +163,15 @@ export type Chapter = {
   conversation?: {
     title: string;
     setting: string;
+    /** Scene image shown above the dialogue lines */
+    imageId?: string;
     lines: ConversationLine[];
   };
   /** Line indexes (0-based) offered for AI speak-check; default first learner lines */
   speakTargets?: number[];
   puzzles: Puzzle[];
   practice: PracticeItem[];
-  funFacts: { title: string; body: string }[];
+  funFacts: { title: string; body: string; imageId?: string }[];
   /** Authentic speaker/singer listening beat (Čuj Bosnu) */
   authenticListen?: AuthenticListen;
   /** Section or lesson can-do self-checks */

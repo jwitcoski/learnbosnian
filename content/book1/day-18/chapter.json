@@ -253,7 +253,8 @@
         "bosnian": "Miau. Polako, molim.",
         "english": "Meow. Slowly, please."
       }
-    ]
+    ],
+    "imageId": "football-fans"
   },
   "puzzles": [
     {
@@ -360,7 +361,8 @@
     },
     {
       "title": "Štrbački buk shows the Una",
-      "body": "Štrbački buk is a waterfall stretch on the Una River near the northwestern border area. White water over wide stone shelves draws walkers and photographers. This postcard balances the stadium noise with river calm, because hobby vocabulary needs both kinds of weekend."
+      "body": "Štrbački buk is a waterfall stretch on the Una River near the northwestern border area. White water over wide stone shelves draws walkers and photographers. This postcard balances the stadium noise with river calm, because hobby vocabulary needs both kinds of weekend.",
+      "imageId": "una-walk"
     },
     {
       "title": "Često beats a long verb table",
@@ -665,6 +667,26 @@
       "author": "Choinowski",
       "license": "CC BY-SA 4.0",
       "credit": "University of Sarajevo"
+    },
+    {
+      "id": "football-fans",
+      "alt": "Bosnia and Herzegovina football supporters cheer in the stands",
+      "localPath": "/images/book1/day-18-football-fans.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnia%20Soccer%20Fans%20at%20King%20Baudouin%20Stadium%20Brussels.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnia_Soccer_Fans_at_King_Baudouin_Stadium_Brussels.jpg",
+      "author": "Jasmin Veiz",
+      "license": "Attribution",
+      "credit": "Football supporters"
+    },
+    {
+      "id": "una-walk",
+      "alt": "Visitors walk beside the emerald Una near Štrbački buk",
+      "localPath": "/images/book1/day-18-una-walk.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Una%20River%20Water%20Falls%20-%20Flickr%20-%20TKnoxB.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Una_River_Water_Falls_-_Flickr_-_TKnoxB.jpg",
+      "author": "TKnoxB from Chemainus, BC, Canada",
+      "license": "CC BY 2.0",
+      "credit": "Una River, northwest Bosnia"
     }
   ],
   "imagesNeeded": false,

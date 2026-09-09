@@ -337,6 +337,7 @@
   "conversation": {
     "title": "Ana’s first hello",
     "setting": "A narrow street in Baščaršija. Ana nearly trips over a cat. Mrvica, though she does not know the name yet.",
+    "imageId": "ferhadija-cafe",
     "lines": [
       {
         "speaker": "Ana",
@@ -491,7 +492,8 @@
   "funFacts": [
     {
       "title": "Baščaršija means main market",
-      "body": "Baščaršija is not just a pretty old-town label. The name comes from Turkish roots for the chief marketplace. Craft shops, cafés, and copper work still fill those streets today. When Ana learns greetings here, she is practicing language in a living market rather than a museum set."
+      "body": "Baščaršija is not just a pretty old-town label. The name comes from Turkish roots for the chief marketplace. Craft shops, cafés, and copper work still fill those streets today. In summer, street food festivals can take over nearby squares with live music and crowds that feel like the old market still owns the night. When Ana learns greetings here, she is practicing language in a living market rather than a museum set.",
+      "imageId": "street-festival"
     },
     {
       "title": "One letter, one sound",
@@ -790,6 +792,26 @@
       "author": "Mattan",
       "license": "CC BY-SA 4.0",
       "credit": "Gazi Husrev-beg complex, Sarajevo"
+    },
+    {
+      "id": "ferhadija-cafe",
+      "alt": "Polygon painting of people at an outdoor café on Ferhadija street, Sarajevo",
+      "localPath": "/images/book1/day-01-ferhadija-cafe.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Sarajevo_Ferhadija_2007-08-16.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_Ferhadija_2007-08-16.jpg",
+      "author": "Milan Suvajac",
+      "license": "CC BY-SA 4.0",
+      "credit": "Outdoor café, Ferhadija, Sarajevo"
+    },
+    {
+      "id": "street-festival",
+      "alt": "Polygon painting of musicians on stage at the Sarajevo Street Food Festival",
+      "localPath": "/images/book1/day-01-street-festival.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Street_Food_Festival_in_Sarajevo_Old_Town.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Street_Food_Festival_in_Sarajevo_Old_Town.JPG",
+      "author": "Rudolph.A.furtado",
+      "license": "CC0",
+      "credit": "Sarajevo Street Food Festival stage"
     },
     {
       "id": "civic-ohr",

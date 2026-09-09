@@ -5,12 +5,12 @@
   "titleEn": "Why coffee is a she",
   "theme": "Coffee is she because of the last letter, not because the drink is girly.",
   "status": "draft",
-  "reviewedAt": null,
-  "reviewerNotes": "Exemplar. Fatter why-she history. Still no job chart. Copy this shape.",
+  "reviewedAt": "2026-09-09T15:05:00Z",
+  "reviewerNotes": "Bosnian editor pass. Gender filing forms check out (kahva she, most/dan/hljeb he, pivo/more/ime/Sarajevo leftover, pests tata/auto, ovdje ijekavian, Želim kahvu still she). Fixed whyHere prose that hid Bosnian on inside English 'are on', and broken more-image alt. Still draft pending human publish decision. Residual native spot-check after Fact Checker mold repairs (2026-09-09T14:53:05Z): re-checked cases, conjugations, glosses, Latin/diacritics, and quiz/try keys; focus on Ch9 Popijem present-as-future, Ch5 vocatives, Ch13 shelf balance, and Ch11 trebati (recommend only, no silent rewrite). Final native try/quiz sweep: removed cat-plot/joke weak distractors; replaced select meta slots with named undrilled drills (Ano, za njega, Hoću, Pijte, Doći ću, tata, Nema auta, moja prijateljica); Ch11 trebati personal+acc left untouched; status draft.",
   "estimatedMinutes": 45,
   "whyHere": {
     "heading": "Why you are here",
-    "body": "Today you learn why kahva lives in the she pile, and how to file the next word the same way. The piles are on for he, ona for she, and ono for the leftover pile. People follow the person, so Emir is on and Ana is ona without a spelling trick. Things follow the last letter of the list word. Filing is the whole job for this chapter. Later jobs will copy whatever pile you pick today, so a wrong pile today wrecks the endings tomorrow."
+    "body": "Today you learn why kahva lives in the she pile, and how to file the next word the same way. The three pile labels are on, ona, and ono. On means he. Ona means she. Ono means leftover. People follow the person, so Emir is on and Ana is ona without a spelling trick. Things follow the last letter of the list word. Filing is the whole job for this chapter. Later jobs will copy whatever pile you pick today, so a wrong pile today wrecks the endings tomorrow."
   },
   "englishLies": {
     "heading": "Why English lies",
@@ -27,11 +27,27 @@
     "heading": "The pattern",
     "body": "You guess the pile from the last letter of the list word, which is the boring form sitting in a vocab list. A word that ends in a usually belongs to the she pile, such as kahva, kuća, and ulica, because those words joined an old a club. A word that ends in a consonant usually belongs to the he pile, such as most, dan, and hljeb. A word that ends in o or e usually belongs to the leftover pile, such as pivo, more, and Sarajevo. People skip that cheat sheet because Emir is a man and Ana is a woman. Keep the sheet for coffee, and remember the pile is a filing club, not a vibe.",
     "table": {
-      "headers": ["Last letter", "Pile", "Examples"],
+      "headers": [
+        "Last letter",
+        "Pile",
+        "Examples"
+      ],
       "rows": [
-        ["a", "she (ona)", "kahva, kuća, ulica, Ana"],
-        ["a consonant", "he (on)", "most, dan, hljeb, Emir"],
-        ["o or e", "leftover (ono)", "pivo, more, ime, Sarajevo"]
+        [
+          "a",
+          "she (ona)",
+          "kahva, kuća, ulica, Ana"
+        ],
+        [
+          "a consonant",
+          "he (on)",
+          "most, dan, hljeb, Emir"
+        ],
+        [
+          "o or e",
+          "leftover (ono)",
+          "pivo, more, ime, Sarajevo"
+        ]
       ]
     }
   },
@@ -43,16 +59,28 @@
     "heading": "The bit that tricks you",
     "body": "The trap is to hear kahvu and think the coffee switched piles to he. It did not. Kahva and kahvu are the same she. The a is the pile stamp on the list word. The u is a later job mark for the thing Ana wants. He-pile most will get a different mark in that same job, and leftover-pile pivo will get a different mark again. If you file coffee as he because you heard a u, you will pick the wrong ending forever.",
     "table": {
-      "headers": ["Job", "Form", "Pile"],
+      "headers": [
+        "Job",
+        "Form",
+        "Pile"
+      ],
       "rows": [
-        ["This is coffee.", "kahva", "she (ona)"],
-        ["I want coffee.", "kahvu", "still she"]
+        [
+          "This is coffee.",
+          "kahva",
+          "she (ona)"
+        ],
+        [
+          "I want coffee.",
+          "kahvu",
+          "still she"
+        ]
       ]
     }
   },
   "nerd": {
     "heading": "Why it's like this",
-    "body": "Old English is the English of England about a thousand years ago, not a class you missed. Farmers and priests around Winchester filed things into three piles the way Bosnian still does. Stone sat in the he pile even though a stone is not a man. Sun sat in the she pile. Wife sat in the leftover pile, which is the proof that the pile was a filing club, not a personality. That system wore off in English. You speak the later version. Bosnian kept the three piles.\n\nCoffee is she because kahva ends in a. That a is an old club stamp. Houses and streets already lived in the a club, so a drink whose list word ended in a joined them. The drink is not girly. The last letter did the filing. Later jobs will copy that pile, which is why getting the pile wrong today wrecks the endings tomorrow."
+    "body": "Old English is the English of England about a thousand years ago, not a class you missed. Farmers and priests around Winchester filed things into three piles the way Bosnian still does. Stone sat in the he pile even though a stone is not a man. Sun sat in the she pile. Wife sat in the leftover pile, which is the proof that the pile was a filing club, not a personality. That system wore off in English. You speak the later version. Bosnian kept the three piles.\n\nCoffee is she because kahva ends in a. Words that end in a usually sit in the she pile, and kahva does too. The drink is not girly. The last letter is the filing tip you can use today. Later jobs will copy that pile, which is why getting the pile wrong today wrecks the endings tomorrow."
   },
   "vocabulary": [
     {
@@ -98,7 +126,11 @@
       "example": "To je auto."
     }
   ],
-  "speakTargets": [0, 1, 2],
+  "speakTargets": [
+    0,
+    1,
+    2
+  ],
   "look": {
     "heading": "Look at these",
     "items": [
@@ -170,49 +202,77 @@
       {
         "id": "t1",
         "prompt": "kahva",
-        "options": ["he (on)", "she (ona)", "leftover (ono)"],
+        "options": [
+          "he (on)",
+          "she (ona)",
+          "leftover (ono)"
+        ],
         "correctIndex": 1,
         "explanation": "The last letter is a, so she pile."
       },
       {
         "id": "t2",
         "prompt": "most",
-        "options": ["he (on)", "she (ona)", "leftover (ono)"],
+        "options": [
+          "he (on)",
+          "she (ona)",
+          "leftover (ono)"
+        ],
         "correctIndex": 0,
         "explanation": "The last letter is t, a consonant, so he pile."
       },
       {
         "id": "t3",
         "prompt": "pivo",
-        "options": ["he (on)", "she (ona)", "leftover (ono)"],
+        "options": [
+          "he (on)",
+          "she (ona)",
+          "leftover (ono)"
+        ],
         "correctIndex": 2,
         "explanation": "The last letter is o, so leftover pile."
       },
       {
         "id": "t4",
         "prompt": "ulica. Last letter is a. Which pile?",
-        "options": ["he (on)", "she (ona)", "leftover (ono)"],
+        "options": [
+          "he (on)",
+          "she (ona)",
+          "leftover (ono)"
+        ],
         "correctIndex": 1,
         "explanation": "A means she, unless the word is a pest."
       },
       {
         "id": "t5",
         "prompt": "tata. Last letter is a. Which pile?",
-        "options": ["he (on)", "she (ona)", "leftover (ono)"],
+        "options": [
+          "he (on)",
+          "she (ona)",
+          "leftover (ono)"
+        ],
         "correctIndex": 0,
-        "explanation": "Pest. Dad is he."
+        "explanation": "This is a pest. Tata means dad, so it stays in the he pile even though it ends in a."
       },
       {
         "id": "t6",
         "prompt": "auto. Last letter is o. Which pile?",
-        "options": ["he (on)", "she (ona)", "leftover (ono)"],
+        "options": [
+          "he (on)",
+          "she (ona)",
+          "leftover (ono)"
+        ],
         "correctIndex": 0,
-        "explanation": "Pest. The car is he even though it ends in o."
+        "explanation": "This is a pest. Auto is he even though the list word ends in o."
       },
       {
         "id": "t7",
         "prompt": "more",
-        "options": ["he (on)", "she (ona)", "leftover (ono)"],
+        "options": [
+          "he (on)",
+          "she (ona)",
+          "leftover (ono)"
+        ],
         "correctIndex": 2,
         "explanation": "The last letter is e, so leftover pile, the same pile as pivo."
       },
@@ -230,7 +290,11 @@
       {
         "id": "t9",
         "prompt": "Ana",
-        "options": ["he (on)", "she (ona)", "leftover (ono)"],
+        "options": [
+          "he (on)",
+          "she (ona)",
+          "leftover (ono)"
+        ],
         "correctIndex": 1,
         "explanation": "Ana is a woman, so she pile. People follow the person, not the letter."
       },
@@ -238,12 +302,12 @@
         "id": "t10",
         "prompt": "Why is kahva a she?",
         "options": [
-          "Because coffee is girly",
+          "Because Ana is a woman",
           "Because the list word ends in a",
           "Because Ana wants it"
         ],
         "correctIndex": 1,
-        "explanation": "The a club. Kahvu is a later job on the same she-word."
+        "explanation": "Kahva joined the old a club, so it is she. Kahvu is a later job mark on that same she-word."
       }
     ]
   },
@@ -255,12 +319,12 @@
         "id": "q1",
         "question": "How do you know which pile a thing-word belongs to?",
         "options": [
-          "Guess from the English meaning",
           "Look at the last letter",
-          "Ask whether you like it",
+          "Guess from the English meaning",
+          "Count how many syllables it has",
           "Use it and wait for a native speaker"
         ],
-        "correctIndex": 1,
+        "correctIndex": 0,
         "explanation": "Look at the last letter. A means she. A consonant means he. O or E means leftover. People follow the person."
       },
       {
@@ -279,12 +343,12 @@
         "id": "q3",
         "question": "Why is coffee a she?",
         "options": [
-          "Because coffee is girly",
-          "Because kahva ends in a, an old club stamp",
+          "Because Ana drinks it every morning",
           "Because Ana drinks it",
+          "Because kahva ends in a, an old club stamp",
           "Because wanting it makes it female"
         ],
-        "correctIndex": 1,
+        "correctIndex": 2,
         "explanation": "Stone was a he in older English and wife was leftover. The pile is a club, not a vibe. Later jobs copy that pile."
       },
       {
@@ -292,11 +356,11 @@
         "question": "Why is tata a pest?",
         "options": [
           "It is a loanword from English",
-          "It ends in a but it is still he",
           "It has no last letter",
-          "It belongs in the leftover pile"
+          "It belongs in the leftover pile",
+          "It ends in a but it is still he"
         ],
-        "correctIndex": 1,
+        "correctIndex": 3,
         "explanation": "Dad is he. Auto is the other pest today. It ends in o and is still he."
       },
       {
@@ -316,11 +380,11 @@
         "question": "most ends in t. Which pile?",
         "options": [
           "she (ona)",
-          "he (on)",
           "leftover (ono)",
+          "he (on)",
           "pest, like tata"
         ],
-        "correctIndex": 1,
+        "correctIndex": 2,
         "explanation": "T is a consonant, so he pile. This one is regular, not a pest."
       }
     ]
@@ -359,7 +423,7 @@
     },
     {
       "id": "more",
-      "alt": "Polygon painting of a beach curves along the Adriatic at Neum.",
+      "alt": "Polygon painting of a beach curving along the Adriatic at Neum.",
       "localPath": "/images/book1/day-16-neum-coast.png",
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Zenit_Beach_in_Neum%2C_2024_1.jpg",
       "pageUrl": "https://commons.wikimedia.org/wiki/File%3AZenit_Beach_in_Neum%2C_2024_1.jpg",

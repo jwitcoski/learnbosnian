@@ -100,6 +100,7 @@
       "properties": {
         "title": { "type": "string" },
         "setting": { "type": "string" },
+        "imageId": { "type": "string" },
         "lines": {
           "type": "array",
           "items": {
@@ -152,7 +153,8 @@
         "required": ["title", "body"],
         "properties": {
           "title": { "type": "string" },
-          "body": { "type": "string" }
+          "body": { "type": "string" },
+          "imageId": { "type": "string" }
         }
       }
     },
@@ -316,7 +318,8 @@
           "pageUrl": { "type": "string" },
           "author": { "type": "string" },
           "license": { "type": "string" },
-          "credit": { "type": "string" }
+          "credit": { "type": "string" },
+          "objectPosition": { "type": "string" }
         }
       }
     },

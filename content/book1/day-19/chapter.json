@@ -253,7 +253,8 @@
         "bosnian": "Molim. Sretan praznik!",
         "english": "You are welcome. Happy holiday!"
       }
-    ]
+    ],
+    "imageId": "ferhadija-walk"
   },
   "puzzles": [
     {
@@ -360,7 +361,8 @@
     },
     {
       "title": "Two landmarks, one center",
-      "body": "Gazi Husrev-beg's Mosque and the Sacred Heart Cathedral stand close together in downtown Sarajevo. Their nearness is a reminder that more than one holiday calendar shapes public life here. Photos of both places help you picture more than a single community. Respect starts with naming things accurately."
+      "body": "Gazi Husrev-beg's Mosque and the Sacred Heart Cathedral stand close together in downtown Sarajevo. Their nearness is a reminder that more than one holiday calendar shapes public life here. Photos of both places help you picture more than a single community. Respect starts with naming things accurately.",
+      "imageId": "sarajevo-center"
     },
     {
       "title": "Čestitka carries a written wish",
@@ -674,6 +676,26 @@
       "author": "BiHVolim",
       "license": "CC BY-SA 4.0",
       "credit": "King Fahd Mosque Sarajevo"
+    },
+    {
+      "id": "ferhadija-walk",
+      "alt": "Pedestrians walk along Ferhadija street in Sarajevo",
+      "localPath": "/images/book1/day-19-ferhadija-walk.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ferhadija%20street%20Sarajevo.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ferhadija_street_Sarajevo.jpg",
+      "author": "Mark Chorlton from Stockport, UK",
+      "license": "CC BY-SA 2.0",
+      "credit": "Ferhadija, Sarajevo"
+    },
+    {
+      "id": "sarajevo-center",
+      "alt": "People gather in Sarajevo's central pedestrian zone",
+      "localPath": "/images/book1/day-19-sarajevo-center.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/1997%20in%20Sarajevo%20010.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1997_in_Sarajevo_010.jpg",
+      "author": "N_Creatures",
+      "license": "CC BY 2.0",
+      "credit": "Sarajevo city center"
     }
   ],
   "imagesNeeded": false,

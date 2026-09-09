@@ -1,0 +1,450 @@
+{
+  "chapter": 2,
+  "kind": "grammar",
+  "title": "Nominativ i akuzativ",
+  "titleEn": "Subject and the thing you want",
+  "theme": "Želim kahvu shows who does the wanting versus the thing you want.",
+  "status": "draft",
+  "reviewedAt": "2026-09-09T14:53:05Z",
+  "reviewerNotes": "Bosnian editor pass. Accusative forms check out (kahvu, kuću, most, pivo, Emira, želim/želi). Fixed garbled pattern opener, englishLies phrasing, and theme wording that mixed accusative with dative ('gets it'). Still draft pending human publish decision. Residual native spot-check after Fact Checker mold repairs (2026-09-09T14:53:05Z): re-checked cases, conjugations, glosses, Latin/diacritics, and quiz/try keys; focus on Ch9 Popijem present-as-future, Ch5 vocatives, Ch13 shelf balance, and Ch11 trebati (recommend only, no silent rewrite).",
+  "estimatedMinutes": 45,
+  "whyHere": {
+    "heading": "Why you are here",
+    "body": "Today you learn why Ana says Želim kahvu instead of Želim kahva. The list word names the coffee. The moved ending marks the coffee as the thing she wants. English keeps coffee still in both jobs. Bosnian dresses the word again. You already filed the piles in Chapter 1. This chapter is only the name-it job versus the want-it job."
+  },
+  "englishLies": {
+    "heading": "Why English lies",
+    "body": "English lies because the phrases this is coffee and I want coffee use the same letters. You already do a tiny Bosnian trick with people when you say I if you do the thing and me if the thing happens to you. Coffee in English never bothers. Bosnian coffee does. The list form kahva is the name-it job. Kahvu is the same she-word in the want-it job. Schools call those jobs nominativ and akuzativ. You can keep saying name-it and want-it and still be right."
+  },
+  "knownLine": {
+    "heading": "A line you already say",
+    "body": "Book 1 already gave you Ana’s line Želim kahvu, which means I want coffee. Chapter 1 told you to ignore the moved letter for one day. Today that letter is the whole point. Kahva is the list form that names the drink. Kahvu is the want-it form on the same she-word. The pile did not flip to he. The job in the sentence changed.",
+    "speaker": "Ana",
+    "bosnian": "Želim kahvu.",
+    "english": "I want coffee."
+  },
+  "pattern": {
+    "heading": "The pattern",
+    "body": "She-pile words swap that final a for u when they are the thing you want. Kahva becomes kahvu, and kuća becomes kuću, because those words already sit in the she pile from Chapter 1. He-pile things usually keep the list form in that same job, so most stays most when you want the bridge. Leftover-pile words usually keep the list form too, so pivo stays pivo when you want the beer. People who do the wanting stay in the name-it form. Ana želi kahvu keeps Ana still while coffee moves. Learn the she move first. Then notice that most and pivo often look unchanged.",
+    "table": {
+      "headers": [
+        "Pile",
+        "Name-it",
+        "Want-it"
+      ],
+      "rows": [
+        [
+          "she (ona)",
+          "kahva, kuća",
+          "kahvu, kuću"
+        ],
+        [
+          "he thing (on)",
+          "most",
+          "most"
+        ],
+        [
+          "leftover (ono)",
+          "pivo",
+          "pivo"
+        ]
+      ]
+    }
+  },
+  "howYouGuess": {
+    "heading": "The pests",
+    "body": "Two pests will trip you today, and both are worth memorizing early. The first pest is saying Želim kahva, which leaves coffee in the name-it form when Ana wants it. The second pest is he-pile people. Emir stays Emir when you name him, but he often becomes Emira when you see him or want him, because people in the he pile take an a in the want-it job. A bridge does not. Do not argue with Emira. Just remember people and things follow different habits in this job."
+  },
+  "trick": {
+    "heading": "The bit that tricks you",
+    "body": "The trap is to hear kahvu and decide coffee switched piles to he. It did not. The u is a job mark on the same she-word you filed yesterday. The other trap is to force every word to move like kahva. Most and pivo often stay still in the want-it job, and that stillness is still correct. If you rewrite most into a fake she ending, you invent a word nobody said.",
+    "table": {
+      "headers": [
+        "English job",
+        "Form",
+        "What changed"
+      ],
+      "rows": [
+        [
+          "That is coffee.",
+          "kahva",
+          "name-it, list form"
+        ],
+        [
+          "I want coffee.",
+          "kahvu",
+          "want-it, still she"
+        ],
+        [
+          "I want a bridge.",
+          "most",
+          "want-it, he thing stays"
+        ],
+        [
+          "I see Emir.",
+          "Emira",
+          "want-it, he person takes a"
+        ]
+      ]
+    }
+  },
+  "nerd": {
+    "heading": "Why it's like this",
+    "body": "Old English is the English of England about a thousand years ago, not a class you missed. Farmers and priests around Winchester hung extra letters on thing-words to show the job in the sentence. You still own a scrap of that habit when you say I if you do the thing and me if the thing happens to you. He and him work the same way. Coffee lost those outfits in later English. You speak the later version.\n\nBosnian never fired the outfits on kahva. The name-it form and the want-it form are leftover job marks, the same family of work as I and me. Schools call the whole family case. Today you only need two jobs from that family. Tomorrow’s job is the of and none form on the same coffee."
+  },
+  "vocabulary": [
+    {
+      "bosnian": "kahva",
+      "english": "coffee",
+      "pronunciation": "KAH-hvah",
+      "partOfSpeech": "noun",
+      "example": "Želim kahvu."
+    },
+    {
+      "bosnian": "kuća",
+      "english": "house",
+      "pronunciation": "KOO-cha",
+      "partOfSpeech": "noun",
+      "example": "Želim kuću."
+    },
+    {
+      "bosnian": "most",
+      "english": "bridge",
+      "pronunciation": "most",
+      "partOfSpeech": "noun",
+      "example": "Želim most."
+    },
+    {
+      "bosnian": "pivo",
+      "english": "beer",
+      "pronunciation": "PEE-vo",
+      "partOfSpeech": "noun",
+      "example": "Želim pivo."
+    },
+    {
+      "bosnian": "Emir",
+      "english": "Emir",
+      "pronunciation": "EH-meer",
+      "partOfSpeech": "noun",
+      "example": "Vidim Emira."
+    },
+    {
+      "bosnian": "Ana",
+      "english": "Ana",
+      "pronunciation": "AH-nah",
+      "partOfSpeech": "noun",
+      "example": "Ana želi kahvu."
+    }
+  ],
+  "speakTargets": [
+    0,
+    1,
+    2
+  ],
+  "look": {
+    "heading": "Look at these",
+    "items": [
+      {
+        "speaker": "Amira",
+        "bosnian": "To je kahva.",
+        "english": "That is coffee in the name-it form, the list word from Chapter 1."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Želim kahvu.",
+        "english": "I want coffee. Same she-word. The u marks the want-it job."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "To je most.",
+        "english": "That is a bridge in the name-it form."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Želim most.",
+        "english": "I want a bridge. He-pile things often keep the list form in this job."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "To je kuća.",
+        "english": "That is a house in the name-it form."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Želim kuću.",
+        "english": "I want a house. She-pile a became u, same move as kahvu."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "To je pivo.",
+        "english": "That is beer in the name-it form."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Želim pivo.",
+        "english": "I want beer. Leftover-pile words often stay still in the want-it job."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "To je Emir.",
+        "english": "That is Emir in the name-it form."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Vidim Emira.",
+        "english": "I see Emir. He-pile people often take a in the want-it job."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Ana želi kahvu.",
+        "english": "Ana wants coffee. Ana stays in the name-it form while coffee moves."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Emir želi pivo.",
+        "english": "Emir wants beer. The person doing the wanting stays still."
+      }
+    ]
+  },
+  "try": {
+    "heading": "Try these",
+    "items": [
+      {
+        "id": "t1",
+        "prompt": "Ana wants coffee. Which form?",
+        "options": [
+          "kahva",
+          "kahvu",
+          "kahve"
+        ],
+        "correctIndex": 1,
+        "explanation": "This is the want-it job on a she-word, so the final a becomes u."
+      },
+      {
+        "id": "t2",
+        "prompt": "Amira names the coffee. Which form?",
+        "options": [
+          "kahva",
+          "kahvu",
+          "kahve"
+        ],
+        "correctIndex": 0,
+        "explanation": "This is the name-it job, so you use the list form."
+      },
+      {
+        "id": "t3",
+        "prompt": "Ana wants a house. Which form?",
+        "options": [
+          "kuća",
+          "kuću",
+          "kuće"
+        ],
+        "correctIndex": 1,
+        "explanation": "Same she-pile move as kahvu."
+      },
+      {
+        "id": "t4",
+        "prompt": "Emir wants a bridge. Which form?",
+        "options": [
+          "most",
+          "mosta",
+          "mostu"
+        ],
+        "correctIndex": 0,
+        "explanation": "He-pile things usually keep the list form in the want-it job."
+      },
+      {
+        "id": "t5",
+        "prompt": "Emir wants beer. Which form?",
+        "options": [
+          "pivo",
+          "pivu",
+          "piva"
+        ],
+        "correctIndex": 0,
+        "explanation": "Leftover-pile words usually stay still here."
+      },
+      {
+        "id": "t6",
+        "prompt": "Ana sees Emir. Which form?",
+        "options": [
+          "Emir",
+          "Emira",
+          "Emiru"
+        ],
+        "correctIndex": 1,
+        "explanation": "He-pile people often take a in the want-it job. Emira is the pest."
+      },
+      {
+        "id": "t7",
+        "prompt": "Someone says Želim kahva. What went wrong?",
+        "options": [
+          "Coffee switched piles to he.",
+          "They left coffee in the name-it form.",
+          "They needed a leftover ending."
+        ],
+        "correctIndex": 1,
+        "explanation": "Wanting needs kahvu. Kahva is the list form for naming it."
+      },
+      {
+        "id": "t8",
+        "prompt": "Kahvu still belongs to which pile?",
+        "options": [
+          "he (on)",
+          "she (ona)",
+          "leftover (ono)"
+        ],
+        "correctIndex": 1,
+        "explanation": "The u is a job mark. The pile stayed she."
+      },
+      {
+        "id": "t9",
+        "prompt": "In Ana želi kahvu, which word moved for the want-it job?",
+        "options": [
+          "Ana",
+          "kahvu",
+          "both moved the same way"
+        ],
+        "correctIndex": 1,
+        "explanation": "The person doing the wanting stays in the name-it form. Coffee moves."
+      },
+      {
+        "id": "t10",
+        "prompt": "Why does most often look the same when you want it?",
+        "options": [
+          "Because bridges are leftover",
+          "Because he-pile things often keep the list form in this job",
+          "Because Bosnian never marks bridges"
+        ],
+        "correctIndex": 1,
+        "explanation": "She-words move. Many he things and leftover words stay still. Emira is the people pest."
+      }
+    ]
+  },
+  "quiz": {
+    "title": "Quick check",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What is today’s system?",
+        "options": [
+          "Name-it versus want-it on the same word",
+          "Filing he, she, and leftover piles",
+          "Past tense on doing-words",
+          "Seven jobs on one chart"
+        ],
+        "correctIndex": 0,
+        "explanation": "Piles were Chapter 1. Today is only the name-it job versus the want-it job."
+      },
+      {
+        "id": "q2",
+        "question": "Želim kahvu uses which form of coffee?",
+        "options": [
+          "Name-it list form",
+          "Want-it form on the same she-word",
+          "A new he-pile word",
+          "A polite leftover form"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kahva became kahvu because Ana wants it. The pile stayed she."
+      },
+      {
+        "id": "q3",
+        "question": "She-pile words like kahva and kuća usually do what in the want-it job?",
+        "options": [
+          "Add a like Emira",
+          "Stay unchanged forever",
+          "Swap final a for u",
+          "Move into the he pile"
+        ],
+        "correctIndex": 2,
+        "explanation": "Kahvu and kuću. That u is the job mark, not a new pile."
+      },
+      {
+        "id": "q4",
+        "question": "Why is Želim most often correct without changing the bridge?",
+        "options": [
+          "Most is a she-word",
+          "Wanting never marks thing-words",
+          "Most is leftover like pivo, so it must become mostu",
+          "He-pile things often keep the list form in this job"
+        ],
+        "correctIndex": 3,
+        "explanation": "Most stays most. Pivo often stays pivo too. Emir is the people pest."
+      },
+      {
+        "id": "q5",
+        "question": "Vidim Emira. Why not Emir?",
+        "options": [
+          "He-pile people often take a in the want-it job",
+          "Emir switched to the she pile",
+          "Seeing someone always needs u",
+          "Emira is a different man"
+        ],
+        "correctIndex": 0,
+        "explanation": "People and things diverge here. A bridge stays most. Emir often becomes Emira."
+      },
+      {
+        "id": "q6",
+        "question": "What comes next after name-it and want-it?",
+        "options": [
+          "A full seven-job chart tomorrow",
+          "Adjective matching only",
+          "The of and none job on the same coffee",
+          "Past tense only"
+        ],
+        "correctIndex": 2,
+        "explanation": "Chapter 3 is genitive. Nema kahve is the preview. Still no mega-chart."
+      }
+    ]
+  },
+  "next": {
+    "body": "You now know why Želim kahvu is not Želim kahva, and why most and pivo often look unchanged in that same job. Emira was the people pest. Chapter 3 is the of and none job on the same coffee, the line Nema kahve. You still will not get a seven-job chart.",
+    "chapter": 3
+  },
+  "imageSlots": {
+    "hero": "kahva",
+    "afterPattern": "kuca",
+    "afterNerd": "pivo"
+  },
+  "images": [
+    {
+      "id": "kahva",
+      "alt": "Polygon painting of an engraved Bosnian coffee set with džezva and cups",
+      "localPath": "/images/book1/day-03-coffee-set.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "author": "İhsan Işık",
+      "license": "CC BY 3.0",
+      "credit": "Bosnian coffee set, Baščaršija",
+      "grammarCaption": "Ana wants the coffee as kahvu, and the ending moved for the want-it job on the same she-word."
+    },
+    {
+      "id": "kuca",
+      "alt": "Polygon painting of Počitelj’s stone houses and fortress hill in Herzegovina",
+      "localPath": "/images/book1/day-07-pocitelj.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Po%C4%8Ditelj_-_pano.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Po%C4%8Ditelj_-_pano.jpg",
+      "author": "Pudelek (Marcin Szala)",
+      "license": "CC BY-SA 3.0",
+      "credit": "Počitelj panorama",
+      "grammarCaption": "Kuća becomes kuću in the want-it job, the same she-pile move you saw on kahva."
+    },
+    {
+      "id": "pivo",
+      "alt": "Polygon painting of a Sarajevsko bottle and glass",
+      "localPath": "/images/grammar/ch-02-pivo.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Sarajevsko.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevsko.jpg",
+      "author": "Fanny Schertzer",
+      "license": "CC BY-SA 3.0",
+      "credit": "Sarajevsko bottle and glass",
+      "grammarCaption": "Pivo often stays pivo when you want the beer, the leftover stay-still habit beside the she-word move on kahva."
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [
+    "G.2c now uses a dedicated Sarajevsko bottle and glass for the leftover stay-still pattern. Hero and afterPattern still temporarily reuse Book 1 paths pending fresh Commons replacements."
+  ]
+}

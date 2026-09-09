@@ -203,7 +203,8 @@
         "bosnian": "I Mrvica kaže bravo!",
         "english": "And Mrvica says bravo!"
       }
-    ]
+    ],
+    "imageId": "pocitelj-climb"
   },
   "puzzles": [
     {
@@ -324,7 +325,8 @@
     },
     {
       "title": "Počitelj’s stone stack",
-      "body": "Počitelj climbs a Herzegovina hillside in stacked stone houses. A fortress silhouette watches over the old settlement. The town sits above the Neretva corridor as a preserved Ottoman-era place. One more postcard like this keeps Section 1 review geographically honest."
+      "body": "Počitelj climbs a Herzegovina hillside in stacked stone houses. A fortress silhouette watches over the old settlement. The town sits above the Neretva corridor as a preserved Ottoman-era place. One more postcard like this keeps Section 1 review geographically honest.",
+      "imageId": "mostar-market"
     },
     {
       "title": "Banja Luka on the mental map",
@@ -599,6 +601,26 @@
       "author": "Jennifer Boyer",
       "license": "CC BY 2.0",
       "credit": "Gimnazija Mostar"
+    },
+    {
+      "id": "pocitelj-climb",
+      "alt": "Visitors climb the stone terraces of Počitelj",
+      "localPath": "/images/book1/day-07-pocitelj-climb.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Hajji_Alija_Mosque%2C_Po%C4%8Ditelj_-_panoramio_%281%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3APo%C4%8Ditelj_-_panoramio_%281%29.jpg",
+      "author": "trolvag",
+      "license": "CC BY-SA 3.0",
+      "credit": "Počitelj old town"
+    },
+    {
+      "id": "mostar-market",
+      "alt": "Shoppers browse a market lane in an old Bosnian town",
+      "localPath": "/images/book1/day-07-mostar-market.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Market_street_in_Mostar_old_town_%288%29_%2829226494924%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMarket_street_in_Mostar_old_town_%288%29_%2829226494924%29.jpg",
+      "author": "Richard Mortel from Riyadh, Saudi Arabia",
+      "license": "CC BY 2.0",
+      "credit": "Old-town market street"
     }
   ],
   "imagesNeeded": false,

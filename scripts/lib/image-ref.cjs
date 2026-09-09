@@ -1,4 +1,4 @@
-/** Photos in the order they appear on a lesson page: hero, then the rest, civic last. */
+/** Photos in the order they appear on a lesson page: hero, then the rest, conversation, civic last. */
 function orderedChapterImages(chapter) {
   const images = chapter.images || [];
   if (!images.length) return [];
@@ -15,15 +15,22 @@ function orderedChapterImages(chapter) {
     return [...found, ...rest];
   }
   const civicId = chapter.civicContext?.imageId || null;
+  const conversationId = chapter.conversation?.imageId || null;
   const hero =
     images.find((i) => i.id === chapter.culture?.imageId) || images[0];
   const rest = images.filter(
-    (i) => i.id !== hero?.id && i.id !== civicId
+    (i) =>
+      i.id !== hero?.id &&
+      i.id !== civicId &&
+      i.id !== conversationId
   );
+  const conversation = conversationId
+    ? images.find((i) => i.id === conversationId)
+    : undefined;
   const civic = civicId
     ? images.find((i) => i.id === civicId)
     : undefined;
-  return [hero, ...rest, civic].filter(Boolean);
+  return [hero, ...rest, conversation, civic].filter(Boolean);
 }
 
 function imageRefCode(book, day, index) {

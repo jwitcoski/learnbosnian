@@ -253,7 +253,8 @@
         "bosnian": "Mjau!",
         "english": "Meow!"
       }
-    ]
+    ],
+    "imageId": "zenica-market"
   },
   "puzzles": [
     {
@@ -360,7 +361,8 @@
     },
     {
       "title": "Brčko sits on the Sava",
-      "body": "Brčko stands on the Sava River in the northeast of Bosnia and Herzegovina. Its river position helped make the city an important trade and transport point. The promenade gives residents a public place beside that wider regional route. The city connects local life with a river that crosses borders."
+      "body": "Brčko stands on the Sava River in the northeast of Bosnia and Herzegovina. Its river position helped make the city an important trade and transport point. The promenade gives residents a public place beside that wider regional route. The city connects local life with a river that crosses borders.",
+      "imageId": "zenica-street"
     },
     {
       "title": "Language names can vary",
@@ -648,6 +650,26 @@
       "author": "TUBS",
       "license": "CC BY-SA 3.0",
       "credit": "Brčko District"
+    },
+    {
+      "id": "zenica-market",
+      "alt": "People gather at an open market in Zenica",
+      "localPath": "/images/book1/day-13-zenica-market.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Du%20c%C3%B4t%C3%A9%20du%20march%C3%A9%20-ZENICA%20(BiH).JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Du_c%C3%B4t%C3%A9_du_march%C3%A9_-ZENICA_%28BiH%29.JPG",
+      "author": "Philidenfer66",
+      "license": "Public domain",
+      "credit": "Zenica market"
+    },
+    {
+      "id": "zenica-street",
+      "alt": "Pedestrians walk a busy Zenica street",
+      "localPath": "/images/book1/day-13-zenica-street.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Zenica%202006%202.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Zenica_2006_2.jpg",
+      "author": "AWI",
+      "license": "CC BY-SA 3.0",
+      "credit": "Zenica city center"
     }
   ],
   "imagesNeeded": false,

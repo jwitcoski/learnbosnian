@@ -1,0 +1,455 @@
+{
+  "chapter": 7,
+  "kind": "grammar",
+  "title": "Zamjenice",
+  "titleEn": "Full pronouns vs short ones",
+  "theme": "Mene versus me shows the long form after a little word like kod.",
+  "status": "draft",
+  "reviewedAt": "2026-09-09T15:05:00Z",
+  "reviewerNotes": "Fresh pedagogy polish after Fact Checker. Little-word language standardized; look gloss fragment expanded; pattern opener softened. Bosnian pronoun forms retained (mene/me, tebe/te, njega/je, kod mene, za mene). Status draft; reviewedAt null. Pending human publish decision. Final native try/quiz sweep: removed cat-plot/joke weak distractors; replaced select meta slots with named undrilled drills (Ano, za njega, Hoću, Pijte, Doći ću, tata, Nema auta, moja prijateljica); Ch11 trebati personal+acc left untouched; status draft.",
+  "estimatedMinutes": 45,
+  "whyHere": {
+    "heading": "Why you are here",
+    "body": "Today you learn why Bosnian has a long me and a short me, and why a little word like kod forces the long one. English already splits I and me. Bosnian splits me again into mene and me. Book 1 already gave you Amira saying kahvu kod mene. That long form after kod is the whole point today."
+  },
+  "englishLies": {
+    "heading": "Why English lies",
+    "body": "English lies because it only keeps one me after I. You say she sees me and coffee at my place without a second outfit for me. Bosnian keeps a full form and a short form for the same job. The short form leans on the doing-word, like me in Vidi me. The full form stands on its own, like mene when you need stress or when a little word such as kod sits in front. Schools call these words zamjenice, which means pronouns. You can keep saying long me and short me and still be right."
+  },
+  "knownLine": {
+    "heading": "A line you already say",
+    "body": "Book 1 already gave you Amira’s line Danas pijemo kahvu kod mene, which means today we drink coffee at my place. Kod is a little word that sits in front of the person. After that little word Bosnian needs the long form mene, not the short me. Today you contrast that line with short me after a doing-word, and you keep the same coffee on the table.",
+    "speaker": "Amira",
+    "bosnian": "Danas pijemo kahvu kod mene!",
+    "english": "Today we drink coffee at my place!"
+  },
+  "pattern": {
+    "heading": "The pattern",
+    "body": "You use short me when it can lean on the doing-word, and long mene when it must stand alone or follow a little word in front. Vidi me means see me, and the short form rides behind the doing-word. Kod mene means at my place, and the long form follows kod. The same split shows up on you as te versus tebe, and on him as ga versus njega. Ja versus mene or me is only a light pointer back to name-it versus want-it, not a second case lesson. Learn ja, mene, and me first on the coffee lines, then copy the same long-versus-short habit onto ti.",
+    "table": {
+      "headers": [
+        "Job",
+        "Long form",
+        "Short form"
+      ],
+      "rows": [
+        [
+          "I do it",
+          "ja",
+          "(none today)"
+        ],
+        [
+          "It hits me",
+          "mene",
+          "me"
+        ],
+        [
+          "It hits you",
+          "tebe",
+          "te"
+        ],
+        [
+          "After a little word",
+          "kod mene",
+          "not kod me"
+        ]
+      ]
+    }
+  },
+  "howYouGuess": {
+    "heading": "The pests",
+    "body": "Two pests will trip you today. The first pest is saying kod me, which tries to hang the short form after a little word that needs the long one. The second pest is saying Vidi mene every time, which is not always wrong for stress, but it sounds heavy when short me is the everyday lean. Book 1 also gave you Boli me glava for a short me that leans on the doing-word. Keep kod mene for the little-word line, and keep me for the lean."
+  },
+  "trick": {
+    "heading": "The bit that tricks you",
+    "body": "The trap is to treat mene and me as two different people. They are the same me in two outfits. The other trap is to borrow English at me and say na me or kod me. After a little word in front, Bosnian wants the long outfit. Short me has nowhere sturdy to lean if the only neighbor is kod or za. That is why Amira says kod mene when the coffee is at her place.",
+    "table": {
+      "headers": [
+        "English idea",
+        "Bosnian",
+        "Why"
+      ],
+      "rows": [
+        [
+          "See me.",
+          "Vidi me.",
+          "short form leans on the doing-word"
+        ],
+        [
+          "At my place.",
+          "kod mene",
+          "little word in front needs long form"
+        ],
+        [
+          "For me.",
+          "za mene",
+          "same long form after za"
+        ],
+        [
+          "It hurts me.",
+          "Boli me.",
+          "short form leans again"
+        ]
+      ]
+    }
+  },
+  "nerd": {
+    "heading": "Why it's like this",
+    "body": "Old English is the English of England about a thousand years ago, not a class you missed. Farmers and priests around Winchester already split I and me for the job in the sentence. You still own that split. Later English mostly stopped making a second, lighter me that could lean on the doing-word.\n\nBosnian kept both a full form and a lean form. The short ones are little words that prefer second place in the sentence, which Chapter 12 will unpack. Today you only need the coffee-table rule. If a little word is already sitting in front, grab mene. If the doing-word can carry the lean, me is enough."
+  },
+  "vocabulary": [
+    {
+      "bosnian": "ja",
+      "english": "I",
+      "pronunciation": "yah",
+      "partOfSpeech": "pronoun",
+      "example": "Ja želim kahvu."
+    },
+    {
+      "bosnian": "mene",
+      "english": "me (long form)",
+      "pronunciation": "MEH-neh",
+      "partOfSpeech": "pronoun",
+      "example": "Kahva je kod mene."
+    },
+    {
+      "bosnian": "me",
+      "english": "me (short form)",
+      "pronunciation": "meh",
+      "partOfSpeech": "pronoun",
+      "example": "Vidi me."
+    },
+    {
+      "bosnian": "tebe",
+      "english": "you (long form)",
+      "pronunciation": "TEH-beh",
+      "partOfSpeech": "pronoun",
+      "example": "Kahva je za tebe."
+    },
+    {
+      "bosnian": "te",
+      "english": "you (short form)",
+      "pronunciation": "teh",
+      "partOfSpeech": "pronoun",
+      "example": "Vidim te."
+    },
+    {
+      "bosnian": "kod",
+      "english": "at / at the place of",
+      "pronunciation": "kod",
+      "partOfSpeech": "preposition",
+      "example": "Kahva je kod mene."
+    }
+  ],
+  "speakTargets": [
+    0,
+    1,
+    2
+  ],
+  "look": {
+    "heading": "Look at these",
+    "items": [
+      {
+        "speaker": "Amira",
+        "bosnian": "Danas pijemo kahvu kod mene!",
+        "english": "Today we drink coffee at my place. Kod needs the long form mene."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Vidi me.",
+        "english": "See me. Short me leans on the doing-word."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Vidi mene.",
+        "english": "See me, with stress on me. Long form can stand alone."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Kahva je za mene.",
+        "english": "The coffee is for me. Za is a little word in front, so long mene."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Kahva je za tebe.",
+        "english": "The coffee is for you. Same long-form habit on tebe."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Vidim te.",
+        "english": "I see you. Short te leans on the doing-word."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Boli me glava.",
+        "english": "My head hurts. Book 1 short me leans on boli."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Ja želim kahvu.",
+        "english": "I want coffee. Ja is the name-it form doing the wanting."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Vidim tebe.",
+        "english": "I see you, with stress on you. Long tebe stands beside short te."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Emir je kod mene.",
+        "english": "Emir is at my place. Again the little word kod needs the long form mene."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Pivo je za njega.",
+        "english": "The beer is for him. Long form after za, same rule as mene."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Vidim je.",
+        "english": "I see her. Short form leans on the doing-word for Ana."
+      }
+    ]
+  },
+  "try": {
+    "heading": "Try these",
+    "items": [
+      {
+        "id": "t1",
+        "prompt": "Coffee at my place. Which form after kod?",
+        "options": [
+          "me",
+          "mene",
+          "ja"
+        ],
+        "correctIndex": 1,
+        "explanation": "A little word in front needs the long form. Kod mene."
+      },
+      {
+        "id": "t2",
+        "prompt": "See me, everyday lean. Which form?",
+        "options": [
+          "mene",
+          "me",
+          "ja"
+        ],
+        "correctIndex": 1,
+        "explanation": "Short me leans on the doing-word. Vidi me."
+      },
+      {
+        "id": "t3",
+        "prompt": "The coffee is for me. Which form after za?",
+        "options": [
+          "me",
+          "mene",
+          "moja"
+        ],
+        "correctIndex": 1,
+        "explanation": "Za needs the long form. Za mene."
+      },
+      {
+        "id": "t4",
+        "prompt": "Someone says kod me. What went wrong?",
+        "options": [
+          "They needed ja",
+          "They used the short form after a little word",
+          "Coffee switched piles"
+        ],
+        "correctIndex": 1,
+        "explanation": "After kod you need mene."
+      },
+      {
+        "id": "t5",
+        "prompt": "I want coffee. Which form does the wanting?",
+        "options": [
+          "mene",
+          "me",
+          "ja"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ja is the name-it form. Mene and me are the ones that get hit."
+      },
+      {
+        "id": "t6",
+        "prompt": "See you, everyday lean. Which form?",
+        "options": [
+          "tebe",
+          "te",
+          "ti"
+        ],
+        "correctIndex": 1,
+        "explanation": "Short te leans on the doing-word, same habit as me."
+      },
+      {
+        "id": "t7",
+        "prompt": "The coffee is for you. Which form after za?",
+        "options": [
+          "te",
+          "tebe",
+          "ti"
+        ],
+        "correctIndex": 1,
+        "explanation": "Little word in front needs the long form. Za tebe."
+      },
+      {
+        "id": "t8",
+        "prompt": "Boli me glava. Why me, not mene?",
+        "options": [
+          "Because heads are leftover",
+          "Because short me leans on boli",
+          "Because me means my"
+        ],
+        "correctIndex": 1,
+        "explanation": "The doing-word carries the lean. Long mene is for standing alone or following a little word."
+      },
+      {
+        "id": "t9",
+        "prompt": "Are mene and me different people?",
+        "options": [
+          "Yes",
+          "No. Same me in two outfits.",
+          "Yes. Mene is a different person from me."
+        ],
+        "correctIndex": 1,
+        "explanation": "This is long versus short for the same person."
+      },
+      {
+        "id": "t10",
+        "prompt": "Which line needs the long form?",
+        "options": [
+          "Vidi me.",
+          "Kod mene.",
+          "Boli me."
+        ],
+        "correctIndex": 1,
+        "explanation": "Kod is the little word in front. The other two lean on doing-words."
+      }
+    ]
+  },
+  "quiz": {
+    "title": "Quick check",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q1",
+        "question": "The beer is for him. Which form after za?",
+        "options": [
+          "njega",
+          "ga",
+          "on",
+          "mu"
+        ],
+        "correctIndex": 0,
+        "explanation": "Za needs the long form. Za njega. Short ga leans on a doing-word like Vidim ga."
+      },
+      {
+        "id": "q2",
+        "question": "Danas pijemo kahvu kod mene. Why mene?",
+        "options": [
+          "Because coffee is she",
+          "Because kod needs the long form",
+          "Because mene means my coffee",
+          "Because short me is rude"
+        ],
+        "correctIndex": 1,
+        "explanation": "A little word in front leaves short me nowhere to lean."
+      },
+      {
+        "id": "q3",
+        "question": "Vidi me uses which outfit?",
+        "options": [
+          "Long form",
+          "Name-it ja",
+          "Short form leaning on the doing-word",
+          "Matching moja"
+        ],
+        "correctIndex": 2,
+        "explanation": "Short me rides behind vidi."
+      },
+      {
+        "id": "q4",
+        "question": "Which is wrong?",
+        "options": [
+          "kod mene",
+          "za mene",
+          "Vidi me",
+          "kod me"
+        ],
+        "correctIndex": 3,
+        "explanation": "Kod me is the pest. Use kod mene."
+      },
+      {
+        "id": "q5",
+        "question": "Ja želim kahvu. What is ja doing?",
+        "options": [
+          "Doing the wanting in the name-it form",
+          "Getting hit by the action",
+          "Standing after a little word",
+          "Matching the leftover pile"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ja does the thing. Mene and me get hit."
+      },
+      {
+        "id": "q6",
+        "question": "What comes next after pronouns?",
+        "options": [
+          "Matching my to coffee again as the only topic",
+          "Another matching chapter only",
+          "Present tense for real on doing-words",
+          "A seven-job mega chart"
+        ],
+        "correctIndex": 2,
+        "explanation": "Part 3 starts with Chapter 8, present tense."
+      }
+    ]
+  },
+  "next": {
+    "body": "You now know why mene and me are the same me in two outfits, and why kod mene needs the long form. Short forms lean on the doing-word. Chapter 8 starts the doing-word map for real, the present tense behind the Book 1 chunks. You still will not get a seven-job chart.",
+    "chapter": 8
+  },
+  "imageSlots": {
+    "hero": "cafe",
+    "afterPattern": "kahva",
+    "afterNerd": "toast"
+  },
+  "images": [
+    {
+      "id": "cafe",
+      "alt": "Polygon painting of guests at courtyard tables in Morića Han, Sarajevo, matching the credited Commons photo",
+      "localPath": "/images/book1/day-04-cafe-family.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mori%C4%87a_Han_%281%29.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mori%C4%87a_Han_(1).JPG",
+      "author": "JoJan",
+      "license": "CC BY 3.0",
+      "credit": "Morića Han courtyard café, Sarajevo",
+      "grammarCaption": "Amira’s coffee at her place needs kod mene, the long form after the little word."
+    },
+    {
+      "id": "kahva",
+      "alt": "Polygon painting of Bosnian coffee with džezva and fildžan on a copper tray",
+      "localPath": "/images/book1/day-03-kahva.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_coffee_(13926468997).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_coffee_(13926468997).jpg",
+      "author": "Michał Huniewicz",
+      "license": "CC BY 2.0",
+      "credit": "Bosnian coffee",
+      "grammarCaption": "Za mene keeps the long form because za sits in front of me."
+    },
+    {
+      "id": "toast",
+      "alt": "Polygon painting based on the credited Commons photo. Friends toasting at the finale party.",
+      "localPath": "/images/book1/day-30-friends-toast.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Wedding_Glasses_%284005789482%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWedding_Glasses_%284005789482%29.jpg",
+      "author": "Rennett Stowe from USA",
+      "license": "CC BY 2.0",
+      "credit": "Friends toasting",
+      "grammarCaption": "Vidi me can use the short form because the doing-word carries the lean."
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [
+    "G.7a cafe courtyard, G.7b Bosnian coffee, G.7c friends toast. Reused Book 1 paths with existing credits. No new photo files required."
+  ]
+}

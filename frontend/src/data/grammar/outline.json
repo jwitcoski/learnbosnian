@@ -13,25 +13,43 @@
       "part": 1,
       "title": "Endings, not word order",
       "focus": "Gender, then the cases, then the preposition map.",
-      "chapters": [0, 1, 2, 3, 4, 5]
+      "chapters": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     },
     {
       "part": 2,
       "title": "What has to match",
       "focus": "Adjectives and pronouns take the same ride as the noun.",
-      "chapters": [6, 7]
+      "chapters": [
+        6,
+        7
+      ]
     },
     {
       "part": 3,
       "title": "The verb machine",
       "focus": "Present, aspect, past, future, and commands.",
-      "chapters": [8, 9, 10, 11]
+      "chapters": [
+        8,
+        9,
+        10,
+        11
+      ]
     },
     {
       "part": 4,
       "title": "How a Bosnian sentence actually runs",
       "focus": "Clitics in second place, then the English-shaped mistakes.",
-      "chapters": [12, 13]
+      "chapters": [
+        12,
+        13
+      ]
     }
   ],
   "chapters": [
@@ -53,85 +71,85 @@
       "chapter": 2,
       "title": "Nominativ i akuzativ",
       "titleEn": "Subject and the thing you want",
-      "theme": "Želim kahvu. Who does it vs who gets it.",
-      "status": "outlined"
+      "theme": "Želim kahvu shows who does the wanting versus the thing you want.",
+      "status": "draft"
     },
     {
       "chapter": 3,
       "title": "Genitiv",
       "titleEn": "Of, from, none",
-      "theme": "Nema kahve. English of is a separate word here.",
-      "status": "outlined"
+      "theme": "Nema kahve shows that English of is a separate word here.",
+      "status": "draft"
     },
     {
       "chapter": 4,
       "title": "Dativ i lokativ",
       "titleEn": "To, at, about",
-      "theme": "Giving, liking, and in vs into.",
-      "status": "outlined"
+      "theme": "Dajem Ani kahvu shows giving to someone, sitting at a place, and in versus into.",
+      "status": "draft"
     },
     {
       "chapter": 5,
       "title": "Instrumental, vokativ, mapa",
       "titleEn": "With, calling, the map",
-      "theme": "S kahvom. Emire. One preposition map.",
-      "status": "outlined"
+      "theme": "S kahvom and Emire finish with and calling, then one map points the little words at jobs you already own.",
+      "status": "draft"
     },
     {
       "chapter": 6,
       "title": "Pridjevi",
       "titleEn": "Adjectives and possessives",
-      "theme": "Moja kahva vs moju kahvu.",
-      "status": "outlined"
+      "theme": "Moja kahva becomes moju kahvu when matching my rides with pile and job.",
+      "status": "draft"
     },
     {
       "chapter": 7,
       "title": "Zamjenice",
       "titleEn": "Full pronouns vs short ones",
-      "theme": "Mene vs me. After a preposition you need the long one.",
-      "status": "outlined"
+      "theme": "Mene versus me shows the long form after a little word like kod.",
+      "status": "draft"
     },
     {
       "chapter": 8,
       "title": "Prezent",
       "titleEn": "Present tense for real",
-      "theme": "Book 1 chunks become a full map.",
-      "status": "outlined"
+      "theme": "Želim, želiš, and želi show that who hangs on the end of the doing-word.",
+      "status": "draft"
     },
     {
       "chapter": 9,
       "title": "Vid",
-      "titleEn": "Aspect",
-      "theme": "Eat vs eat up. Two Bosnian verbs for one English verb.",
-      "status": "outlined"
+      "titleEn": "Eat versus eat up",
+      "theme": "English eat splits into two Bosnian verbs, one open along the way and one sealed when the plate is done.",
+      "status": "draft"
     },
     {
       "chapter": 10,
       "title": "Prošlost",
       "titleEn": "Past",
-      "theme": "Sam plus -o, -la, -lo. Gender in the past.",
-      "status": "outlined"
+      "theme": "Past tense hangs sam with -o, -la, or -lo so Emir and Ana split on the doing-word.",
+      "status": "draft"
     },
     {
       "chapter": 11,
       "title": "Budućnost i naredbe",
       "titleEn": "Future, want, must, do it",
-      "theme": "Ću. Polite vs blunt. Moći, morati, trebati, htjeti.",
-      "status": "outlined"
+      "theme": "Tomorrow uses ću, commands split blunt and polite, and moći, morati, trebati, and htjeti cover can, must, need, and want.",
+      "status": "draft"
     },
     {
       "chapter": 12,
       "title": "Enklitike",
       "titleEn": "Clitics and second place",
       "theme": "Ja se zovem works. Se zovem does not.",
-      "status": "outlined"
+      "status": "draft"
     },
     {
       "chapter": 13,
       "title": "Šta Englezi krivo kažu",
       "titleEn": "Patterns English speakers get wrong",
-      "theme": "Mixed review. The whole-book map.",
-      "status": "outlined"
+      "theme": "This mixed review walks the whole-book map without opening a new system.",
+      "status": "draft"
     }
   ]
 }

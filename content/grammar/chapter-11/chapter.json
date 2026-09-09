@@ -1,0 +1,470 @@
+{
+  "chapter": 11,
+  "kind": "grammar",
+  "title": "Budućnost i naredbe",
+  "titleEn": "Future, want, must, do it",
+  "theme": "Tomorrow uses ću, commands split blunt and polite, and moći, morati, trebati, and htjeti cover can, must, need, and want.",
+  "status": "draft",
+  "reviewedAt": "2026-09-09T15:05:00Z",
+  "reviewerNotes": "Mold polish re-applied after concurrent Bosnian-editor overwrite. Full-sentence theme; no verb-machine voice; ću second-place only (no Ću-first); blunt/polite Radi/Radite and Pij/Pijte; café modals; aspect bleed trimmed from pattern; table One form / Sister form; Chapter 12 clitic tease kept light. Bosnian retained/checked: ću/ćeš/će/ćemo/ćete/će, Radi/Radite, Pij/Pijte, Idi/Idite, mogu/moram/trebam/hoću and polite sisters. Still draft pending human publish decision. Residual native spot-check after Fact Checker mold repairs (2026-09-09T14:53:05Z): re-checked cases, conjugations, glosses, Latin/diacritics, and quiz/try keys; focus on Ch9 Popijem present-as-future, Ch5 vocatives, Ch13 shelf balance, and Ch11 trebati (recommend only, no silent rewrite). Final native try/quiz sweep: removed cat-plot/joke weak distractors; replaced select meta slots with named undrilled drills (Ano, za njega, Hoću, Pijte, Doći ću, tata, Nema auta, moja prijateljica); Ch11 trebati personal+acc left untouched; status draft.",
+  "estimatedMinutes": 45,
+  "whyHere": {
+    "heading": "Why you are here",
+    "body": "Today you learn three café tools that travel together. Future uses short ću, ćeš, će, ćemo, ćete, će plus an infinitive, as in Ti ćeš piti kahvu for you will drink coffee. Commands have a blunt form and a polite form, as in Radi versus Radite. Want, must, need, and can sit on htjeti, morati, trebati, and moći. English spreads these across will, please, and helper verbs. Bosnian keeps them short. This chapter is that bundle, and clitic second place waits for Chapter 12."
+  },
+  "englishLies": {
+    "heading": "Why English lies",
+    "body": "English lies because will, please, can, must, and need feel like separate drawers. You will drink, drink please, you must drink, and you can drink each grab different helpers and tones. Bosnian reuses a tiny future helper, a command ending, and four everyday modal verbs. Hoću overlaps with wanting. Moram is I must. Trebam is I need. Mogu is I can. Schools may split budućnost, imperativ, and modalni glagoli onto three posters. In this notebook they share one day because you meet them in the same café turn."
+  },
+  "knownLine": {
+    "heading": "A line you already say",
+    "body": "Book 1 already gave you Ana’s line Želim kahvu, which means I want coffee. Wanting also rides on htjeti, so Hoću kahvu is a blunt cousin you will hear. Emir can answer Ja ću piti kahvu when he means I will drink coffee. Amira can soften a command to Molim, radite or keep it blunt with Radi. Today you map those moves without inventing English word-for-word copies.",
+    "speaker": "Emir",
+    "bosnian": "Ja ću piti kahvu.",
+    "english": "I will drink coffee."
+  },
+  "pattern": {
+    "heading": "The pattern",
+    "body": "Future is a short helper plus an infinitive. Ja ću piti, ti ćeš piti, on će piti, mi ćemo piti, vi ćete piti, oni će piti. The helper likes second place, so Ja ću piti kahvu and Piti ću kahvu both appear, and a naked Ću at the start of a sentence is wrong. Commands cut to a short stem for one friend, as in Radi, Pij, and Idi, and they add -te for polite or plural, as in Radite, Pijte, and Idite. The modal row is small. Mogu means I can. Moram means I must. Trebam means I need. Hoću means I want. Keep the Chapter 8 who-endings on those modals, and leave the finish of the action for another day.",
+    "table": {
+      "headers": [
+        "Tool",
+        "One form",
+        "Sister form"
+      ],
+      "rows": [
+        [
+          "Future I / you",
+          "Ja ću piti.",
+          "Ti ćeš piti."
+        ],
+        [
+          "Future, verb first",
+          "Piti ću.",
+          "Piti ćeš."
+        ],
+        [
+          "Command work",
+          "Radi!",
+          "Radite!"
+        ],
+        [
+          "Command drink",
+          "Pij!",
+          "Pijte!"
+        ],
+        [
+          "Can / must",
+          "Mogu. Moram.",
+          "Možete. Morate."
+        ],
+        [
+          "Need / want",
+          "Trebam. Hoću.",
+          "Trebate. Hoćete."
+        ]
+      ]
+    }
+  },
+  "howYouGuess": {
+    "heading": "The pests",
+    "body": "Three pests will trip you today. The first pest is stacking English will onto a present form, as in will pijem, or parking ću at the front of the sentence. Use Ja ću piti or Piti ću. The second pest is barking Radi at a stranger when Radite or a soft molim would fit. Blunt is fine with friends. Polite -te is safer with new people. The third pest is mixing trebati and morati. Moram is duty pressure. Trebam is need. Hoću is want, and it is not the same soft wish as želim in every room, even when both translate want."
+  },
+  "trick": {
+    "heading": "The bit that tricks you",
+    "body": "The trap is to treat ću as optional flavor on a present sentence, or to put ću first. Ja ću piti is future. Pijem is present. Ću piti with nothing before ću breaks the second-place habit Chapter 12 will name. The other trap is to hear Hoću kahvu and decide Bosnian lost želim. Both live. Želim often sounds like a plain want from Book 1. Hoću can sound stronger or more blunt. For commands, do not add please into the verb ending. Molim is a separate softener beside Radite.",
+    "table": {
+      "headers": [
+        "English aim",
+        "Bosnian tool",
+        "Watch"
+      ],
+      "rows": [
+        [
+          "I will drink coffee.",
+          "Ja ću piti kahvu.",
+          "ću in second place"
+        ],
+        [
+          "Drink!",
+          "Pij!",
+          "blunt command"
+        ],
+        [
+          "Please drink.",
+          "Pijte. / Molim, pijte.",
+          "polite -te"
+        ],
+        [
+          "I must go.",
+          "Moram ići.",
+          "morati, not trebati"
+        ],
+        [
+          "I can.",
+          "Mogu.",
+          "moći changes shape"
+        ]
+      ]
+    }
+  },
+  "nerd": {
+    "heading": "Why it's like this",
+    "body": "Old English is the English of England about a thousand years ago, not a class you missed. It had its own future hacks and command forms, and later English rebuilt future with will and going to. You speak that rebuilt kit. Please stayed a separate soft word, the way molim still sits beside a command in Bosnian.\n\nBosnian future helpers are worn-down bits of htjeti, the want verb, which is why ću smells like wanting while it marks time. Commands keep an old short stem. The modal row is just high-frequency verbs that take infinitives the way English can and must do. Schools split the posters. Café talk bundles them, so this chapter does too."
+  },
+  "vocabulary": [
+    {
+      "bosnian": "htjeti",
+      "english": "to want",
+      "pronunciation": "HTYEH-tee",
+      "partOfSpeech": "verb",
+      "example": "Hoću kahvu."
+    },
+    {
+      "bosnian": "moći",
+      "english": "to be able / can",
+      "pronunciation": "MO-chee",
+      "partOfSpeech": "verb",
+      "example": "Mogu doći."
+    },
+    {
+      "bosnian": "morati",
+      "english": "to have to / must",
+      "pronunciation": "MO-rah-tee",
+      "partOfSpeech": "verb",
+      "example": "Moram ići."
+    },
+    {
+      "bosnian": "trebati",
+      "english": "to need",
+      "pronunciation": "TREH-bah-tee",
+      "partOfSpeech": "verb",
+      "example": "Trebam kahvu."
+    },
+    {
+      "bosnian": "piti",
+      "english": "to drink",
+      "pronunciation": "PEE-tee",
+      "partOfSpeech": "verb",
+      "example": "Ja ću piti kahvu."
+    },
+    {
+      "bosnian": "raditi",
+      "english": "to work / to do",
+      "pronunciation": "RAH-dee-tee",
+      "partOfSpeech": "verb",
+      "example": "Radite, molim."
+    }
+  ],
+  "speakTargets": [
+    0,
+    1,
+    2
+  ],
+  "look": {
+    "heading": "Look at these",
+    "items": [
+      {
+        "speaker": "Emir",
+        "bosnian": "Ja ću piti kahvu.",
+        "english": "I will drink coffee. Future helper ću sits in second place plus the infinitive."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Doći ćeš?",
+        "english": "Will you come? Ćeš stays second. A naked ćeš at the front is wrong."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Mi ćemo raditi sutra.",
+        "english": "We will work tomorrow. Ćemo plus raditi, still not first."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Radi!",
+        "english": "Work! Blunt command to one friend."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Radite, molim.",
+        "english": "Work, please. Polite -te plus molim as a separate softener."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Pij kahvu.",
+        "english": "Drink coffee. Blunt command to one friend."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Pijte kahvu.",
+        "english": "Drink coffee. Polite or plural command with -te."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Hoću kahvu.",
+        "english": "I want coffee. Htjeti in the present, a blunt cousin of želim."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Moram ići kući.",
+        "english": "I must go home. Morati for duty pressure."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Trebam pivo.",
+        "english": "I need a beer. Trebati for need, not duty."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Mogu doći.",
+        "english": "I can come. Moći for ability."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Idite na most.",
+        "english": "Go to the bridge. Polite command with the same -te habit."
+      }
+    ]
+  },
+  "try": {
+    "heading": "Try these",
+    "items": [
+      {
+        "id": "t1",
+        "prompt": "I will drink coffee.",
+        "options": [
+          "Pijem kahvu will.",
+          "Ja ću piti kahvu.",
+          "Pio sam kahvu."
+        ],
+        "correctIndex": 1,
+        "explanation": "Future is ću in second place plus infinitive."
+      },
+      {
+        "id": "t2",
+        "prompt": "Will you come?",
+        "options": [
+          "Doći ćeš?",
+          "Ćeš doći with ćeš first.",
+          "Idem će."
+        ],
+        "correctIndex": 0,
+        "explanation": "Ćeš cannot open the sentence. Doći ćeš keeps it second."
+      },
+      {
+        "id": "t3",
+        "prompt": "Blunt command. Work!",
+        "options": [
+          "Radi!",
+          "Radite!",
+          "Ću raditi!"
+        ],
+        "correctIndex": 0,
+        "explanation": "Short blunt form for one friend."
+      },
+      {
+        "id": "t4",
+        "prompt": "Polite command. Work.",
+        "options": [
+          "Radi!",
+          "Radite!",
+          "Radila!"
+        ],
+        "correctIndex": 1,
+        "explanation": "Add -te for polite or plural."
+      },
+      {
+        "id": "t5",
+        "prompt": "I must go home.",
+        "options": [
+          "Trebam ići kući.",
+          "Moram ići kući.",
+          "Hoću ići as must."
+        ],
+        "correctIndex": 1,
+        "explanation": "Morati carries duty. Trebati is need."
+      },
+      {
+        "id": "t6",
+        "prompt": "I need coffee.",
+        "options": [
+          "Moram kahvu.",
+          "Trebam kahvu.",
+          "Mogu kahvu."
+        ],
+        "correctIndex": 1,
+        "explanation": "Trebati is need."
+      },
+      {
+        "id": "t7",
+        "prompt": "I can come.",
+        "options": [
+          "Mogu doći.",
+          "Moram doći as can.",
+          "Ću mogu doći."
+        ],
+        "correctIndex": 0,
+        "explanation": "Moći for ability."
+      },
+      {
+        "id": "t8",
+        "prompt": "Someone says will pijem kahvu. What is the fix?",
+        "options": [
+          "Keep the English will.",
+          "Use Ja ću piti kahvu.",
+          "Switch to past sam only."
+        ],
+        "correctIndex": 1,
+        "explanation": "Future wants ću in second place plus infinitive."
+      },
+      {
+        "id": "t9",
+        "prompt": "Softening a polite command often adds which word?",
+        "options": [
+          "molim",
+          "most",
+          "ono"
+        ],
+        "correctIndex": 0,
+        "explanation": "Molim sits beside Radite or Pijte. It is not baked into the ending."
+      },
+      {
+        "id": "t10",
+        "prompt": "I want coffee (blunt café want).",
+        "options": [
+          "Moram kahvu.",
+          "Trebam kahvu.",
+          "Hoću kahvu."
+        ],
+        "correctIndex": 2,
+        "explanation": "Htjeti gives Hoću for want. Trebam is need. Moram is duty."
+      }
+    ]
+  },
+  "quiz": {
+    "title": "Quick check",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Polite command. Drink the coffee.",
+        "options": [
+          "Pijte kahvu.",
+          "Pij kahvu.",
+          "Pila kahvu.",
+          "Ću piti kahvu."
+        ],
+        "correctIndex": 0,
+        "explanation": "Add -te for polite or plural. Pij is blunt for one friend."
+      },
+      {
+        "id": "q2",
+        "question": "How do you build I will drink coffee?",
+        "options": [
+          "Will pijem kahvu",
+          "Ja ću piti kahvu",
+          "Pio sam kahvu",
+          "Ću piti kahvu with ću first"
+        ],
+        "correctIndex": 1,
+        "explanation": "Helper ću sits in second place plus infinitive piti."
+      },
+      {
+        "id": "q3",
+        "question": "Radi versus Radite is which contrast?",
+        "options": [
+          "Open versus sealed",
+          "He pile versus she pile",
+          "Blunt versus polite or plural",
+          "Past versus present"
+        ],
+        "correctIndex": 2,
+        "explanation": "Commands add -te for polite or plural."
+      },
+      {
+        "id": "q4",
+        "question": "Moram ići marks which meaning?",
+        "options": [
+          "I want",
+          "I can",
+          "I will as a command",
+          "I must"
+        ],
+        "correctIndex": 3,
+        "explanation": "Morati is duty. Trebati is need. Hoću is want."
+      },
+      {
+        "id": "q5",
+        "question": "Mogu doći means what?",
+        "options": [
+          "I can come",
+          "I must come",
+          "I came",
+          "Come! blunt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Moći is ability."
+      },
+      {
+        "id": "q6",
+        "question": "What comes next after future, commands, and modals?",
+        "options": [
+          "Chapter 1 piles again as the only topic",
+          "Past gender endings only",
+          "Clitics and second place",
+          "Adjective matching only"
+        ],
+        "correctIndex": 2,
+        "explanation": "Chapter 12 is enklitike. Ja se zovem works. Se zovem does not."
+      }
+    ]
+  },
+  "next": {
+    "body": "You now have ću for tomorrow, blunt versus polite commands, and the café row mogu, moram, trebam, and hoću. Chapter 12 is why little words like se and sam hunt second place in the sentence. Ja se zovem works. Se zovem does not. That habit finishes the grammar walk before the English-shaped mistakes review.",
+    "chapter": 12
+  },
+  "imageSlots": {
+    "hero": "setnja",
+    "afterPattern": "kafana",
+    "afterNerd": "toast"
+  },
+  "images": [
+    {
+      "id": "setnja",
+      "alt": "Polygon painting of Ferhadija street in Sarajevo with walkers ahead",
+      "localPath": "/images/book1/day-19-ferhadija-walk.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ferhadija%20street%20Sarajevo.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ferhadija_street_Sarajevo.jpg",
+      "author": "Mark Chorlton from Stockport, UK",
+      "license": "CC BY-SA 2.0",
+      "credit": "Ferhadija, Sarajevo",
+      "grammarCaption": "Idite na most is the polite command shape, while Idi stays blunt for one friend."
+    },
+    {
+      "id": "kafana",
+      "alt": "Polygon painting of a Bosnian coffee service ready at a café table",
+      "localPath": "/images/book1/day-21-cafe-plan.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bosanska_Kahva_%282496827374%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABosanska_Kahva_%282496827374%29.jpg",
+      "author": "Brenda Annerl",
+      "license": "CC BY 2.0",
+      "credit": "Bosanska Kahva",
+      "grammarCaption": "Ja ću piti kahvu hangs the future on ću in second place plus the infinitive, not on an English will stuck in front of pijem."
+    },
+    {
+      "id": "toast",
+      "alt": "Polygon painting of two glasses raised in a toast",
+      "localPath": "/images/book1/day-30-friends-toast.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Wedding_Glasses_%284005789482%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWedding_Glasses_%284005789482%29.jpg",
+      "author": "Rennett Stowe from USA",
+      "license": "CC BY 2.0",
+      "credit": "Friends toasting",
+      "grammarCaption": "Hoću, moram, trebam, and mogu are the short café row for want, must, need, and can."
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [
+    "G.11a-c refs are not in attributions yet. Reused Ferhadija walk, café coffee, and friends toast with original credits. A blunt-versus-polite gesture panel would sharpen Radi versus Radite later."
+  ]
+}

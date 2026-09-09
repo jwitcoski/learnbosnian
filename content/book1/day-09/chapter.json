@@ -264,7 +264,8 @@
         "bosnian": "Evo mlijeka. Doviđenja!",
         "english": "Here is the milk. Goodbye!"
       }
-    ]
+    ],
+    "imageId": "produce-market"
   },
   "puzzles": [
     {
@@ -373,7 +374,8 @@
     },
     {
       "title": "Tuzla’s other fame",
-      "body": "Tuzla is a major northeast city with its own market rhythm. It is known for salt heritage and for a large urban center that is not Baščaršija. A shopping day there feels local and practical rather than tourist-postcard. That is why Emir uses Tuzla photos when Ana practices prodavnica language."
+      "body": "Tuzla is a major northeast city with its own market rhythm. It is known for salt heritage and for a large urban center that is not Baščaršija. A shopping day there feels local and practical rather than tourist-postcard. That is why Emir uses Tuzla photos when Ana practices prodavnica language.",
+      "imageId": "fruit-stall"
     },
     {
       "title": "Molim does double duty",
@@ -694,6 +696,26 @@
       "author": "Apokar",
       "license": "CC BY-SA 4.0",
       "credit": "Museum of East Bosnia, Tuzla"
+    },
+    {
+      "id": "produce-market",
+      "alt": "People shop at an open produce market in Bosnia",
+      "localPath": "/images/book1/day-09-produce-market.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/City_Produce_Market_%286042748651%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACity_Produce_Market_%286042748651%29.jpg",
+      "author": "Jennifer Boyer from Fredrick, Maryland, USA",
+      "license": "CC BY 2.0",
+      "credit": "Produce market"
+    },
+    {
+      "id": "fruit-stall",
+      "alt": "A fruit seller tends a colorful stall at the market",
+      "localPath": "/images/book1/day-09-fruit-stall.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Fruit_stall%2C_Sarajevo_%283887477230%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFruit_stall%2C_Sarajevo_%283887477230%29.jpg",
+      "author": "NH53",
+      "license": "CC BY 2.0",
+      "credit": "Market stall"
     }
   ],
   "imagesNeeded": false,

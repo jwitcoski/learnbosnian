@@ -239,7 +239,8 @@
         "bosnian": "Bravo, Ana! Našla si most.",
         "english": "Bravo, Ana! You found the bridge."
       }
-    ]
+    ],
+    "imageId": "latin-bridge"
   },
   "puzzles": [
     {
@@ -346,7 +347,8 @@
     },
     {
       "title": "Konjic rebuilt an older crossing",
-      "body": "The old stone bridge in Konjic crosses the Neretva River. The original Ottoman bridge was destroyed during the Second World War, and a careful reconstruction opened in 2009. Its stone arch again links the two sides of the town center. The restored crossing gives direction practice a second bridge beyond Sarajevo."
+      "body": "The old stone bridge in Konjic crosses the Neretva River. The original Ottoman bridge was destroyed during the Second World War, and a careful reconstruction opened in 2009. Its stone arch again links the two sides of the town center. The restored crossing gives direction practice a second bridge beyond Sarajevo.",
+      "imageId": "konjic-bridge"
     },
     {
       "title": "Lijeva keeps its full spelling",
@@ -581,13 +583,13 @@
   "images": [
     {
       "id": "latin-bridge",
-      "alt": "Polygon painting of Latin Bridge crossing the Miljacka River in Sarajevo",
+      "alt": "Tourists pause on Latin Bridge in Sarajevo",
       "localPath": "/images/book1/day-15-latin-bridge.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Latin_Bridge_in_Sarajevo.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALatin_Bridge_in_Sarajevo.jpg",
-      "author": "Tumi-1983",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Latin%20Bridge,%20Sarajevo.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Latin_Bridge%2C_Sarajevo.jpg",
+      "author": "Đana Talić",
       "license": "CC0",
-      "credit": "Latin Bridge in Sarajevo"
+      "credit": "Latin Bridge, Sarajevo"
     },
     {
       "id": "latin-bridge-2",
@@ -601,13 +603,13 @@
     },
     {
       "id": "konjic-bridge",
-      "alt": "Polygon painting of the old stone bridge crossing the Neretva in Konjic",
+      "alt": "People cross the old stone bridge in Konjic",
       "localPath": "/images/book1/day-15-konjic-bridge.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Konjic_Stari_most_7.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKonjic_Stari_most_7.jpg",
-      "author": "Julian Nyča",
-      "license": "CC BY-SA 3.0",
-      "credit": "Old Bridge, Konjic"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Konjic,%20Bosnia%20and%20Herzegovina.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Konjic%2C_Bosnia_and_Herzegovina.jpg",
+      "author": "Boris Maric",
+      "license": "CC0",
+      "credit": "Konjic old town"
     },
     {
       "id": "civic-mines",

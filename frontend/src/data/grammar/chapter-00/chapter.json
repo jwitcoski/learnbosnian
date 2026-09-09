@@ -3,22 +3,22 @@
   "kind": "grammar",
   "title": "Zašto je teško?",
   "titleEn": "Why this feels hard",
-  "theme": "A map of four systems. English keeps the word still. Bosnian dresses it again.",
+  "theme": "This page is only a map of four systems, because English keeps the word still and Bosnian dresses it again.",
   "status": "draft",
-  "reviewedAt": null,
-  "reviewerNotes": "Orientation plus a fat map of piles, jobs, matching, and doing-words. No full charts.",
+  "reviewedAt": "2026-09-09T15:05:00Z",
+  "reviewerNotes": "Pedagogy polish after Fact Checker. Preserved Bosnian-editor forms (kahva/kahvu, most, kuća, Želim/želi, Ana/Emir/Amira lines, Latin only). Fixed theme slogan dump. Ch0 map exception kept: name systems and point ahead; no working charts. Vocab heads stay dictionary/list forms. Status draft; reviewedAt null. Final native try/quiz sweep: removed cat-plot/joke weak distractors; replaced select meta slots with named undrilled drills (Ano, za njega, Hoću, Pijte, Doći ću, tata, Nema auta, moja prijateljica); Ch11 trebati personal+acc left untouched; status draft.",
   "estimatedMinutes": 25,
   "whyHere": {
     "heading": "Why you are here",
-    "body": "This chapter is the map of the notebook, not a full Bosnian grammar lesson. You may already know Ana’s Book 1 line Želim kahvu, which means I want coffee. That line is the same drink as kahva, with a different ending because the job in the sentence changed. When you close the laptop you should know what this book will teach, and what it will wait on. English hides the work in little words like the and to. Bosnian hides it on the end of words like coffee."
+    "body": "This chapter is the map of the notebook, not a full Bosnian grammar lesson. You may already know Ana's Book 1 line Želim kahvu, which means I want coffee. That line is the same drink as kahva, with a different ending because the job in the sentence changed. When you close this page you should know what this book will teach later, and what it will wait on. English hides the work in little words like the and to. Bosnian hides it on the end of words like coffee."
   },
   "englishLies": {
     "heading": "Why English lies",
-    "body": "English lies because it keeps the word coffee the same in every job. You can say this is coffee and I want coffee without touching a single letter. You already do a tiny version of the Bosnian trick with people. You say I when you do the thing, and me when the thing happens to you. Coffee in English does not bother. Bosnian coffee does, so the list word kahva becomes kahvu when Ana wants the drink. That one change is not a tense, and it is not a new pile. It is a preview of work this book will unpack later."
+    "body": "English lies because it keeps the word coffee the same in every job. You can say this is coffee and I want coffee without touching a single letter. You already do a tiny version of the Bosnian trick with people when you say I if you do the thing and me if the thing happens to you. Coffee in English never bothers. Bosnian coffee does, so the list word kahva becomes kahvu when Ana wants the drink. That one change is not a tense, and it is not a new pile. It is a preview of work this book will unpack one system at a time."
   },
   "knownLine": {
     "heading": "A line you already say",
-    "body": "Book 1 already gave you a line you can say without a chart, and this book is the chart behind it. Ana wants coffee, so she says Želim kahvu instead of repeating the list word kahva. Today you only need the shock that the word changed. The rest of the book explains the change in pieces, one system at a time.",
+    "body": "Book 1 already gave you Ana's line Želim kahvu, which means I want coffee. She does not repeat the list word kahva, because wanting the drink is a different job from naming it. Today you only need the shock that the word changed. The rest of this notebook explains that change in pieces, one system a day, with the same coffee, bridge, and house.",
     "speaker": "Ana",
     "bosnian": "Želim kahvu.",
     "english": "I want coffee."
@@ -27,13 +27,37 @@
     "heading": "The map",
     "body": "This notebook teaches four big systems, then a last habit about little words, and it refuses to teach them on the same page. Piles file a word as he, she, or leftover. Jobs change the end of a thing-word when you name it, want it, have none of it, give it, or go with it. Matching words like my have to ride with that pile and that job. Doing-words change for time, and for whether the action is finished. Little words like se then sit in second place in the sentence. You will meet each system on its own day, with the same coffee, bridge, and house.",
     "table": {
-      "headers": ["System", "Plain English", "Later"],
+      "headers": [
+        "System",
+        "Plain English",
+        "Later"
+      ],
       "rows": [
-        ["Piles", "He, she, leftover. File the word.", "Chapter 1"],
-        ["Jobs", "Name it, want it, none of it, to it, with it.", "Chapters 2 to 5"],
-        ["Matching", "My has to ride with coffee.", "Chapters 6 and 7"],
-        ["Doing-words", "Now, past, future, eat vs eat up.", "Chapters 8 to 11"],
-        ["Little words", "They sit in second place.", "Chapter 12"]
+        [
+          "Piles",
+          "He, she, leftover. File the word.",
+          "Chapter 1"
+        ],
+        [
+          "Jobs",
+          "Name it, want it, none of it, to it, with it.",
+          "Chapters 2 to 5"
+        ],
+        [
+          "Matching",
+          "My has to ride with coffee.",
+          "Chapters 6 and 7"
+        ],
+        [
+          "Doing-words",
+          "Now, past, future, eat vs eat up.",
+          "Chapters 8 to 11"
+        ],
+        [
+          "Little words",
+          "They sit in second place.",
+          "Chapter 12"
+        ]
       ]
     }
   },
@@ -43,11 +67,11 @@
   },
   "trick": {
     "heading": "The mix-up to skip",
-    "body": "The trap is to call every change a tense. Tense is time on a doing-word, like now versus past. Most of the headache is not time. Thing-words change for the job in the sentence, and they also sit in a pile. Those are different systems. This book skips the tourist walk on purpose so the notebook can stay on those endings. There are no civic notes and no cat plot here, because Book 1 already owns that walk through town."
+    "body": "The trap is to call every change a tense. Tense is time on a doing-word, like now versus past. Most of the headache is not time. Thing-words change for the job in the sentence, and they also sit in a pile. Those are different systems. Keep the map in your pocket, and wait for one chapter to open one box. Do not ask tomorrow for every ending on one page."
   },
   "nerd": {
     "heading": "Why it's like this",
-    "body": "Old English is not a class you missed. It is the English people actually spoke in England about a thousand years ago. Farmers, priests, and kings around Winchester used it. You do not speak it because languages keep changing. Parents slur, kids copy the slur, and after enough centuries the extra endings fall off. A later mix with French in England sped that wearing-down up, so the English in your mouth is the later, simpler version that won.\n\nThat older English hung extra letters on the end of a thing-word to show the job, the same habit Bosnian still has. You can still see a scrap of it when you say I if you do the thing and me if the thing happens to you. Coffee lost those outfits, so this is coffee and I want coffee stay the same. Bosnian never fired the endings on kahva. English moved the work off the word. Bosnian left it on."
+    "body": "Old English is not a class you missed. It is the English people actually spoke in England about a thousand years ago. Farmers, priests, and kings around Winchester used it. You do not speak it because languages keep changing. Parents slur, kids copy the slur, and after enough centuries the extra endings fall off. Later English also mixed with French in England, and over centuries the extra endings kept falling off, so the English in your mouth is the later, simpler version.\n\nThat older English hung extra letters on the end of a thing-word to show the job, the same habit Bosnian still has. You can still see a scrap of it when you say I if you do the thing and me if the thing happens to you. Coffee lost those outfits, so this is coffee and I want coffee stay the same. Bosnian never fired the endings on kahva. English moved the work off the word. Bosnian left it on."
   },
   "vocabulary": [
     {
@@ -70,16 +94,34 @@
       "pronunciation": "KOO-cha",
       "partOfSpeech": "noun",
       "example": "To je kuća."
+    },
+    {
+      "bosnian": "pivo",
+      "english": "beer",
+      "pronunciation": "PEE-vo",
+      "partOfSpeech": "noun",
+      "example": "To je pivo."
+    },
+    {
+      "bosnian": "Ana",
+      "english": "Ana",
+      "pronunciation": "AH-nah",
+      "partOfSpeech": "noun",
+      "example": "Ana želi kahvu."
     }
   ],
-  "speakTargets": [0, 1],
+  "speakTargets": [
+    0,
+    1,
+    2
+  ],
   "look": {
     "heading": "Look at these",
     "items": [
       {
-        "speaker": "Ana",
+        "speaker": "Amira",
         "bosnian": "To je kahva.",
-        "english": "That is coffee, still in the list form. Naming it is one job."
+        "english": "That is coffee in the list form. Naming it is one job, and Chapter 2 opens that box."
       },
       {
         "speaker": "Ana",
@@ -89,12 +131,32 @@
       {
         "speaker": "Emir",
         "bosnian": "To je most.",
-        "english": "That is a bridge, still in the list form. Chapter 1 will file this word in a different pile from coffee."
+        "english": "That is a bridge in the list form. Chapter 1 will file this word in a different pile from coffee."
       },
       {
         "speaker": "Amira",
         "bosnian": "To je kuća.",
-        "english": "That is a house, and this word will move later too. Same small set all book long."
+        "english": "That is a house. Same small set all book long, and this word will move later too."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "To je pivo.",
+        "english": "That is beer. Another word from the same tiny grocery list, waiting for its pile day."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Ana želi kahvu.",
+        "english": "Ana wants coffee. Matching words like my will have to ride with this later."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Emir želi pivo.",
+        "english": "Emir wants beer. Doing-words will get their own chapters for now, past, and finish."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Ja se zovem Amira.",
+        "english": "I call myself Amira. Little words like se sit in second place, and that habit waits until Chapter 12."
       }
     ]
   },
@@ -104,16 +166,22 @@
       {
         "id": "t1",
         "prompt": "In English, does coffee change when you want it?",
-        "options": ["Yes", "No"],
+        "options": [
+          "Yes",
+          "No"
+        ],
         "correctIndex": 1,
         "explanation": "I want coffee uses the same word as this is coffee."
       },
       {
         "id": "t2",
         "prompt": "In Želim kahvu, did kahva stay kahva?",
-        "options": ["Yes", "No"],
+        "options": [
+          "Yes",
+          "No"
+        ],
         "correctIndex": 1,
-        "explanation": "It became kahvu because the job in the sentence changed. That job is not today’s chart."
+        "explanation": "It became kahvu because the job in the sentence changed. That job is not today's chart."
       },
       {
         "id": "t3",
@@ -138,7 +206,7 @@
       },
       {
         "id": "t5",
-        "prompt": "This book is…",
+        "prompt": "What is this book?",
         "options": [
           "The walk through town",
           "The notebook next to Book 1",
@@ -189,12 +257,12 @@
         "id": "q1",
         "question": "Why does Bosnian feel harder than English at first?",
         "options": [
-          "The alphabet has no vowels",
           "The work sits on the end of the word",
+          "The alphabet has no vowels",
           "Every sentence needs a new vocab list",
           "You must learn three languages at once"
         ],
-        "correctIndex": 1,
+        "correctIndex": 0,
         "explanation": "English hid the work in little words. Bosnian left it on the thing-word."
       },
       {
@@ -204,7 +272,7 @@
           "A full chart of every ending",
           "A map of later systems",
           "The past tense lesson",
-          "A café scene with Mrvica"
+          "A present-tense who-map drill"
         ],
         "correctIndex": 1,
         "explanation": "Piles, jobs, matching, and doing-words each get their own later chapter."
@@ -214,11 +282,11 @@
         "question": "In English, I want coffee uses the same coffee as this is coffee. What did Bosnian do?",
         "options": [
           "It added the in front",
-          "It changed the last letter",
           "It switched to a new drink",
+          "It changed the last letter",
           "It moved the doing-word to the end"
         ],
-        "correctIndex": 1,
+        "correctIndex": 2,
         "explanation": "Kahva became kahvu. Chapter 1 is the pile. Chapter 2 is that job."
       },
       {
@@ -226,23 +294,23 @@
         "question": "Why is naming coffee versus wanting coffee not a tense?",
         "options": [
           "Because Bosnian has no time words",
-          "Tense is time on a doing-word. This is a job on coffee.",
           "Because kahvu is polite",
-          "Because lists never change"
+          "Because lists never change",
+          "Tense is time on a doing-word. This is a job on coffee."
         ],
-        "correctIndex": 1,
+        "correctIndex": 3,
         "explanation": "Jobs live on thing-words. Tense lives on doing-words, later in the book."
       },
       {
         "id": "q5",
-        "question": "Old English is the English of England about a thousand years ago. Why don’t you speak it?",
+        "question": "Old English is the English of England about a thousand years ago. Why don't you speak it?",
         "options": [
-          "Schools banned it last century.",
           "It slowly wore down into the English you speak now.",
-          "Bosnian replaced it.",
-          "Coffee became a doing-word."
+          "It was never spoken in England.",
+          "Speakers dropped it overnight by law.",
+          "Every ending on a thing-word is a tense."
         ],
-        "correctIndex": 1,
+        "correctIndex": 0,
         "explanation": "That older English put extra letters on thing-words. Yours mostly dropped them. Bosnian kept them."
       },
       {
@@ -250,11 +318,11 @@
         "question": "What comes next?",
         "options": [
           "Seven jobs on one page",
-          "Why coffee is a she",
           "Past tense",
-          "A café scene with Mrvica"
+          "Why coffee is a she",
+          "Little words forced into first place"
         ],
-        "correctIndex": 1,
+        "correctIndex": 2,
         "explanation": "You file the word first. Then the ending can be right."
       }
     ]
@@ -278,7 +346,7 @@
       "author": "Michał Huniewicz",
       "license": "CC BY 2.0",
       "credit": "Bosnian coffee",
-      "grammarCaption": "Kahva is the drink English would never change, and Bosnian will."
+      "grammarCaption": "Kahva is the drink English would never change, and this map starts with why Bosnian will."
     },
     {
       "id": "kuca",
@@ -289,7 +357,7 @@
       "author": "Pudelek (Marcin Szala)",
       "license": "CC BY-SA 3.0",
       "credit": "Počitelj panorama",
-      "grammarCaption": "Kuća is a house, and this word has more than one outfit too."
+      "grammarCaption": "Kuća is one of the same few words this notebook will reuse while each system waits its turn."
     },
     {
       "id": "most",
@@ -300,7 +368,7 @@
       "author": "Julian Nyča",
       "license": "CC BY-SA 3.0",
       "credit": "Old Bridge, Konjic",
-      "grammarCaption": "Most is a bridge, and the list word is only the first outfit."
+      "grammarCaption": "Most is a bridge on the map, and its pile day comes before any job chart."
     }
   ],
   "imagesNeeded": false,

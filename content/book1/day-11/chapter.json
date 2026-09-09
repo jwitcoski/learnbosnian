@@ -267,7 +267,8 @@
         "bosnian": "Mjau!",
         "english": "Meow!"
       }
-    ]
+    ],
+    "imageId": "trebevic-hike"
   },
   "puzzles": [
     {
@@ -374,7 +375,8 @@
     },
     {
       "title": "Jahorina changes with the seasons",
-      "body": "Jahorina is a mountain where the season changes the entire experience. Winter brings ski slopes and reliable snow, while warmer months bring green trails and open views. A postcard from Jahorina helps Ana compare snijeg, sunce, zima, and ljeto. The mountain makes season words visible rather than abstract."
+      "body": "Jahorina is a mountain where the season changes the entire experience. Winter brings ski slopes and reliable snow, while warmer months bring green trails and open views. A postcard from Jahorina helps Ana compare snijeg, sunce, zima, and ljeto. The mountain makes season words visible rather than abstract.",
+      "imageId": "olympic-ski"
     },
     {
       "title": "Mountain weather moves quickly",
@@ -678,6 +680,26 @@
       "author": "Julian Nyča",
       "license": "CC BY-SA 3.0",
       "credit": "Sarajevo from above"
+    },
+    {
+      "id": "trebevic-hike",
+      "alt": "Hikers pause on a misty Trebević trail above Sarajevo",
+      "localPath": "/images/book1/day-11-trebevic-hike.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarajevo%20(16616142640).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_%2816616142640%29.jpg",
+      "author": "lasserbua",
+      "license": "CC BY 2.0",
+      "credit": "Trebević hillside"
+    },
+    {
+      "id": "olympic-ski",
+      "alt": "Skiers cross a snowy plateau on an Olympic mountain",
+      "localPath": "/images/book1/day-11-olympic-ski.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cross-country%20ski%20area%20from%20the%20Sarajevo%20Olympics%20(3887479130).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Cross-country_ski_area_from_the_Sarajevo_Olympics_%283887479130%29.jpg",
+      "author": "NH53",
+      "license": "CC BY 2.0",
+      "credit": "Olympic ski area, Bosnia"
     }
   ],
   "imagesNeeded": false,

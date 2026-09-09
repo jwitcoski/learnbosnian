@@ -1,0 +1,450 @@
+{
+  "chapter": 3,
+  "kind": "grammar",
+  "title": "Genitiv",
+  "titleEn": "Of, from, none",
+  "theme": "Nema kahve. English of is a separate word here.",
+  "status": "draft",
+  "reviewedAt": "2026-09-09T15:05:00Z",
+  "reviewerNotes": "Bosnian editor pass. Genitive forms check out (kahve, kuće, mosta, piva, Sarajeva, Emira, auta, mora; nema/iz/od/ispred/još/šolja + gen; tri kahve). Fixed garbled pattern opener (end in a swap…). Kahvu vs kahve contrast intact. List-form vocab kept. Still draft pending human publish decision. Residual native spot-check after Fact Checker mold repairs (2026-09-09T14:53:05Z): re-checked cases, conjugations, glosses, Latin/diacritics, and quiz/try keys; focus on Ch9 Popijem present-as-future, Ch5 vocatives, Ch13 shelf balance, and Ch11 trebati (recommend only, no silent rewrite). Soft-gap 0-8 pass 2026-09-09T14:59:41Z: q1 → Tri kahve measure genitive (look undrilled). Final native try/quiz sweep: removed cat-plot/joke weak distractors; replaced select meta slots with named undrilled drills (Ano, za njega, Hoću, Pijte, Doći ću, tata, Nema auta, moja prijateljica); Ch11 trebati personal+acc left untouched; status draft.",
+  "estimatedMinutes": 45,
+  "whyHere": {
+    "heading": "Why you are here",
+    "body": "Today you learn the of, from, and none job on the same coffee you already filed and wanted. Amira can say Nema kahve when the pot is empty, and that e is not the want-it u from Chapter 2. English hangs of and from in front as separate words. Bosnian hangs the job on the end again. You get one new outfit on the same small word set."
+  },
+  "englishLies": {
+    "heading": "Why English lies",
+    "body": "English lies because a cup of coffee, coffee from Sarajevo, and there is no coffee keep the word coffee still. You only add little words in front. Bosnian moves the ending instead. Kahva becomes kahve in that job. Schools call the job genitiv. You can keep saying of, from, and none and still be right. The pile stays whatever you filed in Chapter 1. Only the job mark changes."
+  },
+  "knownLine": {
+    "heading": "A line you already say",
+    "body": "Book 1 already put Emir in Sarajevo with iz Sarajeva, and it already let Ana want more coffee with Želim još kahve. Today those endings get a name. The café line that shows this job is Amira’s Nema kahve, which means there is no coffee. Kahve is still the she-word. It is not kahvu. Wanting the drink and having none of it are different jobs.",
+    "speaker": "Amira",
+    "bosnian": "Nema kahve.",
+    "english": "There is no coffee."
+  },
+  "pattern": {
+    "heading": "The pattern",
+    "body": "She-pile words swap that final a for e in the of, from, and none job. Kahva becomes kahve, and kuća becomes kuće. He-pile words usually add a, so most becomes mosta and auto becomes auta. Leftover-pile words usually turn the last o or e into a, so pivo becomes piva and Sarajevo becomes Sarajeva. Use that form after nema, after iz and od, and when English would say of. Learn kahve first. Then notice mosta and piva follow their own pile habits.",
+    "table": {
+      "headers": [
+        "Pile",
+        "List form",
+        "Of / from / none"
+      ],
+      "rows": [
+        [
+          "she (ona)",
+          "kahva, kuća",
+          "kahve, kuće"
+        ],
+        [
+          "he (on)",
+          "most, auto",
+          "mosta, auta"
+        ],
+        [
+          "leftover (ono)",
+          "pivo, Sarajevo",
+          "piva, Sarajeva"
+        ]
+      ]
+    }
+  },
+  "howYouGuess": {
+    "heading": "The pests",
+    "body": "Three pests will trip you today. The first is saying Nema kahva, which leaves coffee in the name-it form when you mean none. The second is grabbing kahvu because Chapter 2 trained your hand for wanting. Kahvu is want-it. Kahve is of, from, and none. The third pest is Emira. You already saw Emira for I see Emir. The same shape often appears for of Emir or from Emir. People in the he pile reuse that look. A bridge does not reuse that look. Most becomes mosta when you mean of the bridge."
+  },
+  "trick": {
+    "heading": "The bit that tricks you",
+    "body": "The trap is to treat every moved ending as the want-it job. Kahvu and kahve are neighbors, not twins. Ana wants kahvu. Amira has none of kahve. The other trap is to translate English of as a free word you can drop in front of the list form. Šolja kahva is wrong. Šolja kahve puts the of job on the coffee itself. If you keep the list form after nema, iz, or of, you sound like you never changed jobs.",
+    "table": {
+      "headers": [
+        "English job",
+        "Form",
+        "What changed"
+      ],
+      "rows": [
+        [
+          "That is coffee.",
+          "kahva",
+          "name-it, list form"
+        ],
+        [
+          "I want coffee.",
+          "kahvu",
+          "want-it, still she"
+        ],
+        [
+          "There is no coffee.",
+          "kahve",
+          "of / none, still she"
+        ],
+        [
+          "Emir is from Sarajevo.",
+          "Sarajeva",
+          "from, leftover takes a"
+        ]
+      ]
+    }
+  },
+  "nerd": {
+    "heading": "Why it's like this",
+    "body": "Old English is the English of England about a thousand years ago, not a class you missed. Farmers and priests around Winchester marked of and from on the end of a thing-word. A scrap survived in later English as the possessive s on names, and as of sitting in front. You speak the later version, so coffee itself stays still while of does the work.\n\nBosnian never fired that older habit on kahva. The e on kahve is a leftover job mark from the same family as name-it and want-it. Schools call the whole family case. Today you only add the of, from, and none job. Tomorrow’s jobs are to, at, and about on the same coffee."
+  },
+  "vocabulary": [
+    {
+      "bosnian": "kahva",
+      "english": "coffee",
+      "pronunciation": "KAH-hvah",
+      "partOfSpeech": "noun",
+      "example": "Nema kahve."
+    },
+    {
+      "bosnian": "kuća",
+      "english": "house",
+      "pronunciation": "KOO-cha",
+      "partOfSpeech": "noun",
+      "example": "Ja sam ispred kuće."
+    },
+    {
+      "bosnian": "most",
+      "english": "bridge",
+      "pronunciation": "most",
+      "partOfSpeech": "noun",
+      "example": "Nema mosta."
+    },
+    {
+      "bosnian": "pivo",
+      "english": "beer",
+      "pronunciation": "PEE-vo",
+      "partOfSpeech": "noun",
+      "example": "Nema piva."
+    },
+    {
+      "bosnian": "Sarajevo",
+      "english": "Sarajevo",
+      "pronunciation": "sah-rah-YEH-vo",
+      "partOfSpeech": "noun",
+      "example": "Iz Sarajeva."
+    },
+    {
+      "bosnian": "Emir",
+      "english": "Emir",
+      "pronunciation": "EH-meer",
+      "partOfSpeech": "noun",
+      "example": "To je od Emira."
+    }
+  ],
+  "speakTargets": [
+    0,
+    1,
+    2
+  ],
+  "look": {
+    "heading": "Look at these",
+    "items": [
+      {
+        "speaker": "Amira",
+        "bosnian": "Nema kahve.",
+        "english": "There is no coffee. The e marks the of and none job on the she-word."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Želim još kahve.",
+        "english": "I want more coffee. Još takes the of form, not the want-it u by itself."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Nema piva.",
+        "english": "There is no beer. Leftover pivo became piva in this job."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Nema mosta.",
+        "english": "There is no bridge here. He-pile most became mosta."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Ja sam iz Sarajeva.",
+        "english": "I am from Sarajevo. Iz takes the of and from form Sarajeva."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Ja sam ispred kuće.",
+        "english": "I am in front of the house. English of sits on kuće as e."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Tri kahve, molim.",
+        "english": "Three coffees, please. Numbers two to four take this of form on the singular."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Nema auta.",
+        "english": "There is no car. Pest auto still follows the he pile and becomes auta."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "To je od Emira.",
+        "english": "That is from Emir. Emira is the of and from form, and it looks like the want-it pest from Chapter 2."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Nema mora.",
+        "english": "There is no sea. Leftover more becomes mora in the none job."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Šolja kahve, molim.",
+        "english": "A cup of coffee. The of job lives on kahve, not as a free English word."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Želim kahvu. Nema kahve.",
+        "english": "I want coffee, then there is none. Kahvu and kahve are different jobs on the same she-word."
+      }
+    ]
+  },
+  "try": {
+    "heading": "Try these",
+    "items": [
+      {
+        "id": "t1",
+        "prompt": "Amira has no coffee. Which form?",
+        "options": [
+          "kahva",
+          "kahvu",
+          "kahve"
+        ],
+        "correctIndex": 2,
+        "explanation": "Nema takes the of and none form, so the right word is kahve."
+      },
+      {
+        "id": "t2",
+        "prompt": "Ana wants coffee. Which form?",
+        "options": [
+          "kahva",
+          "kahvu",
+          "kahve"
+        ],
+        "correctIndex": 1,
+        "explanation": "Want-it from Chapter 2 is still kahvu. Do not steal today’s e for wanting."
+      },
+      {
+        "id": "t3",
+        "prompt": "Emir is from Sarajevo. Which form after iz?",
+        "options": [
+          "Sarajevo",
+          "Sarajevu",
+          "Sarajeva"
+        ],
+        "correctIndex": 2,
+        "explanation": "Iz takes the of and from form. Leftover Sarajevo becomes Sarajeva."
+      },
+      {
+        "id": "t4",
+        "prompt": "There is no beer. Which form?",
+        "options": [
+          "pivo",
+          "pivu",
+          "piva"
+        ],
+        "correctIndex": 2,
+        "explanation": "Nema piva. Leftover o became a."
+      },
+      {
+        "id": "t5",
+        "prompt": "Roof of the house. Which form of kuća?",
+        "options": [
+          "kuća",
+          "kuću",
+          "kuće"
+        ],
+        "correctIndex": 2,
+        "explanation": "She-pile a became e for the of job."
+      },
+      {
+        "id": "t6",
+        "prompt": "There is no bridge. Which form?",
+        "options": [
+          "most",
+          "mosta",
+          "mostu"
+        ],
+        "correctIndex": 1,
+        "explanation": "He-pile things add a here, so the right word is mosta."
+      },
+      {
+        "id": "t7",
+        "prompt": "Someone says Nema kahva. What went wrong?",
+        "options": [
+          "Coffee switched piles.",
+          "They left coffee in the name-it form.",
+          "They needed the want-it u."
+        ],
+        "correctIndex": 1,
+        "explanation": "Nema needs kahve. Kahva only names it."
+      },
+      {
+        "id": "t8",
+        "prompt": "Želim još kahve uses which job on coffee?",
+        "options": [
+          "Name-it",
+          "Want-it u",
+          "Of / none e after još"
+        ],
+        "correctIndex": 2,
+        "explanation": "Još takes the of form. The wanting is already in želim."
+      },
+      {
+        "id": "t9",
+        "prompt": "Od Emira. Why does Emira look familiar?",
+        "options": [
+          "It switched to the she pile.",
+          "He-pile people often share this look with the want-it job.",
+          "It is leftover like pivo."
+        ],
+        "correctIndex": 1,
+        "explanation": "Vidim Emira and od Emira can look the same. Mosta is the bridge’s separate of form."
+      },
+      {
+        "id": "t10",
+        "prompt": "English of is a separate word. What does Bosnian do?",
+        "options": [
+          "Keeps kahva and adds of in front",
+          "Puts the of job on the ending",
+          "Uses only word order"
+        ],
+        "correctIndex": 1,
+        "explanation": "Šolja kahve. The ending carries of."
+      }
+    ]
+  },
+  "quiz": {
+    "title": "Quick check",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Tri kahve, molim. Why kahve?",
+        "options": [
+          "Want-it job after želim",
+          "Of/none job after a number",
+          "Name-it list form",
+          "With-job ending"
+        ],
+        "correctIndex": 1,
+        "explanation": "After tri, coffee takes the of-and-none form kahve. Same shelf as nema kahve."
+      },
+      {
+        "id": "q2",
+        "question": "Nema kahve uses which form?",
+        "options": [
+          "Name-it list form",
+          "Want-it form kahvu",
+          "Of and none form on the same she-word",
+          "A new he-pile word"
+        ],
+        "correctIndex": 2,
+        "explanation": "Kahva became kahve. The pile stayed she."
+      },
+      {
+        "id": "q3",
+        "question": "She-pile words like kahva and kuća usually do what in this job?",
+        "options": [
+          "Swap final a for e",
+          "Swap final a for u",
+          "Stay unchanged forever",
+          "Add a like mosta"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kahve and kuće. The u was yesterday’s want-it mark."
+      },
+      {
+        "id": "q4",
+        "question": "Why is Ja sam iz Sarajeva correct?",
+        "options": [
+          "Sarajevo is she, so it takes e",
+          "Iz takes the of and from form, and leftover Sarajevo becomes Sarajeva",
+          "Places never change",
+          "It should be iz Sarajevu"
+        ],
+        "correctIndex": 1,
+        "explanation": "Book 1 already used that line. Today you know why the ending moved."
+      },
+      {
+        "id": "q5",
+        "question": "Why is Nema kahvu the wrong café line?",
+        "options": [
+          "Because coffee is leftover",
+          "Because kahvu is the want-it job, not the none job",
+          "Because nema needs the name-it form",
+          "Because Amira only says English"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wanting is kahvu. None is kahve."
+      },
+      {
+        "id": "q6",
+        "question": "There is no car. Which form after nema?",
+        "options": [
+          "auto",
+          "auta",
+          "autom",
+          "autu"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nema takes the of/none form. Pest auto still follows he habits, so auta."
+      }
+    ]
+  },
+  "next": {
+    "body": "You now know why Nema kahve is not Nema kahva, and why kahvu stays in the want-it column. Iz Sarajeva and šolja kahve use the same of job. Chapter 4 is giving, liking, and in versus into on the same small set. You still will not get a seven-job chart.",
+    "chapter": 4
+  },
+  "imageSlots": {
+    "hero": "kahva",
+    "afterPattern": "kuca",
+    "afterNerd": "sarajevo"
+  },
+  "images": [
+    {
+      "id": "kahva",
+      "alt": "Polygon painting of Bosnian coffee with džezva and fildžan on a copper tray",
+      "localPath": "/images/book1/day-03-kahva.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_coffee_(13926468997).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_coffee_(13926468997).jpg",
+      "author": "Michał Huniewicz",
+      "license": "CC BY 2.0",
+      "credit": "Bosnian coffee",
+      "grammarCaption": "Nema kahve puts the of and none job on the coffee, so the ending is e, not the want-it u."
+    },
+    {
+      "id": "kuca",
+      "alt": "Polygon painting of Počitelj’s stone houses and fortress hill in Herzegovina",
+      "localPath": "/images/book1/day-07-pocitelj.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Po%C4%8Ditelj_-_pano.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Po%C4%8Ditelj_-_pano.jpg",
+      "author": "Pudelek (Marcin Szala)",
+      "license": "CC BY-SA 3.0",
+      "credit": "Počitelj panorama",
+      "grammarCaption": "Kuće is the of form of the house, the same she-pile e you saw on kahve."
+    },
+    {
+      "id": "sarajevo",
+      "alt": "Polygon painting of Baščaršija streets in Sarajevo with Brusa Bezistan",
+      "localPath": "/images/book1/day-01-bascarsija.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bascarsija.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bascarsija.jpg",
+      "author": "Kathleen Franklin",
+      "license": "CC BY 2.0",
+      "credit": "Baščaršija, Sarajevo",
+      "grammarCaption": "Iz Sarajeva uses the from job, so leftover Sarajevo becomes Sarajeva."
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [
+    "A clearly empty džezva would sharpen Nema kahve beside the full tray. The Book 1 kahva photo still teaches the drink in the of and none job."
+  ]
+}

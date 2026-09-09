@@ -253,7 +253,8 @@
         "bosnian": "Molim. Stanica je tamo.",
         "english": "You are welcome. The platform is over there."
       }
-    ]
+    ],
+    "imageId": "bus-station"
   },
   "puzzles": [
     {
@@ -360,7 +361,8 @@
     },
     {
       "title": "Jablanica sits on the lake road",
-      "body": "Jablaničko Lake appears on many southbound routes from Sarajevo. The water sits in a mountain corridor and often becomes a rest stop in travelers' stories. Emir's postcard keeps the lake in view while Ana buys tickets. It's a reminder that the trip to the coast includes some inland beauty too."
+      "body": "Jablaničko Lake appears on many southbound routes from Sarajevo. The water sits in a mountain corridor and often becomes a rest stop in travelers' stories. Emir's postcard keeps the lake in view while Ana buys tickets. It's a reminder that the trip to the coast includes some inland beauty too.",
+      "imageId": "jablanica-lake"
     },
     {
       "title": "Treba mi is a survival phrase",
@@ -638,11 +640,11 @@
     },
     {
       "id": "jablanica-lake",
-      "alt": "Polygon painting of blue water fills Jablaničko Lake among the hills.",
+      "alt": "Tourists enjoy the shoreline of Jablaničko jezero",
       "localPath": "/images/book1/day-16-jablanica-lake.png",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jablani%C4%8Dko_jezero_1.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AJablani%C4%8Dko_jezero_1.jpg",
-      "author": "Julian Nyča",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jablanica%20lake.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Jablanica_lake.jpg",
+      "author": "Akutyambuksi",
       "license": "CC BY-SA 3.0",
       "credit": "Jablaničko jezero"
     },
@@ -665,6 +667,16 @@
       "author": "Edin the",
       "license": "CC BY-SA 3.0",
       "credit": "Highway near Banja Luka"
+    },
+    {
+      "id": "bus-station",
+      "alt": "Travelers wait with bags at Sarajevo bus station",
+      "localPath": "/images/book1/day-16-bus-station.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarajevo%20Bus-Station%202011-10-19.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_Bus-Station_2011-10-19.jpg",
+      "author": "Milan Suvajac",
+      "license": "CC BY-SA 4.0",
+      "credit": "Sarajevo bus station"
     }
   ],
   "imagesNeeded": false,

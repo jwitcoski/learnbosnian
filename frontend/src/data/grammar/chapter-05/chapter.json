@@ -1,0 +1,460 @@
+{
+  "chapter": 5,
+  "kind": "grammar",
+  "title": "Instrumental, vokativ, mapa",
+  "titleEn": "With, calling, the map",
+  "theme": "S kahvom and Emire finish with and calling, then one map points the little words at jobs you already own.",
+  "status": "draft",
+  "reviewedAt": "2026-09-09T15:05:00Z",
+  "reviewerNotes": "Pedagogy polish after Fact Checker. Preserved Bosnian-editor instrumental/vocative forms (kahvom/Emirom/Anom/Emire/Ano/Amiro/autom and related lines). Fixed whyHere double-with, pests/trick slogan dumps, knownLine question mark. Vocab heads confirmed dictionary/list forms. Status draft; reviewedAt null. Soft-gap 0-8 pass 2026-09-09T14:59:41Z: t10 → Amiro vocative (look undrilled). Final native try/quiz sweep: removed cat-plot/joke weak distractors; replaced select meta slots with named undrilled drills (Ano, za njega, Hoću, Pijte, Doći ću, tata, Nema auta, moja prijateljica); Ch11 trebati personal+acc left untouched; status draft.",
+  "estimatedMinutes": 45,
+  "whyHere": {
+    "heading": "Why you are here",
+    "body": "Today you add with and calling as the last thing-word jobs, then you hang one map for the little words that pick those jobs. S kahvom means with coffee, and Emire is how you call Emir across the café. English hangs with in front and uses a bare name to shout. Bosnian dresses both, then gives you one chart that points each English habit at a job you already learned."
+  },
+  "englishLies": {
+    "heading": "Why English lies",
+    "body": "English lies because with coffee and hey Emir keep coffee and Emir almost still. You add with, or you just raise your voice. Bosnian moves the ending again. Kahva becomes kahvom after s, and Emir becomes Emire when you call him. Schools call those jobs instrumental and vokativ. You can keep saying with and calling. The map at the end is not a new pile. It is a street index for the jobs from Chapters 2 through 5."
+  },
+  "knownLine": {
+    "heading": "A line you already say",
+    "body": "Book 1 already called Emir by name with Emire, koliko je sati, which means Emir, what time is it? That e on Emire is today’s calling mark on a he-pile person. The new twin is with. Amira can say Dolazim s kahvom, which means I am coming with coffee, when the cup travels with her. Kahvom is still she. It is not kahvu and not kahve.",
+    "speaker": "Ana",
+    "bosnian": "Emire, koliko je sati?",
+    "english": "Emir, what time is it?"
+  },
+  "pattern": {
+    "heading": "The pattern",
+    "body": "She-pile words swap that final a for om in the with job. Kahva becomes kahvom, and kuća becomes kućom. He-pile words usually take om too, so most becomes mostom and Emir becomes Emirom. Leftover words usually take om or em, so pivo becomes pivom and more becomes morem. Put s or sa in front when English says with. The calling job is smaller than the with job. Emir becomes Emire, Ana often becomes Ano, and Amira often becomes Amiro. Learn s kahvom and Emire first. Then read the map so each little word points at the right older job.",
+    "table": {
+      "headers": [
+        "Pile",
+        "List form",
+        "With"
+      ],
+      "rows": [
+        [
+          "she (ona)",
+          "kahva, kuća",
+          "kahvom, kućom"
+        ],
+        [
+          "he (on)",
+          "most, Emir",
+          "mostom, Emirom"
+        ],
+        [
+          "leftover (ono)",
+          "pivo, more",
+          "pivom, morem"
+        ]
+      ]
+    }
+  },
+  "howYouGuess": {
+    "heading": "The pests",
+    "body": "Three pests will trip you today. The first is S kahvu, which grabs the want-it form after with when the line needs kahvom. The second is calling Emir while leaving him as Emir in a shout across the room, when the calling form is Emire. The third pest is treating the map as seven new endings to memorize today. The map only points you back. U plus into still means the want-it job, nema still means the of job, and s still means the with job. Read the pointer and reuse the outfit you already own."
+  },
+  "trick": {
+    "heading": "The bit that tricks you",
+    "body": "The trap is to invent a fresh ending every time you see a preposition. Prepositions are pickers, and they do not invent a parallel language. S picks with, iz picks from, and u picks into or in, while the next ending tells you which. The other trap is to mix calling with to. Emire is for calling him, and Emiru is for giving to him. If you hand coffee to Emire, you used the shout form in the give line.",
+    "table": {
+      "headers": [
+        "English habit",
+        "Little word tip",
+        "Job you already have"
+      ],
+      "rows": [
+        [
+          "name it",
+          "(none)",
+          "name-it list form"
+        ],
+        [
+          "want it / into",
+          "u + motion",
+          "want-it"
+        ],
+        [
+          "of / from / none",
+          "iz, od, nema",
+          "of / from / none"
+        ],
+        [
+          "to / in / on / about",
+          "give-to, u, na, o",
+          "to / at / about"
+        ],
+        [
+          "with",
+          "s / sa",
+          "with"
+        ],
+        [
+          "calling",
+          "(hey)",
+          "calling"
+        ]
+      ]
+    }
+  },
+  "nerd": {
+    "heading": "Why it's like this",
+    "body": "Old English is the English of England about a thousand years ago, not a class you missed. Farmers and priests around Winchester had a with outfit on thing-words and a special calling form on names. Later English mostly dropped both on nouns. You kept with as a free word, and you call people with bare names plus tone of voice. You speak that later version.\n\nBosnian kept both marks. Instrumental is the with and by-means outfit. Vocative is the calling outfit. The map in this chapter is just honesty about prepositions. In older English the ending did more of the pointing. In your English the little word does more of the pointing. Bosnian still lets the ending finish the job the little word started."
+  },
+  "vocabulary": [
+    {
+      "bosnian": "kahva",
+      "english": "coffee",
+      "pronunciation": "KAH-hvah",
+      "partOfSpeech": "noun",
+      "example": "Dolazim s kahvom."
+    },
+    {
+      "bosnian": "Emir",
+      "english": "Emir",
+      "pronunciation": "EH-meer",
+      "partOfSpeech": "noun",
+      "example": "Emire, koliko je sati?"
+    },
+    {
+      "bosnian": "Ana",
+      "english": "Ana",
+      "pronunciation": "AH-nah",
+      "partOfSpeech": "noun",
+      "example": "Ano, gdje je kahva?"
+    },
+    {
+      "bosnian": "pivo",
+      "english": "beer",
+      "pronunciation": "PEE-vo",
+      "partOfSpeech": "noun",
+      "example": "Sjedim s pivom."
+    },
+    {
+      "bosnian": "auto",
+      "english": "car",
+      "pronunciation": "OW-toh",
+      "partOfSpeech": "noun",
+      "example": "Idem autom."
+    },
+    {
+      "bosnian": "Amira",
+      "english": "Amira",
+      "pronunciation": "ah-MEE-rah",
+      "partOfSpeech": "noun",
+      "example": "Amiro, molim kahvu."
+    }
+  ],
+  "speakTargets": [
+    0,
+    1,
+    2
+  ],
+  "look": {
+    "heading": "Look at these",
+    "items": [
+      {
+        "speaker": "Ana",
+        "bosnian": "Emire, koliko je sati?",
+        "english": "Emir, what time is it? Calling uses Emire, the Book 1 shout form."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Dolazim s kahvom.",
+        "english": "I am coming with coffee. Kahvom is the with form on the she-word."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Idem s Anom.",
+        "english": "I am going with Ana. Anom is with Ana."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Idem s Emirom.",
+        "english": "I am going with Emir. Emirom is with Emir, not the calling form."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Ano, gdje je kahva?",
+        "english": "Ana, where is the coffee? Ano is a common calling form for Ana."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Amiro, molim kahvu.",
+        "english": "Amira, coffee please. Amiro is calling Amira."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Idem autom.",
+        "english": "I go by car. Pest auto takes autom in the with and by-means job."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Sjedim s pivom.",
+        "english": "I am sitting with beer. Pivom is the with form on leftover pivo."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Pričam s Emirom o mostu.",
+        "english": "I talk with Emir about the bridge. With is Emirom. About is mostu from Chapter 4."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "S kahvom je bolje.",
+        "english": "It is better with coffee. Same she-word as Nema kahve and Želim kahvu, now in the with form."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Stojim na mostu s Anom.",
+        "english": "I stand on the bridge with Ana. At is mostu. With is Anom."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Iz Sarajeva idem u kuću s kahvom.",
+        "english": "From Sarajevo I go into the house with coffee. From, into, and with each pick a job you already own."
+      }
+    ]
+  },
+  "try": {
+    "heading": "Try these",
+    "items": [
+      {
+        "id": "t1",
+        "prompt": "Ana is coming with coffee. Which form after s?",
+        "options": [
+          "kahvu",
+          "kahve",
+          "kahvom"
+        ],
+        "correctIndex": 2,
+        "explanation": "With needs kahvom."
+      },
+      {
+        "id": "t2",
+        "prompt": "You need to call Emir across the room. Which form?",
+        "options": [
+          "Emir",
+          "Emira",
+          "Emire"
+        ],
+        "correctIndex": 2,
+        "explanation": "Emire is calling. Emira was seeing him. Emiru was giving to him."
+      },
+      {
+        "id": "t3",
+        "prompt": "Emir is going with Ana. Which form?",
+        "options": [
+          "Ani",
+          "Anom",
+          "Ano"
+        ],
+        "correctIndex": 1,
+        "explanation": "With Ana is Anom. Ani was to Ana. Ano is calling."
+      },
+      {
+        "id": "t4",
+        "prompt": "Ana goes by car. Which form?",
+        "options": [
+          "auto",
+          "auta",
+          "autom"
+        ],
+        "correctIndex": 2,
+        "explanation": "Autom is the with and by-means form on pest auto."
+      },
+      {
+        "id": "t5",
+        "prompt": "Someone says S kahvu. What went wrong?",
+        "options": [
+          "They used want-it after with.",
+          "They needed the of form kahve.",
+          "Coffee switched piles."
+        ],
+        "correctIndex": 0,
+        "explanation": "With is kahvom, not kahvu."
+      },
+      {
+        "id": "t6",
+        "prompt": "You hand coffee to Emir while calling him Emire. What went wrong?",
+        "options": [
+          "No problem. Same job.",
+          "Calling Emire is not the to form Emiru.",
+          "He needs Ani."
+        ],
+        "correctIndex": 1,
+        "explanation": "Emire is the shout. Emiru is to Emir."
+      },
+      {
+        "id": "t7",
+        "prompt": "On the map, nema points to which job?",
+        "options": [
+          "With",
+          "Of / from / none",
+          "Calling"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nema kahve. The map only points."
+      },
+      {
+        "id": "t8",
+        "prompt": "On the map, u plus motion into points to which job?",
+        "options": [
+          "At form from Chapter 4",
+          "Want-it form from Chapter 2",
+          "With form from today"
+        ],
+        "correctIndex": 1,
+        "explanation": "Idem u kuću. Into reuses want-it."
+      },
+      {
+        "id": "t9",
+        "prompt": "Emir is sitting with beer. Which form?",
+        "options": [
+          "pivo",
+          "piva",
+          "pivom"
+        ],
+        "correctIndex": 2,
+        "explanation": "S pivom. Leftover takes om here."
+      },
+      {
+        "id": "t10",
+        "prompt": "You call Amira across the cafe. Which form?",
+        "options": [
+          "Amira",
+          "Amiri",
+          "Amiro"
+        ],
+        "correctIndex": 2,
+        "explanation": "Amiro is the everyday calling form for Amira, same shelf as Emire and Ano."
+      }
+    ]
+  },
+  "quiz": {
+    "title": "Quick check",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q1",
+        "question": "S kahvom uses which job?",
+        "options": [
+          "Want-it",
+          "Of and none",
+          "With",
+          "Calling"
+        ],
+        "correctIndex": 2,
+        "explanation": "Kahvom is the with form. S is the picker."
+      },
+      {
+        "id": "q2",
+        "question": "Emire, koliko je sati? Why Emire?",
+        "options": [
+          "It is to Emir",
+          "It is calling Emir",
+          "It is with Emir",
+          "It is of Emir"
+        ],
+        "correctIndex": 1,
+        "explanation": "That shout is the calling job, and Book 1 already used it."
+      },
+      {
+        "id": "q3",
+        "question": "Idem s Emirom versus Emire. What is the difference?",
+        "options": [
+          "No difference",
+          "Emirom is with. Emire is calling.",
+          "Both mean to Emir",
+          "Both mean from Emir"
+        ],
+        "correctIndex": 1,
+        "explanation": "With and calling are different outfits."
+      },
+      {
+        "id": "q4",
+        "question": "What does the preposition map do?",
+        "options": [
+          "Teaches seven brand-new endings tonight",
+          "Points little words at jobs you already learned",
+          "Replaces piles",
+          "Deletes Chapter 2"
+        ],
+        "correctIndex": 1,
+        "explanation": "The map is an index, not a second grammar."
+      },
+      {
+        "id": "q5",
+        "question": "Why is Idem autom correct?",
+        "options": [
+          "Auto is leftover and stays auto",
+          "The by-means job takes autom on that he-pile pest",
+          "Cars never take endings",
+          "It should be s auto"
+        ],
+        "correctIndex": 1,
+        "explanation": "Autom is with and by means. Pest auto still follows he habits."
+      },
+      {
+        "id": "q6",
+        "question": "Calling Ana across the café. Which form?",
+        "options": [
+          "Ana",
+          "Ani",
+          "Anom",
+          "Ano"
+        ],
+        "correctIndex": 3,
+        "explanation": "Ano is the everyday calling form for Ana, same shelf as Emire and Amiro."
+      }
+    ]
+  },
+  "next": {
+    "body": "You now have with and calling, and one map that points iz, nema, u, na, o, and s at the jobs from Chapters 2 to 5. Coffee still lives in the she pile. The outfits are the only news. Chapter 6 is matching words like my that have to ride with kahva when the job changes. The notebook moves from endings on the noun to endings on the words that stick to it.",
+    "chapter": 6
+  },
+  "imageSlots": {
+    "hero": "kahva",
+    "afterPattern": "toast",
+    "afterNerd": "mapa"
+  },
+  "images": [
+    {
+      "id": "kahva",
+      "alt": "Polygon painting of an engraved Bosnian coffee set with džezva and cups",
+      "localPath": "/images/book1/day-03-coffee-set.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "author": "İhsan Işık",
+      "license": "CC BY 3.0",
+      "credit": "Bosnian coffee set, Baščaršija",
+      "grammarCaption": "S kahvom puts the with job on coffee, so the ending is om, not the want-it u."
+    },
+    {
+      "id": "toast",
+      "alt": "Polygon painting of friends toasting with glasses raised",
+      "localPath": "/images/book1/day-30-friends-toast.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Wedding_Glasses_%284005789482%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWedding_Glasses_%284005789482%29.jpg",
+      "author": "Rennett Stowe from USA",
+      "license": "CC BY 2.0",
+      "credit": "Friends toasting",
+      "grammarCaption": "Friends raise glasses with company, the same with job you hear in s Emirom and s Anom."
+    },
+    {
+      "id": "mapa",
+      "alt": "Polygon painting of a colorful map of Bosnia and Herzegovina with Sarajevo and Mostar marked",
+      "localPath": "/images/book1/day-05-bih-map.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnia_and_Herzegovina_location_map.svg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnia_and_Herzegovina_location_map.svg",
+      "author": "NordNordWest",
+      "license": "CC BY-SA 3.0",
+      "credit": "Map of Bosnia and Herzegovina",
+      "grammarCaption": "The preposition map only points. Each little word sends you back to a job you already own."
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [
+    "A person mid-call with a raised hand would sharpen Emire beside the toast photo. The Book 1 toast still teaches company with the with job."
+  ]
+}

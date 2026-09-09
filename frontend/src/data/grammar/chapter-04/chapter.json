@@ -1,0 +1,450 @@
+{
+  "chapter": 4,
+  "kind": "grammar",
+  "title": "Dativ i lokativ",
+  "titleEn": "To, at, about",
+  "theme": "Dajem Ani kahvu shows giving to someone, sitting at a place, and in versus into.",
+  "status": "draft",
+  "reviewedAt": "2026-09-09T15:05:00Z",
+  "reviewerNotes": "Pedagogy polish after Fact Checker. Preserved Bosnian-editor dative/locative forms (Ani/Emiru/Amiri/kući/kuću/kahvi/mostu/Sarajevu). Vocab heads confirmed dictionary/list forms. Light englishLies slogan merge. Status draft; reviewedAt null. Soft-gap 0-8 pass 2026-09-09T14:59:41Z: q1 → Sviđa mi se experiencer (look undrilled). Final native try/quiz sweep: removed cat-plot/joke weak distractors; replaced select meta slots with named undrilled drills (Ano, za njega, Hoću, Pijte, Doći ću, tata, Nema auta, moja prijateljica); Ch11 trebati personal+acc left untouched; status draft.",
+  "estimatedMinutes": 45,
+  "whyHere": {
+    "heading": "Why you are here",
+    "body": "Today you learn the to, at, and about job on the same coffee and house. Emir can give coffee to Ana, and Ana can already sit in Sarajevo. English hangs to and in in front. Bosnian hangs the job on the end, and it uses one shared outfit for giving to someone and being at a place. You also learn why into the house and in the house are not the same ending."
+  },
+  "englishLies": {
+    "heading": "Why English lies",
+    "body": "English lies because the lines I give coffee to Ana and I am in the house keep Ana and house still. Little words do the work. Bosnian dresses the person you give to and the place you sit in. Ana becomes Ani, and kuća becomes kući. Schools split the labels into dativ for to and lokativ for at and about. On these words the ending is usually the same, so you can learn one chart and two English jobs."
+  },
+  "knownLine": {
+    "heading": "A line you already say",
+    "body": "Book 1 already parked you in the city with U Sarajevu, which means in Sarajevo. That u on Sarajevu is today’s at job on a leftover place-word. The new twin is giving. Emir says Dajem Ani kahvu, which means I give Ana coffee. Ani is to Ana. Kahvu is still the want-it form from Chapter 2 for the thing being handed over. Two jobs can sit in one short line.",
+    "speaker": "Emir",
+    "bosnian": "U Sarajevu smo.",
+    "english": "We are in Sarajevo."
+  },
+  "pattern": {
+    "heading": "The pattern",
+    "body": "She-pile words swap that final a for i in the to, at, and about job. Kahva becomes kahvi, kuća becomes kući, and Ana becomes Ani. He-pile words usually take u, so most becomes mostu and Emir becomes Emiru. Leftover-pile words usually take u too, so pivo becomes pivu and Sarajevo becomes Sarajevu. Use that form when you give to someone, when liking uses a to-me scrap like mi, when you are in or on a place, and when you talk about a thing. Keep the want-it form for motion into a place.",
+    "table": {
+      "headers": [
+        "Pile",
+        "List form",
+        "To / at / about"
+      ],
+      "rows": [
+        [
+          "she (ona)",
+          "kahva, kuća, Ana",
+          "kahvi, kući, Ani"
+        ],
+        [
+          "he (on)",
+          "most, Emir",
+          "mostu, Emiru"
+        ],
+        [
+          "leftover (ono)",
+          "pivo, Sarajevo",
+          "pivu, Sarajevu"
+        ]
+      ]
+    }
+  },
+  "howYouGuess": {
+    "heading": "The pests",
+    "body": "The big pest is in versus into. Ja sam u kući means I am in the house, with today’s at form. Idem u kuću means I go into the house, with the want-it form from Chapter 2. The little word u stays the same while the house ending shows the job. The second pest is giving to Ana while leaving her as Ana. Dajem Ana kahvu is English word order with a Bosnian costume. She needs the to form Ani. The third pest is thinking to and at need two different endings on these words. They usually share one outfit."
+  },
+  "trick": {
+    "heading": "The bit that tricks you",
+    "body": "The trap is to hear u and always reach for one ending. U is not the job. The job sits on the next word. Motion into a place wants the want-it form. Being in or at a place wants today’s form. The other trap is to mark the gift and forget the person. In Dajem Ani kahvu, Ani is to Ana, and kahvu is the coffee being given. If you only change coffee, you still missed the to job.",
+    "table": {
+      "headers": [
+        "English job",
+        "Form",
+        "What changed"
+      ],
+      "rows": [
+        [
+          "We are in Sarajevo.",
+          "Sarajevu",
+          "at, leftover takes u"
+        ],
+        [
+          "I give Ana coffee.",
+          "Ani",
+          "to Ana, she takes i"
+        ],
+        [
+          "I am in the house.",
+          "kući",
+          "at, she takes i"
+        ],
+        [
+          "I go into the house.",
+          "kuću",
+          "into, want-it from Chapter 2"
+        ]
+      ]
+    }
+  },
+  "nerd": {
+    "heading": "Why it's like this",
+    "body": "Old English is the English of England about a thousand years ago, not a class you missed. Farmers and priests around Winchester marked to and at on thing-words and on people words. You still own scraps when you say him and them instead of he and they. Coffee and house lost those outfits in later English. You speak the later version.\n\nBosnian kept the outfits. The to job and the at job often wear the same ending on one word in the singular, which is why Ani and kući feel like one chart with two English uses. Schools still print two labels. Your ear can treat them as one shared suit until a later chapter needs a finer split."
+  },
+  "vocabulary": [
+    {
+      "bosnian": "Ana",
+      "english": "Ana",
+      "pronunciation": "AH-nah",
+      "partOfSpeech": "noun",
+      "example": "Dajem Ani kahvu."
+    },
+    {
+      "bosnian": "Emir",
+      "english": "Emir",
+      "pronunciation": "EH-meer",
+      "partOfSpeech": "noun",
+      "example": "Dajem Emiru pivo."
+    },
+    {
+      "bosnian": "kuća",
+      "english": "house",
+      "pronunciation": "KOO-cha",
+      "partOfSpeech": "noun",
+      "example": "Ja sam u kući."
+    },
+    {
+      "bosnian": "Sarajevo",
+      "english": "Sarajevo",
+      "pronunciation": "sah-rah-YEH-vo",
+      "partOfSpeech": "noun",
+      "example": "U Sarajevu smo."
+    },
+    {
+      "bosnian": "most",
+      "english": "bridge",
+      "pronunciation": "most",
+      "partOfSpeech": "noun",
+      "example": "Stojim na mostu."
+    },
+    {
+      "bosnian": "kahva",
+      "english": "coffee",
+      "pronunciation": "KAH-hvah",
+      "partOfSpeech": "noun",
+      "example": "Pričam o kahvi."
+    }
+  ],
+  "speakTargets": [
+    0,
+    1,
+    2
+  ],
+  "look": {
+    "heading": "Look at these",
+    "items": [
+      {
+        "speaker": "Emir",
+        "bosnian": "U Sarajevu smo.",
+        "english": "We are in Sarajevo. Book 1 already used this at form on the city."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Dajem Ani kahvu.",
+        "english": "I give Ana coffee. Ani is to Ana. Kahvu is still the gift in the want-it form."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Dajem Emiru pivo.",
+        "english": "I give Emir beer. Emiru is to Emir on the he pile."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Ja sam u kući.",
+        "english": "I am in the house. Kući is the at form, not into."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Idem u kuću.",
+        "english": "I go into the house. Kuću is the Chapter 2 want-it form for motion into."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Stojim na mostu.",
+        "english": "I am standing on the bridge. Mostu is the at form on a he thing."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Pričam o kahvi.",
+        "english": "I am talking about coffee. O takes today’s about form kahvi."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Sviđa mi se Sarajevo.",
+        "english": "I like Sarajevo. The liking lands on mi, a to-me scrap, while the city stays name-it."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Amiri dajem kahvu.",
+        "english": "I give Amira coffee. Amiri is to Amira, same she-pile i as Ani."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Kahva je u kući.",
+        "english": "The coffee is in the house. Name-it kahva stays still while kući carries the at job."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Idem u Sarajevo.",
+        "english": "I go into Sarajevo. Leftover places often keep the list form in that motion job."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Živim u Sarajevu.",
+        "english": "I live in Sarajevo. Same city, at form, not the motion line."
+      }
+    ]
+  },
+  "try": {
+    "heading": "Try these",
+    "items": [
+      {
+        "id": "t1",
+        "prompt": "Emir gives coffee to Ana. Which form of Ana?",
+        "options": [
+          "Ana",
+          "Ani",
+          "Anu"
+        ],
+        "correctIndex": 1,
+        "explanation": "To Ana needs Ani."
+      },
+      {
+        "id": "t2",
+        "prompt": "You are in the house. Which form?",
+        "options": [
+          "kuća",
+          "kuću",
+          "kući"
+        ],
+        "correctIndex": 2,
+        "explanation": "At and in take kući."
+      },
+      {
+        "id": "t3",
+        "prompt": "You go into the house. Which form?",
+        "options": [
+          "kuća",
+          "kuću",
+          "kući"
+        ],
+        "correctIndex": 1,
+        "explanation": "Into takes the want-it form kuću."
+      },
+      {
+        "id": "t4",
+        "prompt": "We are in Sarajevo. Which form?",
+        "options": [
+          "Sarajevo",
+          "Sarajeva",
+          "Sarajevu"
+        ],
+        "correctIndex": 2,
+        "explanation": "U Sarajevu. At form on leftover."
+      },
+      {
+        "id": "t5",
+        "prompt": "Amira gives beer to Emir. Which form of Emir?",
+        "options": [
+          "Emir",
+          "Emira",
+          "Emiru"
+        ],
+        "correctIndex": 2,
+        "explanation": "To Emir is Emiru. Emira was the Chapter 2 people pest for seeing him."
+      },
+      {
+        "id": "t6",
+        "prompt": "Talking about coffee. Which form after o?",
+        "options": [
+          "kahva",
+          "kahvu",
+          "kahvi"
+        ],
+        "correctIndex": 2,
+        "explanation": "O kahvi. About uses today’s form."
+      },
+      {
+        "id": "t7",
+        "prompt": "Standing on the bridge. Which form after na?",
+        "options": [
+          "most",
+          "mosta",
+          "mostu"
+        ],
+        "correctIndex": 2,
+        "explanation": "Na mostu. At form on he-pile most."
+      },
+      {
+        "id": "t8",
+        "prompt": "Someone says Dajem Ana kahvu. What went wrong?",
+        "options": [
+          "Coffee should be kahve.",
+          "Ana needs the to form Ani.",
+          "Ana needs Emiru."
+        ],
+        "correctIndex": 1,
+        "explanation": "The gift kahvu is fine. The person needs Ani."
+      },
+      {
+        "id": "t9",
+        "prompt": "Why do u kući and u kuću differ?",
+        "options": [
+          "One is leftover and one is she",
+          "In and into are different jobs",
+          "Kući is leftover and kuću is she"
+        ],
+        "correctIndex": 1,
+        "explanation": "The little word u stays the same, but the house takes a different job ending."
+      },
+      {
+        "id": "t10",
+        "prompt": "Do to and at need two different endings on Ana and kuća today?",
+        "options": [
+          "Yes, always different",
+          "No, these words usually share one outfit for both English jobs",
+          "Only cities share them"
+        ],
+        "correctIndex": 1,
+        "explanation": "One chart covers both English uses of to and at on these words."
+      }
+    ]
+  },
+  "quiz": {
+    "title": "Quick check",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Sviđa mi se Sarajevo. What is mi doing?",
+        "options": [
+          "Marking the experiencer in the to job",
+          "Naming Sarajevo",
+          "With Sarajevo",
+          "Calling Sarajevo"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sviđa mi se uses the to job on mi for the person who likes it. Sarajevo stays name-it."
+      },
+      {
+        "id": "q2",
+        "question": "Dajem Ani kahvu. What is Ani?",
+        "options": [
+          "Name-it Ana",
+          "To Ana",
+          "Of Ana",
+          "With Ana"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ani is the to form. Kahvu is the gift."
+      },
+      {
+        "id": "q3",
+        "question": "Ja sam u kući versus Idem u kuću. What changed?",
+        "options": [
+          "The pile flipped",
+          "Both should be kuće",
+          "In uses kući. Into uses kuću.",
+          "U disappeared"
+        ],
+        "correctIndex": 2,
+        "explanation": "Little word u stays. The house ending shows the job."
+      },
+      {
+        "id": "q4",
+        "question": "Why does U Sarajevu look right in Book 1?",
+        "options": [
+          "Places never change",
+          "It is the of form from Chapter 3",
+          "It is vocative",
+          "It is the at form on leftover Sarajevo"
+        ],
+        "correctIndex": 3,
+        "explanation": "Sarajevu is today’s at outfit. Sarajeva was from."
+      },
+      {
+        "id": "q5",
+        "question": "Pričam o kahvi uses which job?",
+        "options": [
+          "About, on today’s shared chart",
+          "Want-it",
+          "Of and none",
+          "With"
+        ],
+        "correctIndex": 0,
+        "explanation": "O takes the about form kahvi."
+      },
+      {
+        "id": "q6",
+        "question": "What comes next?",
+        "options": [
+          "Past tense only",
+          "Seven jobs dumped on one page with no map",
+          "With, calling, and one preposition map",
+          "Adjective matching only"
+        ],
+        "correctIndex": 2,
+        "explanation": "Chapter 5 closes the case map with instrumental and vocative."
+      }
+    ]
+  },
+  "next": {
+    "body": "You now know why Ani and kući share an outfit for to and at, and why into still borrows the want-it form. U Sarajevu and Dajem Ani kahvu are the same family. Chapter 5 adds with and calling, then hangs one preposition map for the whole job set. You still will not drown in a naked seven-row dump.",
+    "chapter": 5
+  },
+  "imageSlots": {
+    "hero": "cafe",
+    "afterPattern": "kuca",
+    "afterNerd": "sarajevo"
+  },
+  "images": [
+    {
+      "id": "cafe",
+      "alt": "Polygon painting of guests at courtyard tables in Morića Han, Sarajevo",
+      "localPath": "/images/book1/day-04-cafe-family.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mori%C4%87a_Han_%281%29.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mori%C4%87a_Han_(1).JPG",
+      "author": "JoJan",
+      "license": "CC BY 3.0",
+      "credit": "Morića Han courtyard café, Sarajevo",
+      "grammarCaption": "Dajem Ani kahvu marks Ana with the to form Ani while coffee stays in the want-it form as the gift."
+    },
+    {
+      "id": "kuca",
+      "alt": "Polygon painting of a bright modern apartment kitchen",
+      "localPath": "/images/book1/day-26-flat-kitchen.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Modern_kitchen_and_dining_area_in_a_bright_apartment_on_a_sunny_day_with_simple_decor_and_furniture.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AModern_kitchen_and_dining_area_in_a_bright_apartment_on_a_sunny_day_with_simple_decor_and_furniture.jpg",
+      "author": "Shixart1985",
+      "license": "CC BY 2.0",
+      "credit": "Apartment kitchen",
+      "grammarCaption": "Ja sam u kući uses the at form, while Idem u kuću keeps into on the want-it ending."
+    },
+    {
+      "id": "sarajevo",
+      "alt": "Polygon painting of people at an outdoor café on Ferhadija street, Sarajevo",
+      "localPath": "/images/book1/day-01-ferhadija-cafe.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Sarajevo_Ferhadija_2007-08-16.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_Ferhadija_2007-08-16.jpg",
+      "author": "Milan Suvajac",
+      "license": "CC BY-SA 4.0",
+      "credit": "Outdoor café, Ferhadija, Sarajevo",
+      "grammarCaption": "U Sarajevu is the at form Book 1 already used for being in the city."
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [
+    "A hand-off of a fildžan would sharpen Dajem Ani kahvu. The courtyard café still teaches giving and sitting in the same place."
+  ]
+}

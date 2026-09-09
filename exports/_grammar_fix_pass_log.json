@@ -1,0 +1,47 @@
+{
+  "applied": [
+    "ch00 q1 options[3] Mrvica -> tourist walk",
+    "ch00 q5 options[3] Mrvica -> civic postcard",
+    "ch06 try[5] semicolon fixed",
+    "ch06 quiz[4] minor",
+    "ch06 quiz[2] major",
+    "ch01 whyHere colon gloss dump",
+    "ch01 try[4]",
+    "ch01 try[5]",
+    "ch01 try[9]",
+    "ch04 try[8]",
+    "ch04 try[9]",
+    "ch05 quiz[1]",
+    "ch07 try[8]",
+    "ch08 theme aligned to prescribed wording from near-full sentence",
+    "ch09 theme from outline: English eat splits into two Bosnian verbs, one open along the way and one sealed when the plate is done.",
+    "ch09 try[9]",
+    "ch10 theme",
+    "ch11 try[9]",
+    "ch11 quiz[0]",
+    "ch03 try[0] minor",
+    "ch03 try[5] minor",
+    "outline ch8 theme synced from chapter (was fragment)"
+  ],
+  "skipped": [
+    "ch13 q0 options[3] already non-Mrvica: \"Želim hljeb.\"",
+    "ch13 try[9] already rewritten (no exact evidence): \"Open jesti for action in progress. Pojesti is the sealed finish-it twin from Chapter 9.\"",
+    "ch13 quiz[0] already rewritten (no exact evidence): \"Pojedi is the sealed command. Jedem is open and in progress. Aspect lives on the doing-words shelf.\"",
+    "outline ch6 already matches chapter",
+    "outline ch7 already ok: \"Mene versus me shows the long form after a little word like kod.\""
+  ],
+  "touched": [
+    "content/grammar/chapter-00/chapter.json",
+    "content/grammar/chapter-06/chapter.json",
+    "content/grammar/chapter-01/chapter.json",
+    "content/grammar/chapter-04/chapter.json",
+    "content/grammar/chapter-05/chapter.json",
+    "content/grammar/chapter-07/chapter.json",
+    "content/grammar/chapter-08/chapter.json",
+    "content/grammar/chapter-09/chapter.json",
+    "content/grammar/chapter-10/chapter.json",
+    "content/grammar/chapter-11/chapter.json",
+    "content/grammar/chapter-03/chapter.json",
+    "content/grammar/outline.json"
+  ]
+}

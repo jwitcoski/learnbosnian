@@ -264,7 +264,8 @@
         "bosnian": "Zdravo, Mrvica!",
         "english": "Hello, Mrvica!"
       }
-    ]
+    ],
+    "imageId": "admejdan-cafe"
   },
   "puzzles": [
     {
@@ -385,7 +386,8 @@
     },
     {
       "title": "Lokum on the tray",
-      "body": "Sweet lokum often arrives with Bosnian coffee. Saying yes to one piece is friendly and normal. Eating the whole plate without asking is bold. Treat lokum as part of the coffee welcome rather than a free dessert challenge."
+      "body": "Sweet lokum often arrives with Bosnian coffee. Saying yes to one piece is friendly and normal. Eating the whole plate without asking is bold. Treat lokum as part of the coffee welcome rather than a free dessert challenge.",
+      "imageId": "bazaar-shoppers"
     },
     {
       "title": "Mrvica means little crumb",
@@ -731,6 +733,28 @@
       "author": "Anthony Joh",
       "license": "CC BY 2.0",
       "credit": "Central Bank of Bosnia and Herzegovina"
+    },
+    {
+      "id": "admejdan-cafe",
+      "alt": "Polygon painting of people at outdoor café tables in At Mejdan park, Sarajevo",
+      "localPath": "/images/book1/day-03-admejdan-cafe.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/AdmejdanSarajevo.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAdmejdanSarajevo.JPG",
+      "author": "CeeGee",
+      "license": "CC BY-SA 4.0",
+      "credit": "At Mejdan café, Sarajevo",
+      "objectPosition": "50% 42%"
+    },
+    {
+      "id": "bazaar-shoppers",
+      "alt": "Polygon painting of shoppers in Baščaršija near sweets and souvenir stalls",
+      "localPath": "/images/book1/day-03-bazaar-shoppers.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Ba%C5%A1%C4%8Dar%C5%A1ija_%286086778408%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABa%C5%A1%C4%8Dar%C5%A1ija_%286086778408%29.jpg",
+      "author": "Jennifer Boyer from Fredrick, Maryland, USA",
+      "license": "CC BY 2.0",
+      "credit": "Baščaršija market, Sarajevo",
+      "objectPosition": "50% 45%"
     }
   ],
   "imagesNeeded": false,

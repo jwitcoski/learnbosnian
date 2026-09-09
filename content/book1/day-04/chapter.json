@@ -264,7 +264,8 @@
         "bosnian": "Ona je tvoja mačka sada!",
         "english": "She is your cat now!"
       }
-    ]
+    ],
+    "imageId": "bascarsija-morning"
   },
   "puzzles": [
     {
@@ -389,7 +390,8 @@
     },
     {
       "title": "Chosen family at the table",
-      "body": "Calling café regulars porodica is half joke and half truth. People share news, chairs, and kahva until the table feels like home. Warmth is part of the language lesson, not an extra decoration. When Ana uses family words at Amira’s, she is naming both blood relatives and chosen company."
+      "body": "Calling café regulars porodica is half joke and half truth. People share news, chairs, and kahva until the table feels like home. Warmth is part of the language lesson, not an extra decoration. When Ana uses family words at Amira’s, she is naming both blood relatives and chosen company.",
+      "imageId": "morica-han-dining"
     }
   ],
   "resources": [
@@ -633,13 +635,14 @@
   "images": [
     {
       "id": "cafe-family",
-      "alt": "Polygon painting of an open Sarajevo café terrace with tables for regulars",
+      "alt": "Polygon painting of guests at courtyard tables in Morića Han, Sarajevo, matching the credited Commons photo",
       "localPath": "/images/book1/day-04-cafe-family.png",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarajevo_Ferhadija_2007-08-16.jpg",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_Ferhadija_2007-08-16.jpg",
-      "author": "Milan Suvajac",
-      "license": "CC BY-SA 4.0",
-      "credit": "Open café on Ferhadija, Sarajevo"
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mori%C4%87a_Han_%281%29.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mori%C4%87a_Han_(1).JPG",
+      "author": "JoJan",
+      "license": "CC BY 3.0",
+      "credit": "Morića Han courtyard café, Sarajevo",
+      "objectPosition": "50% 45%"
     },
     {
       "id": "mrvica-cat",
@@ -649,7 +652,8 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Cat_November_2010-1a.jpg",
       "author": "Alvesgaspar",
       "license": "CC BY-SA 3.0",
-      "credit": "Cat"
+      "credit": "Cat",
+      "objectPosition": "50% 55%"
     },
     {
       "id": "family-table",
@@ -670,6 +674,26 @@
       "author": "Dingoa",
       "license": "CC BY-SA 3.0",
       "credit": "Sarajevo parliament"
+    },
+    {
+      "id": "bascarsija-morning",
+      "alt": "Morning regulars gather at café tables in Baščaršija",
+      "localPath": "/images/book1/day-04-bascarsija-morning.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Early_Morning_in_Bascarsija_%2854564806901%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AEarly_Morning_in_Bascarsija_%2854564806901%29.jpg",
+      "author": "Jocelyn Erskine-Kellie from London, UK",
+      "license": "CC BY-SA 2.0",
+      "credit": "Morning café, Baščaršija"
+    },
+    {
+      "id": "morica-han-dining",
+      "alt": "People dine inside the historic Morića Han caravanserai in Sarajevo",
+      "localPath": "/images/book1/day-04-morica-han-dining.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Morica_Han.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMorica_Han.jpg",
+      "author": "Jennifer Boyer from Fredrick, Maryland, USA",
+      "license": "CC BY 2.0",
+      "credit": "Morića Han, Sarajevo"
     }
   ],
   "imagesNeeded": false,

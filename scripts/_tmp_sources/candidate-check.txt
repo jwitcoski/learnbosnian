@@ -1,0 +1,17 @@
+﻿FOUND 61
+ OK File:1997 in Sarajevo 010.jpg
+ OK File:AdmejdanSarajevo.JPG
+python : Traceback (most recent call last):
+At C:\Users\jwitc\AppData\Local\Temp\ps-script-1e607c8a-2e39-4a58-8d7d-8c8405902471.ps1:83 char:52
++ ... itHub\learnbosnian"; python scripts/_check-candidates.py 2>&1 | Out-F ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\Users\jwitc\Documents\GitHub\learnbosnian\scripts\_check-candidates.py", line 21, in <module>
+    print(" OK", t)
+  File "C:\Users\jwitc\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u010d' in position 8: character maps to <undefined>
+ OK 

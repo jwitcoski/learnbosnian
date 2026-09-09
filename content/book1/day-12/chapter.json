@@ -260,7 +260,8 @@
         "bosnian": "Povodac je oko drveta.",
         "english": "The leash is around the tree."
       }
-    ]
+    ],
+    "imageId": "vrelo-bosne-walk"
   },
   "puzzles": [
     {
@@ -367,7 +368,8 @@
     },
     {
       "title": "A long avenue leads to the springs",
-      "body": "Velika aleja creates a memorable approach to Vrelo Bosne. Tall trees line the straight route from Ilidža toward the park. Visitors walk, cycle, or use traditional horse carriages along the avenue. The shaded approach turns the journey into part of the visit."
+      "body": "Velika aleja creates a memorable approach to Vrelo Bosne. Tall trees line the straight route from Ilidža toward the park. Visitors walk, cycle, or use traditional horse carriages along the avenue. The shaded approach turns the journey into part of the visit.",
+      "imageId": "vrelo-avenue"
     },
     {
       "title": "A cat rejects the leash plan",
@@ -663,6 +665,26 @@
       "author": "Dalibor Platenik - Dali",
       "license": "CC BY 3.0",
       "credit": "Floods in Doboj"
+    },
+    {
+      "id": "vrelo-bosne-walk",
+      "alt": "Families walk the tree-lined paths at Vrelo Bosne",
+      "localPath": "/images/book1/day-12-vrelo-bosne-walk.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vrelo%20Bosne%20(1).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Vrelo_Bosne_%281%29.jpg",
+      "author": "CJ",
+      "license": "CC BY 2.0",
+      "credit": "Vrelo Bosne Park"
+    },
+    {
+      "id": "vrelo-avenue",
+      "alt": "Visitors stroll the long avenue toward the Bosna springs",
+      "localPath": "/images/book1/day-12-vrelo-avenue.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarajevo%20(2671671915).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_%282671671915%29.jpg",
+      "author": "Raphael Schön from Vienna, Austria",
+      "license": "CC BY 2.0",
+      "credit": "Vrelo Bosne avenue"
     }
   ],
   "imagesNeeded": false,

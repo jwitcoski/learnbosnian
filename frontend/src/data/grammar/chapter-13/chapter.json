@@ -1,0 +1,464 @@
+{
+  "chapter": 13,
+  "kind": "grammar",
+  "title": "Šta Englezi krivo kažu",
+  "titleEn": "Patterns English speakers get wrong",
+  "theme": "This mixed review walks the whole-book map without opening a new system.",
+  "status": "draft",
+  "reviewedAt": "2026-09-09T15:05:00Z",
+  "reviewerNotes": "Pedagogy re-audit after Fact Checker. Mixed review only. Kept Bosnian-editor aspect soft-gap (pests jesti/pojesti, try t10, quiz q1). Compressed whyHere/pattern/next slogan stacks, folded englishLies It-list, fixed pests colon, swapped se/moja vocab to Ana/Emir list heads, normalized q3 punctuation. Bosnian morphology untouched. Still draft. Final native try/quiz sweep: removed cat-plot/joke weak distractors; replaced select meta slots with named undrilled drills (Ano, za njega, Hoću, Pijte, Doći ću, tata, Nema auta, moja prijateljica); Ch11 trebati personal+acc left untouched; status draft.",
+  "estimatedMinutes": 45,
+  "whyHere": {
+    "heading": "Why you are here",
+    "body": "Today you walk the whole notebook again without learning a new system. Piles, jobs, matching, doing-words, and little words already have their shelves, from coffee as she to se in second place. English will still push you toward one wrong habit from each shelf. This chapter names those habits and checks the map."
+  },
+  "englishLies": {
+    "heading": "Why English lies",
+    "body": "English lies because it keeps coffee still in every job, uses it for almost every thing, lets my stay still while the noun moves, uses one eat for ongoing and finished action, and lets myself wander to the front of a sentence. Bosnian answers each lie with a different shelf from this book. The mix-up starts when you grab the wrong shelf for the headache in front of you."
+  },
+  "knownLine": {
+    "heading": "A line you already say",
+    "body": "Book 1 already gave you Ana’s coffee line Želim kahvu, and Chapter 12 just parked Ja se zovem Ana. Together they carry three systems you now own. Kahva is she from the pile chapter. Kahvu is the want-it job on that same she-word. Se sits in second place after Ja. Today you only rehearse those shelves side by side. You do not open a new chart.",
+    "speaker": "Ana",
+    "bosnian": "Želim kahvu.",
+    "english": "I want coffee."
+  },
+  "pattern": {
+    "heading": "The pattern",
+    "body": "Use the map before you invent a fix, and ask which shelf is broken. Last-letter filing is piles. Moved endings for name-it, want-it, none-of-it, to-it, or with-it are jobs. My or big copying the noun is matching. Time or finished action is doing-words, including eat versus eat up. A little word that tried to open the line is second place. The whole review is one headache mapped to one shelf.",
+    "table": {
+      "headers": [
+        "Shelf",
+        "Plain English",
+        "English-shaped miss"
+      ],
+      "rows": [
+        [
+          "Piles",
+          "He, she, leftover from the last letter",
+          "Filing coffee by vibe"
+        ],
+        [
+          "Jobs",
+          "Name it, want it, none, to it, with it",
+          "Calling kahvu a tense"
+        ],
+        [
+          "Matching",
+          "My and big ride with the noun",
+          "Moja kahvu"
+        ],
+        [
+          "Doing-words",
+          "Now, past, future, eat vs eat up",
+          "One English verb for both"
+        ],
+        [
+          "Little words",
+          "Se, mi, je, sam, ću in second place",
+          "Se zovem"
+        ]
+      ]
+    }
+  },
+  "howYouGuess": {
+    "heading": "The pests",
+    "body": "Five pests come back today, one from each shelf. Tata ends in a and still sits in the he pile. Želim kahva leaves coffee in the name-it form. Moja kahvu matches the pile and misses the job. Jesti and pojesti are not free twins for every eat. Open jesti covers action in progress or habit, and sealed pojesti covers finish it up. Se zovem parks the little word in first place. Name the pest, then open the right older chapter. Do not build a sixth system."
+  },
+  "trick": {
+    "heading": "The bit that tricks you",
+    "body": "The trap is to treat every wrong ending as the same kind of mistake. Kahvu is not a pile change, not a tense, and not a matching failure. It is the want-it job on a she-word you already filed. Se zovem is not a pile problem either. It is a parking problem. If you swing one hammer at every miss, you invent grammar nobody in Sarajevo said.",
+    "table": {
+      "headers": [
+        "Miss",
+        "Wrong guess",
+        "Right shelf"
+      ],
+      "rows": [
+        [
+          "Želim kahva",
+          "Needs past tense",
+          "Want-it job"
+        ],
+        [
+          "Kahvu must be he",
+          "The u changed the pile",
+          "Still she"
+        ],
+        [
+          "Moja kahvu",
+          "Coffee is leftover",
+          "Matching missed the job"
+        ],
+        [
+          "Se zovem Ana",
+          "Needs a new pile",
+          "Second place"
+        ],
+        [
+          "Sam pio pivo",
+          "Sam can lead",
+          "Sam stays second"
+        ]
+      ]
+    }
+  },
+  "nerd": {
+    "heading": "Why it's like this",
+    "body": "Old English is the English of England about a thousand years ago, not a class you missed. Farmers and priests around Winchester hung work on the ends of words, filed things into piles, and clustered small words early. Later English moved a lot of that work into little separate words and freer order. You speak the later version.\n\nBosnian kept more of the older toolkit on the word itself. That is why this notebook needed shelves instead of one mega chart. English speakers go wrong when they expect one English habit to cover five Bosnian jobs. The map is the fix. The coffee stayed the same coffee the whole time."
+  },
+  "vocabulary": [
+    {
+      "bosnian": "kahva",
+      "english": "coffee",
+      "pronunciation": "KAH-hvah",
+      "partOfSpeech": "noun",
+      "example": "Želim kahvu."
+    },
+    {
+      "bosnian": "most",
+      "english": "bridge",
+      "pronunciation": "most",
+      "partOfSpeech": "noun",
+      "example": "To je most."
+    },
+    {
+      "bosnian": "kuća",
+      "english": "house",
+      "pronunciation": "KOO-cha",
+      "partOfSpeech": "noun",
+      "example": "Želim kuću."
+    },
+    {
+      "bosnian": "pivo",
+      "english": "beer",
+      "pronunciation": "PEE-vo",
+      "partOfSpeech": "noun",
+      "example": "Pio sam pivo."
+    },
+    {
+      "bosnian": "Ana",
+      "english": "Ana",
+      "pronunciation": "AH-nah",
+      "partOfSpeech": "noun",
+      "example": "Ja se zovem Ana."
+    },
+    {
+      "bosnian": "Emir",
+      "english": "Emir",
+      "pronunciation": "EH-meer",
+      "partOfSpeech": "noun",
+      "example": "Zovem se Emir."
+    }
+  ],
+  "speakTargets": [
+    0,
+    1,
+    2
+  ],
+  "look": {
+    "heading": "Look at these",
+    "items": [
+      {
+        "speaker": "Amira",
+        "bosnian": "To je kahva.",
+        "english": "That is coffee in the she pile. Last letter a did the filing."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Želim kahvu.",
+        "english": "I want coffee. Same she-word. The u marks the want-it job."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "To je most.",
+        "english": "That is a bridge in the he pile. A consonant did the filing."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Želim most.",
+        "english": "I want a bridge. He-pile things often keep the list form in the want-it job."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "To je moja kahva.",
+        "english": "That is my coffee in the name-it job. Moja matches she-pile kahva."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Želim moju kahvu.",
+        "english": "I want my coffee. Moju rides with kahvu in the want-it job."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Pio sam pivo.",
+        "english": "I drank beer. Sam sits in second place. The past ending matches Emir."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Ja sam pila pivo.",
+        "english": "I drank beer. Sam is still second. The doing-word ending matches Ana."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Ja ću doći.",
+        "english": "I will come. Ću parks in second place after Ja."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Ja se zovem Ana.",
+        "english": "My name is Ana. Se sits in second place. Se zovem would fail."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Zovem se Emir.",
+        "english": "My name is Emir. Zovem takes first place, so Ja can stay home."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Nema kahve.",
+        "english": "There is no coffee. Kahve is the of-and-none job on the same she-word."
+      }
+    ]
+  },
+  "try": {
+    "heading": "Try these",
+    "items": [
+      {
+        "id": "t1",
+        "prompt": "kahva. Which pile?",
+        "options": [
+          "he (on)",
+          "she (ona)",
+          "leftover (ono)"
+        ],
+        "correctIndex": 1,
+        "explanation": "Last letter a puts coffee in the she pile."
+      },
+      {
+        "id": "t2",
+        "prompt": "Ana wants coffee. Which form?",
+        "options": [
+          "kahva",
+          "kahvu",
+          "kahve"
+        ],
+        "correctIndex": 1,
+        "explanation": "Want-it job on a she-word. A becomes u."
+      },
+      {
+        "id": "t3",
+        "prompt": "Someone says Želim kahva. Which shelf broke?",
+        "options": [
+          "Piles",
+          "Jobs",
+          "Little words"
+        ],
+        "correctIndex": 1,
+        "explanation": "They left coffee in the name-it form. The pile was already she."
+      },
+      {
+        "id": "t4",
+        "prompt": "Pick the matching pair for want-it coffee.",
+        "options": [
+          "Moja kahva",
+          "Moju kahvu",
+          "Moj kahvu"
+        ],
+        "correctIndex": 1,
+        "explanation": "Matching copies both the she pile and the want-it job."
+      },
+      {
+        "id": "t5",
+        "prompt": "Se zovem Ana. Which shelf broke?",
+        "options": [
+          "Piles",
+          "Doing-words",
+          "Little words in second place"
+        ],
+        "correctIndex": 2,
+        "explanation": "Se tried to open the sentence. Ja se zovem or Zovem se fixes it."
+      },
+      {
+        "id": "t6",
+        "prompt": "Pio sam pivo. Where does sam sit?",
+        "options": [
+          "First place",
+          "Second place",
+          "Only after pivo"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pio is first. Sam is the past helper in second place."
+      },
+      {
+        "id": "t7",
+        "prompt": "Why is kahvu still she?",
+        "options": [
+          "Because wanting makes drinks female",
+          "Because the u is a job mark on the same she-word",
+          "Because leftover words take u"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pile and job are different shelves. Kahva and kahvu stay she."
+      },
+      {
+        "id": "t8",
+        "prompt": "most in the want-it job is often which form?",
+        "options": [
+          "most",
+          "mostu",
+          "mosta as the only want-it form"
+        ],
+        "correctIndex": 0,
+        "explanation": "He-pile things often keep the list form in the want-it job."
+      },
+      {
+        "id": "t9",
+        "prompt": "Which line parks ću correctly?",
+        "options": [
+          "Ću doći.",
+          "Ja ću doći.",
+          "Doći ja ću ću."
+        ],
+        "correctIndex": 1,
+        "explanation": "Ja is first. Ću is second. Ću cannot lead."
+      },
+      {
+        "id": "t10",
+        "prompt": "You are mid-meal and eating bread. Which twin?",
+        "options": [
+          "Jedem hljeb.",
+          "Pojedem hljeb.",
+          "Pojesti hljeb."
+        ],
+        "correctIndex": 0,
+        "explanation": "Open jesti for action in progress. Pojesti is the sealed finish-it twin from Chapter 9."
+      }
+    ]
+  },
+  "quiz": {
+    "title": "Quick check",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Jesti vs pojesti. Which line finishes the food?",
+        "options": [
+          "Pojedi hljeb.",
+          "Jedem hljeb.",
+          "To je hljeb.",
+          "Želim hljeb."
+        ],
+        "correctIndex": 0,
+        "explanation": "Pojedi is the sealed command. Jedem is open and in progress. Aspect lives on the doing-words shelf."
+      },
+      {
+        "id": "q2",
+        "question": "Želim kahvu mixes which two shelves?",
+        "options": [
+          "Only past tense",
+          "Piles and the want-it job",
+          "Only second place",
+          "Only leftover matching"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kahva is she. Kahvu is the want-it form on that same she-word."
+      },
+      {
+        "id": "q3",
+        "question": "Why does Moja kahvu fail?",
+        "options": [
+          "Coffee switched piles",
+          "Se needed to open the line",
+          "Matching missed the want-it job",
+          "Most is leftover"
+        ],
+        "correctIndex": 2,
+        "explanation": "Moju kahvu copies both pile and job. Moja kahva is the name-it pair."
+      },
+      {
+        "id": "q4",
+        "question": "Why does Se zovem Ana fail?",
+        "options": [
+          "Ana is a he-word",
+          "Zovem is only for Emir",
+          "Past tense is required",
+          "Se cannot take first place"
+        ],
+        "correctIndex": 3,
+        "explanation": "Little words sit in second place. Ja se zovem and Zovem se both work."
+      },
+      {
+        "id": "q5",
+        "question": "Pio sam pivo shows which shelves together?",
+        "options": [
+          "Doing-words plus second place",
+          "Only piles",
+          "Only the with-it job",
+          "Only adjective matching"
+        ],
+        "correctIndex": 0,
+        "explanation": "Past marking lives on the doing-word side. Sam still parks in second place."
+      },
+      {
+        "id": "q6",
+        "question": "tata ends in a. Which pile?",
+        "options": [
+          "she (ona)",
+          "leftover (ono)",
+          "he (on)",
+          "No pile. Kinship words skip filing."
+        ],
+        "correctIndex": 2,
+        "explanation": "Tata is the Chapter 1 pest named again in today’s pests. Dad stays he even though the list word ends in a."
+      }
+    ]
+  },
+  "next": {
+    "body": "You now have the whole map in one place, from piles and jobs through matching, doing-words, and little words in second place. There is no Chapter 14 in this handbook. Go back to coffee, the bridge, and Ana when a line feels wrong, and name the shelf before you guess."
+  },
+  "imageSlots": {
+    "hero": "kahva",
+    "afterPattern": "most",
+    "afterNerd": "kuca"
+  },
+  "images": [
+    {
+      "id": "kahva",
+      "alt": "Polygon painting of an engraved Bosnian coffee set with džezva and cups",
+      "localPath": "/images/book1/day-03-coffee-set.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "author": "İhsan Işık",
+      "license": "CC BY 3.0",
+      "credit": "Bosnian coffee set, Baščaršija",
+      "grammarCaption": "Želim kahvu still carries the she pile and the want-it job on the same coffee from Chapter 1 and Chapter 2."
+    },
+    {
+      "id": "most",
+      "alt": "Polygon painting of the old stone bridge crossing the Neretva in Konjic",
+      "localPath": "/images/book1/day-15-konjic-bridge.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Konjic_Stari_most_7.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKonjic_Stari_most_7.jpg",
+      "author": "Julian Nyča",
+      "license": "CC BY-SA 3.0",
+      "credit": "Old Bridge, Konjic",
+      "grammarCaption": "Most stays in the he pile, and Želim most often keeps the list form in the want-it job."
+    },
+    {
+      "id": "kuca",
+      "alt": "Polygon painting of Počitelj’s stone houses and fortress hill in Herzegovina",
+      "localPath": "/images/book1/day-07-pocitelj.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Po%C4%8Ditelj_-_pano.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Po%C4%8Ditelj_-_pano.jpg",
+      "author": "Pudelek (Marcin Szala)",
+      "license": "CC BY-SA 3.0",
+      "credit": "Počitelj panorama",
+      "grammarCaption": "Kuća becomes kuću in the want-it job, the same she-pile move the review keeps asking you to name."
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [
+    "G.13a coffee set, G.13b Konjic bridge, and G.13c Počitelj reuse the same Book 1 credits already on grammar chapters 0 and 1. A single map poster of the five shelves would help print later, but nothing new is required on disk."
+  ]
+}

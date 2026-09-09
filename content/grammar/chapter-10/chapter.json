@@ -1,0 +1,460 @@
+{
+  "chapter": 10,
+  "kind": "grammar",
+  "title": "Prošlost",
+  "titleEn": "Past",
+  "theme": "Past tense uses sam plus -o, -la, or -lo, so gender shows up on the doing-word.",
+  "status": "draft",
+  "reviewedAt": "2026-09-09T14:57:28Z",
+  "reviewerNotes": "Mold polish re-applied after concurrent Bosnian-editor overwrite. Past-only spouse voice; no machine metaphor; no Mostar/burek/hljeb word-set leaks; no Chapter 9 aspect reteach; -lo taught on pivo; light Chapter 12 helper tease stays in next/nerd. Bosnian retained/checked: sam/si/je/smo, bio/bila/bilo, radio/radila, pio/pila, išao/išla; Emir je bio / Ana je bila clitic order. Still draft pending human publish decision. Residual native spot-check after Fact Checker mold repairs (2026-09-09T14:53:05Z): re-checked cases, conjugations, glosses, Latin/diacritics, and quiz/try keys; focus on Ch9 Popijem present-as-future, Ch5 vocatives, Ch13 shelf balance, and Ch11 trebati (recommend only, no silent rewrite). Soft-gap pass 2026-09-09T14:57:28Z: replaced meta q1 with Ja sam bio second-place check (named in pattern, now drilled).",
+  "estimatedMinutes": 45,
+  "whyHere": {
+    "heading": "Why you are here",
+    "body": "Today you learn how Bosnian builds the past with a little helper plus a gendered piece of the doing-word. English says I worked and she worked with the same worked. Bosnian says Radio sam if Emir worked and Radila sam if Ana worked. The helper is sam, si, or je for one person, and the other piece takes -o, -la, or -lo to match who did it. This chapter is only that past."
+  },
+  "englishLies": {
+    "heading": "Why English lies",
+    "body": "English lies because the past ending on the doing-word usually ignores whether the speaker is a man or a woman. I cooked and she cooked share cooked. Bosnian hangs gender on the past form itself. Bio is he was. Bila is she was. Bilo is leftover was. Schools call the helper forms of biti, and they call the whole tense prošlost, which means the past. You can keep saying sam plus the gendered piece and still be right."
+  },
+  "knownLine": {
+    "heading": "A line you already say",
+    "body": "Book 1 already taught you Ana, Emir, and the short word sam in lines like Ovdje sam. Today that helper joins the past. Emir can say Bio sam u Sarajevu, which means I was in Sarajevo. Ana can say Bila sam na moru, which means I was at the sea. Same helper family. Different gendered piece because Emir is he and Ana is she. The coffee and the house stay in their Chapter 1 piles. The new work is on the doing-word.",
+    "speaker": "Emir",
+    "bosnian": "Bio sam u Sarajevu.",
+    "english": "I was in Sarajevo."
+  },
+  "pattern": {
+    "heading": "The pattern",
+    "body": "Build the everyday past in two parts. First pick the helper that matches who. Ja takes sam, ti takes si, and on or ona takes je. Then pick the gendered piece of the verb. He-pile who gets -o, as in bio, radio, and pio. She-pile who gets -la, as in bila, radila, and pila. Leftover who gets -lo, as in bilo when pivo or Sarajevo is the subject. The helper can sit in second place, so Bio sam and Ja sam bio both appear. Learn Emir versus Ana first. Then notice leftover ono uses -lo.",
+    "table": {
+      "headers": [
+        "Who",
+        "Helper",
+        "He piece",
+        "She piece"
+      ],
+      "rows": [
+        [
+          "ja",
+          "sam",
+          "bio / radio",
+          "bila / radila"
+        ],
+        [
+          "ti",
+          "si",
+          "bio / radio",
+          "bila / radila"
+        ],
+        [
+          "on / ona",
+          "je",
+          "bio / radio",
+          "bila / radila"
+        ],
+        [
+          "mi",
+          "smo",
+          "bili / radili",
+          "bile / radile"
+        ]
+      ]
+    }
+  },
+  "howYouGuess": {
+    "heading": "The pests",
+    "body": "Two pests will trip you today. The first pest is matching the past ending to the thing you drank instead of the person who drank. Ana says Pila sam kahvu with -la because Ana is she, not because coffee somehow became she in the past. The second pest is forgetting the helper. Radio without sam is not a finished everyday past for I worked. Keep sam, si, or je in the sentence. Those two habits will save you more grief than any new chart."
+  },
+  "trick": {
+    "heading": "The bit that tricks you",
+    "body": "The trap is to hear -la and decide the whole sentence flipped into the she pile for every noun. The -la marks who did the action, usually the person. Kahvu can still sit in its want-it form beside that past. The other trap is to copy English and put a he ending on a she speaker. If Ana did it, use radila. If Emir did it, use radio. Leftover subjects take -lo, and that form shows up less in café talk, so master he and she first.",
+    "table": {
+      "headers": [
+        "Speaker",
+        "Past line",
+        "Why"
+      ],
+      "rows": [
+        [
+          "Emir",
+          "Radio sam.",
+          "he piece -o + sam"
+        ],
+        [
+          "Ana",
+          "Radila sam.",
+          "she piece -la + sam"
+        ],
+        [
+          "Emir",
+          "Pio sam kahvu.",
+          "he drank"
+        ],
+        [
+          "Ana",
+          "Pila sam kahvu.",
+          "she drank"
+        ]
+      ]
+    }
+  },
+  "nerd": {
+    "heading": "Why it's like this",
+    "body": "Old English is the English of England about a thousand years ago, not a class you missed. It had richer past forms than yours, but it did not keep a clean he-worked versus she-worked split on the verb the way Bosnian does. Later English locked past on time words and endings like -ed. You speak that later version.\n\nBosnian past is an old combo. A short piece of to be plus an old verbal adjective that still agrees in gender. That is why Ana and Emir diverge on radila versus radio even when English keeps worked still. Schools may say L-participle once. You only need sam plus the gendered piece. Tomorrow adds the future helper and the everyday can-must-want row."
+  },
+  "vocabulary": [
+    {
+      "bosnian": "biti",
+      "english": "to be",
+      "pronunciation": "BEE-tee",
+      "partOfSpeech": "verb",
+      "example": "Bio sam u Sarajevu."
+    },
+    {
+      "bosnian": "raditi",
+      "english": "to work / to do",
+      "pronunciation": "RAH-dee-tee",
+      "partOfSpeech": "verb",
+      "example": "Radila sam."
+    },
+    {
+      "bosnian": "piti",
+      "english": "to drink",
+      "pronunciation": "PEE-tee",
+      "partOfSpeech": "verb",
+      "example": "Pio sam kahvu."
+    },
+    {
+      "bosnian": "ići",
+      "english": "to go",
+      "pronunciation": "EE-chee",
+      "partOfSpeech": "verb",
+      "example": "Išao sam kući."
+    },
+    {
+      "bosnian": "sam",
+      "english": "I-helper in the past (with bio / bila)",
+      "pronunciation": "sahm",
+      "partOfSpeech": "verb",
+      "example": "Bila sam ovdje."
+    },
+    {
+      "bosnian": "pivo",
+      "english": "beer",
+      "pronunciation": "PEE-vo",
+      "partOfSpeech": "noun",
+      "example": "Pivo je bilo ovdje."
+    }
+  ],
+  "speakTargets": [
+    0,
+    1,
+    2
+  ],
+  "look": {
+    "heading": "Look at these",
+    "items": [
+      {
+        "speaker": "Emir",
+        "bosnian": "Bio sam u Sarajevu.",
+        "english": "I was in Sarajevo. He piece bio plus sam."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Bila sam na moru.",
+        "english": "I was at the sea. She piece bila plus sam."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Radio sam danas.",
+        "english": "I worked today. Radio matches Emir."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Radila sam danas.",
+        "english": "I worked today. Radila matches Ana."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Pio sam kahvu.",
+        "english": "I drank coffee. He piece on piti."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Pila sam kahvu.",
+        "english": "I drank coffee. She piece on piti."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Pila sam pivo.",
+        "english": "I drank beer. Amira takes -la."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Pivo je bilo ovdje.",
+        "english": "The beer was here. Leftover subject takes -lo."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Išla sam kući.",
+        "english": "I went home. Ići past for she is išla."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Išao sam na most.",
+        "english": "I went to the bridge. He form išao."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Emir je bio ovdje.",
+        "english": "Emir was here. Helper je with bio."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Ana je bila ovdje.",
+        "english": "Ana was here. Helper je with bila."
+      }
+    ]
+  },
+  "try": {
+    "heading": "Try these",
+    "items": [
+      {
+        "id": "t1",
+        "prompt": "Emir. I was in Sarajevo.",
+        "options": [
+          "Bio sam u Sarajevu.",
+          "Bila sam u Sarajevu.",
+          "Bilo sam u Sarajevu."
+        ],
+        "correctIndex": 0,
+        "explanation": "He piece bio plus sam."
+      },
+      {
+        "id": "t2",
+        "prompt": "Ana. I was at the sea.",
+        "options": [
+          "Bio sam na moru.",
+          "Bila sam na moru.",
+          "Su bila na moru."
+        ],
+        "correctIndex": 1,
+        "explanation": "She piece bila plus sam."
+      },
+      {
+        "id": "t3",
+        "prompt": "Ana. I worked today.",
+        "options": [
+          "Radio sam danas.",
+          "Radila sam danas.",
+          "Radilo sam danas."
+        ],
+        "correctIndex": 1,
+        "explanation": "Match Ana with -la."
+      },
+      {
+        "id": "t4",
+        "prompt": "Emir. I drank coffee.",
+        "options": [
+          "Pio sam kahvu.",
+          "Pila sam kahvu.",
+          "Piti sam kahvu."
+        ],
+        "correctIndex": 0,
+        "explanation": "He piece pio."
+      },
+      {
+        "id": "t5",
+        "prompt": "Amira. I drank beer.",
+        "options": [
+          "Pio sam pivo.",
+          "Pila sam pivo.",
+          "Pilo sam pivo."
+        ],
+        "correctIndex": 1,
+        "explanation": "She piece pila."
+      },
+      {
+        "id": "t6",
+        "prompt": "Ana was here. Which line?",
+        "options": [
+          "Ana je bio ovdje.",
+          "Ana je bila ovdje.",
+          "Ana sam bila ovdje."
+        ],
+        "correctIndex": 1,
+        "explanation": "Helper je with bila for ona."
+      },
+      {
+        "id": "t7",
+        "prompt": "Why does Ana say Pila sam kahvu with -la?",
+        "options": [
+          "Because coffee is she",
+          "Because Ana is she",
+          "Because past always needs -la"
+        ],
+        "correctIndex": 1,
+        "explanation": "The gendered piece matches who did it."
+      },
+      {
+        "id": "t8",
+        "prompt": "What is missing in Radio without a helper for I worked?",
+        "options": [
+          "Nothing",
+          "The helper sam",
+          "A leftover noun ending"
+        ],
+        "correctIndex": 1,
+        "explanation": "Everyday past wants sam, si, or je."
+      },
+      {
+        "id": "t9",
+        "prompt": "Emir went to the bridge. Which form?",
+        "options": [
+          "Išla sam na most.",
+          "Išao sam na most.",
+          "Idem sam na most."
+        ],
+        "correctIndex": 1,
+        "explanation": "Išao is the he past of ići."
+      },
+      {
+        "id": "t10",
+        "prompt": "Pivo je bilo ovdje. Why -lo?",
+        "options": [
+          "Because Emir drank it",
+          "Because leftover subjects take -lo",
+          "Because past never uses -o"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pivo is leftover. The past piece follows the subject pile."
+      }
+    ]
+  },
+  "quiz": {
+    "title": "Quick check",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Emir. Which past line also parks sam correctly after Ja?",
+        "options": [
+          "Ja sam bio u Sarajevu.",
+          "Sam bio u Sarajevu.",
+          "Bio Ja sam u Sarajevu.",
+          "Ja bio sam u Sarajevu."
+        ],
+        "correctIndex": 0,
+        "explanation": "Bio sam and Ja sam bio both work. Sam stays in second place. Sam bio cannot open the line."
+      },
+      {
+        "id": "q2",
+        "question": "Ana worked. Which piece?",
+        "options": [
+          "radio",
+          "radila",
+          "radilo",
+          "raditi with no helper"
+        ],
+        "correctIndex": 1,
+        "explanation": "She speaker takes -la."
+      },
+      {
+        "id": "q3",
+        "question": "Emir drank coffee. Which line?",
+        "options": [
+          "Pila sam kahvu.",
+          "Piti sam kahvu.",
+          "Pio sam kahvu.",
+          "Pio kahvu without sam."
+        ],
+        "correctIndex": 2,
+        "explanation": "He piece pio plus sam."
+      },
+      {
+        "id": "q4",
+        "question": "Why is Ana je bila ovdje right?",
+        "options": [
+          "Because bila marks coffee",
+          "Because past ignores gender",
+          "Because Sarajevo is leftover",
+          "Because je matches ona and bila matches Ana"
+        ],
+        "correctIndex": 3,
+        "explanation": "Helper je plus she piece bila."
+      },
+      {
+        "id": "q5",
+        "question": "The -la in Pila sam kahvu matches which who?",
+        "options": [
+          "the woman who drank",
+          "kahvu",
+          "Sarajevo",
+          "the bridge"
+        ],
+        "correctIndex": 0,
+        "explanation": "Gender on the past piece follows who did the action."
+      },
+      {
+        "id": "q6",
+        "question": "What comes next?",
+        "options": [
+          "Only genitive again",
+          "Clitic second place as the only topic",
+          "Future helper, commands, and can-must-want",
+          "Seven jobs on one chart"
+        ],
+        "correctIndex": 2,
+        "explanation": "Chapter 11 bundles the future helper, commands, and everyday modals."
+      }
+    ]
+  },
+  "next": {
+    "body": "You now can build Bio sam and Bila sam, and you know the -la follows Ana, not the coffee. Chapter 11 adds the future with ću, blunt versus polite commands, and the everyday row for can, must, and want. You still only own the past from today.",
+    "chapter": 11
+  },
+  "imageSlots": {
+    "hero": "mostar",
+    "afterPattern": "kahva",
+    "afterNerd": "kuca"
+  },
+  "images": [
+    {
+      "id": "mostar",
+      "alt": "Polygon painting of people walking through Mostar old town streets",
+      "localPath": "/images/book1/day-05-mostar-stroll.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Old_town%2C_Mostar_%2815%29_%2829225114223%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AOld_town%2C_Mostar_%2815%29_%2829225114223%29.jpg",
+      "author": "Richard Mortel from Riyadh, Saudi Arabia",
+      "license": "CC BY 2.0",
+      "credit": "Mostar old town",
+      "grammarCaption": "A stroll through town is still Bio sam for Emir and Bila sam for Ana, because the past piece follows who walked."
+    },
+    {
+      "id": "kahva",
+      "alt": "Polygon painting of an engraved Bosnian coffee set with džezva and cups",
+      "localPath": "/images/book1/day-03-coffee-set.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "author": "İhsan Işık",
+      "license": "CC BY 3.0",
+      "credit": "Bosnian coffee set, Baščaršija",
+      "grammarCaption": "Pio sam kahvu and Pila sam kahvu split on who drank, not on coffee switching piles."
+    },
+    {
+      "id": "kuca",
+      "alt": "Polygon painting of Počitelj’s stone houses and fortress hill in Herzegovina",
+      "localPath": "/images/book1/day-07-pocitelj.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Po%C4%8Ditelj_-_pano.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Po%C4%8Ditelj_-_pano.jpg",
+      "author": "Pudelek (Marcin Szala)",
+      "license": "CC BY-SA 3.0",
+      "credit": "Počitelj panorama",
+      "grammarCaption": "Išla sam kući keeps -la on Ana, while the house stays the same she-word from earlier chapters."
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [
+    "G.10a-c refs are not in attributions yet. Reused Mostar stroll, coffee set, and Počitelj with original credits. A clear Emir-versus-Ana portrait pair would sharpen bio versus bila later."
+  ]
+}

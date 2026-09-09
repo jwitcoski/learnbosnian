@@ -1,0 +1,450 @@
+{
+  "chapter": 6,
+  "kind": "grammar",
+  "title": "Pridjevi",
+  "titleEn": "Adjectives and possessives",
+  "theme": "Moja kahva becomes moju kahvu when matching my rides with pile and job.",
+  "status": "draft",
+  "reviewedAt": "2026-09-09T15:05:00Z",
+  "reviewerNotes": "Fresh pedagogy polish after Fact Checker. Locked vocab: citation heads moj and lijep; declined forms in examples/pattern. Bosnian matching forms retained (moja/moju/moj/moje, lijepa/lijepu, kuća/kuću). Status draft; reviewedAt null. Pending human publish decision. Final native try/quiz sweep: removed cat-plot/joke weak distractors; replaced select meta slots with named undrilled drills (Ano, za njega, Hoću, Pijte, Doći ću, tata, Nema auta, moja prijateljica); Ch11 trebati personal+acc left untouched; status draft.",
+  "estimatedMinutes": 45,
+  "whyHere": {
+    "heading": "Why you are here",
+    "body": "Today you learn why Ana says moja kahva when she names her coffee, and moju kahvu when she wants that same coffee. Matching words like my have to ride with the pile and the job on the thing-word. English keeps my still in every job, while Bosnian dresses my again for coffee, a bridge, or beer. Chapters 1 through 5 filed the piles and the jobs. This chapter is only the matching ride on the same small word set."
+  },
+  "englishLies": {
+    "heading": "Why English lies",
+    "body": "English lies because my coffee stays my coffee in every job. You say this is my coffee and I want my coffee with the same my. Bosnian matching words copy the pile first, so coffee takes a she form of my, a bridge takes a he form, and beer takes a leftover form. Then those matching words copy the job too, so name-it moja kahva becomes want-it moju kahvu on the same she-word. Schools call these matching words pridjevi, which means adjectives, and the my set is the possessive kind. You can keep saying matching words and still be right."
+  },
+  "knownLine": {
+    "heading": "A line you already say",
+    "body": "Book 1 already gave you Ana’s line Volim moju sobu, which means I love my room. The room is a she-word in the want-it job, so my became moju to ride with it. Today you put that same ride on coffee, the house, the bridge, and beer. Moja kahva names the drink with she-matching my. Moju kahvu wants that same drink, and my moves again with the job.",
+    "speaker": "Ana",
+    "bosnian": "Volim moju sobu!",
+    "english": "I love my room!"
+  },
+  "pattern": {
+    "heading": "The pattern",
+    "body": "You pick the matching form from the pile of the thing-word, then dress it for the job. She-pile coffee takes moja in the name-it job and moju in the want-it job, so moja kahva and moju kahvu stay in the she club together. He-pile bridge usually takes moj, and that moj often stays still in the want-it job on a thing, so moj most looks the same when you name it or want it. Leftover-pile beer takes moje, and moje pivo usually stays still in that same want-it job. Descriptive matching words follow the same ride, so lijepa kahva becomes lijepu kahvu when Ana wants the nice coffee. Learn the my set on coffee first. Then notice most and pivo often keep one matching shape.",
+    "table": {
+      "headers": [
+        "Pile",
+        "Name-it my",
+        "Want-it my"
+      ],
+      "rows": [
+        [
+          "she (ona)",
+          "moja kahva",
+          "moju kahvu"
+        ],
+        [
+          "he thing (on)",
+          "moj most",
+          "moj most"
+        ],
+        [
+          "leftover (ono)",
+          "moje pivo",
+          "moje pivo"
+        ]
+      ]
+    }
+  },
+  "howYouGuess": {
+    "heading": "The pests",
+    "body": "Two pests will trip you today, and both come from freezing my in English shape. The first pest is saying Želim moja kahva, which leaves my and coffee stuck in the name-it forms instead of moju kahvu. The second pest is saying moj kahva or moje kahva, which grabs the wrong pile because coffee is she. Book 1 already showed you the pile ride on people when Ana said Emir je moj prijatelj and Emir answered Ana je moja prijateljica. Copy the pile you already filed instead of inventing a fresh my for every noun."
+  },
+  "trick": {
+    "heading": "The bit that tricks you",
+    "body": "The trap is to hear moju and decide my somehow became a he word. It did not. Moja and moju are the same she-matching my on the same she-word coffee. The a marks the name-it job. The u marks the want-it job. The other trap is to move moj most into a fake moju most because coffee moved. He things and leftover words often keep one matching shape in that job, just as most and pivo often kept still in Chapter 2.",
+    "table": {
+      "headers": [
+        "English",
+        "Bosnian",
+        "What matched"
+      ],
+      "rows": [
+        [
+          "That is my coffee.",
+          "To je moja kahva.",
+          "she pile, name-it"
+        ],
+        [
+          "I want my coffee.",
+          "Želim moju kahvu.",
+          "she pile, want-it"
+        ],
+        [
+          "That is my bridge.",
+          "To je moj most.",
+          "he pile"
+        ],
+        [
+          "That is my beer.",
+          "To je moje pivo.",
+          "leftover pile"
+        ]
+      ]
+    }
+  },
+  "nerd": {
+    "heading": "Why it's like this",
+    "body": "Old English is the English of England about a thousand years ago, not a class you missed. Farmers and priests around Winchester made matching words copy the pile and the job of the thing-word. A good man and a good woman did not keep one frozen good the way modern English does. That copying wore off in later English. You speak the later version, where my and nice stay still beside coffee.\n\nBosnian never fired the matching ride. Moja kahva and moju kahvu are leftover copies of pile and job, the same family of work as the endings on kahva itself. Schools may call the ride agreement, which means the endings have to match. Today you only need the plain fact that my has to dress with coffee, not sit in English pajamas beside it."
+  },
+  "vocabulary": [
+    {
+      "bosnian": "moj",
+      "english": "my",
+      "pronunciation": "moy",
+      "partOfSpeech": "possessive",
+      "example": "To je moja kahva."
+    },
+    {
+      "bosnian": "lijep",
+      "english": "nice",
+      "pronunciation": "lyep",
+      "partOfSpeech": "adjective",
+      "example": "To je lijepa kuća."
+    },
+    {
+      "bosnian": "kahva",
+      "english": "coffee",
+      "pronunciation": "KAH-hvah",
+      "partOfSpeech": "noun",
+      "example": "Želim moju kahvu."
+    },
+    {
+      "bosnian": "most",
+      "english": "bridge",
+      "pronunciation": "most",
+      "partOfSpeech": "noun",
+      "example": "To je moj most."
+    },
+    {
+      "bosnian": "pivo",
+      "english": "beer",
+      "pronunciation": "PEE-vo",
+      "partOfSpeech": "noun",
+      "example": "To je moje pivo."
+    },
+    {
+      "bosnian": "kuća",
+      "english": "house",
+      "pronunciation": "KOO-cha",
+      "partOfSpeech": "noun",
+      "example": "Želim moju kuću."
+    }
+  ],
+  "speakTargets": [
+    0,
+    1,
+    2
+  ],
+  "look": {
+    "heading": "Look at these",
+    "items": [
+      {
+        "speaker": "Amira",
+        "bosnian": "To je moja kahva.",
+        "english": "That is my coffee. She-pile coffee takes moja in the name-it job."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Želim moju kahvu.",
+        "english": "I want my coffee. Same she-matching my, now in the want-it job."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "To je moj most.",
+        "english": "That is my bridge. He-pile bridge takes moj."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Želim moj most.",
+        "english": "I want my bridge. He-thing matching often stays still in this job."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "To je moje pivo.",
+        "english": "That is my beer. Leftover-pile beer takes moje."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Želim moje pivo.",
+        "english": "I want my beer. Leftover matching often stays still here too."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "To je moja kuća.",
+        "english": "That is my house. Same she ride as moja kahva."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Želim moju kuću.",
+        "english": "I want my house. Moja became moju with the want-it job."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "To je lijepa kahva.",
+        "english": "That is nice coffee. A descriptive matching word copies the she pile too."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Želim lijepu kahvu.",
+        "english": "I want nice coffee. Lijepa became lijepu on the same ride as moju."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Emir je moj prijatelj.",
+        "english": "Emir is my friend. Book 1 already used this he-pile match on a person."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Ana je moja prijateljica.",
+        "english": "Ana is my friend. She-pile person takes moja, not moj."
+      }
+    ]
+  },
+  "try": {
+    "heading": "Try these",
+    "items": [
+      {
+        "id": "t1",
+        "prompt": "Amira names her coffee. Which my?",
+        "options": [
+          "moj kahva",
+          "moja kahva",
+          "moje kahva"
+        ],
+        "correctIndex": 1,
+        "explanation": "She-matching my in the name-it job is moja."
+      },
+      {
+        "id": "t2",
+        "prompt": "Ana wants her coffee. Which my?",
+        "options": [
+          "moja kahva",
+          "moju kahvu",
+          "moj kahvu"
+        ],
+        "correctIndex": 1,
+        "explanation": "Want-it she-matching my is moju with kahvu."
+      },
+      {
+        "id": "t3",
+        "prompt": "Emir names his bridge. Which my?",
+        "options": [
+          "moj most",
+          "moja most",
+          "moje most"
+        ],
+        "correctIndex": 0,
+        "explanation": "He-pile matching takes moj."
+      },
+      {
+        "id": "t4",
+        "prompt": "Emir names his beer. Which my?",
+        "options": [
+          "moj pivo",
+          "moja pivo",
+          "moje pivo"
+        ],
+        "correctIndex": 2,
+        "explanation": "Leftover matching takes moje."
+      },
+      {
+        "id": "t5",
+        "prompt": "Ana wants her house. Which my?",
+        "options": [
+          "moja kuća",
+          "moju kuću",
+          "moj kuću"
+        ],
+        "correctIndex": 1,
+        "explanation": "Want-it she-matching my is moju with kuću."
+      },
+      {
+        "id": "t6",
+        "prompt": "Someone says Želim moja kahva. What went wrong?",
+        "options": [
+          "Coffee switched piles.",
+          "Both my and coffee stayed name-it.",
+          "Beer rules were used on coffee."
+        ],
+        "correctIndex": 1,
+        "explanation": "Both moja and kahva stayed name-it. Wanting needs moju kahvu."
+      },
+      {
+        "id": "t7",
+        "prompt": "Ana wants nice coffee. Which form of nice?",
+        "options": [
+          "lijepa kahva",
+          "lijepu kahvu",
+          "lijepo kahvu"
+        ],
+        "correctIndex": 1,
+        "explanation": "Lijepa becomes lijepu in the want-it job."
+      },
+      {
+        "id": "t8",
+        "prompt": "Emir is my friend. Which my?",
+        "options": [
+          "moj",
+          "moja",
+          "moje"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emir is he-pile. Book 1 already said Emir je moj prijatelj."
+      },
+      {
+        "id": "t9",
+        "prompt": "Moju still matches which pile?",
+        "options": [
+          "he (on)",
+          "she (ona)",
+          "leftover (ono)"
+        ],
+        "correctIndex": 1,
+        "explanation": "The u is a job mark on she-matching my. The pile stayed she."
+      },
+      {
+        "id": "t10",
+        "prompt": "Why does moj most often look unchanged when you want the bridge?",
+        "options": [
+          "Because bridges are leftover",
+          "Because he-thing matching often stays still in this job",
+          "Because my never matches bridges"
+        ],
+        "correctIndex": 1,
+        "explanation": "She forms move. Many he things and leftover words keep one matching shape here."
+      }
+    ]
+  },
+  "quiz": {
+    "title": "Quick check",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Ana is my friend. Which matching my?",
+        "options": [
+          "moj prijateljica",
+          "moja prijateljica",
+          "moje prijateljica",
+          "moju prijateljica"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ana is she. Book 1 already used Ana je moja prijateljica. Copy the she pile."
+      },
+      {
+        "id": "q2",
+        "question": "To je moja kahva uses which ride?",
+        "options": [
+          "She pile, name-it",
+          "He pile, want-it",
+          "Leftover pile, none-of-it",
+          "No matching at all"
+        ],
+        "correctIndex": 0,
+        "explanation": "Coffee is she. Naming it keeps moja."
+      },
+      {
+        "id": "q3",
+        "question": "Želim moju kahvu. Why not moja?",
+        "options": [
+          "Coffee switched to the he pile",
+          "The want-it job moved she-matching my to moju",
+          "My becomes moju for politeness",
+          "Kahvu needs leftover my"
+        ],
+        "correctIndex": 1,
+        "explanation": "It is the same she my word. The job changed, so the matching ending changed."
+      },
+      {
+        "id": "q4",
+        "question": "Which form names my beer?",
+        "options": [
+          "moj pivo",
+          "moja pivo",
+          "moje pivo",
+          "moju pivo"
+        ],
+        "correctIndex": 2,
+        "explanation": "Pivo is leftover. Matching my is moje."
+      },
+      {
+        "id": "q5",
+        "question": "Why is moj kahva wrong?",
+        "options": [
+          "Because my never means coffee",
+          "Because coffee is she, so my should be moja",
+          "Because kahva needs a leftover ending first",
+          "Because moj is the leftover matching form"
+        ],
+        "correctIndex": 1,
+        "explanation": "That is the wrong pile. Chapter 1 filed kahva as she."
+      },
+      {
+        "id": "q6",
+        "question": "What comes next after matching words like my?",
+        "options": [
+          "A full seven-job chart tomorrow",
+          "Full pronouns versus short ones, like mene versus me",
+          "Aspect only",
+          "A culture postcard chapter"
+        ],
+        "correctIndex": 1,
+        "explanation": "Chapter 7 is mene versus me, and why a preposition needs the long one."
+      }
+    ]
+  },
+  "next": {
+    "body": "You now know why moja kahva becomes moju kahvu, and why moj most and moje pivo often keep one shape in that same job. Matching words ride with the pile and the job. Chapter 7 is mene versus me, and why kod mene needs the long form. You still will not get a seven-job chart.",
+    "chapter": 7
+  },
+  "imageSlots": {
+    "hero": "kahva",
+    "afterPattern": "kuca",
+    "afterNerd": "most"
+  },
+  "images": [
+    {
+      "id": "kahva",
+      "alt": "Polygon painting of an engraved Bosnian coffee set with džezva and cups",
+      "localPath": "/images/book1/day-03-coffee-set.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "author": "İhsan Işık",
+      "license": "CC BY 3.0",
+      "credit": "Bosnian coffee set, Baščaršija",
+      "grammarCaption": "Moja kahva names the coffee with she-matching my, and moju kahvu wants that same drink."
+    },
+    {
+      "id": "kuca",
+      "alt": "Polygon painting of Počitelj’s stone houses and fortress hill in Herzegovina",
+      "localPath": "/images/book1/day-07-pocitelj.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Po%C4%8Ditelj_-_pano.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Po%C4%8Ditelj_-_pano.jpg",
+      "author": "Pudelek (Marcin Szala)",
+      "license": "CC BY-SA 3.0",
+      "credit": "Počitelj panorama",
+      "grammarCaption": "Moja kuća and moju kuću take the same she-matching ride you just saw on coffee."
+    },
+    {
+      "id": "most",
+      "alt": "Polygon painting of the old stone bridge crossing the Neretva in Konjic",
+      "localPath": "/images/book1/day-15-konjic-bridge.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Konjic_Stari_most_7.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKonjic_Stari_most_7.jpg",
+      "author": "Julian Nyča",
+      "license": "CC BY-SA 3.0",
+      "credit": "Old Bridge, Konjic",
+      "grammarCaption": "Moj most shows the he match, and that matching shape often stays still when you want the bridge."
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [
+    "G.6a coffee set, G.6b Počitelj houses, G.6c Konjic bridge. Reused Book 1 paths with existing credits. A dedicated moje pivo glass would sharpen the leftover row later."
+  ]
+}

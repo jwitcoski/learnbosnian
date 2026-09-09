@@ -1,0 +1,331 @@
+[
+  {
+    "day": 3,
+    "titleEn": "Numbers and coffee",
+    "theme": "Coffee at Amira’s",
+    "storyBeat": "Amira’s café becomes HQ. Ana learns numbers 1 to 20 and orders kahva while Mrvica steals the scene.",
+    "funFacts": [
+      "kahva with an h",
+      "Fildžan is tiny on purpose",
+      "Lokum on the tray",
+      "Mrvica means little crumb"
+    ]
+  },
+  {
+    "day": 4,
+    "titleEn": "Mrvica’s family",
+    "theme": "Café “family” + the cat",
+    "storyBeat": "Mrvica adopts Ana. Amira’s café regulars start to feel like family.",
+    "funFacts": [
+      "Baba and djed",
+      "Prijatelj vs prijateljica",
+      "Mrvica means little crumb",
+      "Chosen family at the table"
+    ]
+  },
+  {
+    "day": 5,
+    "titleEn": "Where is Mostar?",
+    "theme": "Map of Bosnia and Herzegovina. Mostar tease",
+    "storyBeat": "Emir unfolds a map and teases a future Mostar trip while Ana learns place words.",
+    "funFacts": [
+      "Mostar means the bridge keeper",
+      "Ovdje vs tamo",
+      "Kod plus a name",
+      "The Mostar trip can wait"
+    ]
+  },
+  {
+    "day": 6,
+    "titleEn": "What time is it?",
+    "theme": "Clocks and daily rhythm across Bosnia and Herzegovina",
+    "storyBeat": "Emir teaches Ana the time, then shows that Bosnia’s rhythm is bigger than one city. Travnik’s sahat-kula, Una mornings near Bihać, and weekend dreams of Neum.",
+    "funFacts": [
+      "Travnik and Vlašić",
+      "Many sahat-kule",
+      "Una mornings near Bihać",
+      "Neum touches the sea"
+    ]
+  },
+  {
+    "day": 7,
+    "titleEn": "Review",
+    "theme": "Review of Lessons 1 to 6, plus postcards from across Bosnia and Herzegovina",
+    "storyBeat": "Ana captions what she learned in Lessons 1 to 6. Emir then slides in postcards from Jajce, Blagaj, and Počitelj so the review opens more of the country.",
+    "funFacts": [
+      "Jajce, town on a waterfall",
+      "Blagaj and the Buna spring",
+      "Počitelj’s stone stack",
+      "Banja Luka on the mental map"
+    ]
+  },
+  {
+    "day": 8,
+    "titleEn": "I love burek",
+    "theme": "Street food",
+    "storyBeat": "Ana’s food disasters begin with burek. Emir teaches likes and dislikes with a gentle nudge toward the accusative.",
+    "funFacts": [
+      "No cheese in the word burek",
+      "Livanjski sir",
+      "Jogurt is a partner",
+      "Mrvica tax"
+    ]
+  },
+  {
+    "day": 9,
+    "titleEn": "At the shop",
+    "theme": "Market day",
+    "storyBeat": "Ana shops with Emir and practices želim, molim, hvala, and prices.",
+    "funFacts": [
+      "KM on the price tag",
+      "Tuzla’s other fame",
+      "Molim does double duty",
+      "Kesa is not optional"
+    ]
+  },
+  {
+    "day": 10,
+    "titleEn": "My room",
+    "theme": "Room above the café",
+    "storyBeat": "Ana settles into the room above Amira’s and learns imati plus simple adjective agreement.",
+    "funFacts": [
+      "Upstairs from the kahva",
+      "Stećci near Stolac",
+      "Stan vs kuća",
+      "Cat property law"
+    ]
+  },
+  {
+    "day": 11,
+    "titleEn": "How is the weather?",
+    "theme": "Autumn on Trebević",
+    "storyBeat": "Rain ruins Ana and Emir's picnic on Trebević.",
+    "funFacts": [
+      "The cable car returned",
+      "Jahorina changes with the seasons",
+      "Mountain weather moves quickly"
+    ]
+  },
+  {
+    "day": 12,
+    "titleEn": "Let's go to the park",
+    "theme": "A walk at Vrelo Bosne",
+    "storyBeat": "Ana tries to walk Mrvica on a leash at Vrelo Bosne.",
+    "funFacts": [
+      "The Bosna begins here",
+      "A long avenue leads to the springs",
+      "A cat rejects the leash plan"
+    ]
+  },
+  {
+    "day": 13,
+    "titleEn": "People from Bosnia and Herzegovina",
+    "theme": "Place, language, and people",
+    "storyBeat": "Ana and Emir have a gentle identity conversation over kahva.",
+    "funFacts": [
+      "Place can open a gentle conversation",
+      "Brčko sits on the Sava",
+      "Language names can vary"
+    ]
+  },
+  {
+    "day": 14,
+    "titleEn": "Review",
+    "theme": "Game night at Amira’s",
+    "storyBeat": "A board game makes Ana reuse core present-tense patterns from Lessons 8 through 13.",
+    "funFacts": [
+      "Kastel guards a Vrbas crossing",
+      "The Vrbas shapes Banja Luka",
+      "Ferhadija was rebuilt"
+    ]
+  },
+  {
+    "day": 15,
+    "titleEn": "Right or left?",
+    "theme": "Directions near Latin Bridge",
+    "storyBeat": "Ana gets lost near Latin Bridge and asks for polite directions.",
+    "funFacts": [
+      "Latin Bridge carries layered history",
+      "Konjic rebuilt an older crossing",
+      "Lijeva keeps its full spelling"
+    ]
+  },
+  {
+    "day": 16,
+    "titleEn": "On the bus",
+    "theme": "Bus tickets and coast dreams",
+    "storyBeat": "Ana and Emir buy bus tickets and dream of Jablanica lake views and Neum on the coast.",
+    "funFacts": [
+      "Neum is the short coast",
+      "Jablanica sits on the lake road",
+      "Treba mi is a survival phrase",
+      "Window seats teach prozor"
+    ]
+  },
+  {
+    "day": 17,
+    "titleEn": "Enjoy your meal!",
+    "theme": "Restaurant debate over klepe and japrak",
+    "storyBeat": "Ana and Emir debate klepe versus japrak at a Sarajevo restaurant.",
+    "funFacts": [
+      "Klepe come with sauce and garlic",
+      "Japrak wraps the vine leaf",
+      "Visoko sits on the food map"
+    ]
+  },
+  {
+    "day": 18,
+    "titleEn": "Sports and hobbies",
+    "theme": "Football chat and river walks",
+    "storyBeat": "Ana and Emir compare football at Bilino Polje with quiet walks by the Una.",
+    "funFacts": [
+      "Bilino Polje anchors Zenica football",
+      "Štrbački buk shows the Una",
+      "Često beats a long verb table",
+      "Hobi can be quiet"
+    ]
+  },
+  {
+    "day": 19,
+    "titleEn": "Holidays",
+    "theme": "Holiday lights and inclusive greetings",
+    "storyBeat": "Ana practices Bajram, Božić, and New Year greetings under Ferhadija lights.",
+    "funFacts": [
+      "Ferhadija is a holiday promenade",
+      "Two landmarks, one center",
+      "Čestitka carries a written wish"
+    ]
+  },
+  {
+    "day": 20,
+    "titleEn": "Phone call",
+    "theme": "Emergency cat phone call",
+    "storyBeat": "Ana calls Emir in a panic when Mrvica goes missing near the tram line.",
+    "funFacts": [
+      "Alo is the phone hello",
+      "Trams frame everyday calls",
+      "Question words form a checklist",
+      "Mrvica keeps the stakes personal"
+    ]
+  },
+  {
+    "day": 21,
+    "titleEn": "Review",
+    "theme": "Ana plans a solo weekend",
+    "storyBeat": "Ana plans a solo weekend and drills frames from Lessons 15 through 20 at Amira's café.",
+    "funFacts": [
+      "Una and Bihać suit a quiet weekend",
+      "Jajce adds a waterfall stop",
+      "Treba mi stays a survival phrase",
+      "Solo weekends still need polite lines"
+    ]
+  },
+  {
+    "day": 22,
+    "titleEn": "Today in Travnik",
+    "theme": "Day trip to Travnik in the present",
+    "storyBeat": "Ana and Emir walk Travnik and name what they see while Amira calls from the café.",
+    "funFacts": [
+      "Travnik was a vizier seat",
+      "Sulejmanija stands out for color",
+      "Ovo je works like a pointing finger",
+      "Mountain roads need careful driving"
+    ]
+  },
+  {
+    "day": 23,
+    "titleEn": "What do you do?",
+    "theme": "Daily activity questions after the trip",
+    "storyBeat": "After Travnik, Ana asks what everyone does today and what they like to do.",
+    "funFacts": [
+      "Šta radiš? Opens honest daily talk",
+      "Zenica widens the map beyond Sarajevo",
+      "Volim da adds a habit after work talk",
+      "Eurovision stays closed while BHRT debt remains"
+    ]
+  },
+  {
+    "day": 24,
+    "titleEn": "Mountains and rivers",
+    "theme": "Una, Neretva, Bjelašnica",
+    "storyBeat": "Ana and Emir name rivers and mountains across Bosnia and Herzegovina on a nature day.",
+    "funFacts": [
+      "Una runs emerald in the northwest",
+      "Neretva cuts a southern canyon",
+      "1984 Olympics left two ski stories",
+      "Veći and manji stay light in Book 1"
+    ]
+  },
+  {
+    "day": 25,
+    "titleEn": "At the doctor",
+    "theme": "Mrvica vs pinecone (vet subplot)",
+    "storyBeat": "Mrvica swallows part of a pinecone and Ana brings the cat to a vet clinic for help.",
+    "funFacts": [
+      "Boli me is a fast symptom chunk",
+      "Vet clinics use the same polite frames",
+      "Apoteka sits beside many clinics",
+      "JMBG deadlock endangered infants in 2013"
+    ]
+  },
+  {
+    "day": 26,
+    "titleEn": "Housing",
+    "theme": "Looking at a longer stay",
+    "storyBeat": "Ana and Emir visit a Zenica flat with Amira and almost sign a monthly lease with the landlord.",
+    "funFacts": [
+      "Zenica mixes industry and student life",
+      "Kirija is often monthly",
+      "Može is a door opener",
+      "Namještaj can be light"
+    ]
+  },
+  {
+    "day": 27,
+    "titleEn": "Work and school",
+    "theme": "Emir's guide shift and Ana's study plan",
+    "storyBeat": "Emir leads a morning tour in Banja Luka while Ana maps a quiet study week at the university library.",
+    "funFacts": [
+      "Banja Luka trams frame the commute",
+      "Radim is a daily anchor",
+      "Biblioteka hours teach patience",
+      "Kolega opens office small talk"
+    ]
+  },
+  {
+    "day": 28,
+    "titleEn": "Mostar at last!",
+    "theme": "Finally Mostar and the cold Neretva dare",
+    "storyBeat": "The friends reach Mostar, walk the old town, and debate a jump from Stari Most while the green Neretva flows below.",
+    "funFacts": [
+      "Stari Most is a living symbol",
+      "Neretva color surprises newcomers",
+      "Summer diving is seasonal",
+      "Idemo fits group travel"
+    ]
+  },
+  {
+    "day": 29,
+    "titleEn": "Letters from Bosnia and Herzegovina",
+    "theme": "Ana writes home",
+    "storyBeat": "Ana sits in Sarajevo and writes a postcard home with i, ali, and zato linking her present thoughts.",
+    "funFacts": [
+      "Ferhadija still frames mail walks",
+      "Razglednica beats a long email for tone",
+      "Zato closes a thought cleanly",
+      "Memorial visits can stay quiet"
+    ]
+  },
+  {
+    "day": 30,
+    "titleEn": "Graduation party",
+    "theme": "Party vocab and Book 1 frame review",
+    "storyBeat": "Friends toast Book 1 completion until Mrvica steals the cake from the party table.",
+    "funFacts": [
+      "Book 1 ends in the present",
+      "Mrvica keeps comic glue",
+      "Čestitam fits any toast",
+      "Frames travel better than tables"
+    ]
+  }
+]

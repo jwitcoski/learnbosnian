@@ -52,10 +52,17 @@ function ChapterImageFigure({
 }) {
   if (!image?.localPath) return null;
   const ref = imageRefFor(chapter, image.id);
+  const imgStyle = image.objectPosition
+    ? { objectPosition: image.objectPosition }
+    : undefined;
   return (
     <LessonFigure>
       <div className="frame">
-        <img src={image.localPath} alt={image.alt || image.id} />
+        <img
+          src={image.localPath}
+          alt={image.alt || image.id}
+          style={imgStyle}
+        />
       </div>
       <Credit as="figcaption">
         <Link to={attrHash(ref, chapter.day, image.id)}>
@@ -82,14 +89,32 @@ function pickSpeakTargets(chapter: Chapter): number[] {
 export default function LessonShell({ chapter }: Props) {
   const images = chapter.images || [];
   const civicImageId = chapter.civicContext?.imageId || null;
+  const conversationImageId = chapter.conversation?.imageId || null;
   const hero =
     images.find((i) => i.id === chapter.culture?.imageId) || images[0];
   const rest = images.filter(
-    (i) => i.id !== hero?.id && i.id !== civicImageId
+    (i) =>
+      i.id !== hero?.id &&
+      i.id !== civicImageId &&
+      i.id !== conversationImageId
   );
   const cultureImage = rest[0];
   const midImage = rest[1];
-  const moreImages = rest.slice(2);
+  const extraImages = rest.slice(2);
+  const funFactImageIds = new Set(
+    (chapter.funFacts || [])
+      .map((f) => f.imageId)
+      .filter((id): id is string => Boolean(id))
+  );
+  const unassignedExtras = extraImages.filter((i) => !funFactImageIds.has(i.id));
+  const imageById = useMemo(() => {
+    const map = new Map<string, (typeof images)[number]>();
+    images.forEach((img) => map.set(img.id, img));
+    return map;
+  }, [images]);
+  const conversationImage = conversationImageId
+    ? images.find((i) => i.id === conversationImageId)
+    : undefined;
 
   const prev = getChapter(chapter.day - 1);
   const next = getChapter(chapter.day + 1);
@@ -124,7 +149,15 @@ export default function LessonShell({ chapter }: Props) {
       <HeroBand>
         {hero?.localPath && (
           <div className="hero-media">
-            <img src={hero.localPath} alt={hero.alt || chapter.title} />
+            <img
+              src={hero.localPath}
+              alt={hero.alt || chapter.title}
+              style={
+                hero.objectPosition
+                  ? { objectPosition: hero.objectPosition }
+                  : undefined
+              }
+            />
           </div>
         )}
         <div className="hero-copy">
@@ -333,6 +366,12 @@ export default function LessonShell({ chapter }: Props) {
           <p style={{ color: "var(--color-muted)" }}>
             {chapter.conversation.setting}
           </p>
+          {conversationImage && (
+            <ChapterImageFigure
+              chapter={chapter}
+              image={conversationImage}
+            />
+          )}
           <p style={{ color: "var(--color-muted)" }}>
             Play the full scene once. Then tap a line to hear it. On some
             lines you can record yourself for a short Speak Check.
@@ -417,11 +456,11 @@ export default function LessonShell({ chapter }: Props) {
         </Panel>
       )}
 
-      {moreImages.length > 0 && (
+      {unassignedExtras.length > 0 && (
         <Panel id="more-photos">
           <SectionDivider />
           <h2>More scenes</h2>
-          {moreImages.map((img) => (
+          {unassignedExtras.map((img) => (
             <ChapterImageFigure key={img.id} chapter={chapter} image={img} />
           ))}
         </Panel>
@@ -439,12 +478,18 @@ export default function LessonShell({ chapter }: Props) {
         <Panel id="fun-facts">
           <SectionDivider />
           <h2>Fun facts</h2>
-          {chapter.funFacts.map((f) => (
-            <div key={f.title} style={{ marginBottom: "1rem" }}>
-              <h3>{f.title}</h3>
-              <p>{f.body}</p>
-            </div>
-          ))}
+          {chapter.funFacts.map((f) => {
+            const factImage = f.imageId ? imageById.get(f.imageId) : undefined;
+            return (
+              <div key={f.title} style={{ marginBottom: "1rem" }}>
+                <h3>{f.title}</h3>
+                <p>{f.body}</p>
+                {factImage && (
+                  <ChapterImageFigure chapter={chapter} image={factImage} />
+                )}
+              </div>
+            );
+          })}
         </Panel>
       )}
 

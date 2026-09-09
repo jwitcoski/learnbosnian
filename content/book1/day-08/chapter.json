@@ -260,7 +260,8 @@
         "bosnian": "Mjau!",
         "english": "Meow!"
       }
-    ]
+    ],
+    "imageId": "sarajevo-market"
   },
   "puzzles": [
     {
@@ -377,7 +378,8 @@
     },
     {
       "title": "Jogurt is a partner",
-      "body": "Warm burek often arrives with jogurt on purpose. The cool yogurt balances the hot pastry and slows the first bite. People treat the pair as a small everyday ritual rather than a random side. If you order burek, expect jogurt to feel like part of the meal."
+      "body": "Warm burek often arrives with jogurt on purpose. The cool yogurt balances the hot pastry and slows the first bite. People treat the pair as a small everyday ritual rather than a random side. If you order burek, expect jogurt to feel like part of the meal.",
+      "imageId": "burek-stall"
     },
     {
       "title": "Mrvica tax",
@@ -694,6 +696,26 @@
       "author": "Brian Eager from Livno, Bosnia and Herzegovina",
       "license": "CC BY 2.0",
       "credit": "Livno valley"
+    },
+    {
+      "id": "sarajevo-market",
+      "alt": "Shoppers browse fruit crates at a Sarajevo market",
+      "localPath": "/images/book1/day-08-sarajevo-market.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Fruit_market_in_Sarajevo_%283887505834%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFruit_market_in_Sarajevo_%283887505834%29.jpg",
+      "author": "NH53",
+      "license": "CC BY 2.0",
+      "credit": "Sarajevo market"
+    },
+    {
+      "id": "burek-stall",
+      "alt": "A vendor serves fresh burek to waiting customers",
+      "localPath": "/images/book1/day-08-burek-stall.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Burek_in_Sarajevo.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABurek_in_Sarajevo.jpg",
+      "author": "Hibasi",
+      "license": "CC BY-SA 4.0",
+      "credit": "Burek stall, Sarajevo"
     }
   ],
   "imagesNeeded": false,

@@ -2,8 +2,8 @@
   "title": "Photo attributions",
   "intro": "Every photo used on the site, in Book 1, and in the Grammar handbook, listed for citation. Use this when you credit images for print, Scribus export, or YouTube. Lesson images come from each lesson file; grammar images come from each grammar chapter; homepage photos are added by hand.",
   "citationNote": "For Creative Commons works, credit the author, note the license, and link to the source page. For Pexels, credit the photographer and Pexels. Derivative treatments (polygon paint, background removal) still require attribution of the source photo.",
-  "generatedAt": "2026-08-21",
-  "total": 133,
+  "generatedAt": "2026-09-09",
+  "total": 204,
   "entries": [
     {
       "id": "book1-day-00-mostar-neretva",
@@ -78,6 +78,63 @@
       "day": 0
     },
     {
+      "id": "grammar-ch-00-kahva",
+      "ref": "G.0a",
+      "title": "Bosnian coffee",
+      "whereUsed": [
+        "Grammar · Chapter 0 - Why this feels hard",
+        "Grammar · Chapter 0 — Why this feels hard"
+      ],
+      "author": "Michał Huniewicz",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_coffee_(13926468997).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_coffee_(13926468997).jpg",
+      "localPath": "/images/book1/day-03-kahva.png",
+      "credit": "Michał Huniewicz / Wikimedia Commons (CC BY 2.0)",
+      "notes": "Kahva is the drink English would never change, and this map starts with why Bosnian will.",
+      "book": "G",
+      "day": 0
+    },
+    {
+      "id": "grammar-ch-00-kuca",
+      "ref": "G.0b",
+      "title": "Počitelj panorama",
+      "whereUsed": [
+        "Grammar · Chapter 0 - Why this feels hard",
+        "Grammar · Chapter 0 — Why this feels hard"
+      ],
+      "author": "Pudelek (Marcin Szala)",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Po%C4%8Ditelj_-_pano.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Po%C4%8Ditelj_-_pano.jpg",
+      "localPath": "/images/book1/day-07-pocitelj.png",
+      "credit": "Pudelek (Marcin Szala) / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "Kuća is one of the same few words this notebook will reuse while each system waits its turn.",
+      "book": "G",
+      "day": 0
+    },
+    {
+      "id": "grammar-ch-00-most",
+      "ref": "G.0c",
+      "title": "Old Bridge, Konjic",
+      "whereUsed": [
+        "Grammar · Chapter 0 - Why this feels hard",
+        "Grammar · Chapter 0 — Why this feels hard"
+      ],
+      "author": "Julian Nyča",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKonjic_Stari_most_7.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Konjic_Stari_most_7.jpg",
+      "localPath": "/images/book1/day-15-konjic-bridge.png",
+      "credit": "Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "Most is a bridge on the map, and its pile day comes before any job chart.",
+      "book": "G",
+      "day": 0
+    },
+    {
       "id": "book1-day-01-bascarsija",
       "ref": "1.1a",
       "title": "Baščaršija, Sarajevo",
@@ -132,8 +189,44 @@
       "day": 1
     },
     {
-      "id": "book1-day-01-civic-ohr",
+      "id": "book1-day-01-street-festival",
       "ref": "1.1d",
+      "title": "Sarajevo Street Food Festival stage",
+      "whereUsed": [
+        "Book 1 · Lesson 1 — Hello, Sarajevo!"
+      ],
+      "author": "Rudolph.A.furtado",
+      "source": "Wikimedia Commons",
+      "license": "CC0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Street_Food_Festival_in_Sarajevo_Old_Town.JPG",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Street_Food_Festival_in_Sarajevo_Old_Town.JPG",
+      "localPath": "/images/book1/day-01-street-festival.png",
+      "credit": "Rudolph.A.furtado / Wikimedia Commons (CC0)",
+      "notes": "",
+      "book": 1,
+      "day": 1
+    },
+    {
+      "id": "book1-day-01-ferhadija-cafe",
+      "ref": "1.1e",
+      "title": "Outdoor café, Ferhadija, Sarajevo",
+      "whereUsed": [
+        "Book 1 · Lesson 1 — Hello, Sarajevo!"
+      ],
+      "author": "Milan Suvajac",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_Ferhadija_2007-08-16.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Sarajevo_Ferhadija_2007-08-16.jpg",
+      "localPath": "/images/book1/day-01-ferhadija-cafe.png",
+      "credit": "Milan Suvajac / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 1
+    },
+    {
+      "id": "book1-day-01-civic-ohr",
+      "ref": "1.1f",
       "title": "Office of the High Representative, Sarajevo",
       "whereUsed": [
         "Book 1 · Lesson 1 — Hello, Sarajevo!"
@@ -147,6 +240,63 @@
       "credit": "Niegodzisie / Wikimedia Commons (CC BY-SA 4.0)",
       "notes": "",
       "book": 1,
+      "day": 1
+    },
+    {
+      "id": "grammar-ch-01-kahva",
+      "ref": "G.1a",
+      "title": "Bosnian coffee set, Baščaršija",
+      "whereUsed": [
+        "Grammar · Chapter 1 - Why coffee is a she",
+        "Grammar · Chapter 1 — Why coffee is a she"
+      ],
+      "author": "İhsan Işık",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "localPath": "/images/book1/day-03-coffee-set.png",
+      "credit": "İhsan Işık / Wikimedia Commons (CC BY 3.0)",
+      "notes": "Kahva ends in a, so it belongs in the she pile, not because coffee is girly.",
+      "book": "G",
+      "day": 1
+    },
+    {
+      "id": "grammar-ch-01-most",
+      "ref": "G.1b",
+      "title": "Old Bridge, Konjic",
+      "whereUsed": [
+        "Grammar · Chapter 1 - Why coffee is a she",
+        "Grammar · Chapter 1 — Why coffee is a she"
+      ],
+      "author": "Julian Nyča",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKonjic_Stari_most_7.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Konjic_Stari_most_7.jpg",
+      "localPath": "/images/book1/day-15-konjic-bridge.png",
+      "credit": "Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "Most ends in t, so it belongs in the he pile.",
+      "book": "G",
+      "day": 1
+    },
+    {
+      "id": "grammar-ch-01-more",
+      "ref": "G.1c",
+      "title": "Zenit Beach, Neum",
+      "whereUsed": [
+        "Grammar · Chapter 1 - Why coffee is a she",
+        "Grammar · Chapter 1 — Why coffee is a she"
+      ],
+      "author": "Bdx",
+      "source": "Wikimedia Commons",
+      "license": "CC0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AZenit_Beach_in_Neum%2C_2024_1.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Zenit_Beach_in_Neum%2C_2024_1.jpg",
+      "localPath": "/images/book1/day-16-neum-coast.png",
+      "credit": "Bdx / Wikimedia Commons (CC0)",
+      "notes": "More ends in e, so it belongs in the leftover pile with pivo.",
+      "book": "G",
       "day": 1
     },
     {
@@ -204,8 +354,44 @@
       "day": 2
     },
     {
-      "id": "book1-day-02-civic-presidency",
+      "id": "book1-day-02-mostar-cafe",
       "ref": "1.2d",
+      "title": "Coco Loco café, Mostar",
+      "whereUsed": [
+        "Book 1 · Lesson 2 — I am Ana"
+      ],
+      "author": "Fred Romero",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mostar_-_Cafe_Coco_Loco_(49033682451).jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Mostar_-_Cafe_Coco_Loco_%2849033682451%29.jpg",
+      "localPath": "/images/book1/day-02-mostar-cafe.png",
+      "credit": "Fred Romero / Wikimedia Commons (CC BY 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 2
+    },
+    {
+      "id": "book1-day-02-sebilj-meeting",
+      "ref": "1.2e",
+      "title": "Tourists at Sebilj, Sarajevo",
+      "whereUsed": [
+        "Book 1 · Lesson 2 — I am Ana"
+      ],
+      "author": "JoJan",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_-_Sebilj_fountain.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sarajevo_-_Sebilj_fountain.jpg",
+      "localPath": "/images/book1/day-02-sebilj-meeting.png",
+      "credit": "JoJan / Wikimedia Commons (CC BY 3.0)",
+      "notes": "",
+      "book": 1,
+      "day": 2
+    },
+    {
+      "id": "book1-day-02-civic-presidency",
+      "ref": "1.2f",
       "title": "Presidency of BiH, Sarajevo",
       "whereUsed": [
         "Book 1 · Lesson 2 — I am Ana"
@@ -219,6 +405,63 @@
       "credit": "Niegodzisie / Wikimedia Commons (CC BY-SA 4.0)",
       "notes": "",
       "book": 1,
+      "day": 2
+    },
+    {
+      "id": "grammar-ch-02-kahva",
+      "ref": "G.2a",
+      "title": "Bosnian coffee set, Baščaršija",
+      "whereUsed": [
+        "Grammar · Chapter 2 - Subject and the thing you want",
+        "Grammar · Chapter 2 — Subject and the thing you want"
+      ],
+      "author": "İhsan Işık",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "localPath": "/images/book1/day-03-coffee-set.png",
+      "credit": "İhsan Işık / Wikimedia Commons (CC BY 3.0)",
+      "notes": "Ana wants the coffee as kahvu, and the ending moved for the want-it job on the same she-word.",
+      "book": "G",
+      "day": 2
+    },
+    {
+      "id": "grammar-ch-02-kuca",
+      "ref": "G.2b",
+      "title": "Počitelj panorama",
+      "whereUsed": [
+        "Grammar · Chapter 2 - Subject and the thing you want",
+        "Grammar · Chapter 2 — Subject and the thing you want"
+      ],
+      "author": "Pudelek (Marcin Szala)",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Po%C4%8Ditelj_-_pano.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Po%C4%8Ditelj_-_pano.jpg",
+      "localPath": "/images/book1/day-07-pocitelj.png",
+      "credit": "Pudelek (Marcin Szala) / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "Kuća becomes kuću in the want-it job, the same she-pile move you saw on kahva.",
+      "book": "G",
+      "day": 2
+    },
+    {
+      "id": "grammar-ch-02-pivo",
+      "ref": "G.2c",
+      "title": "Sarajevsko bottle and glass",
+      "whereUsed": [
+        "Grammar · Chapter 2 - Subject and the thing you want",
+        "Grammar · Chapter 2 — Subject and the thing you want"
+      ],
+      "author": "Fanny Schertzer",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevsko.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Sarajevsko.jpg",
+      "localPath": "/images/grammar/ch-02-pivo.png",
+      "credit": "Fanny Schertzer / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "Pivo often stays pivo when you want the beer, the leftover stay-still habit beside the she-word move on kahva.",
+      "book": "G",
       "day": 2
     },
     {
@@ -276,8 +519,44 @@
       "day": 3
     },
     {
-      "id": "book1-day-03-civic-cbbh",
+      "id": "book1-day-03-bazaar-shoppers",
       "ref": "1.3d",
+      "title": "Baščaršija market, Sarajevo",
+      "whereUsed": [
+        "Book 1 · Lesson 3 — Numbers and coffee"
+      ],
+      "author": "Jennifer Boyer from Fredrick, Maryland, USA",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABa%C5%A1%C4%8Dar%C5%A1ija_%286086778408%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Ba%C5%A1%C4%8Dar%C5%A1ija_%286086778408%29.jpg",
+      "localPath": "/images/book1/day-03-bazaar-shoppers.png",
+      "credit": "Jennifer Boyer from Fredrick, Maryland, USA / Wikimedia Commons (CC BY 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 3
+    },
+    {
+      "id": "book1-day-03-admejdan-cafe",
+      "ref": "1.3e",
+      "title": "At Mejdan café, Sarajevo",
+      "whereUsed": [
+        "Book 1 · Lesson 3 — Numbers and coffee"
+      ],
+      "author": "CeeGee",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AAdmejdanSarajevo.JPG",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/AdmejdanSarajevo.JPG",
+      "localPath": "/images/book1/day-03-admejdan-cafe.png",
+      "credit": "CeeGee / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 3
+    },
+    {
+      "id": "book1-day-03-civic-cbbh",
+      "ref": "1.3f",
       "title": "Central Bank of Bosnia and Herzegovina",
       "whereUsed": [
         "Book 1 · Lesson 3 — Numbers and coffee"
@@ -294,19 +573,76 @@
       "day": 3
     },
     {
+      "id": "grammar-ch-03-kahva",
+      "ref": "G.3a",
+      "title": "Bosnian coffee",
+      "whereUsed": [
+        "Grammar · Chapter 3 - Of, from, none",
+        "Grammar · Chapter 3 — Of, from, none"
+      ],
+      "author": "Michał Huniewicz",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_coffee_(13926468997).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_coffee_(13926468997).jpg",
+      "localPath": "/images/book1/day-03-kahva.png",
+      "credit": "Michał Huniewicz / Wikimedia Commons (CC BY 2.0)",
+      "notes": "Nema kahve puts the of and none job on the coffee, so the ending is e, not the want-it u.",
+      "book": "G",
+      "day": 3
+    },
+    {
+      "id": "grammar-ch-03-kuca",
+      "ref": "G.3b",
+      "title": "Počitelj panorama",
+      "whereUsed": [
+        "Grammar · Chapter 3 - Of, from, none",
+        "Grammar · Chapter 3 — Of, from, none"
+      ],
+      "author": "Pudelek (Marcin Szala)",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Po%C4%8Ditelj_-_pano.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Po%C4%8Ditelj_-_pano.jpg",
+      "localPath": "/images/book1/day-07-pocitelj.png",
+      "credit": "Pudelek (Marcin Szala) / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "Kuće is the of form of the house, the same she-pile e you saw on kahve.",
+      "book": "G",
+      "day": 3
+    },
+    {
+      "id": "grammar-ch-03-sarajevo",
+      "ref": "G.3c",
+      "title": "Baščaršija, Sarajevo",
+      "whereUsed": [
+        "Grammar · Chapter 3 - Of, from, none",
+        "Grammar · Chapter 3 — Of, from, none"
+      ],
+      "author": "Kathleen Franklin",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bascarsija.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bascarsija.jpg",
+      "localPath": "/images/book1/day-01-bascarsija.png",
+      "credit": "Kathleen Franklin / Wikimedia Commons (CC BY 2.0)",
+      "notes": "Iz Sarajeva uses the from job, so leftover Sarajevo becomes Sarajeva.",
+      "book": "G",
+      "day": 3
+    },
+    {
       "id": "book1-day-04-cafe-family",
       "ref": "1.4a",
-      "title": "Open café on Ferhadija, Sarajevo",
+      "title": "Morića Han courtyard café, Sarajevo",
       "whereUsed": [
         "Book 1 · Lesson 4 — Mrvica’s family"
       ],
-      "author": "Milan Suvajac",
+      "author": "JoJan",
       "source": "Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_Ferhadija_2007-08-16.jpg",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarajevo_Ferhadija_2007-08-16.jpg",
+      "license": "CC BY 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mori%C4%87a_Han_(1).JPG",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mori%C4%87a_Han_%281%29.JPG",
       "localPath": "/images/book1/day-04-cafe-family.png",
-      "credit": "Milan Suvajac / Wikimedia Commons (CC BY-SA 4.0)",
+      "credit": "JoJan / Wikimedia Commons (CC BY 3.0)",
       "notes": "",
       "book": 1,
       "day": 4
@@ -348,8 +684,44 @@
       "day": 4
     },
     {
-      "id": "book1-day-04-civic-parliament",
+      "id": "book1-day-04-morica-han-dining",
       "ref": "1.4d",
+      "title": "Morića Han, Sarajevo",
+      "whereUsed": [
+        "Book 1 · Lesson 4 — Mrvica’s family"
+      ],
+      "author": "Jennifer Boyer from Fredrick, Maryland, USA",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMorica_Han.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Morica_Han.jpg",
+      "localPath": "/images/book1/day-04-morica-han-dining.png",
+      "credit": "Jennifer Boyer from Fredrick, Maryland, USA / Wikimedia Commons (CC BY 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 4
+    },
+    {
+      "id": "book1-day-04-bascarsija-morning",
+      "ref": "1.4e",
+      "title": "Morning café, Baščaršija",
+      "whereUsed": [
+        "Book 1 · Lesson 4 — Mrvica’s family"
+      ],
+      "author": "Jocelyn Erskine-Kellie from London, UK",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AEarly_Morning_in_Bascarsija_%2854564806901%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Early_Morning_in_Bascarsija_%2854564806901%29.jpg",
+      "localPath": "/images/book1/day-04-bascarsija-morning.png",
+      "credit": "Jocelyn Erskine-Kellie from London, UK / Wikimedia Commons (CC BY-SA 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 4
+    },
+    {
+      "id": "book1-day-04-civic-parliament",
+      "ref": "1.4f",
       "title": "Sarajevo parliament",
       "whereUsed": [
         "Book 1 · Lesson 4 — Mrvica’s family"
@@ -363,6 +735,63 @@
       "credit": "Dingoa / Wikimedia Commons (CC BY-SA 3.0)",
       "notes": "",
       "book": 1,
+      "day": 4
+    },
+    {
+      "id": "grammar-ch-04-cafe",
+      "ref": "G.4a",
+      "title": "Morića Han courtyard café, Sarajevo",
+      "whereUsed": [
+        "Grammar · Chapter 4 - To, at, about",
+        "Grammar · Chapter 4 — To, at, about"
+      ],
+      "author": "JoJan",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mori%C4%87a_Han_(1).JPG",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mori%C4%87a_Han_%281%29.JPG",
+      "localPath": "/images/book1/day-04-cafe-family.png",
+      "credit": "JoJan / Wikimedia Commons (CC BY 3.0)",
+      "notes": "Dajem Ani kahvu marks Ana with the to form Ani while coffee stays in the want-it form as the gift.",
+      "book": "G",
+      "day": 4
+    },
+    {
+      "id": "grammar-ch-04-kuca",
+      "ref": "G.4b",
+      "title": "Apartment kitchen",
+      "whereUsed": [
+        "Grammar · Chapter 4 - To, at, about",
+        "Grammar · Chapter 4 — To, at, about"
+      ],
+      "author": "Shixart1985",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AModern_kitchen_and_dining_area_in_a_bright_apartment_on_a_sunny_day_with_simple_decor_and_furniture.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Modern_kitchen_and_dining_area_in_a_bright_apartment_on_a_sunny_day_with_simple_decor_and_furniture.jpg",
+      "localPath": "/images/book1/day-26-flat-kitchen.png",
+      "credit": "Shixart1985 / Wikimedia Commons (CC BY 2.0)",
+      "notes": "Ja sam u kući uses the at form, while Idem u kuću keeps into on the want-it ending.",
+      "book": "G",
+      "day": 4
+    },
+    {
+      "id": "grammar-ch-04-sarajevo",
+      "ref": "G.4c",
+      "title": "Outdoor café, Ferhadija, Sarajevo",
+      "whereUsed": [
+        "Grammar · Chapter 4 - To, at, about",
+        "Grammar · Chapter 4 — To, at, about"
+      ],
+      "author": "Milan Suvajac",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_Ferhadija_2007-08-16.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Sarajevo_Ferhadija_2007-08-16.jpg",
+      "localPath": "/images/book1/day-01-ferhadija-cafe.png",
+      "credit": "Milan Suvajac / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "U Sarajevu is the at form Book 1 already used for being in the city.",
+      "book": "G",
       "day": 4
     },
     {
@@ -420,8 +849,44 @@
       "day": 5
     },
     {
-      "id": "book1-day-05-civic-mostar-gov",
+      "id": "book1-day-05-stari-most-divers",
       "ref": "1.5d",
+      "title": "Stari Most, Mostar",
+      "whereUsed": [
+        "Book 1 · Lesson 5 — Where is Mostar?"
+      ],
+      "author": "Adam Jones Adam63",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMostar_-_Bosnia_-_Divers.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Mostar_-_Bosnia_-_Divers.jpg",
+      "localPath": "/images/book1/day-05-stari-most-divers.png",
+      "credit": "Adam Jones Adam63 / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "",
+      "book": 1,
+      "day": 5
+    },
+    {
+      "id": "book1-day-05-mostar-stroll",
+      "ref": "1.5e",
+      "title": "Mostar old town",
+      "whereUsed": [
+        "Book 1 · Lesson 5 — Where is Mostar?"
+      ],
+      "author": "Richard Mortel from Riyadh, Saudi Arabia",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AOld_town%2C_Mostar_%2815%29_%2829225114223%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Old_town%2C_Mostar_%2815%29_%2829225114223%29.jpg",
+      "localPath": "/images/book1/day-05-mostar-stroll.png",
+      "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 5
+    },
+    {
+      "id": "book1-day-05-civic-mostar-gov",
+      "ref": "1.5f",
       "title": "Mostar Old Town panorama",
       "whereUsed": [
         "Book 1 · Lesson 5 — Where is Mostar?"
@@ -435,6 +900,63 @@
       "credit": "Ramirez / Wikimedia Commons (CC BY-SA 4.0)",
       "notes": "",
       "book": 1,
+      "day": 5
+    },
+    {
+      "id": "grammar-ch-05-kahva",
+      "ref": "G.5a",
+      "title": "Bosnian coffee set, Baščaršija",
+      "whereUsed": [
+        "Grammar · Chapter 5 - With, calling, the map",
+        "Grammar · Chapter 5 — With, calling, the map"
+      ],
+      "author": "İhsan Işık",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "localPath": "/images/book1/day-03-coffee-set.png",
+      "credit": "İhsan Işık / Wikimedia Commons (CC BY 3.0)",
+      "notes": "S kahvom puts the with job on coffee, so the ending is om, not the want-it u.",
+      "book": "G",
+      "day": 5
+    },
+    {
+      "id": "grammar-ch-05-toast",
+      "ref": "G.5b",
+      "title": "Friends toasting",
+      "whereUsed": [
+        "Grammar · Chapter 5 - With, calling, the map",
+        "Grammar · Chapter 5 — With, calling, the map"
+      ],
+      "author": "Rennett Stowe from USA",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWedding_Glasses_%284005789482%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Wedding_Glasses_%284005789482%29.jpg",
+      "localPath": "/images/book1/day-30-friends-toast.png",
+      "credit": "Rennett Stowe from USA / Wikimedia Commons (CC BY 2.0)",
+      "notes": "Friends raise glasses with company, the same with job you hear in s Emirom and s Anom.",
+      "book": "G",
+      "day": 5
+    },
+    {
+      "id": "grammar-ch-05-mapa",
+      "ref": "G.5c",
+      "title": "Map of Bosnia and Herzegovina",
+      "whereUsed": [
+        "Grammar · Chapter 5 - With, calling, the map",
+        "Grammar · Chapter 5 — With, calling, the map"
+      ],
+      "author": "NordNordWest",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnia_and_Herzegovina_location_map.svg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnia_and_Herzegovina_location_map.svg",
+      "localPath": "/images/book1/day-05-bih-map.png",
+      "credit": "NordNordWest / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "The preposition map only points. Each little word sends you back to a job you already own.",
+      "book": "G",
       "day": 5
     },
     {
@@ -492,8 +1014,44 @@
       "day": 6
     },
     {
-      "id": "book1-day-06-civic-peljesac",
+      "id": "book1-day-06-neum-beach",
       "ref": "1.6d",
+      "title": "Neum beach",
+      "whereUsed": [
+        "Book 1 · Lesson 6 — What time is it?"
+      ],
+      "author": "Bdx",
+      "source": "Wikimedia Commons",
+      "license": "CC0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFeral_Beach_on_the_souther_side_of_Neum_peninsula%2C_2024.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Feral_Beach_on_the_souther_side_of_Neum_peninsula%2C_2024.jpg",
+      "localPath": "/images/book1/day-06-neum-beach.png",
+      "credit": "Bdx / Wikimedia Commons (CC0)",
+      "notes": "",
+      "book": 1,
+      "day": 6
+    },
+    {
+      "id": "book1-day-06-travnik-streets",
+      "ref": "1.6e",
+      "title": "Travnik old town",
+      "whereUsed": [
+        "Book 1 · Lesson 6 — What time is it?"
+      ],
+      "author": "Julian Nyča",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATravnik_Altstadt_2.JPG",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Travnik_%E2%80%93_Lon%C4%8Darica_d%C5%BEamija.jpg",
+      "localPath": "/images/book1/day-06-travnik-streets.png",
+      "credit": "Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "",
+      "book": 1,
+      "day": 6
+    },
+    {
+      "id": "book1-day-06-civic-peljesac",
+      "ref": "1.6f",
       "title": "Pelješac Bridge",
       "whereUsed": [
         "Book 1 · Lesson 6 — What time is it?"
@@ -507,6 +1065,63 @@
       "credit": "kallerna / Wikimedia Commons (CC BY-SA 4.0)",
       "notes": "",
       "book": 1,
+      "day": 6
+    },
+    {
+      "id": "grammar-ch-06-kahva",
+      "ref": "G.6a",
+      "title": "Bosnian coffee set, Baščaršija",
+      "whereUsed": [
+        "Grammar · Chapter 6 - Adjectives and possessives",
+        "Grammar · Chapter 6 — Adjectives and possessives"
+      ],
+      "author": "İhsan Işık",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "localPath": "/images/book1/day-03-coffee-set.png",
+      "credit": "İhsan Işık / Wikimedia Commons (CC BY 3.0)",
+      "notes": "Moja kahva names the coffee with she-matching my, and moju kahvu wants that same drink.",
+      "book": "G",
+      "day": 6
+    },
+    {
+      "id": "grammar-ch-06-kuca",
+      "ref": "G.6b",
+      "title": "Počitelj panorama",
+      "whereUsed": [
+        "Grammar · Chapter 6 - Adjectives and possessives",
+        "Grammar · Chapter 6 — Adjectives and possessives"
+      ],
+      "author": "Pudelek (Marcin Szala)",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Po%C4%8Ditelj_-_pano.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Po%C4%8Ditelj_-_pano.jpg",
+      "localPath": "/images/book1/day-07-pocitelj.png",
+      "credit": "Pudelek (Marcin Szala) / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "Moja kuća and moju kuću take the same she-matching ride you just saw on coffee.",
+      "book": "G",
+      "day": 6
+    },
+    {
+      "id": "grammar-ch-06-most",
+      "ref": "G.6c",
+      "title": "Old Bridge, Konjic",
+      "whereUsed": [
+        "Grammar · Chapter 6 - Adjectives and possessives",
+        "Grammar · Chapter 6 — Adjectives and possessives"
+      ],
+      "author": "Julian Nyča",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKonjic_Stari_most_7.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Konjic_Stari_most_7.jpg",
+      "localPath": "/images/book1/day-15-konjic-bridge.png",
+      "credit": "Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "Moj most shows the he match, and that matching shape often stays still when you want the bridge.",
+      "book": "G",
       "day": 6
     },
     {
@@ -564,8 +1179,44 @@
       "day": 7
     },
     {
-      "id": "book1-day-07-civic-schools",
+      "id": "book1-day-07-mostar-market",
       "ref": "1.7d",
+      "title": "Old-town market street",
+      "whereUsed": [
+        "Book 1 · Lesson 7 — Review"
+      ],
+      "author": "Richard Mortel from Riyadh, Saudi Arabia",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AMarket_street_in_Mostar_old_town_%288%29_%2829226494924%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Market_street_in_Mostar_old_town_%288%29_%2829226494924%29.jpg",
+      "localPath": "/images/book1/day-07-mostar-market.png",
+      "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 7
+    },
+    {
+      "id": "book1-day-07-pocitelj-climb",
+      "ref": "1.7e",
+      "title": "Počitelj old town",
+      "whereUsed": [
+        "Book 1 · Lesson 7 — Review"
+      ],
+      "author": "trolvag",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3APo%C4%8Ditelj_-_panoramio_%281%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Hajji_Alija_Mosque%2C_Po%C4%8Ditelj_-_panoramio_%281%29.jpg",
+      "localPath": "/images/book1/day-07-pocitelj-climb.png",
+      "credit": "trolvag / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "",
+      "book": 1,
+      "day": 7
+    },
+    {
+      "id": "book1-day-07-civic-schools",
+      "ref": "1.7f",
       "title": "Gimnazija Mostar",
       "whereUsed": [
         "Book 1 · Lesson 7 — Review"
@@ -579,6 +1230,63 @@
       "credit": "Jennifer Boyer / Wikimedia Commons (CC BY 2.0)",
       "notes": "",
       "book": 1,
+      "day": 7
+    },
+    {
+      "id": "grammar-ch-07-cafe",
+      "ref": "G.7a",
+      "title": "Morića Han courtyard café, Sarajevo",
+      "whereUsed": [
+        "Grammar · Chapter 7 - Full pronouns vs short ones",
+        "Grammar · Chapter 7 — Full pronouns vs short ones"
+      ],
+      "author": "JoJan",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mori%C4%87a_Han_(1).JPG",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mori%C4%87a_Han_%281%29.JPG",
+      "localPath": "/images/book1/day-04-cafe-family.png",
+      "credit": "JoJan / Wikimedia Commons (CC BY 3.0)",
+      "notes": "Amira’s coffee at her place needs kod mene, the long form after the little word.",
+      "book": "G",
+      "day": 7
+    },
+    {
+      "id": "grammar-ch-07-kahva",
+      "ref": "G.7b",
+      "title": "Bosnian coffee",
+      "whereUsed": [
+        "Grammar · Chapter 7 - Full pronouns vs short ones",
+        "Grammar · Chapter 7 — Full pronouns vs short ones"
+      ],
+      "author": "Michał Huniewicz",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_coffee_(13926468997).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_coffee_(13926468997).jpg",
+      "localPath": "/images/book1/day-03-kahva.png",
+      "credit": "Michał Huniewicz / Wikimedia Commons (CC BY 2.0)",
+      "notes": "Za mene keeps the long form because za sits in front of me.",
+      "book": "G",
+      "day": 7
+    },
+    {
+      "id": "grammar-ch-07-toast",
+      "ref": "G.7c",
+      "title": "Friends toasting",
+      "whereUsed": [
+        "Grammar · Chapter 7 - Full pronouns vs short ones",
+        "Grammar · Chapter 7 — Full pronouns vs short ones"
+      ],
+      "author": "Rennett Stowe from USA",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWedding_Glasses_%284005789482%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Wedding_Glasses_%284005789482%29.jpg",
+      "localPath": "/images/book1/day-30-friends-toast.png",
+      "credit": "Rennett Stowe from USA / Wikimedia Commons (CC BY 2.0)",
+      "notes": "Vidi me can use the short form because the doing-word carries the lean.",
+      "book": "G",
       "day": 7
     },
     {
@@ -636,8 +1344,44 @@
       "day": 8
     },
     {
-      "id": "book1-day-08-civic-livno-valley",
+      "id": "book1-day-08-burek-stall",
       "ref": "1.8d",
+      "title": "Burek stall, Sarajevo",
+      "whereUsed": [
+        "Book 1 · Lesson 8 — I love burek"
+      ],
+      "author": "Hibasi",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABurek_in_Sarajevo.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Burek_in_Sarajevo.jpg",
+      "localPath": "/images/book1/day-08-burek-stall.png",
+      "credit": "Hibasi / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 8
+    },
+    {
+      "id": "book1-day-08-sarajevo-market",
+      "ref": "1.8e",
+      "title": "Sarajevo market",
+      "whereUsed": [
+        "Book 1 · Lesson 8 — I love burek"
+      ],
+      "author": "NH53",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFruit_market_in_Sarajevo_%283887505834%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Fruit_market_in_Sarajevo_%283887505834%29.jpg",
+      "localPath": "/images/book1/day-08-sarajevo-market.png",
+      "credit": "NH53 / Wikimedia Commons (CC BY 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 8
+    },
+    {
+      "id": "book1-day-08-civic-livno-valley",
+      "ref": "1.8f",
       "title": "Livno valley",
       "whereUsed": [
         "Book 1 · Lesson 8 — I love burek"
@@ -651,6 +1395,63 @@
       "credit": "Brian Eager from Livno, Bosnia and Herzegovina / Wikimedia Commons (CC BY 2.0)",
       "notes": "",
       "book": 1,
+      "day": 8
+    },
+    {
+      "id": "grammar-ch-08-kahva",
+      "ref": "G.8a",
+      "title": "Bosnian coffee set, Baščaršija",
+      "whereUsed": [
+        "Grammar · Chapter 8 - Present tense for real",
+        "Grammar · Chapter 8 — Present tense for real"
+      ],
+      "author": "İhsan Işık",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "localPath": "/images/book1/day-03-coffee-set.png",
+      "credit": "İhsan Işık / Wikimedia Commons (CC BY 3.0)",
+      "notes": "Želim kahvu puts the I mark on the doing-word, which is the present map behind Ana’s Book 1 line.",
+      "book": "G",
+      "day": 8
+    },
+    {
+      "id": "grammar-ch-08-kafana",
+      "ref": "G.8b",
+      "title": "Morića Han courtyard café, Sarajevo",
+      "whereUsed": [
+        "Grammar · Chapter 8 - Present tense for real",
+        "Grammar · Chapter 8 — Present tense for real"
+      ],
+      "author": "JoJan",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mori%C4%87a_Han_(1).JPG",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mori%C4%87a_Han_%281%29.JPG",
+      "localPath": "/images/book1/day-04-cafe-family.png",
+      "credit": "JoJan / Wikimedia Commons (CC BY 3.0)",
+      "notes": "Pijem, radiš, and žele are the same who-row on different people at the same table.",
+      "book": "G",
+      "day": 8
+    },
+    {
+      "id": "grammar-ch-08-setnja",
+      "ref": "G.8c",
+      "title": "Mostar old town",
+      "whereUsed": [
+        "Grammar · Chapter 8 - Present tense for real",
+        "Grammar · Chapter 8 — Present tense for real"
+      ],
+      "author": "Richard Mortel from Riyadh, Saudi Arabia",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AOld_town%2C_Mostar_%2815%29_%2829225114223%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Old_town%2C_Mostar_%2815%29_%2829225114223%29.jpg",
+      "localPath": "/images/book1/day-05-mostar-stroll.png",
+      "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0)",
+      "notes": "Idem is the present of ići, a pest that refuses a fake ićim when someone is going now.",
+      "book": "G",
       "day": 8
     },
     {
@@ -708,8 +1509,44 @@
       "day": 9
     },
     {
-      "id": "book1-day-09-civic-tuzla-museum",
+      "id": "book1-day-09-fruit-stall",
       "ref": "1.9d",
+      "title": "Market stall",
+      "whereUsed": [
+        "Book 1 · Lesson 9 — At the shop"
+      ],
+      "author": "NH53",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFruit_stall%2C_Sarajevo_%283887477230%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Fruit_stall%2C_Sarajevo_%283887477230%29.jpg",
+      "localPath": "/images/book1/day-09-fruit-stall.png",
+      "credit": "NH53 / Wikimedia Commons (CC BY 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 9
+    },
+    {
+      "id": "book1-day-09-produce-market",
+      "ref": "1.9e",
+      "title": "Produce market",
+      "whereUsed": [
+        "Book 1 · Lesson 9 — At the shop"
+      ],
+      "author": "Jennifer Boyer from Fredrick, Maryland, USA",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ACity_Produce_Market_%286042748651%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/City_Produce_Market_%286042748651%29.jpg",
+      "localPath": "/images/book1/day-09-produce-market.png",
+      "credit": "Jennifer Boyer from Fredrick, Maryland, USA / Wikimedia Commons (CC BY 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 9
+    },
+    {
+      "id": "book1-day-09-civic-tuzla-museum",
+      "ref": "1.9f",
       "title": "Museum of East Bosnia, Tuzla",
       "whereUsed": [
         "Book 1 · Lesson 9 — At the shop"
@@ -723,6 +1560,63 @@
       "credit": "Apokar / Wikimedia Commons (CC BY-SA 4.0)",
       "notes": "",
       "book": 1,
+      "day": 9
+    },
+    {
+      "id": "grammar-ch-09-burek",
+      "ref": "G.9a",
+      "title": "Burek",
+      "whereUsed": [
+        "Grammar · Chapter 9 - Eat versus eat up",
+        "Grammar · Chapter 9 — Eat versus eat up"
+      ],
+      "author": "photo Moma SM",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABurek_photo_Moma_SM.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Burek_photo_Moma_SM.jpg",
+      "localPath": "/images/book1/day-08-burek.png",
+      "credit": "photo Moma SM / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "Jedem burek is the open bite, and pojesti is eat the burek up when the tray is the finish line.",
+      "book": "G",
+      "day": 9
+    },
+    {
+      "id": "grammar-ch-09-kahva",
+      "ref": "G.9b",
+      "title": "Bosnian coffee",
+      "whereUsed": [
+        "Grammar · Chapter 9 - Eat versus eat up",
+        "Grammar · Chapter 9 — Eat versus eat up"
+      ],
+      "author": "Michał Huniewicz",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_coffee_(13926468997).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_coffee_(13926468997).jpg",
+      "localPath": "/images/book1/day-03-kahva.png",
+      "credit": "Michał Huniewicz / Wikimedia Commons (CC BY 2.0)",
+      "notes": "Pijem kahvu keeps the cup open, while popiti seals the same drink as drink up.",
+      "book": "G",
+      "day": 9
+    },
+    {
+      "id": "grammar-ch-09-most",
+      "ref": "G.9c",
+      "title": "Old Bridge, Konjic",
+      "whereUsed": [
+        "Grammar · Chapter 9 - Eat versus eat up",
+        "Grammar · Chapter 9 — Eat versus eat up"
+      ],
+      "author": "Julian Nyča",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKonjic_Stari_most_7.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Konjic_Stari_most_7.jpg",
+      "localPath": "/images/book1/day-15-konjic-bridge.png",
+      "credit": "Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "Idem na most keeps going open, and otići seals leaving as the whole trip.",
+      "book": "G",
       "day": 9
     },
     {
@@ -780,8 +1674,44 @@
       "day": 10
     },
     {
-      "id": "book1-day-10-civic-stolac-houses",
+      "id": "book1-day-10-stolac-mosque",
       "ref": "1.10d",
+      "title": "Painted Mosque, Stolac",
+      "whereUsed": [
+        "Book 1 · Lesson 10 — My room"
+      ],
+      "author": "Jocelyn Erskine-Kellie from London, UK",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Painted_Mosque%2C_Stolac_%285458592551%29.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Painted%20Mosque,%20Stolac%20(5458592551).jpg",
+      "localPath": "/images/book1/day-10-stolac-mosque.png",
+      "credit": "Jocelyn Erskine-Kellie from London, UK / Wikimedia Commons (CC BY 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 10
+    },
+    {
+      "id": "book1-day-10-stolac-walk",
+      "ref": "1.10e",
+      "title": "Stolac old town",
+      "whereUsed": [
+        "Book 1 · Lesson 10 — My room"
+      ],
+      "author": "Ma▀▄Ga",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Stari_grad_Stolac_%2802%29.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stari%20grad%20Stolac%20(02).JPG",
+      "localPath": "/images/book1/day-10-stolac-walk.png",
+      "credit": "Ma▀▄Ga / Wikimedia Commons (CC BY 3.0)",
+      "notes": "",
+      "book": 1,
+      "day": 10
+    },
+    {
+      "id": "book1-day-10-civic-stolac-houses",
+      "ref": "1.10f",
       "title": "Stari grad Stolac",
       "whereUsed": [
         "Book 1 · Lesson 10 — My room"
@@ -795,6 +1725,63 @@
       "credit": "MaGa / Wikimedia Commons (CC BY 3.0)",
       "notes": "",
       "book": 1,
+      "day": 10
+    },
+    {
+      "id": "grammar-ch-10-mostar",
+      "ref": "G.10a",
+      "title": "Mostar old town",
+      "whereUsed": [
+        "Grammar · Chapter 10 - Past",
+        "Grammar · Chapter 10 — Past"
+      ],
+      "author": "Richard Mortel from Riyadh, Saudi Arabia",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AOld_town%2C_Mostar_%2815%29_%2829225114223%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Old_town%2C_Mostar_%2815%29_%2829225114223%29.jpg",
+      "localPath": "/images/book1/day-05-mostar-stroll.png",
+      "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0)",
+      "notes": "A stroll through town is still Bio sam for Emir and Bila sam for Ana, because the past piece follows who walked.",
+      "book": "G",
+      "day": 10
+    },
+    {
+      "id": "grammar-ch-10-kahva",
+      "ref": "G.10b",
+      "title": "Bosnian coffee set, Baščaršija",
+      "whereUsed": [
+        "Grammar · Chapter 10 - Past",
+        "Grammar · Chapter 10 — Past"
+      ],
+      "author": "İhsan Işık",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "localPath": "/images/book1/day-03-coffee-set.png",
+      "credit": "İhsan Işık / Wikimedia Commons (CC BY 3.0)",
+      "notes": "Pio sam kahvu and Pila sam kahvu split on who drank, not on coffee switching piles.",
+      "book": "G",
+      "day": 10
+    },
+    {
+      "id": "grammar-ch-10-kuca",
+      "ref": "G.10c",
+      "title": "Počitelj panorama",
+      "whereUsed": [
+        "Grammar · Chapter 10 - Past",
+        "Grammar · Chapter 10 — Past"
+      ],
+      "author": "Pudelek (Marcin Szala)",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Po%C4%8Ditelj_-_pano.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Po%C4%8Ditelj_-_pano.jpg",
+      "localPath": "/images/book1/day-07-pocitelj.png",
+      "credit": "Pudelek (Marcin Szala) / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "Išla sam kući keeps -la on Ana, while the house stays the same she-word from earlier chapters.",
+      "book": "G",
       "day": 10
     },
     {
@@ -852,8 +1839,44 @@
       "day": 11
     },
     {
-      "id": "book1-day-11-civic-sarajevo-bowl",
+      "id": "book1-day-11-olympic-ski",
       "ref": "1.11d",
+      "title": "Olympic ski area, Bosnia",
+      "whereUsed": [
+        "Book 1 · Lesson 11 — How is the weather?"
+      ],
+      "author": "NH53",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Cross-country_ski_area_from_the_Sarajevo_Olympics_%283887479130%29.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cross-country%20ski%20area%20from%20the%20Sarajevo%20Olympics%20(3887479130).jpg",
+      "localPath": "/images/book1/day-11-olympic-ski.png",
+      "credit": "NH53 / Wikimedia Commons (CC BY 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 11
+    },
+    {
+      "id": "book1-day-11-trebevic-hike",
+      "ref": "1.11e",
+      "title": "Trebević hillside",
+      "whereUsed": [
+        "Book 1 · Lesson 11 — How is the weather?"
+      ],
+      "author": "lasserbua",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_%2816616142640%29.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarajevo%20(16616142640).jpg",
+      "localPath": "/images/book1/day-11-trebevic-hike.png",
+      "credit": "lasserbua / Wikimedia Commons (CC BY 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 11
+    },
+    {
+      "id": "book1-day-11-civic-sarajevo-bowl",
+      "ref": "1.11f",
       "title": "Sarajevo from above",
       "whereUsed": [
         "Book 1 · Lesson 11 — How is the weather?"
@@ -867,6 +1890,63 @@
       "credit": "Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)",
       "notes": "",
       "book": 1,
+      "day": 11
+    },
+    {
+      "id": "grammar-ch-11-setnja",
+      "ref": "G.11a",
+      "title": "Ferhadija, Sarajevo",
+      "whereUsed": [
+        "Grammar · Chapter 11 - Future, want, must, do it",
+        "Grammar · Chapter 11 — Future, want, must, do it"
+      ],
+      "author": "Mark Chorlton from Stockport, UK",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ferhadija_street_Sarajevo.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ferhadija%20street%20Sarajevo.jpg",
+      "localPath": "/images/book1/day-19-ferhadija-walk.png",
+      "credit": "Mark Chorlton from Stockport, UK / Wikimedia Commons (CC BY-SA 2.0)",
+      "notes": "Idite na most is the polite command shape, while Idi stays blunt for one friend.",
+      "book": "G",
+      "day": 11
+    },
+    {
+      "id": "grammar-ch-11-kafana",
+      "ref": "G.11b",
+      "title": "Bosanska Kahva",
+      "whereUsed": [
+        "Grammar · Chapter 11 - Future, want, must, do it",
+        "Grammar · Chapter 11 — Future, want, must, do it"
+      ],
+      "author": "Brenda Annerl",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABosanska_Kahva_%282496827374%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bosanska_Kahva_%282496827374%29.jpg",
+      "localPath": "/images/book1/day-21-cafe-plan.png",
+      "credit": "Brenda Annerl / Wikimedia Commons (CC BY 2.0)",
+      "notes": "Ja ću piti kahvu hangs the future on ću in second place plus the infinitive, not on an English will stuck in front of pijem.",
+      "book": "G",
+      "day": 11
+    },
+    {
+      "id": "grammar-ch-11-toast",
+      "ref": "G.11c",
+      "title": "Friends toasting",
+      "whereUsed": [
+        "Grammar · Chapter 11 - Future, want, must, do it",
+        "Grammar · Chapter 11 — Future, want, must, do it"
+      ],
+      "author": "Rennett Stowe from USA",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWedding_Glasses_%284005789482%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Wedding_Glasses_%284005789482%29.jpg",
+      "localPath": "/images/book1/day-30-friends-toast.png",
+      "credit": "Rennett Stowe from USA / Wikimedia Commons (CC BY 2.0)",
+      "notes": "Hoću, moram, trebam, and mogu are the short café row for want, must, need, and can.",
+      "book": "G",
       "day": 11
     },
     {
@@ -924,8 +2004,44 @@
       "day": 12
     },
     {
-      "id": "book1-day-12-civic-floods",
+      "id": "book1-day-12-vrelo-avenue",
       "ref": "1.12d",
+      "title": "Vrelo Bosne avenue",
+      "whereUsed": [
+        "Book 1 · Lesson 12 — Let's go to the park"
+      ],
+      "author": "Raphael Schön from Vienna, Austria",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_%282671671915%29.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarajevo%20(2671671915).jpg",
+      "localPath": "/images/book1/day-12-vrelo-avenue.png",
+      "credit": "Raphael Schön from Vienna, Austria / Wikimedia Commons (CC BY 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 12
+    },
+    {
+      "id": "book1-day-12-vrelo-bosne-walk",
+      "ref": "1.12e",
+      "title": "Vrelo Bosne Park",
+      "whereUsed": [
+        "Book 1 · Lesson 12 — Let's go to the park"
+      ],
+      "author": "CJ",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Vrelo_Bosne_%281%29.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vrelo%20Bosne%20(1).jpg",
+      "localPath": "/images/book1/day-12-vrelo-bosne-walk.png",
+      "credit": "CJ / Wikimedia Commons (CC BY 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 12
+    },
+    {
+      "id": "book1-day-12-civic-floods",
+      "ref": "1.12f",
       "title": "Floods in Doboj",
       "whereUsed": [
         "Book 1 · Lesson 12 — Let's go to the park"
@@ -939,6 +2055,63 @@
       "credit": "Dalibor Platenik - Dali / Wikimedia Commons (CC BY 3.0)",
       "notes": "",
       "book": 1,
+      "day": 12
+    },
+    {
+      "id": "grammar-ch-12-cafe",
+      "ref": "G.12a",
+      "title": "Morića Han courtyard café, Sarajevo",
+      "whereUsed": [
+        "Grammar · Chapter 12 - Clitics and second place",
+        "Grammar · Chapter 12 — Clitics and second place"
+      ],
+      "author": "JoJan",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mori%C4%87a_Han_(1).JPG",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mori%C4%87a_Han_%281%29.JPG",
+      "localPath": "/images/book1/day-04-cafe-family.png",
+      "credit": "JoJan / Wikimedia Commons (CC BY 3.0)",
+      "notes": "Ana says Ja se zovem Ana at the café, and se sits in second place after Ja.",
+      "book": "G",
+      "day": 12
+    },
+    {
+      "id": "grammar-ch-12-kahva",
+      "ref": "G.12b",
+      "title": "Bosnian coffee set, Baščaršija",
+      "whereUsed": [
+        "Grammar · Chapter 12 - Clitics and second place",
+        "Grammar · Chapter 12 — Clitics and second place"
+      ],
+      "author": "İhsan Işık",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "localPath": "/images/book1/day-03-coffee-set.png",
+      "credit": "İhsan Işık / Wikimedia Commons (CC BY 3.0)",
+      "notes": "Daj mi kahvu parks mi in second place after Daj, while kahvu keeps the want-it job on coffee.",
+      "book": "G",
+      "day": 12
+    },
+    {
+      "id": "grammar-ch-12-toast",
+      "ref": "G.12c",
+      "title": "Friends toasting",
+      "whereUsed": [
+        "Grammar · Chapter 12 - Clitics and second place",
+        "Grammar · Chapter 12 — Clitics and second place"
+      ],
+      "author": "Rennett Stowe from USA",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AWedding_Glasses_%284005789482%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Wedding_Glasses_%284005789482%29.jpg",
+      "localPath": "/images/book1/day-30-friends-toast.png",
+      "credit": "Rennett Stowe from USA / Wikimedia Commons (CC BY 2.0)",
+      "notes": "Pio sam pivo puts Pio first and parks the little past helper sam in second place.",
+      "book": "G",
       "day": 12
     },
     {
@@ -996,8 +2169,44 @@
       "day": 13
     },
     {
-      "id": "book1-day-13-civic-brcko-map",
+      "id": "book1-day-13-zenica-street",
       "ref": "1.13d",
+      "title": "Zenica city center",
+      "whereUsed": [
+        "Book 1 · Lesson 13 — People from Bosnia and Herzegovina"
+      ],
+      "author": "AWI",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Zenica_2006_2.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Zenica%202006%202.jpg",
+      "localPath": "/images/book1/day-13-zenica-street.png",
+      "credit": "AWI / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "",
+      "book": 1,
+      "day": 13
+    },
+    {
+      "id": "book1-day-13-zenica-market",
+      "ref": "1.13e",
+      "title": "Zenica market",
+      "whereUsed": [
+        "Book 1 · Lesson 13 — People from Bosnia and Herzegovina"
+      ],
+      "author": "Philidenfer66",
+      "source": "Wikimedia Commons",
+      "license": "Public domain",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Du_c%C3%B4t%C3%A9_du_march%C3%A9_-ZENICA_%28BiH%29.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Du%20c%C3%B4t%C3%A9%20du%20march%C3%A9%20-ZENICA%20(BiH).JPG",
+      "localPath": "/images/book1/day-13-zenica-market.png",
+      "credit": "Philidenfer66 / Wikimedia Commons (Public domain)",
+      "notes": "",
+      "book": 1,
+      "day": 13
+    },
+    {
+      "id": "book1-day-13-civic-brcko-map",
+      "ref": "1.13f",
       "title": "Brčko District",
       "whereUsed": [
         "Book 1 · Lesson 13 — People from Bosnia and Herzegovina"
@@ -1011,6 +2220,63 @@
       "credit": "TUBS / Wikimedia Commons (CC BY-SA 3.0)",
       "notes": "",
       "book": 1,
+      "day": 13
+    },
+    {
+      "id": "grammar-ch-13-kahva",
+      "ref": "G.13a",
+      "title": "Bosnian coffee set, Baščaršija",
+      "whereUsed": [
+        "Grammar · Chapter 13 - Patterns English speakers get wrong",
+        "Grammar · Chapter 13 — Patterns English speakers get wrong"
+      ],
+      "author": "İhsan Işık",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "localPath": "/images/book1/day-03-coffee-set.png",
+      "credit": "İhsan Işık / Wikimedia Commons (CC BY 3.0)",
+      "notes": "Želim kahvu still carries the she pile and the want-it job on the same coffee from Chapter 1 and Chapter 2.",
+      "book": "G",
+      "day": 13
+    },
+    {
+      "id": "grammar-ch-13-most",
+      "ref": "G.13b",
+      "title": "Old Bridge, Konjic",
+      "whereUsed": [
+        "Grammar · Chapter 13 - Patterns English speakers get wrong",
+        "Grammar · Chapter 13 — Patterns English speakers get wrong"
+      ],
+      "author": "Julian Nyča",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKonjic_Stari_most_7.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Konjic_Stari_most_7.jpg",
+      "localPath": "/images/book1/day-15-konjic-bridge.png",
+      "credit": "Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "Most stays in the he pile, and Želim most often keeps the list form in the want-it job.",
+      "book": "G",
+      "day": 13
+    },
+    {
+      "id": "grammar-ch-13-kuca",
+      "ref": "G.13c",
+      "title": "Počitelj panorama",
+      "whereUsed": [
+        "Grammar · Chapter 13 - Patterns English speakers get wrong",
+        "Grammar · Chapter 13 — Patterns English speakers get wrong"
+      ],
+      "author": "Pudelek (Marcin Szala)",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Po%C4%8Ditelj_-_pano.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Po%C4%8Ditelj_-_pano.jpg",
+      "localPath": "/images/book1/day-07-pocitelj.png",
+      "credit": "Pudelek (Marcin Szala) / Wikimedia Commons (CC BY-SA 3.0)",
+      "notes": "Kuća becomes kuću in the want-it job, the same she-pile move the review keeps asking you to name.",
+      "book": "G",
       "day": 13
     },
     {
@@ -1068,8 +2334,44 @@
       "day": 14
     },
     {
-      "id": "book1-day-14-civic-emigration",
+      "id": "book1-day-14-vrbas-rafting",
       "ref": "1.14d",
+      "title": "Vrbas River, Banja Luka",
+      "whereUsed": [
+        "Book 1 · Lesson 14 — Review"
+      ],
+      "author": "Aigars Mahinovs from Riga, Latvia",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Rafting_Vrbas_%285984391544%29.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rafting%20Vrbas%20(5984391544).jpg",
+      "localPath": "/images/book1/day-14-vrbas-rafting.png",
+      "credit": "Aigars Mahinovs from Riga, Latvia / Wikimedia Commons (CC BY 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 14
+    },
+    {
+      "id": "book1-day-14-banja-luka-street",
+      "ref": "1.14e",
+      "title": "Banja Luka city center",
+      "whereUsed": [
+        "Book 1 · Lesson 14 — Review"
+      ],
+      "author": "Sharon Hahn Darlin",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Banja_Luka_%D0%91%D0%B0%D1%9A%D0%B0_%D0%9B%D1%83%D0%BA%D0%B0%2C_Bosnia_and_Herzegovina_%D0%91%D0%BE%D1%81%D0%BD%D0%B0_%D0%B8_%D0%A5%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0_-_53033304725.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Banja%20Luka%20%D0%91%D0%B0%D1%9A%D0%B0%20%D0%9B%D1%83%D0%BA%D0%B0,%20Bosnia%20and%20Herzegovina%20%D0%91%D0%BE%D1%81%D0%BD%D0%B0%20%D0%B8%20%D0%A5%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0%20-%2053033304725.jpg",
+      "localPath": "/images/book1/day-14-banja-luka-street.png",
+      "credit": "Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 14
+    },
+    {
+      "id": "book1-day-14-civic-emigration",
+      "ref": "1.14f",
       "title": "Sarajevo International Airport",
       "whereUsed": [
         "Book 1 · Lesson 14 — Review"
@@ -1088,17 +2390,17 @@
     {
       "id": "book1-day-15-latin-bridge",
       "ref": "1.15a",
-      "title": "Latin Bridge in Sarajevo",
+      "title": "Latin Bridge, Sarajevo",
       "whereUsed": [
         "Book 1 · Lesson 15 — Right or left?"
       ],
-      "author": "Tumi-1983",
+      "author": "Đana Talić",
       "source": "Wikimedia Commons",
       "license": "CC0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ALatin_Bridge_in_Sarajevo.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Latin_Bridge_in_Sarajevo.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Latin_Bridge%2C_Sarajevo.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Latin%20Bridge,%20Sarajevo.jpg",
       "localPath": "/images/book1/day-15-latin-bridge.png",
-      "credit": "Tumi-1983 / Wikimedia Commons (CC0)",
+      "credit": "Đana Talić / Wikimedia Commons (CC0)",
       "notes": "",
       "book": 1,
       "day": 15
@@ -1124,24 +2426,24 @@
     {
       "id": "book1-day-15-konjic-bridge",
       "ref": "1.15c",
-      "title": "Old Bridge, Konjic",
+      "title": "Konjic old town",
       "whereUsed": [
         "Book 1 · Lesson 15 — Right or left?"
       ],
-      "author": "Julian Nyča",
+      "author": "Boris Maric",
       "source": "Wikimedia Commons",
-      "license": "CC BY-SA 3.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKonjic_Stari_most_7.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Konjic_Stari_most_7.jpg",
+      "license": "CC0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Konjic%2C_Bosnia_and_Herzegovina.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Konjic,%20Bosnia%20and%20Herzegovina.jpg",
       "localPath": "/images/book1/day-15-konjic-bridge.png",
-      "credit": "Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)",
+      "credit": "Boris Maric / Wikimedia Commons (CC0)",
       "notes": "",
       "book": 1,
       "day": 15
     },
     {
       "id": "book1-day-15-civic-mines",
-      "ref": "1.15d",
+      "ref": "1.15e",
       "title": "Landmine warning sign in BiH",
       "whereUsed": [
         "Book 1 · Lesson 15 — Right or left?"
@@ -1182,13 +2484,13 @@
       "whereUsed": [
         "Book 1 · Lesson 16 — On the bus"
       ],
-      "author": "Julian Nyča",
+      "author": "Akutyambuksi",
       "source": "Wikimedia Commons",
       "license": "CC BY-SA 3.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AJablani%C4%8Dko_jezero_1.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jablani%C4%8Dko_jezero_1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Jablanica_lake.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jablanica%20lake.jpg",
       "localPath": "/images/book1/day-16-jablanica-lake.png",
-      "credit": "Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)",
+      "credit": "Akutyambuksi / Wikimedia Commons (CC BY-SA 3.0)",
       "notes": "",
       "book": 1,
       "day": 16
@@ -1212,8 +2514,26 @@
       "day": 16
     },
     {
-      "id": "book1-day-16-civic-a1-corridor",
+      "id": "book1-day-16-bus-station",
       "ref": "1.16d",
+      "title": "Sarajevo bus station",
+      "whereUsed": [
+        "Book 1 · Lesson 16 — On the bus"
+      ],
+      "author": "Milan Suvajac",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_Bus-Station_2011-10-19.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarajevo%20Bus-Station%202011-10-19.jpg",
+      "localPath": "/images/book1/day-16-bus-station.png",
+      "credit": "Milan Suvajac / Wikimedia Commons (CC BY-SA 4.0)",
+      "notes": "",
+      "book": 1,
+      "day": 16
+    },
+    {
+      "id": "book1-day-16-civic-a1-corridor",
+      "ref": "1.16e",
       "title": "Highway near Banja Luka",
       "whereUsed": [
         "Book 1 · Lesson 16 — On the bus"
@@ -1284,8 +2604,44 @@
       "day": 17
     },
     {
-      "id": "book1-day-17-civic-food-economy",
+      "id": "book1-day-17-cevapi-table",
       "ref": "1.17d",
+      "title": "Restaurant table, Bosnia",
+      "whereUsed": [
+        "Book 1 · Lesson 17 — Enjoy your meal!"
+      ],
+      "author": "Christian Paul from Vancouver, Canada",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Cevapi_s_kajmakom.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cevapi%20s%20kajmakom.jpg",
+      "localPath": "/images/book1/day-17-cevapi-table.png",
+      "credit": "Christian Paul from Vancouver, Canada / Wikimedia Commons (CC BY-SA 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 17
+    },
+    {
+      "id": "book1-day-17-sarajevo-restaurant",
+      "ref": "1.17e",
+      "title": "Sarajevo restaurant",
+      "whereUsed": [
+        "Book 1 · Lesson 17 — Enjoy your meal!"
+      ],
+      "author": "Peretz Partensky from San Francisco, USA",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Restaurant_with_Cool_Decor%2C_Sarajevo%2C_Bosnia_%283802594664%29.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Restaurant%20with%20Cool%20Decor,%20Sarajevo,%20Bosnia%20(3802594664).jpg",
+      "localPath": "/images/book1/day-17-sarajevo-restaurant.png",
+      "credit": "Peretz Partensky from San Francisco, USA / Wikimedia Commons (CC BY-SA 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 17
+    },
+    {
+      "id": "book1-day-17-civic-food-economy",
+      "ref": "1.17f",
       "title": "Bosnia–Croatia border",
       "whereUsed": [
         "Book 1 · Lesson 17 — Enjoy your meal!"
@@ -1356,8 +2712,44 @@
       "day": 18
     },
     {
-      "id": "book1-day-18-civic-emigration-airport",
+      "id": "book1-day-18-una-walk",
       "ref": "1.18d",
+      "title": "Una River, northwest Bosnia",
+      "whereUsed": [
+        "Book 1 · Lesson 18 — Sports and hobbies"
+      ],
+      "author": "TKnoxB from Chemainus, BC, Canada",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Una_River_Water_Falls_-_Flickr_-_TKnoxB.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Una%20River%20Water%20Falls%20-%20Flickr%20-%20TKnoxB.jpg",
+      "localPath": "/images/book1/day-18-una-walk.png",
+      "credit": "TKnoxB from Chemainus, BC, Canada / Wikimedia Commons (CC BY 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 18
+    },
+    {
+      "id": "book1-day-18-football-fans",
+      "ref": "1.18e",
+      "title": "Football supporters",
+      "whereUsed": [
+        "Book 1 · Lesson 18 — Sports and hobbies"
+      ],
+      "author": "Jasmin Veiz",
+      "source": "Wikimedia Commons",
+      "license": "Attribution",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnia_Soccer_Fans_at_King_Baudouin_Stadium_Brussels.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnia%20Soccer%20Fans%20at%20King%20Baudouin%20Stadium%20Brussels.jpg",
+      "localPath": "/images/book1/day-18-football-fans.png",
+      "credit": "Jasmin Veiz / Wikimedia Commons (Attribution)",
+      "notes": "",
+      "book": 1,
+      "day": 18
+    },
+    {
+      "id": "book1-day-18-civic-emigration-airport",
+      "ref": "1.18f",
       "title": "University of Sarajevo",
       "whereUsed": [
         "Book 1 · Lesson 18 — Sports and hobbies"
@@ -1428,8 +2820,44 @@
       "day": 19
     },
     {
-      "id": "book1-day-19-civic-pluralism",
+      "id": "book1-day-19-sarajevo-center",
       "ref": "1.19d",
+      "title": "Sarajevo city center",
+      "whereUsed": [
+        "Book 1 · Lesson 19 — Holidays"
+      ],
+      "author": "N_Creatures",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1997_in_Sarajevo_010.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/1997%20in%20Sarajevo%20010.jpg",
+      "localPath": "/images/book1/day-19-sarajevo-center.png",
+      "credit": "N_Creatures / Wikimedia Commons (CC BY 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 19
+    },
+    {
+      "id": "book1-day-19-ferhadija-walk",
+      "ref": "1.19e",
+      "title": "Ferhadija, Sarajevo",
+      "whereUsed": [
+        "Book 1 · Lesson 19 — Holidays"
+      ],
+      "author": "Mark Chorlton from Stockport, UK",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ferhadija_street_Sarajevo.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ferhadija%20street%20Sarajevo.jpg",
+      "localPath": "/images/book1/day-19-ferhadija-walk.png",
+      "credit": "Mark Chorlton from Stockport, UK / Wikimedia Commons (CC BY-SA 2.0)",
+      "notes": "",
+      "book": 1,
+      "day": 19
+    },
+    {
+      "id": "book1-day-19-civic-pluralism",
+      "ref": "1.19f",
       "title": "King Fahd Mosque Sarajevo",
       "whereUsed": [
         "Book 1 · Lesson 19 — Holidays"
@@ -2278,114 +3706,6 @@
       "sourceUrl": "https://www.pexels.com/photo/view-of-the-stari-most-in-mostar-in-bosnia-and-herzegovina-18037876/",
       "localPath": "/images/home/mostar-bridge.png",
       "notes": "Polygon paint treatment of the source photo; background removed for the site."
-    },
-    {
-      "id": "grammar-ch-00-kahva",
-      "ref": "G.0a",
-      "title": "Bosnian coffee",
-      "whereUsed": [
-        "Grammar · Chapter 0 — Why this feels hard"
-      ],
-      "author": "Michał Huniewicz",
-      "source": "Wikimedia Commons",
-      "license": "CC BY 2.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_coffee_(13926468997).jpg",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_coffee_(13926468997).jpg",
-      "localPath": "/images/book1/day-03-kahva.png",
-      "credit": "Michał Huniewicz / Wikimedia Commons (CC BY 2.0)",
-      "notes": "Kahva is the drink English would never change, and Bosnian will.",
-      "book": "G",
-      "day": 0
-    },
-    {
-      "id": "grammar-ch-00-kuca",
-      "ref": "G.0b",
-      "title": "Počitelj panorama",
-      "whereUsed": [
-        "Grammar · Chapter 0 — Why this feels hard"
-      ],
-      "author": "Pudelek (Marcin Szala)",
-      "source": "Wikimedia Commons",
-      "license": "CC BY-SA 3.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:Po%C4%8Ditelj_-_pano.jpg",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Po%C4%8Ditelj_-_pano.jpg",
-      "localPath": "/images/book1/day-07-pocitelj.png",
-      "credit": "Pudelek (Marcin Szala) / Wikimedia Commons (CC BY-SA 3.0)",
-      "notes": "Kuća is a house, and this word has more than one outfit too.",
-      "book": "G",
-      "day": 0
-    },
-    {
-      "id": "grammar-ch-00-most",
-      "ref": "G.0c",
-      "title": "Old Bridge, Konjic",
-      "whereUsed": [
-        "Grammar · Chapter 0 — Why this feels hard"
-      ],
-      "author": "Julian Nyča",
-      "source": "Wikimedia Commons",
-      "license": "CC BY-SA 3.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKonjic_Stari_most_7.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Konjic_Stari_most_7.jpg",
-      "localPath": "/images/book1/day-15-konjic-bridge.png",
-      "credit": "Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)",
-      "notes": "Most is a bridge, and the list word is only the first outfit.",
-      "book": "G",
-      "day": 0
-    },
-    {
-      "id": "grammar-ch-01-kahva",
-      "ref": "G.1a",
-      "title": "Bosnian coffee set, Baščaršija",
-      "whereUsed": [
-        "Grammar · Chapter 1 — Why coffee is a she"
-      ],
-      "author": "İhsan Işık",
-      "source": "Wikimedia Commons",
-      "license": "CC BY 3.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
-      "localPath": "/images/book1/day-03-coffee-set.png",
-      "credit": "İhsan Işık / Wikimedia Commons (CC BY 3.0)",
-      "notes": "Kahva ends in a, so it belongs in the she pile.",
-      "book": "G",
-      "day": 1
-    },
-    {
-      "id": "grammar-ch-01-most",
-      "ref": "G.1b",
-      "title": "Old Bridge, Konjic",
-      "whereUsed": [
-        "Grammar · Chapter 1 — Why coffee is a she"
-      ],
-      "author": "Julian Nyča",
-      "source": "Wikimedia Commons",
-      "license": "CC BY-SA 3.0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKonjic_Stari_most_7.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Konjic_Stari_most_7.jpg",
-      "localPath": "/images/book1/day-15-konjic-bridge.png",
-      "credit": "Julian Nyča / Wikimedia Commons (CC BY-SA 3.0)",
-      "notes": "Most ends in t, so it belongs in the he pile.",
-      "book": "G",
-      "day": 1
-    },
-    {
-      "id": "grammar-ch-01-more",
-      "ref": "G.1c",
-      "title": "Zenit Beach, Neum",
-      "whereUsed": [
-        "Grammar · Chapter 1 — Why coffee is a she"
-      ],
-      "author": "Bdx",
-      "source": "Wikimedia Commons",
-      "license": "CC0",
-      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AZenit_Beach_in_Neum%2C_2024_1.jpg",
-      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Zenit_Beach_in_Neum%2C_2024_1.jpg",
-      "localPath": "/images/book1/day-16-neum-coast.png",
-      "credit": "Bdx / Wikimedia Commons (CC0)",
-      "notes": "More ends in e, so it belongs in the leftover pile with pivo.",
-      "book": "G",
-      "day": 1
     }
   ]
 }

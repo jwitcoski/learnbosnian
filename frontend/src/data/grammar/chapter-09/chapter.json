@@ -1,0 +1,455 @@
+{
+  "chapter": 9,
+  "kind": "grammar",
+  "title": "Vid",
+  "titleEn": "Eat versus eat up",
+  "theme": "English eat splits into two Bosnian verbs, one open along the way and one sealed when the plate is done.",
+  "status": "draft",
+  "reviewedAt": "2026-09-09T15:05:00Z",
+  "reviewerNotes": "Mold polish re-applied after concurrent Bosnian-editor overwrite. English-first titleEn/theme; thesis-support-close on whyHere/englishLies/pattern; past bleed removed from knownLine and trick table; look glosses full sentences; try distractors cleaned; afterNerd bridge image for ići/otići. Bosnian retained: jesti/pojesti, piti/popiti, raditi/uraditi, ići/otići; Popij/Pojedi/Otiđi; Nemoj + open and morati + sealed look lines; Popijem sealed-present pest note; hljeb ijekavian. Still draft pending human publish decision. Residual native spot-check after Fact Checker mold repairs (2026-09-09T14:53:05Z): re-checked cases, conjugations, glosses, Latin/diacritics, and quiz/try keys; focus on Ch9 Popijem present-as-future, Ch5 vocatives, Ch13 shelf balance, and Ch11 trebati (recommend only, no silent rewrite). Soft-gap pass 2026-09-09T14:57:28Z: replaced meta t10 with morati+sealed (Moraš pojesti hljeb). Trebati n/a. Final native try/quiz sweep: removed cat-plot/joke weak distractors; replaced select meta slots with named undrilled drills (Ano, za njega, Hoću, Pijte, Doći ću, tata, Nema auta, moja prijateljica); Ch11 trebati personal+acc left untouched; status draft.",
+  "estimatedMinutes": 45,
+  "whyHere": {
+    "heading": "Why you are here",
+    "body": "Today you learn why Bosnian often needs two doing-words for one English verb. English says eat for the ongoing plate and for the empty plate, but Bosnian splits that work. Jesti is eat along the way, and pojesti is eat up when the whole thing is done. You already have the present who-map from Chapter 8, and this chapter is only the finish-line. Schools call the split vid, which means aspect, and you can keep saying open versus done and still be right."
+  },
+  "englishLies": {
+    "heading": "Why English lies",
+    "body": "English lies because one verb covers both habits. I eat bread can mean a habit, a bite in progress, or a finished meal, and English leans on extra words like up or finished when it cares. Bosnian builds the finish into a second verb, so piti is drink along the way and popiti is drink up. Raditi is work or do along the way, and uraditi is get it done. The pair is not past tense. It is whether the action is open or sealed."
+  },
+  "knownLine": {
+    "heading": "A line you already say",
+    "body": "Book 1 already gave you Ana’s line Želim kahvu, which means I want coffee. Wanting sits outside today’s twin pick. When Amira is mid-cup she says Pijem kahvu, which means I am drinking coffee. That is the open twin of piti. The sealed twin is popiti, the drink-it-up verb Emir uses when he says Popij kahvu. Today you only need the shock that piti and popiti are a pair. Past endings wait for Chapter 10.",
+    "speaker": "Amira",
+    "bosnian": "Pijem kahvu.",
+    "english": "I am drinking coffee."
+  },
+  "pattern": {
+    "heading": "The pattern",
+    "body": "Think of an open film versus a sealed photo. The open verb covers habits and action in progress, and the sealed verb covers the whole event with a finish line. Coffee uses piti while the cup is open and popiti when the drink is meant to be finished, and bread uses jesti and pojesti the same way. Work uses raditi along the way and uraditi when the job should be done, and going uses ići on the road and otići when leaving is the whole trip. Prefixes like po-, u-, and o- often mark the sealed twin, but you learn pairs, not a fake math rule. Keep the Chapter 8 who-endings on whichever twin you pick, because the finish-line is a different system from who.",
+    "table": {
+      "headers": [
+        "English",
+        "Open",
+        "Sealed"
+      ],
+      "rows": [
+        [
+          "eat / eat up",
+          "jesti",
+          "pojesti"
+        ],
+        [
+          "drink / drink up",
+          "piti",
+          "popiti"
+        ],
+        [
+          "do / get done",
+          "raditi",
+          "uraditi"
+        ],
+        [
+          "go / leave",
+          "ići",
+          "otići"
+        ]
+      ]
+    }
+  },
+  "howYouGuess": {
+    "heading": "The pests",
+    "body": "Two pests will trip English ears today. The first pest is translating every English present with a sealed verb because it feels more complete. Pijem kahvu is normal for a cup in progress. Popijem kahvu picks the sealed twin and usually looks ahead to a finished cup, not a sip in progress. Popij kahvu is the finish command on that same sealed twin. The second pest is hunting a sealed twin for every word on day one. Some verbs live mostly open, and some pairs you just memorize with coffee and bread. Do not invent fake prefixes. Learn the town pairs first."
+  },
+  "trick": {
+    "heading": "The bit that tricks you",
+    "body": "The trap is to call the sealed verb past tense. Pojesti is still a doing-word about finishing, not a time machine by itself. Past tense hangs sam and gender endings on top, and that is tomorrow. The other trap is to force English up onto every Bosnian line. Sometimes Bosnian picks the open verb for a habit even when English would say finished. Listen for open versus done, not for a magic English particle.",
+    "table": {
+      "headers": [
+        "Scene",
+        "Better twin",
+        "Why"
+      ],
+      "rows": [
+        [
+          "Mid-cup at the café",
+          "Pijem kahvu.",
+          "open, in progress"
+        ],
+        [
+          "Finish that coffee",
+          "Popij kahvu.",
+          "sealed command"
+        ],
+        [
+          "Habit. I eat bread.",
+          "Jedem hljeb.",
+          "open habit"
+        ],
+        [
+          "Eat the burek up",
+          "Pojedi burek.",
+          "sealed command"
+        ]
+      ]
+    }
+  },
+  "nerd": {
+    "heading": "Why it's like this",
+    "body": "Old English is the English of England about a thousand years ago, not a class you missed. It cared a lot about time on the verb, and later English kept that habit with will, did, and have. English never built a clean open-versus-done twin system the way Bosnian did. Particles like up and out are a different patch. Eat up is a clue, not a full system.\n\nBosnian kept the twin system. Schools call it vid, which means aspect. Slavic languages treat the finish-line as basic furniture, the way English treats tense. That is why one English eat becomes jesti and pojesti. Today's coffee and burek are the same objects from Book 1. The new work is picking the twin."
+  },
+  "vocabulary": [
+    {
+      "bosnian": "jesti",
+      "english": "to eat (open)",
+      "pronunciation": "YEH-stee",
+      "partOfSpeech": "verb",
+      "example": "Jedem hljeb."
+    },
+    {
+      "bosnian": "pojesti",
+      "english": "to eat up (sealed)",
+      "pronunciation": "po-YEH-stee",
+      "partOfSpeech": "verb",
+      "example": "Pojedi burek."
+    },
+    {
+      "bosnian": "piti",
+      "english": "to drink (open)",
+      "pronunciation": "PEE-tee",
+      "partOfSpeech": "verb",
+      "example": "Pijem kahvu."
+    },
+    {
+      "bosnian": "popiti",
+      "english": "to drink up (sealed)",
+      "pronunciation": "po-PEE-tee",
+      "partOfSpeech": "verb",
+      "example": "Popij kahvu."
+    },
+    {
+      "bosnian": "raditi",
+      "english": "to do / to work (open)",
+      "pronunciation": "RAH-dee-tee",
+      "partOfSpeech": "verb",
+      "example": "Radim danas."
+    },
+    {
+      "bosnian": "uraditi",
+      "english": "to get done (sealed)",
+      "pronunciation": "u-RAH-dee-tee",
+      "partOfSpeech": "verb",
+      "example": "Uradi to."
+    }
+  ],
+  "speakTargets": [
+    0,
+    1,
+    2
+  ],
+  "look": {
+    "heading": "Look at these",
+    "items": [
+      {
+        "speaker": "Amira",
+        "bosnian": "Pijem kahvu.",
+        "english": "I am drinking coffee, and that is the open twin while the cup is still in progress."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Popij kahvu.",
+        "english": "Drink the coffee up, and that is the sealed twin with a finish line."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Jedem hljeb.",
+        "english": "I eat bread, and the open twin covers a habit or a bite in progress."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Pojedi burek.",
+        "english": "Eat the burek up, and that is the sealed twin on food."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Radim danas.",
+        "english": "I work today, and the open twin keeps the work going along the way."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Uradi to.",
+        "english": "Get that done, and uraditi is the sealed twin of raditi."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Idem na most.",
+        "english": "I am going to the bridge, and ići is open going while you are still on the way."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Otiđi kući.",
+        "english": "Leave for home, and otići seals leaving as the whole trip."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Volim kahvu.",
+        "english": "I like coffee, and feeling verbs often stay on the open side."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Pijemo pivo.",
+        "english": "We are drinking beer, and the open twin fits shared cup time."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Nemoj jesti sve.",
+        "english": "Do not eat it all, and the warning keeps the open verb inside nemoj."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Moraš pojesti hljeb.",
+        "english": "You must eat the bread up, and morati often takes the sealed twin when a finish is required."
+      }
+    ]
+  },
+  "try": {
+    "heading": "Try these",
+    "items": [
+      {
+        "id": "t1",
+        "prompt": "Mid-cup. I am drinking coffee.",
+        "options": [
+          "Pijem kahvu.",
+          "Popijem kahvu.",
+          "Piti sam kahvu."
+        ],
+        "correctIndex": 0,
+        "explanation": "Open twin for action in progress."
+      },
+      {
+        "id": "t2",
+        "prompt": "Tell Emir to drink the coffee up.",
+        "options": [
+          "Pij kahvu.",
+          "Popij kahvu.",
+          "Jedem kahvu."
+        ],
+        "correctIndex": 1,
+        "explanation": "Sealed twin for the finish."
+      },
+      {
+        "id": "t3",
+        "prompt": "Habit. I eat bread.",
+        "options": [
+          "Jedem hljeb.",
+          "Pojedem hljeb.",
+          "Uradi hljeb."
+        ],
+        "correctIndex": 0,
+        "explanation": "Open twin for habit."
+      },
+      {
+        "id": "t4",
+        "prompt": "Tell Ana to eat the burek up.",
+        "options": [
+          "Jedi burek.",
+          "Pojedi burek.",
+          "Jedem burek."
+        ],
+        "correctIndex": 1,
+        "explanation": "Pojesti is the sealed twin."
+      },
+      {
+        "id": "t5",
+        "prompt": "Get that done.",
+        "options": [
+          "Radi to.",
+          "Uradi to.",
+          "Idi to."
+        ],
+        "correctIndex": 1,
+        "explanation": "Uraditi seals raditi."
+      },
+      {
+        "id": "t6",
+        "prompt": "Is pojesti already past tense?",
+        "options": [
+          "Yes. Sealed means past.",
+          "No. Sealed means finished as a kind of action.",
+          "Yes. Only with coffee."
+        ],
+        "correctIndex": 1,
+        "explanation": "Past is Chapter 10. Aspect is finish-line."
+      },
+      {
+        "id": "t7",
+        "prompt": "I am going to the bridge, still on the way.",
+        "options": [
+          "Idem na most.",
+          "Otiđi na most.",
+          "Popij na most."
+        ],
+        "correctIndex": 0,
+        "explanation": "Open ići for going in progress."
+      },
+      {
+        "id": "t8",
+        "prompt": "Which pair matches drink / drink up?",
+        "options": [
+          "jesti / pojesti",
+          "piti / popiti",
+          "ići / raditi"
+        ],
+        "correctIndex": 1,
+        "explanation": "Piti open. Popiti sealed."
+      },
+      {
+        "id": "t9",
+        "prompt": "Someone always picks the sealed twin for every present sentence. What went wrong?",
+        "options": [
+          "Nothing. Sealed is safer.",
+          "They forgot open verbs cover habits and progress.",
+          "They needed a leftover noun ending."
+        ],
+        "correctIndex": 1,
+        "explanation": "Open verbs are normal for mid-action and habits."
+      },
+      {
+        "id": "t10",
+        "prompt": "You must eat the bread up. Which line?",
+        "options": [
+          "Moraš jesti hljeb.",
+          "Moraš pojesti hljeb.",
+          "Nemoj pojesti hljeb."
+        ],
+        "correctIndex": 1,
+        "explanation": "Morati often takes the sealed twin for a finish-it obligation. Moraš pojesti is on the Look shelf."
+      }
+    ]
+  },
+  "quiz": {
+    "title": "Quick check",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What is today’s system?",
+        "options": [
+          "Open versus sealed verb twins",
+          "Name-it versus want-it on nouns",
+          "Clitics in second place",
+          "Future with ću only"
+        ],
+        "correctIndex": 0,
+        "explanation": "Vid means aspect. Two verbs for one English verb."
+      },
+      {
+        "id": "q2",
+        "question": "Pijem kahvu is which twin?",
+        "options": [
+          "Sealed",
+          "Open",
+          "Past",
+          "A noun job"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mid-cup uses the open twin piti."
+      },
+      {
+        "id": "q3",
+        "question": "Popij kahvu tells someone to do what?",
+        "options": [
+          "Start liking coffee",
+          "File coffee as leftover",
+          "Drink the coffee up",
+          "Switch to past tense"
+        ],
+        "correctIndex": 2,
+        "explanation": "Popiti is the sealed twin."
+      },
+      {
+        "id": "q4",
+        "question": "Why is pojesti not already the past?",
+        "options": [
+          "Because Bosnian has no past",
+          "Because burek is she",
+          "Because prefixes erase tense",
+          "Because sealed means finished as a kind of action, not time alone"
+        ],
+        "correctIndex": 3,
+        "explanation": "Chapter 10 adds sam and gender. Aspect is the finish-line."
+      },
+      {
+        "id": "q5",
+        "question": "Raditi pairs with which sealed twin?",
+        "options": [
+          "uraditi",
+          "otići",
+          "popiti",
+          "željeti"
+        ],
+        "correctIndex": 0,
+        "explanation": "Uraditi means get it done."
+      },
+      {
+        "id": "q6",
+        "question": "What comes next?",
+        "options": [
+          "A seven-job noun chart",
+          "Only polite commands",
+          "Past tense with sam and -o / -la / -lo",
+          "Adjective matching only"
+        ],
+        "correctIndex": 2,
+        "explanation": "Chapter 10 is prošlost. Gender shows up on the past form."
+      }
+    ]
+  },
+  "next": {
+    "body": "You now know why jesti and pojesti both translate eat, and why the sealed twin is not automatically past. Chapter 10 hangs sam and the gender endings -o, -la, and -lo on those same verbs. Emir was there and Ana was there will finally split on the doing-word.",
+    "chapter": 10
+  },
+  "imageSlots": {
+    "hero": "burek",
+    "afterPattern": "kahva",
+    "afterNerd": "most"
+  },
+  "images": [
+    {
+      "id": "burek",
+      "alt": "Polygon painting of a tray of golden burek pastry",
+      "localPath": "/images/book1/day-08-burek.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Burek_photo_Moma_SM.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ABurek_photo_Moma_SM.jpg",
+      "author": "photo Moma SM",
+      "license": "CC BY-SA 4.0",
+      "credit": "Burek",
+      "grammarCaption": "Jedem burek is the open bite, and pojesti is eat the burek up when the tray is the finish line."
+    },
+    {
+      "id": "kahva",
+      "alt": "Polygon painting of Bosnian coffee with džezva and fildžan on a copper tray",
+      "localPath": "/images/book1/day-03-kahva.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_coffee_(13926468997).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_coffee_(13926468997).jpg",
+      "author": "Michał Huniewicz",
+      "license": "CC BY 2.0",
+      "credit": "Bosnian coffee",
+      "grammarCaption": "Pijem kahvu keeps the cup open, while popiti seals the same drink as drink up."
+    },
+    {
+      "id": "most",
+      "alt": "Polygon painting of the old stone bridge crossing the Neretva in Konjic",
+      "localPath": "/images/book1/day-15-konjic-bridge.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Konjic_Stari_most_7.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AKonjic_Stari_most_7.jpg",
+      "author": "Julian Nyča",
+      "license": "CC BY-SA 3.0",
+      "credit": "Old Bridge, Konjic",
+      "grammarCaption": "Idem na most keeps going open, and otići seals leaving as the whole trip."
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [
+    "G.9a to G.9c refs are not in attributions yet. Reused Book 1 burek, coffee, and bridge with original credits. A before-and-after empty-cup panel would sharpen drink versus drink up later."
+  ]
+}

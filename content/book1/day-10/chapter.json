@@ -260,7 +260,8 @@
         "bosnian": "Mrvica voli tvoj jastuk.",
         "english": "Mrvica loves your pillow."
       }
-    ]
+    ],
+    "imageId": "stolac-walk"
   },
   "puzzles": [
     {
@@ -373,7 +374,8 @@
     },
     {
       "title": "Stećci near Stolac",
-      "body": "Radimlja near Stolac is one of Herzegovina’s clearest outdoor history classrooms. Medieval stećci tombstones stand in open light among stone-house country. Emir uses the place as a postcard that widens Ana’s idea of home beyond one rented room. When you learn soba and kuća today, Stolac reminds you that home also has deep local roots."
+      "body": "Radimlja near Stolac is one of Herzegovina’s clearest outdoor history classrooms. Medieval stećci tombstones stand in open light among stone-house country. Emir uses the place as a postcard that widens Ana’s idea of home beyond one rented room. When you learn soba and kuća today, Stolac reminds you that home also has deep local roots.",
+      "imageId": "stolac-mosque"
     },
     {
       "title": "Stan vs kuća",
@@ -699,6 +701,26 @@
       "author": "MaGa",
       "license": "CC BY 3.0",
       "credit": "Stari grad Stolac"
+    },
+    {
+      "id": "stolac-walk",
+      "alt": "People stroll through stone lanes in Stolac",
+      "localPath": "/images/book1/day-10-stolac-walk.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stari%20grad%20Stolac%20(02).JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Stari_grad_Stolac_%2802%29.JPG",
+      "author": "Ma▀▄Ga",
+      "license": "CC BY 3.0",
+      "credit": "Stolac old town"
+    },
+    {
+      "id": "stolac-mosque",
+      "alt": "Visitors pause near the Painted Mosque in Stolac",
+      "localPath": "/images/book1/day-10-stolac-mosque.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Painted%20Mosque,%20Stolac%20(5458592551).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Painted_Mosque%2C_Stolac_%285458592551%29.jpg",
+      "author": "Jocelyn Erskine-Kellie from London, UK",
+      "license": "CC BY 2.0",
+      "credit": "Painted Mosque, Stolac"
     }
   ],
   "imagesNeeded": false,

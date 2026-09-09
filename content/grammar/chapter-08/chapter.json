@@ -1,0 +1,472 @@
+{
+  "chapter": 8,
+  "kind": "grammar",
+  "title": "Prezent",
+  "titleEn": "Present tense for real",
+  "theme": "Želim, želiš, and želi show that who hangs on the end of the doing-word.",
+  "status": "draft",
+  "reviewedAt": "2026-09-09T15:05:00Z",
+  "reviewerNotes": "Fresh pedagogy polish after Fact Checker. Theme and englishLies slogan/grammar fixes; look gloss fragments expanded; pattern close softened. Bosnian present forms retained (želim/želiš/želi…, radim…rade, idem…idu, sam…su, pijem/piju, imam). Status draft; reviewedAt null. Pending human publish decision. Soft-gap 0-8 pass 2026-09-09T14:59:41Z: t10 → oni/žele (table undrilled as target). Final native try/quiz sweep: removed cat-plot/joke weak distractors; replaced select meta slots with named undrilled drills (Ano, za njega, Hoću, Pijte, Doći ću, tata, Nema auta, moja prijateljica); Ch11 trebati personal+acc left untouched; status draft.",
+  "estimatedMinutes": 45,
+  "whyHere": {
+    "heading": "Why you are here",
+    "body": "Today you learn the full now-map for doing-words you already say in pieces. Book 1 gave you želim, volim, and imam as ready chunks. Those endings are the same family on almost every everyday verb. English hangs I, you, and they in front and leaves the verb mostly still. Bosnian hangs the who on the end of the doing-word. This chapter is only the present map. Aspect and past wait for later."
+  },
+  "englishLies": {
+    "heading": "Why English lies",
+    "body": "English lies because the lines I want, you want, and they want keep the word want almost untouched. A tiny s on wants is the whole show for he and she. Bosnian changes the end for nearly every who, so želim is I want, želiš is you want, and želi is he or she wants. The little words ja and ti are optional once the ending is clear. Schools call this prezent, which means the present. You can keep saying the now-map and still be right."
+  },
+  "knownLine": {
+    "heading": "A line you already say",
+    "body": "Book 1 already gave you Ana’s line Želim kahvu, which means I want coffee. That m on želim is the I mark. Emir can say Želiš kahvu when he means you want coffee, and Amira can say Želi kahvu when she means he or she wants coffee. Same verb stem. Different who. Today you stop treating želim as a frozen tourist phrase and start seeing the whole row.",
+    "speaker": "Ana",
+    "bosnian": "Želim kahvu.",
+    "english": "I want coffee."
+  },
+  "pattern": {
+    "heading": "The pattern",
+    "body": "Most everyday verbs take a short who-ending in the present. Ja takes m, so želim and radim. Ti takes š, so želiš and radiš. On, ona, and ono often take a bare ending, so želi and radi. Mi takes mo, and vi takes te. They often take e, as in žele and rade, and some families take ju instead, as in piju from piti. Željeti and raditi are honest samples from the same town words you already know. You can keep ja and ti off the page when the ending already says who, and you learn the row first before watching for a few pests that refuse the cheat sheet.",
+    "table": {
+      "headers": [
+        "Who",
+        "Ending",
+        "željeti",
+        "raditi"
+      ],
+      "rows": [
+        [
+          "ja (I)",
+          "-m",
+          "želim",
+          "radim"
+        ],
+        [
+          "ti (you)",
+          "-š",
+          "želiš",
+          "radiš"
+        ],
+        [
+          "on / ona (he / she)",
+          "(bare)",
+          "želi",
+          "radi"
+        ],
+        [
+          "mi (we)",
+          "-mo",
+          "želimo",
+          "radimo"
+        ],
+        [
+          "vi (you all / polite)",
+          "-te",
+          "želite",
+          "radite"
+        ],
+        [
+          "oni (they)",
+          "-e",
+          "žele",
+          "rade"
+        ]
+      ]
+    }
+  },
+  "howYouGuess": {
+    "heading": "The pests",
+    "body": "Two everyday verbs refuse the neat row, and you should memorize them early because Book 1 already uses both habits. Ići means to go, but the present is idem, ideš, ide, idemo, idete, idu, not a fake ićim. Biti means to be, and the short present is sam, si, je, smo, ste, su. Saying ja biti or ja ićim invents a tourist form. Do not argue with idem and sam. Just file them beside the regular map."
+  },
+  "trick": {
+    "heading": "The bit that tricks you",
+    "body": "The trap is to keep saying ja želim as if ja does the real work. The m already marks I. Bosnian often drops ja, ti, and even on when the ending is clear. The other trap is to treat every Book 1 chunk as a frozen postcard. Volim, imam, and govorim are the same who-map as želim. If you invent English-style I want without the Bosnian ending, you erase the whole system this chapter teaches.",
+    "table": {
+      "headers": [
+        "English habit",
+        "Bosnian fix",
+        "Why"
+      ],
+      "rows": [
+        [
+          "I want coffee.",
+          "Želim kahvu.",
+          "m marks I"
+        ],
+        [
+          "You want coffee.",
+          "Želiš kahvu.",
+          "š marks you"
+        ],
+        [
+          "I go.",
+          "Idem.",
+          "ići pest, not ićim"
+        ],
+        [
+          "I am here.",
+          "Ovdje sam.",
+          "biti pest, short sam"
+        ]
+      ]
+    }
+  },
+  "nerd": {
+    "heading": "Why it's like this",
+    "body": "Old English is the English of England about a thousand years ago, not a class you missed. Farmers and priests around Winchester hung who-marks on doing-words the way Bosnian still does. Singan could change for I, you, and they. Later English wore most of that off. You kept a scrap in am, is, and are, and a tiny s on wants. You speak the later version.\n\nBosnian never fired the who-marks on željeti. The present endings are leftover person marks from the same old habit. Schools call the tidy chart prezent. Today you only need the living row on coffee, work, and going. Tomorrow is whether the action is finished, which is a different system on the same verbs."
+  },
+  "vocabulary": [
+    {
+      "bosnian": "željeti",
+      "english": "to want",
+      "pronunciation": "ZHEH-lyeh-tee",
+      "partOfSpeech": "verb",
+      "example": "Želim kahvu."
+    },
+    {
+      "bosnian": "raditi",
+      "english": "to work / to do",
+      "pronunciation": "RAH-dee-tee",
+      "partOfSpeech": "verb",
+      "example": "Radim danas."
+    },
+    {
+      "bosnian": "ići",
+      "english": "to go",
+      "pronunciation": "EE-chee",
+      "partOfSpeech": "verb",
+      "example": "Idem kući."
+    },
+    {
+      "bosnian": "biti",
+      "english": "to be",
+      "pronunciation": "BEE-tee",
+      "partOfSpeech": "verb",
+      "example": "Ovdje sam."
+    },
+    {
+      "bosnian": "piti",
+      "english": "to drink",
+      "pronunciation": "PEE-tee",
+      "partOfSpeech": "verb",
+      "example": "Pijem kahvu."
+    },
+    {
+      "bosnian": "imati",
+      "english": "to have",
+      "pronunciation": "EE-mah-tee",
+      "partOfSpeech": "verb",
+      "example": "Imam pivo."
+    }
+  ],
+  "speakTargets": [
+    0,
+    1,
+    2
+  ],
+  "look": {
+    "heading": "Look at these",
+    "items": [
+      {
+        "speaker": "Ana",
+        "bosnian": "Želim kahvu.",
+        "english": "I want coffee. The m on želim marks I."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Želiš kahvu?",
+        "english": "Do you want coffee? The š marks you."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Želi kahvu.",
+        "english": "She wants coffee. The bare ending marks he or she."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Radim danas.",
+        "english": "I work today. The same I mark rides on raditi."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Radimo u Sarajevu.",
+        "english": "We work in Sarajevo. Mo marks we."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Pijem kahvu.",
+        "english": "I drink coffee. The same I mark rides on piti."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Imam pivo.",
+        "english": "I have a beer. Imam is the same who-map."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Govorim bosanski.",
+        "english": "I speak Bosnian. Another Book 1 chunk on the same row."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Idem kući.",
+        "english": "I go home. Ići uses idem, not a fake ićim."
+      },
+      {
+        "speaker": "Amira",
+        "bosnian": "Ideš na most?",
+        "english": "Are you going to the bridge? Ideš is the you form of ići."
+      },
+      {
+        "speaker": "Ana",
+        "bosnian": "Ovdje sam.",
+        "english": "I am here. Biti uses short sam."
+      },
+      {
+        "speaker": "Emir",
+        "bosnian": "Želite kahvu?",
+        "english": "Do you want coffee? Te is you-all or polite you."
+      }
+    ]
+  },
+  "try": {
+    "heading": "Try these",
+    "items": [
+      {
+        "id": "t1",
+        "prompt": "I want coffee. Which form?",
+        "options": [
+          "Želim kahvu.",
+          "Želiš kahvu.",
+          "Želi kahvu."
+        ],
+        "correctIndex": 0,
+        "explanation": "M marks I on željeti."
+      },
+      {
+        "id": "t2",
+        "prompt": "You want coffee. Which form?",
+        "options": [
+          "Želim kahvu.",
+          "Želiš kahvu.",
+          "Želimo kahvu."
+        ],
+        "correctIndex": 1,
+        "explanation": "Š marks you."
+      },
+      {
+        "id": "t3",
+        "prompt": "She wants coffee. Which form?",
+        "options": [
+          "Želim kahvu.",
+          "Želiš kahvu.",
+          "Želi kahvu."
+        ],
+        "correctIndex": 2,
+        "explanation": "Bare ending for on or ona in this family."
+      },
+      {
+        "id": "t4",
+        "prompt": "I work today. Which form?",
+        "options": [
+          "Radim danas.",
+          "Radiš danas.",
+          "Rade danas."
+        ],
+        "correctIndex": 0,
+        "explanation": "Same I mark on raditi."
+      },
+      {
+        "id": "t5",
+        "prompt": "I go home. Which form?",
+        "options": [
+          "Ićim kući.",
+          "Idem kući.",
+          "Idemo kući."
+        ],
+        "correctIndex": 1,
+        "explanation": "Ići pest. Present is idem."
+      },
+      {
+        "id": "t6",
+        "prompt": "I am here. Which form?",
+        "options": [
+          "Ovdje biti.",
+          "Biti ovdje without sam.",
+          "Ovdje sam."
+        ],
+        "correctIndex": 2,
+        "explanation": "Biti pest. Short sam is the everyday present."
+      },
+      {
+        "id": "t7",
+        "prompt": "We want coffee. Which form?",
+        "options": [
+          "Želim kahvu.",
+          "Želimo kahvu.",
+          "Žele kahvu."
+        ],
+        "correctIndex": 1,
+        "explanation": "Mo marks we."
+      },
+      {
+        "id": "t8",
+        "prompt": "Someone says Ja želim every time. What is the soft fix?",
+        "options": [
+          "Add ja after every verb ending.",
+          "Drop ja when m already marks I.",
+          "Switch to English word order only."
+        ],
+        "correctIndex": 1,
+        "explanation": "The ending carries who. Ja is optional."
+      },
+      {
+        "id": "t9",
+        "prompt": "Polite you want coffee. Which form?",
+        "options": [
+          "Želiš kahvu.",
+          "Želite kahvu.",
+          "Žele kahvu."
+        ],
+        "correctIndex": 1,
+        "explanation": "Te covers you-all and polite you."
+      },
+      {
+        "id": "t10",
+        "prompt": "They want coffee. Which form?",
+        "options": [
+          "Želi kahvu.",
+          "Želimo kahvu.",
+          "Žele kahvu."
+        ],
+        "correctIndex": 2,
+        "explanation": "Oni take -e on željeti: žele. -ju is a later preview on some verbs like piti, not today’s željeti map."
+      }
+    ]
+  },
+  "quiz": {
+    "title": "Quick check",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What is today’s system?",
+        "options": [
+          "Filing he, she, and leftover piles",
+          "The present who-map on doing-words",
+          "Eat versus eat up",
+          "Sam plus -la in the past"
+        ],
+        "correctIndex": 1,
+        "explanation": "Piles and jobs were earlier. Today is prezent."
+      },
+      {
+        "id": "q2",
+        "question": "The m on želim marks which who?",
+        "options": [
+          "you",
+          "I",
+          "they",
+          "nobody. Ja does all the work."
+        ],
+        "correctIndex": 1,
+        "explanation": "M is the I ending. Ja is optional."
+      },
+      {
+        "id": "q3",
+        "question": "Why is Idem kući correct, not Ićim kući?",
+        "options": [
+          "Because ići is a pest in the present",
+          "Because going has no present",
+          "Because kući forces a bare ending",
+          "Because Emir is leftover"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ići uses idem, ideš, ide. Memorize it."
+      },
+      {
+        "id": "q4",
+        "question": "Ovdje sam uses which pest verb?",
+        "options": [
+          "željeti",
+          "raditi",
+          "biti",
+          "piti"
+        ],
+        "correctIndex": 2,
+        "explanation": "Biti has the short present sam, si, je, smo, ste, su."
+      },
+      {
+        "id": "q5",
+        "question": "Želite kahvu is which who?",
+        "options": [
+          "I",
+          "he",
+          "you-all or polite you",
+          "they"
+        ],
+        "correctIndex": 2,
+        "explanation": "Te marks vi."
+      },
+      {
+        "id": "q6",
+        "question": "What comes next after the present map?",
+        "options": [
+          "Seven noun jobs on one page",
+          "Aspect. Eat versus eat up on two verbs",
+          "Clitics in second place only",
+          "Adjective matching only"
+        ],
+        "correctIndex": 1,
+        "explanation": "Chapter 9 is vid. Same coffee, new system."
+      }
+    ]
+  },
+  "next": {
+    "body": "You now have the present who-map behind želim, radim, and the Book 1 chunks, plus the pests idem and sam. Chapter 9 is why Bosnian often needs two verbs for one English verb, eat versus eat up. The who-endings stay. The finish-line changes.",
+    "chapter": 9
+  },
+  "imageSlots": {
+    "hero": "kahva",
+    "afterPattern": "kafana",
+    "afterNerd": "setnja"
+  },
+  "images": [
+    {
+      "id": "kahva",
+      "alt": "Polygon painting of an engraved Bosnian coffee set with džezva and cups",
+      "localPath": "/images/book1/day-03-coffee-set.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosnian_Coffee_D%C5%BEezva_2_(118608691).jpeg",
+      "author": "İhsan Işık",
+      "license": "CC BY 3.0",
+      "credit": "Bosnian coffee set, Baščaršija",
+      "grammarCaption": "Želim kahvu puts the I mark on the doing-word, which is the present map behind Ana’s Book 1 line."
+    },
+    {
+      "id": "kafana",
+      "alt": "Polygon painting of Morića Han courtyard café tables in Sarajevo",
+      "localPath": "/images/book1/day-04-cafe-family.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mori%C4%87a_Han_%281%29.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mori%C4%87a_Han_(1).JPG",
+      "author": "JoJan",
+      "license": "CC BY 3.0",
+      "credit": "Morića Han courtyard café, Sarajevo",
+      "grammarCaption": "Pijem, radiš, and žele are the same who-row on different people at the same table."
+    },
+    {
+      "id": "setnja",
+      "alt": "Polygon painting of people walking through Mostar old town streets",
+      "localPath": "/images/book1/day-05-mostar-stroll.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Old_town%2C_Mostar_%2815%29_%2829225114223%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AOld_town%2C_Mostar_%2815%29_%2829225114223%29.jpg",
+      "author": "Richard Mortel from Riyadh, Saudi Arabia",
+      "license": "CC BY 2.0",
+      "credit": "Mostar old town",
+      "grammarCaption": "Idem is the present of ići, a pest that refuses a fake ićim when someone is going now."
+    }
+  ],
+  "imagesNeeded": false,
+  "imageBriefs": [
+    "G.8a-c refs are not in attributions yet. Reused Book 1 coffee-set, Morića Han café, and Mostar stroll with original credits. A dedicated talking-heads panel for the who-row would sharpen the map later."
+  ]
+}

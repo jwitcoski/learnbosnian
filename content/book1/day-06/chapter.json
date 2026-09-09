@@ -264,7 +264,8 @@
         "bosnian": "Zdravo, Mrvica!",
         "english": "Hello, Mrvica!"
       }
-    ]
+    ],
+    "imageId": "travnik-streets"
   },
   "puzzles": [
     {
@@ -389,7 +390,8 @@
     },
     {
       "title": "Neum touches the sea",
-      "body": "Bosnia and Herzegovina has a short Adriatic coastline at Neum. A plan for sutra can mean salt air rather than only mountain towns. That matters when you practice danas and sutra as real calendar words. Time phrases feel more alive when they can point to an actual coast."
+      "body": "Bosnia and Herzegovina has a short Adriatic coastline at Neum. A plan for sutra can mean salt air rather than only mountain towns. That matters when you practice danas and sutra as real calendar words. Time phrases feel more alive when they can point to an actual coast.",
+      "imageId": "neum-beach"
     }
   ],
   "resources": [
@@ -670,6 +672,26 @@
       "author": "kallerna",
       "license": "CC BY-SA 4.0",
       "credit": "Pelješac Bridge"
+    },
+    {
+      "id": "travnik-streets",
+      "alt": "Visitors walk the old streets of Travnik beneath the clock tower",
+      "localPath": "/images/book1/day-06-travnik-streets.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Travnik_%E2%80%93_Lon%C4%8Darica_d%C5%BEamija.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3ATravnik_Altstadt_2.JPG",
+      "author": "Julian Nyča",
+      "license": "CC BY-SA 3.0",
+      "credit": "Travnik old town"
+    },
+    {
+      "id": "neum-beach",
+      "alt": "Families relax on the Adriatic beach at Neum",
+      "localPath": "/images/book1/day-06-neum-beach.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Feral_Beach_on_the_souther_side_of_Neum_peninsula%2C_2024.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File%3AFeral_Beach_on_the_souther_side_of_Neum_peninsula%2C_2024.jpg",
+      "author": "Bdx",
+      "license": "CC0",
+      "credit": "Neum beach"
     }
   ],
   "imagesNeeded": false,

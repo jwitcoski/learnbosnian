@@ -1,0 +1,31 @@
+{
+  "verdict": "pass",
+  "summary": "ch12 learner-facing credits/captions clean after Manifest attribution sync (Morića Han / Baščaršija coffee set / friends toasting). Sebilj only in reviewerNotes (non-learner). Handbook: 0 em/en dashes in learner-facing fields. Book 2 mentions are intentional contrast distractors/meta (ch00 try + outline.summary), left. Mostar appears only as accurate photo credits in ch08/ch10 (and map alt in ch05), not Sebilj leftovers.",
+  "scannedAt": "2026-09-09T15:10:53.206710+00:00",
+  "blockerCount": 0,
+  "majorCount": 0,
+  "minorCount": 0,
+  "ch12LearnerCaptionCredits": [
+    "Morića Han courtyard café, Sarajevo",
+    "Bosnian coffee set, Baščaršija",
+    "Friends toasting"
+  ],
+  "book2ReferencesLeftIntentional": [
+    "content/grammar/chapter-00/chapter.json try.items[4] options/explanation",
+    "content/grammar/outline.json summary"
+  ],
+  "mostarCreditsNotEdited": [
+    "chapter-08 images[2] credit Mostar old town",
+    "chapter-10 images[0] credit Mostar old town"
+  ],
+  "filesTouched": [
+    "exports/grammar-copy-reaudit.json"
+  ],
+  "nextArtifactToEdit": "none — ch12 caption skim + dash/Book2 pass clear",
+  "requiredHumanChecks": [
+    "Optional later: replace Mostar-credited reused photos in ch08/ch10 if Image team wants wider geography.",
+    "Status still draft — do not publish until human lock."
+  ],
+  "noCommit": true,
+  "statusUnchanged": "draft"
+}

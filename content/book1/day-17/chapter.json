@@ -253,7 +253,8 @@
         "bosnian": "Hvala. Račun kasnije, molim.",
         "english": "Thanks. The bill later, please."
       }
-    ]
+    ],
+    "imageId": "sarajevo-restaurant"
   },
   "puzzles": [
     {
@@ -358,7 +359,8 @@
   "funFacts": [
     {
       "title": "Klepe come with sauce and garlic",
-      "body": "Klepe are boiled dumplings that often arrive with a savory sauce. Many diners add a garlic yogurt topping at the table. The dish feels homey even in a busy restaurant. Ana's order makes this soft dumpling worth learning by heart."
+      "body": "Klepe are boiled dumplings that often arrive with a savory sauce. Many diners add a garlic yogurt topping at the table. The dish feels homey even in a busy restaurant. Ana's order makes this soft dumpling worth learning by heart.",
+      "imageId": "cevapi-table"
     },
     {
       "title": "Japrak wraps the vine leaf",
@@ -663,6 +665,26 @@
       "author": "José Sáez",
       "license": "CC BY-SA 3.0",
       "credit": "Bosnia–Croatia border"
+    },
+    {
+      "id": "sarajevo-restaurant",
+      "alt": "Diners share a meal at a Sarajevo restaurant",
+      "localPath": "/images/book1/day-17-sarajevo-restaurant.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Restaurant%20with%20Cool%20Decor,%20Sarajevo,%20Bosnia%20(3802594664).jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Restaurant_with_Cool_Decor%2C_Sarajevo%2C_Bosnia_%283802594664%29.jpg",
+      "author": "Peretz Partensky from San Francisco, USA",
+      "license": "CC BY-SA 2.0",
+      "credit": "Sarajevo restaurant"
+    },
+    {
+      "id": "cevapi-table",
+      "alt": "A shared plate of ćevapi arrives at a Bosnian table",
+      "localPath": "/images/book1/day-17-cevapi-table.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cevapi%20s%20kajmakom.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Cevapi_s_kajmakom.jpg",
+      "author": "Christian Paul from Vancouver, Canada",
+      "license": "CC BY-SA 2.0",
+      "credit": "Restaurant table, Bosnia"
     }
   ],
   "imagesNeeded": false,

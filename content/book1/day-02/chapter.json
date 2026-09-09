@@ -213,6 +213,7 @@
   "conversation": {
     "title": "Kod Sebilja",
     "setting": "Baščaršija square by the Sebilj fountain. Pigeons scatter. Emir holds a small sign that says ANA.",
+    "imageId": "sebilj-meeting",
     "lines": [
       {
         "speaker": "Emir",
@@ -361,7 +362,8 @@
     },
     {
       "title": "Drago mi je is warm rather than stiff",
-      "body": "Drago mi je is the standard way to say nice to meet you. It sounds warm in cafés, offices, and first introductions. Ana and Emir use it because real meetings need more than a name. Learn it as one ready phrase, then say it like you mean the welcome."
+      "body": "Drago mi je is the standard way to say nice to meet you. It sounds warm at outdoor cafés in Sarajevo, Mostar, Tuzla, and small towns across the country. Ana and Emir use it because real meetings need more than a name. Learn it as one ready phrase, then say it like you mean the welcome.",
+      "imageId": "mostar-cafe"
     },
     {
       "title": "Pigeons optional, rendezvous required",
@@ -603,7 +605,8 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Day_in_Sarajevo.jpg",
       "author": "Daniel Wabyick",
       "license": "CC BY 2.0",
-      "credit": "Sebilj, Baščaršija"
+      "credit": "Sebilj, Baščaršija",
+      "objectPosition": "50% 40%"
     },
     {
       "id": "sebilj-close",
@@ -613,7 +616,8 @@
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_-_Sebilj_fountain.jpg",
       "author": "JoJan",
       "license": "CC BY 3.0",
-      "credit": "Sebilj fountain"
+      "credit": "Sebilj fountain",
+      "objectPosition": "50% 45%"
     },
     {
       "id": "bascarsija-street",
@@ -624,6 +628,27 @@
       "author": "Stechshotme",
       "license": "CC BY-SA 4.0",
       "credit": "Baščaršija street"
+    },
+    {
+      "id": "sebilj-meeting",
+      "alt": "Polygon painting of tourists photographing the Sebilj fountain in Baščaršija",
+      "localPath": "/images/book1/day-02-sebilj-meeting.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sarajevo_-_Sebilj_fountain.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_-_Sebilj_fountain.jpg",
+      "author": "JoJan",
+      "license": "CC BY 3.0",
+      "credit": "Tourists at Sebilj, Sarajevo",
+      "objectPosition": "50% 72%"
+    },
+    {
+      "id": "mostar-cafe",
+      "alt": "Polygon painting of the Coco Loco outdoor café in Mostar",
+      "localPath": "/images/book1/day-02-mostar-cafe.png",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Mostar_-_Cafe_Coco_Loco_%2849033682451%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mostar_-_Cafe_Coco_Loco_(49033682451).jpg",
+      "author": "Fred Romero",
+      "license": "CC BY 2.0",
+      "credit": "Coco Loco café, Mostar"
     },
     {
       "id": "civic-presidency",
