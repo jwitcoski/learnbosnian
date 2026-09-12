@@ -64,6 +64,16 @@ const routes = [
     exact: true,
     component: "Attributions",
   },
+  {
+    path: "/about",
+    exact: true,
+    component: "About",
+  },
+  {
+    path: "/privacy",
+    exact: true,
+    component: "Privacy",
+  },
 ];
 
 export default routes;

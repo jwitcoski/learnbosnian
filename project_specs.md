@@ -27,15 +27,15 @@
 
 | Batch | Lessons | Status |
 |-------|---------|--------|
-| Exemplar | 1 | draft (mold) |
-| Aligned | 2–3 | draft (same fashion) |
-| A | 4–6 | draft (same fashion) |
-| B | 7 | draft (review) |
-| C | 8–10 | draft (same fashion) |
-| D | 11–15 | draft (weather, park, people, review, directions) |
-| E | 16–20 | draft (bus, restaurant, hobbies, holidays, phone) |
-| F | 21 | draft (section 3 review) |
-| G–H | 22–30 | draft (Section 4 travel/longer stay + finale) |
+| Exemplar | 1 | published |
+| Aligned | 2–3 | published |
+| A | 4–6 | published |
+| B | 7 | published |
+| C | 8–10 | published |
+| D | 11–15 | published |
+| E | 16–20 | published |
+| F | 21 | published |
+| G–H | 22–30 | published |
 
 ## Characters
 
@@ -46,36 +46,36 @@ Ana (learner), Emir (guide), Amira (café), Mrvica (cat)
 | Lesson | Title | Status | Reviewer notes | YouTube |
 |-----|-------|--------|----------------|---------|
 | 0 | Zašto bosanski? | published | Orientation live — why Bosnian, etymology, vs HR/SR, speakers, audience; civic Dayton entities (general frame) | |
-| 1 | Zdravo, Sarajevo! | draft | Exemplar — needs human review before publish | |
-| 2 | Ja sam Ana | draft | Full draft (biti, introductions, Sebilj) — needs human review | script ready |
-| 3 | Brojevi i kahva | draft | Full draft (1–20, kahva order, Amira’s) — needs human review | script ready |
-| 4 | Porodica Mrvice | draft | Full draft (family, moj/moja, café family); civic tripartite Presidency structure only — needs human review | script ready |
-| 5 | Gdje je Mostar? | draft | Full draft (gdje/ovdje/tamo, u/na/kod, Mostar tease) — needs human review | script ready |
-| 6 | Koliko je sati? | draft | Time + weekdays; culture widened to Travnik/Una/Neum (not Sarajevo-only) — needs human review | script ready |
-| 7 | Ponavljanje | draft | Review + Jajce/Blagaj/Počitelj postcards; civic two schools under one roof — needs human review | script ready |
-| 8 | Volim burek | draft | Full draft (food, volim/ne volim, Livno postcard) — needs human review | script ready |
-| 9 | U prodavnici | draft | Full draft (shopping, želim, Tuzla market) — needs human review | script ready |
-| 10 | Moja soba | draft | Full draft (home, imati, Stolac/Radimlja) — needs human review | script ready |
-| 11 | Kakvo je vrijeme? | draft | Full draft (weather, Trebević/Jahorina, inversion civic) — needs human review | script ready |
-| 12 | Idemo u park | draft | Full draft (invitations, Vrelo Bosne, 2014 floods civic) — needs human review | script ready |
-| 13 | Ljudi iz BiH | draft | Full draft (place/language identity, Brčko, district civic) — needs human review | script ready |
-| 14 | Ponavljanje | draft | Review of Lessons 8 to 13 plus Banja Luka postcards — needs human review | script ready |
-| 15 | Desna ili lijeva? | draft | Full draft (directions, Latin Bridge/Konjic, landmine civic) — needs human review | script ready |
-| 16 | Na autobus | draft | Civic locked to Corridor Vc only | script ready |
-| 17 | Dobar tek! | draft | Civic locked to neighbor dual citizenship only | script ready |
-| 18 | Sport i hobiji | draft | Civic locked to cantonal universities and private colleges | script ready |
-| 19 | Praznici | draft | Civic locked to Gulf-funded mosque reconstruction | script ready |
-| 20 | Telefonski poziv | draft | Civic locked to Southern Interconnection gas deal | script ready |
-| 21 | Ponavljanje | draft | Section 3 review; civic rural bus loss | script ready |
-| 22 | Danas u Travniku | draft | Civic winding roads / traffic deaths | script ready |
-| 23 | Šta radiš? | draft | Civic BHRT Eurovision debt | script ready |
-| 24 | Planine i rijeke | draft | Civic Jahorina vs Bjelašnica/Igman | script ready |
-| 25 | Kod doktora | draft | Civic 2013 JMBG baby ID crisis | script ready |
-| 26 | Stanovanje | draft | Civic returnee pressure in RS | script ready |
-| 27 | Posao i škola | draft | Civic RS secession challenges | script ready |
-| 28 | Mostar napokon! | draft | Civic Međugorje / church judgment | script ready |
-| 29 | Pisma iz BiH | draft | Civic genocide denial | script ready |
-| 30 | Završna proslava | draft | Civic Night Wolves in RS | script ready |
+| 1 | Zdravo, Sarajevo! | published | Live on site | |
+| 2 | Ja sam Ana | published | Full draft (biti, introductions, Sebilj) — needs human review | script ready |
+| 3 | Brojevi i kahva | published | Full draft (1–20, kahva order, Amira’s) — needs human review | script ready |
+| 4 | Porodica Mrvice | published | Full draft (family, moj/moja, café family); civic tripartite Presidency structure only — needs human review | script ready |
+| 5 | Gdje je Mostar? | published | Full draft (gdje/ovdje/tamo, u/na/kod, Mostar tease) — needs human review | script ready |
+| 6 | Koliko je sati? | published | Time + weekdays; culture widened to Travnik/Una/Neum (not Sarajevo-only) — needs human review | script ready |
+| 7 | Ponavljanje | published | Review + Jajce/Blagaj/Počitelj postcards; civic two schools under one roof — needs human review | script ready |
+| 8 | Volim burek | published | Full draft (food, volim/ne volim, Livno postcard) — needs human review | script ready |
+| 9 | U prodavnici | published | Full draft (shopping, želim, Tuzla market) — needs human review | script ready |
+| 10 | Moja soba | published | Full draft (home, imati, Stolac/Radimlja) — needs human review | script ready |
+| 11 | Kakvo je vrijeme? | published | Full draft (weather, Trebević/Jahorina, inversion civic) — needs human review | script ready |
+| 12 | Idemo u park | published | Full draft (invitations, Vrelo Bosne, 2014 floods civic) — needs human review | script ready |
+| 13 | Ljudi iz BiH | published | Full draft (place/language identity, Brčko, district civic) — needs human review | script ready |
+| 14 | Ponavljanje | published | Review of Lessons 8 to 13 plus Banja Luka postcards — needs human review | script ready |
+| 15 | Desna ili lijeva? | published | Full draft (directions, Latin Bridge/Konjic, landmine civic) — needs human review | script ready |
+| 16 | Na autobus | published | Civic locked to Corridor Vc only | script ready |
+| 17 | Dobar tek! | published | Civic locked to neighbor dual citizenship only | script ready |
+| 18 | Sport i hobiji | published | Civic locked to cantonal universities and private colleges | script ready |
+| 19 | Praznici | published | Civic locked to Gulf-funded mosque reconstruction | script ready |
+| 20 | Telefonski poziv | published | Civic locked to Southern Interconnection gas deal | script ready |
+| 21 | Ponavljanje | published | Section 3 review; civic rural bus loss | script ready |
+| 22 | Danas u Travniku | published | Civic winding roads / traffic deaths | script ready |
+| 23 | Šta radiš? | published | Civic BHRT Eurovision debt | script ready |
+| 24 | Planine i rijeke | published | Civic Jahorina vs Bjelašnica/Igman | script ready |
+| 25 | Kod doktora | published | Civic 2013 JMBG baby ID crisis | script ready |
+| 26 | Stanovanje | published | Civic returnee pressure in RS | script ready |
+| 27 | Posao i škola | published | Civic RS secession challenges | script ready |
+| 28 | Mostar napokon! | published | Civic Međugorje / church judgment | script ready |
+| 29 | Pisma iz BiH | published | Civic genocide denial | script ready |
+| 30 | Završna proslava | published | Civic Night Wolves in RS | script ready |
 
 ## Books 2–3
 
@@ -108,6 +108,8 @@ Parallel notebook, not Book 2. Title: *How to Speak Bosnian: Grammar*. Lives at 
 - [x] Lessons 11–15 full drafts (weather, park, people, review, directions)
 - [x] Lessons 16–20 full drafts (bus, restaurant, hobbies, holidays, phone)
 - [x] Lessons 21–30 full drafts (review through finale)
+- [x] Book 1 Lessons 0–30 marked published on the site
+- [x] About, Privacy, sitemap.xml for Search Console / AdSense
 
 ## Voice recording
 

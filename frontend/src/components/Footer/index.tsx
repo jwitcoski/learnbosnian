@@ -54,9 +54,11 @@ const Footer = () => {
               <Title>Study</Title>
               <Large to="/learn">Curriculum</Large>
               <Large to="/dictionary">Dictionary</Large>
-              <Large to="/learn">Book series</Large>
+              <Large to="/learn">Learn</Large>
               <Large to="/learn/book/1">Book 1</Large>
               <Large to="/learn/grammar">Grammar</Large>
+              <Large to="/about">About</Large>
+              <Large to="/privacy">Privacy</Large>
               <Large to="/attributions">Photo attributions</Large>
             </Col>
             <Col lg={6} md={6} sm={12} xs={12}>
@@ -68,8 +70,11 @@ const Footer = () => {
               >
                 <Para>YouTube channel</Para>
               </a>
-              <Link to="/learn">
-                <Para>Books 2 &amp; 3 (not started)</Para>
+              <Link to="/about">
+                <Para>About</Para>
+              </Link>
+              <Link to="/privacy">
+                <Para>Privacy</Para>
               </Link>
               <Link to="/attributions">
                 <Para>Photo credits</Para>

@@ -44,7 +44,7 @@ const Book = () => {
       <h1>Book 1 curriculum</h1>
       <p>
         Start with Lesson 0 (Why Bosnian?). Then follow Ana, Emir, Amira, and
-        Mrvica across Bosnia and Herzegovina. New lessons go live after review.
+        Mrvica across Bosnia and Herzegovina.
       </p>
       <p>
         Book 1 has Lesson 0 plus Lessons 1 to 30 in four sections. Each section
