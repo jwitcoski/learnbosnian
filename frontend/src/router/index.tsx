@@ -2,6 +2,7 @@ import { lazy, Suspense } from "react";
 import { Switch, Route, Redirect } from "react-router-dom";
 import Footer from "../components/Footer";
 import Header from "../components/Header";
+import GoogleAnalytics from "../common/GoogleAnalytics";
 import ScrollToTopOnNavigate from "../common/ScrollToTopOnNavigate";
 import routes from "./config";
 import { Styles } from "../styles/styles";
@@ -11,6 +12,7 @@ const Router = () => {
     <Suspense fallback={null}>
       <Styles />
       <ScrollToTopOnNavigate />
+      <GoogleAnalytics />
       <Header />
       <Switch>
         <Route

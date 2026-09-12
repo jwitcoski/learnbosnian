@@ -92,3 +92,13 @@ resource "aws_route53_record" "www_aaaa" {
     evaluate_target_health = false
   }
 }
+
+resource "aws_route53_record" "google_site_verification" {
+  zone_id = data.aws_route53_zone.site.zone_id
+  name    = var.site_domain
+  type    = "TXT"
+  ttl     = 300
+  records = [
+    "google-site-verification=u8J57g5xEeWhW84LzU13zDOtpt72HSaq5A_2ve22gJ4"
+  ]
+}
