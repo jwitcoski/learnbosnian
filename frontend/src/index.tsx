@@ -5,6 +5,7 @@ import 'antd/dist/antd.min.css';
 
 import Router from "./router";
 import i18n from "./translation";
+import { capturePrerenderedHtml } from "./common/prerender";
 
 const App = () => (
   <BrowserRouter>
@@ -14,4 +15,7 @@ const App = () => (
   </BrowserRouter>
 );
 
-ReactDOM.render(<App />, document.getElementById("root"));
+const rootElement = document.getElementById("root") as HTMLElement;
+capturePrerenderedHtml(rootElement);
+
+ReactDOM.render(<App />, rootElement);

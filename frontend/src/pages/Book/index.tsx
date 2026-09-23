@@ -16,20 +16,8 @@ const Book = () => {
   const { book: bookParam } = useParams<{ book: string }>();
   const book = Number.parseInt(bookParam, 10);
 
-  if (Number.isNaN(book) || book < 1) {
-    return <Redirect to="/learn" />;
-  }
-
   if (book !== 1) {
-    return (
-      <LessonPage>
-        <p>
-          <Link to="/learn">← All books</Link>
-        </p>
-        <h1>Book {book}</h1>
-        <p style={{ color: "var(--color-muted)" }}>Not started</p>
-      </LessonPage>
-    );
+    return <Redirect to="/learn" />;
   }
 
   const chapters = listChapters();

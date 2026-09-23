@@ -43,12 +43,12 @@ const Footer = () => {
             <Col lg={10} md={10} sm={12} xs={24}>
               <Language>How to Speak Bosnian</Language>
               <Para>
-                Book 1, Grammar, and later books live on the Learn page. Latin
+                Book 1 and the Grammar notebook live on the Learn page. Latin
                 script. A cat named Mrvica.
               </Para>
-              <a href="mailto:info@howtospeakbosnian.com">
+              <Link to="/contact">
                 <Chat>Contact</Chat>
-              </a>
+              </Link>
             </Col>
             <Col lg={8} md={8} sm={12} xs={12}>
               <Title>Study</Title>
@@ -72,6 +72,9 @@ const Footer = () => {
               </a>
               <Link to="/about">
                 <Para>About</Para>
+              </Link>
+              <Link to="/contact">
+                <Para>Contact</Para>
               </Link>
               <Link to="/privacy">
                 <Para>Privacy</Para>

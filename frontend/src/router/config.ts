@@ -74,6 +74,11 @@ const routes = [
     exact: true,
     component: "Privacy",
   },
+  {
+    path: "/contact",
+    exact: true,
+    component: "Contact",
+  },
 ];
 
 export default routes;

@@ -342,7 +342,10 @@ export default function GrammarShell({ chapter }: Props) {
           </div>
           <h1>{chapter.title}</h1>
           <p className="meta">
-            {chapter.titleEn}. {chapter.theme}
+            {/[.!?]$/.test(chapter.titleEn)
+              ? chapter.titleEn
+              : `${chapter.titleEn}.`}{" "}
+            {chapter.theme}
           </p>
         </div>
       </HeroBand>

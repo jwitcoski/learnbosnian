@@ -110,6 +110,8 @@ Parallel notebook, not Book 2. Title: *How to Speak Bosnian: Grammar*. Lives at 
 - [x] Lessons 21–30 full drafts (review through finale)
 - [x] Book 1 Lessons 0–30 marked published on the site
 - [x] About, Privacy, sitemap.xml for Search Console / AdSense
+- [x] AdSense "low value content" fixes: build-time prerender of every sitemap URL (per-page title, description, canonical) + CloudFront URL rewrite; Contact page; working mailto contact form; Books 2/3 placeholders removed
+- [ ] Deploy and confirm live pages return prerendered HTML, then request AdSense review (wait ~2 weeks)
 
 ## Voice recording
 

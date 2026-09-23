@@ -2,8 +2,6 @@ import { lazy } from "react";
 import { Link, useHistory } from "react-router-dom";
 import { book1Outline } from "../../data/loadChapters";
 import { grammarOutline } from "../../data/loadGrammar";
-import book2Outline from "../../data/book2/outline.json";
-import book3Outline from "../../data/book3/outline.json";
 import {
   HomeRoot,
   Hero,
@@ -92,8 +90,7 @@ const Home = () => {
             Bosnian hangs meaning on the ends of words, where English hangs it
             on little words and word order. The site exists so you can speak
             anyway. Book 1 gives you ready phrases in the present tense. The
-            Grammar book is the notebook beside that walk. Books 2 and 3 wait
-            until you want past-tense stories and longer talk. Every page uses
+            Grammar book is the notebook beside that walk. Every page uses
             Latin script.
           </p>
           <SolidCta type="button" onClick={() => history.push("/learn")}>
@@ -108,9 +105,9 @@ const Home = () => {
         <h2>The books</h2>
         <p className="support">
           The Learn page holds the books. Book 1 is the walk through town in
-          the present tense. Grammar is the notebook for endings. Books 2 and 3
-          pick up past stories and longer talk. The dictionary and YouTube sit
-          in the header when you want a word or a video.
+          the present tense. Grammar is the notebook for endings. The
+          dictionary and YouTube sit in the header when you want a word or a
+          video.
         </p>
         <BookGrid>
           <Link to="/learn/book/1">
@@ -133,22 +130,6 @@ const Home = () => {
               same small words you meet in Book 1.
             </p>
           </Link>
-          <div className="soon">
-            <div className="kicker">Not started</div>
-            <h3>Book 2</h3>
-            <p>
-              {book2Outline.title}. Past-tense stories and more of the country,
-              after Book 1 stays in the present.
-            </p>
-          </div>
-          <div className="soon">
-            <div className="kicker">Not started</div>
-            <h3>Book 3</h3>
-            <p>
-              {book3Outline.title}. Longer conversation and writing, once the
-              earlier books have done their job.
-            </p>
-          </div>
         </BookGrid>
       </Section>
 
@@ -160,8 +141,7 @@ const Home = () => {
           <p>
             If you want a story while you learn, that is Book 1. Ana drinks
             kahva at Amira’s. Emir gets a little lost with her. Mrvica steals
-            the scene. It is survival Bosnian for a visit or early life here,
-            and it is only one book on the shelf.
+            the scene. It is survival Bosnian for a visit or early life here.
           </p>
           <SolidCta type="button" onClick={() => history.push("/learn/book/1")}>
             Open Book 1

@@ -16,8 +16,6 @@ const SORTS: { id: SortMode; label: string }[] = [
 
 const BOOKS: { id: number; label: string; ready: boolean }[] = [
   { id: 1, label: "Book 1", ready: true },
-  { id: 2, label: "Book 2 · soon", ready: false },
-  { id: 3, label: "Book 3 · soon", ready: false },
 ];
 
 function compareBosnian(a: DictionaryEntry, b: DictionaryEntry) {
@@ -74,8 +72,8 @@ const Dictionary = () => {
     <LessonPage>
       <h1>Dictionary</h1>
       <p>
-        Words from lessons you can open now. Tap a word to hear it. Pick a book
-        to see its list. Latin script only.
+        Every word from the Book 1 lessons. Tap a word to hear it. Latin
+        script only.
       </p>
       <p>
         <Link to={`/learn/book/${book}`}>← Book {book} curriculum</Link>
@@ -87,38 +85,40 @@ const Dictionary = () => {
         placeholder="Search Bosnian or English…"
         style={{ marginBottom: "1rem" }}
       />
-      <div
-        role="group"
-        aria-label="Dictionary book"
-        style={{
-          display: "flex",
-          flexWrap: "wrap",
-          alignItems: "center",
-          gap: "0.45rem",
-          marginBottom: "0.85rem",
-        }}
-      >
-        <span style={{ color: "var(--color-muted)", marginRight: "0.25rem" }}>
-          Book
-        </span>
-        {BOOKS.map((opt) => {
-          const active = book === opt.id;
-          return (
-            <button
-              key={opt.id}
-              type="button"
-              aria-pressed={active}
-              disabled={!opt.ready}
-              onClick={() => {
-                if (opt.ready) setBook(opt.id);
-              }}
-              style={chipStyle(active, !opt.ready)}
-            >
-              {opt.label}
-            </button>
-          );
-        })}
-      </div>
+      {BOOKS.length > 1 && (
+        <div
+          role="group"
+          aria-label="Dictionary book"
+          style={{
+            display: "flex",
+            flexWrap: "wrap",
+            alignItems: "center",
+            gap: "0.45rem",
+            marginBottom: "0.85rem",
+          }}
+        >
+          <span style={{ color: "var(--color-muted)", marginRight: "0.25rem" }}>
+            Book
+          </span>
+          {BOOKS.map((opt) => {
+            const active = book === opt.id;
+            return (
+              <button
+                key={opt.id}
+                type="button"
+                aria-pressed={active}
+                disabled={!opt.ready}
+                onClick={() => {
+                  if (opt.ready) setBook(opt.id);
+                }}
+                style={chipStyle(active, !opt.ready)}
+              >
+                {opt.label}
+              </button>
+            );
+          })}
+        </div>
+      )}
       <div
         role="group"
         aria-label="Sort dictionary"

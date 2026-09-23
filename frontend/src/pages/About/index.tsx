@@ -53,6 +53,8 @@ const About = () => {
       <p>
         <Link to="/learn/book/1">Open Book 1</Link>
         {" · "}
+        <Link to="/contact">Contact</Link>
+        {" · "}
         <Link to="/privacy">Privacy policy</Link>
         {" · "}
         <Link to="/attributions">Photo credits</Link>

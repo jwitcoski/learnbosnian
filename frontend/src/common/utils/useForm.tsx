@@ -7,6 +7,8 @@ interface IValues {
   message: string;
 }
 
+export const CONTACT_EMAIL = "info@howtospeakbosnian.com";
+
 const initialValues: IValues = {
   name: "",
   email: "",
@@ -22,49 +24,23 @@ export const useForm = (validate: { (values: IValues): IValues }) => {
     errors: { ...initialValues },
   });
 
-  const handleSubmit = async (event: React.ChangeEvent<HTMLFormElement>) => {
+  const handleSubmit = (event: React.ChangeEvent<HTMLFormElement>) => {
     event.preventDefault();
     const values = formState.values;
     const errors = validate(values);
     setFormState((prevState) => ({ ...prevState, errors }));
+    if (!Object.values(errors).every((error) => error === "")) return;
 
-    const url = ""; // Fill in your API URL here
+    const subject = `Message from ${values.name}`;
+    const body = `${values.message}\n\n${values.name}\n${values.email}`;
+    window.location.href = `mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent(
+      subject
+    )}&body=${encodeURIComponent(body)}`;
 
-    try {
-      if (Object.values(errors).every((error) => error === "")) {
-        const response = await fetch(url, {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify(values),
-        });
-
-        if (!response.ok) {
-          notification["error"]({
-            message: "Error",
-            description:
-              "We couldn’t send your message. Wait a moment and try again.",
-          });
-        } else {
-          event.target.reset();
-          setFormState(() => ({
-            values: { ...initialValues },
-            errors: { ...initialValues },
-          }));
-
-          notification["success"]({
-            message: "Success",
-            description: "Message sent. Thanks.",
-          });
-        }
-      }
-    } catch (error) {
-      notification["error"]({
-        message: "Error",
-        description: "Something went wrong on submit. Try again in a moment.",
-      });
-    }
+    notification["info"]({
+      message: "Opening your email app",
+      description: `If nothing opens, write to ${CONTACT_EMAIL}.`,
+    });
   };
 
   const handleChange = (

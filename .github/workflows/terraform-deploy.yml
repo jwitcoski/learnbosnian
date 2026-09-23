@@ -100,6 +100,7 @@ jobs:
           terraform import -var="stage=${STAGE}" aws_s3_bucket.frontend "${S3_BUCKET}"
           terraform import -var="stage=${STAGE}" aws_dynamodb_table.main "learnbosnian-table-${STAGE}"
           terraform import -var="stage=${STAGE}" aws_cloudfront_distribution.frontend "${CLOUDFRONT_DISTRIBUTION_ID}"
+          terraform import -var="stage=${STAGE}" aws_cloudfront_function.frontend_rewrite "learnbosnian-frontend-rewrite-${STAGE}"
 
           SITE_ZONE_ID=$(aws route53 list-hosted-zones-by-name --dns-name howtospeakbosnian.com. \
             --query "HostedZones[?Name=='howtospeakbosnian.com.'].Id | [0]" --output text | sed 's|/hostedzone/||')
@@ -225,6 +226,7 @@ jobs:
           cd frontend
           npm install
           CI=false npm run build
+          npm run prerender
 
       - name: Deploy frontend to S3
         run: |

@@ -55,6 +55,29 @@ resource "aws_cloudfront_origin_access_control" "frontend" {
   signing_protocol                  = "sigv4"
 }
 
+# Serve prerendered pages (frontend/scripts/prerender.cjs): /learn -> /learn/index.html,
+# / -> /home/index.html. Missing files still hit the SPA error fallback below.
+resource "aws_cloudfront_function" "frontend_rewrite" {
+  name    = "learnbosnian-frontend-rewrite-${var.stage}"
+  runtime = "cloudfront-js-2.0"
+  comment = "Map clean URLs to prerendered index.html files"
+  publish = true
+  code    = <<-EOT
+    function handler(event) {
+      var request = event.request;
+      var uri = request.uri;
+      if (uri === "/") {
+        request.uri = "/home/index.html";
+      } else if (uri.charAt(uri.length - 1) === "/") {
+        request.uri = uri + "index.html";
+      } else if (uri.lastIndexOf(".") < uri.lastIndexOf("/")) {
+        request.uri = uri + "/index.html";
+      }
+      return request;
+    }
+  EOT
+}
+
 resource "aws_cloudfront_distribution" "frontend" {
   enabled             = true
   is_ipv6_enabled     = true
@@ -82,6 +105,11 @@ resource "aws_cloudfront_distribution" "frontend" {
       cookies {
         forward = "none"
       }
+    }
+
+    function_association {
+      event_type   = "viewer-request"
+      function_arn = aws_cloudfront_function.frontend_rewrite.arn
     }
   }
 

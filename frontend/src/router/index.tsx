@@ -1,18 +1,24 @@
-import { lazy, Suspense } from "react";
+import { lazy, Suspense, useState } from "react";
 import { Switch, Route, Redirect } from "react-router-dom";
 import Footer from "../components/Footer";
 import Header from "../components/Header";
-import GoogleAnalytics from "../common/GoogleAnalytics";
 import ScrollToTopOnNavigate from "../common/ScrollToTopOnNavigate";
+import DocumentTitle from "../common/DocumentTitle";
+import { takePrerenderedHtml } from "../common/prerender";
 import routes from "./config";
 import { Styles } from "../styles/styles";
 
+const PrerenderedFallback = () => {
+  const [html] = useState(takePrerenderedHtml);
+  return html ? <div dangerouslySetInnerHTML={{ __html: html }} /> : null;
+};
+
 const Router = () => {
   return (
-    <Suspense fallback={null}>
+    <Suspense fallback={<PrerenderedFallback />}>
       <Styles />
       <ScrollToTopOnNavigate />
-      <GoogleAnalytics />
+      <DocumentTitle />
       <Header />
       <Switch>
         <Route
